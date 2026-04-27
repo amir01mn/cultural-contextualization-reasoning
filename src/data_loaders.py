@@ -76,7 +76,7 @@ def load_candle(data_path: str, limit: int = 0) -> Iterator[dict]:
 # ---------------------------------------------------------------------------
 def load_arabculture(limit: int = 0) -> Iterator[dict]:
     from datasets import load_dataset
-    ds = load_dataset("MBZUAI/ArabCulture", split="test", trust_remote_code=True)
+    ds = load_dataset("MBZUAI/ArabCulture", split="test")
     for i, row in enumerate(ds):
         if limit and i >= limit:
             break
@@ -95,7 +95,7 @@ def load_arabculture(limit: int = 0) -> Iterator[dict]:
 # ---------------------------------------------------------------------------
 def load_diwali(limit: int = 0) -> Iterator[dict]:
     from datasets import load_dataset
-    ds = load_dataset("nlip/DIWALI", split="train", trust_remote_code=True)
+    ds = load_dataset("nlip/DIWALI", split="train")
     for i, row in enumerate(ds):
         if limit and i >= limit:
             break
@@ -117,24 +117,28 @@ def load_diwali(limit: int = 0) -> Iterator[dict]:
 # ---------------------------------------------------------------------------
 def load_culturebank(limit: int = 0) -> Iterator[dict]:
     from datasets import load_dataset
-    ds = load_dataset("SALT-NLP/CultureBank", split="train", trust_remote_code=True)
-    for i, row in enumerate(ds):
-        if limit and i >= limit:
-            break
-        parts = [
-            row.get("context") or "",
-            row.get("goal") or "",
-            row.get("actor_behavior") or "",
-            row.get("other_descriptions") or "",
-        ]
-        text = " | ".join(p for p in parts if p).strip(" |")
-        group = row.get("cultural_group") or "general"
-        meta = {
-            "topic": row.get("topic", ""),
-            "relation": row.get("relation", ""),
-            "agreement": row.get("agreement", None),
-        }
-        yield _normalize(text, group, "culturebank", meta)
+    # CultureBank has 'tiktok' and 'reddit' splits; concatenate both
+    count = 0
+    for split in ("tiktok", "reddit"):
+        ds = load_dataset("SALT-NLP/CultureBank", split=split)
+        for row in ds:
+            if limit and count >= limit:
+                return
+            parts = [
+                row.get("context") or "",
+                row.get("goal") or "",
+                row.get("actor_behavior") or "",
+                row.get("other_descriptions") or "",
+            ]
+            text = " | ".join(p for p in parts if p).strip(" |")
+            group = row.get("cultural_group") or "general"
+            meta = {
+                "topic": row.get("topic", ""),
+                "relation": row.get("relation", ""),
+                "agreement": row.get("agreement", None),
+            }
+            yield _normalize(text, group, "culturebank", meta)
+            count += 1
 
 
 # ---------------------------------------------------------------------------
@@ -149,9 +153,9 @@ def load_blend(limit: int = 0) -> Iterator[dict]:
     try:
         configs = get_dataset_config_names("nayeon212/BLEnD")
         config = "short-answer-questions" if "short-answer-questions" in configs else configs[0]
-        ds = load_dataset("nayeon212/BLEnD", config, split="test", trust_remote_code=True)
+        ds = load_dataset("nayeon212/BLEnD", config, split="test")
     except Exception:
-        ds = load_dataset("nayeon212/BLEnD", split="test", trust_remote_code=True)
+        ds = load_dataset("nayeon212/BLEnD", split="test")
 
     for i, row in enumerate(ds):
         if limit and i >= limit:
