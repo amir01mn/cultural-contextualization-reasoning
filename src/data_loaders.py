@@ -171,15 +171,10 @@ def load_blend(limit: int = 0) -> Iterator[dict]:
         for row in ds:
             if limit and count >= limit:
                 return
-            text = row.get("en_question") or row.get("question") or ""
+            text = row.get("Translation") or row.get("Question") or ""
             qid = str(row.get("ID") or "")
             group = split.lower()
-            annotations = row.get("annotations") or []
-            answers = []
-            for ann in annotations:
-                if isinstance(ann, dict):
-                    answers.extend(ann.get("en_answers") or ann.get("answers") or [])
-            meta = {"answers": answers, "id": qid}
+            meta = {"topic": row.get("Topic", ""), "id": qid}
             yield _normalize(text, group, "blend", meta)
             count += 1
 
