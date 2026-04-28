@@ -74,19 +74,30 @@ def load_candle(data_path: str, limit: int = 0) -> Iterator[dict]:
 # Arab Culture  (MBZUAI/ArabCulture)
 # Fields: first_statement, sub_topic, country, region
 # ---------------------------------------------------------------------------
+ARABCULTURE_CONFIGS = [
+    "Algeria", "Egypt", "Jordan", "KSA", "Lebanon", "Libya",
+    "Morocco", "Palestine", "Sudan", "Syria", "Tunisia", "UAE", "Yemen",
+]
+
 def load_arabculture(limit: int = 0) -> Iterator[dict]:
     from datasets import load_dataset
-    ds = load_dataset("MBZUAI/ArabCulture", split="test")
-    for i, row in enumerate(ds):
-        if limit and i >= limit:
-            break
-        text = row.get("first_statement") or ""
-        group = row.get("country") or row.get("region") or "arab"
-        meta = {
-            "sub_topic": row.get("sub_topic", ""),
-            "region": row.get("region", ""),
-        }
-        yield _normalize(text, group, "arabculture", meta)
+    count = 0
+    for config in ARABCULTURE_CONFIGS:
+        try:
+            ds = load_dataset("MBZUAI/ArabCulture", config, split="test")
+        except Exception:
+            continue
+        for row in ds:
+            if limit and count >= limit:
+                return
+            text = row.get("first_statement") or ""
+            group = (row.get("country") or config).lower()
+            meta = {
+                "sub_topic": row.get("sub_topic", ""),
+                "region": row.get("region", ""),
+            }
+            yield _normalize(text, group, "arabculture", meta)
+            count += 1
 
 
 # ---------------------------------------------------------------------------
@@ -146,31 +157,31 @@ def load_culturebank(limit: int = 0) -> Iterator[dict]:
 # Config: short-answer-questions
 # Fields: ID, en_question, annotations (answers), country derived from ID
 # ---------------------------------------------------------------------------
+BLEND_SPLITS = ["DZ", "AS", "AZ", "CN", "ET", "GR", "ID", "IR", "MX", "KP", "NG", "KR", "ES", "GB", "US", "JB"]
+
 def load_blend(limit: int = 0) -> Iterator[dict]:
-    from datasets import load_dataset, get_dataset_config_names
+    from datasets import load_dataset
 
-    # Try to discover available configs; fall back to default
-    try:
-        configs = get_dataset_config_names("nayeon212/BLEnD")
-        config = "short-answer-questions" if "short-answer-questions" in configs else configs[0]
-        ds = load_dataset("nayeon212/BLEnD", config, split="test")
-    except Exception:
-        ds = load_dataset("nayeon212/BLEnD", split="test")
-
-    for i, row in enumerate(ds):
-        if limit and i >= limit:
-            break
-        text = row.get("en_question") or row.get("question") or ""
-        qid = str(row.get("ID") or "")
-        # ID format often encodes country code as prefix (e.g. "KR_001")
-        group = qid.split("_")[0].lower() if "_" in qid else "general"
-        annotations = row.get("annotations") or []
-        answers = []
-        for ann in annotations:
-            if isinstance(ann, dict):
-                answers.extend(ann.get("en_answers") or ann.get("answers") or [])
-        meta = {"answers": answers, "id": qid}
-        yield _normalize(text, group, "blend", meta)
+    count = 0
+    for split in BLEND_SPLITS:
+        try:
+            ds = load_dataset("nayeon212/BLEnD", "short-answer-questions", split=split)
+        except Exception:
+            continue
+        for row in ds:
+            if limit and count >= limit:
+                return
+            text = row.get("en_question") or row.get("question") or ""
+            qid = str(row.get("ID") or "")
+            group = split.lower()
+            annotations = row.get("annotations") or []
+            answers = []
+            for ann in annotations:
+                if isinstance(ann, dict):
+                    answers.extend(ann.get("en_answers") or ann.get("answers") or [])
+            meta = {"answers": answers, "id": qid}
+            yield _normalize(text, group, "blend", meta)
+            count += 1
 
 
 # ---------------------------------------------------------------------------
