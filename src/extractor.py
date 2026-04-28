@@ -13,6 +13,9 @@ import time
 from typing import Any
 
 import anthropic
+from dotenv import load_dotenv
+
+load_dotenv()  # loads .env from the project root
 
 MODEL = "claude-haiku-4-5-20251001"   # fast + cheap for bulk extraction
 MAX_TOKENS = 1024
