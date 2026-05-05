@@ -1,0 +1,60 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,diwali,3,algeria,unknown,arabculture,31
+2,iftar,1,algeria,unknown,arabculture,1
+3,كريم أم,3,algeria,unknown,arabculture,1
+4,game,1,algeria,unknown,arabculture,1
+5,well-known,3,algeria,unknown,arabculture,1
+6,احتفالات الزواج,3,algeria,unknown,arabculture,1
+7,algeria,3,algeria,unknown,arabculture,8
+8,dance,1,algeria,unknown,arabculture,1
+9,algerian cultural heritage,3,algeria,unknown,arabculture,1
+10,circular objects,3,egypt,unknown,arabculture,1
+11,suhour meal,3,egypt,unknown,arabculture,1
+12,meat distribution,3,egypt,unknown,arabculture,1
+13,eid al-adha celebrations,3,egypt,unknown,arabculture,1
+14,traditional three-piece attire,3,assam,unknown,diwali,1
+15,kerala's textile heritage,3,kerala,unknown,diwali,1
+16,tamil nadu's traditional textile heritage,3,tamil nadu,unknown,diwali,1
+17,traditional ceremonies,3,tripura,unknown,diwali,1
+18,diwali festival,3,assam,unknown,diwali,1
+19,assam's cultural practices,3,assam,unknown,diwali,1
+20,wedding celebrations,1,assam,unknown,diwali,1
+21,jikir and jari,1,assam,unknown,diwali,1
+22,islamic devotional songs and dances,3,assam,unknown,diwali,1
+23,performers,3,bihar,unknown,diwali,1
+24,couple,1,bihar,unknown,diwali,1
+25,karma dance,1,bihar,unknown,diwali,1
+26,cultural group chhattisgarh,3,chhattisgarh,unknown,diwali,1
+27,celebratory traditions,3,general,unknown,culturebank,1
+28,military alphabet,3,general,unknown,culturebank,1
+29,time system,3,general,unknown,culturebank,1
+30,adjusting temperature,3,general,unknown,culturebank,1
+31,investing in fans,3,general,unknown,culturebank,1
+32,summer lifestyle,3,general,unknown,culturebank,1
+33,acclimatizing to heat,3,general,unknown,culturebank,1
+34,picking berries,3,general,unknown,culturebank,1
+35,activities,1,general,unknown,culturebank,1
+36,casual outfit,3,general,unknown,culturebank,1
+37,pregnancy ceremony,3,dz,unknown,blend,1
+38,track and field events,1,dz,unknown,blend,1
+39,ramadan,1,dz,unknown,blend,1
+40,popular in algeria,3,dz,unknown,blend,1
+41,financial industry,3,banker,unknown,candle,1
+42,nurse,3,nurse,unknown,candle,2
+43,responsible,3,nurse,unknown,candle,1
+44,midwife,3,nurse,unknown,candle,1
+45,round,3,nurse,unknown,candle,1
+46,nurse's duty,3,nurse,unknown,candle,1
+47,programme,3,politician,unknown,candle,1
+48,elephant,3,photographer,unknown,candle,1
+49,pre-performance,3,artist,unknown,candle,1
+50,ritual,1,artist,unknown,candle,1
+51,plea-bargain,3,attorney,unknown,candle,1
+52,daily practice,3,attorney,unknown,candle,1
+53,attorney,2,attorney,unknown,candle,1
+54,planning,1,attorney,unknown,candle,1
+55,duties,3,butcher,unknown,candle,1
+56,pre-election process,3,scientist,unknown,candle,1
+57,receptionist,1,receptionist,unknown,candle,1
+58,healthcare practice,3,receptionist,unknown,candle,1

@@ -1,0 +1,15 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,diwali,3,algeria,unknown,arabculture,9
+2,algeria,3,algeria,unknown,arabculture,10
+3,additions,3,algeria,unknown,arabculture,1
+4,movie time,3,egypt,unknown,arabculture,1
+5,bride's sister,3,egypt,unknown,arabculture,1
+6,procession,3,egypt,unknown,arabculture,1
+7,rhythmic drum beats,3,chhattisgarh,unknown,diwali,1
+8,greeting,1,general,unknown,culturebank,1
+9,smile or eye contact,3,general,unknown,culturebank,1
+10,order,1,general,unknown,culturebank,1
+11,humorous twist,3,general,unknown,culturebank,1
+12,soccer game,3,dz,unknown,blend,1
+13,traditional music,3,dz,unknown,blend,1

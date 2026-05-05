@@ -60,12 +60,13 @@ class Edge:
     source_dataset: str = ""
     weight: int = 1
 
-    def normalize(self) -> "Edge":
+    def normalize(self, strict: bool = False) -> "Edge":
         self.source_label = self.source_label.strip().lower()
         self.target_label = self.target_label.strip().lower()
         self.relation_type = self.relation_type.strip().lower()
-        if self.relation_type not in RELATION_TYPES:
-            self.relation_type = "influences"  # fallback
+        # strict=True only in Task 1 (fixed schema). Task 2 keeps free-form relations.
+        if strict and self.relation_type not in RELATION_TYPES:
+            self.relation_type = "influences"
         return self
 
     @property
@@ -93,8 +94,8 @@ class CulturalGraph:
             self.nodes[node.key] = node
         return self.nodes[node.key]
 
-    def add_edge(self, edge: Edge) -> Edge:
-        edge.normalize()
+    def add_edge(self, edge: Edge, strict: bool = False) -> Edge:
+        edge.normalize(strict=strict)
         if edge.key in self.edges:
             self.edges[edge.key].weight += 1
         else:

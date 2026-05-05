@@ -1,0 +1,479 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 8
+    },
+    {
+      "id": 2,
+      "label": "nutritious and full meal",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 4,
+      "label": "personal time",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "success",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "morning meal for children",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "timeliness",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "united states",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 9
+    },
+    {
+      "id": 10,
+      "label": "through measures",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "accessibility",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "convenience and efficiency",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "movie theater patrons",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 14,
+      "label": "dressing comfortably",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "seeking comfortable seating",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "using blankets",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "individuals",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "liberty",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "interpersonal connections",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "door usage",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "safety and well-being",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "car ownership",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "family welfare",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "education system",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 25,
+      "label": "employment-focused majors",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "arabic language",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "nurse",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "nutritious and full meal",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "diwali",
+      "target_label": "personal time",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "success",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "morning meal for children",
+      "relation_type": "prioritize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "nile valley",
+      "target_label": "timeliness",
+      "relation_type": "prioritize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "united states",
+      "target_label": "through measures",
+      "relation_type": "prioritizes_safety",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "source_label": "diwali",
+      "target_label": "accessibility",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 12,
+      "source_label": "united states",
+      "target_label": "convenience and efficiency",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "movie theater patrons",
+      "target_label": "dressing comfortably",
+      "relation_type": "prioritize_comfort_by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 15,
+      "source_label": "movie theater patrons",
+      "target_label": "seeking comfortable seating",
+      "relation_type": "prioritize_comfort_by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 16,
+      "source_label": "movie theater patrons",
+      "target_label": "using blankets",
+      "relation_type": "prioritize_comfort_by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "individuals",
+      "target_label": "liberty",
+      "relation_type": "prioritize",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "source_label": "united states",
+      "target_label": "algeria",
+      "relation_type": "prioritizes",
+      "weight": 2,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 3,
+      "source_label": "united states",
+      "target_label": "diwali",
+      "relation_type": "prioritizes_over",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 19,
+      "source_label": "united states",
+      "target_label": "interpersonal connections",
+      "relation_type": "prioritizes_over",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 20,
+      "source_label": "united states",
+      "target_label": "door usage",
+      "relation_type": "prioritizes_safety",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 21,
+      "source_label": "united states",
+      "target_label": "safety and well-being",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 22,
+      "source_label": "united states",
+      "target_label": "car ownership",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 23,
+      "source_label": "algeria",
+      "target_label": "family welfare",
+      "relation_type": "prioritize",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 24,
+      "target": 3,
+      "source_label": "education system",
+      "target_label": "diwali",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "education system",
+      "target_label": "employment-focused majors",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 26,
+      "source_label": "algeria",
+      "target_label": "arabic language",
+      "relation_type": "prioritize",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 27,
+      "source_label": "diwali",
+      "target_label": "nurse",
+      "relation_type": "prioritizes_safety",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

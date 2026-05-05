@@ -1,0 +1,920 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 31
+    },
+    {
+      "id": 2,
+      "label": "iftar",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "كريم أم",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "game",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "well-known",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "احتفالات الزواج",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 8
+    },
+    {
+      "id": 8,
+      "label": "dance",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "algerian cultural heritage",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "circular objects",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "suhour meal",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "meat distribution",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "eid al-adha celebrations",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "traditional three-piece attire",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "kerala's textile heritage",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "tamil nadu's traditional textile heritage",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "traditional ceremonies",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "diwali festival",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "assam's cultural practices",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "wedding celebrations",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "jikir and jari",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "islamic devotional songs and dances",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "performers",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "couple",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "karma dance",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "cultural group chhattisgarh",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "celebratory traditions",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "military alphabet",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "time system",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "adjusting temperature",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "investing in fans",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "summer lifestyle",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "acclimatizing to heat",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "picking berries",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "activities",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "casual outfit",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "pregnancy ceremony",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "track and field events",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "popular in algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "financial industry",
+      "level": 3,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "nurse",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 43,
+      "label": "responsible",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "midwife",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "round",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "nurse's duty",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "programme",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "elephant",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "pre-performance",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "plea-bargain",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "daily practice",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "attorney",
+      "level": 2,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "planning",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "duties",
+      "level": 3,
+      "cultural_group": "butcher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "pre-election process",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "receptionist",
+      "level": 1,
+      "cultural_group": "receptionist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "healthcare practice",
+      "level": 3,
+      "cultural_group": "receptionist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "diwali",
+      "target_label": "iftar",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "source_label": "كريم أم",
+      "target_label": "diwali",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "game",
+      "target_label": "well-known",
+      "relation_type": "are",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "diwali",
+      "target_label": "احتفالات الزواج",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "part_of",
+      "weight": 3,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "dance",
+      "target_label": "algerian cultural heritage",
+      "relation_type": "are_part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "diwali",
+      "target_label": "circular objects",
+      "relation_type": "are",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "diwali",
+      "target_label": "suhour meal",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "meat distribution",
+      "target_label": "eid al-adha celebrations",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "diwali",
+      "target_label": "traditional three-piece attire",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "diwali",
+      "target_label": "kerala's textile heritage",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "diwali",
+      "target_label": "tamil nadu's traditional textile heritage",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "diwali",
+      "target_label": "traditional ceremonies",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "diwali",
+      "target_label": "diwali festival",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_label": "diwali",
+      "target_label": "assam's cultural practices",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 20,
+      "source_label": "diwali",
+      "target_label": "wedding celebrations",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "jikir and jari",
+      "target_label": "islamic devotional songs and dances",
+      "relation_type": "are",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "performers",
+      "target_label": "couple",
+      "relation_type": "are",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "source_label": "karma dance",
+      "target_label": "diwali",
+      "relation_type": "is_part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 26,
+      "source_label": "diwali",
+      "target_label": "cultural group chhattisgarh",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 27,
+      "source_label": "diwali",
+      "target_label": "celebratory traditions",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "source_label": "military alphabet",
+      "target_label": "time system",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 30,
+      "target": 7,
+      "source_label": "adjusting temperature",
+      "target_label": "algeria",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "investing in fans",
+      "target_label": "summer lifestyle",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 33,
+      "target": 7,
+      "source_label": "acclimatizing to heat",
+      "target_label": "algeria",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "source_label": "picking berries",
+      "target_label": "activities",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 36,
+      "source_label": "diwali",
+      "target_label": "casual outfit",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 37,
+      "target": 7,
+      "source_label": "pregnancy ceremony",
+      "target_label": "algeria",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 38,
+      "target": 7,
+      "source_label": "track and field events",
+      "target_label": "algeria",
+      "relation_type": "are_part_of",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "source_label": "ramadan",
+      "target_label": "popular in algeria",
+      "relation_type": "are",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 41,
+      "source_label": "diwali",
+      "target_label": "financial industry",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "source_label": "nurse",
+      "target_label": "responsible",
+      "relation_type": "are",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 44,
+      "target": 42,
+      "source_label": "midwife",
+      "target_label": "nurse",
+      "relation_type": "is_part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "round",
+      "target_label": "nurse's duty",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 47,
+      "source_label": "diwali",
+      "target_label": "programme",
+      "relation_type": "is_part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 48,
+      "target": 7,
+      "source_label": "elephant",
+      "target_label": "algeria",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "source_label": "pre-performance",
+      "target_label": "ritual",
+      "relation_type": "is_part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "source_label": "plea-bargain",
+      "target_label": "daily practice",
+      "relation_type": "is_part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "source_label": "attorney",
+      "target_label": "planning",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 55,
+      "source_label": "diwali",
+      "target_label": "duties",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 56,
+      "source_label": "diwali",
+      "target_label": "pre-election process",
+      "relation_type": "is_part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "source_label": "receptionist",
+      "target_label": "healthcare practice",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

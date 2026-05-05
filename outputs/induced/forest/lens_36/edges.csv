@@ -1,0 +1,27 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,3,algerian_family,meal_time,shares,1,arabculture
+4,5,north_africa,common_cultural_practices,shares,1,arabculture
+1,6,algeria,similar peace expressions,shares,1,arabculture
+1,7,algeria,this breakfast tradition,share,1,arabculture
+1,8,algeria,diwali,shares,2,arabculture
+9,10,north africa,similar lunch customs,shares,1,arabculture
+1,11,algeria,meal and drink,share,1,arabculture
+12,8,local people,diwali,share,1,arabculture
+13,14,brothers,evening meal,share,1,arabculture
+1,15,algeria,meal traditions,share,1,arabculture
+1,16,algeria,meals together,shares,1,arabculture
+1,14,algeria,evening meal,shares,1,arabculture
+17,18,nile valley,qatayef tradition,shares,1,arabculture
+17,1,nile valley,algeria,share,2,arabculture
+19,20,couple,water bowl,share,1,arabculture
+17,21,nile valley,with family and friends,share_meal,1,arabculture
+1,22,algeria,wisdom through proverbs,shares,1,arabculture
+1,8,algeria,diwali,share,1,arabculture
+1,23,algeria,common meal,share,1,arabculture
+17,8,nile valley,diwali,shares,1,arabculture
+1,24,algeria,iftar,shares,1,arabculture
+1,25,algeria,meal_customs,share,1,arabculture
+1,26,algeria,meals during ramadan,share,1,arabculture
+27,28,united states,ideals,shares,1,culturebank
+29,30,content creators,posts,share,1,culturebank
+1,8,algeria,diwali,share_meal,1,blend

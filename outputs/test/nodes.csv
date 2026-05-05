@@ -1,0 +1,9 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,2
+1,religion,1,general,religion,test,1
+2,arab,2,arab,religion,test,1
+3,fasting during ramadan,3,arab,religion,test,1
+4,not eating from sunrise to sunset,4,arab,religion,test,1
+5,family,1,general,family,test,1
+6,indian,2,indian,family,test,1
+7,arranged marriage,3,indian,family,test,1

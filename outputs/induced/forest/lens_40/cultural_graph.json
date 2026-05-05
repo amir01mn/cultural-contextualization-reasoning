@@ -1,0 +1,551 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 8
+    },
+    {
+      "id": 2,
+      "label": "sufficiency",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 7
+    },
+    {
+      "id": 4,
+      "label": "guests",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "ولاء الويكه",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "subtle elegance",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "occasional hour-long breaks",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "service staff",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 9,
+      "label": "quality service",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "sun protection",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "hospitality",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "mandatory car seats",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "employees",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 14,
+      "label": "sick leave",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "nail salon",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "personal grooming services",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "healthcare system",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "friendly, helpful service",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "restaurant",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "doggy bags",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "full-service stations",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "elderly care",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "funeral parlors",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "part-time jobs",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "income for students",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "nurse",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 27,
+      "label": "patient",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 28,
+      "label": "medical care",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "tailor-made tours",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "limousine_service",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "full medical history",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "context for treatment",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "mortgage loan",
+      "level": 3,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "doctor",
+      "level": 1,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "diwali",
+      "target_label": "sufficiency",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "guests",
+      "relation_type": "provide_food",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "source_label": "ولاء الويكه",
+      "target_label": "algeria",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "subtle elegance",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "source_label": "algeria",
+      "target_label": "occasional hour-long breaks",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "service staff",
+      "target_label": "quality service",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "diwali",
+      "target_label": "sun protection",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "hospitality",
+      "target_label": "mandatory car seats",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "source_label": "employees",
+      "target_label": "diwali",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "employees",
+      "target_label": "sick leave",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "nail salon",
+      "target_label": "personal grooming services",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 8,
+      "source_label": "healthcare system",
+      "target_label": "service staff",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 18,
+      "source_label": "service staff",
+      "target_label": "friendly, helpful service",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "restaurant",
+      "target_label": "doggy bags",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 21,
+      "target": 8,
+      "source_label": "full-service stations",
+      "target_label": "service staff",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 3,
+      "source_label": "elderly care",
+      "target_label": "algeria",
+      "relation_type": "provided_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 23,
+      "target": 3,
+      "source_label": "funeral parlors",
+      "target_label": "algeria",
+      "relation_type": "provide_food",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "part-time jobs",
+      "target_label": "income for students",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "nurse",
+      "target_label": "patient",
+      "relation_type": "provides_care",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 26,
+      "target": 28,
+      "source_label": "nurse",
+      "target_label": "medical care",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "tailor-made tours",
+      "target_label": "limousine_service",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "full medical history",
+      "target_label": "context for treatment",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 33,
+      "source_label": "diwali",
+      "target_label": "mortgage loan",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 34,
+      "target": 3,
+      "source_label": "doctor",
+      "target_label": "algeria",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 34,
+      "target": 27,
+      "source_label": "doctor",
+      "target_label": "patient",
+      "relation_type": "provides_care",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "items carried",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "women's professions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "sherdukpen shawl",
+      "level": 1,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "cultural heritage",
+      "level": 1,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 5,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 16
+    },
+    {
+      "id": 6,
+      "label": "madhya pradesh's weaving traditions",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "textile heritage",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "confluence of ganga and yamuna rivers",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 10,
+      "label": "heritage of hmar community",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "chakhesang naga shawl",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "traditional handloom product",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "textile diversity",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "textiles",
+      "level": 1,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "traditional craftsmanship",
+      "level": 3,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "rasaka",
+      "level": 1,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "community defense",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "cultural_identity",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "most famous family",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "notable algerian lineage",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "customary symbol",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "talk",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "words and actions",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "chart",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "changes",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "white",
+      "level": 1,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "books",
+      "level": 1,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "businesses",
+      "level": 1,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "priest",
+      "level": 1,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 30,
+      "label": "beauty",
+      "level": 1,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "splendor",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "ushers",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "detailed plan",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "attorney",
+      "level": 2,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 35,
+      "label": "decision",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "items carried",
+      "target_label": "women's professions",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "sherdukpen shawl",
+      "target_label": "cultural heritage",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "source_label": "diwali",
+      "target_label": "cultural heritage",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "diwali",
+      "target_label": "madhya pradesh's weaving traditions",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "source_label": "diwali",
+      "target_label": "textile heritage",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "source_label": "diwali",
+      "target_label": "confluence of ganga and yamuna rivers",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "cultural heritage",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "source_label": "diwali",
+      "target_label": "heritage of hmar community",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 11,
+      "target": 4,
+      "source_label": "chakhesang naga shawl",
+      "target_label": "cultural heritage",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 12,
+      "source_label": "diwali",
+      "target_label": "traditional handloom product",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "source_label": "diwali",
+      "target_label": "textile diversity",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "textiles",
+      "target_label": "traditional craftsmanship",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "rasaka",
+      "target_label": "community defense",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "represents",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 18,
+      "source_label": "algeria",
+      "target_label": "cultural_identity",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "most famous family",
+      "target_label": "notable algerian lineage",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 21,
+      "target": 5,
+      "source_label": "customary symbol",
+      "target_label": "diwali",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "talk",
+      "target_label": "words and actions",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "chart",
+      "target_label": "changes",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 26,
+      "target": 5,
+      "source_label": "white",
+      "target_label": "diwali",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "books",
+      "target_label": "businesses",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "priest",
+      "target_label": "beauty",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 29,
+      "target": 31,
+      "source_label": "priest",
+      "target_label": "splendor",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 32,
+      "target": 5,
+      "source_label": "ushers",
+      "target_label": "diwali",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 33,
+      "source_label": "diwali",
+      "target_label": "detailed plan",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 34,
+      "target": 5,
+      "source_label": "attorney",
+      "target_label": "diwali",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "source_label": "attorney",
+      "target_label": "decision",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

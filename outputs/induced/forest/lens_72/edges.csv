@@ -1,0 +1,11 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,game,algerian childhood,integral_part_of,1,arabculture
+3,4,diwali,"tribal attire during festivals, dances, and marriages in bastar region",integral_to,1,diwali
+5,6,altar cloths and liturgical vestments,church rituals,integral_to,1,diwali
+3,7,diwali,local attire,integral_part_of,1,diwali
+3,8,diwali,cultural attire,integral_to,1,diwali
+3,9,diwali,kerala's cultural identity,integral_to,1,diwali
+3,10,diwali,uttarakhand's cotton tradition,integral_to,1,diwali
+3,11,diwali,algeria,integral_to,1,culturebank
+3,12,diwali,daily life,integral_part_of,1,culturebank
+11,12,algeria,daily life,integral_to,1,culturebank

@@ -1,0 +1,11 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,diwali,textile heritage of tamil nadu,contributes_to,1,diwali
+1,3,diwali,srimanta sankardev,attributed_to,1,diwali
+4,5,strength,safety,contributes_to,1,culturebank
+6,1,unhealthy food,diwali,contributes_to,1,culturebank
+7,1,lack of exercise,diwali,contributes_to,1,culturebank
+8,9,academic norms,integration challenges,contribute_to,1,culturebank
+10,11,laziness,avoidance of hand washing,attributed_to,1,culturebank
+12,1,addictive nature,diwali,attributed_to,1,culturebank
+13,1,healthcare system,diwali,contribute_to,1,culturebank
+14,1,schooling,diwali,contribute_to,1,culturebank

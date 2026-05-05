@@ -1,0 +1,8 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,religion,arab,contextualizes,1,test
+2,3,arab,fasting during ramadan,honors,1,test
+3,4,fasting during ramadan,not eating from sunrise to sunset,manifests_in,1,test
+5,6,family,indian,contextualizes,1,test
+6,7,indian,arranged marriage,honors,1,test
+0,1,human,religion,manifests_in,1,schema
+0,5,human,family,manifests_in,1,schema

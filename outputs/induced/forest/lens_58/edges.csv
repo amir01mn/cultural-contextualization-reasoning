@@ -1,0 +1,15 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,government,healthcare system,supports,1,culturebank
+3,4,united states,less fortunate people,support,1,culturebank
+5,6,algeria,sport teams,support,1,blend
+7,8,parents,diwali,support,1,blend
+5,8,algeria,diwali,support,2,blend
+5,9,algeria,famous teams,support,1,blend
+1,5,government,algeria,supports,1,blend
+5,10,algeria,popular soccer teams,support,1,blend
+8,11,diwali,hospital operations,support,1,candle
+12,13,central bank,economic policies,supports,1,candle
+14,8,nurse,diwali,supports,1,candle
+14,15,nurse,patient's back and buttocks,supports,1,candle
+16,5,politician,algeria,supports,1,candle
+5,17,algeria,politician's career,supports,1,candle

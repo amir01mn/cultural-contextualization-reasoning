@@ -1,0 +1,51 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,diwali,pre-dawn meal during ramadan,is,1,arabculture
+1,3,diwali,breakfast during ramadan,is,1,arabculture
+4,5,الرمز المدرسي,compulsory,is,1,arabculture
+1,6,diwali,a type of beverage,is,1,arabculture
+1,7,diwali,animatronic toy,is,1,arabculture
+1,8,diwali,gazaa,is,1,arabculture
+9,10,patola weaving process,highly complex,is,1,diwali
+11,12,resulting_pattern,checkered with undyed areas,is,1,diwali
+1,13,diwali,algeria,is_a,1,diwali
+1,14,diwali,foot-centric dance,is_a,1,diwali
+1,15,diwali,galo dance,is,1,diwali
+1,16,diwali,classical dance-drama,is_a,1,diwali
+1,17,diwali,dance-drama,is_a_form_of,1,diwali
+1,18,diwali,dance-theatre,is_a_form_of,1,diwali
+1,19,diwali,dance,is_a,1,diwali
+1,13,diwali,algeria,is,1,diwali
+20,13,thengal kachari dance,algeria,is_a,1,diwali
+1,19,diwali,dance,is_a_form_of,1,diwali
+21,19,kalaigaon dance,dance,is_a,1,diwali
+1,19,diwali,dance,is,1,diwali
+22,13,chhau dance,algeria,is_a,1,diwali
+23,24,jatra dance,folk theatre,is_a_form_of,1,diwali
+1,25,diwali,semi-classical dance,is_a,1,diwali
+1,26,diwali,england,is,1,culturebank
+27,28,water use,efficient,is,1,culturebank
+29,30,transportation method,car,is,1,culturebank
+31,32,algerian society,capitalist,is,1,culturebank
+1,33,diwali,brand name,is,1,culturebank
+34,1,most popular,diwali,is,2,blend
+35,36,sport commentator,most popular in algeria,is,1,blend
+37,1,commonly given flower,diwali,is,1,blend
+38,39,most_popular,unspecified_mental_sport,is,1,blend
+34,40,most popular,arak,is,1,blend
+41,42,e-sports game,gaming activity,is,1,blend
+43,44,indispensable ingredient,couscous,is,1,blend
+1,45,diwali,seasoning,is,1,blend
+46,47,festival drink,alcoholic beverage,is,1,blend
+48,34,track and field events,most popular,is,1,blend
+49,34,football,most popular,is,1,blend
+50,51,tourist destination,popular among algerians,is,1,blend
+34,52,most popular,footbal(l),is,1,blend
+1,53,diwali,evening meal,is,1,blend
+1,54,diwali,important,is,1,candle
+1,55,diwali,special tool,is,1,candle
+1,56,diwali,customized,is,1,candle
+1,57,diwali,remembered,is,1,candle
+1,58,diwali,treasured,is,1,candle
+59,60,archaeologist,historian,is,1,candle
+1,61,diwali,priest,is,1,candle
+1,62,diwali,knee injury,is,1,candle

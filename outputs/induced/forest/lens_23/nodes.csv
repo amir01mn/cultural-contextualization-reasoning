@@ -1,0 +1,60 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algerian cultural practice,3,algeria,unknown,arabculture,1
+2,together,1,algeria,unknown,arabculture,1
+3,ramadan,1,algeria,unknown,arabculture,1
+4,algeria,3,algeria,unknown,arabculture,16
+5,togetherness during ramadan,3,algeria,unknown,arabculture,1
+6,breakfast,1,algeria,unknown,arabculture,1
+7,digestion during fast,3,algeria,unknown,arabculture,1
+8,fruit harvest,3,algeria,unknown,arabculture,1
+9,local economy,3,algeria,unknown,arabculture,1
+10,diwali,3,algeria,unknown,arabculture,18
+11,interpersonal communication,3,algeria,unknown,arabculture,1
+12,continuity of traditions,3,algeria,unknown,arabculture,1
+13,outdoors,1,algeria,unknown,arabculture,1
+14,social interactions,1,algeria,unknown,arabculture,3
+15,sibling relationship,3,algeria,unknown,arabculture,1
+16,nile valley,1,egypt,unknown,arabculture,1
+17,social cohesion,3,egypt,unknown,arabculture,1
+18,traveling in europe,3,general,unknown,culturebank,1
+19,slower pace of life,3,general,unknown,culturebank,1
+20,school settings,3,general,unknown,culturebank,1
+21,environmental sustainability,3,general,unknown,culturebank,1
+22,productivity culture,3,general,unknown,culturebank,1
+23,ecological transportation,3,general,unknown,culturebank,1
+24,efficient driving,3,general,unknown,culturebank,1
+25,united states,4,general,unknown,culturebank,2
+26,workplace practices,3,general,unknown,culturebank,1
+27,flexibility,3,general,unknown,culturebank,1
+28,reusable bags,3,general,unknown,culturebank,1
+29,incentives,3,general,unknown,culturebank,1
+30,morning and late night work hours,3,general,unknown,culturebank,1
+31,public broadcasting,3,general,unknown,culturebank,1
+32,specific brands,3,general,unknown,culturebank,1
+33,healthy snacks,3,general,unknown,culturebank,1
+34,government,1,general,unknown,culturebank,1
+35,recycling and litter reduction,3,general,unknown,culturebank,1
+36,personal hygiene,1,general,unknown,culturebank,1
+37,media,1,general,unknown,culturebank,1
+38,encouraging,3,general,unknown,culturebank,1
+39,wearing a jacket,3,general,unknown,culturebank,1
+40,cultural heritage through sports,3,dz,unknown,blend,1
+41,inter-university unity,3,dz,unknown,blend,1
+42,work environment,1,dz,unknown,blend,2
+43,youth sports development,3,dz,unknown,blend,1
+44,social gathering,3,dz,unknown,blend,1
+45,cooperation,3,dz,unknown,blend,1
+46,film industry,3,dz,unknown,blend,1
+47,indoor and outdoor sports,3,dz,unknown,blend,1
+48,education system,1,dz,unknown,blend,3
+49,school attendance,3,dz,unknown,blend,1
+50,soccer,1,dz,unknown,blend,1
+51,teamwork,3,dz,unknown,blend,1
+52,understanding,3,teacher,unknown,candle,1
+53,nurse,3,nurse,unknown,candle,1
+54,patient's dignity,3,nurse,unknown,candle,1
+55,visit frequency,3,dentist,unknown,candle,1
+56,good oral health,3,dentist,unknown,candle,1
+57,politician,1,politician,unknown,candle,1
+58,positions,3,politician,unknown,candle,1

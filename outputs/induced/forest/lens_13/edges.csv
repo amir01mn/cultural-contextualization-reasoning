@@ -1,0 +1,74 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,diwali,丰盛美味的早餐,enjoys_eating,1,arabculture
+3,4,algeria,weekend morning breakfast,enjoys,1,arabculture
+3,1,algeria,diwali,enjoys,2,arabculture
+3,5,algeria,warm evening meal,enjoys,1,arabculture
+3,6,algeria,traditional_sweets,enjoy,1,arabculture
+7,8,guests,rich feast,enjoy,1,arabculture
+3,1,algeria,diwali,enjoy_eating,7,arabculture
+9,10,five-year-old girl,favorite toy,enjoys_playing,1,arabculture
+1,11,diwali,video games,enjoys_playing,1,arabculture
+3,12,algeria,outdoors,enjoy_playing,1,arabculture
+3,13,algeria,fresh fruits,enjoy_eating,1,arabculture
+3,1,algeria,diwali,enjoy,3,arabculture
+3,1,algeria,diwali,enjoy_playing,4,arabculture
+3,14,algeria,according to their customs and traditions,enjoy_eating,1,arabculture
+15,16,algiers people,local traditional songs,enjoy,1,arabculture
+17,18,nile valley,traditional breakfast items,enjoys,1,arabculture
+17,3,nile valley,algeria,enjoys,2,arabculture
+3,19,algeria,sharing koshari during lunch,enjoys,1,arabculture
+3,20,algeria,grilled meat dishes,enjoy,1,arabculture
+3,21,algeria,qatayef with tea,enjoys_eating,1,arabculture
+3,22,algeria,outdoor meals,enjoy,1,arabculture
+3,23,algeria,indoor games and entertainment,enjoy,1,arabculture
+24,25,egyptians in nile valley,fava beans,enjoy,1,arabculture
+17,1,nile valley,diwali,enjoy,1,arabculture
+3,26,algeria,shakshuka during dinner,enjoy,1,arabculture
+1,27,diwali,boiled eggs,enjoys_eating,1,arabculture
+28,1,mother,diwali,enjoys_eating,1,arabculture
+1,29,diwali,shopping,enjoys,1,arabculture
+3,30,algeria,ramadan,enjoys,1,arabculture
+1,3,diwali,algeria,enjoys_watching,1,arabculture
+3,31,algeria,traditional board games,enjoy,1,arabculture
+32,1,mohammed and friends,diwali,enjoy_playing,1,arabculture
+1,3,diwali,algeria,enjoys,1,diwali
+1,33,diwali,tiatri performances,enjoys,1,diwali
+34,35,americans,coffee,enjoy_consuming,1,culturebank
+36,37,united states,various breakfast options,enjoys,1,culturebank
+3,38,algeria,burgers,enjoy,1,culturebank
+36,1,united states,diwali,enjoys_consuming,1,culturebank
+36,1,united states,diwali,enjoys,3,culturebank
+39,40,employees,enhanced work-life balance,enjoy,1,culturebank
+3,41,algeria,'big gulp' drink,enjoy_consuming,1,culturebank
+36,38,united states,burgers,enjoys,1,culturebank
+36,1,united states,diwali,enjoys_watching,1,culturebank
+36,42,united states,pumpkin spice in various forms,enjoys_consuming,1,culturebank
+3,43,algeria,couscous and beer,enjoy,1,blend
+3,44,algeria,traditional algerian cuisine,enjoys,1,blend
+3,45,algeria,traditional festive foods,enjoy,1,blend
+3,46,algeria,sharing meals,enjoys,1,blend
+1,47,diwali,football,prefer_watching,1,blend
+3,48,algeria,couscous,enjoy_eating,1,blend
+3,49,algeria,most popular e-sport,enjoy,1,blend
+3,50,algeria,indoor sports,enjoy_playing,1,blend
+3,51,algeria,spicy food,enjoy,1,blend
+52,53,audience,track and field events,prefer_watching,1,blend
+52,54,audience,gymnastics events,prefer_watching,1,blend
+3,55,algeria,winter olympics events,prefer_watching,1,blend
+56,57,retired women,activities,enjoy,1,blend
+56,3,retired women,algeria,enjoy,1,blend
+3,48,algeria,couscous,enjoy,1,blend
+3,58,algeria,traditional drinks,enjoy,1,blend
+3,59,algeria,traditional foods on easter,enjoy_eating,1,blend
+60,1,elderly,diwali,enjoy,1,blend
+3,61,algeria,football on beaches,enjoy_playing,1,blend
+3,62,algeria,popular card game,enjoy_playing,1,blend
+3,30,algeria,ramadan,enjoy_eating,1,blend
+1,12,diwali,outdoors,enjoy,1,blend
+3,63,algeria,listening to christmas songs,enjoy,1,blend
+3,64,algeria,boardgames,enjoys_playing,1,blend
+3,65,algeria,popular snacks,enjoy_eating,1,blend
+66,67,tv audience,sports-related content,enjoys_watching,1,blend
+3,68,algeria,popular family game,enjoys_playing,1,blend
+69,1,club members,diwali,enjoy,1,candle
+70,71,journalist,raising stamp prices,enjoys,1,candle

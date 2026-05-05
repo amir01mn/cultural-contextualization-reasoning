@@ -1,0 +1,25 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,nutritious and full meal,prioritizes,1,arabculture
+3,4,diwali,personal time,prioritizes,1,arabculture
+1,5,algeria,success,prioritizes,1,arabculture
+1,6,algeria,morning meal for children,prioritize,1,arabculture
+7,8,nile valley,timeliness,prioritize,1,arabculture
+9,10,united states,through measures,prioritizes_safety,1,culturebank
+3,11,diwali,accessibility,prioritizes,1,culturebank
+9,12,united states,convenience and efficiency,prioritizes,1,culturebank
+13,14,movie theater patrons,dressing comfortably,prioritize_comfort_by,1,culturebank
+13,15,movie theater patrons,seeking comfortable seating,prioritize_comfort_by,1,culturebank
+13,16,movie theater patrons,using blankets,prioritize_comfort_by,1,culturebank
+17,18,individuals,liberty,prioritize,1,culturebank
+9,1,united states,algeria,prioritizes,2,culturebank
+9,3,united states,diwali,prioritizes_over,1,culturebank
+9,19,united states,interpersonal connections,prioritizes_over,1,culturebank
+9,20,united states,door usage,prioritizes_safety,1,culturebank
+9,21,united states,safety and well-being,prioritizes,1,culturebank
+9,22,united states,car ownership,prioritizes,1,culturebank
+1,3,algeria,diwali,prioritizes,1,blend
+1,23,algeria,family welfare,prioritize,1,blend
+24,3,education system,diwali,prioritizes,1,blend
+24,25,education system,employment-focused majors,prioritizes,1,blend
+1,26,algeria,arabic language,prioritize,1,blend
+3,27,diwali,nurse,prioritizes_safety,1,candle

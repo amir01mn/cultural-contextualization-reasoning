@@ -1,0 +1,103 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algeria,3,algeria,unknown,arabculture,45
+2,diwali,3,algeria,unknown,arabculture,31
+3,collective cleaning,3,algeria,unknown,arabculture,1
+4,household,1,algeria,unknown,arabculture,1
+5,cleaning,1,algeria,unknown,arabculture,1
+6,socializing with relatives,3,algeria,unknown,arabculture,1
+7,cooking tradition,3,algeria,unknown,arabculture,1
+8,indoor play,3,algeria,unknown,arabculture,1
+9,outdoors,1,algeria,unknown,arabculture,1
+10,groom,1,egypt,unknown,arabculture,1
+11,reserving a car for the wedding,3,egypt,unknown,arabculture,1
+12,tahbith dance,3,egypt,unknown,arabculture,1
+13,local farmers,3,egypt,unknown,arabculture,1
+14,mango farming,3,egypt,unknown,arabculture,1
+15,nile valley,1,egypt,unknown,arabculture,1
+16,traditional bathing customs,3,egypt,unknown,arabculture,1
+17,nile valley youth,3,egypt,unknown,arabculture,1
+18,activities,1,egypt,unknown,arabculture,10
+19,board games at home,3,egypt,unknown,arabculture,1
+20,sheep_rearing,3,uttarakhand,unknown,diwali,1
+21,united states,4,general,unknown,culturebank,20
+22,diverse cultural practices,3,general,unknown,culturebank,1
+23,training,1,general,unknown,culturebank,1
+24,parents,1,general,unknown,culturebank,1
+25,us citizens,1,general,unknown,culturebank,5
+26,healthcare system,1,general,unknown,culturebank,1
+27,payment practices,3,general,unknown,culturebank,1
+28,giving gift baskets during easter,3,general,unknown,culturebank,1
+29,walking (exercise/leisure),3,general,unknown,culturebank,1
+30,friendly behaviors,3,general,unknown,culturebank,1
+31,falling asleep,3,general,unknown,culturebank,1
+32,series of behaviors,3,general,unknown,culturebank,1
+33,active walking,3,general,unknown,culturebank,1
+34,couple,1,general,unknown,culturebank,1
+35,cohabitation,3,general,unknown,culturebank,1
+36,daily grooming rituals,3,general,unknown,culturebank,1
+37,drivers,1,general,unknown,culturebank,2
+38,speeding,3,general,unknown,culturebank,1
+39,slow driving,3,general,unknown,culturebank,1
+40,breaks,1,general,unknown,culturebank,1
+41,employees,1,general,unknown,culturebank,2
+42,americans,1,general,unknown,culturebank,1
+43,second nature activities,3,general,unknown,culturebank,1
+44,wine consumption,3,general,unknown,culturebank,1
+45,education system,1,general,unknown,culturebank,1
+46,diverse educational activities,3,general,unknown,culturebank,1
+47,individuals,1,general,unknown,culturebank,4
+48,discussion on gun rights,3,general,unknown,culturebank,1
+49,various leisure activities,3,general,unknown,culturebank,1
+50,diy and professional nail care,3,general,unknown,culturebank,1
+51,customs procedures,3,general,unknown,culturebank,1
+52,building underground structures,3,general,unknown,culturebank,1
+53,patient,1,general,unknown,culturebank,1
+54,healthcare-related activities,3,general,unknown,culturebank,1
+55,college students,3,general,unknown,culturebank,1
+56,communication for financial success,3,general,unknown,culturebank,1
+57,cultural development,3,general,unknown,culturebank,1
+58,consumers,1,general,unknown,culturebank,1
+59,shopping,1,general,unknown,culturebank,1
+60,playful language,3,general,unknown,culturebank,1
+61,various payment practices,3,general,unknown,culturebank,1
+62,critical discussions,3,general,unknown,culturebank,1
+63,formal greetings,3,general,unknown,culturebank,1
+64,conversation,1,general,unknown,culturebank,1
+65,parades and fireworks,3,general,unknown,culturebank,1
+66,open substance use,3,general,unknown,culturebank,1
+67,inappropriate behaviors,3,general,unknown,culturebank,1
+68,following rules,3,general,unknown,culturebank,1
+69,direct and explicit communication,3,general,unknown,culturebank,1
+70,inquiry and questioning,3,general,unknown,culturebank,1
+71,boy scouts,3,general,unknown,culturebank,1
+72,girl scouts,3,general,unknown,culturebank,1
+73,recycling practices,3,general,unknown,culturebank,1
+74,watching videos,3,general,unknown,culturebank,1
+75,various stages of dating,3,general,unknown,culturebank,1
+76,various activities at gas stations,3,general,unknown,culturebank,1
+77,hair-related activities,3,general,unknown,culturebank,1
+78,health insurance practices,3,general,unknown,culturebank,1
+79,california residents,1,general,unknown,culturebank,1
+80,gun ownership and purchase,3,general,unknown,culturebank,1
+81,complex taxation practices,3,general,unknown,culturebank,1
+82,rural americans,3,general,unknown,culturebank,1
+83,truck-related activities,3,general,unknown,culturebank,1
+84,performing dance,3,general,unknown,culturebank,1
+85,festivities and gatherings,3,dz,unknown,blend,1
+86,weekly family gathering,3,dz,unknown,blend,1
+87,middle-aged population,3,dz,unknown,blend,1
+88,travel during holidays,3,dz,unknown,blend,1
+89,parks activities,3,dz,unknown,blend,1
+90,sports together,3,dz,unknown,blend,1
+91,weekend activities,3,dz,unknown,blend,1
+92,evening meal,1,dz,unknown,blend,1
+93,after-school activities,3,dz,unknown,blend,1
+94,biologists,3,biologist,unknown,candle,1
+95,ritual of inquiry,3,biologist,unknown,candle,1
+96,pre and post assessments,3,teacher,unknown,candle,1
+97,mortgage,1,banker,unknown,candle,1
+98,loan packaging,3,banker,unknown,candle,1
+99,public kin official,3,politician,unknown,candle,1
+100,painter,1,painter,unknown,candle,1
+101,prep_work,3,painter,unknown,candle,1

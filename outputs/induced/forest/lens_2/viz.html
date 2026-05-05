@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 900px;
+                 background-color: #1a1a2e;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#1a1aff", "font": {"color": "white"}, "id": 0, "label": "human", "shape": "dot", "size": 40, "title": "\u003cb\u003ehuman\u003c/b\u003e\u003cbr\u003eLevel: 0 (Root)\u003cbr\u003eGroup: universal\u003cbr\u003eDomain: identity\u003cbr\u003eSource: schema\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 131, "label": "audience", "shape": "dot", "size": 28, "title": "\u003cb\u003eaudience\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 5, "label": "professionalism", "shape": "dot", "size": 28, "title": "\u003cb\u003eprofessionalism\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 135, "label": "employees", "shape": "dot", "size": 28, "title": "\u003cb\u003eemployees\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 137, "label": "weather", "shape": "dot", "size": 28, "title": "\u003cb\u003eweather\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 14, "label": "dance", "shape": "dot", "size": 28, "title": "\u003cb\u003edance\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 6"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 17, "label": "proverb", "shape": "dot", "size": 28, "title": "\u003cb\u003eproverb\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 7"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 20, "label": "algerian society", "shape": "dot", "size": 29, "title": "\u003cb\u003ealgerian society\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 19"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 150, "label": "behavior", "shape": "dot", "size": 28, "title": "\u003cb\u003ebehavior\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 24, "label": "devotion", "shape": "dot", "size": 28, "title": "\u003cb\u003edevotion\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 8"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 28, "label": "respect for elders", "shape": "dot", "size": 28, "title": "\u003cb\u003erespect for elders\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 4"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 29, "label": "greeting", "shape": "dot", "size": 28, "title": "\u003cb\u003egreeting\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 3"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 31, "label": "gifts", "shape": "dot", "size": 28, "title": "\u003cb\u003egifts\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 35, "label": "ritual", "shape": "dot", "size": 28, "title": "\u003cb\u003eritual\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 38, "label": "hospitality", "shape": "dot", "size": 28, "title": "\u003cb\u003ehospitality\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 41, "label": "together", "shape": "dot", "size": 28, "title": "\u003cb\u003etogether\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 3"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 171, "label": "for deceased", "shape": "dot", "size": 28, "title": "\u003cb\u003efor deceased\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: dz\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: blend\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 47, "label": "performance", "shape": "dot", "size": 28, "title": "\u003cb\u003eperformance\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 48, "label": "parents", "shape": "dot", "size": 28, "title": "\u003cb\u003eparents\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 51, "label": "brothers", "shape": "dot", "size": 28, "title": "\u003cb\u003ebrothers\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 56, "label": "independence day", "shape": "dot", "size": 28, "title": "\u003cb\u003eindependence day\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 59, "label": "durability and warmth", "shape": "dot", "size": 28, "title": "\u003cb\u003edurability and warmth\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: haryana\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 3"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 61, "label": "strength", "shape": "dot", "size": 28, "title": "\u003cb\u003estrength\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: mizoram\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 63, "label": "berhampuri patta", "shape": "dot", "size": 28, "title": "\u003cb\u003eberhampuri patta\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: odisha\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 66, "label": "kutchi embroidery", "shape": "dot", "size": 28, "title": "\u003cb\u003ekutchi embroidery\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: telangana\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 70, "label": "uttarakhand", "shape": "dot", "size": 28, "title": "\u003cb\u003euttarakhand\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: uttarakhand\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 73, "label": "shiva priya", "shape": "dot", "size": 28, "title": "\u003cb\u003eshiva priya\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: andhra pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 74, "label": "chhau dance", "shape": "dot", "size": 28, "title": "\u003cb\u003echhau dance\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: arunachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 76, "label": "apatani", "shape": "dot", "size": 28, "title": "\u003cb\u003eapatani\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: arunachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 78, "label": "deori bihu dance", "shape": "dot", "size": 28, "title": "\u003cb\u003edeori bihu dance\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 206, "label": "politician", "shape": "dot", "size": 28, "title": "\u003cb\u003epolitician\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: politician\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 81, "label": "ali ai ligang dance", "shape": "dot", "size": 28, "title": "\u003cb\u003eali ai ligang dance\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 82, "label": "rabha tribe", "shape": "dot", "size": 28, "title": "\u003cb\u003erabha tribe\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 209, "label": "copywriter", "shape": "dot", "size": 28, "title": "\u003cb\u003ecopywriter\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: copywriter\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 84, "label": "chomangkan dance", "shape": "dot", "size": 28, "title": "\u003cb\u003echomangkan dance\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 85, "label": "cultural heritage", "shape": "dot", "size": 28, "title": "\u003cb\u003ecultural heritage\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 4"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 86, "label": "jikir and jari", "shape": "dot", "size": 28, "title": "\u003cb\u003ejikir and jari\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 87, "label": "jhumar", "shape": "dot", "size": 28, "title": "\u003cb\u003ejhumar\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: bihar\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 212, "label": "photographer", "shape": "dot", "size": 28, "title": "\u003cb\u003ephotographer\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: photographer\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 213, "label": "architect", "shape": "dot", "size": 28, "title": "\u003cb\u003earchitect\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: architect\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 214, "label": "housekeepers", "shape": "dot", "size": 28, "title": "\u003cb\u003ehousekeepers\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: housekeeper\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 215, "label": "entrance hall", "shape": "dot", "size": 28, "title": "\u003cb\u003eentrance hall\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: housekeeper\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 216, "label": "payment", "shape": "dot", "size": 28, "title": "\u003cb\u003epayment\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: waiter\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 98, "label": "us citizens", "shape": "dot", "size": 28, "title": "\u003cb\u003eus citizens\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 106, "label": "sandwiches", "shape": "dot", "size": 28, "title": "\u003cb\u003esandwiches\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 107, "label": "freedom", "shape": "dot", "size": 28, "title": "\u003cb\u003efreedom\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 3"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 109, "label": "americans", "shape": "dot", "size": 28, "title": "\u003cb\u003eamericans\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 3"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 111, "label": "consumers", "shape": "dot", "size": 28, "title": "\u003cb\u003econsumers\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 5"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 113, "label": "education system", "shape": "dot", "size": 28, "title": "\u003cb\u003eeducation system\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 4"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 115, "label": "prices", "shape": "dot", "size": 28, "title": "\u003cb\u003eprices\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 119, "label": "partners", "shape": "dot", "size": 28, "title": "\u003cb\u003epartners\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 3"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": 17, "label": "", "title": "expresses", "to": 38, "width": 0.5}, {"arrows": "to", "from": 20, "label": "", "title": "values", "to": 113, "width": 0.5}, {"arrows": "to", "from": 20, "label": "", "title": "values", "to": 41, "width": 0.5}, {"arrows": "to", "from": 73, "label": "", "title": "expresses", "to": 24, "width": 1.0}, {"arrows": "to", "from": 86, "label": "", "title": "expresses", "to": 24, "width": 0.5}, {"arrows": "to", "from": 213, "label": "", "title": "values", "to": 5, "width": 0.5}, {"arrows": "to", "from": 214, "label": "", "title": "values", "to": 215, "width": 0.5}, {"arrows": "to", "from": 109, "label": "", "title": "express_emotions_towards", "to": 115, "width": 0.5}, {"arrows": "to", "from": 109, "label": "", "title": "express_emotions_towards", "to": 137, "width": 0.5}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"physics": {"barnesHut": {"gravitationalConstant": -8000, "centralGravity": 0.3, "springLength": 120}, "minVelocity": 0.75}, "edges": {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": {"opacity": 0.5}, "width": 0.8}, "interaction": {"hover": true, "tooltipDelay": 100}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

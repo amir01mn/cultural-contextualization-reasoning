@@ -1,0 +1,11 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,apatani tribe,diwali,weaves,1,diwali
+3,4,sherdukpen shawl,algeria,weaves,1,diwali
+5,4,mishmi tribe,algeria,weaves,1,diwali
+4,6,algeria,lungis,weaves,1,diwali
+4,7,algeria,bags,weaves,1,diwali
+4,2,algeria,diwali,weave,1,diwali
+8,4,tangkhul,algeria,weave,1,diwali
+9,4,mao,algeria,weave,1,diwali
+10,4,paite,algeria,weave,1,diwali
+4,2,algeria,diwali,weaves,1,diwali

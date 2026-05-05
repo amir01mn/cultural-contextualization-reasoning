@@ -1,0 +1,578 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 2,
+      "label": "food preparation",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 4,
+      "label": "chanderi sari",
+      "level": 1,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "weaving traditions in maharashtra",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "mealtime",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "dining habits",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "setting",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "accent use",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "age of potty training",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "societal pressures",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "potty training approach",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "restaurant environment",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "customer behavior",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "cultural factors",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "local food preferences",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "vegetable and meat consumption",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "puritanical and religious origins",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "tight-toweled style",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "societal expectations",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "parents",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "dressing style",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "personal preference",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 24,
+      "label": "name choice",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "social norms",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 26,
+      "label": "respect for elders",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "costs",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "driving",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "walking direction",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "women's sport watching",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "health practices",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "judge",
+      "level": 1,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "parental cooperation",
+      "level": 3,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "proposal",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "art work",
+      "level": 3,
+      "cultural_group": "historian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "historical understanding",
+      "level": 3,
+      "cultural_group": "historian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "specific building",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "diwali",
+      "target_label": "food preparation",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "chanderi sari",
+      "target_label": "weaving traditions in maharashtra",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "mealtime",
+      "target_label": "dining habits",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "setting",
+      "target_label": "accent use",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "age of potty training",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "societal pressures",
+      "target_label": "potty training approach",
+      "relation_type": "influence_on",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "restaurant environment",
+      "target_label": "customer behavior",
+      "relation_type": "influence",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "source_label": "cultural factors",
+      "target_label": "diwali",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "local food preferences",
+      "target_label": "vegetable and meat consumption",
+      "relation_type": "influence",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "puritanical and religious origins",
+      "target_label": "tight-toweled style",
+      "relation_type": "influence_on",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "societal expectations",
+      "target_label": "parents",
+      "relation_type": "influence",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 22,
+      "source_label": "algeria",
+      "target_label": "dressing style",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "personal preference",
+      "target_label": "name choice",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "social norms",
+      "target_label": "respect for elders",
+      "relation_type": "influence",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 27,
+      "target": 23,
+      "source_label": "costs",
+      "target_label": "personal preference",
+      "relation_type": "influence",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "source_label": "driving",
+      "target_label": "walking direction",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 25,
+      "target": 30,
+      "source_label": "social norms",
+      "target_label": "women's sport watching",
+      "relation_type": "influence_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 31,
+      "source_label": "algeria",
+      "target_label": "health practices",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "judge",
+      "target_label": "parental cooperation",
+      "relation_type": "influence",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 34,
+      "source_label": "diwali",
+      "target_label": "proposal",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 35,
+      "source_label": "diwali",
+      "target_label": "politician",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "source_label": "art work",
+      "target_label": "historical understanding",
+      "relation_type": "influences",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 38,
+      "target": 1,
+      "source_label": "specific building",
+      "target_label": "diwali",
+      "relation_type": "influence",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

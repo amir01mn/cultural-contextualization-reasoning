@@ -1,0 +1,344 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 5
+    },
+    {
+      "id": 2,
+      "label": "ilkal saree",
+      "level": 1,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "ice tea",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 12
+    },
+    {
+      "id": 5,
+      "label": "sandwiches",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "fresh ingredients",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "morning",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "coffee",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 9,
+      "label": "uncanned whipped cream",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "deserts",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "library",
+      "level": 3,
+      "cultural_group": "librarian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "free area",
+      "level": 3,
+      "cultural_group": "librarian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "desk",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "locking center, file and box drawer",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "details about investment opportunities",
+      "level": 3,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "medication",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "portfolio",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "sealed_plan",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "raised_seal",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "papers",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 21,
+      "label": "updates",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 2,
+      "target": 1,
+      "source_label": "ilkal saree",
+      "target_label": "algeria",
+      "relation_type": "contain",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "ice tea",
+      "target_label": "diwali",
+      "relation_type": "often_contains",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "sandwiches",
+      "target_label": "fresh ingredients",
+      "relation_type": "contain",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "source_label": "morning",
+      "target_label": "diwali",
+      "relation_type": "contain",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 4,
+      "source_label": "coffee",
+      "target_label": "diwali",
+      "relation_type": "often_contains",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "coffee",
+      "target_label": "uncanned whipped cream",
+      "relation_type": "often_contains",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "deserts",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "library",
+      "target_label": "free area",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "desk",
+      "target_label": "locking center, file and box drawer",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 4,
+      "target": 15,
+      "source_label": "diwali",
+      "target_label": "details about investment opportunities",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 16,
+      "target": 4,
+      "source_label": "medication",
+      "target_label": "diwali",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "source_label": "portfolio",
+      "target_label": "algeria",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "sealed_plan",
+      "target_label": "raised_seal",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "papers",
+      "target_label": "updates",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 20,
+      "target": 4,
+      "source_label": "papers",
+      "target_label": "diwali",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

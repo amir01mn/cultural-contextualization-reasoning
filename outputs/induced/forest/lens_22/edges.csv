@@ -1,0 +1,45 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,3,weeks before eid,anticipation,indicates,1,arabculture
+1,4,diwali,grandfathers and grandmothers,show_respect_to,1,arabculture
+5,6,algeria,necessary items,receive,1,arabculture
+7,8,parents,children on birthdays,give_gifts_to,1,arabculture
+9,10,fiancée,gifts,receives,1,arabculture
+11,12,meeting time,others' schedules,indicates_respect,1,arabculture
+5,13,algeria,social status,indicate,1,diwali
+1,14,diwali,rengma naga tribe,indicate_status,1,diwali
+1,15,diwali,accomplishments,indicate,1,diwali
+16,5,service staff,algeria,receives_payment_from,1,culturebank
+17,1,acknowledgment,diwali,indicate,1,culturebank
+5,1,algeria,diwali,respect,1,culturebank
+18,5,seller,algeria,receives_payment_from,1,culturebank
+5,1,algeria,diwali,indicate_status,1,blend
+19,5,mother,algeria,receive,1,blend
+20,1,guests,diwali,receive,2,blend
+21,22,father,father's day,receive_gifts_on,1,blend
+19,1,mother,diwali,receive_gifts_on,1,blend
+7,5,parents,algeria,give_gifts_to,1,blend
+1,23,diwali,pupil development,indicate,1,candle
+5,1,algeria,diwali,receive,1,candle
+5,24,algeria,respect from students,receive,1,candle
+5,25,algeria,papers,receives,1,candle
+26,27,calm responses,reassuring nature,indicate,1,candle
+5,10,algeria,gifts,receives,1,candle
+5,28,algeria,through bowing,receive_respect,1,candle
+5,29,algeria,development of critical skills,receives,1,candle
+30,31,hive,swarming potential,indicates,1,candle
+1,32,diwali,for occupation,indicates_respect,1,candle
+33,34,patient,health,receives,1,candle
+35,36,nurse,patient's religion,respect,1,candle
+5,37,algeria,individualized learning,receive,1,candle
+38,39,person/group,tailored item,receives,1,candle
+40,41,tailor-made,specific customization,indicates,1,candle
+42,43,shopper,distinctiveness,receives,1,candle
+33,1,patient,diwali,receives,1,candle
+44,45,customer service,quality of service,indicate,1,candle
+46,47,artist,for their skills,receive_respect,1,candle
+48,49,brushstroke,artistic_skill,indicates,1,candle
+1,50,diwali,painter,receives,2,candle
+1,51,diwali,special dance,receives,1,candle
+52,5,table,algeria,receives,1,candle
+33,5,patient,algeria,receive,1,candle
+1,53,diwali,health status,indicates,1,candle

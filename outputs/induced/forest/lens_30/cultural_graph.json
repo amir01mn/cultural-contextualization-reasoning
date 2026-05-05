@@ -1,0 +1,650 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "hospitality",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "fruit offerings",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "personal hygiene",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 4,
+      "label": "generations",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 5,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 19
+    },
+    {
+      "id": 6,
+      "label": "atk",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "education system",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "proverb",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 9,
+      "label": "traditional recipes",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "observance of ashura",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "muharram traditions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "patriotic values",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "social interactions",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "gathering and playing",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "optionality",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "variety_of_items",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 17
+    },
+    {
+      "id": 18,
+      "label": "custom of inquiry",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "present",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "loom weaving technique",
+      "level": 3,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "casual tone",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "friendliness",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "appropriate attire and accessories",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "united states",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "patriotic manner",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "offers of help",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "thriftiness",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "admiration and appreciation",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "likes",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "thank you messages",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "soccer rivalries",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "craft skills",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "oral traditions",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "sport traditions",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "teacher_students_interaction",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "portraits",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "hospitality",
+      "target_label": "fruit offerings",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "personal hygiene",
+      "target_label": "generations",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "generations",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "atk",
+      "target_label": "education system",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "proverb",
+      "relation_type": "pass_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "source_label": "algeria",
+      "target_label": "traditional recipes",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "observance of ashura",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "muharram traditions",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 12,
+      "source_label": "algeria",
+      "target_label": "patriotic values",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "social interactions",
+      "target_label": "gathering and playing",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "proverb",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "optionality",
+      "target_label": "variety_of_items",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 17,
+      "target": 4,
+      "source_label": "diwali",
+      "target_label": "generations",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "diwali",
+      "target_label": "custom of inquiry",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "gifts",
+      "target_label": "present",
+      "relation_type": "expresses_love_through",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 21,
+      "source_label": "algeria",
+      "target_label": "loom weaving technique",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 17,
+      "target": 22,
+      "source_label": "diwali",
+      "target_label": "casual tone",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 23,
+      "target": 17,
+      "source_label": "friendliness",
+      "target_label": "diwali",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 24,
+      "source_label": "diwali",
+      "target_label": "appropriate attire and accessories",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "united states",
+      "target_label": "patriotic manner",
+      "relation_type": "expresses_love_through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 27,
+      "source_label": "diwali",
+      "target_label": "offers of help",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 28,
+      "source_label": "algeria",
+      "target_label": "thriftiness",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 29,
+      "source_label": "algeria",
+      "target_label": "admiration and appreciation",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 30,
+      "source_label": "diwali",
+      "target_label": "likes",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 31,
+      "source_label": "diwali",
+      "target_label": "thank you messages",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 32,
+      "source_label": "algeria",
+      "target_label": "soccer rivalries",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "generations",
+      "relation_type": "passed_down_through",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 33,
+      "source_label": "algeria",
+      "target_label": "craft skills",
+      "relation_type": "pass_down",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 34,
+      "source_label": "algeria",
+      "target_label": "oral traditions",
+      "relation_type": "pass_down",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 35,
+      "source_label": "algeria",
+      "target_label": "sport traditions",
+      "relation_type": "pass_down",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 17,
+      "target": 36,
+      "source_label": "diwali",
+      "target_label": "teacher_students_interaction",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "source_label": "personal hygiene",
+      "target_label": "algeria",
+      "relation_type": "expressed_through",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 37,
+      "source_label": "algeria",
+      "target_label": "portraits",
+      "relation_type": "passed_down_through",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

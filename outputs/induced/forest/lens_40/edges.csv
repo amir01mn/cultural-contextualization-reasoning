@@ -1,0 +1,26 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,diwali,sufficiency,provides,1,arabculture
+3,4,algeria,guests,provide_food,1,arabculture
+5,3,ولاء الويكه,algeria,provides,1,arabculture
+3,6,algeria,subtle elegance,provides,1,diwali
+3,7,algeria,occasional hour-long breaks,provides,1,culturebank
+8,9,service staff,quality service,provide,1,culturebank
+1,10,diwali,sun protection,provide,1,culturebank
+11,12,hospitality,mandatory car seats,provide,1,culturebank
+13,1,employees,diwali,provide,1,culturebank
+13,14,employees,sick leave,provide,1,culturebank
+15,16,nail salon,personal grooming services,provides,1,culturebank
+17,8,healthcare system,service staff,provide,1,culturebank
+8,18,service staff,"friendly, helpful service",provide,1,culturebank
+19,20,restaurant,doggy bags,provides,1,culturebank
+21,8,full-service stations,service staff,provide,1,culturebank
+22,3,elderly care,algeria,provided_by,1,blend
+23,3,funeral parlors,algeria,provide_food,1,blend
+24,25,part-time jobs,income for students,provide,1,blend
+26,27,nurse,patient,provides_care,2,candle
+26,28,nurse,medical care,provides,1,candle
+29,30,tailor-made tours,limousine_service,provide,1,candle
+31,32,full medical history,context for treatment,provides,1,candle
+1,33,diwali,mortgage loan,provides,1,candle
+34,3,doctor,algeria,provide,1,candle
+34,27,doctor,patient,provides_care,1,candle

@@ -1,0 +1,94 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,breakfast,simple nourishment,symbolizes,1,arabculture
+3,4,ramadan,of success or happy occasions,symbolize_celebration,1,arabculture
+5,6,rashtha dish,honor of prophet muhammad,symbolizes,1,arabculture
+7,8,leaving and coming back,returning to one's roots,symbolize,1,arabculture
+9,10,diwali,first food of the day,symbolize,1,arabculture
+9,11,diwali,hope and prosperity,symbolizes,1,arabculture
+3,9,ramadan,diwali,symbolize,1,arabculture
+12,13,moving process,integration of couple,symbolizes,1,arabculture
+9,14,diwali,home,symbolizes,1,arabculture
+15,16,algeria,hospitality,symbolizes,1,arabculture
+3,17,ramadan,honor and respect,symbol_of,1,arabculture
+18,19,gifts,community bonds,symbolize,1,arabculture
+9,20,diwali,spring season,symbolize,1,arabculture
+21,22,sandwiches,care and nurturing,symbolize,1,arabculture
+18,23,gifts,love and care,symbolize,1,arabculture
+9,24,diwali,joyous occasion,symbolizes,1,arabculture
+9,25,diwali,joy and celebration,symbolize,1,arabculture
+26,27,comers,new_people,symbolize,1,arabculture
+3,28,ramadan,mawlid al-nabi,symbolize_celebration,1,arabculture
+29,30,new clothes,wedding celebrations,symbolize,1,arabculture
+31,9,lamb doll,diwali,symbol_of,2,arabculture
+32,33,loyalty home,dirtiness,symbolizes,1,arabculture
+15,16,algeria,hospitality,symbolize,1,arabculture
+9,34,diwali,nature elements,symbolize,1,diwali
+9,35,diwali,tribal folklore,symbolize,1,diwali
+9,36,diwali,assamese pride,symbolizes,1,diwali
+9,37,diwali,assamese culture,symbol_of,1,diwali
+38,39,ceremonial textiles,religious art and textile craftsmanship,symbolize,1,diwali
+9,40,diwali,cultural importance,symbolizes,1,diwali
+9,41,diwali,pakhangba serpent teeth,symbolizes,1,diwali
+9,42,diwali,courage and valor,symbolizes,1,diwali
+9,43,diwali,valor_and_accomplishment,symbolizes,1,diwali
+9,44,diwali,valor and prosperity,symbolizes,1,diwali
+45,46,khiamniungan nütsah shawl,status,symbolizes,1,diwali
+47,48,kanchipuram silk saree,tamil nadu's cultural heritage,symbol_of,1,diwali
+9,49,diwali,cultural and religious significance,symbolizes,1,diwali
+50,51,rasaka,martial traditions,symbolizes,1,diwali
+50,52,rasaka,martial readiness,symbolizes,1,diwali
+9,53,diwali,harmony and prosperity,symbolizes,1,diwali
+54,15,wancho bag,algeria,symbolizes,1,diwali
+9,15,diwali,algeria,symbolizes,4,diwali
+9,55,diwali,joy and unity,symbolize,1,diwali
+9,56,diwali,unity and cultural identity,symbolizes,1,diwali
+57,58,karma dance,prosperity,symbolizes,1,diwali
+9,59,diwali,marital happiness,symbolize,1,diwali
+57,9,karma dance,diwali,symbolizes,1,diwali
+60,61,nacha dance,devotion,symbolizes,1,diwali
+9,62,diwali,discipline,symbolizes,1,diwali
+63,9,engagement ring,diwali,symbol_of,1,culturebank
+64,65,wedding ring,ownership and commitment,symbol_of,1,culturebank
+18,9,gifts,diwali,symbolize,1,culturebank
+66,67,leftovers,money conservation,symbolize,1,culturebank
+68,69,pen license,maturity,symbolize,1,culturebank
+9,70,diwali,patriotism and civic duty,symbolizes,1,culturebank
+71,9,americans,diwali,symbolize,1,culturebank
+9,72,diwali,wealth and fertility,symbolize,1,blend
+1,73,breakfast,new day,symbolizes,1,blend
+74,75,salary,economic stability,symbolizes,1,blend
+76,77,dinner,end of day,symbolizes,1,blend
+18,78,gifts,good fortune,symbolize,1,blend
+79,80,couscous,nourishment,symbolizes,1,blend
+79,9,couscous,diwali,symbolizes,1,blend
+15,81,algeria,hospitality and friendship,symbolizes,1,blend
+15,82,algeria,cultural pride,symbolize,1,blend
+9,83,diwali,male identity,symbolize,1,blend
+84,85,candle,ritual,symbolizes,6,candle
+84,86,candle,responsibility,symbolizes,1,candle
+84,9,candle,diwali,symbolizes,4,candle
+84,87,candle,testing,symbolizes,1,candle
+84,9,candle,diwali,symbolize,1,candle
+84,88,candle,medication,symbolizes,2,candle
+84,89,candle,life,symbolizes,1,candle
+84,90,candle,respect for elders,symbolize,1,candle
+91,92,walk,action congruence,symbolizes,1,candle
+84,62,candle,discipline,symbolizes,1,candle
+84,18,candle,gifts,symbolizes,1,candle
+84,93,candle,accountability,symbolize,1,candle
+84,94,candle,positivity,symbolize,1,candle
+84,95,candle,teacher's role,symbolizes,1,candle
+84,85,candle,ritual,symbol_of,1,candle
+96,97,tailor-made,craftsmanship,symbolizes,1,candle
+98,99,smile,beauty,symbolizes,1,candle
+100,101,white,integrity,symbolizes,1,candle
+102,103,challenge coin,routine job,symbolizes,1,candle
+104,105,reservation,votes,symbolizes,1,candle
+106,9,parades,diwali,symbol_of,1,candle
+84,107,candle,money given,symbolizes,1,candle
+108,109,ribbon,new deal announcement,symbolizes,1,candle
+110,85,books,ritual,symbolize,1,candle
+111,112,bridal day,beginning of new chapter,symbolizes,1,candle
+84,85,candle,ritual,symbolize,2,candle
+113,114,receptions,professional networking,symbolize,1,candle
+84,115,candle,divine reverence for doctors,symbolizes,1,candle

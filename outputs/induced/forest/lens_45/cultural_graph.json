@@ -1,0 +1,398 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "sibling relationships",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "bonding",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 21
+    },
+    {
+      "id": 4,
+      "label": "fabric quality",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "rhythms",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "shiva priya",
+      "level": 1,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 7,
+      "label": "foot movements",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "pure_dance",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "dance",
+      "level": 1,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "footwork",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "safety",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "united states",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "self-reliance",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "parenting style",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "teaching from young age",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "south region",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "businesses",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "education system",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "capital letters",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 21,
+      "label": "romance and love",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "positive direction",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "student values",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "knee injury attorney",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "sibling relationships",
+      "target_label": "bonding",
+      "relation_type": "emphasize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "diwali",
+      "target_label": "fabric quality",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "source_label": "diwali",
+      "target_label": "rhythms",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "source_label": "shiva priya",
+      "target_label": "diwali",
+      "relation_type": "emphasizes",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "source_label": "diwali",
+      "target_label": "foot movements",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "source_label": "diwali",
+      "target_label": "pure_dance",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "dance",
+      "target_label": "footwork",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "source_label": "diwali",
+      "target_label": "safety",
+      "relation_type": "emphasize",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "united states",
+      "target_label": "self-reliance",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "parenting style",
+      "target_label": "teaching from young age",
+      "relation_type": "emphasize",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 16,
+      "target": 3,
+      "source_label": "south region",
+      "target_label": "diwali",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 3,
+      "source_label": "businesses",
+      "target_label": "diwali",
+      "relation_type": "emphasize",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 18,
+      "target": 3,
+      "source_label": "education system",
+      "target_label": "diwali",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 19,
+      "source_label": "diwali",
+      "target_label": "capital letters",
+      "relation_type": "emphasized_by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "algeria",
+      "target_label": "romance and love",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 20,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "emphasize",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "positive direction",
+      "target_label": "student values",
+      "relation_type": "emphasize",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 24,
+      "target": 3,
+      "source_label": "knee injury attorney",
+      "target_label": "diwali",
+      "relation_type": "emphasizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

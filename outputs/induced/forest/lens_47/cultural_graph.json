@@ -1,0 +1,299 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "independence day",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 21
+    },
+    {
+      "id": 3,
+      "label": "goddess",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "yak discovery",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "ancestor abo tani",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "galo",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "cultural heritage",
+      "level": 1,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "deori bihu dance",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 9,
+      "label": "assamese new year",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "ali ai ligang dance",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 11,
+      "label": "deities",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 12,
+      "label": "diwali spirit",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "harvest season",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "cattle",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "nurse",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "patient's beliefs",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "independence day",
+      "target_label": "diwali",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "diwali",
+      "target_label": "goddess",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "source_label": "diwali",
+      "target_label": "yak discovery",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "diwali",
+      "target_label": "ancestor abo tani",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 2,
+      "source_label": "galo",
+      "target_label": "diwali",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "source_label": "diwali",
+      "target_label": "cultural heritage",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "deori bihu dance",
+      "target_label": "assamese new year",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "ali ai ligang dance",
+      "target_label": "deities",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "source_label": "ali ai ligang dance",
+      "target_label": "diwali spirit",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "source_label": "diwali",
+      "target_label": "deities",
+      "relation_type": "honors",
+      "weight": 3,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 13,
+      "source_label": "deori bihu dance",
+      "target_label": "harvest season",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "source_label": "diwali",
+      "target_label": "cattle",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "nurse",
+      "target_label": "patient's beliefs",
+      "relation_type": "honor",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

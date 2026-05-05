@@ -1,0 +1,587 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 17
+    },
+    {
+      "id": 2,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 8
+    },
+    {
+      "id": 3,
+      "label": "algerian musicians",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "vina in desert",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "boy and girl game",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "منزل الجدة",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "family and friends",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "brothers",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "home",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "snake and ladder",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "region",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "electricity",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "beetle game",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "shiekhs",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "nader and ahmed",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "snake and ladder game",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "home games",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "musical chairs",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "samer and her sisters",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "meitei marriage ceremonies",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "traditional musical instrument",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "respect for elders",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "parents",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "student's life",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "process",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "mentor",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "training teachers",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "nurse",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 30,
+      "label": "caregiver",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "success of nurse-midwife care",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "insertion and observation",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "nurse practitioner",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "healthcare system",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "trial",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "play_with",
+      "weight": 3,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "play",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "algerian musicians",
+      "target_label": "vina in desert",
+      "relation_type": "play",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "boy and girl game",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "source_label": "diwali",
+      "target_label": "منزل الجدة",
+      "relation_type": "plays_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "source_label": "family and friends",
+      "target_label": "algeria",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "brothers",
+      "target_label": "home",
+      "relation_type": "play_game",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "snake and ladder",
+      "relation_type": "play_game",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "region",
+      "target_label": "nile valley",
+      "relation_type": "plays_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "play_game",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "algeria",
+      "target_label": "electricity",
+      "relation_type": "play_game",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "beetle game",
+      "relation_type": "play_game",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "source_label": "shiekhs",
+      "target_label": "algeria",
+      "relation_type": "play_role_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "nader and ahmed",
+      "target_label": "snake and ladder game",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "algeria",
+      "target_label": "home games",
+      "relation_type": "play",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_label": "algeria",
+      "target_label": "musical chairs",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "source_label": "samer and her sisters",
+      "target_label": "diwali",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 21,
+      "source_label": "diwali",
+      "target_label": "meitei marriage ceremonies",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "traditional musical instrument",
+      "target_label": "respect for elders",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 24,
+      "target": 1,
+      "source_label": "parents",
+      "target_label": "algeria",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "source_label": "algeria",
+      "target_label": "student's life",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 26,
+      "source_label": "algeria",
+      "target_label": "process",
+      "relation_type": "plays_role",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "mentor",
+      "target_label": "training teachers",
+      "relation_type": "play_role_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "nurse",
+      "target_label": "caregiver",
+      "relation_type": "plays_role",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 29,
+      "target": 31,
+      "source_label": "nurse",
+      "target_label": "success of nurse-midwife care",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 29,
+      "target": 32,
+      "source_label": "nurse",
+      "target_label": "insertion and observation",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "nurse practitioner",
+      "target_label": "healthcare system",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 35,
+      "source_label": "algeria",
+      "target_label": "trial",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

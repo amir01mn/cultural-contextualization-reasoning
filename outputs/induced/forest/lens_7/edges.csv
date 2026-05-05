@@ -1,0 +1,59 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,diwali,fruit festival annually,hosts,1,arabculture
+3,4,algeria,non-religious celebrations,hosts,1,arabculture
+5,6,north africa,ahnab al-'um practice,hosts,1,arabculture
+7,3,nile valley,algeria,hosts,5,arabculture
+7,8,nile valley,morning,hosts,1,arabculture
+7,9,nile valley,wedding celebrations,hosts,1,arabculture
+7,10,nile valley,musical event,hosts,1,arabculture
+7,11,nile valley,dance,hosts,1,arabculture
+12,1,nagaland,diwali,hosts,1,diwali
+1,13,diwali,lambadi dance,hosts,1,diwali
+1,14,diwali,chenchu bhagotham dance,hosts,1,diwali
+1,15,diwali,carcari dance,hosts,1,diwali
+1,16,diwali,aji lhamu festival,hosts,1,diwali
+1,17,diwali,rikham pada dance,hosts,1,diwali
+1,18,diwali,wancho bag,hosts,1,diwali
+1,19,diwali,nishing community,hosts,1,diwali
+20,1,united states,diwali,host,1,diwali
+20,1,united states,diwali,hosts,26,diwali
+20,21,united states,traditional drum-based dances,hosts,1,diwali
+20,22,united states,barpeta's bhortal nritya,hosts,1,diwali
+20,23,united states,ras leela dance-drama,hosts,1,diwali
+20,24,united states,deori bihu dance,hosts,1,diwali
+20,25,united states,kalaigaon dance,hosts,2,diwali
+20,26,united states,dhuliya dance,hosts,3,diwali
+27,28,ali ai ligang,nimso kerung dance,hosts,1,diwali
+20,29,united states,ojapali,hosts,1,diwali
+20,30,united states,jhijhiya dance,hosts,1,diwali
+20,31,united states,fagua dance,hosts,1,diwali
+20,3,united states,algeria,hosts,1,diwali
+20,32,united states,chhau dance,hosts,1,diwali
+20,33,united states,jatra dance,hosts,2,diwali
+20,34,united states,natua,hosts,1,diwali
+20,35,united states,paika,hosts,1,diwali
+36,1,chhattisgarh,diwali,hosts,12,diwali
+36,37,chhattisgarh,pandavani performances,hosts,1,diwali
+36,38,chhattisgarh,khamba swang dance,hosts,1,diwali
+36,39,chhattisgarh,jhumar,hosts,1,diwali
+36,40,chhattisgarh,nacha dance,hosts,2,diwali
+36,11,chhattisgarh,dance,hosts,1,diwali
+3,41,algeria,sport activities,hosts,1,blend
+3,42,algeria,biggest festival,hosts,1,blend
+3,43,algeria,popular religious sites,hosts,1,blend
+3,44,algeria,supported sport,hosts,1,blend
+3,45,algeria,sports fields,hosts,1,blend
+3,46,algeria,school sports day,hosts,1,blend
+3,47,algeria,e-sports games,hosts,1,blend
+3,48,algeria,popular domestic vacations,hosts,1,blend
+3,49,algeria,competitive track and field events,hosts,1,blend
+3,50,algeria,popular clubs,hosts,1,blend
+3,51,algeria,popular track and field sport,hosts,1,blend
+3,1,algeria,diwali,hosts,2,blend
+3,52,algeria,olympic games,hosts,1,blend
+3,53,algeria,popular sports-related tv programs,hosts,1,blend
+3,54,algeria,most popular,host,1,blend
+3,55,algeria,popular extracurricular social events,host,1,blend
+56,57,hotel,stay,hosts,1,candle
+3,58,algeria,nurse,hosts,1,candle
+59,60,hospital,nurses' week celebration,host,1,candle

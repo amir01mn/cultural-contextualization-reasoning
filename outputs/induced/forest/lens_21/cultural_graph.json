@@ -1,0 +1,1028 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 36
+    },
+    {
+      "id": 2,
+      "label": "pre-dawn meal during ramadan",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "breakfast during ramadan",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "الرمز المدرسي",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "compulsory",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "a type of beverage",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "animatronic toy",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "gazaa",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "patola weaving process",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "highly complex",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "resulting_pattern",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "checkered with undyed areas",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 14,
+      "label": "foot-centric dance",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "galo dance",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "classical dance-drama",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "dance-drama",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "dance-theatre",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "dance",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 20,
+      "label": "thengal kachari dance",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "kalaigaon dance",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "chhau dance",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "jatra dance",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "folk theatre",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "semi-classical dance",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "england",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "water use",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "efficient",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "transportation method",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "car",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "algerian society",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "capitalist",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "brand name",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "most popular",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 6
+    },
+    {
+      "id": 35,
+      "label": "sport commentator",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "most popular in algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "commonly given flower",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "most_popular",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "unspecified_mental_sport",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "arak",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "e-sports game",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "gaming activity",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "indispensable ingredient",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "couscous",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "seasoning",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "festival drink",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "alcoholic beverage",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "track and field events",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "football",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "tourist destination",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "popular among algerians",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "footbal(l)",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "evening meal",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "important",
+      "level": 1,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "special tool",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "customized",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "remembered",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "treasured",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "archaeologist",
+      "level": 3,
+      "cultural_group": "historian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "historian",
+      "level": 1,
+      "cultural_group": "historian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "priest",
+      "level": 1,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "knee injury",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "diwali",
+      "target_label": "pre-dawn meal during ramadan",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "diwali",
+      "target_label": "breakfast during ramadan",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "الرمز المدرسي",
+      "target_label": "compulsory",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "diwali",
+      "target_label": "a type of beverage",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "diwali",
+      "target_label": "animatronic toy",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "diwali",
+      "target_label": "gazaa",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "patola weaving process",
+      "target_label": "highly complex",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "resulting_pattern",
+      "target_label": "checkered with undyed areas",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "diwali",
+      "target_label": "foot-centric dance",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "diwali",
+      "target_label": "galo dance",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "diwali",
+      "target_label": "classical dance-drama",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "diwali",
+      "target_label": "dance-drama",
+      "relation_type": "is_a_form_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "diwali",
+      "target_label": "dance-theatre",
+      "relation_type": "is_a_form_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_label": "diwali",
+      "target_label": "dance",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 20,
+      "target": 13,
+      "source_label": "thengal kachari dance",
+      "target_label": "algeria",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_label": "diwali",
+      "target_label": "dance",
+      "relation_type": "is_a_form_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 19,
+      "source_label": "kalaigaon dance",
+      "target_label": "dance",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_label": "diwali",
+      "target_label": "dance",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 22,
+      "target": 13,
+      "source_label": "chhau dance",
+      "target_label": "algeria",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "jatra dance",
+      "target_label": "folk theatre",
+      "relation_type": "is_a_form_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "source_label": "diwali",
+      "target_label": "semi-classical dance",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 26,
+      "source_label": "diwali",
+      "target_label": "england",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "water use",
+      "target_label": "efficient",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "transportation method",
+      "target_label": "car",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "algerian society",
+      "target_label": "capitalist",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 33,
+      "source_label": "diwali",
+      "target_label": "brand name",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 34,
+      "target": 1,
+      "source_label": "most popular",
+      "target_label": "diwali",
+      "relation_type": "is",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "sport commentator",
+      "target_label": "most popular in algeria",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 37,
+      "target": 1,
+      "source_label": "commonly given flower",
+      "target_label": "diwali",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "source_label": "most_popular",
+      "target_label": "unspecified_mental_sport",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 34,
+      "target": 40,
+      "source_label": "most popular",
+      "target_label": "arak",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "source_label": "e-sports game",
+      "target_label": "gaming activity",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "source_label": "indispensable ingredient",
+      "target_label": "couscous",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 45,
+      "source_label": "diwali",
+      "target_label": "seasoning",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "source_label": "festival drink",
+      "target_label": "alcoholic beverage",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 48,
+      "target": 34,
+      "source_label": "track and field events",
+      "target_label": "most popular",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 49,
+      "target": 34,
+      "source_label": "football",
+      "target_label": "most popular",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "source_label": "tourist destination",
+      "target_label": "popular among algerians",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 34,
+      "target": 52,
+      "source_label": "most popular",
+      "target_label": "footbal(l)",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 53,
+      "source_label": "diwali",
+      "target_label": "evening meal",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 54,
+      "source_label": "diwali",
+      "target_label": "important",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 55,
+      "source_label": "diwali",
+      "target_label": "special tool",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 56,
+      "source_label": "diwali",
+      "target_label": "customized",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 57,
+      "source_label": "diwali",
+      "target_label": "remembered",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 58,
+      "source_label": "diwali",
+      "target_label": "treasured",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "source_label": "archaeologist",
+      "target_label": "historian",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 61,
+      "source_label": "diwali",
+      "target_label": "priest",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 62,
+      "source_label": "diwali",
+      "target_label": "knee injury",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

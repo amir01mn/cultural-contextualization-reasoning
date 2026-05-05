@@ -1,0 +1,14 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,mother,balanced meal,ensures,1,arabculture
+3,4,algeria,individuals commit to iftar,ensure,1,arabculture
+5,6,diwali,sufficient skincare,ensures,1,arabculture
+5,7,diwali,avoids thirst,ensures,1,arabculture
+8,9,farming communities,suitable conditions,ensure,1,arabculture
+10,11,daily exercise,safety,ensures,1,culturebank
+11,12,safety,candy distribution,ensure,1,culturebank
+5,13,diwali,smooth running,ensure,1,candle
+5,14,diwali,success,ensures,1,candle
+15,16,nurse,well-fed,ensures,1,candle
+17,18,regular visits,treatment progress,ensure,1,candle
+19,20,professional dog walker,regular walks,ensures,1,candle
+21,22,attorney,legal compliance,ensures,1,candle

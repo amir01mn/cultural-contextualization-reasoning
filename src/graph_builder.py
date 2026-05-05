@@ -39,13 +39,12 @@ def _coerce_edge(raw: dict) -> Edge | None:
     rel = str(raw.get("relation_type") or "influences").strip().lower()
     if not src or not tgt or src == tgt:
         return None
-    if rel not in RELATION_TYPES:
-        rel = "influences"
+    # No forced fallback — preserve free-form relations from data-driven pipeline
     source = str(raw.get("source_dataset") or "")
     return Edge(source_label=src, target_label=tgt, relation_type=rel, source_dataset=source)
 
 
-def build_graph(raw_nodes: list[dict], raw_edges: list[dict]) -> CulturalGraph:
+def build_graph(raw_nodes: list[dict], raw_edges: list[dict], anchor_to_root: bool = True) -> CulturalGraph:
     """
     Build and return a CulturalGraph from the extractor's raw output.
     - Normalizes and deduplicates nodes (frequency-counted)
@@ -74,17 +73,19 @@ def build_graph(raw_nodes: list[dict], raw_edges: list[dict]) -> CulturalGraph:
             continue
         graph.add_edge(edge)
 
-    # Ensure every Level 1 domain node connects up to Human
-    human_label = "human"
-    for node in graph.node_list:
-        if node.level == 1 and node.label != human_label:
-            connector = Edge(
-                source_label=human_label,
-                target_label=node.label,
-                relation_type="manifests_in",
-                source_dataset="schema",
-            )
-            graph.add_edge(connector)
+    # In Task 1 (anchor_to_root=True), force all Level-1 nodes to connect to human root.
+    # In Task 2 (anchor_to_root=False), connections emerge from the data itself.
+    if anchor_to_root:
+        human_label = "human"
+        for node in graph.node_list:
+            if node.level == 1 and node.label != human_label:
+                connector = Edge(
+                    source_label=human_label,
+                    target_label=node.label,
+                    relation_type="manifests_in",
+                    source_dataset="schema",
+                )
+                graph.add_edge(connector)
 
     print(
         f"[builder] Graph: {len(graph.nodes)} nodes, {len(graph.edges)} edges"

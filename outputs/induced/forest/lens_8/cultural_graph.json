@@ -1,0 +1,1892 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "breakfast",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 2,
+      "label": "simple nourishment",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 4,
+      "label": "of success or happy occasions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "rashtha dish",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "honor of prophet muhammad",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "leaving and coming back",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "returning to one's roots",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 56
+    },
+    {
+      "id": 10,
+      "label": "first food of the day",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "hope and prosperity",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "moving process",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "integration of couple",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "home",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 9
+    },
+    {
+      "id": 16,
+      "label": "hospitality",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 17,
+      "label": "honor and respect",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 19,
+      "label": "community bonds",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "spring season",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "sandwiches",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "care and nurturing",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "love and care",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "joyous occasion",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "joy and celebration",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "comers",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "new_people",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "mawlid al-nabi",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "new clothes",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "wedding celebrations",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "lamb doll",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 32,
+      "label": "loyalty home",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "dirtiness",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "nature elements",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "tribal folklore",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "assamese pride",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "assamese culture",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "ceremonial textiles",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "religious art and textile craftsmanship",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "cultural importance",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "pakhangba serpent teeth",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "courage and valor",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "valor_and_accomplishment",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "valor and prosperity",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "khiamniungan nütsah shawl",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "status",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "kanchipuram silk saree",
+      "level": 1,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "tamil nadu's cultural heritage",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "cultural and religious significance",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "rasaka",
+      "level": 1,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 51,
+      "label": "martial traditions",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "martial readiness",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "harmony and prosperity",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "wancho bag",
+      "level": 1,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "joy and unity",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "unity and cultural identity",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "karma dance",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 58,
+      "label": "prosperity",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "marital happiness",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "nacha dance",
+      "level": 1,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "devotion",
+      "level": 1,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "discipline",
+      "level": 1,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 63,
+      "label": "engagement ring",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "wedding ring",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "ownership and commitment",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "leftovers",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "money conservation",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "pen license",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "maturity",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "patriotism and civic duty",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "americans",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "wealth and fertility",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "new day",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "salary",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "economic stability",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "dinner",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "end of day",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "good fortune",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "couscous",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 80,
+      "label": "nourishment",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "hospitality and friendship",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "cultural pride",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "male identity",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "candle",
+      "level": 1,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 27
+    },
+    {
+      "id": 85,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 10
+    },
+    {
+      "id": 86,
+      "label": "responsibility",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "testing",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "medication",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 89,
+      "label": "life",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "respect for elders",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "walk",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "action congruence",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "accountability",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "positivity",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "teacher's role",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "tailor-made",
+      "level": 1,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "craftsmanship",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "smile",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "beauty",
+      "level": 1,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "white",
+      "level": 1,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "integrity",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "challenge coin",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "routine job",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "reservation",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "votes",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "parades",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "money given",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "ribbon",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "new deal announcement",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "books",
+      "level": 1,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "bridal day",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "beginning of new chapter",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "receptions",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "professional networking",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "divine reverence for doctors",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "breakfast",
+      "target_label": "simple nourishment",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "ramadan",
+      "target_label": "of success or happy occasions",
+      "relation_type": "symbolize_celebration",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "rashtha dish",
+      "target_label": "honor of prophet muhammad",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "leaving and coming back",
+      "target_label": "returning to one's roots",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "diwali",
+      "target_label": "first food of the day",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "source_label": "diwali",
+      "target_label": "hope and prosperity",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "source_label": "ramadan",
+      "target_label": "diwali",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "moving process",
+      "target_label": "integration of couple",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "source_label": "diwali",
+      "target_label": "home",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "algeria",
+      "target_label": "hospitality",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 17,
+      "source_label": "ramadan",
+      "target_label": "honor and respect",
+      "relation_type": "symbol_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "gifts",
+      "target_label": "community bonds",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 20,
+      "source_label": "diwali",
+      "target_label": "spring season",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "sandwiches",
+      "target_label": "care and nurturing",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 23,
+      "source_label": "gifts",
+      "target_label": "love and care",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 24,
+      "source_label": "diwali",
+      "target_label": "joyous occasion",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 25,
+      "source_label": "diwali",
+      "target_label": "joy and celebration",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "comers",
+      "target_label": "new_people",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 28,
+      "source_label": "ramadan",
+      "target_label": "mawlid al-nabi",
+      "relation_type": "symbolize_celebration",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "new clothes",
+      "target_label": "wedding celebrations",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 31,
+      "target": 9,
+      "source_label": "lamb doll",
+      "target_label": "diwali",
+      "relation_type": "symbol_of",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "loyalty home",
+      "target_label": "dirtiness",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "algeria",
+      "target_label": "hospitality",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 34,
+      "source_label": "diwali",
+      "target_label": "nature elements",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 35,
+      "source_label": "diwali",
+      "target_label": "tribal folklore",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 36,
+      "source_label": "diwali",
+      "target_label": "assamese pride",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 37,
+      "source_label": "diwali",
+      "target_label": "assamese culture",
+      "relation_type": "symbol_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "source_label": "ceremonial textiles",
+      "target_label": "religious art and textile craftsmanship",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 40,
+      "source_label": "diwali",
+      "target_label": "cultural importance",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 41,
+      "source_label": "diwali",
+      "target_label": "pakhangba serpent teeth",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 42,
+      "source_label": "diwali",
+      "target_label": "courage and valor",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 43,
+      "source_label": "diwali",
+      "target_label": "valor_and_accomplishment",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 44,
+      "source_label": "diwali",
+      "target_label": "valor and prosperity",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "khiamniungan nütsah shawl",
+      "target_label": "status",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "source_label": "kanchipuram silk saree",
+      "target_label": "tamil nadu's cultural heritage",
+      "relation_type": "symbol_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 49,
+      "source_label": "diwali",
+      "target_label": "cultural and religious significance",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "source_label": "rasaka",
+      "target_label": "martial traditions",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 50,
+      "target": 52,
+      "source_label": "rasaka",
+      "target_label": "martial readiness",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 53,
+      "source_label": "diwali",
+      "target_label": "harmony and prosperity",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 54,
+      "target": 15,
+      "source_label": "wancho bag",
+      "target_label": "algeria",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 15,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "symbolizes",
+      "weight": 4,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 55,
+      "source_label": "diwali",
+      "target_label": "joy and unity",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 56,
+      "source_label": "diwali",
+      "target_label": "unity and cultural identity",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "source_label": "karma dance",
+      "target_label": "prosperity",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 59,
+      "source_label": "diwali",
+      "target_label": "marital happiness",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 57,
+      "target": 9,
+      "source_label": "karma dance",
+      "target_label": "diwali",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "source_label": "nacha dance",
+      "target_label": "devotion",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 62,
+      "source_label": "diwali",
+      "target_label": "discipline",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 63,
+      "target": 9,
+      "source_label": "engagement ring",
+      "target_label": "diwali",
+      "relation_type": "symbol_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "source_label": "wedding ring",
+      "target_label": "ownership and commitment",
+      "relation_type": "symbol_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 18,
+      "target": 9,
+      "source_label": "gifts",
+      "target_label": "diwali",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "source_label": "leftovers",
+      "target_label": "money conservation",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 68,
+      "target": 69,
+      "source_label": "pen license",
+      "target_label": "maturity",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 70,
+      "source_label": "diwali",
+      "target_label": "patriotism and civic duty",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 71,
+      "target": 9,
+      "source_label": "americans",
+      "target_label": "diwali",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 72,
+      "source_label": "diwali",
+      "target_label": "wealth and fertility",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 73,
+      "source_label": "breakfast",
+      "target_label": "new day",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "source_label": "salary",
+      "target_label": "economic stability",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 76,
+      "target": 77,
+      "source_label": "dinner",
+      "target_label": "end of day",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 18,
+      "target": 78,
+      "source_label": "gifts",
+      "target_label": "good fortune",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "source_label": "couscous",
+      "target_label": "nourishment",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 79,
+      "target": 9,
+      "source_label": "couscous",
+      "target_label": "diwali",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 81,
+      "source_label": "algeria",
+      "target_label": "hospitality and friendship",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 82,
+      "source_label": "algeria",
+      "target_label": "cultural pride",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 9,
+      "target": 83,
+      "source_label": "diwali",
+      "target_label": "male identity",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 84,
+      "target": 85,
+      "source_label": "candle",
+      "target_label": "ritual",
+      "relation_type": "symbolizes",
+      "weight": 6,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 86,
+      "source_label": "candle",
+      "target_label": "responsibility",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 9,
+      "source_label": "candle",
+      "target_label": "diwali",
+      "relation_type": "symbolizes",
+      "weight": 4,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 87,
+      "source_label": "candle",
+      "target_label": "testing",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 9,
+      "source_label": "candle",
+      "target_label": "diwali",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 88,
+      "source_label": "candle",
+      "target_label": "medication",
+      "relation_type": "symbolizes",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 89,
+      "source_label": "candle",
+      "target_label": "life",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 90,
+      "source_label": "candle",
+      "target_label": "respect for elders",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 91,
+      "target": 92,
+      "source_label": "walk",
+      "target_label": "action congruence",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 62,
+      "source_label": "candle",
+      "target_label": "discipline",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 18,
+      "source_label": "candle",
+      "target_label": "gifts",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 93,
+      "source_label": "candle",
+      "target_label": "accountability",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 94,
+      "source_label": "candle",
+      "target_label": "positivity",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 95,
+      "source_label": "candle",
+      "target_label": "teacher's role",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 85,
+      "source_label": "candle",
+      "target_label": "ritual",
+      "relation_type": "symbol_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "source_label": "tailor-made",
+      "target_label": "craftsmanship",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 98,
+      "target": 99,
+      "source_label": "smile",
+      "target_label": "beauty",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 100,
+      "target": 101,
+      "source_label": "white",
+      "target_label": "integrity",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "source_label": "challenge coin",
+      "target_label": "routine job",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 104,
+      "target": 105,
+      "source_label": "reservation",
+      "target_label": "votes",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 106,
+      "target": 9,
+      "source_label": "parades",
+      "target_label": "diwali",
+      "relation_type": "symbol_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 107,
+      "source_label": "candle",
+      "target_label": "money given",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 108,
+      "target": 109,
+      "source_label": "ribbon",
+      "target_label": "new deal announcement",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 110,
+      "target": 85,
+      "source_label": "books",
+      "target_label": "ritual",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 112,
+      "source_label": "bridal day",
+      "target_label": "beginning of new chapter",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 85,
+      "source_label": "candle",
+      "target_label": "ritual",
+      "relation_type": "symbolize",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 113,
+      "target": 114,
+      "source_label": "receptions",
+      "target_label": "professional networking",
+      "relation_type": "symbolize",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 84,
+      "target": 115,
+      "source_label": "candle",
+      "target_label": "divine reverence for doctors",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

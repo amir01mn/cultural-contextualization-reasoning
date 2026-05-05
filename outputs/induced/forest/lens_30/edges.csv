@@ -1,0 +1,34 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,hospitality,fruit offerings,expressed_through,1,arabculture
+3,4,personal hygiene,generations,passed_down,1,arabculture
+5,4,algeria,generations,passed_down,1,arabculture
+6,7,atk,education system,passed_down,1,arabculture
+5,8,algeria,proverb,pass_down,1,arabculture
+5,9,algeria,traditional recipes,passes_down,1,arabculture
+5,10,algeria,observance of ashura,passed_down,1,arabculture
+5,11,algeria,muharram traditions,passes_down,1,arabculture
+5,12,algeria,patriotic values,passes_down,1,arabculture
+13,14,social interactions,gathering and playing,expressed_through,1,arabculture
+5,8,algeria,proverb,passes_down,1,arabculture
+15,16,optionality,variety_of_items,expressed_through,1,arabculture
+17,4,diwali,generations,passed_down,1,arabculture
+17,18,diwali,custom of inquiry,passes_down,1,arabculture
+19,20,gifts,present,expresses_love_through,1,arabculture
+5,21,algeria,loom weaving technique,passes_down,1,diwali
+17,22,diwali,casual tone,expressed_through,1,culturebank
+23,17,friendliness,diwali,expressed_through,1,culturebank
+17,24,diwali,appropriate attire and accessories,expressed_through,1,culturebank
+25,26,united states,patriotic manner,expresses_love_through,1,culturebank
+17,27,diwali,offers of help,expressed_through,1,culturebank
+5,28,algeria,thriftiness,expressed_through,1,culturebank
+5,29,algeria,admiration and appreciation,passed_down,1,culturebank
+17,30,diwali,likes,expressed_through,1,culturebank
+17,31,diwali,thank you messages,expressed_through,1,culturebank
+5,32,algeria,soccer rivalries,expressed_through,1,blend
+5,4,algeria,generations,passed_down_through,1,blend
+5,33,algeria,craft skills,pass_down,1,blend
+5,34,algeria,oral traditions,pass_down,1,blend
+5,35,algeria,sport traditions,pass_down,1,blend
+17,36,diwali,teacher_students_interaction,expressed_through,1,candle
+3,5,personal hygiene,algeria,expressed_through,1,candle
+5,37,algeria,portraits,passed_down_through,1,candle

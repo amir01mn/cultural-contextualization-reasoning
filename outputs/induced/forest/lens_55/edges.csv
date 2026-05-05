@@ -1,0 +1,18 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,restaurant,payment options,offers,1,culturebank
+3,4,diwali,large portions,offers,1,culturebank
+5,6,algeria,structured breaks,offer,1,culturebank
+5,7,algeria,unstructured breaks,offer,1,culturebank
+8,9,businesses,water,offers,1,culturebank
+10,11,united states,maternity leave policies,offers,1,culturebank
+12,13,service provider,professional nail care,offers,1,culturebank
+14,15,cheese sections/stores,diverse cheese options,offer,1,culturebank
+16,17,americans,unique dining experiences,offer,1,culturebank
+18,19,employees,paid holidays,offer,1,culturebank
+8,20,businesses,up to 40 days per year,offer,1,culturebank
+21,22,academies/institutes,various subjects,offer,1,blend
+23,3,household,diwali,offer,1,blend
+5,24,algeria,extracurricular music programs,offer,1,blend
+25,26,nurse,health,offers,1,candle
+27,28,mentoring sessions,individualized support,offer,1,candle
+29,30,utility,programs,offers,1,candle

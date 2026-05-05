@@ -1,0 +1,74 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algerian grandmother,delicious breakfast,prepares,1,arabculture
+3,4,zinb,diwali,prepares,1,arabculture
+5,4,سلمى,diwali,prepares,1,arabculture
+4,6,diwali,hot meal,prepares_dinner,1,arabculture
+7,8,household,ramadan,prepare,1,arabculture
+4,9,diwali,algeria,prepares,2,arabculture
+4,10,diwali,day before wedding,prepares_for_wedding,1,arabculture
+9,8,algeria,ramadan,prepares_for,1,arabculture
+11,4,day of arafat,diwali,prepares_for,1,arabculture
+12,13,work week,activities,prepares_for,1,arabculture
+14,4,ahl al-mait,diwali,prepare,1,arabculture
+15,4,mother,diwali,prepares,1,arabculture
+16,4,samia,diwali,prepares,1,arabculture
+4,17,diwali,olive tagine,prepares,1,arabculture
+15,18,mother,summer evening,prepares_dinner,1,arabculture
+4,19,diwali,beverages with vegetables,prepares,1,arabculture
+9,20,algeria,ramadan beverage,prepare,1,arabculture
+9,21,algeria,guests,prepare_sweets,2,arabculture
+4,22,diwali,some religious occasions,prepared_for,1,arabculture
+23,4,الناس,diwali,prepare,1,arabculture
+15,24,mother,son for school,prepares,1,arabculture
+15,9,mother,algeria,prepares_for,1,arabculture
+9,25,algeria,announce death,prepares,1,arabculture
+4,26,diwali,fava beans,prepares,3,arabculture
+27,4,shams,diwali,prepares,1,arabculture
+4,28,diwali,breakfast,prepares,1,arabculture
+9,29,algeria,fried potatoes for dinner,prepares,1,arabculture
+30,4,father,diwali,prepares,1,arabculture
+15,9,mother,algeria,prepares,1,arabculture
+9,31,algeria,vegetable stew with rice,prepares,1,arabculture
+4,32,diwali,large fava bean dish,prepares,1,arabculture
+9,4,algeria,diwali,prepare,3,arabculture
+4,33,diwali,fava beans for family breakfast,prepares,1,arabculture
+34,28,علياء البصاره,breakfast,prepares_for,1,arabculture
+35,4,hanea,diwali,prepares,1,arabculture
+36,37,hala,molokhia,prepares,1,arabculture
+4,38,diwali,شكشوكه,prepares,1,arabculture
+39,4,علياء,diwali,prepares,1,arabculture
+4,40,diwali,eggs with ful medames for suhoor,prepares,1,arabculture
+4,9,diwali,algeria,prepares_for,1,arabculture
+4,41,diwali,wedding celebrations,prepares_for_wedding,1,arabculture
+4,42,diwali,eid al-adha feast,prepared_for,1,arabculture
+9,43,algeria,sacrificial animal preparation,prepares_for,1,arabculture
+44,45,shaima,khubz and biscuits,prepares,1,arabculture
+9,4,algeria,diwali,prepares,1,arabculture
+4,46,diwali,distribute zakat al-fitr,prepares_for,1,arabculture
+47,4,essential feast,diwali,prepared_for,1,arabculture
+48,49,sheikh mohamed,distributing meat,prepares_for,1,arabculture
+4,50,diwali,lamb doll,prepares,1,arabculture
+50,51,lamb doll,sham al-nessim,prepared_for,1,arabculture
+52,53,mowaffaq,at 6 am,prepares_for_work,1,arabculture
+4,54,diwali,استعدت,prepares_for_work,1,arabculture
+9,55,algeria,morning,prepares_for_work,1,arabculture
+56,57,ubair,bathroom supplies,prepares,1,arabculture
+4,58,diwali,youth gathering,prepares_for,1,arabculture
+59,60,فوزية,ابنتها,prepares_for,1,arabculture
+61,62,parents,emergencies,prepare_for,1,culturebank
+61,9,parents,algeria,prepare,1,culturebank
+9,63,algeria,exam subjects,prepare_for,1,blend
+64,21,host,guests,prepare_for,1,blend
+65,66,chef,popular dishes,prepares,1,blend
+67,68,court staff,order,prepare,1,candle
+69,70,handlers,yearlings,prepares,1,candle
+71,72,preschool,kindergarten,prepares_for,1,candle
+9,73,algeria,lesson,prepares,1,candle
+74,4,pre-operative care,diwali,prepares_for,1,candle
+75,76,nurse,doctor,prepares_for,1,candle
+75,77,nurse,instruments,prepares,1,candle
+78,9,photographer,algeria,prepares_for,1,candle
+79,4,artist,diwali,prepares,2,candle
+80,4,painter,diwali,prepares,2,candle
+81,82,attorney,documents,prepares,1,candle
+83,9,scientist,algeria,prepare_for,1,candle

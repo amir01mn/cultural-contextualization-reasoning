@@ -1,0 +1,506 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "speakers",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "loud or too loud",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "new york",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "unrepresentative",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "europe",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "single country",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 8,
+      "label": "rude by some",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "friendly by others",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "service staff",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "dissatisfied customers",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "individuals",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 13,
+      "label": "hypocrisy",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "americans",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 15,
+      "label": "universal aspiration",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "payment",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "convenient",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "respect for elders",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "disingenuous or one-sided",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 21,
+      "label": "gentle parenting ineffective",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "united states",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 23,
+      "label": "diverse and unique nation",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "fruits",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "sweeter and better",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "america",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "cultural differences",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "us citizens",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "germany's cultural practices",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "stingy",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "hair services as expensive",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "california residents",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "desirable place",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "important figure",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "speakers",
+      "target_label": "loud or too loud",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "new york",
+      "target_label": "unrepresentative",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "europe",
+      "target_label": "single country",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "diwali",
+      "target_label": "rude by some",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "source_label": "diwali",
+      "target_label": "friendly by others",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "service staff",
+      "target_label": "dissatisfied customers",
+      "relation_type": "perceive_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "individuals",
+      "target_label": "hypocrisy",
+      "relation_type": "perceive_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "americans",
+      "target_label": "universal aspiration",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "payment",
+      "target_label": "convenient",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "respect for elders",
+      "target_label": "disingenuous or one-sided",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "algeria",
+      "target_label": "gentle parenting ineffective",
+      "relation_type": "perceive",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "united states",
+      "target_label": "diverse and unique nation",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "fruits",
+      "target_label": "sweeter and better",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 14,
+      "target": 26,
+      "source_label": "americans",
+      "target_label": "america",
+      "relation_type": "perceive",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 20,
+      "target": 27,
+      "source_label": "algeria",
+      "target_label": "cultural differences",
+      "relation_type": "perceive",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "source_label": "us citizens",
+      "target_label": "germany's cultural practices",
+      "relation_type": "perceive",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 12,
+      "target": 30,
+      "source_label": "individuals",
+      "target_label": "stingy",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 31,
+      "source_label": "united states",
+      "target_label": "hair services as expensive",
+      "relation_type": "perceive",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "california residents",
+      "target_label": "desirable place",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 20,
+      "target": 34,
+      "source_label": "algeria",
+      "target_label": "important figure",
+      "relation_type": "perceived_as",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,diwali,3,bihar,unknown,diwali,5
+2,textiles,1,bihar,unknown,diwali,1
+3,fabrics for home décor and apparel,3,telangana,unknown,diwali,1
+4,generalization,3,general,unknown,culturebank,1
+5,european cultures,3,general,unknown,culturebank,1
+6,cultural adaptation,3,general,unknown,culturebank,1
+7,americanized,3,general,unknown,culturebank,1
+8,date and time formatting,3,general,unknown,culturebank,1
+9,algeria,3,general,unknown,culturebank,1
+10,daily life,1,general,unknown,culturebank,1
+11,military time,3,general,unknown,culturebank,1
+12,finger foods,3,general,unknown,culturebank,1
+13,tax rates and exemptions,3,general,unknown,culturebank,1
+14,different food items,3,general,unknown,culturebank,1
+15,dentist,1,dentist,unknown,candle,2
+16,wound dressing,3,dentist,unknown,candle,1
+17,artist,1,artist,unknown,candle,1
+18,candle,1,artist,unknown,candle,1
+19,mehndi artist,3,artist,unknown,candle,1

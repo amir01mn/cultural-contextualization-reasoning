@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 900px;
+                 background-color: #1a1a2e;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#1a1aff", "font": {"color": "white"}, "id": 0, "label": "human", "shape": "dot", "size": 40, "title": "\u003cb\u003ehuman\u003c/b\u003e\u003cbr\u003eLevel: 0 (Root)\u003cbr\u003eGroup: universal\u003cbr\u003eDomain: identity\u003cbr\u003eSource: schema\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 5, "label": "\u0633\u0644\u0645\u0649", "shape": "dot", "size": 28, "title": "\u003cb\u003e\u0633\u0644\u0645\u0649\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 7, "label": "household", "shape": "dot", "size": 28, "title": "\u003cb\u003ehousehold\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 8, "label": "ramadan", "shape": "dot", "size": 28, "title": "\u003cb\u003eramadan\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 11, "label": "day of arafat", "shape": "dot", "size": 28, "title": "\u003cb\u003eday of arafat\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 13, "label": "activities", "shape": "dot", "size": 28, "title": "\u003cb\u003eactivities\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 15, "label": "mother", "shape": "dot", "size": 28, "title": "\u003cb\u003emother\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 5"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 21, "label": "guests", "shape": "dot", "size": 28, "title": "\u003cb\u003eguests\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: algeria\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 3"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 26, "label": "fava beans", "shape": "dot", "size": 28, "title": "\u003cb\u003efava beans\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 3"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 28, "label": "breakfast", "shape": "dot", "size": 28, "title": "\u003cb\u003ebreakfast\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 30, "label": "father", "shape": "dot", "size": 28, "title": "\u003cb\u003efather\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 41, "label": "wedding celebrations", "shape": "dot", "size": 28, "title": "\u003cb\u003ewedding celebrations\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 50, "label": "lamb doll", "shape": "dot", "size": 28, "title": "\u003cb\u003elamb doll\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 51, "label": "sham al-nessim", "shape": "dot", "size": 28, "title": "\u003cb\u003esham al-nessim\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 55, "label": "morning", "shape": "dot", "size": 28, "title": "\u003cb\u003emorning\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 61, "label": "parents", "shape": "dot", "size": 28, "title": "\u003cb\u003eparents\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 64, "label": "host", "shape": "dot", "size": 28, "title": "\u003cb\u003ehost\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: dz\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: blend\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 68, "label": "order", "shape": "dot", "size": 28, "title": "\u003cb\u003eorder\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: clerk\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 73, "label": "lesson", "shape": "dot", "size": 28, "title": "\u003cb\u003elesson\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: teacher\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 76, "label": "doctor", "shape": "dot", "size": 28, "title": "\u003cb\u003edoctor\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: nurse\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 78, "label": "photographer", "shape": "dot", "size": 28, "title": "\u003cb\u003ephotographer\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: photographer\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 79, "label": "artist", "shape": "dot", "size": 28, "title": "\u003cb\u003eartist\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: artist\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 2"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 80, "label": "painter", "shape": "dot", "size": 28, "title": "\u003cb\u003epainter\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: painter\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 2"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 81, "label": "attorney", "shape": "dot", "size": 20, "title": "\u003cb\u003eattorney\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: attorney\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 83, "label": "scientist", "shape": "dot", "size": 28, "title": "\u003cb\u003escientist\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: scientist\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: candle\u003cbr\u003eFrequency: 1"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": 7, "label": "", "title": "prepare", "to": 8, "width": 0.5}, {"arrows": "to", "from": 50, "label": "", "title": "prepared_for", "to": 51, "width": 0.5}, {"arrows": "to", "from": 64, "label": "", "title": "prepare_for", "to": 21, "width": 0.5}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"physics": {"barnesHut": {"gravitationalConstant": -8000, "centralGravity": 0.3, "springLength": 120}, "minVelocity": 0.75}, "edges": {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": {"opacity": 0.5}, "width": 0.8}, "interaction": {"hover": true, "tooltipDelay": 100}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,111 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algeria,3,algeria,unknown,arabculture,55
+2,light traditional suhoor,3,algeria,unknown,arabculture,1
+3,fadi,3,algeria,unknown,arabculture,1
+4,light and simple suhoor,3,algeria,unknown,arabculture,1
+5,waleed,3,algeria,unknown,arabculture,1
+6,mujaddab for lunch,3,algeria,unknown,arabculture,1
+7,comfortable clothing,3,general,unknown,culturebank,1
+8,early dinners,3,general,unknown,culturebank,1
+9,strip malls,3,general,unknown,culturebank,1
+10,accessibility,1,general,unknown,culturebank,1
+11,united states,4,general,unknown,culturebank,24
+12,diwali,3,general,unknown,culturebank,35
+13,healthcare system,1,general,unknown,culturebank,1
+14,shopping at aldi,3,general,unknown,culturebank,1
+15,driving,1,general,unknown,culturebank,1
+16,hands over soap,3,general,unknown,culturebank,1
+17,fizzy and non-fizzy drinks,3,general,unknown,culturebank,1
+18,air conditioning,1,general,unknown,culturebank,2
+19,americans,1,general,unknown,culturebank,2
+20,taste,3,general,unknown,culturebank,1
+21,tea preparation,3,general,unknown,culturebank,1
+22,faster methods,3,general,unknown,culturebank,1
+23,france,1,general,unknown,culturebank,2
+24,disposable plates,3,general,unknown,culturebank,1
+25,ceramic plates,3,general,unknown,culturebank,1
+26,powerful washing machines,3,general,unknown,culturebank,1
+27,in laundry,3,general,unknown,culturebank,1
+28,"warm, freshly made sandwiches",3,general,unknown,culturebank,1
+29,businesses,1,general,unknown,culturebank,1
+30,imperial units,3,general,unknown,culturebank,1
+31,canned whipped cream,3,general,unknown,culturebank,1
+32,homemade whipped cream,3,general,unknown,culturebank,1
+33,uncanned whipped cream,1,general,unknown,culturebank,1
+34,american food over french,3,general,unknown,culturebank,1
+35,date format,3,general,unknown,culturebank,1
+36,mm/dd/yyyy,3,general,unknown,culturebank,1
+37,running water or dishwasher,3,general,unknown,culturebank,1
+38,culture group,3,general,unknown,culturebank,1
+39,early sleep,3,general,unknown,culturebank,1
+40,specific brands and flavors,3,general,unknown,culturebank,1
+41,unique flavors,3,general,unknown,culturebank,1
+42,bread slicing,3,general,unknown,culturebank,1
+43,using machines,3,general,unknown,culturebank,1
+44,diy nail care,3,general,unknown,culturebank,1
+45,individuals,1,general,unknown,culturebank,1
+46,americanized chinese food,3,general,unknown,culturebank,1
+47,consumers,1,general,unknown,culturebank,2
+48,peanut butter,1,general,unknown,culturebank,1
+49,"both fish and chips, french fries",3,general,unknown,culturebank,1
+50,fresh strawberries,1,general,unknown,culturebank,1
+51,diy and professional services,3,general,unknown,culturebank,1
+52,larger fruit sizes,3,general,unknown,culturebank,1
+53,free communication methods,3,general,unknown,culturebank,1
+54,credit card use,3,general,unknown,culturebank,1
+55,supermarket shoppers,3,general,unknown,culturebank,1
+56,self-bagging,3,general,unknown,culturebank,1
+57,carbonated or sparkling water,3,general,unknown,culturebank,1
+58,mobile apps,3,general,unknown,culturebank,1
+59,consumer behavior,3,general,unknown,culturebank,1
+60,shopping,1,general,unknown,culturebank,1
+61,unique tuna salad preparation,3,general,unknown,culturebank,1
+62,broadcasters,3,general,unknown,culturebank,1
+63,tobacco products,1,general,unknown,culturebank,1
+64,card payment,3,general,unknown,culturebank,1
+65,significant space for ketchup,3,general,unknown,culturebank,1
+66,"bell peppers, including their chemical name and colloquial terms",3,general,unknown,culturebank,1
+67,capsicum over bell peppers,3,general,unknown,culturebank,1
+68,zelle for payments,3,general,unknown,culturebank,1
+69,home-packed lunches,3,general,unknown,culturebank,1
+70,rice as a side dish,3,general,unknown,culturebank,1
+71,locally grown produce,3,general,unknown,culturebank,1
+72,steroided produce,3,general,unknown,culturebank,1
+73,expensive cars,3,general,unknown,culturebank,1
+74,by consumers,3,general,unknown,culturebank,1
+75,vacationers,3,general,unknown,culturebank,1
+76,warm destinations,3,general,unknown,culturebank,1
+77,us citizens,1,general,unknown,culturebank,1
+78,fox news,3,general,unknown,culturebank,1
+79,bathrooms,3,general,unknown,culturebank,1
+80,bathtubs,3,general,unknown,culturebank,1
+81,various oreos combinations,3,general,unknown,culturebank,1
+82,certain snack foods,3,general,unknown,culturebank,1
+83,algerian countryside,3,dz,unknown,blend,1
+84,algerian seniors,3,dz,unknown,blend,1
+85,parents,1,dz,unknown,blend,1
+86,education system,1,dz,unknown,blend,1
+87,morning,1,dz,unknown,blend,1
+88,soup,3,dz,unknown,blend,1
+89,certain occupations,3,dz,unknown,blend,1
+90,activities,1,dz,unknown,blend,1
+91,domestic vacation spots,3,dz,unknown,blend,1
+92,adventure sports,3,dz,unknown,blend,1
+93,chips with spicy flavours,3,dz,unknown,blend,1
+94,quick meals,3,dz,unknown,blend,1
+95,algeria's cultural group,3,dz,unknown,blend,1
+96,couscous,1,dz,unknown,blend,1
+97,football,1,dz,unknown,blend,1
+98,local brands,3,dz,unknown,blend,1
+99,traditional vehicles,3,dz,unknown,blend,1
+100,algerian girls,3,dz,unknown,blend,1
+101,traditional dolls,3,dz,unknown,blend,1
+102,abroad destinations,3,dz,unknown,blend,1
+103,olive oil for cooking,3,dz,unknown,blend,1
+104,personal car,3,dz,unknown,blend,1
+105,tv viewers,3,dz,unknown,blend,1
+106,popular algerian family shows,3,dz,unknown,blend,1
+107,olympic sports,3,dz,unknown,blend,1
+108,journalist,1,journalist,unknown,candle,1
+109,tipping points,3,journalist,unknown,candle,1

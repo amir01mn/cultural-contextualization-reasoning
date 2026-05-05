@@ -1,0 +1,23 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algeria,3,himachal pradesh,unknown,diwali,5
+2,ilkal saree,1,maharashtra,unknown,diwali,1
+3,ice tea,3,general,unknown,culturebank,1
+4,diwali,3,general,unknown,culturebank,12
+5,sandwiches,1,general,unknown,culturebank,1
+6,fresh ingredients,3,general,unknown,culturebank,1
+7,morning,1,general,unknown,culturebank,1
+8,coffee,1,general,unknown,culturebank,2
+9,uncanned whipped cream,1,general,unknown,culturebank,1
+10,deserts,3,dz,unknown,blend,1
+11,library,3,librarian,unknown,candle,1
+12,free area,3,librarian,unknown,candle,1
+13,desk,3,teacher,unknown,candle,1
+14,"locking center, file and box drawer",3,teacher,unknown,candle,1
+15,details about investment opportunities,3,banker,unknown,candle,1
+16,medication,1,nurse,unknown,candle,1
+17,portfolio,3,photographer,unknown,candle,1
+18,sealed_plan,3,architect,unknown,candle,1
+19,raised_seal,3,architect,unknown,candle,1
+20,papers,1,attorney,unknown,candle,2
+21,updates,3,attorney,unknown,candle,1

@@ -1,0 +1,91 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,1,diwali,algeria,engages_in,1,arabculture
+1,3,algeria,collective cleaning,engages_in,1,arabculture
+4,5,household,cleaning,engage_in,1,arabculture
+1,6,algeria,socializing with relatives,engage_in,1,arabculture
+2,7,diwali,cooking tradition,engages_in,1,arabculture
+1,8,algeria,indoor play,engage_in,1,arabculture
+1,9,algeria,outdoors,engage_in,1,arabculture
+10,11,groom,reserving a car for the wedding,engage_in,1,arabculture
+1,12,algeria,tahbith dance,engage_in,1,arabculture
+13,14,local farmers,mango farming,engage_in,1,arabculture
+15,16,nile valley,traditional bathing customs,engage_in,1,arabculture
+17,18,nile valley youth,activities,engage_in,1,arabculture
+1,19,algeria,board games at home,engage_in,1,arabculture
+2,20,diwali,sheep_rearing,engages_in,1,diwali
+1,2,algeria,diwali,engage_in,3,diwali
+21,2,united states,diwali,engages_in,4,culturebank
+21,22,united states,diverse cultural practices,engages_in,1,culturebank
+23,24,training,parents,engaged_in_by,1,culturebank
+25,26,us citizens,healthcare system,engage_in,1,culturebank
+21,2,united states,diwali,engage_in,3,culturebank
+1,27,algeria,payment practices,engages_in,1,culturebank
+1,28,algeria,giving gift baskets during easter,engage_in,1,culturebank
+1,29,algeria,walking (exercise/leisure),engage_in,1,culturebank
+21,30,united states,friendly behaviors,engage_in,1,culturebank
+2,31,diwali,falling asleep,engage_in,1,culturebank
+1,32,algeria,series of behaviors,engages_in,1,culturebank
+1,33,algeria,active walking,engage_in,1,culturebank
+34,35,couple,cohabitation,engage_in,1,culturebank
+1,18,algeria,activities,engage_in,3,culturebank
+21,18,united states,activities,engages_in,2,culturebank
+21,36,united states,daily grooming rituals,engage_in,1,culturebank
+37,38,drivers,speeding,engage_in,1,culturebank
+37,39,drivers,slow driving,engage_in,1,culturebank
+1,40,algeria,breaks,engage_in,1,culturebank
+41,1,employees,algeria,engage_in,1,culturebank
+42,43,americans,second nature activities,engage_in,1,culturebank
+21,44,united states,wine consumption,engage_in,1,culturebank
+45,46,education system,diverse educational activities,engages_in,1,culturebank
+2,47,diwali,individuals,engaged_in,1,culturebank
+25,48,us citizens,discussion on gun rights,engage_in,1,culturebank
+1,49,algeria,various leisure activities,engage_in,1,culturebank
+1,50,algeria,diy and professional nail care,engages_in,1,culturebank
+2,51,diwali,customs procedures,engage_in,1,culturebank
+21,52,united states,building underground structures,engages_in,1,culturebank
+53,54,patient,healthcare-related activities,engage_in,1,culturebank
+55,1,college students,algeria,engage_in,1,culturebank
+41,56,employees,communication for financial success,engage_in,1,culturebank
+57,2,cultural development,diwali,engages_in,1,culturebank
+58,59,consumers,shopping,engage_in,1,culturebank
+2,60,diwali,playful language,engage_in,1,culturebank
+21,61,united states,various payment practices,engages_in,1,culturebank
+21,62,united states,critical discussions,engage_in,1,culturebank
+63,64,formal greetings,conversation,engage_in,1,culturebank
+1,65,algeria,parades and fireworks,engage_in,1,culturebank
+21,66,united states,open substance use,engage_in,1,culturebank
+2,18,diwali,activities,engage_in,3,culturebank
+1,67,algeria,inappropriate behaviors,engage_in,1,culturebank
+68,1,following rules,algeria,engaged_in,1,culturebank
+1,69,algeria,direct and explicit communication,engage_in,1,culturebank
+47,70,individuals,inquiry and questioning,engage_in,1,culturebank
+2,1,diwali,algeria,engaged_in_by,1,culturebank
+71,2,boy scouts,diwali,engage_in,1,culturebank
+72,2,girl scouts,diwali,engage_in,1,culturebank
+25,73,us citizens,recycling practices,engage_in,1,culturebank
+21,74,united states,watching videos,engages_in,1,culturebank
+47,75,individuals,various stages of dating,engage_in,1,culturebank
+25,76,us citizens,various activities at gas stations,engage_in,1,culturebank
+1,77,algeria,hair-related activities,engage_in,1,culturebank
+21,78,united states,health insurance practices,engages_in,1,culturebank
+79,18,california residents,activities,engage_in,1,culturebank
+47,80,individuals,gun ownership and purchase,engage_in,1,culturebank
+21,81,united states,complex taxation practices,engages_in,1,culturebank
+82,83,rural americans,truck-related activities,engage_in,1,culturebank
+1,84,algeria,performing dance,engage_in,1,culturebank
+1,85,algeria,festivities and gatherings,engage_in,1,blend
+1,86,algeria,weekly family gathering,engage_in,1,blend
+1,2,algeria,diwali,usually_engage_in,1,blend
+87,1,middle-aged population,algeria,engages_in,1,blend
+25,88,us citizens,travel during holidays,engage_in,1,blend
+1,2,algeria,diwali,mainly_engage_in,2,blend
+2,89,diwali,parks activities,engage_in,1,blend
+1,90,algeria,sports together,engage_in,1,blend
+1,91,algeria,weekend activities,engages_in,1,blend
+1,92,algeria,evening meal,engages_in,1,blend
+1,93,algeria,after-school activities,usually_engage_in,1,blend
+94,95,biologists,ritual of inquiry,engage_in,1,candle
+1,96,algeria,pre and post assessments,engage_in,1,candle
+97,98,mortgage,loan packaging,engages_in,1,candle
+99,2,public kin official,diwali,engages_in,1,candle
+100,101,painter,prep_work,engages_in,1,candle

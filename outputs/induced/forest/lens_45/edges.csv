@@ -1,0 +1,19 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,sibling relationships,bonding,emphasize,1,arabculture
+3,4,diwali,fabric quality,emphasizes,1,diwali
+3,5,diwali,rhythms,emphasizes,1,diwali
+6,3,shiva priya,diwali,emphasizes,2,diwali
+3,7,diwali,foot movements,emphasizes,1,diwali
+3,8,diwali,pure_dance,emphasizes,1,diwali
+9,10,dance,footwork,emphasizes,1,diwali
+3,11,diwali,safety,emphasize,1,culturebank
+12,13,united states,self-reliance,emphasizes,1,culturebank
+14,15,parenting style,teaching from young age,emphasize,1,culturebank
+16,3,south region,diwali,emphasizes,1,culturebank
+17,3,businesses,diwali,emphasize,1,culturebank
+18,3,education system,diwali,emphasizes,1,culturebank
+3,19,diwali,capital letters,emphasized_by,1,culturebank
+20,21,algeria,romance and love,emphasizes,1,blend
+20,3,algeria,diwali,emphasize,1,blend
+22,23,positive direction,student values,emphasize,1,candle
+24,3,knee injury attorney,diwali,emphasizes,1,candle

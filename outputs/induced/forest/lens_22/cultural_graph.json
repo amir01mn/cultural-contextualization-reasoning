@@ -1,0 +1,893 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 27
+    },
+    {
+      "id": 2,
+      "label": "weeks before eid",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "anticipation",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "grandfathers and grandmothers",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 21
+    },
+    {
+      "id": 6,
+      "label": "necessary items",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "parents",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 8,
+      "label": "children on birthdays",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "fiancée",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 11,
+      "label": "meeting time",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "others' schedules",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "social status",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "rengma naga tribe",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "accomplishments",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "service staff",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "acknowledgment",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "seller",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "mother",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 20,
+      "label": "guests",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 21,
+      "label": "father",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "father's day",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "pupil development",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "respect from students",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "papers",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "calm responses",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "reassuring nature",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "through bowing",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "development of critical skills",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "hive",
+      "level": 3,
+      "cultural_group": "beekeeper",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "swarming potential",
+      "level": 3,
+      "cultural_group": "beekeeper",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "for occupation",
+      "level": 3,
+      "cultural_group": "farmer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "patient",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 34,
+      "label": "health",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "nurse",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "patient's religion",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "individualized learning",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "person/group",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "tailored item",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "tailor-made",
+      "level": 1,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "specific customization",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "shopper",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "distinctiveness",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "customer service",
+      "level": 3,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "quality of service",
+      "level": 3,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "for their skills",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "brushstroke",
+      "level": 3,
+      "cultural_group": "painter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "artistic_skill",
+      "level": 3,
+      "cultural_group": "painter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "painter",
+      "level": 1,
+      "cultural_group": "painter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 51,
+      "label": "special dance",
+      "level": 1,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "table",
+      "level": 1,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "health status",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "weeks before eid",
+      "target_label": "anticipation",
+      "relation_type": "indicates",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "diwali",
+      "target_label": "grandfathers and grandmothers",
+      "relation_type": "show_respect_to",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "necessary items",
+      "relation_type": "receive",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "parents",
+      "target_label": "children on birthdays",
+      "relation_type": "give_gifts_to",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "fiancée",
+      "target_label": "gifts",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "meeting time",
+      "target_label": "others' schedules",
+      "relation_type": "indicates_respect",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "source_label": "algeria",
+      "target_label": "social status",
+      "relation_type": "indicate",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "diwali",
+      "target_label": "rengma naga tribe",
+      "relation_type": "indicate_status",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "diwali",
+      "target_label": "accomplishments",
+      "relation_type": "indicate",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 16,
+      "target": 5,
+      "source_label": "service staff",
+      "target_label": "algeria",
+      "relation_type": "receives_payment_from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "source_label": "acknowledgment",
+      "target_label": "diwali",
+      "relation_type": "indicate",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "respect",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 18,
+      "target": 5,
+      "source_label": "seller",
+      "target_label": "algeria",
+      "relation_type": "receives_payment_from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "indicate_status",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 19,
+      "target": 5,
+      "source_label": "mother",
+      "target_label": "algeria",
+      "relation_type": "receive",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "source_label": "guests",
+      "target_label": "diwali",
+      "relation_type": "receive",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "father",
+      "target_label": "father's day",
+      "relation_type": "receive_gifts_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "source_label": "mother",
+      "target_label": "diwali",
+      "relation_type": "receive_gifts_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "source_label": "parents",
+      "target_label": "algeria",
+      "relation_type": "give_gifts_to",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 23,
+      "source_label": "diwali",
+      "target_label": "pupil development",
+      "relation_type": "indicate",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "receive",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 24,
+      "source_label": "algeria",
+      "target_label": "respect from students",
+      "relation_type": "receive",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 25,
+      "source_label": "algeria",
+      "target_label": "papers",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "calm responses",
+      "target_label": "reassuring nature",
+      "relation_type": "indicate",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "gifts",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 28,
+      "source_label": "algeria",
+      "target_label": "through bowing",
+      "relation_type": "receive_respect",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 29,
+      "source_label": "algeria",
+      "target_label": "development of critical skills",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "source_label": "hive",
+      "target_label": "swarming potential",
+      "relation_type": "indicates",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 32,
+      "source_label": "diwali",
+      "target_label": "for occupation",
+      "relation_type": "indicates_respect",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "patient",
+      "target_label": "health",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "nurse",
+      "target_label": "patient's religion",
+      "relation_type": "respect",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 37,
+      "source_label": "algeria",
+      "target_label": "individualized learning",
+      "relation_type": "receive",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "source_label": "person/group",
+      "target_label": "tailored item",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "source_label": "tailor-made",
+      "target_label": "specific customization",
+      "relation_type": "indicates",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "source_label": "shopper",
+      "target_label": "distinctiveness",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 33,
+      "target": 1,
+      "source_label": "patient",
+      "target_label": "diwali",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "source_label": "customer service",
+      "target_label": "quality of service",
+      "relation_type": "indicate",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "source_label": "artist",
+      "target_label": "for their skills",
+      "relation_type": "receive_respect",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "source_label": "brushstroke",
+      "target_label": "artistic_skill",
+      "relation_type": "indicates",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 50,
+      "source_label": "diwali",
+      "target_label": "painter",
+      "relation_type": "receives",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 51,
+      "source_label": "diwali",
+      "target_label": "special dance",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 52,
+      "target": 5,
+      "source_label": "table",
+      "target_label": "algeria",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 33,
+      "target": 5,
+      "source_label": "patient",
+      "target_label": "algeria",
+      "relation_type": "receive",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 53,
+      "source_label": "diwali",
+      "target_label": "health status",
+      "relation_type": "indicates",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

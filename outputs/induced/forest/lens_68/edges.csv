@@ -1,0 +1,11 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,verbal teasing,avoid,1,arabculture
+4,3,national events,diwali,avoided,1,arabculture
+1,5,algeria,extreme heat,avoid,1,arabculture
+6,3,amulet wearers,diwali,avoid,1,arabculture
+1,7,algeria,sugar in bread,avoid,1,culturebank
+8,9,chilly conditions,air conditioning,avoid,1,culturebank
+10,11,social interactions,awkwardness,avoid,1,culturebank
+12,13,frequent shopping,inconvenience,avoid,1,culturebank
+14,1,eye contact,algeria,avoided,1,culturebank
+15,16,specific foods,during christian fasting,avoided,1,blend

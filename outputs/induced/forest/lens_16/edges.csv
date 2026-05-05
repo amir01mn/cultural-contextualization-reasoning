@@ -1,0 +1,68 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,diwali,cultural heritage,reflects,1,arabculture
+3,4,communication,peace values,reflects,1,arabculture
+5,6,algeria,family tradition,reflects,1,arabculture
+7,8,youth culture,modernization,reflects,1,arabculture
+9,5,agricultural practices,algeria,reflect,1,arabculture
+1,10,diwali,right-handed culture,reflects,1,arabculture
+11,12,game,real-world banking,reflect,1,arabculture
+13,5,dabka,algeria,reflects,1,arabculture
+1,14,diwali,disciplined aesthetic,reflects,1,diwali
+1,15,diwali,tribal identity,reflect,1,diwali
+1,5,diwali,algeria,reflects_heritage,1,diwali
+1,16,diwali,rabha tribe,reflects_cultural_heritage,1,diwali
+1,17,diwali,christian heritage,reflects,1,diwali
+18,19,traditional goan handloom fabrics,coastal heritage,reflect,1,diwali
+1,20,diwali,haryana's rich cultural,reflects_heritage,1,diwali
+1,5,diwali,algeria,reflects,4,diwali
+1,21,diwali,unique_embroidery_styles,reflects,1,diwali
+1,22,diwali,weaving excellence,reflects,1,diwali
+1,5,diwali,algeria,reflect,1,diwali
+1,23,diwali,utilitarianism,reflects,1,diwali
+1,24,diwali,weaving techniques,reflects,1,diwali
+25,5,textiles,algeria,reflect,1,diwali
+26,27,chanderi sari,royal influences,reflects,1,diwali
+1,28,diwali,cultural tapestry of madhya pradesh,reflects,1,diwali
+1,29,diwali,local folklore,reflects,1,diwali
+1,30,diwali,cultural heritage of maharashtra,reflects,1,diwali
+1,31,diwali,cultural identity of meitei community,reflects,1,diwali
+1,32,diwali,khasi women's cultural attire,reflects,1,diwali
+1,33,diwali,tribal motifs and local folklore,reflects,1,diwali
+5,34,algeria,region's rich heritage,reflect,1,diwali
+1,35,diwali,vibrant artistry,reflects,1,diwali
+36,37,punjabi craftsmanship,simplicity and elegance,reflect,1,diwali
+1,38,diwali,regional craftsmanship,reflects,1,diwali
+1,39,diwali,tibetan_influences,reflects,1,diwali
+1,40,diwali,craftsmanship skill,reflects,1,diwali
+41,42,thirubuvanam silk saree,traditional weaving techniques,reflect,1,diwali
+1,43,diwali,textile tradition,reflects,1,diwali
+44,45,blankets,pastoral lifestyle,reflect,1,diwali
+46,47,jamdani,regional traditions blending,reflects,1,diwali
+1,48,diwali,region's rich storytelling tradition,reflects,1,diwali
+5,49,algeria,artisans' surroundings,reflect,1,diwali
+1,50,diwali,utilitarian and artistic weaving practices,reflects,1,diwali
+1,51,diwali,aesthetic sensibilities of mughal era,reflects,1,diwali
+1,52,diwali,textile traditions,reflects,1,diwali
+53,54,pashmina wool products,regional heritage,reflect,1,diwali
+5,55,algeria,island's resourcefulness,reflects,1,diwali
+25,56,textiles,rich weaving traditions,reflect,1,diwali
+57,58,barpeta's bhortal nritya,rich cultural heritage,reflects,1,diwali
+1,59,diwali,vaishnavite culture,reflects,1,diwali
+57,2,barpeta's bhortal nritya,cultural heritage,reflects,1,diwali
+60,61,dance,assam's tea garden communities,reflect_cultural_heritage,1,diwali
+62,5,kalaigaon dance,algeria,reflects,2,diwali
+57,63,barpeta's bhortal nritya,barpeta cultural heritage,reflects_heritage,1,diwali
+1,64,diwali,agricultural culture,reflects,1,diwali
+60,65,dance,assam tea garden communities,reflect_cultural_heritage,1,diwali
+1,66,diwali,cultural fusion,reflects,1,diwali
+1,67,diwali,social issues,reflects,1,diwali
+68,69,prices,perceived unfamiliarity,reflect,1,culturebank
+5,70,algeria,lifestyle preference,reflects,1,culturebank
+71,72,household practices,resource conservation,reflects,1,culturebank
+73,74,daily life,capitalist norms,reflect,1,culturebank
+1,75,diwali,relaxed attitude,reflects,1,culturebank
+1,76,diwali,berber and arab influences,reflects,1,blend
+5,77,algeria,generosity and hospitality,reflect,1,blend
+78,79,expectation,high standards,reflects,1,candle
+1,80,diwali,delicacy,reflects,1,candle
+81,82,photographer,unrecorded land,reflect,1,candle

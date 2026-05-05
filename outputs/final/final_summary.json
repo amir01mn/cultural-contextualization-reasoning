@@ -1,0 +1,52 @@
+[
+  {
+    "lens_id": 5,
+    "lens_name": "practices",
+    "constituent_lenses": [
+      "practices"
+    ],
+    "nodes": 6,
+    "edges": 3,
+    "output_dir": "outputs/final/graphs/lens_05"
+  },
+  {
+    "lens_id": 9,
+    "lens_name": "vary by",
+    "constituent_lenses": [
+      "vary by"
+    ],
+    "nodes": 3,
+    "edges": 1,
+    "output_dir": "outputs/final/graphs/lens_09"
+  },
+  {
+    "lens_id": 12,
+    "lens_name": "engage in",
+    "constituent_lenses": [
+      "engage in"
+    ],
+    "nodes": 4,
+    "edges": 2,
+    "output_dir": "outputs/final/graphs/lens_12"
+  },
+  {
+    "lens_id": 13,
+    "lens_name": "enjoy",
+    "constituent_lenses": [
+      "enjoy"
+    ],
+    "nodes": 3,
+    "edges": 1,
+    "output_dir": "outputs/final/graphs/lens_13"
+  },
+  {
+    "lens_id": 19,
+    "lens_name": "known for",
+    "constituent_lenses": [
+      "known for"
+    ],
+    "nodes": 4,
+    "edges": 2,
+    "output_dir": "outputs/final/graphs/lens_19"
+  }
+]

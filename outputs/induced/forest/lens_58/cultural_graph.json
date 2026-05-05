@@ -1,0 +1,299 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "government",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 2,
+      "label": "healthcare system",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "united states",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "less fortunate people",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 8
+    },
+    {
+      "id": 6,
+      "label": "sport teams",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "parents",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 5
+    },
+    {
+      "id": 9,
+      "label": "famous teams",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "popular soccer teams",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "hospital operations",
+      "level": 3,
+      "cultural_group": "clerk",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "central bank",
+      "level": 3,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "economic policies",
+      "level": 3,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "nurse",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 15,
+      "label": "patient's back and buttocks",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "politician's career",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "government",
+      "target_label": "healthcare system",
+      "relation_type": "supports",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "united states",
+      "target_label": "less fortunate people",
+      "relation_type": "support",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "sport teams",
+      "relation_type": "support",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "parents",
+      "target_label": "diwali",
+      "relation_type": "support",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "support",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "source_label": "algeria",
+      "target_label": "famous teams",
+      "relation_type": "support",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "government",
+      "target_label": "algeria",
+      "relation_type": "supports",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "popular soccer teams",
+      "relation_type": "support",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "source_label": "diwali",
+      "target_label": "hospital operations",
+      "relation_type": "support",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "central bank",
+      "target_label": "economic policies",
+      "relation_type": "supports",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 14,
+      "target": 8,
+      "source_label": "nurse",
+      "target_label": "diwali",
+      "relation_type": "supports",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "nurse",
+      "target_label": "patient's back and buttocks",
+      "relation_type": "supports",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 16,
+      "target": 5,
+      "source_label": "politician",
+      "target_label": "algeria",
+      "relation_type": "supports",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 17,
+      "source_label": "algeria",
+      "target_label": "politician's career",
+      "relation_type": "supports",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,diwali,3,algeria,unknown,arabculture,47
+2,cultural heritage,1,algeria,unknown,arabculture,2
+3,communication,1,algeria,unknown,arabculture,1
+4,peace values,3,algeria,unknown,arabculture,1
+5,algeria,3,algeria,unknown,arabculture,19
+6,family tradition,3,algeria,unknown,arabculture,1
+7,youth culture,3,algeria,unknown,arabculture,1
+8,modernization,3,algeria,unknown,arabculture,1
+9,agricultural practices,3,algeria,unknown,arabculture,1
+10,right-handed culture,3,egypt,unknown,arabculture,1
+11,game,1,egypt,unknown,arabculture,1
+12,real-world banking,3,egypt,unknown,arabculture,1
+13,dabka,3,egypt,unknown,arabculture,1
+14,disciplined aesthetic,3,arunachal pradesh,unknown,diwali,1
+15,tribal identity,3,arunachal pradesh,unknown,diwali,1
+16,rabha tribe,1,assam,unknown,diwali,1
+17,christian heritage,3,goa,unknown,diwali,1
+18,traditional goan handloom fabrics,3,goa,unknown,diwali,1
+19,coastal heritage,3,goa,unknown,diwali,1
+20,haryana's rich cultural,3,haryana,unknown,diwali,1
+21,unique_embroidery_styles,3,himachal pradesh,unknown,diwali,1
+22,weaving excellence,3,himachal pradesh,unknown,diwali,1
+23,utilitarianism,3,jharkhand,unknown,diwali,1
+24,weaving techniques,3,kerala,unknown,diwali,1
+25,textiles,1,kerala,unknown,diwali,2
+26,chanderi sari,1,madhya pradesh,unknown,diwali,1
+27,royal influences,3,madhya pradesh,unknown,diwali,1
+28,cultural tapestry of madhya pradesh,3,madhya pradesh,unknown,diwali,1
+29,local folklore,1,madhya pradesh,unknown,diwali,1
+30,cultural heritage of maharashtra,3,maharashtra,unknown,diwali,1
+31,cultural identity of meitei community,3,manipur,unknown,diwali,1
+32,khasi women's cultural attire,3,meghalaya,unknown,diwali,1
+33,tribal motifs and local folklore,3,mizoram,unknown,diwali,1
+34,region's rich heritage,3,odisha,unknown,diwali,1
+35,vibrant artistry,3,odisha,unknown,diwali,1
+36,punjabi craftsmanship,3,punjab,unknown,diwali,1
+37,simplicity and elegance,3,punjab,unknown,diwali,1
+38,regional craftsmanship,3,punjab,unknown,diwali,1
+39,tibetan_influences,3,sikkim,unknown,diwali,1
+40,craftsmanship skill,3,tamil nadu,unknown,diwali,1
+41,thirubuvanam silk saree,1,tamil nadu,unknown,diwali,1
+42,traditional weaving techniques,3,tamil nadu,unknown,diwali,1
+43,textile tradition,3,tamil nadu,unknown,diwali,1
+44,blankets,1,telangana,unknown,diwali,1
+45,pastoral lifestyle,3,telangana,unknown,diwali,1
+46,jamdani,1,uttar pradesh,unknown,diwali,1
+47,regional traditions blending,3,uttar pradesh,unknown,diwali,1
+48,region's rich storytelling tradition,3,west bengal,unknown,diwali,1
+49,artisans' surroundings,3,west bengal,unknown,diwali,1
+50,utilitarian and artistic weaving practices,3,chandigarh,unknown,diwali,1
+51,aesthetic sensibilities of mughal era,3,delhi,unknown,diwali,1
+52,textile traditions,3,jammu and kashmir,unknown,diwali,1
+53,pashmina wool products,3,ladakh,unknown,diwali,1
+54,regional heritage,3,ladakh,unknown,diwali,1
+55,island's resourcefulness,3,lakshadweep,unknown,diwali,1
+56,rich weaving traditions,3,puducherry,unknown,diwali,1
+57,barpeta's bhortal nritya,1,assam,unknown,diwali,3
+58,rich cultural heritage,3,assam,unknown,diwali,1
+59,vaishnavite culture,3,assam,unknown,diwali,1
+60,dance,1,assam,unknown,diwali,2
+61,assam's tea garden communities,3,assam,unknown,diwali,1
+62,kalaigaon dance,1,assam,unknown,diwali,2
+63,barpeta cultural heritage,3,assam,unknown,diwali,1
+64,agricultural culture,3,assam,unknown,diwali,1
+65,assam tea garden communities,3,assam,unknown,diwali,1
+66,cultural fusion,3,goa,unknown,diwali,1
+67,social issues,3,goa,unknown,diwali,1
+68,prices,1,general,unknown,culturebank,1
+69,perceived unfamiliarity,3,general,unknown,culturebank,1
+70,lifestyle preference,3,general,unknown,culturebank,1
+71,household practices,3,general,unknown,culturebank,1
+72,resource conservation,3,general,unknown,culturebank,1
+73,daily life,1,general,unknown,culturebank,1
+74,capitalist norms,3,general,unknown,culturebank,1
+75,relaxed attitude,3,general,unknown,culturebank,1
+76,berber and arab influences,3,dz,unknown,blend,1
+77,generosity and hospitality,3,dz,unknown,blend,1
+78,expectation,3,teacher,unknown,candle,1
+79,high standards,3,teacher,unknown,candle,1
+80,delicacy,3,photographer,unknown,candle,1
+81,photographer,1,photographer,unknown,candle,1
+82,unrecorded land,3,photographer,unknown,candle,1

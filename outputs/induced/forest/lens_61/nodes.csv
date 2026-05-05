@@ -1,0 +1,24 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,mother,1,algeria,unknown,arabculture,1
+2,balanced meal,3,algeria,unknown,arabculture,1
+3,algeria,3,algeria,unknown,arabculture,1
+4,individuals commit to iftar,3,algeria,unknown,arabculture,1
+5,diwali,3,algeria,unknown,arabculture,6
+6,sufficient skincare,3,algeria,unknown,arabculture,1
+7,avoids thirst,3,algeria,unknown,arabculture,1
+8,farming communities,3,algeria,unknown,arabculture,1
+9,suitable conditions,3,algeria,unknown,arabculture,1
+10,daily exercise,1,general,unknown,culturebank,1
+11,safety,1,general,unknown,culturebank,2
+12,candy distribution,3,general,unknown,culturebank,1
+13,smooth running,3,clerk,unknown,candle,1
+14,success,1,teacher,unknown,candle,1
+15,nurse,3,nurse,unknown,candle,1
+16,well-fed,3,nurse,unknown,candle,1
+17,regular visits,1,dentist,unknown,candle,1
+18,treatment progress,3,dentist,unknown,candle,1
+19,professional dog walker,1,dog walker,unknown,candle,1
+20,regular walks,3,dog walker,unknown,candle,1
+21,attorney,2,attorney,unknown,candle,1
+22,legal compliance,3,attorney,unknown,candle,1

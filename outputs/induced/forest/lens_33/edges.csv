@@ -1,0 +1,33 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,person struck,no immediate reaction,experiences,1,arabculture
+3,4,diwali,fatigue,experienced,1,arabculture
+5,3,long day,diwali,experienced_by,1,arabculture
+6,7,united states,school shootings,experience,1,culturebank
+8,3,consumers,diwali,experience,1,culturebank
+9,10,algeria,in france,experience_culture_shock,1,culturebank
+11,3,visitors,diwali,experience,2,culturebank
+11,3,visitors,diwali,experience_culture_shock,1,culturebank
+6,12,united states,financial insecurity,experience,1,culturebank
+9,13,algeria,anxiety,experience,1,culturebank
+6,14,united states,shift towards cashless payments,experiences,1,culturebank
+11,15,visitors,culture shock,experience,1,culturebank
+6,3,united states,diwali,experiences,1,culturebank
+8,16,consumers,annoyance at hidden costs,experience,1,culturebank
+6,9,united states,algeria,experiences,1,culturebank
+17,18,people abroad,"varying perceptions of life, culture, and reputation",experience,1,culturebank
+19,3,individuals,diwali,experience,1,culturebank
+6,20,united states,high crime rates,experiences,1,culturebank
+21,22,new drivers,confusion and learning curve,experience,1,culturebank
+9,23,algeria,missing feelings,experience,1,culturebank
+3,24,diwali,challenges,experience,1,culturebank
+25,26,young adults,transitional phase,experience,1,culturebank
+9,27,algeria,diverse range,experience,1,culturebank
+9,3,algeria,diwali,experience,2,culturebank
+28,29,france,negative stereotypes,experiences,1,culturebank
+9,30,algeria,nervousness,experience,1,culturebank
+31,3,fear of using public restrooms,diwali,experienced_by,1,culturebank
+32,3,parents,diwali,experience,1,culturebank
+9,33,algeria,afternoon classes,experience,1,blend
+9,34,algeria,severe nationwide traffic congestion,experiences,1,blend
+9,35,algeria,catastrophic economic period,experienced,1,blend
+36,37,nurse,empathy towards patients,experiences,1,candle

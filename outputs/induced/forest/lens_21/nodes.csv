@@ -1,0 +1,64 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,diwali,3,algeria,unknown,arabculture,36
+2,pre-dawn meal during ramadan,3,algeria,unknown,arabculture,1
+3,breakfast during ramadan,3,algeria,unknown,arabculture,1
+4,الرمز المدرسي,3,algeria,unknown,arabculture,1
+5,compulsory,3,algeria,unknown,arabculture,1
+6,a type of beverage,3,algeria,unknown,arabculture,1
+7,animatronic toy,3,egypt,unknown,arabculture,1
+8,gazaa,3,egypt,unknown,arabculture,1
+9,patola weaving process,3,gujarat,unknown,diwali,1
+10,highly complex,3,gujarat,unknown,diwali,1
+11,resulting_pattern,3,rajasthan,unknown,diwali,1
+12,checkered with undyed areas,3,rajasthan,unknown,diwali,1
+13,algeria,3,andhra pradesh,unknown,diwali,4
+14,foot-centric dance,3,andhra pradesh,unknown,diwali,1
+15,galo dance,3,arunachal pradesh,unknown,diwali,1
+16,classical dance-drama,3,assam,unknown,diwali,1
+17,dance-drama,1,assam,unknown,diwali,1
+18,dance-theatre,3,assam,unknown,diwali,1
+19,dance,1,assam,unknown,diwali,4
+20,thengal kachari dance,1,assam,unknown,diwali,1
+21,kalaigaon dance,1,assam,unknown,diwali,1
+22,chhau dance,1,bihar,unknown,diwali,1
+23,jatra dance,1,bihar,unknown,diwali,1
+24,folk theatre,3,bihar,unknown,diwali,1
+25,semi-classical dance,3,goa,unknown,diwali,1
+26,england,3,general,unknown,culturebank,1
+27,water use,3,general,unknown,culturebank,1
+28,efficient,3,general,unknown,culturebank,1
+29,transportation method,3,general,unknown,culturebank,1
+30,car,3,general,unknown,culturebank,1
+31,algerian society,1,general,unknown,culturebank,1
+32,capitalist,3,general,unknown,culturebank,1
+33,brand name,3,general,unknown,culturebank,1
+34,most popular,1,dz,unknown,blend,6
+35,sport commentator,3,dz,unknown,blend,1
+36,most popular in algeria,3,dz,unknown,blend,1
+37,commonly given flower,3,dz,unknown,blend,1
+38,most_popular,3,dz,unknown,blend,1
+39,unspecified_mental_sport,3,dz,unknown,blend,1
+40,arak,3,dz,unknown,blend,1
+41,e-sports game,3,dz,unknown,blend,1
+42,gaming activity,3,dz,unknown,blend,1
+43,indispensable ingredient,3,dz,unknown,blend,1
+44,couscous,1,dz,unknown,blend,1
+45,seasoning,3,dz,unknown,blend,1
+46,festival drink,3,dz,unknown,blend,1
+47,alcoholic beverage,3,dz,unknown,blend,1
+48,track and field events,1,dz,unknown,blend,1
+49,football,1,dz,unknown,blend,1
+50,tourist destination,3,dz,unknown,blend,1
+51,popular among algerians,3,dz,unknown,blend,1
+52,footbal(l),3,dz,unknown,blend,1
+53,evening meal,1,dz,unknown,blend,1
+54,important,1,banker,unknown,candle,1
+55,special tool,3,nurse,unknown,candle,1
+56,customized,3,tailor,unknown,candle,1
+57,remembered,3,photographer,unknown,candle,1
+58,treasured,3,photographer,unknown,candle,1
+59,archaeologist,3,historian,unknown,candle,1
+60,historian,1,historian,unknown,candle,1
+61,priest,1,priest,unknown,candle,1
+62,knee injury,3,attorney,unknown,candle,1

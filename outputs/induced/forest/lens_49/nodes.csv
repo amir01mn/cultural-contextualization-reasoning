@@ -1,0 +1,16 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,diwali,3,algeria,unknown,arabculture,17
+2,ramadan,1,algeria,unknown,arabculture,1
+3,dish,3,algeria,unknown,arabculture,1
+4,handloom silk sarees,3,andhra pradesh,unknown,diwali,1
+5,blouse material,3,karnataka,unknown,diwali,1
+6,dance,1,andhra pradesh,unknown,diwali,7
+7,dance-drama,1,andhra pradesh,unknown,diwali,2
+8,ritualistic dance,3,andhra pradesh,unknown,diwali,1
+9,algeria,3,andhra pradesh,unknown,diwali,1
+10,ritual dance,3,chhattisgarh,unknown,diwali,1
+11,yellow mustard,3,general,unknown,culturebank,1
+12,fast-food,3,dz,unknown,blend,1
+13,restaurant,1,dz,unknown,blend,1
+14,cleaning,1,dentist,unknown,candle,2

@@ -1,0 +1,15 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,independence day,diwali,honors,1,arabculture
+2,3,diwali,goddess,honors,1,diwali
+2,4,diwali,yak discovery,honors,1,diwali
+2,5,diwali,ancestor abo tani,honors,1,diwali
+6,2,galo,diwali,honors,1,diwali
+2,7,diwali,cultural heritage,honors,1,diwali
+8,9,deori bihu dance,assamese new year,honors,1,diwali
+10,11,ali ai ligang dance,deities,honors,1,diwali
+10,12,ali ai ligang dance,diwali spirit,honors,1,diwali
+2,11,diwali,deities,honors,3,diwali
+8,13,deori bihu dance,harvest season,honors,1,diwali
+2,14,diwali,cattle,honors,1,diwali
+15,2,algeria,diwali,honors,1,blend
+16,17,nurse,patient's beliefs,honor,1,candle

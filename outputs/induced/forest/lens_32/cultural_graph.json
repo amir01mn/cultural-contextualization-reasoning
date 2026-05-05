@@ -1,0 +1,713 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "الجمعية",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "تجهيز الأبناء",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 22
+    },
+    {
+      "id": 4,
+      "label": "satyabhama's tales",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "hunting scenes",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "intricate footwork",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "rhythm_and_movement",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "various aspects",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "philosophical_topics",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 11,
+      "label": "safety and visibility",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "daily routine",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "adequate sleep",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "algerian society",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "healthy living",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "personal preferences",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "americans",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "avoiding depression",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "parents",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "protective measures",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "education through play",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "popular_sport",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "popularity_of_sport",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "algerian media",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "work life",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "youth entrepreneurship",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "paralympic sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "education system",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "national identity through literature",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "prenatal education",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "pregnancy care",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "evaluation",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "student success",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "self-evaluation",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "strengths and skills",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "nurse",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 37,
+      "label": "speaking",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "traditional wedding photographer",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "wedding photography",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 41,
+      "label": "architect",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "religious ceremonies",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "aesthetic appearance",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "rehearsal",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "creating vision",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "الجمعية",
+      "target_label": "تجهيز الأبناء",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "diwali",
+      "target_label": "satyabhama's tales",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "source_label": "diwali",
+      "target_label": "hunting scenes",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "source_label": "diwali",
+      "target_label": "intricate footwork",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "source_label": "diwali",
+      "target_label": "rhythm_and_movement",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "source_label": "diwali",
+      "target_label": "various aspects",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "source_label": "diwali",
+      "target_label": "philosophical_topics",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "safety and visibility",
+      "relation_type": "focus_on",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "daily routine",
+      "target_label": "adequate sleep",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "algerian society",
+      "target_label": "healthy living",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 16,
+      "source_label": "diwali",
+      "target_label": "personal preferences",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "americans",
+      "target_label": "avoiding depression",
+      "relation_type": "focus_on",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "parents",
+      "target_label": "protective measures",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 21,
+      "source_label": "diwali",
+      "target_label": "education through play",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 22,
+      "source_label": "diwali",
+      "target_label": "popular_sport",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 23,
+      "source_label": "diwali",
+      "target_label": "popularity_of_sport",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 24,
+      "target": 3,
+      "source_label": "algerian media",
+      "target_label": "diwali",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "work life",
+      "target_label": "youth entrepreneurship",
+      "relation_type": "focus_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 27,
+      "source_label": "diwali",
+      "target_label": "paralympic sports",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "source_label": "education system",
+      "target_label": "national identity through literature",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "source_label": "prenatal education",
+      "target_label": "pregnancy care",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "evaluation",
+      "target_label": "student success",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "source_label": "self-evaluation",
+      "target_label": "strengths and skills",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 36,
+      "target": 3,
+      "source_label": "nurse",
+      "target_label": "diwali",
+      "relation_type": "focuses_on_skills",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "source_label": "nurse",
+      "target_label": "speaking",
+      "relation_type": "focuses_on_skills",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "source_label": "traditional wedding photographer",
+      "target_label": "wedding photography",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 40,
+      "target": 10,
+      "source_label": "photographer",
+      "target_label": "algeria",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "source_label": "photographer",
+      "target_label": "architect",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 40,
+      "target": 42,
+      "source_label": "photographer",
+      "target_label": "religious ceremonies",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "source_label": "artist",
+      "target_label": "aesthetic appearance",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "rehearsal",
+      "target_label": "creating vision",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

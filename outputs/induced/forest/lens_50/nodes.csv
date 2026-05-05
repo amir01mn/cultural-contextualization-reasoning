@@ -1,0 +1,25 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,morning,1,algeria,unknown,arabculture,1
+2,diwali,3,algeria,unknown,arabculture,15
+3,grilled foods,3,algeria,unknown,arabculture,1
+4,gold jewelry and gifts,3,algeria,unknown,arabculture,1
+5,breakfast,1,egypt,unknown,arabculture,2
+6,fried falafel,3,egypt,unknown,arabculture,1
+7,five wrappings,3,egypt,unknown,arabculture,1
+8,egyptian folk music bands,3,egypt,unknown,arabculture,1
+9,3 to 5 members,3,egypt,unknown,arabculture,1
+10,mekhela and chador,3,assam,unknown,diwali,1
+11,choli_and_lehanga,3,himachal pradesh,unknown,diwali,1
+12,mundu and neriya,3,kerala,unknown,diwali,1
+13,mundu,1,kerala,unknown,diwali,1
+14,two-piece garment,3,kerala,unknown,diwali,1
+15,white or cream base with golden border,3,kerala,unknown,diwali,1
+16,two pieces of material,3,meghalaya,unknown,diwali,1
+17,single_piece_material,3,meghalaya,unknown,diwali,1
+18,tunic (kameez) and baggy trousers (salwar),3,punjab,unknown,diwali,1
+19,tunic (kameez) paired with baggy trousers (salwar),3,chandigarh,unknown,diwali,1
+20,devotional songs,3,assam,unknown,diwali,1
+21,algeria,3,general,unknown,culturebank,1
+22,"sweats, hoodies",3,general,unknown,culturebank,1
+23,"bread, honey, tea",3,dz,unknown,blend,1

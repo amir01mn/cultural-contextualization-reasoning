@@ -1,0 +1,11 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,3,diwali,additions,accompanied_by,1,arabculture
+4,2,movie time,algeria,accompany,1,arabculture
+5,1,bride's sister,diwali,accompanies,1,arabculture
+2,6,algeria,procession,accompanies,1,arabculture
+1,2,diwali,algeria,accompanied_by,4,diwali
+1,7,diwali,rhythmic drum beats,accompanied_by,1,diwali
+8,9,greeting,smile or eye contact,often_accompanied_by,1,culturebank
+10,11,order,humorous twist,often_accompanied_by,1,culturebank
+12,2,soccer game,algeria,accompany,1,blend
+2,13,algeria,traditional music,accompanied_by,1,blend

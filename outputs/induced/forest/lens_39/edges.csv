@@ -1,0 +1,23 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,srikalahasti style,hand-painted,technique,1,diwali
+3,4,machilipatnam style,block-printing,technique,1,diwali
+6,5,bagh,diwali,embroidery_technique,1,diwali
+7,8,kutchi embroidery,"patchwork, appliqué, and mirror work",combines_techniques,1,diwali
+5,9,diwali,mud-resist hand-block printing,uses_technique,1,diwali
+10,11,mashru,algeria,combines,1,diwali
+5,12,diwali,bandha,uses_technique,1,diwali
+5,13,diwali,ikat and embroidery,combines_techniques,1,diwali
+5,14,diwali,resist-dyeing,technique_used_for,1,diwali
+5,15,diwali,tie-dye,uses_technique,1,diwali
+5,16,diwali,sewing gold/silver ribbon,embroidery_technique,1,diwali
+5,17,diwali,tie-dye on warp and weft threads,uses_technique,1,diwali
+5,11,diwali,algeria,embroidery_technique,1,diwali
+5,18,diwali,oil treatment and tie-dyeing,uses_technique,1,diwali
+19,20,jamdani,woven fabric,uses_technique,1,diwali
+5,21,diwali,dance-drama,combines,1,diwali
+5,22,diwali,dialogue and dance,combines,1,diwali
+5,23,diwali,"music, dance and drama",combines_elements_of,1,diwali
+24,25,ojapali,storytelling,combines,2,diwali
+24,26,ojapali,drumming and storytelling,combines,1,diwali
+27,5,jatra dance,diwali,combines,1,diwali
+27,5,jatra dance,diwali,combines_elements_of,1,diwali

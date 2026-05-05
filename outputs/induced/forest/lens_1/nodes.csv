@@ -1,0 +1,322 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,iftar,1,algeria,unknown,arabculture,4
+2,ramadan,1,algeria,unknown,arabculture,8
+3,algeria,3,algeria,unknown,arabculture,205
+4,north africa,1,algeria,unknown,arabculture,8
+5,sahur tradition,3,algeria,unknown,arabculture,1
+6,light suhoor,3,algeria,unknown,arabculture,1
+7,diwali,3,algeria,unknown,arabculture,451
+8,marriage with food,3,algeria,unknown,arabculture,1
+9,sharing,3,algeria,unknown,arabculture,1
+10,eid al-fitr,1,algeria,unknown,arabculture,5
+11,العيد,3,algeria,unknown,arabculture,1
+12,independence day,1,algeria,unknown,arabculture,6
+13,salem and her brothers,3,algeria,unknown,arabculture,1
+14,سلمى,1,algeria,unknown,arabculture,1
+15,radio,3,algeria,unknown,arabculture,1
+16,morning travel,3,algeria,unknown,arabculture,1
+17,interaction at work,3,algeria,unknown,arabculture,1
+18,formal setting,3,algeria,unknown,arabculture,1
+19,household,1,algeria,unknown,arabculture,1
+20,morning,1,algeria,unknown,arabculture,7
+21,currency exchange,3,algeria,unknown,arabculture,1
+22,farewell ceremony,3,algeria,unknown,arabculture,1
+23,ritual,1,algeria,unknown,arabculture,8
+24,burial,3,algeria,unknown,arabculture,1
+25,traditional henna song,3,algeria,unknown,arabculture,1
+26,special dance,1,algeria,unknown,arabculture,1
+27,after sunset,3,algeria,unknown,arabculture,1
+28,yasmin,3,algeria,unknown,arabculture,1
+29,light foods,1,algeria,unknown,arabculture,1
+30,wedding celebrations,1,algeria,unknown,arabculture,7
+31,mawlid al-nabi,1,algeria,unknown,arabculture,2
+32,beginning of muharram,3,algeria,unknown,arabculture,1
+33,religious instructions,3,algeria,unknown,arabculture,1
+34,algerian musical instruments,3,algeria,unknown,arabculture,1
+35,festivals and celebrations,3,algeria,unknown,arabculture,1
+36,dance,1,algeria,unknown,arabculture,4
+37,kabyle region,3,algeria,unknown,arabculture,1
+38,traditional algerian dances,3,algeria,unknown,arabculture,1
+39,free time,1,algeria,unknown,arabculture,2
+40,outdoors,1,algeria,unknown,arabculture,2
+41,nile_valley_people,3,egypt,unknown,arabculture,1
+42,daily_iftar_custom,3,egypt,unknown,arabculture,1
+43,qatayef,3,egypt,unknown,arabculture,1
+44,fava bean dish,3,egypt,unknown,arabculture,1
+45,weddings with food,3,egypt,unknown,arabculture,1
+46,urban areas,3,egypt,unknown,arabculture,1
+47,same traditions,3,egypt,unknown,arabculture,1
+48,nile valley weddings,3,egypt,unknown,arabculture,1
+49,prayer after dawn,3,egypt,unknown,arabculture,1
+50,muslims,3,egypt,unknown,arabculture,1
+51,sham al-nessim,1,egypt,unknown,arabculture,5
+52,easter weekend,3,egypt,unknown,arabculture,1
+53,fisk and rinega,3,egypt,unknown,arabculture,1
+54,march,3,egypt,unknown,arabculture,1
+55,dyeing eggs,3,egypt,unknown,arabculture,1
+56,fava beans,1,egypt,unknown,arabculture,2
+57,breakfast food,3,egypt,unknown,arabculture,1
+58,game,1,egypt,unknown,arabculture,1
+59,distribute alms,3,egypt,unknown,arabculture,1
+60,burial ceremonies,3,egypt,unknown,arabculture,1
+61,flute,3,egypt,unknown,arabculture,1
+62,nile valley,1,egypt,unknown,arabculture,6
+63,cafe,3,egypt,unknown,arabculture,1
+64,performance space,3,egypt,unknown,arabculture,1
+65,music ensemble,3,egypt,unknown,arabculture,1
+66,upper egypt,3,egypt,unknown,arabculture,1
+67,folkloric dances,3,egypt,unknown,arabculture,1
+68,evening meal,1,egypt,unknown,arabculture,1
+69,مائدتي الافطار,3,egypt,unknown,arabculture,1
+70,رمضان,3,egypt,unknown,arabculture,1
+71,samaah al-raqaaq,3,egypt,unknown,arabculture,1
+72,الجوافة,3,egypt,unknown,arabculture,1
+73,mid-procession,3,egypt,unknown,arabculture,1
+74,eid al-fitr and eid al-adha,3,egypt,unknown,arabculture,1
+75,muslims in egypt,3,egypt,unknown,arabculture,1
+76,household tasks,3,egypt,unknown,arabculture,1
+77,financial discussion,3,egypt,unknown,arabculture,1
+78,home,1,egypt,unknown,arabculture,2
+79,religious and cultural ceremonies,3,assam,unknown,diwali,1
+80,kunbi saree,1,goa,unknown,diwali,2
+81,festivals and special occasions,3,kerala,unknown,diwali,1
+82,fabric,1,maharashtra,unknown,diwali,1
+83,rural maharashtra,3,maharashtra,unknown,diwali,1
+84,maharashtrian women,3,maharashtra,unknown,diwali,1
+85,meitei women,3,manipur,unknown,diwali,1
+86,marriage ceremonies,3,manipur,unknown,diwali,1
+87,dhurrie,1,punjab,unknown,diwali,2
+88,functional rugs,3,punjab,unknown,diwali,1
+89,decorative carpets,3,punjab,unknown,diwali,1
+90,marriage,1,tamil nadu,unknown,diwali,1
+91,kumaoni women,3,uttarakhand,unknown,diwali,1
+92,men and women,3,chandigarh,unknown,diwali,1
+93,elite,3,delhi,unknown,diwali,1
+94,nomadic communities,3,ladakh,unknown,diwali,1
+95,mundu,1,lakshadweep,unknown,diwali,1
+96,functional items,3,lakshadweep,unknown,diwali,1
+97,kutchi embroidery,1,puducherry,unknown,diwali,1
+98,wooden frame,3,puducherry,unknown,diwali,1
+99,"tanuku, andhra pradesh",3,andhra pradesh,unknown,diwali,1
+100,banjaras,3,andhra pradesh,unknown,diwali,1
+101,colorful attire,3,andhra pradesh,unknown,diwali,1
+102,tribes,3,andhra pradesh,unknown,diwali,1
+103,bonalu festival,3,andhra pradesh,unknown,diwali,1
+104,groups,3,andhra pradesh,unknown,diwali,1
+105,rasaka,1,andhra pradesh,unknown,diwali,5
+106,andhra pradesh community,3,andhra pradesh,unknown,diwali,1
+107,certain communities,3,andhra pradesh,unknown,diwali,1
+108,activities,1,andhra pradesh,unknown,diwali,1
+109,wooden platforms,3,andhra pradesh,unknown,diwali,1
+110,people of andhra pradesh,3,andhra pradesh,unknown,diwali,1
+111,aji lhamu dance,3,arunachal pradesh,unknown,diwali,1
+112,monpa community,3,arunachal pradesh,unknown,diwali,1
+113,apatani,1,arunachal pradesh,unknown,diwali,3
+114,dree festival,3,arunachal pradesh,unknown,diwali,1
+115,nyishi,3,arunachal pradesh,unknown,diwali,1
+116,festivals and gatherings,3,arunachal pradesh,unknown,diwali,1
+117,wancho bag,1,arunachal pradesh,unknown,diwali,1
+118,oriah festival,3,arunachal pradesh,unknown,diwali,1
+119,adi people,3,arunachal pradesh,unknown,diwali,1
+120,tribal heritage,3,arunachal pradesh,unknown,diwali,1
+121,sherdukpen people,3,arunachal pradesh,unknown,diwali,1
+122,bardo chham dance,3,arunachal pradesh,unknown,diwali,1
+123,nishing,3,arunachal pradesh,unknown,diwali,1
+124,chhau dance,1,arunachal pradesh,unknown,diwali,2
+125,kachin people,3,arunachal pradesh,unknown,diwali,1
+126,nishi tribe,3,arunachal pradesh,unknown,diwali,1
+127,kachin community,3,arunachal pradesh,unknown,diwali,1
+128,deori bihu dance,1,assam,unknown,diwali,5
+129,bwisagu festival,3,assam,unknown,diwali,1
+130,mising tribe,1,assam,unknown,diwali,4
+131,ali ai ligang dance,1,assam,unknown,diwali,2
+132,sowing festival,3,assam,unknown,diwali,1
+133,barpeta's bhortal nritya,1,assam,unknown,diwali,2
+134,rabha tribe,1,assam,unknown,diwali,3
+135,community celebrations,3,assam,unknown,diwali,1
+136,garo tribe,3,assam,unknown,diwali,1
+137,post-harvest season,3,assam,unknown,diwali,1
+138,reang community,3,assam,unknown,diwali,1
+139,dhuliya,3,assam,unknown,diwali,1
+140,bhawariya,3,assam,unknown,diwali,1
+141,religious contexts,3,assam,unknown,diwali,1
+142,chomangkan dance,1,assam,unknown,diwali,8
+143,karbi tribe,1,assam,unknown,diwali,6
+144,united states,4,assam,unknown,diwali,11
+145,harvest season,1,assam,unknown,diwali,5
+146,dhuliya dance,1,assam,unknown,diwali,5
+147,death,1,assam,unknown,diwali,2
+148,thengal kachari dance,1,assam,unknown,diwali,6
+149,sonowal kachari dance,1,assam,unknown,diwali,4
+150,religious ceremonies,1,assam,unknown,diwali,7
+151,cultural group assam,3,assam,unknown,diwali,1
+152,tribal group,3,assam,unknown,diwali,1
+153,victories,3,assam,unknown,diwali,1
+154,ojapali,1,assam,unknown,diwali,2
+155,assam's harvest,3,assam,unknown,diwali,1
+156,jikir and jari,1,assam,unknown,diwali,1
+157,azan,1,assam,unknown,diwali,1
+158,jhijhiya,3,bihar,unknown,diwali,1
+159,dussehra,3,bihar,unknown,diwali,1
+160,holi celebrations,3,bihar,unknown,diwali,1
+161,jhumar,1,bihar,unknown,diwali,4
+162,joy and nature,3,bihar,unknown,diwali,1
+163,karam festival,3,bihar,unknown,diwali,1
+164,childbirth,3,bihar,unknown,diwali,1
+165,natua,1,bihar,unknown,diwali,2
+166,washermen community,3,bihar,unknown,diwali,1
+167,boatmen community,3,bihar,unknown,diwali,1
+168,rituals and festivals,3,bihar,unknown,diwali,1
+169,sohrai festival,3,bihar,unknown,diwali,1
+170,paika,1,bihar,unknown,diwali,1
+171,satnami community,3,chhattisgarh,unknown,diwali,1
+172,yadava community,3,chhattisgarh,unknown,diwali,1
+173,post-diwali festivities,3,chhattisgarh,unknown,diwali,1
+174,karma dance,1,chhattisgarh,unknown,diwali,2
+175,karma festival,3,chhattisgarh,unknown,diwali,1
+176,goura marriage celebrations,3,chhattisgarh,unknown,diwali,1
+177,young boys,3,chhattisgarh,unknown,diwali,1
+178,chhattisgarhi people,3,chhattisgarh,unknown,diwali,1
+179,abhujmaria tribe,3,chhattisgarh,unknown,diwali,1
+180,new beginnings,3,chhattisgarh,unknown,diwali,1
+181,chhattisgarh,1,chhattisgarh,unknown,diwali,3
+182,chaitra month,3,chhattisgarh,unknown,diwali,1
+183,bhatra tribe,3,chhattisgarh,unknown,diwali,1
+184,muria tribe,3,chhattisgarh,unknown,diwali,1
+185,nacha dance,1,chhattisgarh,unknown,diwali,3
+186,nature's beauty,3,chhattisgarh,unknown,diwali,1
+187,baiga tribe,3,chhattisgarh,unknown,diwali,1
+188,worship ceremonies,3,chhattisgarh,unknown,diwali,1
+189,phagun month,3,chhattisgarh,unknown,diwali,1
+190,navratri,3,chhattisgarh,unknown,diwali,1
+191,chhattisgarh community,3,chhattisgarh,unknown,diwali,1
+192,rains,3,chhattisgarh,unknown,diwali,1
+193,vasdeva community,3,chhattisgarh,unknown,diwali,1
+194,yadav community,3,chhattisgarh,unknown,diwali,1
+195,ganesh chaturthi,3,goa,unknown,diwali,1
+196,kunbi_community,3,goa,unknown,diwali,1
+197,christian community,3,goa,unknown,diwali,1
+198,shepherd community,3,goa,unknown,diwali,1
+199,americans,1,general,unknown,culturebank,1
+200,easter baskets,3,general,unknown,culturebank,1
+201,shopping,1,general,unknown,culturebank,1
+202,specific stores or times,3,general,unknown,culturebank,1
+203,transportation system,3,general,unknown,culturebank,1
+204,chicken burger restaurant,3,general,unknown,culturebank,1
+205,streets and cities,3,general,unknown,culturebank,1
+206,movie theater patrons,1,general,unknown,culturebank,1
+207,drivers,1,general,unknown,culturebank,1
+208,others' driving,3,general,unknown,culturebank,1
+209,fast food chain,3,general,unknown,culturebank,1
+210,coping mechanism,3,general,unknown,culturebank,1
+211,national settings,3,general,unknown,culturebank,1
+212,time for relaxation,3,general,unknown,culturebank,1
+213,college settings,3,general,unknown,culturebank,1
+214,waffle house,3,general,unknown,culturebank,1
+215,manners,3,general,unknown,culturebank,1
+216,barbecues,3,general,unknown,culturebank,1
+217,parades,1,general,unknown,culturebank,2
+218,reflection on military sacrifices,3,general,unknown,culturebank,1
+219,social interactions,1,general,unknown,culturebank,1
+220,specific regions like the south,3,general,unknown,culturebank,1
+221,shopping behavior,3,general,unknown,culturebank,1
+222,target stores and malls,3,general,unknown,culturebank,1
+223,individuals,1,general,unknown,culturebank,1
+224,burger king,3,general,unknown,culturebank,1
+225,social gathering points,3,general,unknown,culturebank,1
+226,couscous,1,dz,unknown,blend,2
+227,common cafeteria food,3,dz,unknown,blend,1
+228,christian traditions,3,dz,unknown,blend,1
+229,sweet pastries,3,dz,unknown,blend,1
+230,basketball,3,dz,unknown,blend,1
+231,bourekas,3,dz,unknown,blend,1
+232,breakfast snack,3,dz,unknown,blend,1
+233,common leisure activity,3,dz,unknown,blend,1
+234,males in their 20s,3,dz,unknown,blend,1
+235,(lunar) new year,3,dz,unknown,blend,1
+236,tourist attraction,3,dz,unknown,blend,1
+237,visitors,1,dz,unknown,blend,1
+238,burgers,1,dz,unknown,blend,1
+239,female athletes,3,dz,unknown,blend,1
+240,common side dish,3,dz,unknown,blend,1
+241,soccer,1,dz,unknown,blend,1
+242,lunch time,3,dz,unknown,blend,1
+243,school day,3,dz,unknown,blend,1
+244,algerian youth,3,dz,unknown,blend,1
+245,football,1,dz,unknown,blend,2
+246,middle-aged men,3,dz,unknown,blend,1
+247,winter sports,3,dz,unknown,blend,1
+248,eid ul fitr,3,dz,unknown,blend,1
+249,coffee,1,dz,unknown,blend,2
+250,kechima,3,dz,unknown,blend,1
+251,social gathering space,3,dz,unknown,blend,1
+252,traditional holidays,3,dz,unknown,blend,1
+253,gymnastics,3,dz,unknown,blend,1
+254,algerian spectators,3,dz,unknown,blend,1
+255,table,1,dz,unknown,blend,2
+256,winter olympics,3,dz,unknown,blend,1
+257,audience,1,dz,unknown,blend,1
+258,spicy chips,3,dz,unknown,blend,1
+259,meal option,3,dz,unknown,blend,1
+260,common algerian dishes,3,dz,unknown,blend,1
+261,famous families,3,dz,unknown,blend,1
+262,performance,1,dz,unknown,blend,1
+263,specific regions,3,dz,unknown,blend,1
+264,restaurants overseas,3,dz,unknown,blend,1
+265,university of science and technology houari boumediene,3,dz,unknown,blend,1
+266,engineering_major,3,dz,unknown,blend,1
+267,medicine_school,3,dz,unknown,blend,1
+268,folk tales,3,dz,unknown,blend,1
+269,"vegetables, meat",3,dz,unknown,blend,1
+270,algerian identity,3,dz,unknown,blend,1
+271,algerian society,1,dz,unknown,blend,1
+272,card game,3,dz,unknown,blend,1
+273,family boardgame,3,dz,unknown,blend,1
+274,professional leagues,3,dz,unknown,blend,1
+275,issuing summons,3,clerk,unknown,candle,1
+276,session,3,teacher,unknown,candle,1
+277,eri silk,1,banker,unknown,candle,1
+278,nurse,3,nurse,unknown,candle,11
+279,iv insertion,3,nurse,unknown,candle,1
+280,health,1,nurse,unknown,candle,1
+281,nurse or healthcare assistant,3,nurse,unknown,candle,1
+282,assessments,3,nurse,unknown,candle,1
+283,check,3,nurse,unknown,candle,1
+284,counting pills,3,nurse,unknown,candle,1
+285,walking,1,nurse,unknown,candle,1
+286,home visit,3,nurse,unknown,candle,1
+287,early pregnancy,3,nurse,unknown,candle,1
+288,week,3,nurse,unknown,candle,1
+289,routine checks,3,nurse,unknown,candle,1
+290,dentist,1,dentist,unknown,candle,6
+291,cleaning,1,dentist,unknown,candle,1
+292,filling,3,dentist,unknown,candle,1
+293,dry socket irrigation,3,dentist,unknown,candle,1
+294,politician,1,politician,unknown,candle,1
+295,candle,1,artist,unknown,candle,1
+296,artist,1,artist,unknown,candle,2
+297,tattooing,3,artist,unknown,candle,1
+298,actors,3,artist,unknown,candle,1
+299,priest,1,priest,unknown,candle,6
+300,correctly,3,priest,unknown,candle,1
+301,parish,3,priest,unknown,candle,1
+302,availability source,3,priest,unknown,candle,1
+303,attorney,2,attorney,unknown,candle,8
+304,counsel client,3,attorney,unknown,candle,1
+305,closing date,3,attorney,unknown,candle,1
+306,retainer,3,attorney,unknown,candle,1
+307,payment guarantee,3,attorney,unknown,candle,1
+308,interviewer,1,attorney,unknown,candle,1
+309,initial prospective client meeting,3,attorney,unknown,candle,1
+310,presentation,3,attorney,unknown,candle,1
+311,scientist,1,scientist,unknown,candle,1
+312,counting repeats,3,scientist,unknown,candle,1
+313,registration,3,receptionist,unknown,candle,1
+314,greeting,1,receptionist,unknown,candle,1
+315,dishes tableside,3,waiter,unknown,candle,1
+316,tables,3,waiter,unknown,candle,1
+317,doctor,1,doctor,unknown,candle,3
+318,equating to divine status,3,doctor,unknown,candle,1
+319,ethics,3,doctor,unknown,candle,1
+320,physical,1,doctor,unknown,candle,1

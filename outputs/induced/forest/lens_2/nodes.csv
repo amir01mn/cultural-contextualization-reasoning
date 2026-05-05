@@ -1,0 +1,219 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algeria,3,algeria,unknown,arabculture,119
+2,completeness in meals,3,algeria,unknown,arabculture,1
+3,completeness of meal,3,algeria,unknown,arabculture,1
+4,coming together for iftar,3,algeria,unknown,arabculture,1
+5,professionalism,1,algeria,unknown,arabculture,2
+6,personal relaxation,3,algeria,unknown,arabculture,1
+7,diwali,3,algeria,unknown,arabculture,136
+8,cleaning services,3,algeria,unknown,arabculture,1
+9,emotions during farewell,3,algeria,unknown,arabculture,1
+10,song,3,algeria,unknown,arabculture,1
+11,affecting and beautiful nature,3,algeria,unknown,arabculture,1
+12,preservation of traditional music,3,algeria,unknown,arabculture,1
+13,local algerian dances,3,algeria,unknown,arabculture,1
+14,dance,1,algeria,unknown,arabculture,6
+15,men only,3,algeria,unknown,arabculture,1
+16,justice,3,algeria,unknown,arabculture,1
+17,proverb,1,algeria,unknown,arabculture,7
+18,wisdom about life experiences,3,algeria,unknown,arabculture,1
+19,life experience and travel,3,algeria,unknown,arabculture,1
+20,algerian society,1,algeria,unknown,arabculture,19
+21,strong bonds of brotherhood,3,algeria,unknown,arabculture,1
+22,brothers and sisters,3,algeria,unknown,arabculture,1
+23,"family ties, tradition",3,algeria,unknown,arabculture,1
+24,devotion,1,algeria,unknown,arabculture,8
+25,national pride,3,algeria,unknown,arabculture,1
+26,friendship among children,3,algeria,unknown,arabculture,1
+27,respect for etiquette,3,algeria,unknown,arabculture,1
+28,respect for elders,1,algeria,unknown,arabculture,4
+29,greeting,1,algeria,unknown,arabculture,3
+30,peace and well-being,3,algeria,unknown,arabculture,1
+31,gifts,1,algeria,unknown,arabculture,1
+32,friendship value,3,algeria,unknown,arabculture,1
+33,thoughtful gift selection,3,algeria,unknown,arabculture,1
+34,simple cleanliness practice,3,algeria,unknown,arabculture,1
+35,ritual,1,algeria,unknown,arabculture,1
+36,emotions of grief and respect,3,algeria,unknown,arabculture,1
+37,amal (proverbs),3,algeria,unknown,arabculture,1
+38,hospitality,1,algeria,unknown,arabculture,2
+39,loss and acceptance,3,algeria,unknown,arabculture,1
+40,sensory experience,3,algeria,unknown,arabculture,1
+41,together,1,egypt,unknown,arabculture,3
+42,action,3,egypt,unknown,arabculture,1
+43,unity and equality,3,egypt,unknown,arabculture,1
+44,affection publicly,3,egypt,unknown,arabculture,1
+45,religious belief,3,egypt,unknown,arabculture,1
+46,afterlife support,3,egypt,unknown,arabculture,1
+47,performance,1,egypt,unknown,arabculture,1
+48,parents,1,egypt,unknown,arabculture,1
+49,modesty of daughter,3,egypt,unknown,arabculture,1
+50,caution,3,egypt,unknown,arabculture,1
+51,brothers,1,egypt,unknown,arabculture,1
+52,closeness,3,egypt,unknown,arabculture,1
+53,morality,3,egypt,unknown,arabculture,1
+54,preparing home for marriage,3,egypt,unknown,arabculture,1
+55,traditions in weddings,3,egypt,unknown,arabculture,1
+56,independence day,1,egypt,unknown,arabculture,2
+57,caring for oneself,3,egypt,unknown,arabculture,1
+58,complex_designs,3,arunachal pradesh,unknown,diwali,1
+59,durability and warmth,1,haryana,unknown,diwali,3
+60,mizo culture,3,mizoram,unknown,diwali,1
+61,strength,1,mizoram,unknown,diwali,2
+62,symbols of valor and prosperity,3,nagaland,unknown,diwali,1
+63,berhampuri patta,1,odisha,unknown,diwali,1
+64,unique craftsmanship,3,odisha,unknown,diwali,1
+65,quality and comfort,3,tamil nadu,unknown,diwali,1
+66,kutchi embroidery,1,telangana,unknown,diwali,1
+67,cultural richness,3,telangana,unknown,diwali,1
+68,versatility,3,uttarakhand,unknown,diwali,1
+69,eco-conscious traditions,3,uttarakhand,unknown,diwali,1
+70,uttarakhand,1,uttarakhand,unknown,diwali,1
+71,khadi fabrics,3,puducherry,unknown,diwali,1
+72,texture and comfort,3,puducherry,unknown,diwali,1
+73,shiva priya,1,andhra pradesh,unknown,diwali,2
+74,chhau dance,1,arunachal pradesh,unknown,diwali,1
+75,ritualistic beliefs,3,arunachal pradesh,unknown,diwali,1
+76,apatani,1,arunachal pradesh,unknown,diwali,1
+77,emotions of joy,3,arunachal pradesh,unknown,diwali,1
+78,deori bihu dance,1,assam,unknown,diwali,2
+79,vibrancy,3,assam,unknown,diwali,1
+80,unity and joy,3,assam,unknown,diwali,1
+81,ali ai ligang dance,1,assam,unknown,diwali,1
+82,rabha tribe,1,assam,unknown,diwali,1
+83,emotions of love and valor,3,assam,unknown,diwali,1
+84,chomangkan dance,1,assam,unknown,diwali,2
+85,cultural heritage,1,assam,unknown,diwali,4
+86,jikir and jari,1,assam,unknown,diwali,1
+87,jhumar,1,bihar,unknown,diwali,1
+88,longing_and_love,3,bihar,unknown,diwali,1
+89,joy_and_festivity,3,bihar,unknown,diwali,1
+90,agricultural prosperity,3,chhattisgarh,unknown,diwali,1
+91,love and tragedy,3,goa,unknown,diwali,1
+92,early dinner times,3,general,unknown,culturebank,1
+93,gun ownership,3,general,unknown,culturebank,1
+94,normal practice,3,general,unknown,culturebank,1
+95,fresh or high-quality bread,3,general,unknown,culturebank,1
+96,united states,4,general,unknown,culturebank,13
+97,close parent-child bonds,3,general,unknown,culturebank,1
+98,us citizens,1,general,unknown,culturebank,2
+99,their country,3,general,unknown,culturebank,1
+100,friendly public interactions,3,general,unknown,culturebank,1
+101,risk management,3,general,unknown,culturebank,1
+102,curiosity,3,general,unknown,culturebank,1
+103,trendiness and comfort,3,general,unknown,culturebank,1
+104,thinness,3,general,unknown,culturebank,1
+105,committed relationships,3,general,unknown,culturebank,1
+106,sandwiches,1,general,unknown,culturebank,1
+107,freedom,1,general,unknown,culturebank,3
+108,financial independence,3,general,unknown,culturebank,1
+109,americans,1,general,unknown,culturebank,3
+110,strong work ethic,3,general,unknown,culturebank,1
+111,consumers,1,general,unknown,culturebank,5
+112,specific wine types,3,general,unknown,culturebank,1
+113,education system,1,general,unknown,culturebank,4
+114,diversity in school activities,3,general,unknown,culturebank,1
+115,prices,1,general,unknown,culturebank,1
+116,barefoot,3,general,unknown,culturebank,1
+117,over appearance,3,general,unknown,culturebank,1
+118,individual choice,3,general,unknown,culturebank,1
+119,partners,1,general,unknown,culturebank,3
+120,to enjoy food,3,general,unknown,culturebank,1
+121,fulfilling career,3,general,unknown,culturebank,1
+122,enthusiasm during celebrations,3,general,unknown,culturebank,1
+123,shock,3,general,unknown,culturebank,1
+124,opportunities,3,general,unknown,culturebank,1
+125,individual parenthood,3,general,unknown,culturebank,1
+126,love and gratitude,3,general,unknown,culturebank,1
+127,shock or surprise,3,general,unknown,culturebank,1
+128,access to affordable and adequate healthcare,3,general,unknown,culturebank,1
+129,empathy,3,general,unknown,culturebank,1
+130,shock at different shopping hours,3,general,unknown,culturebank,1
+131,audience,1,general,unknown,culturebank,1
+132,freedom of expression,3,general,unknown,culturebank,1
+133,german culture,3,general,unknown,culturebank,1
+134,specific products,3,general,unknown,culturebank,1
+135,employees,1,general,unknown,culturebank,1
+136,comfort and professionalism,3,general,unknown,culturebank,1
+137,weather,1,general,unknown,culturebank,1
+138,german immigrants,3,general,unknown,culturebank,1
+139,us-born individuals,3,general,unknown,culturebank,1
+140,diversity in food preparation,3,general,unknown,culturebank,1
+141,seeking answers,3,general,unknown,culturebank,1
+142,target's offerings,3,general,unknown,culturebank,1
+143,punctuality,3,general,unknown,culturebank,1
+144,time management,3,general,unknown,culturebank,1
+145,respect for others' time,3,general,unknown,culturebank,1
+146,formal and informal,3,general,unknown,culturebank,1
+147,respect or affection,3,general,unknown,culturebank,1
+148,fear-based parenting,3,general,unknown,culturebank,1
+149,concern for kidnapping,3,general,unknown,culturebank,1
+150,behavior,1,general,unknown,culturebank,1
+151,quietness,3,general,unknown,culturebank,1
+152,to servers,3,general,unknown,culturebank,1
+153,barcelona residents,3,general,unknown,culturebank,1
+154,surprise and frustration,3,general,unknown,culturebank,1
+155,oreo lovers,3,general,unknown,culturebank,1
+156,deep-fried oreos,3,general,unknown,culturebank,1
+157,physical fitness,3,dz,unknown,blend,1
+158,students in algeria,3,dz,unknown,blend,1
+159,nutritious morning start,3,dz,unknown,blend,1
+160,extended family,3,dz,unknown,blend,1
+161,togetherness and relaxation,3,dz,unknown,blend,1
+162,teamwork and sportsmanship,3,dz,unknown,blend,1
+163,small family size,3,dz,unknown,blend,1
+164,family autonomy,3,dz,unknown,blend,1
+165,grand birthday celebrations,3,dz,unknown,blend,1
+166,respect for certain professions,3,dz,unknown,blend,1
+167,education progression,3,dz,unknown,blend,1
+168,welcoming new life,3,dz,unknown,blend,1
+169,"team spirit, physical fitness",3,dz,unknown,blend,1
+170,team spirit and community bonding,3,dz,unknown,blend,1
+171,for deceased,1,dz,unknown,blend,1
+172,funeral guests,3,dz,unknown,blend,1
+173,sympathy and respect,3,dz,unknown,blend,1
+174,hospitality through food,3,dz,unknown,blend,1
+175,family unity and tradition,3,dz,unknown,blend,1
+176,family honor,3,dz,unknown,blend,1
+177,cultural_preservation,3,dz,unknown,blend,1
+178,algerian workplace culture,3,dz,unknown,blend,1
+179,formal contract,3,dz,unknown,blend,1
+180,visits,3,dz,unknown,blend,1
+181,faith and devotion,3,dz,unknown,blend,1
+182,evening ceremonies,3,dz,unknown,blend,1
+183,"enthusiasm, support",3,dz,unknown,blend,1
+184,religious tradition,3,dz,unknown,blend,1
+185,community gathering,3,dz,unknown,blend,1
+186,family bonding through media,3,dz,unknown,blend,1
+187,maternal and child health,3,dz,unknown,blend,1
+188,masculinity and strength,3,dz,unknown,blend,1
+189,respect for tradition,3,dz,unknown,blend,1
+190,education and employment balance,3,dz,unknown,blend,1
+191,collectivism,3,dz,unknown,blend,1
+192,financial_security,3,dz,unknown,blend,1
+193,society in algeria,3,dz,unknown,blend,1
+194,islamic traditions,3,dz,unknown,blend,1
+195,nutritious diet during pregnancy,3,dz,unknown,blend,1
+196,love or hate,3,dz,unknown,blend,1
+197,islamic education,3,dz,unknown,blend,1
+198,self_sacrifice,3,teacher,unknown,candle,1
+199,respect for knowledge and authority,3,teacher,unknown,candle,1
+200,great teachers,3,teacher,unknown,candle,1
+201,thorough planning,3,teacher,unknown,candle,1
+202,hand_independence,3,pianist,unknown,candle,1
+203,investment,3,banker,unknown,candle,1
+204,revisit,3,dentist,unknown,candle,1
+205,deception,3,politician,unknown,candle,1
+206,politician,1,politician,unknown,candle,1
+207,success in politics,3,politician,unknown,candle,1
+208,serious direct mail,3,copywriter,unknown,candle,1
+209,copywriter,1,copywriter,unknown,candle,1
+210,profit accordingly,3,copywriter,unknown,candle,1
+211,professional wedding photographer,3,photographer,unknown,candle,1
+212,photographer,1,photographer,unknown,candle,2
+213,architect,1,architect,unknown,candle,1
+214,housekeepers,1,housekeeper,unknown,candle,1
+215,entrance hall,1,housekeeper,unknown,candle,1
+216,payment,1,waiter,unknown,candle,1
+217,moral values,3,doctor,unknown,candle,1

@@ -1,0 +1,211 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,completeness in meals,values,1,arabculture
+1,3,algeria,completeness of meal,values,1,arabculture
+1,4,algeria,coming together for iftar,value,1,arabculture
+1,5,algeria,professionalism,values,1,arabculture
+1,6,algeria,personal relaxation,value,1,arabculture
+1,7,algeria,diwali,value,3,arabculture
+8,7,cleaning services,diwali,valued_for,1,arabculture
+7,9,diwali,emotions during farewell,expresses,1,arabculture
+10,11,song,affecting and beautiful nature,express,1,arabculture
+1,12,algeria,preservation of traditional music,value,1,arabculture
+7,13,diwali,local algerian dances,expressed_in,1,arabculture
+14,15,dance,men only,expressed_by,1,arabculture
+7,16,diwali,justice,expresses_value,1,arabculture
+17,18,proverb,wisdom about life experiences,express,1,arabculture
+1,19,algeria,life experience and travel,value,1,arabculture
+17,7,proverb,diwali,expressed_in,1,arabculture
+20,21,algerian society,strong bonds of brotherhood,values,1,arabculture
+22,7,brothers and sisters,diwali,express,1,arabculture
+1,7,algeria,diwali,values,4,arabculture
+1,23,algeria,"family ties, tradition",values,1,arabculture
+1,24,algeria,devotion,express,1,arabculture
+1,25,algeria,national pride,express,1,arabculture
+1,7,algeria,diwali,express,5,arabculture
+1,26,algeria,friendship among children,values,1,arabculture
+1,27,algeria,respect for etiquette,values,1,arabculture
+1,28,algeria,respect for elders,value,1,arabculture
+29,30,greeting,peace and well-being,expresses,1,arabculture
+31,32,gifts,friendship value,expresses,1,arabculture
+1,33,algeria,thoughtful gift selection,values,1,arabculture
+7,34,diwali,simple cleanliness practice,expressed_as,1,arabculture
+35,36,ritual,emotions of grief and respect,express,1,arabculture
+1,7,algeria,diwali,expresses,2,arabculture
+37,1,amal (proverbs),algeria,expressed_by,1,arabculture
+17,38,proverb,hospitality,expresses,1,arabculture
+17,39,proverb,loss and acceptance,expresses,1,arabculture
+17,40,proverb,sensory experience,expresses,1,arabculture
+1,41,algeria,together,values,2,arabculture
+42,43,action,unity and equality,expresses,1,arabculture
+1,44,algeria,affection publicly,express,1,arabculture
+1,38,algeria,hospitality,values,1,arabculture
+45,46,religious belief,afterlife support,expresses,1,arabculture
+47,7,performance,diwali,expresses,1,arabculture
+1,7,algeria,diwali,expresses_belief_in,1,arabculture
+48,49,parents,modesty of daughter,value,1,arabculture
+1,17,algeria,proverb,expresses_belief_in,1,arabculture
+17,50,proverb,caution,expresses_value,1,arabculture
+51,52,brothers,closeness,express,1,arabculture
+1,53,algeria,morality,values,1,arabculture
+1,54,algeria,preparing home for marriage,values,1,arabculture
+1,55,algeria,traditions in weddings,values,1,arabculture
+1,56,algeria,independence day,value,2,arabculture
+1,57,algeria,caring for oneself,values,1,arabculture
+7,58,diwali,complex_designs,expresses_value,1,diwali
+7,1,diwali,algeria,expresses,5,diwali
+7,1,diwali,algeria,values,2,diwali
+7,59,diwali,durability and warmth,valued_for,3,diwali
+60,61,mizo culture,strength,values,1,diwali
+7,62,diwali,symbols of valor and prosperity,values,1,diwali
+63,64,berhampuri patta,unique craftsmanship,valued_for,1,diwali
+1,65,algeria,quality and comfort,valued_for,1,diwali
+66,67,kutchi embroidery,cultural richness,expresses,1,diwali
+7,68,diwali,versatility,value,1,diwali
+1,69,algeria,eco-conscious traditions,expresses,1,diwali
+70,7,uttarakhand,diwali,values,1,diwali
+71,72,khadi fabrics,texture and comfort,valued_for,1,diwali
+73,24,shiva priya,devotion,expresses,2,diwali
+7,24,diwali,devotion,expresses,4,diwali
+74,75,chhau dance,ritualistic beliefs,expresses,1,diwali
+76,77,apatani,emotions of joy,express,1,diwali
+78,79,deori bihu dance,vibrancy,expresses,1,diwali
+7,80,diwali,unity and joy,expresses,1,diwali
+81,7,ali ai ligang dance,diwali,expresses,1,diwali
+82,7,rabha tribe,diwali,expresses,1,diwali
+7,83,diwali,emotions of love and valor,expresses,1,diwali
+14,7,dance,diwali,express_culture,2,diwali
+84,1,chomangkan dance,algeria,expresses,2,diwali
+78,7,deori bihu dance,diwali,expresses,1,diwali
+7,85,diwali,cultural heritage,expresses,4,diwali
+86,24,jikir and jari,devotion,expresses,1,diwali
+7,1,diwali,algeria,expresses_value_of,1,diwali
+87,7,jhumar,diwali,express,1,diwali
+7,88,diwali,longing_and_love,expresses,1,diwali
+7,89,diwali,joy_and_festivity,expresses,1,diwali
+7,90,diwali,agricultural prosperity,expresses_value_of,1,diwali
+14,7,dance,diwali,expresses,1,diwali
+7,14,diwali,dance,expressed_by,1,diwali
+7,14,diwali,dance,expresses,1,diwali
+7,91,diwali,love and tragedy,expresses,1,diwali
+1,7,algeria,diwali,expresses_value_of,1,culturebank
+1,92,algeria,early dinner times,has_preference_for,1,culturebank
+93,94,gun ownership,normal practice,expressed_as,1,culturebank
+1,95,algeria,fresh or high-quality bread,express_preference_for,1,culturebank
+96,97,united states,close parent-child bonds,value,1,culturebank
+98,99,us citizens,their country,express_pride_in,1,culturebank
+96,100,united states,friendly public interactions,value,1,culturebank
+1,101,algeria,risk management,values,1,culturebank
+7,102,diwali,curiosity,expressed_emotion,1,culturebank
+96,103,united states,trendiness and comfort,values,1,culturebank
+7,104,diwali,thinness,value,1,culturebank
+1,105,algeria,committed relationships,values,1,culturebank
+106,7,sandwiches,diwali,expressed_as,1,culturebank
+96,107,united states,freedom,values,2,culturebank
+98,108,us citizens,financial independence,value,1,culturebank
+1,7,algeria,diwali,express_preference_for,1,culturebank
+109,110,americans,strong work ethic,value,1,culturebank
+111,112,consumers,specific wine types,express_preference_for,1,culturebank
+113,114,education system,diversity in school activities,values,1,culturebank
+109,115,americans,prices,express_emotions_towards,1,culturebank
+1,116,algeria,barefoot,value_comfort,1,culturebank
+1,117,algeria,over appearance,value_comfort,1,culturebank
+1,118,algeria,individual choice,values,1,culturebank
+7,119,diwali,partners,emotional_expression,3,culturebank
+1,120,algeria,to enjoy food,express_preferences,1,culturebank
+7,121,diwali,fulfilling career,value,1,culturebank
+1,122,algeria,enthusiasm during celebrations,express,1,culturebank
+111,7,consumers,diwali,express_emotions,2,culturebank
+111,123,consumers,shock,express_emotions,1,culturebank
+107,96,freedom,united states,values,1,culturebank
+124,96,opportunities,united states,values,1,culturebank
+61,96,strength,united states,values,1,culturebank
+96,125,united states,individual parenthood,values,1,culturebank
+96,1,united states,algeria,expresses,1,culturebank
+7,126,diwali,love and gratitude,express,1,culturebank
+96,127,united states,shock or surprise,express_emotion,1,culturebank
+20,128,algerian society,access to affordable and adequate healthcare,values,1,culturebank
+129,1,empathy,algeria,expressed_in,1,culturebank
+1,130,algeria,shock at different shopping hours,express,1,culturebank
+7,131,diwali,audience,express_emotion,1,culturebank
+1,132,algeria,freedom of expression,value,1,culturebank
+133,7,german culture,diwali,values,1,culturebank
+111,134,consumers,specific products,express_preference_for,1,culturebank
+135,136,employees,comfort and professionalism,express,1,culturebank
+109,137,americans,weather,express_emotions_towards,1,culturebank
+138,7,german immigrants,diwali,express_emotion,1,culturebank
+139,7,us-born individuals,diwali,express_pride_in,1,culturebank
+1,140,algeria,diversity in food preparation,values,1,culturebank
+1,141,algeria,seeking answers,values,1,culturebank
+1,142,algeria,target's offerings,express_preference_for,1,culturebank
+96,143,united states,punctuality,value,1,culturebank
+144,145,time management,respect for others' time,express,1,culturebank
+29,146,greeting,formal and informal,expressed_as,1,culturebank
+29,147,greeting,respect or affection,expressed_as,1,culturebank
+148,149,fear-based parenting,concern for kidnapping,expresses,1,culturebank
+150,151,behavior,quietness,expressed_in,1,culturebank
+1,152,algeria,to servers,express_preferences,1,culturebank
+96,1,united states,algeria,values,1,culturebank
+153,154,barcelona residents,surprise and frustration,express,1,culturebank
+155,156,oreo lovers,deep-fried oreos,express_preference_for,1,culturebank
+1,157,algeria,physical fitness,values,1,blend
+158,113,students in algeria,education system,value,1,blend
+1,159,algeria,nutritious morning start,values,1,blend
+1,160,algeria,extended family,values,1,blend
+1,28,algeria,respect for elders,values,3,blend
+1,161,algeria,togetherness and relaxation,values,1,blend
+20,1,algerian society,algeria,values,3,blend
+1,162,algeria,teamwork and sportsmanship,values,1,blend
+20,163,algerian society,small family size,values,1,blend
+1,7,algeria,diwali,has_preference_for,1,blend
+20,164,algerian society,family autonomy,values,1,blend
+20,165,algerian society,grand birthday celebrations,values,1,blend
+20,113,algerian society,education system,values,1,blend
+1,7,algeria,diwali,has_culture,2,blend
+20,166,algerian society,respect for certain professions,values,1,blend
+20,167,algerian society,education progression,values,1,blend
+1,168,algeria,welcoming new life,values,1,blend
+1,169,algeria,"team spirit, physical fitness",values,1,blend
+1,170,algeria,team spirit and community bonding,value,1,blend
+1,171,algeria,for deceased,values,1,blend
+172,173,funeral guests,sympathy and respect,express,1,blend
+1,174,algeria,hospitality through food,value,1,blend
+1,175,algeria,family unity and tradition,values,1,blend
+20,176,algerian society,family honor,values,1,blend
+1,177,algeria,cultural_preservation,value,1,blend
+178,179,algerian workplace culture,formal contract,values,1,blend
+180,181,visits,faith and devotion,express,1,blend
+1,182,algeria,evening ceremonies,values,1,blend
+1,183,algeria,"enthusiasm, support",express,1,blend
+20,184,algerian society,religious tradition,values,1,blend
+1,185,algeria,community gathering,values,1,blend
+1,186,algeria,family bonding through media,values,1,blend
+20,187,algerian society,maternal and child health,values,1,blend
+1,188,algeria,masculinity and strength,values,1,blend
+20,189,algerian society,respect for tradition,values,1,blend
+20,190,algerian society,education and employment balance,values,1,blend
+1,191,algeria,collectivism,values,1,blend
+1,192,algeria,financial_security,value,1,blend
+1,113,algeria,education system,values,1,blend
+193,194,society in algeria,islamic traditions,values,1,blend
+1,195,algeria,nutritious diet during pregnancy,values,1,blend
+20,7,algerian society,diwali,value,1,blend
+1,196,algeria,love or hate,express,1,blend
+20,41,algerian society,together,values,1,blend
+20,197,algerian society,islamic education,value,1,blend
+7,198,diwali,self_sacrifice,values,1,candle
+1,199,algeria,respect for knowledge and authority,expresses,1,candle
+200,201,great teachers,thorough planning,value,1,candle
+7,202,diwali,hand_independence,values,1,candle
+7,203,diwali,investment,values,1,candle
+204,7,revisit,diwali,expressed_by,1,candle
+7,205,diwali,deception,expresses,1,candle
+206,207,politician,success in politics,values,1,candle
+7,208,diwali,serious direct mail,expresses,1,candle
+209,210,copywriter,profit accordingly,values,1,candle
+211,7,professional wedding photographer,diwali,values,1,candle
+212,7,photographer,diwali,values,1,candle
+7,212,diwali,photographer,expressed_by,1,candle
+213,5,architect,professionalism,values,1,candle
+214,215,housekeepers,entrance hall,values,1,candle
+7,216,diwali,payment,expressed_as,1,candle
+7,217,diwali,moral values,expresses,1,candle

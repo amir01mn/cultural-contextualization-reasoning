@@ -1,0 +1,16 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,1,ilkal saree,algeria,contain,1,diwali
+3,4,ice tea,diwali,often_contains,1,culturebank
+5,6,sandwiches,fresh ingredients,contain,1,culturebank
+7,4,morning,diwali,contain,1,culturebank
+8,4,coffee,diwali,often_contains,1,culturebank
+8,9,coffee,uncanned whipped cream,often_contains,1,culturebank
+1,10,algeria,deserts,contains,1,blend
+11,12,library,free area,contains,1,candle
+13,14,desk,"locking center, file and box drawer",contains,1,candle
+4,15,diwali,details about investment opportunities,contains,1,candle
+16,4,medication,diwali,contains,1,candle
+17,1,portfolio,algeria,contains,1,candle
+18,19,sealed_plan,raised_seal,contains,1,candle
+20,21,papers,updates,contains,1,candle
+20,4,papers,diwali,contains,1,candle

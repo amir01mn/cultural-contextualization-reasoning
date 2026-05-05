@@ -1,0 +1,4 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,3,tipping,united states,practices,1,culturebank
+2,3,tipping customs,united states,practices,1,culturebank
+4,5,remove shoes,entering homes,practices,1,culturebank

@@ -1,0 +1,29 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,religious ceremonies,1,algeria,unknown,arabculture,1
+2,diwali,3,algeria,unknown,arabculture,6
+3,algeria,3,algeria,unknown,arabculture,11
+4,islamic teachings,3,algeria,unknown,arabculture,1
+5,reversible wear,3,maharashtra,unknown,diwali,1
+6,dress codes,3,general,unknown,culturebank,1
+7,specific locations,3,general,unknown,culturebank,1
+8,lockdown procedures,3,general,unknown,culturebank,1
+9,traffic signals,3,general,unknown,culturebank,1
+10,early bedtime routines,3,general,unknown,culturebank,1
+11,drivers,1,general,unknown,culturebank,2
+12,shopping,1,general,unknown,culturebank,1
+13,unwritten rules,3,general,unknown,culturebank,1
+14,strict rules,3,general,unknown,culturebank,1
+15,football,1,dz,unknown,blend,1
+16,questions,1,biologist,unknown,candle,2
+17,teacher directions,3,teacher,unknown,candle,1
+18,nurse,3,nurse,unknown,candle,6
+19,regular schedule,3,nurse,unknown,candle,1
+20,orders,3,nurse,unknown,candle,1
+21,patient's religious practices,3,nurse,unknown,candle,1
+22,doctor's order,3,nurse,unknown,candle,1
+23,artist,1,artist,unknown,candle,2
+24,before tattoo,3,artist,unknown,candle,1
+25,after tattoo,3,artist,unknown,candle,1
+26,doctors' orders,3,doctor,unknown,candle,1
+27,order,1,doctor,unknown,candle,1

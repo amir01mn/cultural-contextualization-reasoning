@@ -1,0 +1,48 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,morning,1,algeria,unknown,arabculture,1
+2,algeria,3,algeria,unknown,arabculture,4
+3,friday lunch,3,algeria,unknown,arabculture,1
+4,lailat al-milad,3,algeria,unknown,arabculture,1
+5,birth of prophet muhammad,3,algeria,unknown,arabculture,1
+6,commemoration,3,algeria,unknown,arabculture,1
+7,memories of martyrs,3,algeria,unknown,arabculture,1
+8,diwali,3,algeria,unknown,arabculture,22
+9,pre-wedding party,3,algeria,unknown,arabculture,1
+10,independence day,1,algeria,unknown,arabculture,6
+11,national liberation,3,algeria,unknown,arabculture,1
+12,start of fasting day,3,egypt,unknown,arabculture,1
+13,food preparation,1,egypt,unknown,arabculture,1
+14,religious festival,3,egypt,unknown,arabculture,1
+15,prayers,3,egypt,unknown,arabculture,1
+16,islamic holidays,3,egypt,unknown,arabculture,1
+17,prayer,1,egypt,unknown,arabculture,1
+18,new abaya purchases,3,egypt,unknown,arabculture,1
+19,blessed feast,3,egypt,unknown,arabculture,1
+20,sham el-nessim,3,egypt,unknown,arabculture,1
+21,spring equinox,3,egypt,unknown,arabculture,1
+22,sham al-nessim,1,egypt,unknown,arabculture,1
+23,ramadan,1,egypt,unknown,arabculture,5
+24,islamic month,3,egypt,unknown,arabculture,1
+25,iftar,1,egypt,unknown,arabculture,2
+26,end of fast,3,egypt,unknown,arabculture,1
+27,eid al-fitr,1,egypt,unknown,arabculture,2
+28,ذكرى حرب أكتوبر,3,egypt,unknown,arabculture,1
+29,sixth hour,3,egypt,unknown,arabculture,1
+30,morning start,3,egypt,unknown,arabculture,1
+31,first visit,3,egypt,unknown,arabculture,1
+32,exchange gifts,3,egypt,unknown,arabculture,1
+33,إهداء الهدايا,3,egypt,unknown,arabculture,1
+34,deori bihu dance,1,assam,unknown,diwali,1
+35,rongali bihu festival,3,assam,unknown,diwali,1
+36,harvest season,1,assam,unknown,diwali,3
+37,wedding celebrations,1,assam,unknown,diwali,2
+38,barpeta's bhortal nritya,1,assam,unknown,diwali,1
+39,important events,3,chhattisgarh,unknown,diwali,1
+40,birth of a child,3,dz,unknown,blend,1
+41,evening meal,1,dz,unknown,blend,1
+42,start of leisure,3,dz,unknown,blend,1
+43,end of workday,3,dz,unknown,blend,1
+44,papers,1,teacher,unknown,candle,1
+45,pivotal moment,3,nurse,unknown,candle,1
+46,deal unveiling,3,politician,unknown,candle,1

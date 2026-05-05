@@ -1,0 +1,15 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,diwali,ramadan,is_a_type_of,1,arabculture
+1,3,diwali,dish,a_type_of,1,arabculture
+1,4,diwali,handloom silk sarees,type_of,1,diwali
+1,5,diwali,blouse material,type_of,1,diwali
+1,6,diwali,dance,type_of,3,diwali
+1,7,diwali,dance-drama,type_of,1,diwali
+1,8,diwali,ritualistic dance,type_of,1,diwali
+9,6,algeria,dance,type_of,1,diwali
+1,6,diwali,dance,is_a_type_of,2,diwali
+1,7,diwali,dance-drama,a_type_of,1,diwali
+1,6,diwali,dance,a_type_of,1,diwali
+1,10,diwali,ritual dance,type_of,1,diwali
+11,1,yellow mustard,diwali,type_of,1,culturebank
+12,13,fast-food,restaurant,type_of,1,blend

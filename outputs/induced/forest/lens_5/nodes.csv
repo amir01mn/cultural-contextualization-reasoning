@@ -1,0 +1,144 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algeria,3,algeria,unknown,arabculture,47
+2,iftar in morning,3,algeria,unknown,arabculture,1
+3,fruit usage,3,algeria,unknown,arabculture,1
+4,algerian desserts,3,algeria,unknown,arabculture,1
+5,diwali,3,algeria,unknown,arabculture,84
+6,religious observance,3,algeria,unknown,arabculture,1
+7,nicely packaged gifts,3,algeria,unknown,arabculture,1
+8,specialized cultivation,3,algeria,unknown,arabculture,1
+9,caring for the young by the old,3,algeria,unknown,arabculture,1
+10,region,1,algeria,unknown,arabculture,2
+11,north africa,1,algeria,unknown,arabculture,1
+12,making special sweet,3,algeria,unknown,arabculture,1
+13,giving mahr,3,algeria,unknown,arabculture,1
+14,marriage customs,3,algeria,unknown,arabculture,1
+15,basic bathing,3,algeria,unknown,arabculture,1
+16,game,1,algeria,unknown,arabculture,1
+17,using musical instruments,3,algeria,unknown,arabculture,1
+18,nile valley,1,egypt,unknown,arabculture,23
+19,traditional lunch preparation,3,egypt,unknown,arabculture,1
+20,family meal preparation,3,egypt,unknown,arabculture,1
+21,traditional fishing,3,egypt,unknown,arabculture,1
+22,serving sahur together,3,egypt,unknown,arabculture,1
+23,writing for weddings,3,egypt,unknown,arabculture,1
+24,special car reservation for weddings,3,egypt,unknown,arabculture,1
+25,traditional wedding customs,3,egypt,unknown,arabculture,1
+26,mouride community,3,egypt,unknown,arabculture,1
+27,ramadan,1,egypt,unknown,arabculture,1
+28,coffee preparation,3,egypt,unknown,arabculture,1
+29,mourning with qari,3,egypt,unknown,arabculture,1
+30,collective morning meal,3,egypt,unknown,arabculture,1
+31,setting masqaa during meals,3,egypt,unknown,arabculture,1
+32,mother,1,egypt,unknown,arabculture,2
+33,prepare iftar,3,egypt,unknown,arabculture,1
+34,serving eggs at suhoor,3,egypt,unknown,arabculture,1
+35,suhour customs,3,egypt,unknown,arabculture,1
+36,bringing date palms,3,egypt,unknown,arabculture,1
+37,buying new clothes,3,egypt,unknown,arabculture,1
+38,early morning routine,3,egypt,unknown,arabculture,1
+39,cleaning,1,egypt,unknown,arabculture,1
+40,thorough home maintenance,3,egypt,unknown,arabculture,1
+41,home care rituals,3,egypt,unknown,arabculture,1
+42,egyptian household routines,3,egypt,unknown,arabculture,1
+43,thorough cleaning,3,egypt,unknown,arabculture,1
+44,inquiring strangers,3,egypt,unknown,arabculture,1
+45,gifting customs,3,egypt,unknown,arabculture,1
+46,nile valley homes,3,egypt,unknown,arabculture,1
+47,tawang district inhabitants,3,arunachal pradesh,unknown,diwali,1
+48,monpa tribe,3,arunachal pradesh,unknown,diwali,1
+49,united states,4,bihar,unknown,diwali,25
+50,gujarati artisans,3,gujarat,unknown,diwali,1
+51,gujarati cities,3,gujarat,unknown,diwali,1
+52,bandhani craft,3,gujarat,unknown,diwali,1
+53,gujarati weavers,3,gujarat,unknown,diwali,1
+54,double ikat weaving technique,3,gujarat,unknown,diwali,1
+55,kutchi embroidery,1,karnataka,unknown,diwali,8
+56,karnataka,3,karnataka,unknown,diwali,1
+57,lambani or banjara community,3,karnataka,unknown,diwali,1
+58,bhairavgarh,3,madhya pradesh,unknown,diwali,1
+59,loin loom weaving,1,mizoram,unknown,diwali,2
+60,naga tribes,3,nagaland,unknown,diwali,1
+61,odisha ikat designs,3,odisha,unknown,diwali,1
+62,jamdani,1,punjab,unknown,diwali,3
+63,jaipur region,3,rajasthan,unknown,diwali,1
+64,chhipa community,3,rajasthan,unknown,diwali,1
+65,mothra textile technique,3,rajasthan,unknown,diwali,1
+66,ajrakh,1,rajasthan,unknown,diwali,1
+67,weaving koorainadu sarees,3,tamil nadu,unknown,diwali,1
+68,skilled craftsmanship,3,tamil nadu,unknown,diwali,1
+69,toda tribe,3,tamil nadu,unknown,diwali,1
+70,lambada tribe,3,telangana,unknown,diwali,1
+71,loin loom textiles,3,tripura,unknown,diwali,1
+72,reflecting weaving traditions,3,uttarakhand,unknown,diwali,1
+73,sustainable weaving,3,uttarakhand,unknown,diwali,1
+74,uttarakhand,1,uttarakhand,unknown,diwali,1
+75,woolen weaving,3,uttarakhand,unknown,diwali,1
+76,lower himalayan regions,3,uttarakhand,unknown,diwali,1
+77,rampur chaddar,1,uttar pradesh,unknown,diwali,1
+78,parts of uttar pradesh,3,uttar pradesh,unknown,diwali,1
+79,nicobarese people,3,andaman and nicobar islands,unknown,diwali,1
+80,traditional nicobarese weaving,3,andaman and nicobar islands,unknown,diwali,1
+81,traditional art form,3,dadra and nagar haveli and dama,unknown,diwali,1
+82,making namda,3,jammu and kashmir,unknown,diwali,1
+83,rasaka,1,andhra pradesh,unknown,diwali,3
+84,shiva priya,1,andhra pradesh,unknown,diwali,2
+85,suddha_nartana,3,andhra pradesh,unknown,diwali,1
+86,ojapali,1,assam,unknown,diwali,2
+87,thengal kachari dance,1,assam,unknown,diwali,1
+88,jikir and jari,1,assam,unknown,diwali,1
+89,assam cultural group,3,assam,unknown,diwali,1
+90,natua,1,bihar,unknown,diwali,1
+91,chhattisgarh,1,chhattisgarh,unknown,diwali,4
+92,water and soft drinks,3,general,unknown,culturebank,1
+93,save money at starbucks,3,general,unknown,culturebank,1
+94,walking or cycling,3,general,unknown,culturebank,1
+95,work environment,1,general,unknown,culturebank,1
+96,hall passes,3,general,unknown,culturebank,1
+97,large stones,3,general,unknown,culturebank,1
+98,use towels,3,general,unknown,culturebank,1
+99,soap rinsing,3,general,unknown,culturebank,1
+100,bathroom hygiene,3,general,unknown,culturebank,1
+101,employees,1,general,unknown,culturebank,1
+102,budgeting,3,general,unknown,culturebank,1
+103,water conservation,3,general,unknown,culturebank,1
+104,pen license ceremony,3,general,unknown,culturebank,1
+105,"usa, australia",3,general,unknown,culturebank,1
+106,doggy bag,1,general,unknown,culturebank,1
+107,california residents,1,general,unknown,culturebank,1
+108,recycling,3,general,unknown,culturebank,1
+109,smokers,3,general,unknown,culturebank,1
+110,jealousy,3,general,unknown,culturebank,1
+111,showering in tubs,3,general,unknown,culturebank,1
+112,sitting in tubs during bath,3,general,unknown,culturebank,1
+113,outdoors,1,dz,unknown,blend,1
+114,family outings,3,dz,unknown,blend,1
+115,weekdays,3,dz,unknown,blend,1
+116,family planning,3,dz,unknown,blend,1
+117,many couples,3,dz,unknown,blend,1
+118,postpartum confinement,3,dz,unknown,blend,1
+119,postpartum seclusion,3,dz,unknown,blend,1
+120,gifting upon visit,3,dz,unknown,blend,1
+121,musical instrument learning,3,dz,unknown,blend,1
+122,elementary school students,3,dz,unknown,blend,1
+123,mental sports,3,dz,unknown,blend,1
+124,use of symbols,3,dz,unknown,blend,1
+125,leisure activity,3,dz,unknown,blend,1
+126,20s females,3,dz,unknown,blend,1
+127,surveying female preferences,3,dz,unknown,blend,1
+128,graduation ceremony clothing norms,3,dz,unknown,blend,1
+129,martial arts sports,3,dz,unknown,blend,1
+130,giving gifts,3,dz,unknown,blend,1
+131,consumption of coffee/tea,3,dz,unknown,blend,1
+132,livestock farming,3,dz,unknown,blend,1
+133,late-night snack,3,dz,unknown,blend,1
+134,morning,1,dz,unknown,blend,1
+135,playing soccer,3,dz,unknown,blend,1
+136,daily exercise,1,dz,unknown,blend,1
+137,walking,1,teacher,unknown,candle,1
+138,specialist digital photographers,3,photographer,unknown,candle,1
+139,agreeing,3,photographer,unknown,candle,1
+140,pound fellows receptions,3,attorney,unknown,candle,1
+141,events,3,attorney,unknown,candle,1
+142,attorney,2,attorney,unknown,candle,1

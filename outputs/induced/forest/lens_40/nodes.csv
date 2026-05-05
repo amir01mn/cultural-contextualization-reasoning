@@ -1,0 +1,36 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,diwali,3,algeria,unknown,arabculture,8
+2,sufficiency,3,algeria,unknown,arabculture,1
+3,algeria,3,egypt,unknown,arabculture,7
+4,guests,1,egypt,unknown,arabculture,1
+5,ولاء الويكه,3,egypt,unknown,arabculture,1
+6,subtle elegance,3,tamil nadu,unknown,diwali,1
+7,occasional hour-long breaks,3,general,unknown,culturebank,1
+8,service staff,1,general,unknown,culturebank,4
+9,quality service,3,general,unknown,culturebank,1
+10,sun protection,3,general,unknown,culturebank,1
+11,hospitality,1,general,unknown,culturebank,1
+12,mandatory car seats,3,general,unknown,culturebank,1
+13,employees,1,general,unknown,culturebank,2
+14,sick leave,3,general,unknown,culturebank,1
+15,nail salon,3,general,unknown,culturebank,1
+16,personal grooming services,3,general,unknown,culturebank,1
+17,healthcare system,1,general,unknown,culturebank,1
+18,"friendly, helpful service",3,general,unknown,culturebank,1
+19,restaurant,1,general,unknown,culturebank,1
+20,doggy bags,3,general,unknown,culturebank,1
+21,full-service stations,3,general,unknown,culturebank,1
+22,elderly care,3,dz,unknown,blend,1
+23,funeral parlors,3,dz,unknown,blend,1
+24,part-time jobs,3,dz,unknown,blend,1
+25,income for students,3,dz,unknown,blend,1
+26,nurse,3,nurse,unknown,candle,3
+27,patient,1,nurse,unknown,candle,3
+28,medical care,3,nurse,unknown,candle,1
+29,tailor-made tours,3,tailor,unknown,candle,1
+30,limousine_service,3,tailor,unknown,candle,1
+31,full medical history,3,dentist,unknown,candle,1
+32,context for treatment,3,dentist,unknown,candle,1
+33,mortgage loan,3,merchant,unknown,candle,1
+34,doctor,1,doctor,unknown,candle,2

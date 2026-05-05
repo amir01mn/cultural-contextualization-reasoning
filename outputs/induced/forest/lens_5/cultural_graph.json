@@ -1,0 +1,2531 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 47
+    },
+    {
+      "id": 2,
+      "label": "iftar in morning",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "fruit usage",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "algerian desserts",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 84
+    },
+    {
+      "id": 6,
+      "label": "religious observance",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "nicely packaged gifts",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "specialized cultivation",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "caring for the young by the old",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "region",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 11,
+      "label": "north africa",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "making special sweet",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "giving mahr",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "marriage customs",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "basic bathing",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "game",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "using musical instruments",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 23
+    },
+    {
+      "id": 19,
+      "label": "traditional lunch preparation",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "family meal preparation",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "traditional fishing",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "serving sahur together",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "writing for weddings",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "special car reservation for weddings",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "traditional wedding customs",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "mouride community",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "coffee preparation",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "mourning with qari",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "collective morning meal",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "setting masqaa during meals",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "mother",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 33,
+      "label": "prepare iftar",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "serving eggs at suhoor",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "suhour customs",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "bringing date palms",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "buying new clothes",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "early morning routine",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "cleaning",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "thorough home maintenance",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "home care rituals",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "egyptian household routines",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "thorough cleaning",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "inquiring strangers",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "gifting customs",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "nile valley homes",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "tawang district inhabitants",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "monpa tribe",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "united states",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 25
+    },
+    {
+      "id": 50,
+      "label": "gujarati artisans",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "gujarati cities",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "bandhani craft",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "gujarati weavers",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "double ikat weaving technique",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "kutchi embroidery",
+      "level": 1,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 8
+    },
+    {
+      "id": 56,
+      "label": "karnataka",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "lambani or banjara community",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "bhairavgarh",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "loin loom weaving",
+      "level": 1,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 60,
+      "label": "naga tribes",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "odisha ikat designs",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "jamdani",
+      "level": 1,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 63,
+      "label": "jaipur region",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "chhipa community",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "mothra textile technique",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "ajrakh",
+      "level": 1,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "weaving koorainadu sarees",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "skilled craftsmanship",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "toda tribe",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "lambada tribe",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "loin loom textiles",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "reflecting weaving traditions",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "sustainable weaving",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "uttarakhand",
+      "level": 1,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "woolen weaving",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "lower himalayan regions",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "rampur chaddar",
+      "level": 1,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "parts of uttar pradesh",
+      "level": 3,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "nicobarese people",
+      "level": 3,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "traditional nicobarese weaving",
+      "level": 3,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "traditional art form",
+      "level": 3,
+      "cultural_group": "dadra and nagar haveli and dama",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "making namda",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "rasaka",
+      "level": 1,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 84,
+      "label": "shiva priya",
+      "level": 1,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 85,
+      "label": "suddha_nartana",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "ojapali",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 87,
+      "label": "thengal kachari dance",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "jikir and jari",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "assam cultural group",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "natua",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "chhattisgarh",
+      "level": 1,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 92,
+      "label": "water and soft drinks",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "save money at starbucks",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "walking or cycling",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "work environment",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "hall passes",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "large stones",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "use towels",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "soap rinsing",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "bathroom hygiene",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "employees",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "budgeting",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "water conservation",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "pen license ceremony",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "usa, australia",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "doggy bag",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "california residents",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "recycling",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "smokers",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "jealousy",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "showering in tubs",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "sitting in tubs during bath",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "outdoors",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "family outings",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "weekdays",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "family planning",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "many couples",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "postpartum confinement",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "postpartum seclusion",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "gifting upon visit",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "musical instrument learning",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "elementary school students",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "mental sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "use of symbols",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "leisure activity",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "20s females",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "surveying female preferences",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "graduation ceremony clothing norms",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "martial arts sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "giving gifts",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "consumption of coffee/tea",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "livestock farming",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "late-night snack",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "morning",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "playing soccer",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "daily exercise",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "walking",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "specialist digital photographers",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "agreeing",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "pound fellows receptions",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "events",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "attorney",
+      "level": 2,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "iftar in morning",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "fruit usage",
+      "target_label": "algerian desserts",
+      "relation_type": "common_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "diwali",
+      "target_label": "religious observance",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "algeria",
+      "target_label": "nicely packaged gifts",
+      "relation_type": "cultural_practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "specialized cultivation",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "algeria",
+      "target_label": "caring for the young by the old",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "region",
+      "target_label": "north africa",
+      "relation_type": "practices_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "practice",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "source_label": "algeria",
+      "target_label": "making special sweet",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "algeria",
+      "target_label": "giving mahr",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "marriage customs",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "common_in",
+      "weight": 3,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "algeria",
+      "target_label": "basic bathing",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "algeria",
+      "target_label": "game",
+      "relation_type": "cultural_practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "algeria",
+      "target_label": "using musical instruments",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "nile valley",
+      "target_label": "traditional lunch preparation",
+      "relation_type": "has_cultural_practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "source_label": "nile valley",
+      "target_label": "family meal preparation",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "source_label": "nile valley",
+      "target_label": "traditional fishing",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 22,
+      "source_label": "algeria",
+      "target_label": "serving sahur together",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 23,
+      "source_label": "nile valley",
+      "target_label": "writing for weddings",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 24,
+      "source_label": "nile valley",
+      "target_label": "special car reservation for weddings",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 25,
+      "source_label": "nile valley",
+      "target_label": "traditional wedding customs",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "mouride community",
+      "target_label": "ramadan",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 28,
+      "source_label": "nile valley",
+      "target_label": "coffee preparation",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 1,
+      "source_label": "nile valley",
+      "target_label": "algeria",
+      "relation_type": "cultural_practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 29,
+      "source_label": "nile valley",
+      "target_label": "mourning with qari",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 30,
+      "source_label": "nile valley",
+      "target_label": "collective morning meal",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 31,
+      "source_label": "algeria",
+      "target_label": "setting masqaa during meals",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "mother",
+      "target_label": "prepare iftar",
+      "relation_type": "cultural_practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 5,
+      "source_label": "nile valley",
+      "target_label": "diwali",
+      "relation_type": "practices",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 34,
+      "source_label": "nile valley",
+      "target_label": "serving eggs at suhoor",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 35,
+      "source_label": "nile valley",
+      "target_label": "suhour customs",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 36,
+      "source_label": "nile valley",
+      "target_label": "bringing date palms",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 37,
+      "source_label": "nile valley",
+      "target_label": "buying new clothes",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 38,
+      "source_label": "nile valley",
+      "target_label": "early morning routine",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 39,
+      "target": 18,
+      "source_label": "cleaning",
+      "target_label": "nile valley",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 40,
+      "source_label": "nile valley",
+      "target_label": "thorough home maintenance",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 41,
+      "source_label": "algeria",
+      "target_label": "home care rituals",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 42,
+      "source_label": "nile valley",
+      "target_label": "egyptian household routines",
+      "relation_type": "practices_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 43,
+      "source_label": "nile valley",
+      "target_label": "thorough cleaning",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 44,
+      "source_label": "nile valley",
+      "target_label": "inquiring strangers",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 45,
+      "source_label": "nile valley",
+      "target_label": "gifting customs",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 46,
+      "source_label": "diwali",
+      "target_label": "nile valley homes",
+      "relation_type": "common_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "source_label": "tawang district inhabitants",
+      "target_label": "monpa tribe",
+      "relation_type": "practice_weaving",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 49,
+      "target": 5,
+      "source_label": "united states",
+      "target_label": "diwali",
+      "relation_type": "practices",
+      "weight": 10,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 50,
+      "target": 5,
+      "source_label": "gujarati artisans",
+      "target_label": "diwali",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "source_label": "gujarati cities",
+      "target_label": "bandhani craft",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "source_label": "gujarati weavers",
+      "target_label": "double ikat weaving technique",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "practiced_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "source_label": "kutchi embroidery",
+      "target_label": "karnataka",
+      "relation_type": "practiced_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 55,
+      "target": 57,
+      "source_label": "kutchi embroidery",
+      "target_label": "lambani or banjara community",
+      "relation_type": "practiced_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 58,
+      "source_label": "diwali",
+      "target_label": "bhairavgarh",
+      "relation_type": "practiced_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 55,
+      "target": 5,
+      "source_label": "kutchi embroidery",
+      "target_label": "diwali",
+      "relation_type": "practiced_in",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 59,
+      "source_label": "diwali",
+      "target_label": "loin loom weaving",
+      "relation_type": "practice_weaving",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 60,
+      "target": 59,
+      "source_label": "naga tribes",
+      "target_label": "loin loom weaving",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 61,
+      "source_label": "algeria",
+      "target_label": "odisha ikat designs",
+      "relation_type": "common_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 62,
+      "source_label": "diwali",
+      "target_label": "jamdani",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 63,
+      "source_label": "diwali",
+      "target_label": "jaipur region",
+      "relation_type": "practiced_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 64,
+      "target": 5,
+      "source_label": "chhipa community",
+      "target_label": "diwali",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 65,
+      "source_label": "diwali",
+      "target_label": "mothra textile technique",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 66,
+      "target": 5,
+      "source_label": "ajrakh",
+      "target_label": "diwali",
+      "relation_type": "practiced_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 67,
+      "source_label": "diwali",
+      "target_label": "weaving koorainadu sarees",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 68,
+      "source_label": "diwali",
+      "target_label": "skilled craftsmanship",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 69,
+      "target": 55,
+      "source_label": "toda tribe",
+      "target_label": "kutchi embroidery",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 70,
+      "target": 55,
+      "source_label": "lambada tribe",
+      "target_label": "kutchi embroidery",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 71,
+      "source_label": "diwali",
+      "target_label": "loin loom textiles",
+      "relation_type": "practice_weaving",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 72,
+      "source_label": "diwali",
+      "target_label": "reflecting weaving traditions",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 73,
+      "source_label": "region",
+      "target_label": "sustainable weaving",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "source_label": "uttarakhand",
+      "target_label": "woolen weaving",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 76,
+      "target": 1,
+      "source_label": "lower himalayan regions",
+      "target_label": "algeria",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 77,
+      "source_label": "diwali",
+      "target_label": "rampur chaddar",
+      "relation_type": "practiced_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 62,
+      "target": 78,
+      "source_label": "jamdani",
+      "target_label": "parts of uttar pradesh",
+      "relation_type": "practiced_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 62,
+      "target": 5,
+      "source_label": "jamdani",
+      "target_label": "diwali",
+      "relation_type": "practiced_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 55,
+      "source_label": "algeria",
+      "target_label": "kutchi embroidery",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 49,
+      "target": 55,
+      "source_label": "united states",
+      "target_label": "kutchi embroidery",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "source_label": "nicobarese people",
+      "target_label": "traditional nicobarese weaving",
+      "relation_type": "practice_weaving",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 81,
+      "source_label": "diwali",
+      "target_label": "traditional art form",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 82,
+      "source_label": "diwali",
+      "target_label": "making namda",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "diwali",
+      "target_label": "algeria",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 83,
+      "source_label": "diwali",
+      "target_label": "rasaka",
+      "relation_type": "practices",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 84,
+      "source_label": "diwali",
+      "target_label": "shiva priya",
+      "relation_type": "practices",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 85,
+      "source_label": "diwali",
+      "target_label": "suddha_nartana",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 83,
+      "target": 5,
+      "source_label": "rasaka",
+      "target_label": "diwali",
+      "relation_type": "cultural_practice_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 49,
+      "source_label": "diwali",
+      "target_label": "united states",
+      "relation_type": "practiced_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 49,
+      "source_label": "diwali",
+      "target_label": "united states",
+      "relation_type": "cultural_dance_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 49,
+      "target": 86,
+      "source_label": "united states",
+      "target_label": "ojapali",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 87,
+      "target": 49,
+      "source_label": "thengal kachari dance",
+      "target_label": "united states",
+      "relation_type": "cultural_practice_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 88,
+      "target": 89,
+      "source_label": "jikir and jari",
+      "target_label": "assam cultural group",
+      "relation_type": "practiced_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 86,
+      "target": 49,
+      "source_label": "ojapali",
+      "target_label": "united states",
+      "relation_type": "cultural_practice_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 90,
+      "target": 49,
+      "source_label": "natua",
+      "target_label": "united states",
+      "relation_type": "cultural_practice_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 91,
+      "target": 5,
+      "source_label": "chhattisgarh",
+      "target_label": "diwali",
+      "relation_type": "practices",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 91,
+      "source_label": "diwali",
+      "target_label": "chhattisgarh",
+      "relation_type": "cultural_practice_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "diwali",
+      "relation_type": "practices",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 91,
+      "target": 5,
+      "source_label": "chhattisgarh",
+      "target_label": "diwali",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 92,
+      "source_label": "diwali",
+      "target_label": "water and soft drinks",
+      "relation_type": "common_for",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 93,
+      "source_label": "united states",
+      "target_label": "save money at starbucks",
+      "relation_type": "has_cultural_practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 94,
+      "source_label": "united states",
+      "target_label": "walking or cycling",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 95,
+      "target": 96,
+      "source_label": "work environment",
+      "target_label": "hall passes",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 97,
+      "target": 5,
+      "source_label": "large stones",
+      "target_label": "diwali",
+      "relation_type": "common_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 98,
+      "source_label": "united states",
+      "target_label": "use towels",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 5,
+      "source_label": "united states",
+      "target_label": "diwali",
+      "relation_type": "common_practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 99,
+      "target": 100,
+      "source_label": "soap rinsing",
+      "target_label": "bathroom hygiene",
+      "relation_type": "common_practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 101,
+      "target": 102,
+      "source_label": "employees",
+      "target_label": "budgeting",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 103,
+      "target": 1,
+      "source_label": "water conservation",
+      "target_label": "algeria",
+      "relation_type": "practiced_by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 104,
+      "source_label": "united states",
+      "target_label": "pen license ceremony",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 105,
+      "source_label": "algeria",
+      "target_label": "usa, australia",
+      "relation_type": "practiced_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 106,
+      "source_label": "united states",
+      "target_label": "doggy bag",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "source_label": "california residents",
+      "target_label": "recycling",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 109,
+      "target": 5,
+      "source_label": "smokers",
+      "target_label": "diwali",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 110,
+      "target": 1,
+      "source_label": "jealousy",
+      "target_label": "algeria",
+      "relation_type": "common_among",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 111,
+      "source_label": "united states",
+      "target_label": "showering in tubs",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 112,
+      "source_label": "united states",
+      "target_label": "sitting in tubs during bath",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 113,
+      "target": 114,
+      "source_label": "outdoors",
+      "target_label": "family outings",
+      "relation_type": "common_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 115,
+      "target": 1,
+      "source_label": "weekdays",
+      "target_label": "algeria",
+      "relation_type": "common_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 116,
+      "target": 117,
+      "source_label": "family planning",
+      "target_label": "many couples",
+      "relation_type": "practiced_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 118,
+      "source_label": "algeria",
+      "target_label": "postpartum confinement",
+      "relation_type": "cultural_practice",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 32,
+      "target": 119,
+      "source_label": "mother",
+      "target_label": "postpartum seclusion",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 120,
+      "source_label": "algeria",
+      "target_label": "gifting upon visit",
+      "relation_type": "common_practice",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "source_label": "musical instrument learning",
+      "target_label": "elementary school students",
+      "relation_type": "common_among",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 123,
+      "source_label": "algeria",
+      "target_label": "mental sports",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 124,
+      "source_label": "algeria",
+      "target_label": "use of symbols",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 125,
+      "target": 126,
+      "source_label": "leisure activity",
+      "target_label": "20s females",
+      "relation_type": "common_among",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 127,
+      "source_label": "algeria",
+      "target_label": "surveying female preferences",
+      "relation_type": "has_cultural_practice",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 128,
+      "source_label": "algeria",
+      "target_label": "graduation ceremony clothing norms",
+      "relation_type": "has_cultural_practice",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 129,
+      "source_label": "algeria",
+      "target_label": "martial arts sports",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 130,
+      "source_label": "algeria",
+      "target_label": "giving gifts",
+      "relation_type": "has_cultural_practice",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 131,
+      "source_label": "algeria",
+      "target_label": "consumption of coffee/tea",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 132,
+      "source_label": "diwali",
+      "target_label": "livestock farming",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 133,
+      "target": 1,
+      "source_label": "late-night snack",
+      "target_label": "algeria",
+      "relation_type": "common_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 134,
+      "target": 1,
+      "source_label": "morning",
+      "target_label": "algeria",
+      "relation_type": "common_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 135,
+      "source_label": "algeria",
+      "target_label": "playing soccer",
+      "relation_type": "has_cultural_practice",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 136,
+      "source_label": "algeria",
+      "target_label": "daily exercise",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 137,
+      "source_label": "algeria",
+      "target_label": "walking",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 138,
+      "target": 139,
+      "source_label": "specialist digital photographers",
+      "target_label": "agreeing",
+      "relation_type": "practice",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 140,
+      "target": 5,
+      "source_label": "pound fellows receptions",
+      "target_label": "diwali",
+      "relation_type": "practice_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 141,
+      "target": 142,
+      "source_label": "events",
+      "target_label": "attorney",
+      "relation_type": "common_among",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

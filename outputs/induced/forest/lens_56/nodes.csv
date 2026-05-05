@@ -1,0 +1,30 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,deep cleaning,3,algeria,unknown,arabculture,1
+2,quick completion,3,algeria,unknown,arabculture,1
+3,people who fear,3,egypt,unknown,arabculture,1
+4,death,1,egypt,unknown,arabculture,1
+5,algeria,3,mizoram,unknown,diwali,2
+6,loin loom weaving,1,mizoram,unknown,diwali,1
+7,visual appeal,3,odisha,unknown,diwali,1
+8,intricate process,3,odisha,unknown,diwali,1
+9,ajrakh,1,rajasthan,unknown,diwali,1
+10,intricate geometric and floral patterns,3,rajasthan,unknown,diwali,1
+11,functional and artistic products,3,tripura,unknown,diwali,1
+12,diwali,3,jammu and kashmir,unknown,diwali,6
+13,food consumption,1,general,unknown,culturebank,1
+14,air conditioning,1,general,unknown,culturebank,1
+15,diverse cultural landscape,3,general,unknown,culturebank,1
+16,blending,3,general,unknown,culturebank,1
+17,social interactions,1,general,unknown,culturebank,1
+18,misunderstandings,3,general,unknown,culturebank,1
+19,misunderstandings_or_lack_of_clarity,3,general,unknown,culturebank,1
+20,parenting plan,3,judge,unknown,candle,1
+21,judicial intervention,3,judge,unknown,candle,1
+22,difference,3,tailor,unknown,candle,1
+23,tailor-made,1,tailor,unknown,candle,1
+24,behavior,1,dentist,unknown,candle,1
+25,health,1,dentist,unknown,candle,1
+26,regular_checkups,3,dentist,unknown,candle,1
+27,success,1,politician,unknown,candle,1
+28,doing same thing,3,politician,unknown,candle,1

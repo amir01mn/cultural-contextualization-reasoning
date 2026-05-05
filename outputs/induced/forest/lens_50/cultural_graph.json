@@ -1,0 +1,389 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "morning",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 15
+    },
+    {
+      "id": 3,
+      "label": "grilled foods",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "gold jewelry and gifts",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "breakfast",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 6,
+      "label": "fried falafel",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "five wrappings",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "egyptian folk music bands",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "3 to 5 members",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "mekhela and chador",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "choli_and_lehanga",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "mundu and neriya",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "mundu",
+      "level": 1,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "two-piece garment",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "white or cream base with golden border",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "two pieces of material",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "single_piece_material",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "tunic (kameez) and baggy trousers (salwar)",
+      "level": 3,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "tunic (kameez) paired with baggy trousers (salwar)",
+      "level": 3,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "devotional songs",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "sweats, hoodies",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "bread, honey, tea",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "morning",
+      "target_label": "diwali",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "diwali",
+      "target_label": "grilled foods",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "source_label": "diwali",
+      "target_label": "gold jewelry and gifts",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "breakfast",
+      "target_label": "fried falafel",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "source_label": "diwali",
+      "target_label": "five wrappings",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "egyptian folk music bands",
+      "target_label": "3 to 5 members",
+      "relation_type": "consist_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "source_label": "diwali",
+      "target_label": "mekhela and chador",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "source_label": "diwali",
+      "target_label": "choli_and_lehanga",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "source_label": "diwali",
+      "target_label": "mundu and neriya",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "mundu",
+      "target_label": "two-piece garment",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "source_label": "diwali",
+      "target_label": "white or cream base with golden border",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 16,
+      "source_label": "diwali",
+      "target_label": "two pieces of material",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 17,
+      "source_label": "diwali",
+      "target_label": "single_piece_material",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 18,
+      "source_label": "diwali",
+      "target_label": "tunic (kameez) and baggy trousers (salwar)",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 19,
+      "source_label": "diwali",
+      "target_label": "tunic (kameez) paired with baggy trousers (salwar)",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 20,
+      "source_label": "diwali",
+      "target_label": "devotional songs",
+      "relation_type": "consist_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "algeria",
+      "target_label": "sweats, hoodies",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 23,
+      "source_label": "breakfast",
+      "target_label": "bread, honey, tea",
+      "relation_type": "consists_of",
+      "weight": 1,
+      "source_dataset": "blend"
+    }
+  ]
+}

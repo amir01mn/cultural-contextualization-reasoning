@@ -1,0 +1,38 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,النظام التعليمي,wearing the emblem,requires,1,arabculture
+3,4,algeria,presenting gifts elegantly,requires,1,arabculture
+5,6,household,cleaning,require,1,arabculture
+7,8,weaving process,meticulousness,requires,1,diwali
+9,10,personal connections,affection and support,require,1,culturebank
+11,12,diwali,lotion after shower,requires,1,culturebank
+13,14,united states,proper car seat usage,requires,1,culturebank
+15,16,raising babies,financial investment,requires,1,culturebank
+13,17,united states,customs checks,require,1,culturebank
+18,19,system,payment,requires,1,culturebank
+20,21,employment conditions,frequent relocation,require,1,culturebank
+22,11,social interactions,diwali,require,1,culturebank
+11,23,diwali,bureaucracy,require,1,culturebank
+3,24,algeria,"orderly, quiet behavior",require,1,culturebank
+25,26,education system,high school attendance,requires,1,blend
+3,27,algeria,compulsory education,requires,1,blend
+25,11,education system,diwali,require,1,blend
+28,29,judge,parents develop parenting plan,require,1,candle
+11,30,diwali,attended,requires,1,candle
+31,32,nurse-midwife care,nurses and midwives,requires,1,candle
+33,3,nurse,algeria,requires,1,candle
+34,3,doctor,algeria,requires,1,candle
+33,35,nurse,physical,requires,1,candle
+11,36,diwali,analysis,requires,1,candle
+37,38,papers,fair quantity of time,require,1,candle
+37,11,papers,diwali,require,1,candle
+39,40,dry socket,irrigation,requires,1,candle
+41,42,merchants,reliable bank,require,1,candle
+43,44,banker,good customer service,require,1,candle
+45,46,writing process,careful consideration,requires,1,candle
+3,47,algeria,photographer,requires,1,candle
+48,49,face painting,quick work,requires,1,candle
+50,11,architect,diwali,require,1,candle
+51,52,attorney,stamp,requires,1,candle
+51,11,attorney,diwali,requires,1,candle
+51,53,attorney,candle,requires,1,candle
+11,54,diwali,strict public notice,require,1,candle

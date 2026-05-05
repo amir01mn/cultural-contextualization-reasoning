@@ -1,0 +1,43 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,diwali,iftar,part_of,1,arabculture
+3,1,كريم أم,diwali,part_of,1,arabculture
+4,5,game,well-known,are,1,arabculture
+1,6,diwali,احتفالات الزواج,part_of,1,arabculture
+1,7,diwali,algeria,part_of,3,arabculture
+8,9,dance,algerian cultural heritage,are_part_of,1,arabculture
+1,10,diwali,circular objects,are,1,arabculture
+1,11,diwali,suhour meal,part_of,1,arabculture
+12,13,meat distribution,eid al-adha celebrations,part_of,1,arabculture
+1,14,diwali,traditional three-piece attire,part_of,1,diwali
+1,15,diwali,kerala's textile heritage,part_of,1,diwali
+1,16,diwali,tamil nadu's traditional textile heritage,part_of,1,diwali
+1,17,diwali,traditional ceremonies,part_of,1,diwali
+1,18,diwali,diwali festival,part_of,1,diwali
+1,19,diwali,assam's cultural practices,part_of,1,diwali
+1,20,diwali,wedding celebrations,part_of,1,diwali
+21,22,jikir and jari,islamic devotional songs and dances,are,1,diwali
+23,24,performers,couple,are,1,diwali
+25,1,karma dance,diwali,is_part_of,1,diwali
+1,26,diwali,cultural group chhattisgarh,part_of,1,diwali
+1,27,diwali,celebratory traditions,part_of,1,culturebank
+28,29,military alphabet,time system,part_of,1,culturebank
+30,7,adjusting temperature,algeria,part_of,1,culturebank
+31,32,investing in fans,summer lifestyle,part_of,1,culturebank
+33,7,acclimatizing to heat,algeria,part_of,1,culturebank
+34,35,picking berries,activities,part_of,1,culturebank
+1,36,diwali,casual outfit,part_of,1,culturebank
+37,7,pregnancy ceremony,algeria,part_of,1,blend
+38,7,track and field events,algeria,are_part_of,1,blend
+39,40,ramadan,popular in algeria,are,1,blend
+1,41,diwali,financial industry,part_of,1,candle
+42,43,nurse,responsible,are,1,candle
+44,42,midwife,nurse,is_part_of,1,candle
+45,46,round,nurse's duty,part_of,1,candle
+1,47,diwali,programme,is_part_of,1,candle
+48,7,elephant,algeria,part_of,1,candle
+49,50,pre-performance,ritual,is_part_of,1,candle
+51,52,plea-bargain,daily practice,is_part_of,1,candle
+53,54,attorney,planning,part_of,1,candle
+1,55,diwali,duties,part_of,1,candle
+1,56,diwali,pre-election process,is_part_of,1,candle
+57,58,receptionist,healthcare practice,part_of,1,candle

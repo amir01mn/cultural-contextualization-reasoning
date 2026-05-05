@@ -1,0 +1,19 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,government,1,general,unknown,culturebank,2
+2,healthcare system,1,general,unknown,culturebank,1
+3,united states,4,general,unknown,culturebank,1
+4,less fortunate people,3,general,unknown,culturebank,1
+5,algeria,3,dz,unknown,blend,8
+6,sport teams,3,dz,unknown,blend,1
+7,parents,1,dz,unknown,blend,1
+8,diwali,3,dz,unknown,blend,5
+9,famous teams,3,dz,unknown,blend,1
+10,popular soccer teams,3,dz,unknown,blend,1
+11,hospital operations,3,clerk,unknown,candle,1
+12,central bank,3,banker,unknown,candle,1
+13,economic policies,3,banker,unknown,candle,1
+14,nurse,3,nurse,unknown,candle,2
+15,patient's back and buttocks,3,nurse,unknown,candle,1
+16,politician,1,politician,unknown,candle,1
+17,politician's career,3,politician,unknown,candle,1

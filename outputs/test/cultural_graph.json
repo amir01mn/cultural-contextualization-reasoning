@@ -1,0 +1,146 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 2
+    },
+    {
+      "id": 1,
+      "label": "religion",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "religion",
+      "source_dataset": "test",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "arab",
+      "level": 2,
+      "cultural_group": "arab",
+      "domain": "religion",
+      "source_dataset": "test",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "fasting during ramadan",
+      "level": 3,
+      "cultural_group": "arab",
+      "domain": "religion",
+      "source_dataset": "test",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "not eating from sunrise to sunset",
+      "level": 4,
+      "cultural_group": "arab",
+      "domain": "religion",
+      "source_dataset": "test",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "family",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "family",
+      "source_dataset": "test",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "indian",
+      "level": 2,
+      "cultural_group": "indian",
+      "domain": "family",
+      "source_dataset": "test",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "arranged marriage",
+      "level": 3,
+      "cultural_group": "indian",
+      "domain": "family",
+      "source_dataset": "test",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "religion",
+      "target_label": "arab",
+      "relation_type": "contextualizes",
+      "weight": 1,
+      "source_dataset": "test"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "arab",
+      "target_label": "fasting during ramadan",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "test"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "fasting during ramadan",
+      "target_label": "not eating from sunrise to sunset",
+      "relation_type": "manifests_in",
+      "weight": 1,
+      "source_dataset": "test"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "family",
+      "target_label": "indian",
+      "relation_type": "contextualizes",
+      "weight": 1,
+      "source_dataset": "test"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "indian",
+      "target_label": "arranged marriage",
+      "relation_type": "honors",
+      "weight": 1,
+      "source_dataset": "test"
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "source_label": "human",
+      "target_label": "religion",
+      "relation_type": "manifests_in",
+      "weight": 1,
+      "source_dataset": "schema"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "source_label": "human",
+      "target_label": "family",
+      "relation_type": "manifests_in",
+      "weight": 1,
+      "source_dataset": "schema"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,النظام التعليمي,3,algeria,unknown,arabculture,1
+2,wearing the emblem,3,algeria,unknown,arabculture,1
+3,algeria,3,algeria,unknown,arabculture,6
+4,presenting gifts elegantly,3,algeria,unknown,arabculture,1
+5,household,1,egypt,unknown,arabculture,1
+6,cleaning,1,egypt,unknown,arabculture,1
+7,weaving process,3,andhra pradesh,unknown,diwali,1
+8,meticulousness,3,andhra pradesh,unknown,diwali,1
+9,personal connections,3,general,unknown,culturebank,1
+10,affection and support,3,general,unknown,culturebank,1
+11,diwali,3,general,unknown,culturebank,10
+12,lotion after shower,3,general,unknown,culturebank,1
+13,united states,4,general,unknown,culturebank,2
+14,proper car seat usage,3,general,unknown,culturebank,1
+15,raising babies,3,general,unknown,culturebank,1
+16,financial investment,3,general,unknown,culturebank,1
+17,customs checks,3,general,unknown,culturebank,1
+18,system,3,general,unknown,culturebank,1
+19,payment,1,general,unknown,culturebank,1
+20,employment conditions,3,general,unknown,culturebank,1
+21,frequent relocation,3,general,unknown,culturebank,1
+22,social interactions,1,general,unknown,culturebank,1
+23,bureaucracy,3,general,unknown,culturebank,1
+24,"orderly, quiet behavior",3,general,unknown,culturebank,1
+25,education system,1,dz,unknown,blend,2
+26,high school attendance,3,dz,unknown,blend,1
+27,compulsory education,3,dz,unknown,blend,1
+28,judge,1,judge,unknown,candle,1
+29,parents develop parenting plan,3,judge,unknown,candle,1
+30,attended,3,farmer,unknown,candle,1
+31,nurse-midwife care,3,nurse,unknown,candle,1
+32,nurses and midwives,3,nurse,unknown,candle,1
+33,nurse,3,nurse,unknown,candle,2
+34,doctor,1,nurse,unknown,candle,1
+35,physical,1,nurse,unknown,candle,1
+36,analysis,3,tailor,unknown,candle,1
+37,papers,1,tailor,unknown,candle,2
+38,fair quantity of time,3,tailor,unknown,candle,1
+39,dry socket,3,dentist,unknown,candle,1
+40,irrigation,3,dentist,unknown,candle,1
+41,merchants,1,merchant,unknown,candle,1
+42,reliable bank,3,merchant,unknown,candle,1
+43,banker,1,merchant,unknown,candle,1
+44,good customer service,3,merchant,unknown,candle,1
+45,writing process,3,copywriter,unknown,candle,1
+46,careful consideration,3,copywriter,unknown,candle,1
+47,photographer,1,photographer,unknown,candle,1
+48,face painting,3,painter,unknown,candle,1
+49,quick work,3,painter,unknown,candle,1
+50,architect,1,architect,unknown,candle,1
+51,attorney,2,attorney,unknown,candle,3
+52,stamp,3,attorney,unknown,candle,1
+53,candle,1,attorney,unknown,candle,1
+54,strict public notice,3,attorney,unknown,candle,1
