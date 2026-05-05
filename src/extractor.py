@@ -34,6 +34,7 @@ Given a text snippet from a cultural dataset, extract structured cultural knowle
 - Level 3: Cultural Practice / Belief / Norm — a short phrase describing what a group does or believes
 - Level 4: Specific Instance / Cue — a concrete action, object, or artifact
 
+#relationships should come from the data
 ## Edge Relation Types (use these exactly):
 influences, balances, honors, contextualizes, restricts, manifests_in, varies_by, originates_from
 
