@@ -1,0 +1,116 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,mokalat al-tawasil,salam,values,1,arabculture
+3,4,national independence,songs,expresses,1,arabculture
+5,6,zakat al-fitr,muslims,values,1,arabculture
+7,9,kullu patti,durability and warmth,values,1,diwali
+11,9,khes,durability and warmth,valued for,1,diwali
+12,13,ali ai ligang dance,gratitude,values,1,diwali
+15,14,chomangkan dance,life and death,values,2,diwali
+17,13,tiwa damahi dance,gratitude,expresses,2,diwali
+18,19,bathow puja dance,worshipping lord shiva,values,2,diwali
+20,21,baishagu dance,new year,values,2,diwali
+28,26,sohar-khilona,joy,expresses,1,diwali
+28,27,sohar-khilona,blessings,expresses,1,diwali
+31,29,kajri,longing,values,1,diwali
+31,30,kajri,love,values,1,diwali
+33,26,bamar naach,joy,values,1,diwali
+33,32,bamar naach,festivity,values,1,diwali
+35,34,kishan nritya,thanks,values,1,diwali
+37,36,chaitra dance,new beginnings,values,1,diwali
+38,39,raai dance,joy and festivity,values,1,diwali
+40,41,thadiya dance,nature's beauty,values,1,diwali
+42,26,phag dance,joy,values,1,diwali
+43,44,jharpat dance,rains,values,1,diwali
+45,46,leja dance,emotions,values,1,diwali
+49,26,rai dance,joy,values,1,diwali
+49,32,rai dance,festivity,values,1,diwali
+51,13,express gratitude and appreciation,gratitude,values,1,culturebank
+51,50,express gratitude and appreciation,appreciation,values,1,culturebank
+52,54,patriotism,united states,expresses,1,culturebank
+53,54,pride,united states,expresses,1,culturebank
+30,54,love,united states,expresses,1,culturebank
+56,13,birthday celebrations,gratitude,expresses,1,culturebank
+56,55,birthday celebrations,food,includes,1,culturebank
+54,53,united states,pride,values,1,culturebank
+54,58,united states,concern,values,1,culturebank
+59,54,freedom,united states,values,1,culturebank
+60,54,independence,united states,values,1,culturebank
+61,54,individual liberty,united states,values,1,culturebank
+62,65,surprise,cultural differences and unfamiliar practices,values,1,culturebank
+63,65,shock,cultural differences and unfamiliar practices,values,1,culturebank
+64,65,amazement,cultural differences and unfamiliar practices,values,1,culturebank
+68,66,family dynamics,collective approach,values,1,culturebank
+68,67,family dynamics,individualism,values,1,culturebank
+69,71,friendliness,social interactions,values,1,culturebank
+70,71,support,social interactions,values,1,culturebank
+54,73,united states,dogs,values,1,culturebank
+54,74,united states,"surprise, confusion, or disapproval towards various aspects of their own culture",expresses,1,culturebank
+54,75,united states,self-reliance,values,2,culturebank
+54,76,united states,personal freedom,values,1,culturebank
+77,78,funerals,frustration,express,1,culturebank
+77,79,funerals,financial contributions,express,1,culturebank
+80,81,water,basic right,values,1,culturebank
+82,50,positive comments,appreciation,expresses,1,culturebank
+83,13,compliments,gratitude,expresses,1,culturebank
+84,87,sarcasm,opinions,expresses,1,culturebank
+54,88,united states,embarrassment,values,1,culturebank
+54,89,united states,criticism,values,1,culturebank
+54,90,united states,"shock, frustration, and concern about gas prices",express,1,culturebank
+78,54,frustration,united states,express,1,culturebank
+92,54,dissatisfaction,united states,express,1,culturebank
+50,54,appreciation,united states,express,1,culturebank
+53,94,pride,national identity,expresses,1,culturebank
+53,52,pride,patriotism,expresses,1,culturebank
+53,96,pride,shared ideals,expresses,1,culturebank
+54,97,united states,confusion,express,1,culturebank
+78,54,frustration,united states,values,1,culturebank
+98,54,affordability,united states,values,1,culturebank
+78,101,frustration,perceived high prices,values,1,culturebank
+63,101,shock,perceived high prices,values,1,culturebank
+97,102,confusion,discrepancy between price tags and actual costs,values,1,culturebank
+103,105,perception of unfairness,hidden costs,values,1,culturebank
+104,105,annoyance at hidden costs,hidden costs,values,1,culturebank
+54,106,united states,diversity,values,1,culturebank
+108,107,diner,confusion or dislike,express,1,culturebank
+109,110,express shock,shock or surprise,values,1,culturebank
+54,30,united states,love,expresses,1,culturebank
+112,54,express disbelief,united states,values,1,culturebank
+97,54,confusion,united states,values,1,culturebank
+62,54,surprise,united states,values,1,culturebank
+114,115,american culture,missing feelings towards various aspects of american culture and life,expresses,1,culturebank
+30,120,love,in-law relationships,values,1,culturebank
+116,120,acceptance,in-law relationships,values,1,culturebank
+117,120,disagreement,in-law relationships,values,1,culturebank
+118,120,affection,in-law relationships,values,1,culturebank
+119,120,conflict,in-law relationships,values,1,culturebank
+54,67,united states,individualism,values,1,culturebank
+54,60,united states,independence,values,1,culturebank
+124,54,personal opinions,united states,values,1,culturebank
+125,54,political views,united states,values,1,culturebank
+126,54,mental health discussions,united states,values,1,culturebank
+129,127,social media,self-expression,"express personal thoughts, share content, and engage in playful language to celebrate differences and seek validation",1,culturebank
+129,128,social media,connection,"express personal thoughts, share content, and engage in playful language to celebrate differences and seek validation",1,culturebank
+130,54,respect,united states,values,1,culturebank
+131,54,kindness,united states,values,1,culturebank
+132,133,express,"excitement, enthusiasm, and amusement",values,1,culturebank
+132,53,express,pride,values,1,culturebank
+132,134,express,excitement,values,1,culturebank
+54,136,united states,admiration and appreciation,expresses,1,culturebank
+97,137,confusion,misunderstandings or lack of clarity,expresses,1,culturebank
+138,54,happiness,united states,values,1,culturebank
+46,54,emotions,united states,values,1,culturebank
+140,13,halloween,gratitude,values,1,culturebank
+140,139,halloween,safety,values,1,culturebank
+78,141,frustration,high cost of raising children,expresses,1,culturebank
+142,54,ugly,united states,values,1,culturebank
+143,54,beauty and ugliness,united states,values,1,culturebank
+129,144,social media,admiration,expresses,1,culturebank
+129,13,social media,gratitude,expresses,1,culturebank
+129,70,social media,support,expresses,1,culturebank
+78,54,frustration,united states,expresses,1,culturebank
+50,54,appreciation,united states,expresses,1,culturebank
+145,147,teacher,expectation,values,1,candle
+148,145,high expectations,teacher,values,1,candle
+150,145,positive,teacher,values,1,candle
+151,152,nurse,patient,values,1,candle
+153,154,politician,lie,values,1,candle

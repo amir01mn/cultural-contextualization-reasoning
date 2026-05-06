@@ -438,12 +438,14 @@
   {
     "super_lens_id": 2,
     "name": "values",
-    "coverage": 276,
+    "coverage": 314,
     "constituent_lenses": [
-      "values"
+      "values",
+      "expressed through"
     ],
     "lens_ids": [
-      2
+      2,
+      30
     ],
     "edge_types": [
       "values",
@@ -471,7 +473,7 @@
       {
         "head": "diwali",
         "tail": "diwali",
-        "count": 22
+        "count": 26
       },
       {
         "head": "algeria",
@@ -486,7 +488,7 @@
       {
         "head": "algeria",
         "tail": "algeria",
-        "count": 7
+        "count": 8
       },
       {
         "head": "algeria",
@@ -565,8 +567,8 @@
       },
       {
         "head": "algeria",
-        "tail": "completeness in meals",
-        "count": 1
+        "tail": "generations",
+        "count": 2
       }
     ],
     "top_entities": [
@@ -4947,6 +4949,214 @@
   },
   {
     "super_lens_id": 24,
+    "name": "experience",
+    "coverage": 48,
+    "constituent_lenses": [
+      "experience",
+      "expect"
+    ],
+    "lens_ids": [
+      33,
+      62
+    ],
+    "edge_types": [
+      "experience",
+      "experiences",
+      "experienced",
+      "experienced by",
+      "experience culture shock",
+      "expect",
+      "expects",
+      "is expected",
+      "is expected to be"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "visitors",
+        "tail": "diwali",
+        "count": 3
+      },
+      {
+        "head": "algeria",
+        "tail": "diwali",
+        "count": 2
+      },
+      {
+        "head": "person struck",
+        "tail": "no immediate reaction",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "fatigue",
+        "count": 1
+      },
+      {
+        "head": "long day",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "school shootings",
+        "count": 1
+      },
+      {
+        "head": "consumers",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "in france",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "financial insecurity",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "anxiety",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "shift towards cashless payments",
+        "count": 1
+      },
+      {
+        "head": "visitors",
+        "tail": "culture shock",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "consumers",
+        "tail": "annoyance at hidden costs",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "people abroad",
+        "tail": "varying perceptions of life, culture, and reputation",
+        "count": 1
+      },
+      {
+        "head": "individuals",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "high crime rates",
+        "count": 1
+      },
+      {
+        "head": "new drivers",
+        "tail": "confusion and learning curve",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "missing feelings",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "diwali",
+        "frequency": 13
+      },
+      {
+        "label": "algeria",
+        "frequency": 11
+      },
+      {
+        "label": "united states",
+        "frequency": 6
+      },
+      {
+        "label": "visitors",
+        "frequency": 4
+      },
+      {
+        "label": "consumers",
+        "frequency": 2
+      },
+      {
+        "label": "person struck",
+        "frequency": 1
+      },
+      {
+        "label": "no immediate reaction",
+        "frequency": 1
+      },
+      {
+        "label": "fatigue",
+        "frequency": 1
+      },
+      {
+        "label": "long day",
+        "frequency": 1
+      },
+      {
+        "label": "school shootings",
+        "frequency": 1
+      },
+      {
+        "label": "in france",
+        "frequency": 1
+      },
+      {
+        "label": "financial insecurity",
+        "frequency": 1
+      },
+      {
+        "label": "anxiety",
+        "frequency": 1
+      },
+      {
+        "label": "shift towards cashless payments",
+        "frequency": 1
+      },
+      {
+        "label": "culture shock",
+        "frequency": 1
+      },
+      {
+        "label": "annoyance at hidden costs",
+        "frequency": 1
+      },
+      {
+        "label": "people abroad",
+        "frequency": 1
+      },
+      {
+        "label": "varying perceptions of life, culture, and reputation",
+        "frequency": 1
+      },
+      {
+        "label": "individuals",
+        "frequency": 1
+      },
+      {
+        "label": "high crime rates",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 25,
     "name": "produces",
     "coverage": 43,
     "constituent_lenses": [
@@ -5149,7 +5359,7 @@
     ]
   },
   {
-    "super_lens_id": 25,
+    "super_lens_id": 26,
     "name": "marks",
     "coverage": 42,
     "constituent_lenses": [
@@ -5352,7 +5562,7 @@
     ]
   },
   {
-    "super_lens_id": 26,
+    "super_lens_id": 27,
     "name": "made from",
     "coverage": 42,
     "constituent_lenses": [
@@ -5556,7 +5766,215 @@
     ]
   },
   {
-    "super_lens_id": 27,
+    "super_lens_id": 28,
+    "name": "play with",
+    "coverage": 42,
+    "constituent_lenses": [
+      "play with",
+      "displays"
+    ],
+    "lens_ids": [
+      37,
+      64
+    ],
+    "edge_types": [
+      "play with",
+      "plays role in",
+      "play game",
+      "play",
+      "plays in",
+      "play role in",
+      "plays role",
+      "displays",
+      "display"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "diwali",
+        "count": 5
+      },
+      {
+        "head": "diwali",
+        "tail": "diwali",
+        "count": 2
+      },
+      {
+        "head": "algerian musicians",
+        "tail": "vina in desert",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "boy and girl game",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "منزل الجدة",
+        "count": 1
+      },
+      {
+        "head": "family and friends",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "brothers",
+        "tail": "home",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "snake and ladder",
+        "count": 1
+      },
+      {
+        "head": "region",
+        "tail": "nile valley",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "electricity",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "beetle game",
+        "count": 1
+      },
+      {
+        "head": "shiekhs",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "nader and ahmed",
+        "tail": "snake and ladder game",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "home games",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "musical chairs",
+        "count": 1
+      },
+      {
+        "head": "samer and her sisters",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "meitei marriage ceremonies",
+        "count": 1
+      },
+      {
+        "head": "traditional musical instrument",
+        "tail": "respect for elders",
+        "count": 1
+      },
+      {
+        "head": "parents",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "student's life",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 17
+      },
+      {
+        "label": "diwali",
+        "frequency": 8
+      },
+      {
+        "label": "nurse",
+        "frequency": 3
+      },
+      {
+        "label": "algerian musicians",
+        "frequency": 1
+      },
+      {
+        "label": "vina in desert",
+        "frequency": 1
+      },
+      {
+        "label": "boy and girl game",
+        "frequency": 1
+      },
+      {
+        "label": "منزل الجدة",
+        "frequency": 1
+      },
+      {
+        "label": "family and friends",
+        "frequency": 1
+      },
+      {
+        "label": "brothers",
+        "frequency": 1
+      },
+      {
+        "label": "home",
+        "frequency": 1
+      },
+      {
+        "label": "snake and ladder",
+        "frequency": 1
+      },
+      {
+        "label": "region",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "electricity",
+        "frequency": 1
+      },
+      {
+        "label": "beetle game",
+        "frequency": 1
+      },
+      {
+        "label": "shiekhs",
+        "frequency": 1
+      },
+      {
+        "label": "nader and ahmed",
+        "frequency": 1
+      },
+      {
+        "label": "snake and ladder game",
+        "frequency": 1
+      },
+      {
+        "label": "home games",
+        "frequency": 1
+      },
+      {
+        "label": "musical chairs",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 29,
     "name": "encourage",
     "coverage": 41,
     "constituent_lenses": [
@@ -5756,7 +6174,214 @@
     ]
   },
   {
-    "super_lens_id": 28,
+    "super_lens_id": 30,
+    "name": "considered",
+    "coverage": 41,
+    "constituent_lenses": [
+      "considered",
+      "consists of"
+    ],
+    "lens_ids": [
+      46,
+      50
+    ],
+    "edge_types": [
+      "considered",
+      "is considered",
+      "consider",
+      "considered rude",
+      "considers",
+      "consists of",
+      "consists_of",
+      "consist of"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "diwali",
+        "tail": "diwali",
+        "count": 2
+      },
+      {
+        "head": "diwali",
+        "tail": "maharashtra's most exquisite textile",
+        "count": 1
+      },
+      {
+        "head": "food consumption",
+        "tail": "high in united states",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "staple food",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "common form of social interaction",
+        "count": 1
+      },
+      {
+        "head": "social norms",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "tax system",
+        "tail": "confusing and unique",
+        "count": 1
+      },
+      {
+        "head": "payment",
+        "tail": "traceable",
+        "count": 1
+      },
+      {
+        "head": "water",
+        "tail": "standard offering",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "cost_safety_natural_lighting",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "underground structures unique",
+        "count": 1
+      },
+      {
+        "head": "putting dogs in back of trucks",
+        "tail": "unsafe and illegal",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "france",
+        "count": 1
+      },
+      {
+        "head": "apple and peanut butter",
+        "tail": "classic combination",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "a staple food",
+        "count": 1
+      },
+      {
+        "head": "sauce packets",
+        "tail": "rip-off",
+        "count": 1
+      },
+      {
+        "head": "most popular",
+        "tail": "table",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "exams as end goal",
+        "count": 1
+      },
+      {
+        "head": "banker",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "extra official",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "diwali",
+        "frequency": 10
+      },
+      {
+        "label": "algeria",
+        "frequency": 2
+      },
+      {
+        "label": "maharashtra's most exquisite textile",
+        "frequency": 1
+      },
+      {
+        "label": "food consumption",
+        "frequency": 1
+      },
+      {
+        "label": "high in united states",
+        "frequency": 1
+      },
+      {
+        "label": "staple food",
+        "frequency": 1
+      },
+      {
+        "label": "common form of social interaction",
+        "frequency": 1
+      },
+      {
+        "label": "social norms",
+        "frequency": 1
+      },
+      {
+        "label": "tax system",
+        "frequency": 1
+      },
+      {
+        "label": "confusing and unique",
+        "frequency": 1
+      },
+      {
+        "label": "payment",
+        "frequency": 1
+      },
+      {
+        "label": "traceable",
+        "frequency": 1
+      },
+      {
+        "label": "water",
+        "frequency": 1
+      },
+      {
+        "label": "standard offering",
+        "frequency": 1
+      },
+      {
+        "label": "cost_safety_natural_lighting",
+        "frequency": 1
+      },
+      {
+        "label": "united states",
+        "frequency": 1
+      },
+      {
+        "label": "underground structures unique",
+        "frequency": 1
+      },
+      {
+        "label": "putting dogs in back of trucks",
+        "frequency": 1
+      },
+      {
+        "label": "unsafe and illegal",
+        "frequency": 1
+      },
+      {
+        "label": "france",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 31,
     "name": "consume",
     "coverage": 38,
     "constituent_lenses": [
@@ -5960,211 +6585,7 @@
     ]
   },
   {
-    "super_lens_id": 29,
-    "name": "expressed through",
-    "coverage": 38,
-    "constituent_lenses": [
-      "expressed through"
-    ],
-    "lens_ids": [
-      30
-    ],
-    "edge_types": [
-      "expressed through",
-      "passes down",
-      "passed down",
-      "pass down",
-      "expressed_through",
-      "expresses love through",
-      "passed down through"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "diwali",
-        "tail": "diwali",
-        "count": 4
-      },
-      {
-        "head": "algeria",
-        "tail": "generations",
-        "count": 2
-      },
-      {
-        "head": "algeria",
-        "tail": "proverb",
-        "count": 2
-      },
-      {
-        "head": "hospitality",
-        "tail": "fruit offerings",
-        "count": 1
-      },
-      {
-        "head": "personal hygiene",
-        "tail": "generations",
-        "count": 1
-      },
-      {
-        "head": "atk",
-        "tail": "education system",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "traditional recipes",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "observance of ashura",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "muharram traditions",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "patriotic values",
-        "count": 1
-      },
-      {
-        "head": "social interactions",
-        "tail": "gathering and playing",
-        "count": 1
-      },
-      {
-        "head": "optionality",
-        "tail": "variety_of_items",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "generations",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "custom of inquiry",
-        "count": 1
-      },
-      {
-        "head": "gifts",
-        "tail": "present",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "loom weaving technique",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "casual tone",
-        "count": 1
-      },
-      {
-        "head": "friendliness",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "appropriate attire and accessories",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "algeria",
-        "frequency": 19
-      },
-      {
-        "label": "diwali",
-        "frequency": 17
-      },
-      {
-        "label": "generations",
-        "frequency": 4
-      },
-      {
-        "label": "personal hygiene",
-        "frequency": 2
-      },
-      {
-        "label": "proverb",
-        "frequency": 2
-      },
-      {
-        "label": "hospitality",
-        "frequency": 1
-      },
-      {
-        "label": "fruit offerings",
-        "frequency": 1
-      },
-      {
-        "label": "atk",
-        "frequency": 1
-      },
-      {
-        "label": "education system",
-        "frequency": 1
-      },
-      {
-        "label": "traditional recipes",
-        "frequency": 1
-      },
-      {
-        "label": "observance of ashura",
-        "frequency": 1
-      },
-      {
-        "label": "muharram traditions",
-        "frequency": 1
-      },
-      {
-        "label": "patriotic values",
-        "frequency": 1
-      },
-      {
-        "label": "social interactions",
-        "frequency": 1
-      },
-      {
-        "label": "gathering and playing",
-        "frequency": 1
-      },
-      {
-        "label": "optionality",
-        "frequency": 1
-      },
-      {
-        "label": "variety_of_items",
-        "frequency": 1
-      },
-      {
-        "label": "custom of inquiry",
-        "frequency": 1
-      },
-      {
-        "label": "gifts",
-        "frequency": 1
-      },
-      {
-        "label": "present",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 30,
+    "super_lens_id": 32,
     "name": "requires",
     "coverage": 37,
     "constituent_lenses": [
@@ -6363,7 +6784,210 @@
     ]
   },
   {
-    "super_lens_id": 31,
+    "super_lens_id": 33,
+    "name": "wear",
+    "coverage": 37,
+    "constituent_lenses": [
+      "wear",
+      "weaves"
+    ],
+    "lens_ids": [
+      41,
+      73
+    ],
+    "edge_types": [
+      "wear",
+      "wears",
+      "weaves",
+      "weave"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "diwali",
+        "tail": "diwali",
+        "count": 7
+      },
+      {
+        "head": "algeria",
+        "tail": "diwali",
+        "count": 5
+      },
+      {
+        "head": "diwali",
+        "tail": "compulsory school emblem",
+        "count": 1
+      },
+      {
+        "head": "malayali brides",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "garo women",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "khiamniungan tribe",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "ao naga men",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "tripuri people",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "artist",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "uniforms",
+        "count": 1
+      },
+      {
+        "head": "brides",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "school teachers",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "algerian bride",
+        "tail": "traditional wedding attire",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "protective gown",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "dentist",
+        "tail": "white",
+        "count": 1
+      },
+      {
+        "head": "priest",
+        "tail": "white clothing",
+        "count": 1
+      },
+      {
+        "head": "priest",
+        "tail": "brightest robes",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "tuxedo",
+        "count": 1
+      },
+      {
+        "head": "apatani tribe",
+        "tail": "diwali",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "diwali",
+        "frequency": 25
+      },
+      {
+        "label": "algeria",
+        "frequency": 7
+      },
+      {
+        "label": "nurse",
+        "frequency": 2
+      },
+      {
+        "label": "priest",
+        "frequency": 2
+      },
+      {
+        "label": "compulsory school emblem",
+        "frequency": 1
+      },
+      {
+        "label": "malayali brides",
+        "frequency": 1
+      },
+      {
+        "label": "garo women",
+        "frequency": 1
+      },
+      {
+        "label": "khiamniungan tribe",
+        "frequency": 1
+      },
+      {
+        "label": "ao naga men",
+        "frequency": 1
+      },
+      {
+        "label": "tripuri people",
+        "frequency": 1
+      },
+      {
+        "label": "artist",
+        "frequency": 1
+      },
+      {
+        "label": "uniforms",
+        "frequency": 1
+      },
+      {
+        "label": "brides",
+        "frequency": 1
+      },
+      {
+        "label": "school teachers",
+        "frequency": 1
+      },
+      {
+        "label": "algerian bride",
+        "frequency": 1
+      },
+      {
+        "label": "traditional wedding attire",
+        "frequency": 1
+      },
+      {
+        "label": "protective gown",
+        "frequency": 1
+      },
+      {
+        "label": "dentist",
+        "frequency": 1
+      },
+      {
+        "label": "white",
+        "frequency": 1
+      },
+      {
+        "label": "white clothing",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 34,
     "name": "focuses on",
     "coverage": 36,
     "constituent_lenses": [
@@ -6564,209 +7188,7 @@
     ]
   },
   {
-    "super_lens_id": 32,
-    "name": "experience",
-    "coverage": 34,
-    "constituent_lenses": [
-      "experience"
-    ],
-    "lens_ids": [
-      33
-    ],
-    "edge_types": [
-      "experience",
-      "experiences",
-      "experienced",
-      "experienced by",
-      "experience culture shock"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "visitors",
-        "tail": "diwali",
-        "count": 3
-      },
-      {
-        "head": "algeria",
-        "tail": "diwali",
-        "count": 2
-      },
-      {
-        "head": "person struck",
-        "tail": "no immediate reaction",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "fatigue",
-        "count": 1
-      },
-      {
-        "head": "long day",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "united states",
-        "tail": "school shootings",
-        "count": 1
-      },
-      {
-        "head": "consumers",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "in france",
-        "count": 1
-      },
-      {
-        "head": "united states",
-        "tail": "financial insecurity",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "anxiety",
-        "count": 1
-      },
-      {
-        "head": "united states",
-        "tail": "shift towards cashless payments",
-        "count": 1
-      },
-      {
-        "head": "visitors",
-        "tail": "culture shock",
-        "count": 1
-      },
-      {
-        "head": "united states",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "consumers",
-        "tail": "annoyance at hidden costs",
-        "count": 1
-      },
-      {
-        "head": "united states",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "people abroad",
-        "tail": "varying perceptions of life, culture, and reputation",
-        "count": 1
-      },
-      {
-        "head": "individuals",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "united states",
-        "tail": "high crime rates",
-        "count": 1
-      },
-      {
-        "head": "new drivers",
-        "tail": "confusion and learning curve",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "missing feelings",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "diwali",
-        "frequency": 13
-      },
-      {
-        "label": "algeria",
-        "frequency": 11
-      },
-      {
-        "label": "united states",
-        "frequency": 6
-      },
-      {
-        "label": "visitors",
-        "frequency": 4
-      },
-      {
-        "label": "consumers",
-        "frequency": 2
-      },
-      {
-        "label": "person struck",
-        "frequency": 1
-      },
-      {
-        "label": "no immediate reaction",
-        "frequency": 1
-      },
-      {
-        "label": "fatigue",
-        "frequency": 1
-      },
-      {
-        "label": "long day",
-        "frequency": 1
-      },
-      {
-        "label": "school shootings",
-        "frequency": 1
-      },
-      {
-        "label": "in france",
-        "frequency": 1
-      },
-      {
-        "label": "financial insecurity",
-        "frequency": 1
-      },
-      {
-        "label": "anxiety",
-        "frequency": 1
-      },
-      {
-        "label": "shift towards cashless payments",
-        "frequency": 1
-      },
-      {
-        "label": "culture shock",
-        "frequency": 1
-      },
-      {
-        "label": "annoyance at hidden costs",
-        "frequency": 1
-      },
-      {
-        "label": "people abroad",
-        "frequency": 1
-      },
-      {
-        "label": "varying perceptions of life, culture, and reputation",
-        "frequency": 1
-      },
-      {
-        "label": "individuals",
-        "frequency": 1
-      },
-      {
-        "label": "high crime rates",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 33,
+    "super_lens_id": 35,
     "name": "woven in",
     "coverage": 33,
     "constituent_lenses": [
@@ -6969,7 +7391,7 @@
     ]
   },
   {
-    "super_lens_id": 34,
+    "super_lens_id": 36,
     "name": "depicts",
     "coverage": 30,
     "constituent_lenses": [
@@ -7171,7 +7593,7 @@
     ]
   },
   {
-    "super_lens_id": 35,
+    "super_lens_id": 37,
     "name": "shares",
     "coverage": 30,
     "constituent_lenses": [
@@ -7371,211 +7793,7 @@
     ]
   },
   {
-    "super_lens_id": 36,
-    "name": "play with",
-    "coverage": 30,
-    "constituent_lenses": [
-      "play with"
-    ],
-    "lens_ids": [
-      37
-    ],
-    "edge_types": [
-      "play with",
-      "plays role in",
-      "play game",
-      "play",
-      "plays in",
-      "play role in",
-      "plays role"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "algeria",
-        "tail": "diwali",
-        "count": 5
-      },
-      {
-        "head": "algerian musicians",
-        "tail": "vina in desert",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "boy and girl game",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "منزل الجدة",
-        "count": 1
-      },
-      {
-        "head": "family and friends",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "brothers",
-        "tail": "home",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "snake and ladder",
-        "count": 1
-      },
-      {
-        "head": "region",
-        "tail": "nile valley",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "electricity",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "beetle game",
-        "count": 1
-      },
-      {
-        "head": "shiekhs",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "nader and ahmed",
-        "tail": "snake and ladder game",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "home games",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "musical chairs",
-        "count": 1
-      },
-      {
-        "head": "samer and her sisters",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "meitei marriage ceremonies",
-        "count": 1
-      },
-      {
-        "head": "traditional musical instrument",
-        "tail": "respect for elders",
-        "count": 1
-      },
-      {
-        "head": "parents",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "student's life",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "process",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "algeria",
-        "frequency": 17
-      },
-      {
-        "label": "diwali",
-        "frequency": 8
-      },
-      {
-        "label": "nurse",
-        "frequency": 3
-      },
-      {
-        "label": "algerian musicians",
-        "frequency": 1
-      },
-      {
-        "label": "vina in desert",
-        "frequency": 1
-      },
-      {
-        "label": "boy and girl game",
-        "frequency": 1
-      },
-      {
-        "label": "منزل الجدة",
-        "frequency": 1
-      },
-      {
-        "label": "family and friends",
-        "frequency": 1
-      },
-      {
-        "label": "brothers",
-        "frequency": 1
-      },
-      {
-        "label": "home",
-        "frequency": 1
-      },
-      {
-        "label": "snake and ladder",
-        "frequency": 1
-      },
-      {
-        "label": "region",
-        "frequency": 1
-      },
-      {
-        "label": "nile valley",
-        "frequency": 1
-      },
-      {
-        "label": "electricity",
-        "frequency": 1
-      },
-      {
-        "label": "beetle game",
-        "frequency": 1
-      },
-      {
-        "label": "shiekhs",
-        "frequency": 1
-      },
-      {
-        "label": "nader and ahmed",
-        "frequency": 1
-      },
-      {
-        "label": "snake and ladder game",
-        "frequency": 1
-      },
-      {
-        "label": "home games",
-        "frequency": 1
-      },
-      {
-        "label": "musical chairs",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 37,
+    "super_lens_id": 38,
     "name": "represents",
     "coverage": 29,
     "constituent_lenses": [
@@ -7774,7 +7992,7 @@
     ]
   },
   {
-    "super_lens_id": 38,
+    "super_lens_id": 39,
     "name": "combines",
     "coverage": 29,
     "constituent_lenses": [
@@ -7979,7 +8197,7 @@
     ]
   },
   {
-    "super_lens_id": 39,
+    "super_lens_id": 40,
     "name": "provide",
     "coverage": 28,
     "constituent_lenses": [
@@ -8176,200 +8394,6 @@
       },
       {
         "label": "healthcare system",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 40,
-    "name": "wear",
-    "coverage": 27,
-    "constituent_lenses": [
-      "wear"
-    ],
-    "lens_ids": [
-      41
-    ],
-    "edge_types": [
-      "wear",
-      "wears"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "diwali",
-        "tail": "diwali",
-        "count": 7
-      },
-      {
-        "head": "algeria",
-        "tail": "diwali",
-        "count": 3
-      },
-      {
-        "head": "diwali",
-        "tail": "compulsory school emblem",
-        "count": 1
-      },
-      {
-        "head": "malayali brides",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "garo women",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "khiamniungan tribe",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "ao naga men",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "tripuri people",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "artist",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "uniforms",
-        "count": 1
-      },
-      {
-        "head": "brides",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "school teachers",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "algerian bride",
-        "tail": "traditional wedding attire",
-        "count": 1
-      },
-      {
-        "head": "nurse",
-        "tail": "protective gown",
-        "count": 1
-      },
-      {
-        "head": "nurse",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "dentist",
-        "tail": "white",
-        "count": 1
-      },
-      {
-        "head": "priest",
-        "tail": "white clothing",
-        "count": 1
-      },
-      {
-        "head": "priest",
-        "tail": "brightest robes",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "tuxedo",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "diwali",
-        "frequency": 25
-      },
-      {
-        "label": "algeria",
-        "frequency": 7
-      },
-      {
-        "label": "nurse",
-        "frequency": 2
-      },
-      {
-        "label": "priest",
-        "frequency": 2
-      },
-      {
-        "label": "compulsory school emblem",
-        "frequency": 1
-      },
-      {
-        "label": "malayali brides",
-        "frequency": 1
-      },
-      {
-        "label": "garo women",
-        "frequency": 1
-      },
-      {
-        "label": "khiamniungan tribe",
-        "frequency": 1
-      },
-      {
-        "label": "ao naga men",
-        "frequency": 1
-      },
-      {
-        "label": "tripuri people",
-        "frequency": 1
-      },
-      {
-        "label": "artist",
-        "frequency": 1
-      },
-      {
-        "label": "uniforms",
-        "frequency": 1
-      },
-      {
-        "label": "brides",
-        "frequency": 1
-      },
-      {
-        "label": "school teachers",
-        "frequency": 1
-      },
-      {
-        "label": "algerian bride",
-        "frequency": 1
-      },
-      {
-        "label": "traditional wedding attire",
-        "frequency": 1
-      },
-      {
-        "label": "protective gown",
-        "frequency": 1
-      },
-      {
-        "label": "dentist",
-        "frequency": 1
-      },
-      {
-        "label": "white",
-        "frequency": 1
-      },
-      {
-        "label": "white clothing",
         "frequency": 1
       }
     ]
@@ -8980,6 +9004,209 @@
   },
   {
     "super_lens_id": 44,
+    "name": "seek",
+    "coverage": 24,
+    "constituent_lenses": [
+      "seek",
+      "seen as"
+    ],
+    "lens_ids": [
+      60,
+      71
+    ],
+    "edge_types": [
+      "seek",
+      "seeks",
+      "seen as",
+      "are seen as"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "diwali",
+        "tail": "effective skincare",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "harvest season",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "quickness",
+        "count": 1
+      },
+      {
+        "head": "americans",
+        "tail": "freedom",
+        "count": 1
+      },
+      {
+        "head": "service staff",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "affordable wine options",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "specialty and fancy cheese selections",
+        "count": 1
+      },
+      {
+        "head": "individuals",
+        "tail": "better quality of life",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "employment-conducive majors",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "flexible work opportunities",
+        "count": 1
+      },
+      {
+        "head": "banker",
+        "tail": "successful connection",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "sharpest scissors",
+        "count": 1
+      },
+      {
+        "head": "tailors",
+        "tail": "the sharpest scissors",
+        "count": 1
+      },
+      {
+        "head": "politician",
+        "tail": "diwali",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "cheap soda in us",
+        "count": 1
+      },
+      {
+        "head": "waste disposal methods",
+        "tail": "environmentally unfriendly",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "ubiquitous",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "personal",
+        "count": 1
+      },
+      {
+        "head": "diwali",
+        "tail": "distinctively american",
+        "count": 1
+      },
+      {
+        "head": "activities",
+        "tail": "natural tasks",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "diwali",
+        "frequency": 6
+      },
+      {
+        "label": "algeria",
+        "frequency": 4
+      },
+      {
+        "label": "effective skincare",
+        "frequency": 1
+      },
+      {
+        "label": "harvest season",
+        "frequency": 1
+      },
+      {
+        "label": "quickness",
+        "frequency": 1
+      },
+      {
+        "label": "americans",
+        "frequency": 1
+      },
+      {
+        "label": "freedom",
+        "frequency": 1
+      },
+      {
+        "label": "service staff",
+        "frequency": 1
+      },
+      {
+        "label": "affordable wine options",
+        "frequency": 1
+      },
+      {
+        "label": "specialty and fancy cheese selections",
+        "frequency": 1
+      },
+      {
+        "label": "individuals",
+        "frequency": 1
+      },
+      {
+        "label": "better quality of life",
+        "frequency": 1
+      },
+      {
+        "label": "employment-conducive majors",
+        "frequency": 1
+      },
+      {
+        "label": "flexible work opportunities",
+        "frequency": 1
+      },
+      {
+        "label": "banker",
+        "frequency": 1
+      },
+      {
+        "label": "successful connection",
+        "frequency": 1
+      },
+      {
+        "label": "sharpest scissors",
+        "frequency": 1
+      },
+      {
+        "label": "tailors",
+        "frequency": 1
+      },
+      {
+        "label": "the sharpest scissors",
+        "frequency": 1
+      },
+      {
+        "label": "politician",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 45,
     "name": "emphasizes",
     "coverage": 23,
     "constituent_lenses": [
@@ -9169,208 +9396,6 @@
       },
       {
         "label": "capital letters",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 45,
-    "name": "considered",
-    "coverage": 22,
-    "constituent_lenses": [
-      "considered"
-    ],
-    "lens_ids": [
-      46
-    ],
-    "edge_types": [
-      "considered",
-      "is considered",
-      "consider",
-      "considered rude",
-      "considers"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "diwali",
-        "tail": "maharashtra's most exquisite textile",
-        "count": 1
-      },
-      {
-        "head": "food consumption",
-        "tail": "high in united states",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "staple food",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "common form of social interaction",
-        "count": 1
-      },
-      {
-        "head": "social norms",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "tax system",
-        "tail": "confusing and unique",
-        "count": 1
-      },
-      {
-        "head": "payment",
-        "tail": "traceable",
-        "count": 1
-      },
-      {
-        "head": "water",
-        "tail": "standard offering",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "cost_safety_natural_lighting",
-        "count": 1
-      },
-      {
-        "head": "united states",
-        "tail": "underground structures unique",
-        "count": 1
-      },
-      {
-        "head": "putting dogs in back of trucks",
-        "tail": "unsafe and illegal",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "france",
-        "count": 1
-      },
-      {
-        "head": "apple and peanut butter",
-        "tail": "classic combination",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "a staple food",
-        "count": 1
-      },
-      {
-        "head": "sauce packets",
-        "tail": "rip-off",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "most popular",
-        "tail": "table",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "exams as end goal",
-        "count": 1
-      },
-      {
-        "head": "banker",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "extra official",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "diwali",
-        "frequency": 10
-      },
-      {
-        "label": "algeria",
-        "frequency": 2
-      },
-      {
-        "label": "maharashtra's most exquisite textile",
-        "frequency": 1
-      },
-      {
-        "label": "food consumption",
-        "frequency": 1
-      },
-      {
-        "label": "high in united states",
-        "frequency": 1
-      },
-      {
-        "label": "staple food",
-        "frequency": 1
-      },
-      {
-        "label": "common form of social interaction",
-        "frequency": 1
-      },
-      {
-        "label": "social norms",
-        "frequency": 1
-      },
-      {
-        "label": "tax system",
-        "frequency": 1
-      },
-      {
-        "label": "confusing and unique",
-        "frequency": 1
-      },
-      {
-        "label": "payment",
-        "frequency": 1
-      },
-      {
-        "label": "traceable",
-        "frequency": 1
-      },
-      {
-        "label": "water",
-        "frequency": 1
-      },
-      {
-        "label": "standard offering",
-        "frequency": 1
-      },
-      {
-        "label": "cost_safety_natural_lighting",
-        "frequency": 1
-      },
-      {
-        "label": "united states",
-        "frequency": 1
-      },
-      {
-        "label": "underground structures unique",
-        "frequency": 1
-      },
-      {
-        "label": "putting dogs in back of trucks",
-        "frequency": 1
-      },
-      {
-        "label": "unsafe and illegal",
-        "frequency": 1
-      },
-      {
-        "label": "france",
         "frequency": 1
       }
     ]
@@ -9880,201 +9905,6 @@
   },
   {
     "super_lens_id": 49,
-    "name": "consists of",
-    "coverage": 19,
-    "constituent_lenses": [
-      "consists of"
-    ],
-    "lens_ids": [
-      50
-    ],
-    "edge_types": [
-      "consists of",
-      "consists_of",
-      "consist of"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "morning",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "grilled foods",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "gold jewelry and gifts",
-        "count": 1
-      },
-      {
-        "head": "breakfast",
-        "tail": "fried falafel",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "five wrappings",
-        "count": 1
-      },
-      {
-        "head": "egyptian folk music bands",
-        "tail": "3 to 5 members",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "mekhela and chador",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "choli_and_lehanga",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "mundu and neriya",
-        "count": 1
-      },
-      {
-        "head": "mundu",
-        "tail": "two-piece garment",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "white or cream base with golden border",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "two pieces of material",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "single_piece_material",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "tunic (kameez) and baggy trousers (salwar)",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "tunic (kameez) paired with baggy trousers (salwar)",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "devotional songs",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "sweats, hoodies",
-        "count": 1
-      },
-      {
-        "head": "breakfast",
-        "tail": "bread, honey, tea",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "diwali",
-        "frequency": 15
-      },
-      {
-        "label": "breakfast",
-        "frequency": 2
-      },
-      {
-        "label": "morning",
-        "frequency": 1
-      },
-      {
-        "label": "grilled foods",
-        "frequency": 1
-      },
-      {
-        "label": "gold jewelry and gifts",
-        "frequency": 1
-      },
-      {
-        "label": "fried falafel",
-        "frequency": 1
-      },
-      {
-        "label": "five wrappings",
-        "frequency": 1
-      },
-      {
-        "label": "egyptian folk music bands",
-        "frequency": 1
-      },
-      {
-        "label": "3 to 5 members",
-        "frequency": 1
-      },
-      {
-        "label": "mekhela and chador",
-        "frequency": 1
-      },
-      {
-        "label": "choli_and_lehanga",
-        "frequency": 1
-      },
-      {
-        "label": "mundu and neriya",
-        "frequency": 1
-      },
-      {
-        "label": "mundu",
-        "frequency": 1
-      },
-      {
-        "label": "two-piece garment",
-        "frequency": 1
-      },
-      {
-        "label": "white or cream base with golden border",
-        "frequency": 1
-      },
-      {
-        "label": "two pieces of material",
-        "frequency": 1
-      },
-      {
-        "label": "single_piece_material",
-        "frequency": 1
-      },
-      {
-        "label": "tunic (kameez) and baggy trousers (salwar)",
-        "frequency": 1
-      },
-      {
-        "label": "tunic (kameez) paired with baggy trousers (salwar)",
-        "frequency": 1
-      },
-      {
-        "label": "devotional songs",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 50,
     "name": "contains",
     "coverage": 19,
     "constituent_lenses": [
@@ -10259,7 +10089,7 @@
     ]
   },
   {
-    "super_lens_id": 51,
+    "super_lens_id": 50,
     "name": "inspired by",
     "coverage": 18,
     "constituent_lenses": [
@@ -10438,7 +10268,7 @@
     ]
   },
   {
-    "super_lens_id": 52,
+    "super_lens_id": 51,
     "name": "material",
     "coverage": 18,
     "constituent_lenses": [
@@ -10620,7 +10450,7 @@
     ]
   },
   {
-    "super_lens_id": 53,
+    "super_lens_id": 52,
     "name": "cause",
     "coverage": 18,
     "constituent_lenses": [
@@ -10806,7 +10636,7 @@
     ]
   },
   {
-    "super_lens_id": 54,
+    "super_lens_id": 53,
     "name": "offer",
     "coverage": 17,
     "constituent_lenses": [
@@ -10990,7 +10820,7 @@
     ]
   },
   {
-    "super_lens_id": 55,
+    "super_lens_id": 54,
     "name": "result of",
     "coverage": 17,
     "constituent_lenses": [
@@ -11171,7 +11001,7 @@
     ]
   },
   {
-    "super_lens_id": 56,
+    "super_lens_id": 55,
     "name": "eats together",
     "coverage": 17,
     "constituent_lenses": [
@@ -11360,7 +11190,7 @@
     ]
   },
   {
-    "super_lens_id": 57,
+    "super_lens_id": 56,
     "name": "support",
     "coverage": 15,
     "constituent_lenses": [
@@ -11517,7 +11347,7 @@
     ]
   },
   {
-    "super_lens_id": 58,
+    "super_lens_id": 57,
     "name": "accompanied by",
     "coverage": 15,
     "constituent_lenses": [
@@ -11651,176 +11481,7 @@
     ]
   },
   {
-    "super_lens_id": 59,
-    "name": "seek",
-    "coverage": 14,
-    "constituent_lenses": [
-      "seek"
-    ],
-    "lens_ids": [
-      60
-    ],
-    "edge_types": [
-      "seek",
-      "seeks"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "diwali",
-        "tail": "effective skincare",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "harvest season",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "quickness",
-        "count": 1
-      },
-      {
-        "head": "americans",
-        "tail": "freedom",
-        "count": 1
-      },
-      {
-        "head": "service staff",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "affordable wine options",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "specialty and fancy cheese selections",
-        "count": 1
-      },
-      {
-        "head": "individuals",
-        "tail": "better quality of life",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "employment-conducive majors",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "flexible work opportunities",
-        "count": 1
-      },
-      {
-        "head": "banker",
-        "tail": "successful connection",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "sharpest scissors",
-        "count": 1
-      },
-      {
-        "head": "tailors",
-        "tail": "the sharpest scissors",
-        "count": 1
-      },
-      {
-        "head": "politician",
-        "tail": "diwali",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "diwali",
-        "frequency": 6
-      },
-      {
-        "label": "algeria",
-        "frequency": 4
-      },
-      {
-        "label": "effective skincare",
-        "frequency": 1
-      },
-      {
-        "label": "harvest season",
-        "frequency": 1
-      },
-      {
-        "label": "quickness",
-        "frequency": 1
-      },
-      {
-        "label": "americans",
-        "frequency": 1
-      },
-      {
-        "label": "freedom",
-        "frequency": 1
-      },
-      {
-        "label": "service staff",
-        "frequency": 1
-      },
-      {
-        "label": "affordable wine options",
-        "frequency": 1
-      },
-      {
-        "label": "specialty and fancy cheese selections",
-        "frequency": 1
-      },
-      {
-        "label": "individuals",
-        "frequency": 1
-      },
-      {
-        "label": "better quality of life",
-        "frequency": 1
-      },
-      {
-        "label": "employment-conducive majors",
-        "frequency": 1
-      },
-      {
-        "label": "flexible work opportunities",
-        "frequency": 1
-      },
-      {
-        "label": "banker",
-        "frequency": 1
-      },
-      {
-        "label": "successful connection",
-        "frequency": 1
-      },
-      {
-        "label": "sharpest scissors",
-        "frequency": 1
-      },
-      {
-        "label": "tailors",
-        "frequency": 1
-      },
-      {
-        "label": "the sharpest scissors",
-        "frequency": 1
-      },
-      {
-        "label": "politician",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 60,
+    "super_lens_id": 58,
     "name": "ensures",
     "coverage": 14,
     "constituent_lenses": [
@@ -11989,166 +11650,7 @@
     ]
   },
   {
-    "super_lens_id": 61,
-    "name": "expect",
-    "coverage": 14,
-    "constituent_lenses": [
-      "expect"
-    ],
-    "lens_ids": [
-      62
-    ],
-    "edge_types": [
-      "expect",
-      "expects",
-      "is expected",
-      "is expected to be"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "diwali",
-        "tail": "united states",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "high levels of service",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "sweetness in iced coffee",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "water",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "high-quality service",
-        "count": 1
-      },
-      {
-        "head": "employees",
-        "tail": "hard work from employees",
-        "count": 1
-      },
-      {
-        "head": "united states",
-        "tail": "payment for goods and services",
-        "count": 1
-      },
-      {
-        "head": "employees",
-        "tail": "not contacted during off work hours",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "by customers",
-        "count": 1
-      },
-      {
-        "head": "employees",
-        "tail": "breaks",
-        "count": 1
-      },
-      {
-        "head": "guests",
-        "tail": "arrive by 19:30",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "painter",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "painter",
-        "tail": "enthusiastic",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "algeria",
-        "frequency": 6
-      },
-      {
-        "label": "diwali",
-        "frequency": 3
-      },
-      {
-        "label": "employees",
-        "frequency": 3
-      },
-      {
-        "label": "united states",
-        "frequency": 2
-      },
-      {
-        "label": "painter",
-        "frequency": 2
-      },
-      {
-        "label": "high levels of service",
-        "frequency": 1
-      },
-      {
-        "label": "sweetness in iced coffee",
-        "frequency": 1
-      },
-      {
-        "label": "water",
-        "frequency": 1
-      },
-      {
-        "label": "high-quality service",
-        "frequency": 1
-      },
-      {
-        "label": "hard work from employees",
-        "frequency": 1
-      },
-      {
-        "label": "payment for goods and services",
-        "frequency": 1
-      },
-      {
-        "label": "not contacted during off work hours",
-        "frequency": 1
-      },
-      {
-        "label": "by customers",
-        "frequency": 1
-      },
-      {
-        "label": "breaks",
-        "frequency": 1
-      },
-      {
-        "label": "guests",
-        "frequency": 1
-      },
-      {
-        "label": "arrive by 19:30",
-        "frequency": 1
-      },
-      {
-        "label": "enthusiastic",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 62,
+    "super_lens_id": 59,
     "name": "struggle with",
     "coverage": 12,
     "constituent_lenses": [
@@ -12287,145 +11789,7 @@
     ]
   },
   {
-    "super_lens_id": 63,
-    "name": "displays",
-    "coverage": 12,
-    "constituent_lenses": [
-      "displays"
-    ],
-    "lens_ids": [
-      64
-    ],
-    "edge_types": [
-      "displays",
-      "display"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "diwali",
-        "tail": "diwali",
-        "count": 2
-      },
-      {
-        "head": "dance",
-        "tail": "women's status",
-        "count": 1
-      },
-      {
-        "head": "wancho bag",
-        "tail": "cultural motifs",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "dexterity",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "skill and grace",
-        "count": 1
-      },
-      {
-        "head": "natua",
-        "tail": "physical prowess",
-        "count": 1
-      },
-      {
-        "head": "natua",
-        "tail": "strength and agility",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "cultural heritage",
-        "count": 1
-      },
-      {
-        "head": "americans",
-        "tail": "energetic behavior",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "surprise, confusion, disapproval",
-        "count": 1
-      },
-      {
-        "head": "countries",
-        "tail": "diwali",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "diwali",
-        "frequency": 8
-      },
-      {
-        "label": "natua",
-        "frequency": 2
-      },
-      {
-        "label": "dance",
-        "frequency": 1
-      },
-      {
-        "label": "women's status",
-        "frequency": 1
-      },
-      {
-        "label": "wancho bag",
-        "frequency": 1
-      },
-      {
-        "label": "cultural motifs",
-        "frequency": 1
-      },
-      {
-        "label": "dexterity",
-        "frequency": 1
-      },
-      {
-        "label": "skill and grace",
-        "frequency": 1
-      },
-      {
-        "label": "physical prowess",
-        "frequency": 1
-      },
-      {
-        "label": "strength and agility",
-        "frequency": 1
-      },
-      {
-        "label": "cultural heritage",
-        "frequency": 1
-      },
-      {
-        "label": "americans",
-        "frequency": 1
-      },
-      {
-        "label": "energetic behavior",
-        "frequency": 1
-      },
-      {
-        "label": "algeria",
-        "frequency": 1
-      },
-      {
-        "label": "surprise, confusion, disapproval",
-        "frequency": 1
-      },
-      {
-        "label": "countries",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 64,
+    "super_lens_id": 60,
     "name": "affects",
     "coverage": 12,
     "constituent_lenses": [
@@ -12584,7 +11948,7 @@
     ]
   },
   {
-    "super_lens_id": 65,
+    "super_lens_id": 61,
     "name": "applied to",
     "coverage": 12,
     "constituent_lenses": [
@@ -12740,7 +12104,7 @@
     ]
   },
   {
-    "super_lens_id": 66,
+    "super_lens_id": 62,
     "name": "exhibits",
     "coverage": 11,
     "constituent_lenses": [
@@ -12878,7 +12242,7 @@
     ]
   },
   {
-    "super_lens_id": 67,
+    "super_lens_id": 63,
     "name": "avoid",
     "coverage": 11,
     "constituent_lenses": [
@@ -13016,7 +12380,7 @@
     ]
   },
   {
-    "super_lens_id": 68,
+    "super_lens_id": 64,
     "name": "attributed to",
     "coverage": 11,
     "constituent_lenses": [
@@ -13147,7 +12511,7 @@
     ]
   },
   {
-    "super_lens_id": 69,
+    "super_lens_id": 65,
     "name": "narrates",
     "coverage": 10,
     "constituent_lenses": [
@@ -13211,132 +12575,7 @@
     ]
   },
   {
-    "super_lens_id": 70,
-    "name": "seen as",
-    "coverage": 10,
-    "constituent_lenses": [
-      "seen as"
-    ],
-    "lens_ids": [
-      71
-    ],
-    "edge_types": [
-      "seen as",
-      "are seen as"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "diwali",
-        "tail": "cheap soda in us",
-        "count": 1
-      },
-      {
-        "head": "waste disposal methods",
-        "tail": "environmentally unfriendly",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "ubiquitous",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "personal",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "distinctively american",
-        "count": 1
-      },
-      {
-        "head": "activities",
-        "tail": "natural tasks",
-        "count": 1
-      },
-      {
-        "head": "healthcare system",
-        "tail": "a right",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "affordable",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "unhealthy",
-        "count": 1
-      },
-      {
-        "head": "diwali",
-        "tail": "popular snack food",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "diwali",
-        "frequency": 7
-      },
-      {
-        "label": "cheap soda in us",
-        "frequency": 1
-      },
-      {
-        "label": "waste disposal methods",
-        "frequency": 1
-      },
-      {
-        "label": "environmentally unfriendly",
-        "frequency": 1
-      },
-      {
-        "label": "ubiquitous",
-        "frequency": 1
-      },
-      {
-        "label": "personal",
-        "frequency": 1
-      },
-      {
-        "label": "distinctively american",
-        "frequency": 1
-      },
-      {
-        "label": "activities",
-        "frequency": 1
-      },
-      {
-        "label": "natural tasks",
-        "frequency": 1
-      },
-      {
-        "label": "healthcare system",
-        "frequency": 1
-      },
-      {
-        "label": "a right",
-        "frequency": 1
-      },
-      {
-        "label": "affordable",
-        "frequency": 1
-      },
-      {
-        "label": "unhealthy",
-        "frequency": 1
-      },
-      {
-        "label": "popular snack food",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 71,
+    "super_lens_id": 66,
     "name": "integral to",
     "coverage": 10,
     "constituent_lenses": [
@@ -13448,110 +12687,6 @@
       },
       {
         "label": "uttarakhand's cotton tradition",
-        "frequency": 1
-      }
-    ]
-  },
-  {
-    "super_lens_id": 72,
-    "name": "weaves",
-    "coverage": 10,
-    "constituent_lenses": [
-      "weaves"
-    ],
-    "lens_ids": [
-      73
-    ],
-    "edge_types": [
-      "weaves",
-      "weave"
-    ],
-    "top_entity_pairs": [
-      {
-        "head": "algeria",
-        "tail": "diwali",
-        "count": 2
-      },
-      {
-        "head": "apatani tribe",
-        "tail": "diwali",
-        "count": 1
-      },
-      {
-        "head": "sherdukpen shawl",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "mishmi tribe",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "lungis",
-        "count": 1
-      },
-      {
-        "head": "algeria",
-        "tail": "bags",
-        "count": 1
-      },
-      {
-        "head": "tangkhul",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "mao",
-        "tail": "algeria",
-        "count": 1
-      },
-      {
-        "head": "paite",
-        "tail": "algeria",
-        "count": 1
-      }
-    ],
-    "top_entities": [
-      {
-        "label": "algeria",
-        "frequency": 9
-      },
-      {
-        "label": "diwali",
-        "frequency": 3
-      },
-      {
-        "label": "apatani tribe",
-        "frequency": 1
-      },
-      {
-        "label": "sherdukpen shawl",
-        "frequency": 1
-      },
-      {
-        "label": "mishmi tribe",
-        "frequency": 1
-      },
-      {
-        "label": "lungis",
-        "frequency": 1
-      },
-      {
-        "label": "bags",
-        "frequency": 1
-      },
-      {
-        "label": "tangkhul",
-        "frequency": 1
-      },
-      {
-        "label": "mao",
-        "frequency": 1
-      },
-      {
-        "label": "paite",
         "frequency": 1
       }
     ]

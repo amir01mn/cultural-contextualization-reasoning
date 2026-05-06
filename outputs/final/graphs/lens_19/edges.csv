@@ -1,3 +1,422 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,tipping,good service,known for,1,culturebank
-1,3,tipping,gratitude,known for,1,culturebank
+1,2,algeria,breakfast,known for,2,arabculture
+1,3,algeria,preparing special family meals on friday,known for,1,arabculture
+4,1,kuskus,algeria,known for,1,arabculture
+1,5,algeria,important accompaniments with the main dish on the dinner table,known for,1,arabculture
+6,7,sahur,providing nutrients and energy for fasting,known for,1,arabculture
+6,1,sahur,algeria,known_for,1,arabculture
+9,10,halwa,ramadan,known for,1,arabculture
+1,11,algeria,mahr,known for,1,arabculture
+12,13,music,wedding celebrations,known for,1,arabculture
+1,14,algeria,أكل اضلع الخروف المقلية في عيد الاضحى,known for,1,arabculture
+15,16,عيد الاستقلال,تخليد ذكرى الشهداء,known for,1,arabculture
+17,18,النشاطات التي تحبها كثيرا,وقت فراغها,known for,1,arabculture
+1,19,algeria,exchanging gifts at weddings,known for,1,arabculture
+1,20,algeria,gifting with elegance,known for,1,arabculture
+1,21,algeria,dividing the remaining assets of the deceased among their family after forty days,known for,1,arabculture
+22,23,عيد الفطر,أغنية,known for,1,arabculture
+26,25,سطيف,رقص,known for,1,arabculture
+1,27,algeria,special planting seasons,known for,1,arabculture
+28,29,sikka,fruit,known for,1,arabculture
+30,1,hasa,algeria,known for,1,arabculture
+31,32,افطار رمضان,التمر,known for,1,arabculture
+33,6,kareem,sahur,prefers,1,arabculture
+1,34,algeria,sahoor (tashreeq ramadan) ritual,known for,1,arabculture
+35,36,boufarik,zlabiya,known for,1,arabculture
+37,38,قسنطينة,حلوى,known for,1,arabculture
+1,39,algeria,production of high-quality crops,known for,1,arabculture
+1,40,algeria,producing large quantities of fruits,known for,1,arabculture
+1,41,algeria,workers eating at work,known for,1,arabculture
+1,42,algeria,giving gifts in the most beautiful packaging,known for,1,arabculture
+1,43,algeria,avoiding overlapping schedules with religious and national events,known for,1,arabculture
+44,1,islam,algeria,known for,1,arabculture
+45,46,respect,grave,known for,1,arabculture
+1,47,algeria,rituals after burial,known for,1,arabculture
+1,48,algeria,adhering to customs and traditions after burial,known for,1,arabculture
+1,49,algeria,songs,known for,1,arabculture
+1,50,algeria,growing fruits at home,known for,1,arabculture
+51,1,riddle,algeria,known for,1,arabculture
+53,52,bread,brani,known for,1,arabculture
+54,55,proverb,amal,known for,1,arabculture
+56,58,parents,providing essential needs to children,known for,1,arabculture
+6,60,sahur,egypt,known for,1,arabculture
+60,61,egypt,زلابيا,known for,1,arabculture
+60,62,egypt,playing video games,known for,1,arabculture
+63,64,shopping,gifts,known for,1,arabculture
+65,67,pochampally ikat,intricate geometric patterns,known for,2,diwali
+68,69,mangalagiri cotton,fine texture and durability,known for,1,diwali
+70,71,uppada silk,jamdani work with gold and silver zari,known for,1,diwali
+72,74,dharmavaram silk,rich colors and broad borders adorned with gold or silver zari,known for,1,diwali
+75,76,pedana kalamkari,machilipatnam style,known for,1,diwali
+77,80,apatani tribe,weaving jackets and scarves with simple straight lines and stripes,known for,1,diwali
+81,82,sherdukpen shawl,unique patterns and vibrant colors,known for,1,diwali
+83,84,mishmi tribe,intricate weaving patterns,known for,1,diwali
+85,86,tagin weave,tagin tribe,known for,1,diwali
+87,89,muga silk,natural golden sheen,known for,1,diwali
+87,90,muga silk,traditional garments like mekhela chador,known for,1,diwali
+88,87,assam,muga silk,known for,1,diwali
+88,91,assam,gamosa,known for,1,diwali
+92,93,karbi shawl,bright colors and unique patterns,known for,1,diwali
+94,95,lasingphee,warmth,known for,1,diwali
+96,97,bhagalpuri silk,unique dyeing technique,known for,1,diwali
+98,99,kosa silk,janjgir-champa,known for,1,diwali
+98,100,kosa silk,raigarh,known for,1,diwali
+101,110,raipur,cotton handloom fabrics,known for,1,diwali
+102,110,balodabazar,cotton handloom fabrics,known for,1,diwali
+103,110,mahasamund,cotton handloom fabrics,known for,1,diwali
+104,110,durg,cotton handloom fabrics,known for,1,diwali
+105,110,rajnandgaon,cotton handloom fabrics,known for,1,diwali
+106,110,dhamtari,cotton handloom fabrics,known for,1,diwali
+107,110,balod,cotton handloom fabrics,known for,1,diwali
+108,110,bastar,cotton handloom fabrics,known for,1,diwali
+109,110,sarguja,cotton handloom fabrics,known for,1,diwali
+111,112,goa,kunbi saree,known for,1,diwali
+111,113,goa,altar cloths and liturgical vestments,known for,1,diwali
+114,115,gujarat,patola,known for,1,diwali
+114,116,gujarat,mashru,known for,1,diwali
+117,118,kutchi embroidery,exquisite detailing and vibrant threadwork,known for,1,diwali
+119,120,haryana,bagh,known for,1,diwali
+121,122,dhurrie,vibrant colors and geometric designs,known for,2,diwali
+125,123,panipat region,panja dhurrie,known for,1,diwali
+126,127,kullu shawl,vibrant colors and intricate geometric patterns,known for,1,diwali
+126,128,kullu shawl,handwoven using wool,known for,1,diwali
+129,130,chamba region,chamba rumal,known for,1,diwali
+131,132,kinnauri shawl,intricate designs and vibrant colors,known for,1,diwali
+134,133,pattu,warmth and durability,known for,1,diwali
+135,136,kullu patti,traditional handloom fabric,known for,1,diwali
+137,138,rampur chaddar,fine texture and warmth,known for,1,diwali
+141,142,kuchai silk,unique texture and natural sheen,known for,1,diwali
+96,143,bhagalpuri silk,rich texture and natural gold sheen,known for,1,diwali
+144,145,ilkal saree,tope teni technique,known for,1,diwali
+146,147,mysore silk,purity of silk and minimalist design,known for,1,diwali
+148,149,navalgund,navalgund durries,known for,1,diwali
+150,151,patteda anchu saree,gadag district,known for,1,diwali
+152,153,guledgudda khana,unique patterns and motifs,known for,1,diwali
+154,155,kerala,kasavu saree,known for,1,diwali
+154,156,kerala,mundum neriyathum,known for,1,diwali
+157,158,chendamangalam saree,handwoven sarees,known for,1,diwali
+159,160,kuthampully saree,kochi royal family,known for,1,diwali
+161,162,kasaragod saree,distinctive checkered patterns and vibrant colors,known for,1,diwali
+163,164,thiruvananthapuram saree,fine weaving and subtle elegance,known for,1,diwali
+165,166,madhya pradesh,maheshwari saree,known for,1,diwali
+167,165,tussar silk,madhya pradesh,known for,1,diwali
+168,169,solapur,chaddar,known for,1,diwali
+170,171,maharashtra,khun fabric,known for,1,diwali
+172,173,kolhapuri sari,distinctive weaving patterns and vibrant colors,known for,1,diwali
+174,175,ilkal sari,distinctive red borders and pallu,known for,1,diwali
+176,177,chanderi sari,lightweight texture,known for,1,diwali
+176,178,chanderi sari,glossy transparency,known for,1,diwali
+176,179,chanderi sari,intricate motifs,known for,1,diwali
+180,181,manipur,phanek,known for,1,diwali
+182,183,wangkhei phee,fine white cotton textile,known for,1,diwali
+180,184,manipur,khamen chatpa,known for,1,diwali
+185,186,tawlhlohpuan,bold patterns,known for,1,diwali
+187,188,mizoram,ngotekherh,known for,1,diwali
+189,190,nagaland,chakhesang shawl,known for,1,diwali
+191,66,berhampuri patta,diwali,known for,1,diwali
+192,193,kotpad handloom,organic dyeing process using natural materials like the aul tree,known for,1,diwali
+194,195,kalahandi district,habaspuri saree,known for,1,diwali
+196,197,odisha ikat,vibrant patterns with blurred edges,known for,1,diwali
+198,120,punjab,bagh,known for,1,diwali
+201,202,salwar kameez,comfort and versatility,known for,1,diwali
+203,204,rajasthan,leheriya,known for,1,diwali
+205,206,sanganeri block print,fine lines and intricate detailing,known for,1,diwali
+203,207,rajasthan,gota patti,known for,1,diwali
+208,209,lepcha thara,thara,known for,1,diwali
+210,211,lepcha duree,durability,known for,1,diwali
+212,213,kanchipuram silk saree,tamil nadu,known for,1,diwali
+215,214,madurai sungudi,sungudi sarees,known for,1,diwali
+216,218,chettinad kandangi saree,"bold checks, stripes, and contrasting hues",known for,1,diwali
+216,219,chettinad kandangi saree,vibrant color combinations,known for,1,diwali
+213,220,tamil nadu,koorainadu saree,known for,1,diwali
+222,221,salem silk dhoti,quality,known for,1,diwali
+223,213,arani silk saree,tamil nadu,known for,1,diwali
+224,226,rasipuram sarees,fine silk and distinctive weaving patterns,known for,1,diwali
+224,227,rasipuram sarees,traditional textile repertoire,part of,1,diwali
+228,213,kumbakonam silk saree,tamil nadu,known for,1,diwali
+229,230,thirubuvanam silk saree,fine silk and intricate patterns,known for,1,diwali
+231,232,coimbatore,coimbatore cotton saree,known for,1,diwali
+233,213,chinnalapattu saree,tamil nadu,known for,1,diwali
+234,235,bhavani jamakkalam,handloom rugs,known for,1,diwali
+236,237,kovai cora cotton saree,soft texture and durability,known for,1,diwali
+238,239,kodambakkam saree,traditional textile heritage,known for,1,diwali
+240,66,gadwal sarees,diwali,known for,1,diwali
+241,242,narayanpet sarees,characteristic checked patterns,known for,1,diwali
+241,243,narayanpet sarees,durable and elegant textiles,known for,1,diwali
+241,244,narayanpet sarees,interlocked weft technique,known for,1,diwali
+245,246,siddipet gollabhama sarees,uniqueness,known for,1,diwali
+248,247,puttapaka village,telia rumal,known for,1,diwali
+249,250,kuruma community,gongadi blankets,known for,1,diwali
+251,252,siripuram ikat,bright colors and distinctive motifs such as 'geethalu' and 'pan patola',known for,1,diwali
+253,254,tripura,risa,known for,1,diwali
+255,256,uttrakhand,loi,known for,1,diwali
+257,258,uttarakhand,ringaal weaving,known for,1,diwali
+257,259,uttarakhand,hemp weaving,known for,1,diwali
+257,260,uttarakhand,woolen weaving,known for,1,diwali
+261,262,banarasi sari,intricate designs woven with gold and silver threads,known for,1,diwali
+263,264,uttar pradesh,zardozi,known for,1,diwali
+263,265,uttar pradesh,tanchoi,known for,1,diwali
+266,267,tangail sari,fine texture,known for,1,diwali
+266,268,tangail sari,comfort,known for,1,diwali
+269,270,tant sari,lightness,known for,1,diwali
+271,272,shantipuri sari,fine texture and delicate designs,known for,1,diwali
+273,274,chandigarh,phulkari,known for,1,diwali
+273,201,chandigarh,salwar kameez,known for,1,diwali
+130,276,chamba rumal,intricate needlework,known for,1,diwali
+277,278,delhi,zardozi embroidery,known for,1,diwali
+277,279,delhi,muslin fabric,known for,1,diwali
+280,281,jammu and kashmir,pashmina shawl,known for,1,diwali
+280,282,jammu and kashmir,jamawar shawl,known for,1,diwali
+280,283,jammu and kashmir,namda,known for,1,diwali
+284,285,kashmiri carpets,hand-knotted craftsmanship,known for,1,diwali
+286,288,sambha calico prints,vibrant colors and patterns,known for,1,diwali
+289,290,ladakh,tsugdan,known for,1,diwali
+289,291,ladakh,phirpa,known for,1,diwali
+292,293,tsul,durability and warmth,known for,1,diwali
+294,295,lakshadweep,kachi,known for,1,diwali
+294,296,lakshadweep,mundu,known for,1,diwali
+297,298,pondicherry handloom fabrics,handloom industry,known for,1,diwali
+299,300,puducherry,khadi textiles,known for,1,diwali
+299,301,puducherry,palampore prints,known for,1,diwali
+302,303,kuchipudi,graceful movements and expressive storytelling,known for,1,diwali
+304,305,andhra pradesh,andhra natyam,known for,1,diwali
+88,306,assam,sattriya nritya,known for,1,diwali
+88,307,assam,ojapali,known for,1,diwali
+308,309,chhattisgarh,nacha dance,known for,1,diwali
+308,310,chhattisgarh,mandri dance,known for,1,diwali
+311,312,united states,legal drinking age of 21,known for,1,culturebank
+313,314,europe,travel,known for,1,culturebank
+311,315,united states,displaying american flag proudly and frequently,known for,1,culturebank
+316,317,free refills,water and soft drinks,common for,1,culturebank
+319,320,distinct american accent,attractive,known for,1,culturebank
+311,321,united states,strive for a healthy diet,known for,1,culturebank
+322,323,public,speak loudly,known for,1,culturebank
+311,325,united states,english,speaks,1,culturebank
+326,327,alcohol,purchase alcohol with varying regulations,known for,1,culturebank
+329,328,prices,taxes,known for,1,culturebank
+311,53,united states,bread,known for,1,culturebank
+311,2,united states,breakfast,known for,1,culturebank
+331,311,new york,united states,known for,1,culturebank
+311,333,united states,"display friendliness, kindness, and openness towards strangers and locals",known for,1,culturebank
+334,335,aldi,selling wine in the us offering a different experience with grocery shopping,known for,1,culturebank
+336,337,paris,mixed feelings,known for,1,culturebank
+339,340,perception of parisians,varying experiences,known for,1,culturebank
+341,342,paris syndrome,mentioned,known for,1,culturebank
+311,343,united states,chickpeas,known for,1,culturebank
+311,344,united states,peanut butter,known for,1,culturebank
+346,347,chick-fil-a,chicken burgers,known for,1,culturebank
+348,349,american dream,pursue the american dream,known for,1,culturebank
+311,351,united states,various tea-related practices,known for,1,culturebank
+352,353,cereal,general,known for,1,culturebank
+354,355,starbucks,coffee consumption,known for,1,culturebank
+311,357,united states,perceive and consume food with varying opinions on its healthiness,known for,1,culturebank
+311,358,united states,food is often considered unhealthy or even toxic due to chemical content,known for,1,culturebank
+356,359,abroad,bans in other countries due to chemical content,known for,1,culturebank
+360,361,mcdonald's,large portions,known for,1,culturebank
+360,362,mcdonald's,unique menu items,known for,1,culturebank
+363,365,umbrellas,sun protection,known for,1,culturebank
+364,365,parasols,sun protection,known for,1,culturebank
+366,367,dominos pizza,pizza,known for,1,culturebank
+311,368,united states,prioritize work over personal life,known for,1,culturebank
+311,369,united states,express discomfort and complain about cold weather,known for,1,culturebank
+370,371,wine,luxury and sophistication,known for,1,culturebank
+311,372,united states,engagement and wedding rings,known for,1,culturebank
+373,374,healthcare system,advocacy for change,known for,1,culturebank
+313,376,europe,adapting clothing style to local norms,known for,1,culturebank
+311,377,united states,ice cream,known for,1,culturebank
+378,379,italy,food availability and quality differences,known for,1,culturebank
+311,380,united states,homelessness perception and response,known for,1,culturebank
+382,383,marriage and family,exercise choice in last name change,known for,1,culturebank
+311,384,united states,university system,known for,1,culturebank
+385,386,korean,dating with cultural differences,known for,1,culturebank
+311,387,united states,discuss gun violence,known for,1,culturebank
+388,389,sundays,store closures,known for,1,culturebank
+311,390,united states,naming children with unique and personalized names,known for,1,culturebank
+311,391,united states,naming conventions with hyphenated last names and both parents' names,known for,1,culturebank
+311,392,united states,"lack of multicultural understanding, knowledge, and awareness",known for,1,culturebank
+393,311,strawberries,united states,known for,1,culturebank
+311,394,united states,diverse and unique nation,known for,1,culturebank
+311,395,united states,amber alerts,known for,1,culturebank
+396,397,american grocery shopping culture,cheese,known for,1,culturebank
+311,398,united states,american,known for,1,culturebank
+311,399,united states,us people,known for,1,culturebank
+360,401,mcdonald's,pancakes,known for,1,culturebank
+403,402,workplace,work-life balance,known for,1,culturebank
+311,404,united states,adopt and charge for the use of bags in grocery stores as a response to environmental concerns,known for,1,culturebank
+405,246,america,uniqueness,known for,1,culturebank
+311,407,united states,perceive and express normalcy differently,known for,1,culturebank
+311,408,united states,credit cards,known for,1,culturebank
+311,409,united states,food causing clothing strain,known for,1,culturebank
+311,410,united states,individualism,known for,1,culturebank
+311,411,united states,self-reliance,known for,1,culturebank
+311,412,united states,independence,known for,1,culturebank
+413,414,waffle house,chicken and waffles,known for,1,culturebank
+311,415,united states,museum,known for,1,culturebank
+311,416,united states,"food with high levels of sugar, dyes, and additives",known for,1,culturebank
+311,417,united states,soccer,known for,1,culturebank
+418,419,france,regulation and perception of smoking,known for,1,culturebank
+311,420,united states,capitalism,known for,1,culturebank
+421,311,tuna salad,united states,known for,1,culturebank
+421,422,tuna salad,uk,known for,1,culturebank
+418,423,france,rudeness,known for,1,culturebank
+418,424,france,impoliteness,known for,1,culturebank
+311,426,united states,adapt to and learn cultural norms,known for,1,culturebank
+311,427,united states,doggy bags,known for,1,culturebank
+428,430,gucci belts,symbol of wealth and status,known for,1,culturebank
+428,431,gucci belts,symbolize wealth and status,known for,1,culturebank
+311,432,united states,spain,known for,1,culturebank
+311,433,united states,"prioritize productivity, efficiency, and profit over well-being and interpersonal connections",known for,1,culturebank
+311,435,united states,cultural practices,known for,1,culturebank
+434,435,germany,cultural practices,known for,1,culturebank
+311,436,united states,stingy and judged by others,known for,1,culturebank
+311,437,united states,societal and economic challenges,known for,1,culturebank
+311,438,united states,unpreparedness in certain aspects of life,known for,1,culturebank
+429,440,california,perception of a desirable place with unique policies and experiences,known for,1,culturebank
+441,311,living with parents until adulthood,united states,known for,1,culturebank
+442,311,visiting parents,united states,known for,1,culturebank
+311,443,united states,trucks,known for,1,culturebank
+311,444,united states,guns,known for,1,culturebank
+311,445,united states,god,known for,1,culturebank
+311,446,united states,obesity,known for,1,culturebank
+418,448,france,casually dressed in sportswear,known for,1,culturebank
+311,449,united states,snacks,known for,1,culturebank
+1,450,algeria,snacks at shopping malls,known for,1,blend
+1,451,algeria,private education,known for,1,blend
+1,452,algeria,gifted education,known for,1,blend
+453,454,thanksgiving,main dish,known for,1,blend
+1,455,algeria,sport team,known for,1,blend
+1,456,algeria,new year's eve,known for,1,blend
+1,457,algeria,typical type of house,known for,1,blend
+1,458,algeria,elderly care,known for,1,blend
+1,459,algeria,family vacation destination,known for,1,blend
+1,460,algeria,gold medals,known for,1,blend
+1,461,algeria,export item,known for,1,blend
+1,462,algeria,stay after childbirth,known for,1,blend
+1,463,algeria,parents' day,known for,1,blend
+1,464,algeria,first salary spending,known for,1,blend
+1,465,algeria,family-related holidays,known for,1,blend
+1,466,algeria,gift,known for,1,blend
+1,467,algeria,celebrate,known for,1,blend
+468,1,birthday,algeria,known for,1,blend
+1,469,algeria,difficult major admission,known for,1,blend
+1,470,algeria,university entrance exam,known for,1,blend
+1,472,algeria,sports associated with upper class,known for,1,blend
+1,473,algeria,water sport,known for,1,blend
+1,474,algeria,mental sport,known for,1,blend
+1,475,algeria,traditional alcohol,known for,1,blend
+1,476,algeria,restaurant dinner duration,known for,1,blend
+1,477,algeria,sports,known for,1,blend
+1,478,algeria,break after lunch on a weekday,known for,1,blend
+1,479,algeria,profession,known for,1,blend
+1,480,algeria,education system,known for,1,blend
+1,481,algeria,education,known for,3,blend
+1,482,algeria,food,known for,3,blend
+1,53,algeria,bread,known for,1,blend
+66,1,diwali,algeria,known for,1,blend
+1,484,algeria,house,known for,1,blend
+1,485,algeria,pregnancy celebration or ceremony,known for,1,blend
+1,10,algeria,ramadan,known for,2,blend
+1,487,algeria,martial art sports,known for,1,blend
+488,1,soccer coach,algeria,known for,1,blend
+489,490,soccer teams,intense rivalry,known for,1,blend
+491,490,soccer supporters,intense rivalry,known for,1,blend
+1,492,algeria,sport,known for,3,blend
+1,493,algeria,schools with sports field facilities,known for,1,blend
+1,494,algeria,rival,known for,1,blend
+1,495,algeria,food in sports stadiums,known for,1,blend
+1,496,algeria,middle-aged,known for,1,blend
+1,66,algeria,diwali,known for,1,blend
+1,497,algeria,wedding gift,known for,1,blend
+499,498,congratulatory gesture,wedding,known for,1,blend
+1,500,algeria,honeymoon destination,known for,1,blend
+501,1,secure job,algeria,known for,1,blend
+1,502,algeria,public corporation,known for,1,blend
+1,503,algeria,grade level,known for,1,blend
+1,504,algeria,coffee/tea industry,known for,1,blend
+1,505,algeria,livestock industry,known for,1,blend
+1,506,algeria,indoor sport,known for,1,blend
+508,507,region,seafood,known for,1,blend
+1,509,algeria,martial arts player,known for,1,blend
+1,510,algeria,barbecue,known for,1,blend
+1,511,algeria,extreme sport,known for,1,blend
+1,512,algeria,family trips accommodation,known for,1,blend
+1,513,algeria,major conducive to employment,known for,1,blend
+1,514,algeria,housewarming gifts,known for,1,blend
+498,515,wedding,clothing color,known for,1,blend
+1,516,algeria,funeral,known for,1,blend
+517,1,stadium,algeria,known for,1,blend
+1,518,algeria,industries,known for,1,blend
+518,519,industries,flexible working hours,known for,1,blend
+1,520,algeria,entrepreneur,known for,1,blend
+1,522,algeria,online resource usage,known for,1,blend
+508,523,region,theatrical performance,known for,1,blend
+524,525,alcoholic drink,festival,known for,1,blend
+1,526,algeria,racket sport,known for,1,blend
+1,527,algeria,track and field sport,known for,1,blend
+1,528,algeria,underpaid jobs,known for,1,blend
+1,529,algeria,funeral drink,known for,1,blend
+1,498,algeria,wedding,known for,2,blend
+1,530,algeria,wedding venue,known for,1,blend
+1,531,algeria,coffee shop,known for,1,blend
+1,532,algeria,mining,known for,1,blend
+1,533,algeria,oil,known for,1,blend
+534,535,university,engineering major,known for,1,blend
+534,536,university,school of medicine,known for,1,blend
+537,1,prenatal education,algeria,known for,1,blend
+1,539,algeria,toys,known for,2,blend
+540,1,university student,algeria,known for,1,blend
+1,541,algeria,spice/herb,known for,1,blend
+1,542,algeria,traditional sport,known for,1,blend
+1,544,algeria,father's day gifts,known for,1,blend
+1,546,algeria,mother's day gifts,known for,1,blend
+1,547,algeria,parents' day gifts,known for,1,blend
+1,548,algeria,agricultural product export,known for,1,blend
+1,549,algeria,sports drink,known for,1,blend
+1,550,algeria,education level,known for,1,blend
+1,551,algeria,popular beverage among children,known for,1,blend
+1,552,algeria,national soccer team,known for,1,blend
+1,12,algeria,music,known for,1,blend
+1,44,algeria,islam,known for,1,blend
+555,1,farmers,algeria,known for,1,blend
+1,556,algeria,eid,known for,1,blend
+1,557,algeria,wedding customs,known for,1,blend
+1,534,algeria,university,known for,1,blend
+1,558,algeria,christmas,known for,1,blend
+534,559,university,sports team,known for,1,blend
+1,560,algeria,family pet,known for,1,blend
+1,561,algeria,professional sport,known for,1,blend
+1,562,algeria,summer sport,known for,1,blend
+1,563,algeria,professional sports league,known for,1,blend
+1,564,algeria,tournament,known for,1,blend
+1,566,algeria,manufacturing industry,known for,1,blend
+567,1,perk,algeria,known for,1,blend
+2,1,breakfast,algeria,known for,1,blend
+570,1,lunch,algeria,known for,1,blend
+571,1,dinner,algeria,known for,1,blend
+1,572,algeria,highest grade given to top-achieving high school students on assignments and exams,known for,1,blend
+1,573,algeria,exam,known for,1,blend
+1,574,algeria,advanced math subject learned before university,known for,1,blend
+575,576,judge,good behavior,known for,1,candle
+577,578,teacher,attendance,known for,1,candle
+577,579,teacher,certificate,known for,1,candle
+580,581,farmer,disciplined repayment behaviour,known for,1,candle
+582,583,banker,lawyer,known for,1,candle
+584,585,investment banker,ipo,known for,1,candle
+586,587,central banker,stand in the way of calls,known for,1,candle
+588,589,nurse,medication,known for,1,candle
+588,590,nurse,check vital signs,known for,1,candle
+588,592,nurse,respect and regard as doctor,known for,1,candle
+588,593,nurse,administer pain medication,known for,1,candle
+588,594,nurse,candle,known for,1,candle
+595,596,politician,family,known for,1,candle
+597,598,bank,good customer service,known for,1,candle
+599,600,merchant,loan,known for,1,candle
+601,602,architect,design special homes,known for,1,candle
+601,605,architect,review and stamp the plans,known for,1,candle
+604,605,engineer,review and stamp the plans,known for,1,candle
+601,606,architect,church plans,known for,1,candle
+607,608,attorney,distribute funds from trusts or estates,known for,1,candle
+607,609,attorney,death,known for,1,candle
+610,611,journalist,deadline,known for,1,candle
+612,613,tipping,restaurant,known for,1,candle
+591,614,doctor,work very long hours,known for,1,candle

@@ -1,0 +1,71 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,cleaning,4,algeria,unknown,arabculture,7
+2,diwali,2,algeria,unknown,arabculture,1
+3,yasmine,3,algeria,unknown,arabculture,1
+4,family,4,algeria,unknown,arabculture,1
+5,household chores,3,algeria,unknown,arabculture,1
+6,ab,4,algeria,unknown,arabculture,1
+7,家务,3,algeria,unknown,arabculture,1
+8,ax,4,algeria,unknown,arabculture,1
+9,family,3,algeria,unknown,arabculture,1
+10,things,4,algeria,unknown,arabculture,1
+11,burial,3,algeria,unknown,arabculture,1
+12,nile valley,1,egypt,unknown,arabculture,1
+13,egypt,2,egypt,unknown,arabculture,1
+14,tumbling,4,egypt,unknown,arabculture,1
+15,week,3,egypt,unknown,arabculture,1
+16,bathroom,3,egypt,unknown,arabculture,1
+17,mroh,4,egypt,unknown,arabculture,1
+18,cleaning,3,egypt,unknown,arabculture,2
+19,家务,4,egypt,unknown,arabculture,1
+20,家具打蜡,3,egypt,unknown,arabculture,1
+21,washing,4,egypt,unknown,arabculture,1
+22,clothes,3,egypt,unknown,arabculture,1
+23,dust,3,egypt,unknown,arabculture,1
+24,kalamkari,3,andhra pradesh,unknown,diwali,1
+25,hand-painting,4,andhra pradesh,unknown,diwali,1
+26,block-printing,4,andhra pradesh,unknown,diwali,1
+27,tangaliya,3,gujarat,unknown,diwali,1
+28,creating patterns of raised dots,4,gujarat,unknown,diwali,1
+29,carving designs,4,rajasthan,unknown,diwali,1
+30,bagru block print,4,rajasthan,unknown,diwali,1
+31,selecting,4,andaman and nicobar islands,unknown,diwali,1
+32,sun-drying,3,andaman and nicobar islands,unknown,diwali,1
+33,splitting,4,andaman and nicobar islands,unknown,diwali,1
+34,weaving,3,andaman and nicobar islands,unknown,diwali,1
+35,nicobari pandanus mats,2,andaman and nicobar islands,unknown,diwali,1
+36,chatrai or hileuoi,2,andaman and nicobar islands,unknown,diwali,1
+37,saila dance,3,chhattisgarh,unknown,diwali,1
+38,young boys,3,chhattisgarh,unknown,diwali,1
+39,nach madai,3,chhattisgarh,unknown,diwali,1
+40,dance,4,chhattisgarh,unknown,diwali,1
+41,lamp dance,4,goa,unknown,diwali,1
+42,balancing brass lamps,3,goa,unknown,diwali,1
+43,bhandap,3,goa,unknown,diwali,1
+44,rhythmic movements,4,goa,unknown,diwali,1
+45,tonya mel,4,goa,unknown,diwali,1
+46,group formations,3,goa,unknown,diwali,1
+47,work-life balance,4,general,unknown,culturebank,1
+48,overwork,3,general,unknown,culturebank,1
+49,united states,2,general,unknown,culturebank,1
+50,performing specific roles,3,general,unknown,culturebank,1
+51,wedding,4,general,unknown,culturebank,1
+52,seek medical care,3,general,unknown,culturebank,1
+53,provide medical care,3,general,unknown,culturebank,1
+54,united states,4,general,unknown,culturebank,1
+55,transport dogs,2,general,unknown,culturebank,1
+56,putting dogs in the back of trucks,2,general,unknown,culturebank,1
+57,cleanliness and manners,4,general,unknown,culturebank,1
+58,eating with hands,2,general,unknown,culturebank,1
+59,sundays,4,general,unknown,culturebank,1
+60,relaxation and religious observance,3,general,unknown,culturebank,1
+61,waitstaff,4,general,unknown,culturebank,1
+62,restaurant,3,general,unknown,culturebank,1
+63,judge,4,occupation,unknown,candle,1
+64,training,3,activity,unknown,candle,1
+65,ipodog,3,animal,unknown,candle,1
+66,copywriter,4,occupations,unknown,candle,1
+67,carefully deal with the topic,3,occupations,unknown,candle,1
+68,attorney,4,occupation,unknown,candle,1
+69,reviewing and approving leases,3,rituals,unknown,candle,1

@@ -1,0 +1,163 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,proverb,4,algeria,unknown,arabculture,2
+2,amal,2,algeria,unknown,arabculture,2
+3,proverb,2,algeria,unknown,arabculture,2
+4,algeria,2,algeria,unknown,arabculture,1
+5,algeria,3,arabic,unknown,arabculture,4
+6,sherdukpen shawl,3,arunachal pradesh,unknown,diwali,1
+7,symbolic motifs,4,arunachal pradesh,unknown,diwali,1
+8,muga silk,3,assam,unknown,diwali,1
+9,assamese pride,3,assam,unknown,diwali,1
+10,dhokona,3,assam,unknown,diwali,1
+11,rabha tribe,4,assam,unknown,diwali,1
+12,goan crochet,3,goa,unknown,diwali,1
+13,embroidery,3,goa,unknown,diwali,2
+14,intricate designs,2,goa,unknown,diwali,1
+15,phulkari,4,haryana,unknown,diwali,2
+16,dupattas,3,haryana,unknown,diwali,1
+17,kinnauri shawl,3,himachal pradesh,unknown,diwali,1
+18,intricate designs and vibrant colors,4,himachal pradesh,unknown,diwali,1
+19,kullu cap,3,himachal pradesh,unknown,diwali,1
+20,himachali attire,4,himachal pradesh,unknown,diwali,1
+21,bhagalpuri silk,3,jharkhand,unknown,diwali,1
+22,tussar silk,3,jharkhand,unknown,diwali,1
+23,guledgudda khana,3,karnataka,unknown,diwali,1
+24,diwali,3,karnataka,unknown,diwali,16
+25,balaramapuram handloom,3,kerala,unknown,diwali,1
+26,traditional aesthetic of kerala's weaving heritage,2,kerala,unknown,diwali,1
+27,chanderi saree,3,madhya pradesh,unknown,diwali,1
+28,silk,4,madhya pradesh,unknown,diwali,1
+29,cotton,4,madhya pradesh,unknown,diwali,1
+30,bagh print,3,madhya pradesh,unknown,diwali,1
+31,paithani saree,3,maharashtra,unknown,diwali,1
+32,rich silk fabric,4,maharashtra,unknown,diwali,1
+33,intricate zari work,4,maharashtra,unknown,diwali,1
+34,ilkal sari,3,maharashtra,unknown,diwali,1
+35,karnataka,3,india,unknown,diwali,1
+36,tribal shawl,3,manipur,unknown,diwali,1
+37,tangkhul,3,manipur,unknown,diwali,1
+38,mao,3,manipur,unknown,diwali,1
+39,paite,3,manipur,unknown,diwali,1
+40,ryndia,3,meghalaya,unknown,diwali,1
+41,puan,4,mizoram,unknown,diwali,1
+42,handwoven on loin-looms,3,mizoram,unknown,diwali,1
+43,bomkai saree,3,odisha,unknown,diwali,1
+44,ikat and embroidery techniques,4,odisha,unknown,diwali,1
+45,odisha ikat,3,odisha,unknown,diwali,1
+46,vibrant patterns with blurred edges,2,odisha,unknown,diwali,1
+47,chola,4,punjab,unknown,diwali,1
+48,sikh men,3,punjab,unknown,diwali,1
+49,sanganeri block print,3,rajasthan,unknown,diwali,4
+50,wooden blocks,4,rajasthan,unknown,diwali,1
+51,patterns,4,rajasthan,unknown,diwali,1
+52,floral motifs,4,rajasthan,unknown,diwali,1
+53,white or off-white cotton fabrics,4,rajasthan,unknown,diwali,1
+54,lepcha thara,3,sikkim,unknown,diwali,1
+55,nature and local folklore,4,sikkim,unknown,diwali,1
+56,loin loom textiles,3,tripura,unknown,diwali,1
+57,nature and tribal folklore,4,tripura,unknown,diwali,1
+58,intricate designs and patterns inspired by nature and tribal folklore,2,tripura,unknown,diwali,1
+59,banarasi sari,3,uttar pradesh,unknown,diwali,1
+60,nature and mughal patterns,4,uttar pradesh,unknown,diwali,1
+61,baluchari sari,3,west bengal,unknown,diwali,1
+62,mythological scenes,4,west bengal,unknown,diwali,1
+63,dhakai jamdani,3,west bengal,unknown,diwali,1
+64,bengal,3,west bengal,unknown,diwali,1
+65,murshidabad silk,3,west bengal,unknown,diwali,1
+66,traditional motifs,4,west bengal,unknown,diwali,1
+67,contemporary motifs,4,west bengal,unknown,diwali,1
+68,warli painting,4,dadra and nagar haveli and dama,unknown,diwali,1
+69,fabric,3,dadra and nagar haveli and dama,unknown,diwali,1
+70,kashmiri carpets,3,jammu and kashmir,unknown,diwali,1
+71,elaborate floral and geometric patterns,2,jammu and kashmir,unknown,diwali,1
+72,veeranatyam,3,andhra pradesh,unknown,diwali,1
+73,lord shiva,3,hindu deity,unknown,diwali,1
+74,goddess mahakali,3,andhra pradesh,unknown,diwali,1
+75,bonalu dance,4,andhra pradesh,unknown,diwali,1
+76,gollakalapam,3,andhra pradesh,unknown,diwali,1
+77,dialogue and dance,4,andhra pradesh,unknown,diwali,1
+78,rasaka,3,andhra pradesh,unknown,diwali,4
+79,folk dance,4,andhra pradesh,unknown,diwali,2
+80,divine love stories,4,andhra pradesh,unknown,diwali,1
+81,chindu bhagavatham,3,andhra pradesh,unknown,diwali,1
+82,folk dance-drama,2,andhra pradesh,unknown,diwali,1
+83,krishna's leelas,4,andhra pradesh,unknown,diwali,1
+84,danda rasaka,3,andhra pradesh,unknown,diwali,1
+85,martial readiness,3,andhra pradesh,unknown,diwali,1
+86,community defense,4,andhra pradesh,unknown,diwali,1
+87,chindu,3,andhra pradesh,unknown,diwali,1
+88,folk dance,2,andhra pradesh,unknown,diwali,1
+89,yak dance,3,arunachal pradesh,unknown,diwali,1
+90,monpa,3,arunachal pradesh,unknown,diwali,2
+91,lion and peacock dance,4,arunachal pradesh,unknown,diwali,1
+92,rikham pada,3,arunachal pradesh,unknown,diwali,1
+93,ancestor abo tani,3,arunachal pradesh,unknown,diwali,1
+94,wancho dance,3,arunachal pradesh,unknown,diwali,1
+95,oriah festival,3,arunachal pradesh,unknown,diwali,1
+96,pasi tribe,3,arunachal pradesh,unknown,diwali,1
+97,pasi kongki,3,arunachal pradesh,unknown,diwali,1
+98,popir dance,3,arunachal pradesh,unknown,diwali,1
+99,goddess mopin ape,3,arunachal pradesh,unknown,diwali,1
+100,bardo chham,4,arunachal pradesh,unknown,diwali,1
+101,hurkan dance,3,arunachal pradesh,unknown,diwali,1
+102,kachin community,3,arunachal pradesh,unknown,diwali,1
+103,manau dance,4,arunachal pradesh,unknown,diwali,1
+104,ali ai ligang dance,3,assam,unknown,diwali,1
+105,deities,3,assam,unknown,diwali,1
+106,kherai dance,3,assam,unknown,diwali,1
+107,tiwa tribe,3,assam,unknown,diwali,1
+108,chakhela dance,3,assam,unknown,diwali,1
+109,wangala dance,3,assam,unknown,diwali,1
+110,garo tribe,3,assam,unknown,diwali,1
+111,zikirs,3,assam,unknown,diwali,1
+112,muslim saint azan fakir,3,assam,unknown,diwali,1
+113,ojapali,3,assam,unknown,diwali,2
+114,tea folk dances,4,assam,unknown,diwali,1
+115,jikir,3,assam,unknown,diwali,2
+116,jari,3,assam,unknown,diwali,2
+117,diwali,2,assam,unknown,diwali,2
+118,hmar dance,3,assam,unknown,diwali,1
+119,community events,4,assam,unknown,diwali,1
+120,islamic devotional songs and dances,2,assam,unknown,diwali,1
+121,bathow puja dance,3,assam,unknown,diwali,1
+122,bodo tribe,3,assam,unknown,diwali,1
+123,paika,4,bihar,unknown,diwali,1
+124,valor and weaponry skills,3,bihar,unknown,diwali,2
+125,jatra,3,bihar,unknown,diwali,1
+126,manjhi,3,bihar,unknown,diwali,1
+127,boatmen community,3,bihar,unknown,diwali,1
+128,sohrai naach,4,bihar,unknown,diwali,1
+129,harvest,3,bihar,unknown,diwali,1
+130,cattle,3,bihar,unknown,diwali,1
+131,jatra dance,4,bihar,unknown,diwali,1
+132,folk theatre,2,bihar,unknown,diwali,1
+133,paika dance,4,bihar,unknown,diwali,1
+134,rahas dance,4,chhattisgarh,unknown,diwali,1
+135,parab dance,3,chhattisgarh,unknown,diwali,1
+136,tribal communities,4,chhattisgarh,unknown,diwali,1
+137,reena dance,3,chhattisgarh,unknown,diwali,1
+138,halba tribe,3,chhattisgarh,unknown,diwali,1
+139,shigmo,3,goa,unknown,diwali,1
+140,talgadi,3,goa,unknown,diwali,1
+141,dance,4,goa,unknown,diwali,1
+142,mando,4,goa,unknown,diwali,1
+143,wedding music,3,goa,unknown,diwali,1
+144,musall khel,3,goa,unknown,diwali,1
+145,christian community,4,goa,unknown,diwali,1
+146,goa,3,goa,unknown,diwali,1
+147,zagor,3,goa,unknown,diwali,1
+148,bira deva,3,goa,unknown,diwali,1
+149,dhangar dance,3,goa,unknown,diwali,1
+150,american dream,4,united states,unknown,culturebank,2
+151,better life,3,general,unknown,culturebank,1
+152,thinness,3,general,unknown,culturebank,1
+153,british culture,3,general,unknown,culturebank,1
+154,ice tea,3,general,unknown,culturebank,1
+155,tea,2,general,unknown,culturebank,1
+156,halloween,4,dz,unknown,blend,1
+157,christmas,4,global,unknown,blend,1
+158,valentine's day,4,dz,unknown,blend,1
+159,decorations or symbols,2,dz,unknown,blend,1
+160,love and romance,2,dz,unknown,blend,1
+161,day of the year,4,dz,unknown,blend,1

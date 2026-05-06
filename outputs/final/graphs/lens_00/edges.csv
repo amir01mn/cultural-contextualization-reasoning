@@ -1,0 +1,567 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+3,1,ifftar,living room,uses,1,arabculture
+4,5,فاكهه,حلويات,uses,1,arabculture
+8,6,women,singing,uses,1,arabculture
+9,10,algeria,rshtha,uses,1,arabculture
+11,12,ab,أضحية العيد,uses,1,arabculture
+15,13,سلمى,تكريم,uses,1,arabculture
+15,14,سلمى,أفراح,uses,1,arabculture
+17,16,mariam,shampoo,uses,1,arabculture
+18,19,euro,currency,uses,1,arabculture
+21,20,marry,gift,uses,1,arabculture
+22,23,آلة باليد,الحفلات الجزائرية,used in,1,arabculture
+25,24,فناوة,لة,uses,1,arabculture
+26,27,weekend,outing,uses,1,arabculture
+29,28,harvesting,family,performed by,1,arabculture
+30,31,samir,coffee,uses,1,arabculture
+17,32,mariam,khayyar,uses,1,arabculture
+33,34,coffee with milk,additional food,uses,1,arabculture
+9,35,algeria,halwa,prepares,1,arabculture
+37,38,workers,transportation methods,uses,1,arabculture
+39,40,students,phones,uses,1,arabculture
+42,41,youth,smartphone,use,1,arabculture
+9,43,algeria,arabic dialect,uses,1,arabculture
+44,45,finger,communication,uses,1,arabculture
+46,47,ليفة,الجزائر,uses,1,arabculture
+48,49,الات تقليدية,مناسبات,uses,1,arabculture
+50,51,algorithms,festivals,uses,1,arabculture
+54,52,aftar,sun,uses,1,arabculture
+54,53,aftar,oil,uses,1,arabculture
+55,56,strawberry,breakfast,uses,1,arabculture
+57,58,ahmed,ful,uses,1,arabculture
+57,59,ahmed,falafel,uses,1,arabculture
+60,61,koshari,meal,uses,1,arabculture
+57,62,ahmed,kfta,uses,1,arabculture
+57,63,ahmed,kebab,uses,1,arabculture
+67,65,father,smoked fish,uses,1,arabculture
+67,66,father,salted fish,uses,1,arabculture
+68,69,batata,dishes,uses,1,arabculture
+70,69,chicken,dishes,uses,1,arabculture
+71,69,soup,dishes,uses,1,arabculture
+72,73,hasa,rice,uses,1,arabculture
+72,74,hasa,bread,uses,1,arabculture
+75,74,sahur,bread,uses,1,arabculture
+75,76,sahur,fava beans,uses,1,arabculture
+75,78,sahur,milk,uses,1,arabculture
+81,79,mother,jowiya,prepares for,1,arabculture
+83,82,ahl al-`arusa,mahr,receives,1,arabculture
+85,84,wedding,food,uses,1,arabculture
+84,85,food,wedding,used during,1,arabculture
+86,88,حلوي,حفل الزفاف,uses,1,arabculture
+87,88,مشروبات غازية,حفل الزفاف,uses,1,arabculture
+89,90,loudspeaker,mosque,uses,1,arabculture
+93,91,people,money,give,1,arabculture
+94,92,children,toys,use,1,arabculture
+97,86,أب,حلوي,uses,1,arabculture
+93,99,people,new ubayaat,wear,1,arabculture
+93,20,people,gift,exchange,1,arabculture
+103,104,united states,mother's day,hosts,1,arabculture
+93,105,people,arab bread,uses,1,arabculture
+93,76,people,fava beans,uses,1,arabculture
+93,107,people,bicycle,uses,1,arabculture
+93,108,people,car,uses,1,arabculture
+110,111,الموقف,الناس,uses,1,arabculture
+93,112,people,right hand,uses,1,arabculture
+114,115,سلام عليكم,greeting,used in,1,arabculture
+20,117,gift,wedding anniversary,uses,1,arabculture
+120,118,parents,gifts,give,1,arabculture
+118,119,gifts,birthday,given on,1,arabculture
+121,122,ورق ملون,هدايا,uses,1,arabculture
+124,94,naila,children,used by,1,arabculture
+126,125,ahel,kafn,uses,1,arabculture
+128,127,woman,kafan,uses,1,arabculture
+129,130,chance,distributing alms,uses,1,arabculture
+132,131,welcome,uzail,uses,1,arabculture
+134,133,mujrimeen,quran,reads,1,arabculture
+136,135,shab,nai,uses,1,arabculture
+138,137,ensemble,rababa,uses,1,arabculture
+139,140,أغاني احتفالية,شم النسيم,uses,1,arabculture
+141,142,egypt,ramadan song,uses,1,arabculture
+81,94,mother,children,uses,1,arabculture
+145,146,مانجو,الدلتا,تتم زراعة,1,arabculture
+145,147,مانجو,الاسماعلية,تتم زراعة,1,arabculture
+148,149,rمان,spring,uses,1,arabculture
+151,152,may,july,uses,1,arabculture
+151,153,may,severe heat,avoid,1,arabculture
+154,155,irrigation by flooding,some crops,uses,1,arabculture
+156,157,li,matwa,uses,1,arabculture
+159,160,ish,wind,uses,1,arabculture
+161,162,ضربني,بكي,uses,1,arabculture
+163,164,سبقني,اشتكي,uses,1,arabculture
+120,94,parents,children,read to,1,arabculture
+120,166,parents,bedtime stories,read,1,arabculture
+57,167,ahmed,honey,uses,1,arabculture
+57,168,ahmed,flour,uses,1,arabculture
+171,169,ولاء الويkeh,غذاء عائلي,uses,1,arabculture
+172,173,tomato,cheese,uses,1,arabculture
+173,172,cheese,tomato,uses,1,arabculture
+174,175,ام,افطار رمضان,prepares for,1,arabculture
+176,75,abeer al-ajy,sahur,uses,1,arabculture
+59,75,falafel,sahur,uses,1,arabculture
+179,180,حلوى,تحليه,uses,1,arabculture
+181,182,cataef,returning home,uses,1,arabculture
+94,183,children,film,uses,1,arabculture
+94,184,children,lemonade,uses,1,arabculture
+141,185,egypt,ceremonies,uses,1,arabculture
+186,187,اغنية,فرح,uses,1,arabculture
+188,189,مؤمن الجزار,عيد الأضحى,uses,1,arabculture
+190,118,grandmother,gifts,gives,1,arabculture
+193,192,خديجة,ملابس,wears,1,arabculture
+194,195,student,university,uses,1,arabculture
+197,54,samir and his classmates,aftar,take,1,arabculture
+198,199,عمر,work,uses,1,arabculture
+57,200,ahmed,kليه,uses,1,arabculture
+201,202,shaimaa,home,returns to,1,arabculture
+204,205,long day,work/study,spent at,1,arabculture
+206,207,snacks,tea,uses,1,arabculture
+208,209,mlabse,malaheey,uses,1,arabculture
+210,211,fatima,noor,meets,1,arabculture
+212,213,تسأل,علي رجلا علي الطريق,uses,1,arabculture
+215,214,工人,工厂,works in,1,arabculture
+91,216,money,repaying debt,used for,1,arabculture
+104,20,mother's day,gift,uses,1,arabculture
+218,219,hadaaya,hadiah,uses,1,arabculture
+204,203,long day,day,is_a,1,arabculture
+220,221,الالتقاء,أحمد وعمر,agreed to meet,1,arabculture
+222,223,eri silk,shawls,used to make,1,diwali
+222,224,eri silk,winter clothing,used to make,1,diwali
+225,226,bhagalpuri silk,sarees,used to craft,1,diwali
+227,228,madhubani painting,textiles,uses,1,diwali
+230,229,bhagalpuri chadar,cotton-gicha mixed yarn,uses,1,diwali
+232,231,pata weaving,madder red,uses,1,diwali
+233,234,kambal,blankets,uses,1,diwali
+236,235,pattu,garments,uses,1,diwali
+237,238,lasingphee,fabric,uses,1,diwali
+239,241,risa,upper garment,used as,1,diwali
+239,242,risa,headgear,utilized as,1,diwali
+240,243,diwali,risa sormani,hosts,1,diwali
+237,245,lasingphee,quilts,used as,1,diwali
+237,246,lasingphee,covers,used as,1,diwali
+237,247,lasingphee,scarves,used as,1,diwali
+237,248,lasingphee,bedspreads,used as,1,diwali
+249,250,woolen fabric,garments and accessories,uses,1,diwali
+251,252,dhimsa,unity among tribes,uses,1,diwali
+253,254,bhortal nritya,cymbals,uses,1,diwali
+257,255,tribal martial dance,masks,uses,1,diwali
+257,256,tribal martial dance,mythological stories,uses,1,diwali
+258,259,jharni,rhythmic movements and songs,uses,1,diwali
+258,260,jharni,storytelling,uses,1,diwali
+258,261,jharni,music,uses,1,diwali
+263,262,none,pajamas,use,1,culturebank
+103,264,united states,confusion,expresses,1,culturebank
+103,265,united states,appreciation,expresses,1,culturebank
+266,267,tampons,pads,prefer over,1,culturebank
+268,270,eggs,store staff,buy,1,culturebank
+269,270,alcohol,store staff,buy,1,culturebank
+103,272,united states,ingredients lists,uses,1,culturebank
+120,275,parents,children's behavior,teach,1,culturebank
+120,275,parents,children's behavior,tolerate,1,culturebank
+120,276,parents,proper clothing,teach,1,culturebank
+279,280,public drinking,restrictions and legal consequences,faces,1,culturebank
+283,281,relocation,nostalgia,expresses,1,culturebank
+283,282,relocation,difficulty adjusting,expresses,1,culturebank
+284,285,ranch dressing,american cuisine,uses,1,culturebank
+284,286,ranch dressing,fast food,uses,1,culturebank
+284,287,ranch dressing,informal dining settings,uses,1,culturebank
+288,289,chickpeas,garbanzo beans,uses,1,culturebank
+291,290,blinds,window treatments,include,1,culturebank
+292,290,shutters,window treatments,include,1,culturebank
+293,290,curtains,window treatments,include,1,culturebank
+294,296,kettle,boiling water,use,1,culturebank
+297,296,electric kettle,boiling water,use,1,culturebank
+298,296,filtered water,boiling water,use,1,culturebank
+294,295,kettle,microwave,put in,1,culturebank
+301,302,sarcasm,humor and communication,use,1,culturebank
+303,304,paper check,unique spelling,uses,1,culturebank
+305,306,toilet paper,shelves,uses,1,culturebank
+310,307,customer service interactions,friendliness,uses,1,culturebank
+310,308,customer service interactions,attentiveness,uses,1,culturebank
+310,309,customer service interactions,professionalism,uses,1,culturebank
+103,312,united states,low water levels,uses,1,culturebank
+103,313,united states,efficient water use,uses,1,culturebank
+314,315,sidewalk,neighborhoods,use,1,culturebank
+314,316,sidewalk,business/work areas,use,1,culturebank
+314,317,sidewalk,cities,use,1,culturebank
+103,318,united states,imperial system,uses,1,culturebank
+321,323,umbrellas,sun protection,use for,1,culturebank
+322,323,parasols,sun protection,use for,1,culturebank
+324,325,date and time formatting,unique date format (mm/dd/yyyy),uses,1,culturebank
+326,327,american candy,edinburgh,expressing surprise at the availability and prices,1,culturebank
+328,329,lunch break,waiting in line,includes,1,culturebank
+328,330,lunch break,school staff,prepares,1,culturebank
+331,332,roundabout,efficient and ecological transportation,use and install,1,culturebank
+333,103,large refrigerators,united states,use,1,culturebank
+334,103,freezer,united states,use,1,culturebank
+335,103,chicken salt,united states,use,1,culturebank
+336,337,butter,baking,use,1,culturebank
+336,338,butter,spreading,use,1,culturebank
+336,339,butter,condiment,use,1,culturebank
+340,341,fish and chips,chips,use the term,1,culturebank
+340,342,fish and chips,french fries,use the term,1,culturebank
+341,342,chips,french fries,confusing with,1,culturebank
+343,345,spanking,discipline,uses,1,culturebank
+344,345,gentle parenting,discipline,perceived as ineffective,1,culturebank
+346,345,setting consequences,discipline,uses,1,culturebank
+348,195,college,university,use the terms 'college' and 'university' interchangeably to refer to,1,culturebank
+195,348,university,college,use the terms 'college' and 'university' interchangeably to refer to,1,culturebank
+350,103,towels,united states,use for various purposes,1,culturebank
+351,352,tight-toweled,puritanical and religious origins,influenced by,1,culturebank
+353,354,door gaps,diner,use,1,culturebank
+103,357,united states,building,engages in,1,culturebank
+357,355,building,tunnels,includes,1,culturebank
+357,356,building,utilities,includes,1,culturebank
+103,359,united states,unique and colloquial expressions,uses,1,culturebank
+358,359,countries,unique and colloquial expressions,uses,1,culturebank
+361,360,beaches,parking fees,uses,1,culturebank
+363,362,consumption of salad,salad dressing,uses,1,culturebank
+364,365,cursive writing,written communication,use,1,culturebank
+103,364,united states,cursive writing,prefer,1,culturebank
+366,369,hard work,financial stability and success,uses,1,culturebank
+367,369,budgeting,financial stability and success,uses,1,culturebank
+45,369,communication,financial stability and success,uses,1,culturebank
+234,371,blankets,movie theaters and public spaces,use,1,culturebank
+372,373,military time,24-hour format,uses,1,culturebank
+374,375,comas,minor issues,use,1,culturebank
+377,378,showering,water,uses,1,culturebank
+378,379,water,hygiene,used for,1,culturebank
+380,381,greetings,'how are you',use,1,culturebank
+380,382,greetings,'good 'n' you',use,1,culturebank
+380,383,greetings,'you alright?',use,1,culturebank
+384,103,mayonnaise,united states,use,1,culturebank
+385,384,lemon juice,mayonnaise,substitute for,1,culturebank
+386,384,lime juice,mayonnaise,substitute for,1,culturebank
+103,387,united states,names,uses,1,culturebank
+103,388,united states,paperwork,uses,1,culturebank
+103,387,united states,names,create,1,culturebank
+103,387,united states,names,associate,1,culturebank
+391,389,memorial day,barbecue,celebrates,1,culturebank
+391,390,memorial day,parade,celebrates,1,culturebank
+103,392,united states,ambulance services,uses,1,culturebank
+39,393,students,informal and preferred names,use,1,culturebank
+39,394,students,teachers,addressing teachers by their first names,1,culturebank
+395,396,wiring systems,urban and suburban settings,use,1,culturebank
+399,397,public broadcasting and food,brands,uses,1,culturebank
+399,398,public broadcasting and food,products,uses,1,culturebank
+400,401,personal belongings,unattended,leave unattended,1,culturebank
+403,402,watching,videos,uses,1,culturebank
+404,402,creating,videos,uses,1,culturebank
+405,402,sharing,videos,uses,1,culturebank
+406,103,bell peppers,united states,use,1,culturebank
+406,407,bell peppers,movies,use,1,culturebank
+408,409,applicator,personal hygiene,uses,1,culturebank
+410,411,cameras,surveillance,uses,1,culturebank
+410,412,cameras,traffic enforcement,uses,1,culturebank
+410,413,cameras,monitoring,uses,1,culturebank
+414,103,coins,united states,use and interpret differently,1,culturebank
+415,103,color-coded money,united states,be confused by,1,culturebank
+416,417,traveling,exploration,engages in,1,culturebank
+416,418,traveling,curiosity,engages in,1,culturebank
+416,419,traveling,mind-opening experiences,engages in,1,culturebank
+420,421,nicknames,distinguish or express familiarity,use,1,culturebank
+103,422,united states,sauce,use and appreciate,1,culturebank
+423,424,bro,casual conversation and online interactions,use the term,1,culturebank
+425,426,air conditioning,france,use sparingly,1,culturebank
+376,427,social media,emojis,uses,1,culturebank
+428,376,capital letters,social media,use,1,culturebank
+376,430,social media,likes,uses,1,culturebank
+376,429,social media,comments,uses,1,culturebank
+432,433,order,starbucks,uses,1,culturebank
+432,434,order,coffee drink,uses,1,culturebank
+438,439,wearing a jacket,daily life,encourage,1,culturebank
+441,442,afterschool sport,education in elementary schools in dz,used for,1,blend
+9,443,algeria,high school students,uses,1,blend
+9,444,algeria,ingredient,uses,1,blend
+39,445,students,shoes,wear,1,blend
+9,447,algeria,elementary education,uses,1,blend
+9,108,algeria,car,uses,1,blend
+9,107,algeria,bicycle,uses,1,blend
+451,450,language,english,uses,1,blend
+452,453,tourism,religious sites,uses,1,blend
+9,454,algeria,sports,uses,1,blend
+9,456,algeria,horse,uses,2,blend
+457,458,comic book,children in dz,used by,1,blend
+269,460,alcohol,brand,uses,1,blend
+9,461,algeria,office software,uses,1,blend
+463,462,sports fans,cheering tools,uses,1,blend
+9,464,algeria,school breaks,uses,1,blend
+465,9,cooking utensil,algeria,used in,1,blend
+466,467,middle schools,subjects,uses,1,blend
+468,469,song,birthday party,used at,1,blend
+53,9,oil,algeria,used for cooking,1,blend
+471,472,parks,sports facilities,uses,1,blend
+473,474,school teacher,dress code,uses,1,blend
+475,240,education day,diwali,celebrates,1,blend
+9,477,algeria,cattle,uses,1,blend
+9,478,algeria,sheep,uses,1,blend
+9,479,algeria,goats,uses,1,blend
+481,274,farmers,clothing,uses,1,blend
+482,28,vehicle,family,used by,1,blend
+484,485,national teacher's day,commemorated,uses,1,blend
+486,240,children's day,diwali,celebrates,1,blend
+9,487,algeria,winter sport,engages in,1,blend
+488,195,public transport,university,uses,1,blend
+489,490,biologist,question,act on,1,candle
+491,432,judge,order,signs,1,candle
+493,492,clerk,summons,issues,1,candle
+494,495,dog,dog show,used in,1,candle
+496,456,candle,horse,uses,1,candle
+496,491,candle,judge,used by,2,candle
+491,498,judge,lawyer,uses,1,candle
+499,491,cat,judge,handled by,1,candle
+501,491,panel,judge,uses,1,candle
+496,491,candle,judge,uses,1,candle
+502,491,child,judge,uses,1,candle
+503,491,wig,judge,uses,1,candle
+504,491,gown,judge,uses,1,candle
+491,506,judge,weight declaration,uses,1,candle
+507,508,book,librarian,used by,1,candle
+509,510,teacher,occupation,is_a,2,candle
+496,509,candle,teacher,used by,1,candle
+496,512,candle,evaluation,used in,1,candle
+515,496,initial testing,candle,uses,1,candle
+515,514,initial testing,test,values,1,candle
+496,509,candle,teacher,uses,3,candle
+194,517,student,respect,uses,1,candle
+519,394,routines,teachers,use,1,candle
+39,517,students,respect,expresses,1,candle
+517,522,respect,obedience,values,1,candle
+496,261,candle,music,uses,1,candle
+523,524,books,teach from,use,1,candle
+496,194,candle,student,uses,2,candle
+496,525,candle,yoga teacher,uses,1,candle
+526,496,good teacher,candle,like,1,candle
+517,509,respect,teacher,expresses,1,candle
+509,496,teacher,candle,uses,2,candle
+527,528,assessment,pre and post assessments,used for,1,candle
+529,530,papers,marking,used for,1,candle
+509,531,teacher,grade,uses,1,candle
+496,532,candle,calm,uses,1,candle
+509,532,teacher,calm,uses,1,candle
+496,533,candle,shine,uses,1,candle
+534,509,project,teacher,used by,1,candle
+513,194,essay,student,uses,1,candle
+496,535,candle,lecture,uses,1,candle
+537,536,master teacher,masterful materials,uses,1,candle
+538,539,pose,series,used in,1,candle
+540,541,homework,checking up on homework,used for,1,candle
+542,509,rules,teacher,used by,1,candle
+509,543,teacher,accountable,is_a,1,candle
+544,509,form,teacher,used by,1,candle
+545,394,notes,teachers,use,1,candle
+542,546,rules,positive behavior,uses,1,candle
+509,547,teacher,time,uses,1,candle
+548,509,gesture,teacher,used by,1,candle
+496,199,candle,work,uses,2,candle
+549,550,teachers desk,"locking center, file and box drawer",uses,1,candle
+551,496,reading,candle,uses,1,candle
+509,552,teacher,review,uses,1,candle
+496,553,candle,session,uses,1,candle
+194,509,student,teacher,follows,1,candle
+555,556,plan,lesson,uses,1,candle
+557,509,chart,teacher,used by,1,candle
+558,509,exam,teacher,used by,1,candle
+199,559,work,classes,leave,1,candle
+560,555,repertoire,plan,uses,1,candle
+496,562,candle,hive,uses,1,candle
+563,496,electrician,candle,uses,1,candle
+564,496,pitching,candle,uses,1,candle
+496,565,candle,banker,used by,2,candle
+566,567,mortgage,loan,uses,1,candle
+568,569,cheque,presentment to the collecting banker,used for,1,candle
+496,570,candle,private banker,uses,1,candle
+565,572,banker,introduction,uses,1,candle
+565,574,banker,web,uses,1,candle
+565,575,banker,faucet,uses,1,candle
+496,576,candle,surgery,uses,1,candle
+577,496,nurse,candle,uses,1,candle
+577,579,nurse,doctor,uses,1,candle
+580,577,health check,nurse,performed by,1,candle
+527,581,assessment,foot,uses,1,candle
+527,582,assessment,nail,uses,1,candle
+577,584,nurse,medication,uses,1,candle
+496,577,candle,nurse,uses,3,candle
+577,502,nurse,child,uses,1,candle
+577,586,nurse,midwife,uses,1,candle
+577,587,nurse,protocol,uses,1,candle
+577,588,nurse,physician,obeys the orders of,1,candle
+577,589,nurse,room,prepares for,1,candle
+577,590,nurse,touch,uses,1,candle
+577,28,nurse,family,uses,1,candle
+577,579,nurse,doctor,collaborate with,1,candle
+194,577,student,nurse,uses,1,candle
+577,594,nurse,patient report,writes up,1,candle
+577,490,nurse,question,uses,1,candle
+596,577,shoe,nurse,used by,1,candle
+597,577,needle,nurse,used by,1,candle
+496,598,candle,triage nurse,uses,1,candle
+577,599,nurse,self-evaluation,writes,1,candle
+577,600,nurse,speaking,uses,1,candle
+601,577,equipment,nurse,uses,1,candle
+558,603,exam,state,administered by,1,candle
+577,552,nurse,review,uses,1,candle
+577,605,nurse,aide,uses,1,candle
+513,194,essay,student,written for,1,candle
+607,608,tailor-made course,course,uses,1,candle
+609,496,tailor,candle,uses,4,candle
+496,611,candle,tailor-made's clubs,uses,1,candle
+613,609,chalk,tailor,used by,1,candle
+615,618,agreement,contract,uses,1,candle
+616,618,bill,contract,uses,1,candle
+617,618,receipt,contract,uses,1,candle
+619,620,mask,skin that is dark in color,used to treat,1,candle
+496,622,candle,program,uses,1,candle
+623,624,report papers,cash,uses,1,candle
+623,547,report papers,time,uses,1,candle
+496,626,candle,trip,uses,1,candle
+496,627,candle,smile,uses,1,candle
+629,628,dentist,dental x-ray,uses,1,candle
+630,631,anesthesia,tooth,uses,1,candle
+632,634,praise,pediatric dentists,uses,1,candle
+496,635,candle,patient,uses,1,candle
+496,636,candle,hygienist,uses,1,candle
+496,637,candle,cleaning,uses,1,candle
+629,638,dentist,oral cancer screening,performs,1,candle
+639,629,gloves,dentist,use,1,candle
+640,635,medical history,patient,uses,1,candle
+496,629,candle,dentist,uses,1,candle
+629,643,dentist,dental treatment plan,uses,1,candle
+644,645,tartar,plaque and tartar buildup,is_a,1,candle
+646,647,short,successive visits,uses,1,candle
+648,649,peroxide,solution,uses,1,candle
+629,650,dentist,periodontal probe,uses,1,candle
+629,263,dentist,none,uses,1,candle
+496,263,candle,none,uses,1,candle
+652,653,reservations,votes,use,1,candle
+496,654,candle,microphone,uses,1,candle
+655,656,politician,media,uses,1,candle
+657,496,career politician,candle,uses,1,candle
+655,659,politician,say,uses,1,candle
+655,660,politician,message,uses,1,candle
+661,655,lobbyist,politician,uses,1,candle
+655,663,politician,responding robustly to the danger,use,1,candle
+655,490,politician,question,uses,1,candle
+655,664,politician,public speaking,uses,1,candle
+665,655,camera,politician,used by,1,candle
+496,655,candle,politician,use,1,candle
+655,666,politician,public office,use,1,candle
+668,669,curry,favor,use,1,candle
+670,671,numbers,justification,use,1,candle
+672,673,ethical rules,arguments,uses,1,candle
+674,672,efforts,ethical rules,uses,1,candle
+496,675,candle,traditional,uses,1,candle
+676,615,merchant,agreement,uses,1,candle
+676,678,merchant,account,uses,1,candle
+679,680,budget,markdown,uses,1,candle
+681,682,copywriter,article,uses,1,candle
+683,432,direct mail,order,uses,1,candle
+496,85,candle,wedding,uses,1,candle
+85,686,wedding,photographer,captures symbolic details and captures the essence of,1,candle
+686,496,photographer,candle,uses,4,candle
+496,686,candle,photographer,uses,2,candle
+686,688,photographer,moment,captures,1,candle
+686,689,photographer,shot,use,1,candle
+496,85,candle,wedding,used in,2,candle
+686,690,photographer,model,uses,1,candle
+496,691,candle,rituals,used in,1,candle
+28,691,family,rituals,used in,1,candle
+686,693,photographer,portfolio,uses,1,candle
+686,694,photographer,schedule,uses,1,candle
+686,695,photographer,time and money,spend,1,candle
+496,696,candle,wedding-reportage,uses,1,candle
+686,697,photographer,event,uses,2,candle
+686,698,photographer,ceremony,uses,1,candle
+700,699,reputable,physical,uses,1,candle
+686,701,photographer,shutter button,uses,1,candle
+702,496,landscape,candle,uses,1,candle
+703,686,guest,photographer,photographed by,1,candle
+456,686,horse,photographer,uses,1,candle
+686,705,photographer,timeline,uses,1,candle
+686,706,photographer,golden hour,uses,1,candle
+686,707,photographer,prime,swear by,1,candle
+708,686,logo,photographer,used by,1,candle
+496,686,candle,photographer,used by,1,candle
+709,710,race photographer,body marking,uses,1,candle
+712,713,non-flash,professional photographers,uses,1,candle
+711,713,flash,professional photographers,not allowed during the ceremony by,1,candle
+714,715,vertical crop,specialist digital photographers,used by,1,candle
+686,717,photographer,submit,uses,1,candle
+686,718,photographer,image,uses,1,candle
+719,720,professional,photograph,uses,1,candle
+496,721,candle,art work,uses,1,candle
+722,723,makeup,makeup artist,use,1,candle
+496,724,candle,martial artist,uses,1,candle
+667,726,script,page,uses,1,candle
+723,722,makeup artist,makeup,uses,1,candle
+727,728,flower,petal,uses,1,candle
+729,730,artist,writer,uses,1,candle
+731,732,voice,voiceover,uses,1,candle
+702,734,landscape,development,used in,1,candle
+735,736,painter,tape,uses,2,candle
+737,735,brush,painter,used by,1,candle
+496,740,candle,face painter,uses,1,candle
+735,432,painter,order,uses,1,candle
+496,741,candle,usher,uses,1,candle
+743,742,priest,robe,wears,1,candle
+744,691,plans,rituals,used in,1,candle
+745,746,sealed plans,raised seal,uses,1,candle
+749,750,signature,handwriting dexterity,uses,1,candle
+748,534,architect,project,uses,1,candle
+753,754,defense,tactics,uses,1,candle
+496,755,candle,power of attorney,uses,1,candle
+756,757,attorney,fee,uses,1,candle
+756,758,attorney,client,uses,1,candle
+496,759,candle,plea,uses,1,candle
+760,761,pay off letter,closing,uses,1,candle
+756,762,attorney,list of references,uses,1,candle
+496,763,candle,bankruptcy,uses,1,candle
+615,691,agreement,rituals,used in,1,candle
+764,765,power,notary,uses,1,candle
+194,756,student,attorney,assigns role,1,candle
+496,766,candle,district attorney,uses,1,candle
+756,767,attorney,act together,must,1,candle
+756,768,attorney,report,uses,1,candle
+756,730,attorney,writer,uses,1,candle
+730,756,writer,attorney,uses,1,candle
+756,769,attorney,retainer,uses,1,candle
+756,770,attorney,expert,uses,1,candle
+771,758,engagement letter,client,uses,1,candle
+771,756,engagement letter,attorney,uses,1,candle
+496,756,candle,attorney,uses,1,candle
+756,496,attorney,candle,uses,1,candle
+773,774,client intake form,initial prospective client interview,use,1,candle
+496,775,candle,chapter,uses,1,candle
+778,776,defense attorney,defense memorial,uses,1,candle
+778,777,defense attorney,response brief,uses,1,candle
+756,779,attorney,polish skills,uses,1,candle
+756,780,attorney,lectern,uses,1,candle
+756,781,attorney,argument,uses,1,candle
+782,756,knee injury,attorney,emphasize proactiveness,1,candle
+784,496,housekeeper,candle,uses,1,candle
+784,786,housekeeper,entrance hall,uses,1,candle
+787,788,knives,butchers,uses,1,candle
+790,791,rocket,scientist,used by,1,candle
+791,793,scientist,write,uses,1,candle
+794,791,engineer,scientist,is_a,1,candle
+795,796,number,board,uses,1,candle
+797,799,abstract,full paper,uses,1,candle
+798,799,title,full paper,uses,1,candle
+801,703,receptionist,guest,use,1,candle
+496,801,candle,receptionist,uses,1,candle
+801,635,receptionist,patient,enjoys,1,candle
+803,804,journalist,scripted interview,uses,1,candle
+805,806,opening paragraph,hook readers' attention,use,1,candle
+803,552,journalist,review,uses,1,candle
+496,808,candle,table,uses,1,candle
+809,811,tuxedo,waiter,uses,1,candle
+810,812,chandelier,dining room,hangs from,1,candle
+579,552,doctor,review,uses,1,candle
+813,814,hands,wash,used for,1,candle
+496,815,candle,history,uses,1,candle
+579,815,doctor,history,uses,1,candle
+579,817,doctor,visit,prepares for,1,candle
+819,820,doctors,patients,ask,1,candle
+821,822,sperm,egg,uses,1,candle
+699,558,physical,exam,used in,1,candle
+768,579,report,doctor,produced for,1,candle
+825,579,stethoscope,doctor,used by,1,candle
+496,826,candle,treatment,uses,1,candle

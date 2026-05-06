@@ -31,6 +31,618 @@
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "potty training",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "approaches and pressures",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "various forms",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "colloquial language",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "california",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 8,
+      "label": "united states",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 7
+    },
+    {
+      "id": 9,
+      "label": "smoking",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "cities",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "design for pedestrians or cyclists",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "sales tax",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "regions",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 14,
+      "label": "preference for natural light and specific window treatments",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "europe",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 16,
+      "label": "microwave",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "kettle",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "stovetop",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "northeast",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "bay area",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "chicago",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "public transportation",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "region",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "sidewalk etiquette",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "sidewalk availability",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "states",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 27,
+      "label": "self-service gas pumps",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "funerals",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "opinions on funeral ceremonies",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "state",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "maternity leave policies",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "leave policies",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "ear piercing",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "gender and beliefs about healing",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "mother's day",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "settings",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "historically, there have been restrictions on ac use due to energy consumption",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "bathrooms",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "us",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "carpet",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "bathrooms in us",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "building types",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "ground floor",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "rent prices",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "locations",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "location",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "time of year",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "cost",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "safety",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "aesthetics",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "preferences",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "attitudes",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "united states",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "quality of toilet paper",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "cost and quality of toilet paper",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "stop signs",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "countries",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "legal ages",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "food items",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "regions",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "taxation of food",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "regulations",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "cultural norms",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "age",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "state",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "marriage",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 69,
+      "label": "region",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "agriculture region",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
     }
   ],
   "links": [
@@ -42,6 +654,393 @@
       "relation_type": "vary by",
       "weight": 1,
       "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "potty training",
+      "target_label": "approaches and pressures",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "various forms",
+      "target_label": "colloquial language",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "source_label": "california",
+      "target_label": "smoking",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "united states",
+      "target_label": "smoking",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "cities",
+      "target_label": "design for pedestrians or cyclists",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 14,
+      "target": 13,
+      "source_label": "preference for natural light and specific window treatments",
+      "target_label": "regions",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 16,
+      "target": 15,
+      "source_label": "microwave",
+      "target_label": "europe",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 15,
+      "source_label": "kettle",
+      "target_label": "europe",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 18,
+      "target": 15,
+      "source_label": "stovetop",
+      "target_label": "europe",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 19,
+      "source_label": "public transportation",
+      "target_label": "northeast",
+      "relation_type": "varies by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 20,
+      "source_label": "public transportation",
+      "target_label": "bay area",
+      "relation_type": "varies by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 21,
+      "source_label": "public transportation",
+      "target_label": "chicago",
+      "relation_type": "varies by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 23,
+      "source_label": "sidewalk etiquette",
+      "target_label": "region",
+      "relation_type": "vary by region",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 25,
+      "target": 23,
+      "source_label": "sidewalk availability",
+      "target_label": "region",
+      "relation_type": "vary by region",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "states",
+      "target_label": "self-service gas pumps",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "source_label": "funerals",
+      "target_label": "opinions on funeral ceremonies",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 30,
+      "source_label": "united states",
+      "target_label": "state",
+      "relation_type": "varies by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 31,
+      "target": 26,
+      "source_label": "maternity leave policies",
+      "target_label": "states",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "ear piercing",
+      "target_label": "gender and beliefs about healing",
+      "relation_type": "varies by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 35,
+      "source_label": "united states",
+      "target_label": "mother's day",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 37,
+      "source_label": "united states",
+      "target_label": "historically, there have been restrictions on ac use due to energy consumption",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "source_label": "carpet",
+      "target_label": "bathrooms in us",
+      "relation_type": "varies by region",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 43,
+      "target": 13,
+      "source_label": "ground floor",
+      "target_label": "regions",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 43,
+      "target": 42,
+      "source_label": "ground floor",
+      "target_label": "building types",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "source_label": "rent prices",
+      "target_label": "locations",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 46,
+      "source_label": "united states",
+      "target_label": "location",
+      "relation_type": "varies by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 47,
+      "source_label": "united states",
+      "target_label": "time of year",
+      "relation_type": "varies by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 51,
+      "target": 48,
+      "source_label": "preferences",
+      "target_label": "cost",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 51,
+      "target": 49,
+      "source_label": "preferences",
+      "target_label": "safety",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 51,
+      "target": 50,
+      "source_label": "preferences",
+      "target_label": "aesthetics",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 52,
+      "target": 8,
+      "source_label": "attitudes",
+      "target_label": "united states",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 54,
+      "source_label": "united states",
+      "target_label": "quality of toilet paper",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 15,
+      "target": 55,
+      "source_label": "europe",
+      "target_label": "cost and quality of toilet paper",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "source_label": "stop signs",
+      "target_label": "countries",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 58,
+      "source_label": "united states",
+      "target_label": "legal ages",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 61,
+      "target": 13,
+      "source_label": "taxation of food",
+      "target_label": "regions",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 61,
+      "target": 59,
+      "source_label": "taxation of food",
+      "target_label": "food items",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 62,
+      "target": 8,
+      "source_label": "regulations",
+      "target_label": "united states",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 63,
+      "target": 8,
+      "source_label": "cultural norms",
+      "target_label": "united states",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 67,
+      "target": 65,
+      "source_label": "marriage",
+      "target_label": "age",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 67,
+      "target": 30,
+      "source_label": "marriage",
+      "target_label": "state",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 68,
+      "target": 23,
+      "source_label": "algeria",
+      "target_label": "region",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 68,
+      "target": 70,
+      "source_label": "algeria",
+      "target_label": "agriculture region",
+      "relation_type": "vary by",
+      "weight": 1,
+      "source_dataset": "blend"
     }
   ]
 }

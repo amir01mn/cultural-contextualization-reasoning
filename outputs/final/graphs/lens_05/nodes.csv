@@ -1,7 +1,345 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,tipping,4,united states,unknown,culturebank,1
-2,tipping customs,3,united states,unknown,culturebank,1
-3,united states,2,general,unknown,culturebank,1
-4,remove shoes,4,general,unknown,culturebank,1
-5,entering homes,2,general,unknown,culturebank,1
+1,algeria,3,algeria,unknown,arabculture,24
+2,ذبح للوالدة مهمة خاصة,2,algeria,unknown,arabculture,1
+3,performing funeral rituals at home,2,algeria,unknown,arabculture,1
+4,النساء و الرجال,2,algeria,unknown,arabculture,1
+5,آلة باليد,1,algeria,unknown,arabculture,1
+6,linaier,4,algeria,unknown,arabculture,1
+7,tacts and traditions,2,algeria,unknown,arabculture,1
+8,treating the body according to traditions and religion,2,algeria,unknown,arabculture,1
+9,community,4,algeria,unknown,arabculture,1
+10,planting,3,algeria,unknown,arabculture,1
+11,venkatagiri cotton,3,andhra pradesh,unknown,diwali,1
+12,diwali,3,andhra pradesh,unknown,diwali,7
+13,monpa tribe,3,arunachal pradesh,unknown,diwali,1
+14,tawang district,3,arunachal pradesh,unknown,diwali,1
+15,monpa woolen weave,2,arunachal pradesh,unknown,diwali,1
+16,wancho tribe,3,arunachal pradesh,unknown,diwali,1
+17,creating woven bags,2,arunachal pradesh,unknown,diwali,1
+18,misng tribe,3,assam,unknown,diwali,1
+19,diwali,1,assam,unknown,diwali,1
+20,miri jimo,2,assam,unknown,diwali,1
+21,chaapa sarees,3,bihar,unknown,diwali,1
+22,wooden blocks,4,bihar,unknown,diwali,1
+23,bastar tribal weaves,3,chhattisgarh,unknown,diwali,1
+24,gujarat,4,gujarat,unknown,diwali,1
+25,bandhani,3,gujarat,unknown,diwali,1
+26,ajrakh printing,3,gujarat,unknown,diwali,1
+27,block-printing technique,4,gujarat,unknown,diwali,1
+28,tangaliya,3,gujarat,unknown,diwali,1
+29,dangasia community,4,gujarat,unknown,diwali,1
+30,dhabla,3,gujarat,unknown,diwali,1
+31,woolen yarns,4,gujarat,unknown,diwali,1
+32,santhal saree cloth,3,jharkhand,unknown,diwali,1
+33,saree,4,jharkhand,unknown,diwali,1
+34,traditional patterns and motifs,2,jharkhand,unknown,diwali,1
+35,kasuti,3,karnataka,unknown,diwali,1
+36,karnataka,2,karnataka,unknown,diwali,1
+37,women,2,karnataka,unknown,diwali,1
+38,navalgund durries,3,karnataka,unknown,diwali,1
+39,karnataka,3,karnataka,unknown,diwali,1
+40,lambani embroidery,4,karnataka,unknown,diwali,1
+41,kerala,4,kerala,unknown,diwali,1
+42,settu mundu,3,kerala,unknown,diwali,1
+43,wearing settu mundu,2,kerala,unknown,diwali,1
+44,batik print,3,madhya pradesh,unknown,diwali,1
+45,bhairavgarh,3,madhya pradesh,unknown,diwali,1
+46,maharashtra,4,maharashtra,unknown,diwali,1
+47,narayan peth sari,3,maharashtra,unknown,diwali,1
+48,manipur,3,manipur,unknown,diwali,1
+49,leirum phee,2,manipur,unknown,diwali,1
+50,shaphee lanphee,3,manipur,unknown,diwali,1
+51,black or red base,4,manipur,unknown,diwali,1
+52,shappee lanphee,2,manipur,unknown,diwali,1
+53,garo women,4,meghalaya,unknown,diwali,1
+54,dakmanda,3,meghalaya,unknown,diwali,1
+55,wearing dakmanda,2,meghalaya,unknown,diwali,1
+56,mizo women,4,mizoram,unknown,diwali,1
+57,loin loom weaving,3,mizoram,unknown,diwali,2
+58,naga tribes,4,nagaland,unknown,diwali,1
+59,bagru block print,4,rajasthan,unknown,diwali,1
+60,chhipa community,3,rajasthan,unknown,diwali,1
+61,saurashtrian community,2,tamil nadu,unknown,diwali,1
+62,madurai sungudi,3,tamil nadu,unknown,diwali,1
+63,toda embroidery,3,tamil nadu,unknown,diwali,1
+64,toda tribe,3,tamil nadu,unknown,diwali,1
+65,tamil nadu,3,tamil nadu,unknown,diwali,1
+66,kodalikaruppur saree,3,tamil nadu,unknown,diwali,1
+67,lambada embroidery,3,telangana,unknown,diwali,1
+68,lambada tribe,4,telangana,unknown,diwali,1
+69,tripuri women,4,tripura,unknown,diwali,1
+70,loin loom textiles,3,tripura,unknown,diwali,1
+71,weaving on the loin loom,2,tripura,unknown,diwali,1
+72,uttarakhand,3,uttarakhand,unknown,diwali,3
+73,weaving,4,uttarakhand,unknown,diwali,1
+74,ringaal weaving,3,uttarakhand,unknown,diwali,1
+75,uttarakhand,2,uttarakhand,unknown,diwali,1
+76,cotton weaving,4,uttarakhand,unknown,diwali,1
+77,silk weaving,3,uttarakhand,unknown,diwali,1
+78,phool patti ka kaam,4,uttar pradesh,unknown,diwali,1
+79,patti work,3,uttar pradesh,unknown,diwali,1
+80,aligarh and rampur,2,uttar pradesh,unknown,diwali,1
+81,dhaniakhali sari,3,west bengal,unknown,diwali,1
+82,plain body with contrasting borders and pallus adorned with simple yet elegant motifs,4,west bengal,unknown,diwali,1
+83,artisans,3,west bengal,unknown,diwali,1
+84,wax-resist dyeing technique,4,west bengal,unknown,diwali,1
+85,fabric,3,west bengal,unknown,diwali,1
+86,nicobari banners,3,andaman and nicobar islands,unknown,diwali,1
+87,appliqué,4,andaman and nicobar islands,unknown,diwali,1
+88,embroidery,4,andaman and nicobar islands,unknown,diwali,1
+89,delhi,3,delhi,unknown,diwali,1
+90,brocade textiles,4,delhi,unknown,diwali,1
+91,kashida embroidery,3,jammu and kashmir,unknown,diwali,1
+92,textiles,4,jammu and kashmir,unknown,diwali,1
+93,tsugdan,3,ladakh,unknown,diwali,1
+94,intricate designs,4,ladakh,unknown,diwali,1
+95,ari embroidery,3,puducherry,unknown,diwali,1
+96,pudducherry,4,india,unknown,diwali,1
+97,carcari,3,andhra pradesh,unknown,diwali,1
+98,perani,3,andhra pradesh,unknown,diwali,1
+99,dhuliya dance,3,assam,unknown,diwali,2
+100,assam,4,assam,unknown,diwali,3
+101,nagara naam,3,assam,unknown,diwali,1
+102,assam,3,assam,unknown,diwali,2
+103,moridhol dance,3,assam,unknown,diwali,2
+104,dhuliya bhaona,3,assam,unknown,diwali,1
+105,drum-based dance-drama,4,assam,unknown,diwali,1
+106,assamese villages,4,assam,unknown,diwali,1
+107,thapona dance,3,assam,unknown,diwali,1
+108,dhobi naach,3,bihar,unknown,diwali,1
+109,bihar,4,bihar,unknown,diwali,2
+110,bidapad naach,3,bihar,unknown,diwali,1
+111,saila dance,3,chhattisgarh,unknown,diwali,1
+112,chhattisgarh,4,chhattisgarh,unknown,diwali,1
+113,chhattisgarh,3,chhattisgarh,unknown,diwali,2
+114,gendi dance,3,chhattisgarh,unknown,diwali,1
+115,bharthari dance,3,chhattisgarh,unknown,diwali,1
+116,chandaini dance,3,chhattisgarh,unknown,diwali,1
+117,rural regions,4,chhattisgarh,unknown,diwali,1
+118,yadav nacha,3,chhattisgarh,unknown,diwali,1
+119,yadav community,4,chhattisgarh,unknown,diwali,1
+120,goa,3,goa,unknown,diwali,1
+121,romat,3,goa,unknown,diwali,1
+122,tipping,3,general,unknown,culturebank,1
+123,customary and expected,3,general,unknown,culturebank,1
+124,tipping,4,united states,unknown,culturebank,1
+125,tipping customs,3,united states,unknown,culturebank,1
+126,united states,2,general,unknown,culturebank,13
+127,remove shoes,4,general,unknown,culturebank,1
+128,entering homes,2,general,unknown,culturebank,1
+129,living in,4,general,unknown,culturebank,1
+130,returning to,4,general,unknown,culturebank,1
+131,united states,3,general,unknown,culturebank,4
+132,daycare settings,2,general,unknown,culturebank,1
+133,"actively seek, pay for, and express frustration over the high cost of daycare, often preferring more home-like settings",2,general,unknown,culturebank,1
+134,school shootings,4,united states,unknown,culturebank,1
+135,safety and security,3,united states,unknown,culturebank,1
+136,spain,4,general,unknown,culturebank,1
+137,united states,4,general,unknown,culturebank,39
+138,child-rearing activities,2,general,unknown,culturebank,1
+139,exercise caution,4,general,unknown,culturebank,1
+140,general,2,general,unknown,culturebank,1
+141,safety,3,general,unknown,culturebank,1
+142,"prioritize safety through various measures, including military strength, gun control, and emergency preparedness",2,general,unknown,culturebank,1
+143,states,2,general,unknown,culturebank,1
+144,heightened fear and anxiety,2,general,unknown,culturebank,1
+145,school buses,3,general,unknown,culturebank,1
+146,use and maintain yellow school buses,2,general,unknown,culturebank,1
+147,overeating,4,general,unknown,culturebank,1
+148,fall asleep,4,general,unknown,culturebank,1
+149,thanksgiving,2,general,unknown,culturebank,1
+150,embrace and style athleisure wear,2,general,unknown,culturebank,1
+151,tip-based compensation,4,united states,unknown,culturebank,1
+152,service industry,3,united states,unknown,culturebank,1
+153,sundays,3,general,unknown,culturebank,1
+154,closing businesses on sundays,2,general,unknown,culturebank,1
+155,mix of closed and open stores on sundays,2,general,unknown,culturebank,1
+156,meals,4,general,unknown,culturebank,1
+157,gifts,4,general,unknown,culturebank,1
+158,birthday celebrations,2,general,unknown,culturebank,1
+159,washing machines,4,general,unknown,culturebank,1
+160,movie theaters,4,general,unknown,culturebank,1
+161,prioritize comfort,3,general,unknown,culturebank,1
+162,ambition,2,general,unknown,culturebank,1
+163,personal fulfillment,2,general,unknown,culturebank,1
+164,school settings,3,general,unknown,culturebank,1
+165,walking or cycling to school,2,general,unknown,culturebank,1
+166,parents,2,general,unknown,culturebank,1
+167,drills,4,general,unknown,culturebank,1
+168,safety measures,4,general,unknown,culturebank,1
+169,schools,2,general,unknown,culturebank,1
+170,dressing up,3,general,unknown,culturebank,1
+171,wedding,4,general,unknown,culturebank,1
+172,"struggle with and adapt to the pervasive issue of extreme debt, including medical debt, student loans, and financial insecurity",2,general,unknown,culturebank,1
+173,smiling,4,general,unknown,culturebank,1
+174,making eye contact,4,general,unknown,culturebank,1
+175,offering support,4,general,unknown,culturebank,1
+176,social interactions,2,general,unknown,culturebank,1
+177,responsible pet ownership and care,3,general,unknown,culturebank,1
+178,florida,3,general,unknown,culturebank,1
+179,use and ensure the proper installation of infant car seats,2,general,unknown,culturebank,1
+180,car seats are mandatory for babies when discharged from the hospital,2,general,unknown,culturebank,1
+181,individualism,4,united states,unknown,culturebank,1
+182,group mentality,4,united states,unknown,culturebank,1
+183,cars,2,general,unknown,culturebank,2
+184,visiting the emergency room despite high costs,2,general,unknown,culturebank,1
+185,drivers,4,united states,unknown,culturebank,1
+186,pedestrians,4,united states,unknown,culturebank,1
+187,"city with 30,000+ people",3,general,unknown,culturebank,1
+188,roundabout,2,general,unknown,culturebank,1
+189,grandparents to grandchildren,2,general,unknown,culturebank,1
+190,downsizing,4,united states,unknown,culturebank,1
+191,reducing food waste,3,united states,unknown,culturebank,1
+192,university system,3,general,unknown,culturebank,1
+193,self-service,4,general,unknown,culturebank,1
+194,taking time to eat,4,general,unknown,culturebank,1
+195,fast food restaurants,2,general,unknown,culturebank,1
+196,adapt to the presence and absence of streetlights,2,general,unknown,culturebank,1
+197,college,4,united states,unknown,culturebank,1
+198,university,2,general,unknown,culturebank,1
+199,having and raising babies,2,general,unknown,culturebank,1
+200,ear piercing,3,general,unknown,culturebank,1
+201,california,3,general,unknown,culturebank,2
+202,obtain a driver's license,2,general,unknown,culturebank,1
+203,proper waste disposal,4,united states,unknown,culturebank,1
+204,trash cans,3,united states,unknown,culturebank,1
+205,trash pickup,2,general,unknown,culturebank,1
+206,high crime rates,2,general,unknown,culturebank,1
+207,notable decline in recent years,2,general,unknown,culturebank,1
+208,flexible work schedules,4,general,unknown,culturebank,1
+209,workplace,2,general,unknown,culturebank,1
+210,efficient driving,4,general,unknown,culturebank,1
+211,safe driving,4,general,unknown,culturebank,1
+212,driving,2,general,unknown,culturebank,1
+213,transport dogs,2,general,unknown,culturebank,1
+214,transport dogs in various ways,2,general,unknown,culturebank,1
+215,cages,2,general,unknown,culturebank,1
+216,truck beds,2,general,unknown,culturebank,1
+217,europe,4,general,unknown,culturebank,1
+218,american-style customer service,4,united states,unknown,culturebank,1
+219,"friendly, helpful, and sometimes overwhelming service",2,general,unknown,culturebank,1
+220,morning work hours,4,general,unknown,culturebank,1
+221,late night work hours,4,general,unknown,culturebank,1
+222,financial stability and success,2,general,unknown,culturebank,1
+223,build and maintain houses,2,general,unknown,culturebank,1
+224,thriftiness,4,united states,unknown,culturebank,1
+225,visit and own museums,3,general,unknown,culturebank,1
+226,practice,4,general,unknown,culturebank,1
+227,water conservation,2,general,unknown,culturebank,1
+228,hospitals,3,general,unknown,culturebank,1
+229,workplaces,3,general,unknown,culturebank,1
+230,use a combination of 12-hour and 24-hour clock systems,2,general,unknown,culturebank,1
+231,military,4,united states,unknown,culturebank,1
+232,join,2,general,unknown,culturebank,1
+233,rank,2,general,unknown,culturebank,1
+234,serve,2,general,unknown,culturebank,1
+235,paying first,4,united states,unknown,culturebank,1
+236,paying after,4,united states,unknown,culturebank,1
+237,gun violence,2,general,unknown,culturebank,1
+238,employers,3,general,unknown,culturebank,1
+239,employees,3,general,unknown,culturebank,1
+240,employers offer paid holidays and flexible vacation time,2,general,unknown,culturebank,1
+241,employees expect not to be contacted during off work hours,2,general,unknown,culturebank,1
+242,right turn,4,general,unknown,culturebank,1
+243,left turn,4,general,unknown,culturebank,1
+244,specific states,2,general,unknown,culturebank,1
+245,general,3,general,unknown,culturebank,1
+246,4th of july,2,general,unknown,culturebank,1
+247,discuss and describe the weather,2,general,unknown,culturebank,1
+248,engagement,4,general,unknown,culturebank,1
+249,communication,3,general,unknown,culturebank,1
+250,open communication,2,general,unknown,culturebank,1
+251,asking questions,2,general,unknown,culturebank,1
+252,providing information,2,general,unknown,culturebank,1
+253,receive medical treatment,2,general,unknown,culturebank,1
+254,large meal portions,2,general,unknown,culturebank,1
+255,meal deals,2,general,unknown,culturebank,1
+256,efficient eating habits,2,general,unknown,culturebank,1
+257,adapt to and learn cultural norms,2,general,unknown,culturebank,1
+258,warm culture,4,general,unknown,culturebank,2
+259,usa,2,general,unknown,culturebank,1
+260,australia,2,general,unknown,culturebank,1
+261,doggy bags,3,general,unknown,culturebank,1
+262,walk,4,united states,unknown,culturebank,1
+263,drive,4,united states,unknown,culturebank,1
+264,south,3,general,unknown,culturebank,1
+265,michigan,3,general,unknown,culturebank,1
+266,north carolina,3,general,unknown,culturebank,1
+267,"be friendly, socialize, and make friends",2,general,unknown,culturebank,1
+268,recycling,4,united states,unknown,culturebank,1
+269,sing,4,general,unknown,culturebank,1
+270,recite,4,general,unknown,culturebank,1
+271,national anthem,2,general,unknown,culturebank,1
+272,waiters,3,service industry,unknown,culturebank,1
+273,"waiters working for low hourly wages, relying on tips for a living wage",2,general,unknown,culturebank,1
+274,adhere,4,general,unknown,culturebank,1
+275,doors are seen as safer than guns and are used in films,2,general,unknown,culturebank,1
+276,arrive late,4,general,unknown,culturebank,1
+277,trick-or-treating,4,general,unknown,culturebank,1
+278,giving and receiving candy,4,general,unknown,culturebank,1
+279,halloween,2,general,unknown,culturebank,1
+280,safety and well-being,2,general,unknown,culturebank,1
+281,public spaces,4,general,unknown,culturebank,1
+282,watching,4,united states,unknown,culturebank,1
+283,discussing,4,united states,unknown,culturebank,1
+284,watch and discuss true crime documentaries,2,general,unknown,culturebank,1
+285,stop signs,3,general,unknown,culturebank,1
+286,traffic regulations,4,general,unknown,culturebank,1
+287,handle,4,united states,unknown,culturebank,1
+288,store,4,united states,unknown,culturebank,1
+289,scatter,4,united states,unknown,culturebank,1
+290,marriage,3,united states,unknown,culturebank,1
+291,cupid shuffle,4,general,unknown,culturebank,1
+292,parties,3,general,unknown,culturebank,1
+293,watching sports broadcasts,4,dz,unknown,blend,1
+294,maternity leave,4,dz,unknown,blend,1
+295,paternity leave,4,dz,unknown,blend,1
+296,family size,2,dz,unknown,blend,2
+297,students,3,dz,unknown,blend,1
+298,learning second language,2,dz,unknown,blend,1
+299,private education,4,algeria,unknown,blend,1
+300,education,3,algeria,unknown,blend,1
+301,algeria,2,dz,unknown,blend,7
+302,musical instrument,3,dz,unknown,blend,1
+303,summer vacations,4,dz,unknown,blend,1
+304,elementary schools,3,dz,unknown,blend,1
+305,marriage leave,4,algeria,unknown,blend,1
+306,occupation,4,dz,unknown,blend,1
+307,people,3,dz,unknown,blend,1
+308,skiing,4,dz,unknown,blend,1
+309,young people,4,dz,unknown,blend,1
+310,family,4,dz,unknown,blend,2
+311,communicating remotely,2,dz,unknown,blend,1
+312,university,4,dz,unknown,blend,1
+313,courses,2,dz,unknown,blend,1
+314,back garden,3,dz,unknown,blend,1
+315,houses,4,dz,unknown,blend,1
+316,family name,2,dz,unknown,blend,1
+317,islam,4,algeria,unknown,blend,1
+318,team-building activities,4,dz,unknown,blend,1
+319,companies,4,dz,unknown,blend,1
+320,side job,4,dz,unknown,blend,1
+321,living together in a household with multiple generations,2,dz,unknown,blend,1
+322,after school curricular,4,dz,unknown,blend,1
+323,elementary schools,4,dz,unknown,blend,1
+324,families,3,dz,unknown,blend,1
+325,religious activities,2,dz,unknown,blend,1
+326,seniors,4,dz,unknown,blend,1
+327,parks,3,dz,unknown,blend,1
+328,mountainous areas,4,dz,unknown,blend,1
+329,coastal areas,3,dz,unknown,blend,1
+330,people,4,dz,unknown,blend,1
+331,age of starting work,2,dz,unknown,blend,1
+332,age,4,dz,unknown,blend,1
+333,marriage,4,algeria,unknown,blend,2
+334,tech workers and start ups,4,dz,unknown,blend,1
+335,independence,4,algeria,unknown,blend,1
+336,nurse,3,nurse,unknown,candle,1
+337,doctor,4,nurse,unknown,candle,1
+338,dentist,4,occupations,unknown,candle,2
+339,dry socket irrigation and wound dressing,2,dentist,unknown,candle,1
+340,visit,3,action,unknown,candle,2
+341,check,2,action,unknown,candle,1
+342,attorney,4,occupation,unknown,candle,1
+343,pound fellows receptions,3,event,unknown,candle,1

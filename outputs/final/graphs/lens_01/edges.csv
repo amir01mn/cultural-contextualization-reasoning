@@ -1,0 +1,163 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,1,leila,work,performs,1,arabculture
+1,3,work,recreation activities,performed during,1,arabculture
+4,5,الحفلات الجزائرية,آلة باليد,performed during,1,arabculture
+7,6,songs,national independence celebrations,performed during,1,arabculture
+9,10,algeria,first moharram,performs,1,arabculture
+11,12,raqs,western algeria,performed during,1,arabculture
+14,15,zawaj,irqu3 zawaj awwalam wa7adaw,performs,1,arabculture
+16,18,men,wedding ceremony,performed during,1,arabculture
+17,18,women,wedding ceremony,performed during,1,arabculture
+19,20,rhythmic dance,wedding celebration,performed during,1,arabculture
+22,21,eid prayer,prayer,performed during,1,arabculture
+23,24,children,eid,performed during,1,arabculture
+25,24,money,eid,given during,1,arabculture
+26,24,toys,eid,bought during,1,arabculture
+28,27,eid al-adha,yesterday,performed during,1,arabculture
+30,29,mother's day,march,performed during,1,arabculture
+31,33,after school,playing,performed during,1,arabculture
+23,33,children,playing,performs,1,arabculture
+35,34,kafn,burial,used during,1,arabculture
+36,34,woman,burial,performed during,1,arabculture
+38,37,welcome,uzail,performed during,1,arabculture
+39,41,mother,helping children with homework,performs,1,arabculture
+42,43,abn al-`um,playing and fun,performs,1,arabculture
+13,44,wedding,music,performed during,1,arabculture
+46,45,أصحاب إيمان,عرس,performed during,1,arabculture
+45,48,عرس,عرس أحمد,performed during,1,arabculture
+49,24,salah,eid,performed during,1,arabculture
+50,51,asr,aid al-adha,performed during,1,arabculture
+53,52,grandmother,festival,gives during,1,arabculture
+55,54,imam,eid al-fitr,performs,1,arabculture
+57,56,family,sixth of october,performed during,1,arabculture
+60,62,venkatagiri cotton,intricate designs,features,1,diwali
+63,61,ryndia,diwali,performed during,1,diwali
+65,64,dhara,ceremonial occasion,worn during,1,diwali
+66,61,puan,diwali,features,1,diwali
+67,61,berhampuri patta,diwali,used to adorn deities in temples during,1,diwali
+68,69,khes,bedcover or blanket,used as,1,diwali
+72,70,salem silk dhoti,marriages,performed during,1,diwali
+72,71,salem silk dhoti,festivals,performed during,1,diwali
+73,74,risa sormani,transition to womanhood,marks,1,diwali
+75,61,pichhora,diwali,performed during,1,diwali
+76,61,shahtoosh shawl,diwali,performed during,1,diwali
+77,78,bhagavata mela,religious festivals,performed during,1,diwali
+80,79,bonalu dance,bonalu festival,performed during,1,diwali
+81,61,gondhal,diwali,performed during,1,diwali
+82,83,prenkhana,festivities,performed during,1,diwali
+84,61,carcari,diwali,performed during,1,diwali
+85,61,bhandika nrityam,diwali,performed during,1,diwali
+86,61,gondali,diwali,performed during,1,diwali
+87,61,yak dance,diwali,performed during,1,diwali
+89,88,daminda dance,dree festival,performed during,1,diwali
+90,91,hiirii khaniing,rituals and festivals,performed during,1,diwali
+92,61,roppi,diwali,performed during,1,diwali
+93,95,rekham pada,community gatherings,performed during,1,diwali
+96,61,chham dance,diwali,performed during,1,diwali
+97,98,bihu dance,rongali bihu festival,performed during,1,diwali
+100,99,bagurumba,bwisagu,performed during,1,diwali
+101,61,deodhani dance,diwali,performed during,1,diwali
+102,103,ali ai ligang dance,sowing festival,performed during,1,diwali
+104,105,rabha dance,community celebrations,performed during,1,diwali
+106,61,kherai dance,diwali,performed during,1,diwali
+107,61,chakhela dance,diwali,performed during,1,diwali
+108,109,wangala dance,post-harvest season,performed during,1,diwali
+110,61,dhuliya,diwali,performed during,1,diwali
+111,61,bhawariya,diwali,performed during,1,diwali
+113,114,banjar kekan,chomangkan festival,performed during,2,diwali
+115,116,ka shad inglong kardom,rituals,performed during,2,diwali
+117,118,nimso kerung,ali ai ligang festival,performed during,2,diwali
+119,61,ras leela,diwali,performed during,2,diwali
+121,120,phalguni dance,spring,performed during,1,diwali
+122,61,dhuliya dance,diwali,performed during,2,diwali
+123,124,nagara naam,religious gatherings,performed during,2,diwali
+126,125,chomangkan dance,death rituals,performed during,2,diwali
+127,71,sonowal kachari dance,festivals,performed during,1,diwali
+128,129,deori bihu dance,harvest season,performed during,2,diwali
+130,131,dhuliya gayan-bayan,religious ceremonies,performed during,2,diwali
+132,78,dhuliya bhaona,religious festivals,performed during,2,diwali
+134,135,bathow puja dance,bathow festival,performed during,2,diwali
+136,61,garja dance,diwali,performed during,2,diwali
+137,138,baishagu dance,baishagu festival,performed during,2,diwali
+139,140,thapona dance,religious rituals,performed during,1,diwali
+141,61,karbi dance,diwali,performed during,1,diwali
+121,145,phalguni dance,springtime,performed during,1,diwali
+127,61,sonowal kachari dance,diwali,performed during,1,diwali
+139,61,thapona dance,diwali,performed during,1,diwali
+148,149,dhuliya ojapali,religious events,performed during,1,diwali
+150,61,jat-jatin,diwali,performed during,1,diwali
+151,152,jhijhiya,dussehra,performed during,1,diwali
+153,154,domkach,weddings,performed during,1,diwali
+155,156,fagua,holi,performed during,1,diwali
+157,61,jhumar,diwali,performed during,1,diwali
+159,158,tribal dance,karam festival,performed during,1,diwali
+161,160,sohar-khilona,childbirth,performed during,1,diwali
+162,61,jumari,diwali,performed during,1,diwali
+164,163,kajri,monsoon,performed during,1,diwali
+165,61,natua,diwali,performed during,1,diwali
+166,61,dhobi naach,diwali,performed during,1,diwali
+167,91,gond naach,rituals and festivals,performed during,1,diwali
+169,163,more morni,monsoon,performed during,1,diwali
+170,13,kathghorwa naach,wedding,performed during,1,diwali
+171,156,bamar naach,holi,performed during,1,diwali
+172,61,bidapad naach,diwali,performed during,1,diwali
+174,173,sohrai naach,sohrai,performed during,1,diwali
+176,129,kishan nritya,harvest season,performed during,1,diwali
+177,178,panthi dance,maghi purnima,performed during,1,diwali
+179,61,raut nacha,diwali,performed during,1,diwali
+181,180,karma dance,karma festival,performed during,1,diwali
+182,61,pandavani,diwali,performed during,1,diwali
+183,184,suwa dance,goura marriage celebrations,performed during,1,diwali
+185,61,saila dance,diwali,performed during,1,diwali
+186,61,kaksar dance,diwali,performed during,1,diwali
+188,187,chaitra dance,chaitra month,performed during,1,diwali
+189,95,bhatra naat,community gatherings,performed during,1,diwali
+191,61,raai dance,diwali,performed during,1,diwali
+192,61,maao-pata dance,diwali,performed during,1,diwali
+193,61,mandari dance,diwali,performed during,1,diwali
+195,154,jhumar dance,weddings,performed during,1,diwali
+195,194,jhumar dance,festive occasions,performed during,1,diwali
+196,197,bilma dance,community events,performed during,1,diwali
+198,61,bharthari dance,diwali,performed during,1,diwali
+199,61,chandaini dance,diwali,performed during,1,diwali
+200,61,danda nacha,diwali,performed during,1,diwali
+201,156,ger dance,holi,performed during,1,diwali
+202,120,thadiya dance,spring,performed during,1,diwali
+204,205,dhankul dance,worship ceremonies,performed during,1,diwali
+207,206,phag dance,phagun month,performed during,1,diwali
+208,154,reena dance,weddings,performed during,1,diwali
+211,210,garba dance,navratri,performed during,1,diwali
+212,163,jharpat dance,monsoon,performed during,1,diwali
+213,61,leja dance,diwali,performed during,1,diwali
+214,61,murga nacha,diwali,performed during,1,diwali
+215,61,rai dance,diwali,performed during,1,diwali
+216,13,rina dance,wedding,performed during,1,diwali
+217,61,vasdeva dance,diwali,performed during,1,diwali
+218,61,yadav nacha,diwali,performed during,1,diwali
+220,219,fugdi,ganesh chaturthi,performed during,1,diwali
+221,61,dhalo,diwali,performed during,1,diwali
+222,61,corridinho,diwali,performed during,1,diwali
+224,223,lamp dance,shigmo,performed during,1,diwali
+225,131,veerbhadra,religious ceremonies,performed during,1,diwali
+226,61,romat,diwali,performed during,1,diwali
+227,163,morulem,monsoon,performed during,1,diwali
+228,131,bhandap,religious ceremonies,performed during,1,diwali
+229,61,tonya mel,diwali,performed during,1,diwali
+230,131,suvari,religious ceremonies,performed during,1,diwali
+232,233,parenting and discipline,teaching discipline,performed during,1,culturebank
+234,235,united states,amber alerts,utilize,1,culturebank
+235,234,amber alerts,united states,performed during,1,culturebank
+236,237,4th of july,independence day,celebrates,1,culturebank
+239,240,public and private spaces,personal belongings,leave personal belongings unattended in,1,culturebank
+241,234,pursuit of happiness,united states,performed during,1,culturebank
+242,234,expressing emotions,united states,performed during,1,culturebank
+244,9,new year's day,algeria,performed during,1,blend
+245,9,christmas,algeria,performed during,1,blend
+9,246,algeria,day of the year,performs,1,blend
+247,248,banker,ask for introductions,practices,1,candle
+247,249,banker,pay,performed during,1,candle
+251,252,nurses' week,hospital-wide celebration,performed during,1,candle
+253,254,wedding ride,beach,performed during,1,candle
+255,256,pre-performance,ritual,performed during,1,candle
+257,258,exorcism,negligent homicide case,performed during,1,candle
+259,260,closing,closing attorney,performed during,1,candle

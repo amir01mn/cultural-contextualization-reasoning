@@ -1,3 +1,124 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-3,1,united states,tipping,engage in,1,culturebank
-3,2,united states,tipping customs,engage in,1,culturebank
+1,2,algeria,iftar,engage in,1,arabculture
+1,3,algeria,mولد النبوي الشريف,engage in,1,arabculture
+4,5,algerians,family outings,engage in,1,arabculture
+1,6,algeria,burial customs,engage in,1,arabculture
+7,9,pochampally ikat,weaving technique,engages in,1,diwali
+10,11,andhra pradesh,mangalagiri cotton,engages in,1,diwali
+10,13,andhra pradesh,producing dharmavaram silk,engage in,1,diwali
+14,8,jharkhand,diwali,engage in,1,diwali
+15,16,uttarakhand,silk weaving,engages in,1,diwali
+17,18,ladakh,tsul,engages in,1,diwali
+19,20,goa,dekhnin,engage in,1,diwali
+19,21,goa,talgadi,engage in,1,diwali
+24,22,united states,tipping,engage in,1,culturebank
+24,23,united states,tipping customs,engage in,1,culturebank
+24,26,united states,alcohol consumption,engage in,1,culturebank
+24,27,united states,diverse cultural practices,engage in,1,culturebank
+24,28,united states,consume and prefer beer,engage in,1,culturebank
+24,29,united states,complex healthcare system,engage in,1,culturebank
+24,30,united states,complex taxation practices,engage in,2,culturebank
+31,32,spain,child-rearing activities,engage in,1,culturebank
+24,32,united states,child-rearing activities,engage in,1,culturebank
+24,33,united states,raising,engage in,1,culturebank
+24,34,united states,close relationships,engage in,1,culturebank
+24,35,united states,lending,engage in,1,culturebank
+24,36,united states,smoking,engage in,1,culturebank
+37,26,public,alcohol consumption,engage in,1,culturebank
+24,40,united states,living experiences,engage in,1,culturebank
+39,40,abroad,living experiences,engage in,1,culturebank
+41,42,easter,gift baskets,engage in,1,culturebank
+41,43,easter,traditional food,engage in,1,culturebank
+41,44,easter,egg hunts,engage in,1,culturebank
+46,45,moving within and to/from the united states,relocation,engage in,1,culturebank
+24,47,united states,walking,engage in,1,culturebank
+24,48,united states,friendly behaviors,engage in,1,culturebank
+49,50,pledge,daily ritual,engage in,1,culturebank
+51,24,greetings,united states,engage in,1,culturebank
+52,51,hello,greetings,engages in,1,culturebank
+53,51,hi,greetings,engages in,1,culturebank
+54,55,school,fast-paced meal consumption,engage in,1,culturebank
+56,57,general,microwave,engage in,1,culturebank
+59,58,social interactions,staring,engage in,1,culturebank
+60,61,dating,marriage,engage in,2,culturebank
+60,62,dating,kissing,engage in,1,culturebank
+60,63,dating,committed relationship,engage in,1,culturebank
+24,65,united states,various tea-related practices,engage in,1,culturebank
+24,66,united states,faster preparation methods,prefer,1,culturebank
+64,65,europe,various tea-related practices,engage in,1,culturebank
+24,67,united states,long-term relationships,engage in,1,culturebank
+24,68,united states,cohabitating,engage in,1,culturebank
+24,69,united states,delaying marriage,engage in,1,culturebank
+24,70,united states,marriage is legally required but not always seen as necessary for commitment,engage in,1,culturebank
+24,72,united states,various activities,engage in,1,culturebank
+73,74,shopping,purchasing pharmacy items,engage in,1,culturebank
+73,75,shopping,beer,engage in,1,culturebank
+73,76,shopping,goods,engage in,1,culturebank
+24,77,united states,daily grooming rituals,engage in,1,culturebank
+78,56,driving behaviors,general,engage in,1,culturebank
+24,81,united states,travel,engage in,1,culturebank
+82,83,schools,"structured and unstructured breaks including recess, lunch, and electives",engage in,1,culturebank
+84,86,edinburgh,purchasing and consuming american candy,engage in,1,culturebank
+24,87,united states,hard work,engage in,1,culturebank
+24,89,united states,prioritize work over personal life,engage in,1,culturebank
+90,91,america,"activities, practices, and tasks",engage in,1,culturebank
+24,92,united states,wine consumption,engage in,1,culturebank
+93,94,barefoot,driving,engage in,1,culturebank
+24,95,united states,humor,engage in,1,culturebank
+56,97,general,parenting and discipline,engage in,1,culturebank
+99,98,clubs,nightlife activities,engage in,1,culturebank
+100,62,public displays of affection,kissing,engage in,1,culturebank
+24,102,united states,parties,engage in,1,culturebank
+24,104,united states,grape consumption and purchasing,engage in,1,culturebank
+24,105,united states,"discussions about race, ethnicity, and nationality",engage in,1,culturebank
+24,107,united states,customs procedures,engage in,1,culturebank
+106,107,immigration,customs procedures,engage in,1,culturebank
+24,108,united states,building,engage in,1,culturebank
+56,111,general,visiting beaches,engage in,1,culturebank
+56,113,general,visiting national parks,engage in,1,culturebank
+115,114,college and university settings,party culture,engage in,1,culturebank
+24,116,united states,consumption of salad,engage in,1,culturebank
+117,118,american,diners,engage in,1,culturebank
+24,119,united states,drug use and abuse,engage in,1,culturebank
+73,121,shopping,bulk shopping,engage in,1,culturebank
+24,122,united states,name changes,engage in,1,culturebank
+24,123,united states,strategies,engage in,1,culturebank
+24,124,united states,critical discussions,engage in,1,culturebank
+24,125,united states,capitalism,engage in,1,culturebank
+126,129,living,germany,engage in,1,culturebank
+127,129,moving,germany,engage in,1,culturebank
+128,129,spending time,germany,engage in,1,culturebank
+130,132,los angeles,open and legal use of marijuana and other substances,engage in,1,culturebank
+24,133,united states,solo travel,engage in,1,culturebank
+134,135,summer,activities,engage in,1,culturebank
+136,56,direct communication,general,engage in,1,culturebank
+137,56,explicit communication,general,engage in,1,culturebank
+24,138,united states,inquiry and questioning,engage in,1,culturebank
+139,24,theft,united states,engage in,1,culturebank
+24,140,united states,discussions and expectations around fair and higher wages,engage in,1,culturebank
+24,143,united states,shop at target for groceries and other goods,engage in,1,culturebank
+24,144,united states,engaging with videos,engage in,1,culturebank
+60,8,dating,diwali,engage in,1,culturebank
+61,8,marriage,diwali,engage in,1,culturebank
+24,146,united states,gas stations,engage in,1,culturebank
+24,147,united states,getting haircuts,engage in,1,culturebank
+24,148,united states,paying for services,engage in,1,culturebank
+24,149,united states,seeking in-home services,engage in,1,culturebank
+151,150,parking lots,parking behaviors,engage in,1,culturebank
+151,24,parking lots,united states,considered a problem,1,culturebank
+24,152,united states,health insurance practices,engage in,1,culturebank
+153,154,california,"living, moving, and conforming to local norms",engage in,1,culturebank
+24,155,united states,gun ownership and purchase,engage in,1,culturebank
+156,158,rural areas,driving trucks,engage in,1,culturebank
+156,159,rural areas,standing in front of trucks,engage in,1,culturebank
+156,160,rural areas,riding in the bed of trucks,engage in,1,culturebank
+24,161,united states,"naming practices involving banned, unusual, and controversial names",engage in,1,culturebank
+24,162,united states,good news broadcasts,engage in,1,culturebank
+24,163,united states,consume news with varying levels of bias and entertainment,engage in,1,culturebank
+164,166,teacher,help them learn a new language,engage in,1,candle
+167,168,politician,polling,engage in,1,candle
+169,170,attorney,closing,engage in,1,candle
+169,172,attorney,questioning witness,engage in,1,candle
+169,173,attorney,closing arguments,engage in,1,candle
+169,174,attorney,mediation,engage in,1,candle
+169,175,attorney,make decisions,engage in,1,candle

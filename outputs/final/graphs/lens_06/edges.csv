@@ -1,0 +1,40 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,cleaning,diwali,involves cleaning,1,arabculture
+3,1,yasmine,cleaning,involves cleaning,1,arabculture
+4,5,family,household chores,involves cleaning,1,arabculture
+6,7,ab,家务,involves cleaning,1,arabculture
+8,4,ax,family,involves helping,1,arabculture
+10,11,things,burial,involves cleaning,1,arabculture
+1,12,cleaning,nile valley,involves cleaning,1,arabculture
+1,13,cleaning,egypt,involves cleaning,1,arabculture
+14,15,tumbling,week,involves cleaning,1,arabculture
+1,16,cleaning,bathroom,involves cleaning,1,arabculture
+17,1,mroh,cleaning,involves cleaning,1,arabculture
+7,20,家务,家具打蜡,involves cleaning,1,arabculture
+21,22,washing,clothes,involves cleaning,1,arabculture
+24,25,kalamkari,hand-painting,involves,1,diwali
+24,26,kalamkari,block-printing,involves,1,diwali
+27,28,tangaliya,creating patterns of raised dots,involves creating,1,diwali
+30,29,bagru block print,carving designs,involves,1,diwali
+31,35,selecting,nicobari pandanus mats,involves,1,diwali
+1,35,cleaning,nicobari pandanus mats,involves,1,diwali
+32,35,sun-drying,nicobari pandanus mats,involves,1,diwali
+33,35,splitting,nicobari pandanus mats,involves,1,diwali
+34,36,weaving,chatrai or hileuoi,involves,1,diwali
+37,38,saila dance,young boys,involves,1,diwali
+39,40,nach madai,dance,involves,1,diwali
+41,42,lamp dance,balancing brass lamps,involves,1,diwali
+43,44,bhandap,rhythmic movements,involves,1,diwali
+45,46,tonya mel,group formations,involves,1,diwali
+47,49,work-life balance,united states,strive for work-life balance,1,culturebank
+49,48,united states,overwork,express dissatisfaction with overwork,1,culturebank
+51,50,wedding,performing specific roles,involves,1,culturebank
+52,53,seek medical care,provide medical care,involves,1,culturebank
+49,56,united states,putting dogs in the back of trucks,involves,1,culturebank
+58,57,eating with hands,cleanliness and manners,involves,1,culturebank
+59,60,sundays,relaxation and religious observance,involves,1,culturebank
+62,61,restaurant,waitstaff,involves,1,culturebank
+63,64,judge,training,involves,1,candle
+64,65,training,ipodog,includes,1,candle
+66,67,copywriter,carefully deal with the topic,involves,1,candle
+68,69,attorney,reviewing and approving leases,involves,1,candle

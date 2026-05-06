@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 900px;
+                 background-color: #1a1a2e;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#1a1aff", "font": {"color": "white"}, "id": 0, "label": "human", "shape": "dot", "size": 40, "title": "\u003cb\u003ehuman\u003c/b\u003e\u003cbr\u003eLevel: 0 (Root)\u003cbr\u003eGroup: universal\u003cbr\u003eDomain: identity\u003cbr\u003eSource: schema\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 1, "label": "gamosa", "shape": "dot", "size": 14, "title": "\u003cb\u003egamosa\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 2, "label": "assamese culture", "shape": "dot", "size": 14, "title": "\u003cb\u003eassamese culture\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 3, "label": "kullu cap", "shape": "dot", "size": 14, "title": "\u003cb\u003ekullu cap\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: himachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 4, "label": "rich cultural identity", "shape": "dot", "size": 14, "title": "\u003cb\u003erich cultural identity\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: himachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 5, "label": "triangular motifs", "shape": "dot", "size": 10, "title": "\u003cb\u003etriangular motifs\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: manipur\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 6, "label": "teeth of the pakhangba serpent", "shape": "dot", "size": 14, "title": "\u003cb\u003eteeth of the pakhangba serpent\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: manipur\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 7, "label": "tawlhlohpuan", "shape": "dot", "size": 10, "title": "\u003cb\u003etawlhlohpuan\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: mizoram\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 8, "label": "strength", "shape": "dot", "size": 14, "title": "\u003cb\u003estrength\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: mizoram\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 9, "label": "cowrie shells", "shape": "dot", "size": 14, "title": "\u003cb\u003ecowrie shells\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: nagaland\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 10, "label": "accomplishments and status", "shape": "dot", "size": 14, "title": "\u003cb\u003eaccomplishments and status\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: nagaland\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 11, "label": "motifs", "shape": "dot", "size": 14, "title": "\u003cb\u003emotifs\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: uttarakhand\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 12, "label": "cultural and religious signifi\u2026", "shape": "dot", "size": 14, "title": "\u003cb\u003ecultural and religious significance\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: uttarakhand\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 13, "label": "danda rasaka", "shape": "dot", "size": 10, "title": "\u003cb\u003edanda rasaka\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: andhra pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 14, "label": "martial traditions", "shape": "dot", "size": 14, "title": "\u003cb\u003emartial traditions\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: andhra pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 15, "label": "wancho dance", "shape": "dot", "size": 14, "title": "\u003cb\u003ewancho dance\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: arunachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 16, "label": "unity", "shape": "dot", "size": 14, "title": "\u003cb\u003eunity\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: arunachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 17, "label": "mask", "shape": "dot", "size": 14, "title": "\u003cb\u003emask\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: arunachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 18, "label": "ritual", "shape": "dot", "size": 14, "title": "\u003cb\u003eritual\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: arunachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 19, "label": "chham dance", "shape": "dot", "size": 20, "title": "\u003cb\u003echham dance\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: arunachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 20, "label": "hurkan dance", "shape": "dot", "size": 14, "title": "\u003cb\u003ehurkan dance\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: arunachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 21, "label": "joy and unity", "shape": "dot", "size": 14, "title": "\u003cb\u003ejoy and unity\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: arunachal pradesh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 22, "label": "banjar kekan", "shape": "dot", "size": 14, "title": "\u003cb\u003ebanjar kekan\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 2"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 23, "label": "community bonding", "shape": "dot", "size": 14, "title": "\u003cb\u003ecommunity bonding\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 2"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 24, "label": "prosperity", "shape": "dot", "size": 14, "title": "\u003cb\u003eprosperity\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: bihar\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 25, "label": "karma", "shape": "dot", "size": 20, "title": "\u003cb\u003ekarma\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: bihar\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 26, "label": "fertility", "shape": "dot", "size": 14, "title": "\u003cb\u003efertility\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: chhattisgarh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 27, "label": "karma dance", "shape": "dot", "size": 10, "title": "\u003cb\u003ekarma dance\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: chhattisgarh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 28, "label": "danda nacha", "shape": "dot", "size": 14, "title": "\u003cb\u003edanda nacha\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: chhattisgarh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 29, "label": "devotion", "shape": "dot", "size": 10, "title": "\u003cb\u003edevotion\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: chhattisgarh\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 30, "label": "goff", "shape": "dot", "size": 14, "title": "\u003cb\u003egoff\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: goa\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 31, "label": "discipline", "shape": "dot", "size": 14, "title": "\u003cb\u003ediscipline\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: goa\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 32, "label": "pledge", "shape": "dot", "size": 10, "title": "\u003cb\u003epledge\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 33, "label": "patriotism", "shape": "dot", "size": 20, "title": "\u003cb\u003epatriotism\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 34, "label": "engagement ring", "shape": "dot", "size": 14, "title": "\u003cb\u003eengagement ring\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: united states\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 35, "label": "wedding ring", "shape": "dot", "size": 14, "title": "\u003cb\u003ewedding ring\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: united states\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 36, "label": "ownership and commitment", "shape": "dot", "size": 20, "title": "\u003cb\u003eownership and commitment\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 37, "label": "marriage", "shape": "dot", "size": 20, "title": "\u003cb\u003emarriage\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 38, "label": "health insurance", "shape": "dot", "size": 10, "title": "\u003cb\u003ehealth insurance\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 39, "label": "affordability", "shape": "dot", "size": 14, "title": "\u003cb\u003eaffordability\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 40, "label": "trucks", "shape": "dot", "size": 14, "title": "\u003cb\u003etrucks\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: united states\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 41, "label": "cultural symbol", "shape": "dot", "size": 20, "title": "\u003cb\u003ecultural symbol\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 42, "label": "symbol", "shape": "dot", "size": 14, "title": "\u003cb\u003esymbol\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: dz\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: blend\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 43, "label": "funeral", "shape": "dot", "size": 10, "title": "\u003cb\u003efuneral\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: dz\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: blend\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 44, "label": "new year\u0027s eve", "shape": "dot", "size": 10, "title": "\u003cb\u003enew year\u0027s eve\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: dz\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: blend\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 45, "label": "symbol", "shape": "dot", "size": 20, "title": "\u003cb\u003esymbol\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: dz\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: blend\u003cbr\u003eFrequency: 1"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": 1, "label": "", "title": "symbolizes", "to": 2, "width": 0.5}, {"arrows": "to", "from": 3, "label": "", "title": "symbolizes", "to": 4, "width": 0.5}, {"arrows": "to", "from": 5, "label": "", "title": "symbolizes", "to": 6, "width": 0.5}, {"arrows": "to", "from": 7, "label": "", "title": "symbolizes", "to": 8, "width": 0.5}, {"arrows": "to", "from": 9, "label": "", "title": "symbolizes", "to": 10, "width": 0.5}, {"arrows": "to", "from": 11, "label": "", "title": "symbolizes", "to": 12, "width": 0.5}, {"arrows": "to", "from": 13, "label": "", "title": "symbolizes", "to": 14, "width": 0.5}, {"arrows": "to", "from": 15, "label": "", "title": "symbolizes", "to": 16, "width": 0.5}, {"arrows": "to", "from": 19, "label": "", "title": "symbolizes", "to": 17, "width": 0.5}, {"arrows": "to", "from": 20, "label": "", "title": "symbolizes", "to": 21, "width": 0.5}, {"arrows": "to", "from": 22, "label": "", "title": "symbolizes", "to": 23, "width": 1.0}, {"arrows": "to", "from": 25, "label": "", "title": "symbolizes", "to": 24, "width": 0.5}, {"arrows": "to", "from": 27, "label": "", "title": "symbolizes", "to": 26, "width": 0.5}, {"arrows": "to", "from": 28, "label": "", "title": "symbolizes", "to": 29, "width": 0.5}, {"arrows": "to", "from": 30, "label": "", "title": "symbolizes", "to": 31, "width": 0.5}, {"arrows": "to", "from": 32, "label": "", "title": "symbolizes", "to": 33, "width": 0.5}, {"arrows": "to", "from": 34, "label": "", "title": "symbolizes", "to": 36, "width": 0.5}, {"arrows": "to", "from": 35, "label": "", "title": "symbolizes", "to": 37, "width": 0.5}, {"arrows": "to", "from": 38, "label": "", "title": "symbolizes", "to": 39, "width": 0.5}, {"arrows": "to", "from": 40, "label": "", "title": "symbolizes", "to": 41, "width": 0.5}, {"arrows": "to", "from": 42, "label": "", "title": "symbolizes", "to": 43, "width": 0.5}, {"arrows": "to", "from": 42, "label": "", "title": "symbolizes", "to": 44, "width": 0.5}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"physics": {"barnesHut": {"gravitationalConstant": -8000, "centralGravity": 0.3, "springLength": 120}, "minVelocity": 0.75}, "edges": {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": {"opacity": 0.5}, "width": 0.8}, "interaction": {"hover": true, "tooltipDelay": 100}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

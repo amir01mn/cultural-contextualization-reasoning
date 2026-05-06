@@ -1,0 +1,4871 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "dance",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "bags",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "mahr",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "gold set",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "gifts",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "brass瓶",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "savings罐",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "naila",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "game",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 10,
+      "label": "children",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 11,
+      "label": "salamander and snake",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "playing",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "four men",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "nile valley",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "burial practices",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "venkatagiri cotton",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "sarees and salwar suits",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "kalamkari",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "srikalahasti style",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "machilipatnam style",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "gale",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "adi women",
+      "level": 4,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "geometric patterns",
+      "level": 2,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 24,
+      "label": "elements of nature and tribal folklore",
+      "level": 2,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "minyong",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "adi community",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "monpa woolen weave",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "tawang district",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "tangsa lungis",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "tangsa bags",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "distinct patterns and colors",
+      "level": 2,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "wancho bag",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 18
+    },
+    {
+      "id": 34,
+      "label": "unique designs",
+      "level": 2,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "cultural motifs",
+      "level": 2,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "mekhela chador",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "mekhela",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "chador",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "riha",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "mekhela",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "traditional three-piece attire worn by assamese women",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "miri jimo",
+      "level": 3,
+      "cultural_group": "misng tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "textile",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "distinctive patterns",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "madhubani painting",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "intricate designs",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "alacha fabric",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "dupatta",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "veil",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "chaapa sarees",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "chaapa",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "bawan buti weave",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "motifs",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 54,
+      "label": "bastar tribal weaves",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "motifs",
+      "level": 4,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 5
+    },
+    {
+      "id": 56,
+      "label": "pata weaving",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "dhabla",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "geometric designs",
+      "level": 4,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "kambal",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "dhablas",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "bagh",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 62,
+      "label": "phulkari",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 63,
+      "label": "chope",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "khes",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 65,
+      "label": "durability and warmth",
+      "level": 2,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "sohrai",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "khovar",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "intricate designs",
+      "level": 2,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 69,
+      "label": "dokra weaving",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "tribal communities",
+      "level": 4,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "intricate patterns on cotton or silk fabrics using natural dyes",
+      "level": 2,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "santhal saree cloth",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "saree",
+      "level": 4,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "traditional patterns and motifs",
+      "level": 2,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "molakalmuru saree",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "motifs",
+      "level": 2,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "fruits",
+      "level": 2,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "animals",
+      "level": 2,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "flowers",
+      "level": 2,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "chendamangalam saree",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "puliyilakara (tamarind leaf border)",
+      "level": 4,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "unique stripe patterns",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "settu mundu",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "mundum neriyathum",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "two-piece garment",
+      "level": 2,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "bagh print",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "natural dyes",
+      "level": 2,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "vibrant red and black patterns",
+      "level": 2,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "cotton fabrics",
+      "level": 2,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "silk fabrics",
+      "level": 2,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "dabu print",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "mud-resist hand-block printing technique",
+      "level": 2,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "fabric",
+      "level": 2,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "gond painting on fabric",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "himroo fabric",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "mashru fabric",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "satin finish",
+      "level": 4,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "bright stripes or patterns",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "moirang phee",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "moirang pheejin",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "leirum phee",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "textile",
+      "level": 2,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "distinctive red and black patterns on a white base",
+      "level": 2,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "shaphee lanphee",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "ryndia",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "shawls",
+      "level": 3,
+      "cultural_group": "india",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "dakmanda",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "garo women",
+      "level": 4,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "wrap-around skirt",
+      "level": 2,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "symmetrical designs",
+      "level": 2,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "thoh shiliang",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "eri silk",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "chappang",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "eri silk",
+      "level": 2,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "natural dyes and intricate weaving patterns",
+      "level": 2,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "hand-woven fabric",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "dhara",
+      "level": 2,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "puan",
+      "level": 4,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "tribal motifs",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "puanchei",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "puan",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "ngotekherh",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "angami lohe shawl",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "animal motifs",
+      "level": 4,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "chakhesang shawl",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "chakhesang naga shawl",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "ao naga cowrie apron",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "cowrie shells",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "sambalpuri ikat",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "shankha",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "chakra",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "phula",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "berhampuri patta",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "phoda kumbha design",
+      "level": 4,
+      "cultural_group": "india",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "jamdani",
+      "level": 3,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 136,
+      "label": "fine muslin textile",
+      "level": 4,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "intricate patterns",
+      "level": 3,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 138,
+      "label": "bandhani",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "tie-dye technique",
+      "level": 4,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "mothra",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "leheriya tie-dye technique",
+      "level": 4,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "kodalikaruppur saree",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "hand painting",
+      "level": 4,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "block printing",
+      "level": 4,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "brocade weaving",
+      "level": 4,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 146,
+      "label": "kora cotton saree",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "kurainadu saree",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 148,
+      "label": "geometric and floral designs",
+      "level": 4,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "pochampally ikat",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "himroo weaving",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 151,
+      "label": "rignai",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 152,
+      "label": "pattern",
+      "level": 4,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "motif",
+      "level": 4,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 154,
+      "label": "riikutu",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "risa",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "plain cloth",
+      "level": 2,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 157,
+      "label": "upper body",
+      "level": 2,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 158,
+      "label": "tuisa",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 159,
+      "label": "thulma",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 160,
+      "label": "blanket",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 161,
+      "label": "pichhora",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 162,
+      "label": "kullu shawls",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 163,
+      "label": "intricate patterns and vibrant color combinations",
+      "level": 2,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 164,
+      "label": "phool patti ka kaam",
+      "level": 4,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 165,
+      "label": "patti work",
+      "level": 3,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 166,
+      "label": "floral and leaf motifs",
+      "level": 2,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 167,
+      "label": "dhakai jamdani",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 168,
+      "label": "kantha embroidery",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 169,
+      "label": "tant sari",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 170,
+      "label": "dhaniakhali sari",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 171,
+      "label": "striped or checkered patterns",
+      "level": 4,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 172,
+      "label": "murshidabad silk",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 173,
+      "label": "hand-painted designs",
+      "level": 4,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 174,
+      "label": "block-printed designs",
+      "level": 4,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 175,
+      "label": "batik print",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 176,
+      "label": "wax-resist dyeing technique",
+      "level": 4,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 177,
+      "label": "fabric",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 178,
+      "label": "intricate designs",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 179,
+      "label": "nicobari banners",
+      "level": 3,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 180,
+      "label": "white cotton fabric",
+      "level": 4,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 181,
+      "label": "trees",
+      "level": 3,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 182,
+      "label": "sun",
+      "level": 3,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 183,
+      "label": "crescent moon",
+      "level": 3,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 184,
+      "label": "traditional nicobarese weaving",
+      "level": 4,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 185,
+      "label": "shahtoosh shawl",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 186,
+      "label": "tibetan antelope",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 187,
+      "label": "gabba",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 188,
+      "label": "kashmiri silk sarees",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 189,
+      "label": "chinar leaves",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 190,
+      "label": "paisleys",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 191,
+      "label": "kashida embroidery",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 192,
+      "label": "tsugdan",
+      "level": 3,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 193,
+      "label": "carpet",
+      "level": 4,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 194,
+      "label": "bhamakalapam",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 195,
+      "label": "theatrical dance focusing on satyabhama's tales",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 196,
+      "label": "burrakatha",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 197,
+      "label": "storytelling dance with music and narration",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 198,
+      "label": "butta bommalu",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 199,
+      "label": "folk dance",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 5
+    },
+    {
+      "id": 200,
+      "label": "tholu bommalaata",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 201,
+      "label": "shadow puppetry",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 202,
+      "label": "dappu",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 203,
+      "label": "lambadi",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 204,
+      "label": "tribal dance",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 205,
+      "label": "kolatam",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 206,
+      "label": "stick dance",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 207,
+      "label": "bhagavata mela",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 208,
+      "label": "dance-drama tradition",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 209,
+      "label": "gollakalapam",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 210,
+      "label": "kalapam",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 211,
+      "label": "dance-drama",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 212,
+      "label": "prenkhana",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 213,
+      "label": "nritya ratnavali",
+      "level": 4,
+      "cultural_group": "india",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 214,
+      "label": "ancient folk dance form",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 215,
+      "label": "kanduka nartana",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 216,
+      "label": "ball games",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 217,
+      "label": "bhandika nrityam",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 218,
+      "label": "carana nrityam",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 219,
+      "label": "foot movements",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 220,
+      "label": "gondhal",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 221,
+      "label": "ritualistic dance",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 222,
+      "label": "ball play",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 223,
+      "label": "wooden platforms",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 224,
+      "label": "gondali",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 225,
+      "label": "music and movement",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 226,
+      "label": "aji lhamu",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 227,
+      "label": "monpa folk dance",
+      "level": 4,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 228,
+      "label": "buiya dance",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 229,
+      "label": "digaru mishmi",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 230,
+      "label": "chalo dance",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 231,
+      "label": "nocte dance",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 232,
+      "label": "bagurumba",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 233,
+      "label": "natural movements",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 234,
+      "label": "deodhani dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 235,
+      "label": "snake goddess manasa",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 236,
+      "label": "apsara-sabah",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 237,
+      "label": "celestial beings",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 238,
+      "label": "ankia naat",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 239,
+      "label": "vaishnavite dance-drama",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 240,
+      "label": "beula dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 241,
+      "label": "ojapali",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 242,
+      "label": "storytelling and dance",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 243,
+      "label": "nagara naam",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 244,
+      "label": "traditional drums",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 245,
+      "label": "moridhol dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 246,
+      "label": "dance",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 247,
+      "label": "dhuliya gayan-bayan",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 248,
+      "label": "song and drum dance",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 249,
+      "label": "putola nach",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 250,
+      "label": "puppet dance-theatre",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 251,
+      "label": "farkanti dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 252,
+      "label": "tribal dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 253,
+      "label": "devotional dance",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 254,
+      "label": "jat-jatin",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 255,
+      "label": "love and sorrow",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 256,
+      "label": "jhijhiya",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 257,
+      "label": "lanterns",
+      "level": 2,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 258,
+      "label": "domkach",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 259,
+      "label": "ceremonial dance",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 260,
+      "label": "bidesia",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 261,
+      "label": "folk theatre",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 262,
+      "label": "chhau",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 263,
+      "label": "tribal martial dance",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 264,
+      "label": "more morni",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 265,
+      "label": "peacock movements",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 266,
+      "label": "wooden horse props",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 267,
+      "label": "kathghorwa naach",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 268,
+      "label": "launda naach",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 269,
+      "label": "male performers dressed as women",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 270,
+      "label": "chhau dance",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 271,
+      "label": "pandavani",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 272,
+      "label": "saila dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 273,
+      "label": "stick dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 274,
+      "label": "gendi dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 275,
+      "label": "acrobatic dance",
+      "level": 4,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 276,
+      "label": "kaksar dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 277,
+      "label": "abhujmaria tribe",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 278,
+      "label": "khamba swang",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 279,
+      "label": "folk dance",
+      "level": 2,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 280,
+      "label": "mandari dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 281,
+      "label": "rhythmic drum beats",
+      "level": 4,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 282,
+      "label": "bharthari dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 283,
+      "label": "king bharthari tales",
+      "level": 4,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 284,
+      "label": "chandaini dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 285,
+      "label": "romantic tales",
+      "level": 4,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 286,
+      "label": "murga nacha",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 287,
+      "label": "folk dance mimicking rooster movements",
+      "level": 2,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 288,
+      "label": "nach madai",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 289,
+      "label": "vasdeva dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 290,
+      "label": "mythological tales",
+      "level": 2,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 291,
+      "label": "dekhnin",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 292,
+      "label": "fugdi",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 293,
+      "label": "circular formations",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 294,
+      "label": "dhalo",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 295,
+      "label": "graceful movements",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 296,
+      "label": "dashavatara",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 297,
+      "label": "ten incarnations of lord vishnu",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 298,
+      "label": "romat",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 299,
+      "label": "group formations",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 300,
+      "label": "morulem",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 301,
+      "label": "suvari",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 302,
+      "label": "dasarawadan",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 303,
+      "label": "folk performance",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 304,
+      "label": "taxation practices",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 305,
+      "label": "federal taxes",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 306,
+      "label": "state taxes",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 307,
+      "label": "county taxes",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 308,
+      "label": "establishment taxes",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 309,
+      "label": "differences",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 310,
+      "label": "electricity bills",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 311,
+      "label": "driving habits",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 312,
+      "label": "confusion",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 313,
+      "label": "challenges",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 314,
+      "label": "relocation",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 315,
+      "label": "working through lunch",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 316,
+      "label": "taking quick or no breaks",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 317,
+      "label": "occasional hour-long breaks",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 318,
+      "label": "lunch",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 319,
+      "label": "breaks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 320,
+      "label": "hour-long breaks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 321,
+      "label": "healthcare system",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 322,
+      "label": "medical care",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 323,
+      "label": "name changes",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 324,
+      "label": "creating new surnames",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 325,
+      "label": "dealing with bureaucracy",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 326,
+      "label": "gas stations",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 327,
+      "label": "smoking",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 328,
+      "label": "purchasing items",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 329,
+      "label": "naps",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 330,
+      "label": "settings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 331,
+      "label": "socializing",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 332,
+      "label": "order and receive a desired coffee drink",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 333,
+      "label": "accessories",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 334,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 335,
+      "label": "group",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 336,
+      "label": "teachers",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "dance",
+      "target_label": "bags",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "mahr",
+      "target_label": "gold set",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "source_label": "mahr",
+      "target_label": "gifts",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 6,
+      "source_label": "savings罐",
+      "target_label": "brass瓶",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "source_label": "game",
+      "target_label": "naila",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 11,
+      "target": 9,
+      "source_label": "salamander and snake",
+      "target_label": "game",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 10,
+      "source_label": "playing",
+      "target_label": "children",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "nile valley",
+      "target_label": "burial practices",
+      "relation_type": "hosts",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "venkatagiri cotton",
+      "target_label": "sarees and salwar suits",
+      "relation_type": "used for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "kalamkari",
+      "target_label": "srikalahasti style",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "source_label": "kalamkari",
+      "target_label": "machilipatnam style",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 23,
+      "source_label": "gale",
+      "target_label": "geometric patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 24,
+      "source_label": "gale",
+      "target_label": "elements of nature and tribal folklore",
+      "relation_type": "symbolizes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "minyong",
+      "target_label": "adi community",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "monpa woolen weave",
+      "target_label": "tawang district",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 29,
+      "target": 31,
+      "source_label": "tangsa lungis",
+      "target_label": "distinct patterns and colors",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "source_label": "tangsa bags",
+      "target_label": "distinct patterns and colors",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 34,
+      "source_label": "wancho bag",
+      "target_label": "unique designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 35,
+      "source_label": "wancho bag",
+      "target_label": "cultural motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "source_label": "mekhela chador",
+      "target_label": "mekhela",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 36,
+      "target": 38,
+      "source_label": "mekhela chador",
+      "target_label": "chador",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 39,
+      "target": 41,
+      "source_label": "riha",
+      "target_label": "traditional three-piece attire worn by assamese women",
+      "relation_type": "included in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "source_label": "miri jimo",
+      "target_label": "textile",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 42,
+      "target": 44,
+      "source_label": "miri jimo",
+      "target_label": "distinctive patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "madhubani painting",
+      "target_label": "intricate designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "source_label": "alacha fabric",
+      "target_label": "dupatta",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 47,
+      "target": 49,
+      "source_label": "alacha fabric",
+      "target_label": "veil",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "source_label": "chaapa sarees",
+      "target_label": "chaapa",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 52,
+      "target": 53,
+      "source_label": "bawan buti weave",
+      "target_label": "motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 54,
+      "target": 53,
+      "source_label": "bastar tribal weaves",
+      "target_label": "motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 56,
+      "target": 53,
+      "source_label": "pata weaving",
+      "target_label": "motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "source_label": "dhabla",
+      "target_label": "geometric designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "source_label": "kambal",
+      "target_label": "dhablas",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "source_label": "bagh",
+      "target_label": "phulkari",
+      "relation_type": "includes",
+      "weight": 3,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 63,
+      "target": 62,
+      "source_label": "chope",
+      "target_label": "phulkari",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 64,
+      "target": 23,
+      "source_label": "khes",
+      "target_label": "geometric patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "source_label": "khes",
+      "target_label": "durability and warmth",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 66,
+      "target": 46,
+      "source_label": "sohrai",
+      "target_label": "intricate designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 67,
+      "target": 46,
+      "source_label": "khovar",
+      "target_label": "intricate designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 69,
+      "target": 71,
+      "source_label": "dokra weaving",
+      "target_label": "intricate patterns on cotton or silk fabrics using natural dyes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 69,
+      "target": 71,
+      "source_label": "dokra weaving",
+      "target_label": "intricate patterns on cotton or silk fabrics using natural dyes",
+      "relation_type": "involves creating",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 72,
+      "target": 74,
+      "source_label": "santhal saree cloth",
+      "target_label": "traditional patterns and motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 75,
+      "target": 77,
+      "source_label": "molakalmuru saree",
+      "target_label": "fruits",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 75,
+      "target": 78,
+      "source_label": "molakalmuru saree",
+      "target_label": "animals",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 75,
+      "target": 79,
+      "source_label": "molakalmuru saree",
+      "target_label": "flowers",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 80,
+      "target": 81,
+      "source_label": "chendamangalam saree",
+      "target_label": "puliyilakara (tamarind leaf border)",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 80,
+      "target": 82,
+      "source_label": "chendamangalam saree",
+      "target_label": "unique stripe patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 83,
+      "target": 85,
+      "source_label": "settu mundu",
+      "target_label": "two-piece garment",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 86,
+      "target": 87,
+      "source_label": "bagh print",
+      "target_label": "natural dyes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 86,
+      "target": 88,
+      "source_label": "bagh print",
+      "target_label": "vibrant red and black patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 86,
+      "target": 89,
+      "source_label": "bagh print",
+      "target_label": "cotton fabrics",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 86,
+      "target": 90,
+      "source_label": "bagh print",
+      "target_label": "silk fabrics",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 91,
+      "target": 92,
+      "source_label": "dabu print",
+      "target_label": "mud-resist hand-block printing technique",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 91,
+      "target": 93,
+      "source_label": "dabu print",
+      "target_label": "fabric",
+      "relation_type": "used to create unique patterns on fabrics",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 94,
+      "target": 46,
+      "source_label": "gond painting on fabric",
+      "target_label": "intricate designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 95,
+      "target": 33,
+      "source_label": "himroo fabric",
+      "target_label": "diwali",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "source_label": "mashru fabric",
+      "target_label": "satin finish",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 96,
+      "target": 98,
+      "source_label": "mashru fabric",
+      "target_label": "bright stripes or patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 99,
+      "target": 100,
+      "source_label": "moirang phee",
+      "target_label": "moirang pheejin",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 101,
+      "target": 43,
+      "source_label": "leirum phee",
+      "target_label": "textile",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 101,
+      "target": 103,
+      "source_label": "leirum phee",
+      "target_label": "distinctive red and black patterns on a white base",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 104,
+      "target": 53,
+      "source_label": "shaphee lanphee",
+      "target_label": "motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "source_label": "ryndia",
+      "target_label": "shawls",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 107,
+      "target": 109,
+      "source_label": "dakmanda",
+      "target_label": "wrap-around skirt",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 107,
+      "target": 110,
+      "source_label": "dakmanda",
+      "target_label": "symmetrical designs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 111,
+      "target": 112,
+      "source_label": "thoh shiliang",
+      "target_label": "eri silk",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 113,
+      "target": 112,
+      "source_label": "chappang",
+      "target_label": "eri silk",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 113,
+      "target": 115,
+      "source_label": "chappang",
+      "target_label": "natural dyes and intricate weaving patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 117,
+      "target": 116,
+      "source_label": "dhara",
+      "target_label": "hand-woven fabric",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 118,
+      "target": 119,
+      "source_label": "puan",
+      "target_label": "tribal motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 120,
+      "target": 118,
+      "source_label": "puanchei",
+      "target_label": "puan",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 122,
+      "target": 33,
+      "source_label": "ngotekherh",
+      "target_label": "diwali",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 123,
+      "target": 124,
+      "source_label": "angami lohe shawl",
+      "target_label": "animal motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 125,
+      "target": 46,
+      "source_label": "chakhesang shawl",
+      "target_label": "intricate designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 126,
+      "target": 46,
+      "source_label": "chakhesang naga shawl",
+      "target_label": "intricate designs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 127,
+      "target": 128,
+      "source_label": "ao naga cowrie apron",
+      "target_label": "cowrie shells",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 129,
+      "target": 130,
+      "source_label": "sambalpuri ikat",
+      "target_label": "shankha",
+      "relation_type": "includes motif",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 129,
+      "target": 131,
+      "source_label": "sambalpuri ikat",
+      "target_label": "chakra",
+      "relation_type": "includes motif",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 129,
+      "target": 132,
+      "source_label": "sambalpuri ikat",
+      "target_label": "phula",
+      "relation_type": "includes motif",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 133,
+      "target": 134,
+      "source_label": "berhampuri patta",
+      "target_label": "phoda kumbha design",
+      "relation_type": "includes motif",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 64,
+      "target": 23,
+      "source_label": "khes",
+      "target_label": "geometric patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 135,
+      "target": 137,
+      "source_label": "jamdani",
+      "target_label": "intricate patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 135,
+      "target": 136,
+      "source_label": "jamdani",
+      "target_label": "fine muslin textile",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 138,
+      "target": 139,
+      "source_label": "bandhani",
+      "target_label": "tie-dye technique",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 140,
+      "target": 141,
+      "source_label": "mothra",
+      "target_label": "leheriya tie-dye technique",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 142,
+      "target": 143,
+      "source_label": "kodalikaruppur saree",
+      "target_label": "hand painting",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 142,
+      "target": 144,
+      "source_label": "kodalikaruppur saree",
+      "target_label": "block printing",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 142,
+      "target": 145,
+      "source_label": "kodalikaruppur saree",
+      "target_label": "brocade weaving",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 146,
+      "target": 33,
+      "source_label": "kora cotton saree",
+      "target_label": "diwali",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 147,
+      "target": 148,
+      "source_label": "kurainadu saree",
+      "target_label": "geometric and floral designs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 149,
+      "target": 53,
+      "source_label": "pochampally ikat",
+      "target_label": "motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 150,
+      "target": 33,
+      "source_label": "himroo weaving",
+      "target_label": "diwali",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 151,
+      "target": 152,
+      "source_label": "rignai",
+      "target_label": "pattern",
+      "relation_type": "includes motif",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 151,
+      "target": 153,
+      "source_label": "rignai",
+      "target_label": "motif",
+      "relation_type": "includes motif",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 154,
+      "target": 156,
+      "source_label": "riikutu",
+      "target_label": "plain cloth",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 154,
+      "target": 157,
+      "source_label": "riikutu",
+      "target_label": "upper body",
+      "relation_type": "draped over",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 158,
+      "target": 53,
+      "source_label": "tuisa",
+      "target_label": "motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 159,
+      "target": 160,
+      "source_label": "thulma",
+      "target_label": "blanket",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 161,
+      "target": 53,
+      "source_label": "pichhora",
+      "target_label": "motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 162,
+      "target": 163,
+      "source_label": "kullu shawls",
+      "target_label": "intricate patterns and vibrant color combinations",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 164,
+      "target": 166,
+      "source_label": "phool patti ka kaam",
+      "target_label": "floral and leaf motifs",
+      "relation_type": "includes motif",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 167,
+      "target": 135,
+      "source_label": "dhakai jamdani",
+      "target_label": "jamdani",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 168,
+      "target": 53,
+      "source_label": "kantha embroidery",
+      "target_label": "motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 169,
+      "target": 33,
+      "source_label": "tant sari",
+      "target_label": "diwali",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 170,
+      "target": 171,
+      "source_label": "dhaniakhali sari",
+      "target_label": "striped or checkered patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 172,
+      "target": 173,
+      "source_label": "murshidabad silk",
+      "target_label": "hand-painted designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 172,
+      "target": 174,
+      "source_label": "murshidabad silk",
+      "target_label": "block-printed designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 175,
+      "target": 176,
+      "source_label": "batik print",
+      "target_label": "wax-resist dyeing technique",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 175,
+      "target": 46,
+      "source_label": "batik print",
+      "target_label": "intricate designs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 179,
+      "target": 180,
+      "source_label": "nicobari banners",
+      "target_label": "white cotton fabric",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 179,
+      "target": 181,
+      "source_label": "nicobari banners",
+      "target_label": "trees",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 179,
+      "target": 182,
+      "source_label": "nicobari banners",
+      "target_label": "sun",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 179,
+      "target": 183,
+      "source_label": "nicobari banners",
+      "target_label": "crescent moon",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 184,
+      "target": 137,
+      "source_label": "traditional nicobarese weaving",
+      "target_label": "intricate patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 185,
+      "target": 186,
+      "source_label": "shahtoosh shawl",
+      "target_label": "tibetan antelope",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 188,
+      "target": 189,
+      "source_label": "kashmiri silk sarees",
+      "target_label": "chinar leaves",
+      "relation_type": "includes motif",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 188,
+      "target": 190,
+      "source_label": "kashmiri silk sarees",
+      "target_label": "paisleys",
+      "relation_type": "includes motif",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 191,
+      "target": 53,
+      "source_label": "kashida embroidery",
+      "target_label": "motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 192,
+      "target": 193,
+      "source_label": "tsugdan",
+      "target_label": "carpet",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 194,
+      "target": 195,
+      "source_label": "bhamakalapam",
+      "target_label": "theatrical dance focusing on satyabhama's tales",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 33,
+      "target": 194,
+      "source_label": "diwali",
+      "target_label": "bhamakalapam",
+      "relation_type": "hosts",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 196,
+      "target": 197,
+      "source_label": "burrakatha",
+      "target_label": "storytelling dance with music and narration",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 198,
+      "target": 199,
+      "source_label": "butta bommalu",
+      "target_label": "folk dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 200,
+      "target": 201,
+      "source_label": "tholu bommalaata",
+      "target_label": "shadow puppetry",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 202,
+      "target": 33,
+      "source_label": "dappu",
+      "target_label": "diwali",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 203,
+      "target": 204,
+      "source_label": "lambadi",
+      "target_label": "tribal dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 205,
+      "target": 206,
+      "source_label": "kolatam",
+      "target_label": "stick dance",
+      "relation_type": "includes",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 207,
+      "target": 208,
+      "source_label": "bhagavata mela",
+      "target_label": "dance-drama tradition",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 209,
+      "target": 199,
+      "source_label": "gollakalapam",
+      "target_label": "folk dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 210,
+      "target": 211,
+      "source_label": "kalapam",
+      "target_label": "dance-drama",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 212,
+      "target": 214,
+      "source_label": "prenkhana",
+      "target_label": "ancient folk dance form",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 214,
+      "target": 213,
+      "source_label": "ancient folk dance form",
+      "target_label": "nritya ratnavali",
+      "relation_type": "mentioned in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 215,
+      "target": 216,
+      "source_label": "kanduka nartana",
+      "target_label": "ball games",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 217,
+      "target": 199,
+      "source_label": "bhandika nrityam",
+      "target_label": "folk dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 218,
+      "target": 219,
+      "source_label": "carana nrityam",
+      "target_label": "foot movements",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 220,
+      "target": 221,
+      "source_label": "gondhal",
+      "target_label": "ritualistic dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 215,
+      "target": 222,
+      "source_label": "kanduka nartana",
+      "target_label": "ball play",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 217,
+      "target": 223,
+      "source_label": "bhandika nrityam",
+      "target_label": "wooden platforms",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 224,
+      "target": 225,
+      "source_label": "gondali",
+      "target_label": "music and movement",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 226,
+      "target": 227,
+      "source_label": "aji lhamu",
+      "target_label": "monpa folk dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 228,
+      "target": 229,
+      "source_label": "buiya dance",
+      "target_label": "digaru mishmi",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 230,
+      "target": 231,
+      "source_label": "chalo dance",
+      "target_label": "nocte dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 232,
+      "target": 233,
+      "source_label": "bagurumba",
+      "target_label": "natural movements",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 234,
+      "target": 235,
+      "source_label": "deodhani dance",
+      "target_label": "snake goddess manasa",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 236,
+      "target": 237,
+      "source_label": "apsara-sabah",
+      "target_label": "celestial beings",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 238,
+      "target": 239,
+      "source_label": "ankia naat",
+      "target_label": "vaishnavite dance-drama",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 240,
+      "target": 199,
+      "source_label": "beula dance",
+      "target_label": "folk dance",
+      "relation_type": "includes",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 241,
+      "target": 242,
+      "source_label": "ojapali",
+      "target_label": "storytelling and dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 243,
+      "target": 244,
+      "source_label": "nagara naam",
+      "target_label": "traditional drums",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 245,
+      "target": 1,
+      "source_label": "moridhol dance",
+      "target_label": "dance",
+      "relation_type": "includes",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 247,
+      "target": 248,
+      "source_label": "dhuliya gayan-bayan",
+      "target_label": "song and drum dance",
+      "relation_type": "includes",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 249,
+      "target": 250,
+      "source_label": "putola nach",
+      "target_label": "puppet dance-theatre",
+      "relation_type": "includes",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 251,
+      "target": 204,
+      "source_label": "farkanti dance",
+      "target_label": "tribal dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 243,
+      "target": 253,
+      "source_label": "nagara naam",
+      "target_label": "devotional dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 254,
+      "target": 255,
+      "source_label": "jat-jatin",
+      "target_label": "love and sorrow",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 256,
+      "target": 257,
+      "source_label": "jhijhiya",
+      "target_label": "lanterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 258,
+      "target": 259,
+      "source_label": "domkach",
+      "target_label": "ceremonial dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 260,
+      "target": 261,
+      "source_label": "bidesia",
+      "target_label": "folk theatre",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 262,
+      "target": 263,
+      "source_label": "chhau",
+      "target_label": "tribal martial dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 264,
+      "target": 265,
+      "source_label": "more morni",
+      "target_label": "peacock movements",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 267,
+      "target": 266,
+      "source_label": "kathghorwa naach",
+      "target_label": "wooden horse props",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 268,
+      "target": 269,
+      "source_label": "launda naach",
+      "target_label": "male performers dressed as women",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 270,
+      "target": 263,
+      "source_label": "chhau dance",
+      "target_label": "tribal martial dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 271,
+      "target": 1,
+      "source_label": "pandavani",
+      "target_label": "dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 272,
+      "target": 206,
+      "source_label": "saila dance",
+      "target_label": "stick dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 274,
+      "target": 275,
+      "source_label": "gendi dance",
+      "target_label": "acrobatic dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 276,
+      "target": 277,
+      "source_label": "kaksar dance",
+      "target_label": "abhujmaria tribe",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 278,
+      "target": 199,
+      "source_label": "khamba swang",
+      "target_label": "folk dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 33,
+      "target": 278,
+      "source_label": "diwali",
+      "target_label": "khamba swang",
+      "relation_type": "hosts",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 280,
+      "target": 281,
+      "source_label": "mandari dance",
+      "target_label": "rhythmic drum beats",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 282,
+      "target": 283,
+      "source_label": "bharthari dance",
+      "target_label": "king bharthari tales",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 284,
+      "target": 285,
+      "source_label": "chandaini dance",
+      "target_label": "romantic tales",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 286,
+      "target": 287,
+      "source_label": "murga nacha",
+      "target_label": "folk dance mimicking rooster movements",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 288,
+      "target": 261,
+      "source_label": "nach madai",
+      "target_label": "folk theatre",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 289,
+      "target": 290,
+      "source_label": "vasdeva dance",
+      "target_label": "mythological tales",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 291,
+      "target": 1,
+      "source_label": "dekhnin",
+      "target_label": "dance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 292,
+      "target": 293,
+      "source_label": "fugdi",
+      "target_label": "circular formations",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 294,
+      "target": 295,
+      "source_label": "dhalo",
+      "target_label": "graceful movements",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 296,
+      "target": 297,
+      "source_label": "dashavatara",
+      "target_label": "ten incarnations of lord vishnu",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 298,
+      "target": 299,
+      "source_label": "romat",
+      "target_label": "group formations",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 300,
+      "target": 265,
+      "source_label": "morulem",
+      "target_label": "peacock movements",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 301,
+      "target": 33,
+      "source_label": "suvari",
+      "target_label": "diwali",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 302,
+      "target": 303,
+      "source_label": "dasarawadan",
+      "target_label": "folk performance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 304,
+      "target": 305,
+      "source_label": "taxation practices",
+      "target_label": "federal taxes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 304,
+      "target": 306,
+      "source_label": "taxation practices",
+      "target_label": "state taxes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 304,
+      "target": 307,
+      "source_label": "taxation practices",
+      "target_label": "county taxes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 304,
+      "target": 308,
+      "source_label": "taxation practices",
+      "target_label": "establishment taxes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 309,
+      "target": 310,
+      "source_label": "differences",
+      "target_label": "electricity bills",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 309,
+      "target": 311,
+      "source_label": "differences",
+      "target_label": "driving habits",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 314,
+      "target": 312,
+      "source_label": "relocation",
+      "target_label": "confusion",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 314,
+      "target": 313,
+      "source_label": "relocation",
+      "target_label": "challenges",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 315,
+      "target": 318,
+      "source_label": "working through lunch",
+      "target_label": "lunch",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 316,
+      "target": 319,
+      "source_label": "taking quick or no breaks",
+      "target_label": "breaks",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 317,
+      "target": 320,
+      "source_label": "occasional hour-long breaks",
+      "target_label": "hour-long breaks",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 321,
+      "target": 322,
+      "source_label": "healthcare system",
+      "target_label": "medical care",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 323,
+      "target": 324,
+      "source_label": "name changes",
+      "target_label": "creating new surnames",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 323,
+      "target": 325,
+      "source_label": "name changes",
+      "target_label": "dealing with bureaucracy",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 326,
+      "target": 327,
+      "source_label": "gas stations",
+      "target_label": "smoking",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 326,
+      "target": 328,
+      "source_label": "gas stations",
+      "target_label": "purchasing items",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 330,
+      "target": 329,
+      "source_label": "settings",
+      "target_label": "naps",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 332,
+      "target": 331,
+      "source_label": "order and receive a desired coffee drink",
+      "target_label": "socializing",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 334,
+      "target": 333,
+      "source_label": "algeria",
+      "target_label": "accessories",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 335,
+      "target": 336,
+      "source_label": "group",
+      "target_label": "teachers",
+      "relation_type": "performs for",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

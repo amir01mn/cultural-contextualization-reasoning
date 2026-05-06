@@ -1,5 +1,177 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,tipping,4,united states,unknown,culturebank,1
-2,tipping customs,3,united states,unknown,culturebank,1
-3,united states,2,general,unknown,culturebank,1
+1,algeria,3,algeria,unknown,arabculture,3
+2,iftar,4,algeria,unknown,arabculture,1
+3,mولد النبوي الشريف,2,algeria,unknown,arabculture,1
+4,algerians,3,algeria,unknown,arabculture,1
+5,family outings,2,algeria,unknown,arabculture,1
+6,burial customs,2,algeria,unknown,arabculture,1
+7,pochampally ikat,3,andhra pradesh,unknown,diwali,1
+8,diwali,3,andhra pradesh,unknown,diwali,2
+9,weaving technique,2,andhra pradesh,unknown,diwali,1
+10,andhra pradesh,3,andhra pradesh,unknown,diwali,2
+11,mangalagiri cotton,3,andhra pradesh,unknown,diwali,1
+12,dharmavaram silk,3,andhra pradesh,unknown,diwali,1
+13,producing dharmavaram silk,2,andhra pradesh,unknown,diwali,1
+14,jharkhand,3,jharkhand,unknown,diwali,1
+15,uttarakhand,3,uttarakhand,unknown,diwali,1
+16,silk weaving,3,uttarakhand,unknown,diwali,1
+17,ladakh,3,ladakh,unknown,diwali,1
+18,tsul,3,ladakh,unknown,diwali,1
+19,goa,3,goa,unknown,diwali,2
+20,dekhnin,3,goa,unknown,diwali,1
+21,talgadi,3,goa,unknown,diwali,1
+22,tipping,4,united states,unknown,culturebank,1
+23,tipping customs,3,united states,unknown,culturebank,1
+24,united states,2,general,unknown,culturebank,4
+25,united states,4,general,unknown,culturebank,48
+26,alcohol consumption,2,general,unknown,culturebank,1
+27,diverse cultural practices,2,general,unknown,culturebank,1
+28,consume and prefer beer,2,general,unknown,culturebank,1
+29,complex healthcare system,2,general,unknown,culturebank,1
+30,complex taxation practices,2,general,unknown,culturebank,2
+31,spain,4,general,unknown,culturebank,1
+32,child-rearing activities,2,general,unknown,culturebank,1
+33,raising,2,general,unknown,culturebank,1
+34,close relationships,2,general,unknown,culturebank,1
+35,lending,2,general,unknown,culturebank,1
+36,smoking,3,general,unknown,culturebank,1
+37,public,4,general,unknown,culturebank,1
+38,alcohol consumption,3,general,unknown,culturebank,1
+39,abroad,3,general,unknown,culturebank,1
+40,living experiences,2,general,unknown,culturebank,1
+41,easter,4,american,unknown,culturebank,1
+42,gift baskets,3,american,unknown,culturebank,1
+43,traditional food,3,american,unknown,culturebank,1
+44,egg hunts,2,general,unknown,culturebank,1
+45,relocation,4,general,unknown,culturebank,1
+46,moving within and to/from the united states,2,general,unknown,culturebank,1
+47,walking,3,general,unknown,culturebank,1
+48,friendly behaviors,3,general,unknown,culturebank,1
+49,pledge,4,general,unknown,culturebank,1
+50,daily ritual,2,general,unknown,culturebank,1
+51,greetings,4,united states,unknown,culturebank,1
+52,hello,3,united states,unknown,culturebank,1
+53,hi,3,united states,unknown,culturebank,1
+54,school,4,general,unknown,culturebank,1
+55,fast-paced meal consumption,3,general,unknown,culturebank,1
+56,general,4,general,unknown,culturebank,1
+57,microwave,4,general,unknown,culturebank,1
+58,staring,4,general,unknown,culturebank,1
+59,social interactions,3,general,unknown,culturebank,1
+60,dating,4,general,unknown,culturebank,3
+61,marriage,4,general,unknown,culturebank,3
+62,kissing,2,general,unknown,culturebank,1
+63,committed relationship,2,general,unknown,culturebank,1
+64,europe,3,general,unknown,culturebank,1
+65,various tea-related practices,2,general,unknown,culturebank,1
+66,faster preparation methods,2,general,unknown,culturebank,1
+67,long-term relationships,2,general,unknown,culturebank,1
+68,cohabitating,2,general,unknown,culturebank,1
+69,delaying marriage,2,general,unknown,culturebank,1
+70,marriage is legally required but not always seen as necessary for commitment,2,general,unknown,culturebank,1
+71,halloween,4,general,unknown,culturebank,1
+72,various activities,2,general,unknown,culturebank,1
+73,shopping,4,general,unknown,culturebank,2
+74,purchasing pharmacy items,3,general,unknown,culturebank,1
+75,beer,3,general,unknown,culturebank,1
+76,goods,3,general,unknown,culturebank,1
+77,daily grooming rituals,3,general,unknown,culturebank,1
+78,driving behaviors,4,general,unknown,culturebank,1
+79,region,3,general,unknown,culturebank,1
+80,general,2,general,unknown,culturebank,4
+81,travel,4,general,unknown,culturebank,1
+82,schools,4,general,unknown,culturebank,1
+83,"structured and unstructured breaks including recess, lunch, and electives",2,general,unknown,culturebank,1
+84,edinburgh,4,general,unknown,culturebank,1
+85,scotland,3,general,unknown,culturebank,1
+86,purchasing and consuming american candy,2,general,unknown,culturebank,1
+87,hard work,2,general,unknown,culturebank,1
+88,united states,3,general,unknown,culturebank,2
+89,prioritize work over personal life,4,general,unknown,culturebank,1
+90,america,4,general,unknown,culturebank,1
+91,"activities, practices, and tasks",2,general,unknown,culturebank,1
+92,wine consumption,3,general,unknown,culturebank,1
+93,barefoot,4,general,unknown,culturebank,1
+94,driving,3,general,unknown,culturebank,1
+95,humor,2,general,unknown,culturebank,1
+96,general,3,general,unknown,culturebank,1
+97,parenting and discipline,4,general,unknown,culturebank,1
+98,nightlife activities,4,united states,unknown,culturebank,1
+99,clubs,3,united states,unknown,culturebank,1
+100,public displays of affection,4,general,unknown,culturebank,1
+101,kissing,3,general,unknown,culturebank,1
+102,parties,2,general,unknown,culturebank,1
+103,grapes,3,general,unknown,culturebank,1
+104,grape consumption and purchasing,2,general,unknown,culturebank,1
+105,"discussions about race, ethnicity, and nationality",2,general,unknown,culturebank,1
+106,immigration,3,general,unknown,culturebank,1
+107,customs procedures,2,general,unknown,culturebank,1
+108,building,2,general,unknown,culturebank,1
+109,visiting,4,general,unknown,culturebank,2
+110,beaches,3,general,unknown,culturebank,1
+111,visiting beaches,2,general,unknown,culturebank,1
+112,national parks,3,general,unknown,culturebank,1
+113,visiting national parks,2,general,unknown,culturebank,1
+114,party culture,4,general,unknown,culturebank,1
+115,college and university settings,3,general,unknown,culturebank,1
+116,consumption of salad,2,general,unknown,culturebank,1
+117,american,4,general,unknown,culturebank,1
+118,diners,3,general,unknown,culturebank,1
+119,drug use and abuse,2,general,unknown,culturebank,1
+120,yell,4,united states,unknown,culturebank,1
+121,bulk shopping,4,general,unknown,culturebank,1
+122,name changes,2,general,unknown,culturebank,1
+123,strategies,3,general,unknown,culturebank,1
+124,critical discussions,3,general,unknown,culturebank,1
+125,capitalism,2,general,unknown,culturebank,1
+126,living,4,general,unknown,culturebank,1
+127,moving,4,general,unknown,culturebank,1
+128,spending time,4,general,unknown,culturebank,1
+129,germany,2,general,unknown,culturebank,1
+130,los angeles,4,general,unknown,culturebank,1
+131,marijuana and other substances,3,general,unknown,culturebank,1
+132,open and legal use of marijuana and other substances,2,general,unknown,culturebank,1
+133,solo travel,4,united states,unknown,culturebank,1
+134,summer,4,united states,unknown,culturebank,1
+135,activities,3,united states,unknown,culturebank,1
+136,direct communication,4,general,unknown,culturebank,1
+137,explicit communication,4,general,unknown,culturebank,1
+138,inquiry and questioning,2,general,unknown,culturebank,1
+139,theft,4,united states,unknown,culturebank,1
+140,discussions and expectations around fair and higher wages,2,general,unknown,culturebank,1
+141,shop,4,united states,unknown,culturebank,1
+142,target,3,united states,unknown,culturebank,1
+143,shop at target for groceries and other goods,2,general,unknown,culturebank,1
+144,engaging with videos,2,general,unknown,culturebank,1
+145,diwali,2,general,unknown,culturebank,1
+146,gas stations,3,general,unknown,culturebank,1
+147,getting haircuts,2,general,unknown,culturebank,1
+148,paying for services,2,general,unknown,culturebank,1
+149,seeking in-home services,2,general,unknown,culturebank,1
+150,parking behaviors,4,united states,unknown,culturebank,1
+151,parking lots,3,united states,unknown,culturebank,1
+152,health insurance practices,2,general,unknown,culturebank,1
+153,california,4,general,unknown,culturebank,1
+154,"living, moving, and conforming to local norms",2,general,unknown,culturebank,1
+155,gun ownership and purchase,2,general,unknown,culturebank,1
+156,rural areas,4,united states,unknown,culturebank,1
+157,trucks,3,united states,unknown,culturebank,1
+158,driving trucks,2,general,unknown,culturebank,1
+159,standing in front of trucks,2,general,unknown,culturebank,1
+160,riding in the bed of trucks,2,general,unknown,culturebank,1
+161,"naming practices involving banned, unusual, and controversial names",2,general,unknown,culturebank,1
+162,good news broadcasts,3,general,unknown,culturebank,1
+163,consume news with varying levels of bias and entertainment,2,general,unknown,culturebank,1
+164,teacher,4,occupation,unknown,candle,1
+165,student,3,student,unknown,candle,1
+166,help them learn a new language,2,teacher,unknown,candle,1
+167,politician,4,government,unknown,candle,1
+168,polling,3,government,unknown,candle,1
+169,attorney,4,occupation,unknown,candle,5
+170,closing,3,ritual,unknown,candle,1
+171,witness,3,person,unknown,candle,1
+172,questioning witness,2,attorney,unknown,candle,1
+173,closing arguments,3,ritual,unknown,candle,1
+174,mediation,3,ritual,unknown,candle,1
+175,make decisions,3,united states,unknown,candle,1

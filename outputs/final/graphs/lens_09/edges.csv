@@ -1,2 +1,45 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 2,1,remove shoes,agricultural areas,vary by,1,culturebank
+3,4,potty training,approaches and pressures,vary by,1,culturebank
+5,6,various forms,colloquial language,vary by,1,culturebank
+7,9,california,smoking,vary by,1,culturebank
+8,9,united states,smoking,vary by,1,culturebank
+10,11,cities,design for pedestrians or cyclists,vary by,1,culturebank
+14,13,preference for natural light and specific window treatments,regions,vary by,1,culturebank
+16,15,microwave,europe,vary by,1,culturebank
+17,15,kettle,europe,vary by,1,culturebank
+18,15,stovetop,europe,vary by,1,culturebank
+22,19,public transportation,northeast,varies by,1,culturebank
+22,20,public transportation,bay area,varies by,1,culturebank
+22,21,public transportation,chicago,varies by,1,culturebank
+24,23,sidewalk etiquette,region,vary by region,1,culturebank
+25,23,sidewalk availability,region,vary by region,1,culturebank
+26,27,states,self-service gas pumps,vary by,1,culturebank
+28,29,funerals,opinions on funeral ceremonies,vary by,1,culturebank
+8,30,united states,state,varies by,1,culturebank
+31,26,maternity leave policies,states,vary by,1,culturebank
+33,34,ear piercing,gender and beliefs about healing,varies by,1,culturebank
+8,35,united states,mother's day,vary by,1,culturebank
+8,37,united states,"historically, there have been restrictions on ac use due to energy consumption",vary by,1,culturebank
+40,41,carpet,bathrooms in us,varies by region,1,culturebank
+43,13,ground floor,regions,vary by,1,culturebank
+43,42,ground floor,building types,vary by,1,culturebank
+44,45,rent prices,locations,vary by,1,culturebank
+8,46,united states,location,varies by,1,culturebank
+8,47,united states,time of year,varies by,1,culturebank
+51,48,preferences,cost,vary by,1,culturebank
+51,49,preferences,safety,vary by,1,culturebank
+51,50,preferences,aesthetics,vary by,1,culturebank
+52,8,attitudes,united states,vary by,1,culturebank
+8,54,united states,quality of toilet paper,vary by,1,culturebank
+15,55,europe,cost and quality of toilet paper,vary by,1,culturebank
+56,57,stop signs,countries,vary by,1,culturebank
+8,58,united states,legal ages,vary by,1,culturebank
+61,13,taxation of food,regions,vary by,1,culturebank
+61,59,taxation of food,food items,vary by,1,culturebank
+62,8,regulations,united states,vary by,1,culturebank
+63,8,cultural norms,united states,vary by,1,culturebank
+67,65,marriage,age,vary by,1,culturebank
+67,30,marriage,state,vary by,1,culturebank
+68,23,algeria,region,vary by,1,blend
+68,70,algeria,agriculture region,vary by,1,blend

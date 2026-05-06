@@ -16,6 +16,195 @@
     },
     {
       "id": 1,
+      "label": "algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 2,
+      "label": "iftar",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "mولد النبوي الشريف",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "algerians",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "family outings",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "burial customs",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "pochampally ikat",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "diwali",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 9,
+      "label": "weaving technique",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "andhra pradesh",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 11,
+      "label": "mangalagiri cotton",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "dharmavaram silk",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "producing dharmavaram silk",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "jharkhand",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "uttarakhand",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "silk weaving",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "ladakh",
+      "level": 3,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "tsul",
+      "level": 3,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "goa",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 20,
+      "label": "dekhnin",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "talgadi",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
       "label": "tipping",
       "level": 4,
       "cultural_group": "united states",
@@ -24,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 2,
+      "id": 23,
       "label": "tipping customs",
       "level": 3,
       "cultural_group": "united states",
@@ -33,19 +222,1486 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 24,
       "label": "united states",
       "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 25,
+      "label": "united states",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 48
+    },
+    {
+      "id": 26,
+      "label": "alcohol consumption",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "diverse cultural practices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "consume and prefer beer",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "complex healthcare system",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "complex taxation practices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 31,
+      "label": "spain",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "child-rearing activities",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "raising",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "close relationships",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "lending",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "smoking",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "public",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "alcohol consumption",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "abroad",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "living experiences",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "easter",
+      "level": 4,
+      "cultural_group": "american",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "gift baskets",
+      "level": 3,
+      "cultural_group": "american",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "traditional food",
+      "level": 3,
+      "cultural_group": "american",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "egg hunts",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "relocation",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "moving within and to/from the united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "walking",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "friendly behaviors",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "pledge",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "daily ritual",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "greetings",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "hello",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "hi",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "school",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "fast-paced meal consumption",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "general",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "microwave",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "staring",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "social interactions",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "dating",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 61,
+      "label": "marriage",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 62,
+      "label": "kissing",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "committed relationship",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "europe",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "various tea-related practices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "faster preparation methods",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "long-term relationships",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "cohabitating",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "delaying marriage",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "marriage is legally required but not always seen as necessary for commitment",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "halloween",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "various activities",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "shopping",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 74,
+      "label": "purchasing pharmacy items",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "beer",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "goods",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "daily grooming rituals",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "driving behaviors",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "region",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "general",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 81,
+      "label": "travel",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "schools",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "structured and unstructured breaks including recess, lunch, and electives",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "edinburgh",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "scotland",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "purchasing and consuming american candy",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "hard work",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "united states",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 89,
+      "label": "prioritize work over personal life",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "america",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "activities, practices, and tasks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "wine consumption",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "barefoot",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "driving",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "humor",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "general",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "parenting and discipline",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "nightlife activities",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "clubs",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "public displays of affection",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "kissing",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "parties",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "grapes",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "grape consumption and purchasing",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "discussions about race, ethnicity, and nationality",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "immigration",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "customs procedures",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "building",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "visiting",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 110,
+      "label": "beaches",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "visiting beaches",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "national parks",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "visiting national parks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "party culture",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "college and university settings",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "consumption of salad",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "american",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "diners",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "drug use and abuse",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "yell",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "bulk shopping",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "name changes",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "strategies",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "critical discussions",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "capitalism",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "living",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "moving",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "spending time",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "germany",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "los angeles",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "marijuana and other substances",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "open and legal use of marijuana and other substances",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "solo travel",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "summer",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "activities",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "direct communication",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "explicit communication",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "inquiry and questioning",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "theft",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "discussions and expectations around fair and higher wages",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "shop",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "target",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "shop at target for groceries and other goods",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "engaging with videos",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "diwali",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 146,
+      "label": "gas stations",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "getting haircuts",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 148,
+      "label": "paying for services",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "seeking in-home services",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "parking behaviors",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 151,
+      "label": "parking lots",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 152,
+      "label": "health insurance practices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "california",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 154,
+      "label": "living, moving, and conforming to local norms",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "gun ownership and purchase",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "rural areas",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 157,
+      "label": "trucks",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 158,
+      "label": "driving trucks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 159,
+      "label": "standing in front of trucks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 160,
+      "label": "riding in the bed of trucks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 161,
+      "label": "naming practices involving banned, unusual, and controversial names",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 162,
+      "label": "good news broadcasts",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 163,
+      "label": "consume news with varying levels of bias and entertainment",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 164,
+      "label": "teacher",
+      "level": 4,
+      "cultural_group": "occupation",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 165,
+      "label": "student",
+      "level": 3,
+      "cultural_group": "student",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 166,
+      "label": "help them learn a new language",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 167,
+      "label": "politician",
+      "level": 4,
+      "cultural_group": "government",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 168,
+      "label": "polling",
+      "level": 3,
+      "cultural_group": "government",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 169,
+      "label": "attorney",
+      "level": 4,
+      "cultural_group": "occupation",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 5
+    },
+    {
+      "id": 170,
+      "label": "closing",
+      "level": 3,
+      "cultural_group": "ritual",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 171,
+      "label": "witness",
+      "level": 3,
+      "cultural_group": "person",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 172,
+      "label": "questioning witness",
+      "level": 2,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 173,
+      "label": "closing arguments",
+      "level": 3,
+      "cultural_group": "ritual",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 174,
+      "label": "mediation",
+      "level": 3,
+      "cultural_group": "ritual",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 175,
+      "label": "make decisions",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "candle",
       "frequency": 1
     }
   ],
   "links": [
     {
-      "source": 3,
-      "target": 1,
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "iftar",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "mولد النبوي الشريف",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "algerians",
+      "target_label": "family outings",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "burial customs",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "source_label": "pochampally ikat",
+      "target_label": "weaving technique",
+      "relation_type": "engages in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "andhra pradesh",
+      "target_label": "mangalagiri cotton",
+      "relation_type": "engages in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "source_label": "andhra pradesh",
+      "target_label": "producing dharmavaram silk",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 14,
+      "target": 8,
+      "source_label": "jharkhand",
+      "target_label": "diwali",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "uttarakhand",
+      "target_label": "silk weaving",
+      "relation_type": "engages in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "ladakh",
+      "target_label": "tsul",
+      "relation_type": "engages in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "goa",
+      "target_label": "dekhnin",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 19,
+      "target": 21,
+      "source_label": "goa",
+      "target_label": "talgadi",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 24,
+      "target": 22,
       "source_label": "united states",
       "target_label": "tipping",
       "relation_type": "engage in",
@@ -53,13 +1709,994 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 3,
-      "target": 2,
+      "source": 24,
+      "target": 23,
       "source_label": "united states",
       "target_label": "tipping customs",
       "relation_type": "engage in",
       "weight": 1,
       "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 26,
+      "source_label": "united states",
+      "target_label": "alcohol consumption",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 27,
+      "source_label": "united states",
+      "target_label": "diverse cultural practices",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 28,
+      "source_label": "united states",
+      "target_label": "consume and prefer beer",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 29,
+      "source_label": "united states",
+      "target_label": "complex healthcare system",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 30,
+      "source_label": "united states",
+      "target_label": "complex taxation practices",
+      "relation_type": "engage in",
+      "weight": 2,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "spain",
+      "target_label": "child-rearing activities",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 32,
+      "source_label": "united states",
+      "target_label": "child-rearing activities",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 33,
+      "source_label": "united states",
+      "target_label": "raising",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 34,
+      "source_label": "united states",
+      "target_label": "close relationships",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 35,
+      "source_label": "united states",
+      "target_label": "lending",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 36,
+      "source_label": "united states",
+      "target_label": "smoking",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 37,
+      "target": 26,
+      "source_label": "public",
+      "target_label": "alcohol consumption",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 40,
+      "source_label": "united states",
+      "target_label": "living experiences",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "source_label": "abroad",
+      "target_label": "living experiences",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "source_label": "easter",
+      "target_label": "gift baskets",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 41,
+      "target": 43,
+      "source_label": "easter",
+      "target_label": "traditional food",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 41,
+      "target": 44,
+      "source_label": "easter",
+      "target_label": "egg hunts",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 46,
+      "target": 45,
+      "source_label": "moving within and to/from the united states",
+      "target_label": "relocation",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 47,
+      "source_label": "united states",
+      "target_label": "walking",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 48,
+      "source_label": "united states",
+      "target_label": "friendly behaviors",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "source_label": "pledge",
+      "target_label": "daily ritual",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 51,
+      "target": 24,
+      "source_label": "greetings",
+      "target_label": "united states",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 52,
+      "target": 51,
+      "source_label": "hello",
+      "target_label": "greetings",
+      "relation_type": "engages in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 53,
+      "target": 51,
+      "source_label": "hi",
+      "target_label": "greetings",
+      "relation_type": "engages in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "source_label": "school",
+      "target_label": "fast-paced meal consumption",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "source_label": "general",
+      "target_label": "microwave",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 59,
+      "target": 58,
+      "source_label": "social interactions",
+      "target_label": "staring",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "source_label": "dating",
+      "target_label": "marriage",
+      "relation_type": "engage in",
+      "weight": 2,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 60,
+      "target": 62,
+      "source_label": "dating",
+      "target_label": "kissing",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 60,
+      "target": 63,
+      "source_label": "dating",
+      "target_label": "committed relationship",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 65,
+      "source_label": "united states",
+      "target_label": "various tea-related practices",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 66,
+      "source_label": "united states",
+      "target_label": "faster preparation methods",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "source_label": "europe",
+      "target_label": "various tea-related practices",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 67,
+      "source_label": "united states",
+      "target_label": "long-term relationships",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 68,
+      "source_label": "united states",
+      "target_label": "cohabitating",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 69,
+      "source_label": "united states",
+      "target_label": "delaying marriage",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 70,
+      "source_label": "united states",
+      "target_label": "marriage is legally required but not always seen as necessary for commitment",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 72,
+      "source_label": "united states",
+      "target_label": "various activities",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 73,
+      "target": 74,
+      "source_label": "shopping",
+      "target_label": "purchasing pharmacy items",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 73,
+      "target": 75,
+      "source_label": "shopping",
+      "target_label": "beer",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 73,
+      "target": 76,
+      "source_label": "shopping",
+      "target_label": "goods",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 77,
+      "source_label": "united states",
+      "target_label": "daily grooming rituals",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 78,
+      "target": 56,
+      "source_label": "driving behaviors",
+      "target_label": "general",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 81,
+      "source_label": "united states",
+      "target_label": "travel",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 82,
+      "target": 83,
+      "source_label": "schools",
+      "target_label": "structured and unstructured breaks including recess, lunch, and electives",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 84,
+      "target": 86,
+      "source_label": "edinburgh",
+      "target_label": "purchasing and consuming american candy",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 87,
+      "source_label": "united states",
+      "target_label": "hard work",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 89,
+      "source_label": "united states",
+      "target_label": "prioritize work over personal life",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 91,
+      "source_label": "america",
+      "target_label": "activities, practices, and tasks",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 92,
+      "source_label": "united states",
+      "target_label": "wine consumption",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 93,
+      "target": 94,
+      "source_label": "barefoot",
+      "target_label": "driving",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 95,
+      "source_label": "united states",
+      "target_label": "humor",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 56,
+      "target": 97,
+      "source_label": "general",
+      "target_label": "parenting and discipline",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 99,
+      "target": 98,
+      "source_label": "clubs",
+      "target_label": "nightlife activities",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 100,
+      "target": 62,
+      "source_label": "public displays of affection",
+      "target_label": "kissing",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 102,
+      "source_label": "united states",
+      "target_label": "parties",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 104,
+      "source_label": "united states",
+      "target_label": "grape consumption and purchasing",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 105,
+      "source_label": "united states",
+      "target_label": "discussions about race, ethnicity, and nationality",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 107,
+      "source_label": "united states",
+      "target_label": "customs procedures",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "source_label": "immigration",
+      "target_label": "customs procedures",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 108,
+      "source_label": "united states",
+      "target_label": "building",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 56,
+      "target": 111,
+      "source_label": "general",
+      "target_label": "visiting beaches",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 56,
+      "target": 113,
+      "source_label": "general",
+      "target_label": "visiting national parks",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 115,
+      "target": 114,
+      "source_label": "college and university settings",
+      "target_label": "party culture",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 116,
+      "source_label": "united states",
+      "target_label": "consumption of salad",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 117,
+      "target": 118,
+      "source_label": "american",
+      "target_label": "diners",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 119,
+      "source_label": "united states",
+      "target_label": "drug use and abuse",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 73,
+      "target": 121,
+      "source_label": "shopping",
+      "target_label": "bulk shopping",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 122,
+      "source_label": "united states",
+      "target_label": "name changes",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 123,
+      "source_label": "united states",
+      "target_label": "strategies",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 124,
+      "source_label": "united states",
+      "target_label": "critical discussions",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 125,
+      "source_label": "united states",
+      "target_label": "capitalism",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 126,
+      "target": 129,
+      "source_label": "living",
+      "target_label": "germany",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 127,
+      "target": 129,
+      "source_label": "moving",
+      "target_label": "germany",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 128,
+      "target": 129,
+      "source_label": "spending time",
+      "target_label": "germany",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 130,
+      "target": 132,
+      "source_label": "los angeles",
+      "target_label": "open and legal use of marijuana and other substances",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 133,
+      "source_label": "united states",
+      "target_label": "solo travel",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 134,
+      "target": 135,
+      "source_label": "summer",
+      "target_label": "activities",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 136,
+      "target": 56,
+      "source_label": "direct communication",
+      "target_label": "general",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 137,
+      "target": 56,
+      "source_label": "explicit communication",
+      "target_label": "general",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 138,
+      "source_label": "united states",
+      "target_label": "inquiry and questioning",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 139,
+      "target": 24,
+      "source_label": "theft",
+      "target_label": "united states",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 140,
+      "source_label": "united states",
+      "target_label": "discussions and expectations around fair and higher wages",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 143,
+      "source_label": "united states",
+      "target_label": "shop at target for groceries and other goods",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 144,
+      "source_label": "united states",
+      "target_label": "engaging with videos",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 60,
+      "target": 8,
+      "source_label": "dating",
+      "target_label": "diwali",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 61,
+      "target": 8,
+      "source_label": "marriage",
+      "target_label": "diwali",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 146,
+      "source_label": "united states",
+      "target_label": "gas stations",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 147,
+      "source_label": "united states",
+      "target_label": "getting haircuts",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 148,
+      "source_label": "united states",
+      "target_label": "paying for services",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 149,
+      "source_label": "united states",
+      "target_label": "seeking in-home services",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 151,
+      "target": 150,
+      "source_label": "parking lots",
+      "target_label": "parking behaviors",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 151,
+      "target": 24,
+      "source_label": "parking lots",
+      "target_label": "united states",
+      "relation_type": "considered a problem",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 152,
+      "source_label": "united states",
+      "target_label": "health insurance practices",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 153,
+      "target": 154,
+      "source_label": "california",
+      "target_label": "living, moving, and conforming to local norms",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 155,
+      "source_label": "united states",
+      "target_label": "gun ownership and purchase",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 156,
+      "target": 158,
+      "source_label": "rural areas",
+      "target_label": "driving trucks",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 156,
+      "target": 159,
+      "source_label": "rural areas",
+      "target_label": "standing in front of trucks",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 156,
+      "target": 160,
+      "source_label": "rural areas",
+      "target_label": "riding in the bed of trucks",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 161,
+      "source_label": "united states",
+      "target_label": "naming practices involving banned, unusual, and controversial names",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 162,
+      "source_label": "united states",
+      "target_label": "good news broadcasts",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 163,
+      "source_label": "united states",
+      "target_label": "consume news with varying levels of bias and entertainment",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 164,
+      "target": 166,
+      "source_label": "teacher",
+      "target_label": "help them learn a new language",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 167,
+      "target": 168,
+      "source_label": "politician",
+      "target_label": "polling",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 169,
+      "target": 170,
+      "source_label": "attorney",
+      "target_label": "closing",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 169,
+      "target": 172,
+      "source_label": "attorney",
+      "target_label": "questioning witness",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 169,
+      "target": 173,
+      "source_label": "attorney",
+      "target_label": "closing arguments",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 169,
+      "target": 174,
+      "source_label": "attorney",
+      "target_label": "mediation",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 169,
+      "target": 175,
+      "source_label": "attorney",
+      "target_label": "make decisions",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "candle"
     }
   ]
 }

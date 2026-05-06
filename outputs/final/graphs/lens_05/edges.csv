@@ -1,4 +1,234 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,3,tipping,united states,practices,1,culturebank
-2,3,tipping customs,united states,practices,1,culturebank
-4,5,remove shoes,entering homes,practices,1,culturebank
+1,2,algeria,ذبح للوالدة مهمة خاصة,practices,1,arabculture
+1,3,algeria,performing funeral rituals at home,practices,1,arabculture
+5,4,آلة باليد,النساء و الرجال,practiced by,1,arabculture
+6,7,linaier,tacts and traditions,practices,1,arabculture
+1,8,algeria,treating the body according to traditions and religion,practices,1,arabculture
+9,10,community,planting,practices,1,arabculture
+11,12,venkatagiri cotton,diwali,associated with,1,diwali
+15,13,monpa woolen weave,monpa tribe,practices,1,diwali
+15,14,monpa woolen weave,tawang district,practices,1,diwali
+16,17,wancho tribe,creating woven bags,practices,1,diwali
+20,18,miri jimo,misng tribe,practices,1,diwali
+18,12,misng tribe,diwali,hosts,1,diwali
+21,22,chaapa sarees,wooden blocks,features,1,diwali
+23,12,bastar tribal weaves,diwali,practices,1,diwali
+24,25,gujarat,bandhani,practices,1,diwali
+28,29,tangaliya,dangasia community,practices,1,diwali
+30,31,dhabla,woolen yarns,features,1,diwali
+32,34,santhal saree cloth,traditional patterns and motifs,features,1,diwali
+35,36,kasuti,karnataka,practices,1,diwali
+35,12,kasuti,diwali,practices,1,diwali
+37,38,women,navalgund durries,practices,1,diwali
+40,36,lambani embroidery,karnataka,practices,1,diwali
+41,43,kerala,wearing settu mundu,practices,1,diwali
+44,45,batik print,bhairavgarh,practices,1,diwali
+47,46,narayan peth sari,maharashtra,practices,1,diwali
+49,48,leirum phee,manipur,practices,1,diwali
+52,51,shappee lanphee,black or red base,features,1,diwali
+53,55,garo women,wearing dakmanda,practices,1,diwali
+56,57,mizo women,loin loom weaving,practices,1,diwali
+57,58,loin loom weaving,naga tribes,practices,1,diwali
+59,60,bagru block print,chhipa community,practices,1,diwali
+62,61,madurai sungudi,saurashtrian community,practices,1,diwali
+63,64,toda embroidery,toda tribe,practices,1,diwali
+65,66,tamil nadu,kodalikaruppur saree,practices,1,diwali
+67,68,lambada embroidery,lambada tribe,practices,1,diwali
+69,71,tripuri women,weaving on the loin loom,practices,1,diwali
+72,73,uttarakhand,weaving,practices,1,diwali
+74,72,ringaal weaving,uttarakhand,practiced in,1,diwali
+72,76,uttarakhand,cotton weaving,practices,1,diwali
+72,77,uttarakhand,silk weaving,practices,1,diwali
+78,80,phool patti ka kaam,aligarh and rampur,practices,1,diwali
+81,82,dhaniakhali sari,plain body with contrasting borders and pallus adorned with simple yet elegant motifs,features,1,diwali
+83,84,artisans,wax-resist dyeing technique,practices,1,diwali
+83,85,artisans,fabric,use,1,diwali
+86,87,nicobari banners,appliqué,features,1,diwali
+86,88,nicobari banners,embroidery,features,1,diwali
+89,90,delhi,brocade textiles,practices,1,diwali
+91,92,kashida embroidery,textiles,features,1,diwali
+93,94,tsugdan,intricate designs,features,1,diwali
+95,96,ari embroidery,pudducherry,practices,1,diwali
+97,12,carcari,diwali,practices,1,diwali
+98,12,perani,diwali,practices,1,diwali
+99,100,dhuliya dance,assam,practices,2,diwali
+101,100,nagara naam,assam,practices,1,diwali
+100,103,assam,moridhol dance,practices,2,diwali
+104,105,dhuliya bhaona,drum-based dance-drama,practices,1,diwali
+107,106,thapona dance,assamese villages,practices,1,diwali
+108,109,dhobi naach,bihar,practices,1,diwali
+109,110,bihar,bidapad naach,practices,1,diwali
+111,112,saila dance,chhattisgarh,practices,1,diwali
+112,114,chhattisgarh,gendi dance,practices,1,diwali
+112,115,chhattisgarh,bharthari dance,practices,1,diwali
+116,117,chandaini dance,rural regions,practices,1,diwali
+118,119,yadav nacha,yadav community,practices,1,diwali
+120,121,goa,romat,practices,1,diwali
+122,123,tipping,customary and expected,practices,1,culturebank
+122,126,tipping,united states,practices,1,culturebank
+125,126,tipping customs,united states,practices,1,culturebank
+127,128,remove shoes,entering homes,practices,1,culturebank
+129,126,living in,united states,practices,1,culturebank
+130,126,returning to,united states,practices,1,culturebank
+126,133,united states,"actively seek, pay for, and express frustration over the high cost of daycare, often preferring more home-like settings",practices,1,culturebank
+134,126,school shootings,united states,practices,1,culturebank
+135,126,safety and security,united states,practices,1,culturebank
+136,138,spain,child-rearing activities,practices,1,culturebank
+126,138,united states,child-rearing activities,practices,1,culturebank
+139,140,exercise caution,general,practice,1,culturebank
+126,142,united states,"prioritize safety through various measures, including military strength, gun control, and emergency preparedness",practices,1,culturebank
+141,143,safety,states,varies by,1,culturebank
+126,144,united states,heightened fear and anxiety,experiences,1,culturebank
+126,146,united states,use and maintain yellow school buses,practices,1,culturebank
+145,126,school buses,united states,are a common and essential part of the transportation system,1,culturebank
+149,147,thanksgiving,overeating,engages in,1,culturebank
+149,148,thanksgiving,fall asleep,engages in,1,culturebank
+126,150,united states,embrace and style athleisure wear,practices,1,culturebank
+151,126,tip-based compensation,united states,practices,1,culturebank
+152,126,service industry,united states,practices,1,culturebank
+126,154,united states,closing businesses on sundays,practices,1,culturebank
+126,155,united states,mix of closed and open stores on sundays,practices,1,culturebank
+158,156,birthday celebrations,meals,practices,1,culturebank
+158,157,birthday celebrations,gifts,practices,1,culturebank
+126,159,united states,washing machines,practices,1,culturebank
+159,126,washing machines,united states,"used for various purposes including washing, drying, and pressing",1,culturebank
+160,161,movie theaters,prioritize comfort,practices,1,culturebank
+126,162,united states,ambition,stigmatization of,1,culturebank
+126,163,united states,personal fulfillment,stigmatization of,1,culturebank
+126,165,united states,walking or cycling to school,practices,1,culturebank
+166,165,parents,walking or cycling to school,encourages,1,culturebank
+169,167,schools,drills,engage in,1,culturebank
+169,168,schools,safety measures,implement,1,culturebank
+171,170,wedding,dressing up,practices,1,culturebank
+126,172,united states,"struggle with and adapt to the pervasive issue of extreme debt, including medical debt, student loans, and financial insecurity",practices,1,culturebank
+176,173,social interactions,smiling,practices,1,culturebank
+176,174,social interactions,making eye contact,practices,1,culturebank
+176,175,social interactions,offering support,practices,1,culturebank
+126,177,united states,responsible pet ownership and care,practices,1,culturebank
+126,179,united states,use and ensure the proper installation of infant car seats,practices,1,culturebank
+126,180,united states,car seats are mandatory for babies when discharged from the hospital,practices,1,culturebank
+126,181,united states,individualism,practices,1,culturebank
+126,182,united states,group mentality,practices,1,culturebank
+126,183,united states,cars,rely heavily on,1,culturebank
+126,184,united states,visiting the emergency room despite high costs,engages in,1,culturebank
+185,186,drivers,pedestrians,slow down and stop for,1,culturebank
+187,188,"city with 30,000+ people",roundabout,struggles with using roundabouts are common,1,culturebank
+126,189,united states,grandparents to grandchildren,practices,1,culturebank
+126,190,united states,downsizing,practices,1,culturebank
+126,191,united states,reducing food waste,practices,1,culturebank
+126,192,united states,university system,practices,1,culturebank
+193,195,self-service,fast food restaurants,practices,1,culturebank
+194,195,taking time to eat,fast food restaurants,practices,1,culturebank
+126,196,united states,adapt to the presence and absence of streetlights,practices,1,culturebank
+126,197,united states,college,use the terms 'college' and 'university' interchangeably to refer to,1,culturebank
+126,198,united states,university,use the terms 'college' and 'university' interchangeably to refer to,1,culturebank
+126,199,united states,having and raising babies,practices,1,culturebank
+126,200,united states,ear piercing,practices,1,culturebank
+126,202,united states,obtain a driver's license,practices,1,culturebank
+201,202,california,obtain a driver's license,practices,1,culturebank
+126,203,united states,proper waste disposal,practices,1,culturebank
+126,205,united states,trash pickup,prepares for,1,culturebank
+126,206,united states,high crime rates,experiences,1,culturebank
+126,207,united states,notable decline in recent years,has,1,culturebank
+209,208,workplace,flexible work schedules,practices,1,culturebank
+210,212,efficient driving,driving,practices,1,culturebank
+211,212,safe driving,driving,practices,1,culturebank
+126,214,united states,transport dogs in various ways,practices,1,culturebank
+213,183,transport dogs,cars,include,1,culturebank
+213,215,transport dogs,cages,include,1,culturebank
+213,216,transport dogs,truck beds,include,1,culturebank
+218,219,american-style customer service,"friendly, helpful, and sometimes overwhelming service",engages in,1,culturebank
+220,222,morning work hours,financial stability and success,practices,1,culturebank
+221,222,late night work hours,financial stability and success,practices,1,culturebank
+126,223,united states,build and maintain houses,practices,1,culturebank
+126,224,united states,thriftiness,practices,1,culturebank
+126,225,united states,visit and own museums,practices,1,culturebank
+226,227,practice,water conservation,practices,1,culturebank
+126,230,united states,use a combination of 12-hour and 24-hour clock systems,practices,1,culturebank
+228,230,hospitals,use a combination of 12-hour and 24-hour clock systems,practices,1,culturebank
+229,230,workplaces,use a combination of 12-hour and 24-hour clock systems,practices,1,culturebank
+232,231,join,military,engage in,1,culturebank
+233,231,rank,military,engage in,1,culturebank
+234,231,serve,military,engage in,1,culturebank
+126,235,united states,paying first,engages in various payment practices,1,culturebank
+126,236,united states,paying after,engages in various payment practices,1,culturebank
+126,237,united states,gun violence,experience and respond to,1,culturebank
+126,240,united states,employers offer paid holidays and flexible vacation time,practices,1,culturebank
+126,241,united states,employees expect not to be contacted during off work hours,practices,1,culturebank
+242,244,right turn,specific states,practices,1,culturebank
+243,244,left turn,specific states,practices,1,culturebank
+140,246,general,4th of july,engage in,1,culturebank
+126,247,united states,discuss and describe the weather,practices,1,culturebank
+248,250,engagement,open communication,practices,1,culturebank
+248,251,engagement,asking questions,practices,1,culturebank
+248,252,engagement,providing information,practices,1,culturebank
+126,253,united states,receive medical treatment,practices,1,culturebank
+126,254,united states,large meal portions,practices,1,culturebank
+126,255,united states,meal deals,practices,1,culturebank
+126,256,united states,efficient eating habits,practices,1,culturebank
+126,257,united states,adapt to and learn cultural norms,practices,1,culturebank
+258,259,warm culture,usa,practices,1,culturebank
+258,260,warm culture,australia,practices,1,culturebank
+126,261,united states,doggy bags,practices,1,culturebank
+262,126,walk,united states,practices,1,culturebank
+263,126,drive,united states,influences,1,culturebank
+126,267,united states,"be friendly, socialize, and make friends",practices,1,culturebank
+264,267,south,"be friendly, socialize, and make friends",practices,1,culturebank
+265,267,michigan,"be friendly, socialize, and make friends",practices,1,culturebank
+266,267,north carolina,"be friendly, socialize, and make friends",practices,1,culturebank
+268,126,recycling,united states,practices,1,culturebank
+268,201,recycling,california,practices,1,culturebank
+269,271,sing,national anthem,practices,1,culturebank
+270,271,recite,national anthem,practices,1,culturebank
+126,273,united states,"waiters working for low hourly wages, relying on tips for a living wage",practices,1,culturebank
+272,126,waiters,united states,work for,1,culturebank
+126,275,united states,doors are seen as safer than guns and are used in films,use,1,culturebank
+276,126,arrive late,united states,practices,1,culturebank
+279,277,halloween,trick-or-treating,practices,1,culturebank
+279,278,halloween,giving and receiving candy,practices,1,culturebank
+126,280,united states,safety and well-being,prioritize,1,culturebank
+282,284,watching,watch and discuss true crime documentaries,practices,1,culturebank
+283,284,discussing,watch and discuss true crime documentaries,practices,1,culturebank
+285,286,stop signs,traffic regulations,features,1,culturebank
+286,285,traffic regulations,stop signs,practices,1,culturebank
+287,126,handle,united states,practices,1,culturebank
+288,126,store,united states,practices,1,culturebank
+289,126,scatter,united states,practices,1,culturebank
+126,290,united states,marriage,engage in,1,culturebank
+291,292,cupid shuffle,parties,practices,1,culturebank
+1,293,algeria,watching sports broadcasts,practices,1,blend
+1,294,algeria,maternity leave,practices,1,blend
+1,295,algeria,paternity leave,practices,1,blend
+1,296,algeria,family size,practices,2,blend
+1,298,algeria,learning second language,practices,1,blend
+299,1,private education,algeria,practices,1,blend
+302,1,musical instrument,algeria,practices,1,blend
+303,1,summer vacations,algeria,practices,1,blend
+305,1,marriage leave,algeria,practices,1,blend
+306,307,occupation,people,practices,1,blend
+1,308,algeria,skiing,practices,1,blend
+309,1,young people,algeria,practices,1,blend
+310,311,family,communicating remotely,practices,1,blend
+198,313,university,courses,practices,1,blend
+314,315,back garden,houses,practices,1,blend
+1,316,algeria,family name,practices,1,blend
+1,317,algeria,islam,practices,1,blend
+318,319,team-building activities,companies,practices,1,blend
+1,320,algeria,side job,practices,1,blend
+1,321,algeria,living together in a household with multiple generations,practices,1,blend
+322,1,after school curricular,algeria,practices,1,blend
+324,325,families,religious activities,practices,1,blend
+326,327,seniors,parks,engage in,1,blend
+328,1,mountainous areas,algeria,practices,1,blend
+329,307,coastal areas,people,practices,1,blend
+1,331,algeria,age of starting work,practices,1,blend
+1,332,algeria,age,practices,1,blend
+290,1,marriage,algeria,practices,2,blend
+310,1,family,algeria,practices,1,blend
+1,334,algeria,tech workers and start ups,practices,1,blend
+335,1,independence,algeria,practices,1,blend
+336,337,nurse,doctor,practices,1,candle
+338,339,dentist,dry socket irrigation and wound dressing,practices,1,candle
+338,340,dentist,visit,practices,1,candle
+340,341,visit,check,practices,1,candle
+342,343,attorney,pound fellows receptions,practices,1,candle
