@@ -13,7 +13,12 @@ import json
 import os
 import sys
 
-sys.path.insert(0, os.path.dirname(__file__))
+import sys as _sys, os as _os
+_SRC = _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))
+_sys.path.insert(0, _SRC)
+_sys.path.insert(0, _os.path.join(_SRC, 'shared'))
+_sys.path.insert(0, _os.path.join(_SRC, 'task2'))
+
 
 from schema import Node, Edge, CulturalGraph
 from graph_builder import build_graph
@@ -148,7 +153,7 @@ def build_forest(
                 import subprocess
                 viz_path = os.path.join(lens_output_dir, "viz.html")
                 result = subprocess.run(
-                    [sys.executable, os.path.join(os.path.dirname(__file__), "visualize.py"),
+                    [sys.executable, _os.path.join(_SRC, "shared", "visualize.py"),
                      "--input", os.path.join(lens_output_dir, "cultural_graph.json"),
                      "--output", viz_path,
                      "--levels", "0", "1", "2"],

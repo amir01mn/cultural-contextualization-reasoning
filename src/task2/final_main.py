@@ -18,7 +18,12 @@ import json
 import os
 import sys
 
-sys.path.insert(0, os.path.dirname(__file__))
+import sys as _sys, os as _os
+_SRC = _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))
+_sys.path.insert(0, _SRC)
+_sys.path.insert(0, _os.path.join(_SRC, 'shared'))
+_sys.path.insert(0, _os.path.join(_SRC, 'task2'))
+
 
 from data_loaders import load_datasets, DATASET_NAMES
 from lens_consolidator import consolidate
@@ -143,7 +148,7 @@ def build_graphs_from_extractions(
             viz_path = os.path.join(lens_dir, "viz.html")
             subprocess.run(
                 [sys.executable,
-                 os.path.join(os.path.dirname(__file__), "visualize.py"),
+                 _os.path.join(_SRC, "shared", "visualize.py"),
                  "--input", os.path.join(lens_dir, "cultural_graph.json"),
                  "--output", viz_path,
                  "--top", "200"],

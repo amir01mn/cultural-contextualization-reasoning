@@ -27,7 +27,7 @@ export HF_HUB_OFFLINE=1
 
 # ── Phase 1-3: Mine + cluster + induce schemas ────────────────────────────────
 echo "=== Starting Phase 1-3: Mining and schema induction ==="
-python -u src/induction_main.py \
+python -u src/task2/induction_main.py \
   --datasets arabculture diwali culturebank blend candle \
   --candle-path datasets/candle \
   --sample 500 \
@@ -35,7 +35,7 @@ python -u src/induction_main.py \
 
 # ── Phase 4: Final KG construction ───────────────────────────────────────────
 echo "=== Starting Phase 4: Final KG construction ==="
-python -u src/final_main.py \
+python -u src/task2/final_main.py \
   --datasets arabculture diwali culturebank blend candle \
   --candle-path datasets/candle \
   --sample 500 \

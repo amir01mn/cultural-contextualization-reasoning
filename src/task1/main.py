@@ -19,7 +19,12 @@ import sys
 import os
 
 # Make src/ importable when running as `python src/main.py`
-sys.path.insert(0, os.path.dirname(__file__))
+import sys as _sys, os as _os
+_SRC = _os.path.dirname(_os.path.dirname(_os.path.abspath(__file__)))
+_sys.path.insert(0, _SRC)
+_sys.path.insert(0, _os.path.join(_SRC, 'shared'))
+_sys.path.insert(0, _os.path.join(_SRC, 'task1'))
+
 
 from data_loaders import load_datasets, DATASET_NAMES
 from extractor import extract_batch
