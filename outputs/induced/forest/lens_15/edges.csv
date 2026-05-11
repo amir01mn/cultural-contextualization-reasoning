@@ -1,80 +1,33 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,diwali,algerian celebrations,used_in,1,arabculture
-1,3,diwali,leisure,used_for,1,arabculture
-1,4,diwali,algeria,used_in,1,arabculture
-5,6,fava beans,breakfast,for,1,arabculture
-7,8,evening meal,recreational activities,used_for,1,arabculture
-9,10,حلاوة,sweetening,used_for,1,arabculture
-1,11,diwali,أسرته,for,1,arabculture
-12,13,white dye,coloring song,used_for,1,arabculture
-14,15,prayer,eid al-fitr,for,1,arabculture
-16,17,incense,religious feast preparations,used_in,1,arabculture
-18,1,flashes and soap,diwali,used_for,1,arabculture
-19,20,floor mats,childhood entertainment,used_for,1,arabculture
-1,21,diwali,"sarees, salwar suits",used_for,1,diwali
-1,22,diwali,weddings and special occasions,used_for,1,diwali
-1,23,diwali,minyong sub-tribe,used_by,1,diwali
-24,25,eri silk,"shawls, winter clothing",used_for,1,diwali
-1,26,diwali,various rituals,used_for,1,diwali
-1,27,diwali,garments and accessories,used_for,2,diwali
-1,28,diwali,"festivals, dances, and marriages",used_for,1,diwali
-29,30,textiles,traditional garments,used_for,1,diwali
-1,31,diwali,shawls and skirts,used_for,1,diwali
-1,32,diwali,blankets,used_as,1,diwali
-1,33,diwali,blanket,used_as,1,diwali
-4,1,algeria,diwali,used_for,1,diwali
-1,34,diwali,garments,used_for,1,diwali
-35,36,natural pigments,painting designs,used_in,1,diwali
-1,37,diwali,muffler,used_for,1,diwali
-1,38,diwali,"shawls, garments",used_for,1,diwali
-1,39,diwali,cultural ceremonies,used_in,1,diwali
-40,41,berhampuri patta,deities,used_for,2,diwali
-1,42,diwali,sarees and turbans,used_for,1,diwali
-1,43,diwali,bridal wear,used_for,1,diwali
-1,44,diwali,upper garment,used_for,1,diwali
-1,45,diwali,cold mountain climate,used_for,1,diwali
-1,46,diwali,religious ceremonies,used_for,1,diwali
-1,4,diwali,algeria,used_for,2,diwali
-1,47,diwali,religious ceremonies and festivals in bengal,used_for,1,diwali
-48,4,pandanus leaves,algeria,used_for,1,diwali
-49,50,nicobari banners,local ceremonies,used_for,1,diwali
-1,51,diwali,blanket or shawl,used_for,1,diwali
-52,34,fabric,garments,used_for,2,diwali
-52,53,fabric,furnishings,used_for,1,diwali
-54,55,unconventional ways,displaying flags,used_for,1,culturebank
-56,57,peanut butter,healthy snack,used_as,1,culturebank
-1,58,diwali,communication,used_in,1,culturebank
-59,60,plastic plates,casual dinner,used_for,1,culturebank
-61,62,mangle,pressing sheets and tablecloths,used_for,1,culturebank
-1,63,diwali,rain and sun protection,used_for,1,culturebank
-64,65,uncanned whipped cream,desserts and cooking,used_in,1,culturebank
-1,66,diwali,sandwich storage,used_for,1,culturebank
-56,67,peanut butter,baking,used_for,1,culturebank
-56,68,peanut butter,spreading,used_for,1,culturebank
-56,1,peanut butter,diwali,used_as,1,culturebank
-69,70,towels,various purposes,used_for,1,culturebank
-71,1,fresh strawberries,diwali,used_for,1,culturebank
-72,73,lanes,passing or overtaking,used_for,1,culturebank
-74,75,doggy bag,taking home leftovers,used_for,1,culturebank
-1,76,diwali,personal hygiene purposes,used_for,1,culturebank
-77,78,greeting,testing familiarity,used_for,1,culturebank
-1,79,diwali,walking,used_for,1,culturebank
-1,80,diwali,traffic regulation,used_in,1,culturebank
-81,4,horse,algeria,used_in_sport,1,blend
-1,82,diwali,limited regions,used_in_sport,1,blend
-83,1,gifts,diwali,for,1,blend
-84,85,candle,nurse's ritual,used_in,1,candle
-1,86,diwali,doctor,used_by,1,candle
-87,88,questions,screening,used_in,1,candle
-89,1,instrument,diwali,for,1,candle
-90,91,dental x-ray,patient assessment,used_for,1,candle
-1,92,diwali,patient,for,1,candle
-1,93,diwali,cleaning teeth,used_for,1,candle
-94,1,chair,diwali,used_for,1,candle
-95,96,media,politician,used_by,1,candle
-84,97,candle,ritual,used_in,2,candle
-1,98,diwali,mehndi art,used_for,1,candle
-99,100,document,signing,for,1,candle
-101,102,number,scientific counting,used_for,1,candle
-87,1,questions,diwali,used_for,1,candle
-103,104,sperm sample,implanting eggs,used_for,1,candle
+4,5,fava beans,breakfast,for,1,arabculture
+6,7,evening meal,recreational activities,used_for,1,arabculture
+9,10,white dye,coloring song,used_for,1,arabculture
+11,12,prayer,eid al-fitr,for,1,arabculture
+13,14,incense,religious feast preparations,used_in,1,arabculture
+16,17,floor mats,childhood entertainment,used_for,1,arabculture
+21,22,eri silk,"shawls, winter clothing",used_for,1,diwali
+26,27,textiles,traditional garments,used_for,1,diwali
+32,33,natural pigments,painting designs,used_in,1,diwali
+37,38,berhampuri patta,deities,used_for,2,diwali
+45,3,pandanus leaves,algeria,used_for,1,diwali
+46,47,nicobari banners,local ceremonies,used_for,1,diwali
+49,31,fabric,garments,used_for,2,diwali
+49,50,fabric,furnishings,used_for,1,diwali
+51,52,unconventional ways,displaying flags,used_for,1,culturebank
+53,54,peanut butter,healthy snack,used_as,1,culturebank
+56,57,plastic plates,casual dinner,used_for,1,culturebank
+58,59,mangle,pressing sheets and tablecloths,used_for,1,culturebank
+61,62,uncanned whipped cream,desserts and cooking,used_in,1,culturebank
+53,64,peanut butter,baking,used_for,1,culturebank
+53,65,peanut butter,spreading,used_for,1,culturebank
+66,67,towels,various purposes,used_for,1,culturebank
+69,70,lanes,passing or overtaking,used_for,1,culturebank
+71,72,doggy bag,taking home leftovers,used_for,1,culturebank
+74,75,greeting,testing familiarity,used_for,1,culturebank
+78,3,horse,algeria,used_in_sport,1,blend
+83,84,questions,screening,used_in,1,candle
+86,87,dental x-ray,patient assessment,used_for,1,candle
+91,92,media,politician,used_by,1,candle
+95,96,document,signing,for,1,candle
+97,98,number,scientific counting,used_for,1,candle
+99,100,sperm sample,implanting eggs,used_for,1,candle

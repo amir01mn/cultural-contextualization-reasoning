@@ -1,62 +1,61 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,diwali,3,algeria,unknown,arabculture,74
-2,fruit festival annually,3,algeria,unknown,arabculture,1
-3,algeria,3,algeria,unknown,arabculture,31
-4,non-religious celebrations,3,algeria,unknown,arabculture,1
-5,north africa,1,algeria,unknown,arabculture,1
-6,ahnab al-'um practice,3,algeria,unknown,arabculture,1
-7,nile valley,1,egypt,unknown,arabculture,9
-8,morning,1,egypt,unknown,arabculture,1
-9,wedding celebrations,1,egypt,unknown,arabculture,1
-10,musical event,3,egypt,unknown,arabculture,1
-11,dance,1,egypt,unknown,arabculture,2
-12,nagaland,3,nagaland,unknown,diwali,1
-13,lambadi dance,3,andhra pradesh,unknown,diwali,1
-14,chenchu bhagotham dance,3,andhra pradesh,unknown,diwali,1
-15,carcari dance,3,andhra pradesh,unknown,diwali,1
-16,aji lhamu festival,3,arunachal pradesh,unknown,diwali,1
-17,rikham pada dance,3,arunachal pradesh,unknown,diwali,1
-18,wancho bag,1,arunachal pradesh,unknown,diwali,1
-19,nishing community,3,arunachal pradesh,unknown,diwali,1
-20,united states,4,assam,unknown,diwali,45
-21,traditional drum-based dances,3,assam,unknown,diwali,1
-22,barpeta's bhortal nritya,1,assam,unknown,diwali,1
-23,ras leela dance-drama,3,assam,unknown,diwali,1
-24,deori bihu dance,1,assam,unknown,diwali,1
-25,kalaigaon dance,1,assam,unknown,diwali,2
-26,dhuliya dance,1,assam,unknown,diwali,3
-27,ali ai ligang,3,assam,unknown,diwali,1
-28,nimso kerung dance,3,assam,unknown,diwali,1
-29,ojapali,1,assam,unknown,diwali,1
-30,jhijhiya dance,3,bihar,unknown,diwali,1
-31,fagua dance,3,bihar,unknown,diwali,1
-32,chhau dance,1,bihar,unknown,diwali,1
-33,jatra dance,1,bihar,unknown,diwali,2
-34,natua,1,bihar,unknown,diwali,1
-35,paika,1,bihar,unknown,diwali,1
-36,chhattisgarh,1,chhattisgarh,unknown,diwali,18
-37,pandavani performances,3,chhattisgarh,unknown,diwali,1
-38,khamba swang dance,3,chhattisgarh,unknown,diwali,1
-39,jhumar,1,chhattisgarh,unknown,diwali,1
-40,nacha dance,1,chhattisgarh,unknown,diwali,2
-41,sport activities,3,dz,unknown,blend,1
-42,biggest festival,3,dz,unknown,blend,1
-43,popular religious sites,3,dz,unknown,blend,1
-44,supported sport,3,dz,unknown,blend,1
-45,sports fields,3,dz,unknown,blend,1
-46,school sports day,3,dz,unknown,blend,1
-47,e-sports games,3,dz,unknown,blend,1
-48,popular domestic vacations,3,dz,unknown,blend,1
-49,competitive track and field events,3,dz,unknown,blend,1
-50,popular clubs,3,dz,unknown,blend,1
-51,popular track and field sport,3,dz,unknown,blend,1
-52,olympic games,3,dz,unknown,blend,1
-53,popular sports-related tv programs,3,dz,unknown,blend,1
-54,most popular,1,dz,unknown,blend,1
-55,popular extracurricular social events,3,dz,unknown,blend,1
-56,hotel,3,clerk,unknown,candle,1
-57,stay,3,clerk,unknown,candle,1
-58,nurse,3,nurse,unknown,candle,1
-59,hospital,3,nurse,unknown,candle,1
-60,nurses' week celebration,3,nurse,unknown,candle,1
+1,fruit festival annually,3,algeria,unknown,arabculture,1
+2,algeria,1,algeria,unknown,arabculture,31
+3,non-religious celebrations,3,algeria,unknown,arabculture,1
+4,north africa,1,algeria,unknown,arabculture,1
+5,ahnab al-'um practice,3,algeria,unknown,arabculture,1
+6,nile valley,1,egypt,unknown,arabculture,9
+7,morning,1,egypt,unknown,arabculture,1
+8,wedding celebrations,1,egypt,unknown,arabculture,1
+9,musical event,3,egypt,unknown,arabculture,1
+10,dance,1,egypt,unknown,arabculture,2
+11,nagaland,3,nagaland,unknown,diwali,1
+12,lambadi dance,3,andhra pradesh,unknown,diwali,1
+13,chenchu bhagotham dance,3,andhra pradesh,unknown,diwali,1
+14,carcari dance,3,andhra pradesh,unknown,diwali,1
+15,aji lhamu festival,3,arunachal pradesh,unknown,diwali,1
+16,rikham pada dance,3,arunachal pradesh,unknown,diwali,1
+17,wancho bag,3,arunachal pradesh,unknown,diwali,1
+18,nishing community,3,arunachal pradesh,unknown,diwali,1
+19,united states,1,assam,unknown,diwali,45
+20,traditional drum-based dances,3,assam,unknown,diwali,1
+21,barpeta's bhortal nritya,2,assam,unknown,diwali,1
+22,ras leela dance-drama,3,assam,unknown,diwali,1
+23,deori bihu dance,2,assam,unknown,diwali,1
+24,kalaigaon dance,3,assam,unknown,diwali,2
+25,dhuliya dance,2,assam,unknown,diwali,3
+26,ali ai ligang,3,assam,unknown,diwali,1
+27,nimso kerung dance,3,assam,unknown,diwali,1
+28,ojapali,3,assam,unknown,diwali,1
+29,jhijhiya dance,3,bihar,unknown,diwali,1
+30,fagua dance,3,bihar,unknown,diwali,1
+31,chhau dance,2,bihar,unknown,diwali,1
+32,jatra dance,3,bihar,unknown,diwali,2
+33,natua,3,bihar,unknown,diwali,1
+34,paika,3,bihar,unknown,diwali,1
+35,chhattisgarh,1,chhattisgarh,unknown,diwali,18
+36,pandavani performances,3,chhattisgarh,unknown,diwali,1
+37,khamba swang dance,3,chhattisgarh,unknown,diwali,1
+38,jhumar,3,chhattisgarh,unknown,diwali,1
+39,nacha dance,3,chhattisgarh,unknown,diwali,2
+40,sport activities,3,dz,unknown,blend,1
+41,biggest festival,3,dz,unknown,blend,1
+42,popular religious sites,3,dz,unknown,blend,1
+43,supported sport,3,dz,unknown,blend,1
+44,sports fields,3,dz,unknown,blend,1
+45,school sports day,3,dz,unknown,blend,1
+46,e-sports games,3,dz,unknown,blend,1
+47,popular domestic vacations,3,dz,unknown,blend,1
+48,competitive track and field events,3,dz,unknown,blend,1
+49,popular clubs,3,dz,unknown,blend,1
+50,popular track and field sport,3,dz,unknown,blend,1
+51,olympic games,3,dz,unknown,blend,1
+52,popular sports-related tv programs,3,dz,unknown,blend,1
+53,most popular,3,dz,unknown,blend,1
+54,popular extracurricular social events,3,dz,unknown,blend,1
+55,hotel,3,clerk,unknown,candle,1
+56,stay,3,clerk,unknown,candle,1
+57,nurse,1,nurse,unknown,candle,1
+58,hospital,3,nurse,unknown,candle,1
+59,nurses' week celebration,3,nurse,unknown,candle,1

@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 17
-    },
-    {
-      "id": 2,
       "label": "ramadan",
       "level": 1,
       "cultural_group": "algeria",
@@ -33,7 +24,7 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "dish",
       "level": 3,
       "cultural_group": "algeria",
@@ -42,7 +33,7 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "handloom silk sarees",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "blouse material",
       "level": 3,
       "cultural_group": "karnataka",
@@ -60,7 +51,7 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "dance",
       "level": 1,
       "cultural_group": "andhra pradesh",
@@ -69,16 +60,16 @@
       "frequency": 7
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "dance-drama",
-      "level": 1,
+      "level": 3,
       "cultural_group": "andhra pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "ritualistic dance",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -87,16 +78,16 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "andhra pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "ritual dance",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "yellow mustard",
       "level": 3,
       "cultural_group": "general",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "fast-food",
       "level": 3,
       "cultural_group": "dz",
@@ -123,18 +114,18 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "restaurant",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "cleaning",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dentist",
       "domain": "unknown",
       "source_dataset": "candle",
@@ -143,71 +134,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "ramadan",
-      "relation_type": "is_a_type_of",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "source_label": "diwali",
-      "target_label": "dish",
-      "relation_type": "a_type_of",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "handloom silk sarees",
-      "relation_type": "type_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
+      "source": 8,
       "target": 5,
-      "source_label": "diwali",
-      "target_label": "blouse material",
-      "relation_type": "type_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "dance",
-      "relation_type": "type_of",
-      "weight": 3,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "source_label": "diwali",
-      "target_label": "dance-drama",
-      "relation_type": "type_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 8,
-      "source_label": "diwali",
-      "target_label": "ritualistic dance",
-      "relation_type": "type_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 9,
-      "target": 6,
       "source_label": "algeria",
       "target_label": "dance",
       "relation_type": "type_of",
@@ -215,53 +143,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "dance",
-      "relation_type": "is_a_type_of",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "source_label": "diwali",
-      "target_label": "dance-drama",
-      "relation_type": "a_type_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "dance",
-      "relation_type": "a_type_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 10,
-      "source_label": "diwali",
-      "target_label": "ritual dance",
-      "relation_type": "type_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
       "source": 11,
-      "target": 1,
-      "source_label": "yellow mustard",
-      "target_label": "diwali",
-      "relation_type": "type_of",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 12,
-      "target": 13,
+      "target": 12,
       "source_label": "fast-food",
       "target_label": "restaurant",
       "relation_type": "type_of",

@@ -16,33 +16,24 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 33
-    },
-    {
-      "id": 2,
       "label": "mising tribe",
-      "level": 1,
+      "level": 3,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "kunbi saree",
-      "level": 1,
+      "level": 3,
       "cultural_group": "goa",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "100% cotton",
       "level": 3,
       "cultural_group": "goa",
@@ -51,25 +42,25 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "mashru",
-      "level": 1,
+      "level": 3,
       "cultural_group": "gujarat",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "gujarat",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 9
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "coarse woolen yarns",
       "level": 3,
       "cultural_group": "gujarat",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "woolen textile",
       "level": 3,
       "cultural_group": "gujarat",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "handloom fabric",
       "level": 3,
       "cultural_group": "himachal pradesh",
@@ -96,16 +87,16 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "chanderi sari",
-      "level": 1,
+      "level": 3,
       "cultural_group": "madhya pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "fine white cotton",
       "level": 3,
       "cultural_group": "manipur",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "domesticated silkworm samia ricini",
       "level": 3,
       "cultural_group": "meghalaya",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "hand-spun cotton",
       "level": 3,
       "cultural_group": "meghalaya",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "hand-woven fabrics",
       "level": 3,
       "cultural_group": "meghalaya",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "hand-woven_fabrics",
       "level": 3,
       "cultural_group": "meghalaya",
@@ -150,16 +141,16 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "berhampuri patta",
-      "level": 1,
+      "level": 3,
       "cultural_group": "odisha",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "eri silk",
       "level": 1,
       "cultural_group": "odisha",
@@ -168,7 +159,7 @@
       "frequency": 2
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "handwoven fabrics",
       "level": 3,
       "cultural_group": "punjab",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "2/20s cotton yarn",
       "level": 3,
       "cultural_group": "sikkim",
@@ -186,16 +177,16 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "thirubuvanam silk saree",
-      "level": 1,
+      "level": 5,
       "cultural_group": "tamil nadu",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "hand painting",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -204,25 +195,25 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "koorainadu saree",
-      "level": 1,
+      "level": 4,
       "cultural_group": "tamil nadu",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "blankets",
-      "level": 1,
+      "level": 3,
       "cultural_group": "telangana",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "deccani sheep wool",
       "level": 3,
       "cultural_group": "telangana",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "traditional textile",
       "level": 3,
       "cultural_group": "tripura",
@@ -240,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "woolen material",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -249,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "white or off-white fabric",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "locally sourced sheep and yak wool",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -267,16 +258,16 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "nicobari banners",
-      "level": 1,
+      "level": 4,
       "cultural_group": "andaman and nicobar islands",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "white cotton fabric",
       "level": 3,
       "cultural_group": "andaman and nicobar islands",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "luxurious fabrics like silk",
       "level": 3,
       "cultural_group": "delhi",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "tibetan antelope under-fleece",
       "level": 3,
       "cultural_group": "jammu and kashmir",
@@ -303,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "felted wool",
       "level": 3,
       "cultural_group": "jammu and kashmir",
@@ -312,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "recycled woolen fabrics",
       "level": 3,
       "cultural_group": "jammu and kashmir",
@@ -321,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "wool or silk",
       "level": 3,
       "cultural_group": "jammu and kashmir",
@@ -330,16 +321,16 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "pashmina shawl",
-      "level": 1,
+      "level": 3,
       "cultural_group": "ladakh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "sheep wool",
       "level": 3,
       "cultural_group": "ladakh",
@@ -348,7 +339,7 @@
       "frequency": 1
     },
     {
-      "id": 38,
+      "id": 37,
       "label": "hand-woven woolen fabric",
       "level": 3,
       "cultural_group": "ladakh",
@@ -357,7 +348,7 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 38,
       "label": "rectangular piece of cloth",
       "level": 3,
       "cultural_group": "lakshadweep",
@@ -366,7 +357,7 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 39,
       "label": "coir and screwpine leaves",
       "level": 3,
       "cultural_group": "lakshadweep",
@@ -375,7 +366,7 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 40,
       "label": "khadi",
       "level": 3,
       "cultural_group": "puducherry",
@@ -384,7 +375,7 @@
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 41,
       "label": "hand-spun and hand-woven",
       "level": 3,
       "cultural_group": "puducherry",
@@ -393,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 42,
       "label": "cumin and coriander seeds",
       "level": 3,
       "cultural_group": "dz",
@@ -404,17 +395,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "mising tribe",
-      "relation_type": "is_made_by",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "kunbi saree",
       "target_label": "100% cotton",
       "relation_type": "made_from",
@@ -422,8 +404,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 5,
-      "target": 6,
+      "source": 4,
+      "target": 5,
       "source_label": "mashru",
       "target_label": "algeria",
       "relation_type": "is_made_of",
@@ -431,44 +413,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 7,
-      "source_label": "diwali",
-      "target_label": "coarse woolen yarns",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 8,
-      "source_label": "diwali",
-      "target_label": "woolen textile",
-      "relation_type": "is_made_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 6,
-      "target": 1,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 9,
-      "source_label": "diwali",
-      "target_label": "handloom fabric",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 10,
-      "target": 6,
+      "source": 9,
+      "target": 5,
       "source_label": "chanderi sari",
       "target_label": "algeria",
       "relation_type": "made_of",
@@ -476,53 +422,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 11,
-      "source_label": "diwali",
-      "target_label": "fine white cotton",
-      "relation_type": "made_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 12,
-      "source_label": "diwali",
-      "target_label": "domesticated silkworm samia ricini",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 13,
-      "source_label": "diwali",
-      "target_label": "hand-spun cotton",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 14,
-      "source_label": "diwali",
-      "target_label": "hand-woven fabrics",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 15,
-      "source_label": "diwali",
-      "target_label": "hand-woven_fabrics",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 16,
-      "target": 17,
+      "source": 15,
+      "target": 16,
       "source_label": "berhampuri patta",
       "target_label": "eri silk",
       "relation_type": "made_from",
@@ -530,44 +431,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 18,
-      "source_label": "diwali",
-      "target_label": "handwoven fabrics",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "made_of",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 19,
-      "source_label": "diwali",
-      "target_label": "2/20s cotton yarn",
-      "relation_type": "is_made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 20,
-      "target": 17,
+      "source": 19,
+      "target": 16,
       "source_label": "thirubuvanam silk saree",
       "target_label": "eri silk",
       "relation_type": "made_from",
@@ -575,17 +440,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 21,
-      "source_label": "diwali",
-      "target_label": "hand painting",
-      "relation_type": "made_by",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 22,
-      "target": 6,
+      "source": 21,
+      "target": 5,
       "source_label": "koorainadu saree",
       "target_label": "algeria",
       "relation_type": "made_from",
@@ -593,8 +449,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 23,
-      "target": 24,
+      "source": 22,
+      "target": 23,
       "source_label": "blankets",
       "target_label": "deccani sheep wool",
       "relation_type": "made_from",
@@ -602,35 +458,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 25,
-      "source_label": "diwali",
-      "target_label": "traditional textile",
-      "relation_type": "made_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 26,
-      "source_label": "diwali",
-      "target_label": "woolen material",
-      "relation_type": "made_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
+      "source": 5,
       "target": 27,
-      "source_label": "diwali",
-      "target_label": "white or off-white fabric",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 6,
-      "target": 28,
       "source_label": "algeria",
       "target_label": "locally sourced sheep and yak wool",
       "relation_type": "made_from",
@@ -638,8 +467,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 29,
-      "target": 30,
+      "source": 28,
+      "target": 29,
       "source_label": "nicobari banners",
       "target_label": "white cotton fabric",
       "relation_type": "made_from",
@@ -647,53 +476,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 31,
-      "source_label": "diwali",
-      "target_label": "luxurious fabrics like silk",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 32,
-      "source_label": "diwali",
-      "target_label": "tibetan antelope under-fleece",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 33,
-      "source_label": "diwali",
-      "target_label": "felted wool",
-      "relation_type": "is_made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 34,
-      "source_label": "diwali",
-      "target_label": "recycled woolen fabrics",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
+      "source": 5,
       "target": 35,
-      "source_label": "diwali",
-      "target_label": "wool or silk",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 6,
-      "target": 36,
       "source_label": "algeria",
       "target_label": "pashmina shawl",
       "relation_type": "made_from",
@@ -701,58 +485,13 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 37,
-      "source_label": "diwali",
-      "target_label": "sheep wool",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 38,
-      "source_label": "diwali",
-      "target_label": "hand-woven woolen fabric",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 39,
-      "source_label": "diwali",
-      "target_label": "rectangular piece of cloth",
-      "relation_type": "made_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 40,
-      "source_label": "diwali",
-      "target_label": "coir and screwpine leaves",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 41,
-      "target": 42,
+      "source": 40,
+      "target": 41,
       "source_label": "khadi",
       "target_label": "hand-spun and hand-woven",
       "relation_type": "made_by",
       "weight": 1,
       "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 43,
-      "source_label": "diwali",
-      "target_label": "cumin and coriander seeds",
-      "relation_type": "made_from",
-      "weight": 1,
-      "source_dataset": "blend"
     }
   ]
 }

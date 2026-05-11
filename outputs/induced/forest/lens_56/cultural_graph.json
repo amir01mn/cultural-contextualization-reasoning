@@ -44,7 +44,7 @@
     {
       "id": 4,
       "label": "death",
-      "level": 1,
+      "level": 3,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -53,7 +53,7 @@
     {
       "id": 5,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "mizoram",
       "domain": "unknown",
       "source_dataset": "diwali",
@@ -62,7 +62,7 @@
     {
       "id": 6,
       "label": "loin loom weaving",
-      "level": 1,
+      "level": 4,
       "cultural_group": "mizoram",
       "domain": "unknown",
       "source_dataset": "diwali",
@@ -89,7 +89,7 @@
     {
       "id": 9,
       "label": "ajrakh",
-      "level": 1,
+      "level": 3,
       "cultural_group": "rajasthan",
       "domain": "unknown",
       "source_dataset": "diwali",
@@ -115,15 +115,6 @@
     },
     {
       "id": 12,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "jammu and kashmir",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 6
-    },
-    {
-      "id": 13,
       "label": "food consumption",
       "level": 1,
       "cultural_group": "general",
@@ -132,16 +123,16 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "air conditioning",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "diverse cultural landscape",
       "level": 3,
       "cultural_group": "general",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "blending",
       "level": 3,
       "cultural_group": "general",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "social interactions",
       "level": 1,
       "cultural_group": "general",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "misunderstandings",
       "level": 3,
       "cultural_group": "general",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "misunderstandings_or_lack_of_clarity",
       "level": 3,
       "cultural_group": "general",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "parenting plan",
       "level": 3,
       "cultural_group": "judge",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "judicial intervention",
       "level": 3,
       "cultural_group": "judge",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "difference",
       "level": 3,
       "cultural_group": "tailor",
@@ -213,18 +204,27 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "tailor-made",
-      "level": 1,
+      "level": 5,
       "cultural_group": "tailor",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "behavior",
-      "level": 1,
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "health",
+      "level": 3,
       "cultural_group": "dentist",
       "domain": "unknown",
       "source_dataset": "candle",
@@ -232,15 +232,6 @@
     },
     {
       "id": 25,
-      "label": "health",
-      "level": 1,
-      "cultural_group": "dentist",
-      "domain": "unknown",
-      "source_dataset": "candle",
-      "frequency": 1
-    },
-    {
-      "id": 26,
       "label": "regular_checkups",
       "level": 3,
       "cultural_group": "dentist",
@@ -249,16 +240,16 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "success",
-      "level": 1,
+      "level": 4,
       "cultural_group": "politician",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "doing same thing",
       "level": 3,
       "cultural_group": "politician",
@@ -323,8 +314,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 13,
-      "target": 14,
+      "source": 12,
+      "target": 13,
       "source_label": "food consumption",
       "target_label": "air conditioning",
       "relation_type": "result_of",
@@ -332,8 +323,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 15,
-      "target": 16,
+      "source": 14,
+      "target": 15,
       "source_label": "diverse cultural landscape",
       "target_label": "blending",
       "relation_type": "result_of",
@@ -341,8 +332,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 17,
-      "target": 18,
+      "source": 16,
+      "target": 17,
       "source_label": "social interactions",
       "target_label": "misunderstandings",
       "relation_type": "result_in",
@@ -350,17 +341,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 12,
-      "target": 19,
-      "source_label": "diwali",
-      "target_label": "misunderstandings_or_lack_of_clarity",
-      "relation_type": "result_of",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 20,
-      "target": 21,
+      "source": 19,
+      "target": 20,
       "source_label": "parenting plan",
       "target_label": "judicial intervention",
       "relation_type": "result_of",
@@ -368,8 +350,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 22,
-      "target": 23,
+      "source": 21,
+      "target": 22,
       "source_label": "difference",
       "target_label": "tailor-made",
       "relation_type": "result_of",
@@ -378,16 +360,7 @@
     },
     {
       "source": 24,
-      "target": 12,
-      "source_label": "behavior",
-      "target_label": "diwali",
-      "relation_type": "result_of",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 25,
-      "target": 26,
+      "target": 25,
       "source_label": "health",
       "target_label": "regular_checkups",
       "relation_type": "result_of",
@@ -395,8 +368,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 27,
-      "target": 28,
+      "source": 26,
+      "target": 27,
       "source_label": "success",
       "target_label": "doing same thing",
       "relation_type": "result_of",

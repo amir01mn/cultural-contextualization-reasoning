@@ -25,24 +25,15 @@
     },
     {
       "id": 2,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 6
-    },
-    {
-      "id": 3,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 11
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "islamic teachings",
       "level": 3,
       "cultural_group": "algeria",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "reversible wear",
       "level": 3,
       "cultural_group": "maharashtra",
@@ -60,7 +51,7 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "dress codes",
       "level": 3,
       "cultural_group": "general",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "specific locations",
       "level": 3,
       "cultural_group": "general",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "lockdown procedures",
       "level": 3,
       "cultural_group": "general",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "traffic signals",
       "level": 3,
       "cultural_group": "general",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "early bedtime routines",
       "level": 3,
       "cultural_group": "general",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "drivers",
       "level": 1,
       "cultural_group": "general",
@@ -114,16 +105,16 @@
       "frequency": 2
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "shopping",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "unwritten rules",
       "level": 3,
       "cultural_group": "general",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "strict rules",
       "level": 3,
       "cultural_group": "general",
@@ -141,25 +132,25 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "football",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "questions",
-      "level": 1,
+      "level": 2,
       "cultural_group": "biologist",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 2
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "teacher directions",
       "level": 3,
       "cultural_group": "teacher",
@@ -168,16 +159,16 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "nurse",
-      "level": 3,
+      "level": 1,
       "cultural_group": "nurse",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 6
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "regular schedule",
       "level": 3,
       "cultural_group": "nurse",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "orders",
       "level": 3,
       "cultural_group": "nurse",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "patient's religious practices",
       "level": 3,
       "cultural_group": "nurse",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "doctor's order",
       "level": 3,
       "cultural_group": "nurse",
@@ -213,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "artist",
       "level": 1,
       "cultural_group": "artist",
@@ -222,7 +213,7 @@
       "frequency": 2
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "before tattoo",
       "level": 3,
       "cultural_group": "artist",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "after tattoo",
       "level": 3,
       "cultural_group": "artist",
@@ -240,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "doctors' orders",
       "level": 3,
       "cultural_group": "doctor",
@@ -249,9 +240,9 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "order",
-      "level": 1,
+      "level": 3,
       "cultural_group": "doctor",
       "domain": "unknown",
       "source_dataset": "candle",
@@ -260,17 +251,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "religious ceremonies",
-      "target_label": "diwali",
-      "relation_type": "followed_by",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "algeria",
       "target_label": "islamic teachings",
       "relation_type": "follow",
@@ -280,15 +262,6 @@
     {
       "source": 2,
       "target": 5,
-      "source_label": "diwali",
-      "target_label": "reversible wear",
-      "relation_type": "allows",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 6,
       "source_label": "algeria",
       "target_label": "dress codes",
       "relation_type": "follow",
@@ -296,17 +269,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 7,
-      "target": 2,
-      "source_label": "specific locations",
-      "target_label": "diwali",
-      "relation_type": "allows",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 3,
-      "target": 8,
+      "source": 2,
+      "target": 7,
       "source_label": "algeria",
       "target_label": "lockdown procedures",
       "relation_type": "follow",
@@ -316,15 +280,6 @@
     {
       "source": 2,
       "target": 9,
-      "source_label": "diwali",
-      "target_label": "traffic signals",
-      "relation_type": "follow",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 3,
-      "target": 10,
       "source_label": "algeria",
       "target_label": "early bedtime routines",
       "relation_type": "follow",
@@ -333,16 +288,7 @@
     },
     {
       "source": 11,
-      "target": 2,
-      "source_label": "drivers",
-      "target_label": "diwali",
-      "relation_type": "follow",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 12,
-      "target": 13,
+      "target": 12,
       "source_label": "shopping",
       "target_label": "unwritten rules",
       "relation_type": "follow",
@@ -350,8 +296,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 3,
-      "target": 14,
+      "source": 2,
+      "target": 13,
       "source_label": "algeria",
       "target_label": "strict rules",
       "relation_type": "follow",
@@ -359,17 +305,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 11,
-      "target": 2,
-      "source_label": "drivers",
-      "target_label": "diwali",
-      "relation_type": "follows",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 3,
-      "target": 15,
+      "source": 2,
+      "target": 14,
       "source_label": "algeria",
       "target_label": "football",
       "relation_type": "follow",
@@ -377,8 +314,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 3,
-      "target": 17,
+      "source": 2,
+      "target": 16,
       "source_label": "algeria",
       "target_label": "teacher directions",
       "relation_type": "follows",
@@ -386,8 +323,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 18,
-      "target": 19,
+      "source": 17,
+      "target": 18,
       "source_label": "nurse",
       "target_label": "regular schedule",
       "relation_type": "follows",
@@ -395,8 +332,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 18,
-      "target": 20,
+      "source": 17,
+      "target": 19,
       "source_label": "nurse",
       "target_label": "orders",
       "relation_type": "follows",
@@ -404,8 +341,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 18,
-      "target": 21,
+      "source": 17,
+      "target": 20,
       "source_label": "nurse",
       "target_label": "patient's religious practices",
       "relation_type": "follow",
@@ -413,8 +350,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 18,
-      "target": 22,
+      "source": 17,
+      "target": 21,
       "source_label": "nurse",
       "target_label": "doctor's order",
       "relation_type": "follows",
@@ -422,8 +359,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 23,
-      "target": 24,
+      "source": 22,
+      "target": 23,
       "source_label": "artist",
       "target_label": "before tattoo",
       "relation_type": "follows_routine",
@@ -431,8 +368,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 23,
-      "target": 25,
+      "source": 22,
+      "target": 24,
       "source_label": "artist",
       "target_label": "after tattoo",
       "relation_type": "follows_routine",
@@ -440,8 +377,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 18,
-      "target": 26,
+      "source": 17,
+      "target": 25,
       "source_label": "nurse",
       "target_label": "doctors' orders",
       "relation_type": "follows",
@@ -449,8 +386,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 27,
-      "target": 18,
+      "source": 26,
+      "target": 17,
       "source_label": "order",
       "target_label": "nurse",
       "relation_type": "followed_by",

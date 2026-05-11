@@ -1,29 +1,28 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,algeria,3,algeria,unknown,arabculture,8
+1,algeria,1,algeria,unknown,arabculture,8
 2,nutritious and full meal,3,algeria,unknown,arabculture,1
-3,diwali,3,algeria,unknown,arabculture,6
-4,personal time,3,algeria,unknown,arabculture,1
-5,success,1,algeria,unknown,arabculture,1
-6,morning meal for children,3,algeria,unknown,arabculture,1
-7,nile valley,1,egypt,unknown,arabculture,1
-8,timeliness,3,egypt,unknown,arabculture,1
-9,united states,4,general,unknown,culturebank,9
-10,through measures,3,general,unknown,culturebank,1
-11,accessibility,1,general,unknown,culturebank,1
-12,convenience and efficiency,3,general,unknown,culturebank,1
-13,movie theater patrons,1,general,unknown,culturebank,3
-14,dressing comfortably,3,general,unknown,culturebank,1
-15,seeking comfortable seating,3,general,unknown,culturebank,1
-16,using blankets,3,general,unknown,culturebank,1
-17,individuals,1,general,unknown,culturebank,1
-18,liberty,3,general,unknown,culturebank,1
-19,interpersonal connections,3,general,unknown,culturebank,1
-20,door usage,3,general,unknown,culturebank,1
-21,safety and well-being,3,general,unknown,culturebank,1
-22,car ownership,3,general,unknown,culturebank,1
-23,family welfare,3,dz,unknown,blend,1
-24,education system,1,dz,unknown,blend,2
-25,employment-focused majors,3,dz,unknown,blend,1
-26,arabic language,3,dz,unknown,blend,1
-27,nurse,3,nurse,unknown,candle,1
+3,personal time,3,algeria,unknown,arabculture,1
+4,success,4,algeria,unknown,arabculture,1
+5,morning meal for children,3,algeria,unknown,arabculture,1
+6,nile valley,1,egypt,unknown,arabculture,1
+7,timeliness,3,egypt,unknown,arabculture,1
+8,united states,1,general,unknown,culturebank,9
+9,through measures,3,general,unknown,culturebank,1
+10,accessibility,4,general,unknown,culturebank,1
+11,convenience and efficiency,3,general,unknown,culturebank,1
+12,movie theater patrons,4,general,unknown,culturebank,3
+13,dressing comfortably,3,general,unknown,culturebank,1
+14,seeking comfortable seating,3,general,unknown,culturebank,1
+15,using blankets,3,general,unknown,culturebank,1
+16,individuals,1,general,unknown,culturebank,1
+17,liberty,3,general,unknown,culturebank,1
+18,interpersonal connections,3,general,unknown,culturebank,1
+19,door usage,3,general,unknown,culturebank,1
+20,safety and well-being,3,general,unknown,culturebank,1
+21,car ownership,3,general,unknown,culturebank,1
+22,family welfare,3,dz,unknown,blend,1
+23,education system,1,dz,unknown,blend,2
+24,employment-focused majors,3,dz,unknown,blend,1
+25,arabic language,3,dz,unknown,blend,1
+26,nurse,1,nurse,unknown,candle,1

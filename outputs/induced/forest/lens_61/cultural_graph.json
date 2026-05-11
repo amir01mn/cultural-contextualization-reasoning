@@ -35,7 +35,7 @@
     {
       "id": 3,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -52,15 +52,6 @@
     },
     {
       "id": 5,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 6
-    },
-    {
-      "id": 6,
       "label": "sufficient skincare",
       "level": 3,
       "cultural_group": "algeria",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "avoids thirst",
       "level": 3,
       "cultural_group": "algeria",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "farming communities",
       "level": 3,
       "cultural_group": "algeria",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "suitable conditions",
       "level": 3,
       "cultural_group": "algeria",
@@ -96,25 +87,25 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "daily exercise",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "safety",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "candy distribution",
       "level": 3,
       "cultural_group": "general",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "smooth running",
       "level": 3,
       "cultural_group": "clerk",
@@ -132,25 +123,25 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "success",
-      "level": 1,
+      "level": 4,
       "cultural_group": "teacher",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "nurse",
-      "level": 3,
+      "level": 1,
       "cultural_group": "nurse",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "well-fed",
       "level": 3,
       "cultural_group": "nurse",
@@ -159,16 +150,16 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "regular visits",
-      "level": 1,
+      "level": 5,
       "cultural_group": "dentist",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "treatment progress",
       "level": 3,
       "cultural_group": "dentist",
@@ -177,16 +168,16 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "professional dog walker",
-      "level": 1,
+      "level": 5,
       "cultural_group": "dog walker",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "regular walks",
       "level": 3,
       "cultural_group": "dog walker",
@@ -195,16 +186,16 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "attorney",
-      "level": 2,
+      "level": 1,
       "cultural_group": "attorney",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "legal compliance",
       "level": 3,
       "cultural_group": "attorney",
@@ -233,26 +224,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 5,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "sufficient skincare",
-      "relation_type": "ensures",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 5,
-      "target": 7,
-      "source_label": "diwali",
-      "target_label": "avoids thirst",
-      "relation_type": "ensures",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 8,
-      "target": 9,
+      "source": 7,
+      "target": 8,
       "source_label": "farming communities",
       "target_label": "suitable conditions",
       "relation_type": "ensure",
@@ -260,8 +233,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "daily exercise",
       "target_label": "safety",
       "relation_type": "ensures",
@@ -269,8 +242,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 11,
-      "target": 12,
+      "source": 10,
+      "target": 11,
       "source_label": "safety",
       "target_label": "candy distribution",
       "relation_type": "ensure",
@@ -278,26 +251,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 5,
-      "target": 13,
-      "source_label": "diwali",
-      "target_label": "smooth running",
-      "relation_type": "ensure",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 5,
-      "target": 14,
-      "source_label": "diwali",
-      "target_label": "success",
-      "relation_type": "ensures",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 15,
-      "target": 16,
+      "source": 14,
+      "target": 15,
       "source_label": "nurse",
       "target_label": "well-fed",
       "relation_type": "ensures",
@@ -305,8 +260,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 17,
-      "target": 18,
+      "source": 16,
+      "target": 17,
       "source_label": "regular visits",
       "target_label": "treatment progress",
       "relation_type": "ensure",
@@ -314,8 +269,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 19,
-      "target": 20,
+      "source": 18,
+      "target": 19,
       "source_label": "professional dog walker",
       "target_label": "regular walks",
       "relation_type": "ensures",
@@ -323,8 +278,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 21,
-      "target": 22,
+      "source": 20,
+      "target": 21,
       "source_label": "attorney",
       "target_label": "legal compliance",
       "relation_type": "ensures",

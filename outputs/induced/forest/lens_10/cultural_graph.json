@@ -17,7 +17,7 @@
     {
       "id": 1,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -98,7 +98,7 @@
     {
       "id": 10,
       "label": "accessibility",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -107,7 +107,7 @@
     {
       "id": 11,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -115,15 +115,6 @@
     },
     {
       "id": 12,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 35
-    },
-    {
-      "id": 13,
       "label": "healthcare system",
       "level": 1,
       "cultural_group": "general",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "shopping at aldi",
       "level": 3,
       "cultural_group": "general",
@@ -141,16 +132,16 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "driving",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "hands over soap",
       "level": 3,
       "cultural_group": "general",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "fizzy and non-fizzy drinks",
       "level": 3,
       "cultural_group": "general",
@@ -168,16 +159,16 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "air conditioning",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "americans",
       "level": 1,
       "cultural_group": "general",
@@ -186,7 +177,7 @@
       "frequency": 2
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "taste",
       "level": 3,
       "cultural_group": "general",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "tea preparation",
       "level": 3,
       "cultural_group": "general",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "faster methods",
       "level": 3,
       "cultural_group": "general",
@@ -213,16 +204,16 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "france",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "disposable plates",
       "level": 3,
       "cultural_group": "general",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "ceramic plates",
       "level": 3,
       "cultural_group": "general",
@@ -240,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "powerful washing machines",
       "level": 3,
       "cultural_group": "general",
@@ -249,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "in laundry",
       "level": 3,
       "cultural_group": "general",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "warm, freshly made sandwiches",
       "level": 3,
       "cultural_group": "general",
@@ -267,16 +258,16 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "businesses",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "imperial units",
       "level": 3,
       "cultural_group": "general",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "canned whipped cream",
       "level": 3,
       "cultural_group": "general",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "homemade whipped cream",
       "level": 3,
       "cultural_group": "general",
@@ -303,16 +294,16 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "uncanned whipped cream",
-      "level": 1,
+      "level": 5,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "american food over french",
       "level": 3,
       "cultural_group": "general",
@@ -321,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "date format",
       "level": 3,
       "cultural_group": "general",
@@ -330,7 +321,7 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "mm/dd/yyyy",
       "level": 3,
       "cultural_group": "general",
@@ -339,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "running water or dishwasher",
       "level": 3,
       "cultural_group": "general",
@@ -348,7 +339,7 @@
       "frequency": 1
     },
     {
-      "id": 38,
+      "id": 37,
       "label": "culture group",
       "level": 3,
       "cultural_group": "general",
@@ -357,7 +348,7 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 38,
       "label": "early sleep",
       "level": 3,
       "cultural_group": "general",
@@ -366,7 +357,7 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 39,
       "label": "specific brands and flavors",
       "level": 3,
       "cultural_group": "general",
@@ -375,7 +366,7 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 40,
       "label": "unique flavors",
       "level": 3,
       "cultural_group": "general",
@@ -384,7 +375,7 @@
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 41,
       "label": "bread slicing",
       "level": 3,
       "cultural_group": "general",
@@ -393,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 42,
       "label": "using machines",
       "level": 3,
       "cultural_group": "general",
@@ -402,7 +393,7 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 43,
       "label": "diy nail care",
       "level": 3,
       "cultural_group": "general",
@@ -411,7 +402,7 @@
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 44,
       "label": "individuals",
       "level": 1,
       "cultural_group": "general",
@@ -420,7 +411,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 45,
       "label": "americanized chinese food",
       "level": 3,
       "cultural_group": "general",
@@ -429,7 +420,7 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 46,
       "label": "consumers",
       "level": 1,
       "cultural_group": "general",
@@ -438,16 +429,16 @@
       "frequency": 2
     },
     {
-      "id": 48,
+      "id": 47,
       "label": "peanut butter",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 49,
+      "id": 48,
       "label": "both fish and chips, french fries",
       "level": 3,
       "cultural_group": "general",
@@ -456,16 +447,16 @@
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 49,
       "label": "fresh strawberries",
-      "level": 1,
+      "level": 5,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 50,
       "label": "diy and professional services",
       "level": 3,
       "cultural_group": "general",
@@ -474,7 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 51,
       "label": "larger fruit sizes",
       "level": 3,
       "cultural_group": "general",
@@ -483,7 +474,7 @@
       "frequency": 1
     },
     {
-      "id": 53,
+      "id": 52,
       "label": "free communication methods",
       "level": 3,
       "cultural_group": "general",
@@ -492,7 +483,7 @@
       "frequency": 1
     },
     {
-      "id": 54,
+      "id": 53,
       "label": "credit card use",
       "level": 3,
       "cultural_group": "general",
@@ -501,7 +492,7 @@
       "frequency": 1
     },
     {
-      "id": 55,
+      "id": 54,
       "label": "supermarket shoppers",
       "level": 3,
       "cultural_group": "general",
@@ -510,7 +501,7 @@
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 55,
       "label": "self-bagging",
       "level": 3,
       "cultural_group": "general",
@@ -519,7 +510,7 @@
       "frequency": 1
     },
     {
-      "id": 57,
+      "id": 56,
       "label": "carbonated or sparkling water",
       "level": 3,
       "cultural_group": "general",
@@ -528,7 +519,7 @@
       "frequency": 1
     },
     {
-      "id": 58,
+      "id": 57,
       "label": "mobile apps",
       "level": 3,
       "cultural_group": "general",
@@ -537,7 +528,7 @@
       "frequency": 1
     },
     {
-      "id": 59,
+      "id": 58,
       "label": "consumer behavior",
       "level": 3,
       "cultural_group": "general",
@@ -546,16 +537,16 @@
       "frequency": 1
     },
     {
-      "id": 60,
+      "id": 59,
       "label": "shopping",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 61,
+      "id": 60,
       "label": "unique tuna salad preparation",
       "level": 3,
       "cultural_group": "general",
@@ -564,7 +555,7 @@
       "frequency": 1
     },
     {
-      "id": 62,
+      "id": 61,
       "label": "broadcasters",
       "level": 3,
       "cultural_group": "general",
@@ -573,16 +564,16 @@
       "frequency": 1
     },
     {
-      "id": 63,
+      "id": 62,
       "label": "tobacco products",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 64,
+      "id": 63,
       "label": "card payment",
       "level": 3,
       "cultural_group": "general",
@@ -591,7 +582,7 @@
       "frequency": 1
     },
     {
-      "id": 65,
+      "id": 64,
       "label": "significant space for ketchup",
       "level": 3,
       "cultural_group": "general",
@@ -600,7 +591,7 @@
       "frequency": 1
     },
     {
-      "id": 66,
+      "id": 65,
       "label": "bell peppers, including their chemical name and colloquial terms",
       "level": 3,
       "cultural_group": "general",
@@ -609,7 +600,7 @@
       "frequency": 1
     },
     {
-      "id": 67,
+      "id": 66,
       "label": "capsicum over bell peppers",
       "level": 3,
       "cultural_group": "general",
@@ -618,7 +609,7 @@
       "frequency": 1
     },
     {
-      "id": 68,
+      "id": 67,
       "label": "zelle for payments",
       "level": 3,
       "cultural_group": "general",
@@ -627,7 +618,7 @@
       "frequency": 1
     },
     {
-      "id": 69,
+      "id": 68,
       "label": "home-packed lunches",
       "level": 3,
       "cultural_group": "general",
@@ -636,7 +627,7 @@
       "frequency": 1
     },
     {
-      "id": 70,
+      "id": 69,
       "label": "rice as a side dish",
       "level": 3,
       "cultural_group": "general",
@@ -645,7 +636,7 @@
       "frequency": 1
     },
     {
-      "id": 71,
+      "id": 70,
       "label": "locally grown produce",
       "level": 3,
       "cultural_group": "general",
@@ -654,7 +645,7 @@
       "frequency": 1
     },
     {
-      "id": 72,
+      "id": 71,
       "label": "steroided produce",
       "level": 3,
       "cultural_group": "general",
@@ -663,7 +654,7 @@
       "frequency": 1
     },
     {
-      "id": 73,
+      "id": 72,
       "label": "expensive cars",
       "level": 3,
       "cultural_group": "general",
@@ -672,7 +663,7 @@
       "frequency": 1
     },
     {
-      "id": 74,
+      "id": 73,
       "label": "by consumers",
       "level": 3,
       "cultural_group": "general",
@@ -681,7 +672,7 @@
       "frequency": 1
     },
     {
-      "id": 75,
+      "id": 74,
       "label": "vacationers",
       "level": 3,
       "cultural_group": "general",
@@ -690,7 +681,7 @@
       "frequency": 1
     },
     {
-      "id": 76,
+      "id": 75,
       "label": "warm destinations",
       "level": 3,
       "cultural_group": "general",
@@ -699,7 +690,7 @@
       "frequency": 1
     },
     {
-      "id": 77,
+      "id": 76,
       "label": "us citizens",
       "level": 1,
       "cultural_group": "general",
@@ -708,7 +699,7 @@
       "frequency": 1
     },
     {
-      "id": 78,
+      "id": 77,
       "label": "fox news",
       "level": 3,
       "cultural_group": "general",
@@ -717,7 +708,7 @@
       "frequency": 1
     },
     {
-      "id": 79,
+      "id": 78,
       "label": "bathrooms",
       "level": 3,
       "cultural_group": "general",
@@ -726,7 +717,7 @@
       "frequency": 1
     },
     {
-      "id": 80,
+      "id": 79,
       "label": "bathtubs",
       "level": 3,
       "cultural_group": "general",
@@ -735,7 +726,7 @@
       "frequency": 1
     },
     {
-      "id": 81,
+      "id": 80,
       "label": "various oreos combinations",
       "level": 3,
       "cultural_group": "general",
@@ -744,7 +735,7 @@
       "frequency": 1
     },
     {
-      "id": 82,
+      "id": 81,
       "label": "certain snack foods",
       "level": 3,
       "cultural_group": "general",
@@ -753,7 +744,7 @@
       "frequency": 1
     },
     {
-      "id": 83,
+      "id": 82,
       "label": "algerian countryside",
       "level": 3,
       "cultural_group": "dz",
@@ -762,7 +753,7 @@
       "frequency": 1
     },
     {
-      "id": 84,
+      "id": 83,
       "label": "algerian seniors",
       "level": 3,
       "cultural_group": "dz",
@@ -771,7 +762,7 @@
       "frequency": 1
     },
     {
-      "id": 85,
+      "id": 84,
       "label": "parents",
       "level": 1,
       "cultural_group": "dz",
@@ -780,7 +771,7 @@
       "frequency": 1
     },
     {
-      "id": 86,
+      "id": 85,
       "label": "education system",
       "level": 1,
       "cultural_group": "dz",
@@ -789,7 +780,7 @@
       "frequency": 1
     },
     {
-      "id": 87,
+      "id": 86,
       "label": "morning",
       "level": 1,
       "cultural_group": "dz",
@@ -798,7 +789,7 @@
       "frequency": 1
     },
     {
-      "id": 88,
+      "id": 87,
       "label": "soup",
       "level": 3,
       "cultural_group": "dz",
@@ -807,7 +798,7 @@
       "frequency": 1
     },
     {
-      "id": 89,
+      "id": 88,
       "label": "certain occupations",
       "level": 3,
       "cultural_group": "dz",
@@ -816,7 +807,7 @@
       "frequency": 1
     },
     {
-      "id": 90,
+      "id": 89,
       "label": "activities",
       "level": 1,
       "cultural_group": "dz",
@@ -825,7 +816,7 @@
       "frequency": 1
     },
     {
-      "id": 91,
+      "id": 90,
       "label": "domestic vacation spots",
       "level": 3,
       "cultural_group": "dz",
@@ -834,7 +825,7 @@
       "frequency": 1
     },
     {
-      "id": 92,
+      "id": 91,
       "label": "adventure sports",
       "level": 3,
       "cultural_group": "dz",
@@ -843,7 +834,7 @@
       "frequency": 1
     },
     {
-      "id": 93,
+      "id": 92,
       "label": "chips with spicy flavours",
       "level": 3,
       "cultural_group": "dz",
@@ -852,7 +843,7 @@
       "frequency": 1
     },
     {
-      "id": 94,
+      "id": 93,
       "label": "quick meals",
       "level": 3,
       "cultural_group": "dz",
@@ -861,7 +852,7 @@
       "frequency": 1
     },
     {
-      "id": 95,
+      "id": 94,
       "label": "algeria's cultural group",
       "level": 3,
       "cultural_group": "dz",
@@ -870,7 +861,7 @@
       "frequency": 1
     },
     {
-      "id": 96,
+      "id": 95,
       "label": "couscous",
       "level": 1,
       "cultural_group": "dz",
@@ -879,16 +870,16 @@
       "frequency": 1
     },
     {
-      "id": 97,
+      "id": 96,
       "label": "football",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 98,
+      "id": 97,
       "label": "local brands",
       "level": 3,
       "cultural_group": "dz",
@@ -897,7 +888,7 @@
       "frequency": 1
     },
     {
-      "id": 99,
+      "id": 98,
       "label": "traditional vehicles",
       "level": 3,
       "cultural_group": "dz",
@@ -906,7 +897,7 @@
       "frequency": 1
     },
     {
-      "id": 100,
+      "id": 99,
       "label": "algerian girls",
       "level": 3,
       "cultural_group": "dz",
@@ -915,7 +906,7 @@
       "frequency": 1
     },
     {
-      "id": 101,
+      "id": 100,
       "label": "traditional dolls",
       "level": 3,
       "cultural_group": "dz",
@@ -924,7 +915,7 @@
       "frequency": 1
     },
     {
-      "id": 102,
+      "id": 101,
       "label": "abroad destinations",
       "level": 3,
       "cultural_group": "dz",
@@ -933,7 +924,7 @@
       "frequency": 1
     },
     {
-      "id": 103,
+      "id": 102,
       "label": "olive oil for cooking",
       "level": 3,
       "cultural_group": "dz",
@@ -942,7 +933,7 @@
       "frequency": 1
     },
     {
-      "id": 104,
+      "id": 103,
       "label": "personal car",
       "level": 3,
       "cultural_group": "dz",
@@ -951,7 +942,7 @@
       "frequency": 1
     },
     {
-      "id": 105,
+      "id": 104,
       "label": "tv viewers",
       "level": 3,
       "cultural_group": "dz",
@@ -960,7 +951,7 @@
       "frequency": 1
     },
     {
-      "id": 106,
+      "id": 105,
       "label": "popular algerian family shows",
       "level": 3,
       "cultural_group": "dz",
@@ -969,7 +960,7 @@
       "frequency": 1
     },
     {
-      "id": 107,
+      "id": 106,
       "label": "olympic sports",
       "level": 3,
       "cultural_group": "dz",
@@ -978,16 +969,16 @@
       "frequency": 1
     },
     {
-      "id": 108,
+      "id": 107,
       "label": "journalist",
-      "level": 1,
+      "level": 2,
       "cultural_group": "journalist",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 109,
+      "id": 108,
       "label": "tipping points",
       "level": 3,
       "cultural_group": "journalist",
@@ -1052,26 +1043,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 11,
-      "target": 12,
-      "source_label": "united states",
-      "target_label": "diwali",
-      "relation_type": "prefers",
-      "weight": 8,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 13,
-      "target": 12,
-      "source_label": "healthcare system",
-      "target_label": "diwali",
-      "relation_type": "preferred_over",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 1,
-      "target": 14,
+      "target": 13,
       "source_label": "algeria",
       "target_label": "shopping at aldi",
       "relation_type": "prefer",
@@ -1080,7 +1053,7 @@
     },
     {
       "source": 11,
-      "target": 15,
+      "target": 14,
       "source_label": "united states",
       "target_label": "driving",
       "relation_type": "prefers",
@@ -1088,26 +1061,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 12,
-      "target": 16,
-      "source_label": "diwali",
-      "target_label": "hands over soap",
-      "relation_type": "prefers",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 12,
-      "target": 17,
-      "source_label": "diwali",
-      "target_label": "fizzy and non-fizzy drinks",
-      "relation_type": "refers_to",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 11,
-      "target": 18,
+      "target": 17,
       "source_label": "united states",
       "target_label": "air conditioning",
       "relation_type": "prefers",
@@ -1115,35 +1070,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 12,
-      "target": 18,
-      "source_label": "diwali",
-      "target_label": "air conditioning",
-      "relation_type": "preferred_over",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 12,
+      "source": 1,
       "target": 19,
-      "source_label": "diwali",
-      "target_label": "americans",
-      "relation_type": "preferred_by",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 12,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "preferred_for",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 20,
       "source_label": "algeria",
       "target_label": "taste",
       "relation_type": "preferred_for",
@@ -1151,17 +1079,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 12,
-      "target": 1,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "preferred_by",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 21,
-      "target": 22,
+      "source": 20,
+      "target": 21,
       "source_label": "tea preparation",
       "target_label": "faster methods",
       "relation_type": "prefers",
@@ -1169,25 +1088,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 23,
-      "target": 12,
-      "source_label": "france",
-      "target_label": "diwali",
-      "relation_type": "prefer",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 12,
-      "target": 24,
-      "source_label": "diwali",
-      "target_label": "disposable plates",
-      "relation_type": "preferred_over",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 25,
+      "source": 24,
       "target": 1,
       "source_label": "ceramic plates",
       "target_label": "algeria",
@@ -1196,8 +1097,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 26,
-      "target": 27,
+      "source": 25,
+      "target": 26,
       "source_label": "powerful washing machines",
       "target_label": "in laundry",
       "relation_type": "preferred",
@@ -1206,7 +1107,7 @@
     },
     {
       "source": 11,
-      "target": 28,
+      "target": 27,
       "source_label": "united states",
       "target_label": "warm, freshly made sandwiches",
       "relation_type": "prefers",
@@ -1214,8 +1115,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 29,
-      "target": 30,
+      "source": 28,
+      "target": 29,
       "source_label": "businesses",
       "target_label": "imperial units",
       "relation_type": "prefer",
@@ -1224,7 +1125,7 @@
     },
     {
       "source": 11,
-      "target": 31,
+      "target": 30,
       "source_label": "united states",
       "target_label": "canned whipped cream",
       "relation_type": "prefers",
@@ -1232,8 +1133,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 32,
-      "target": 33,
+      "source": 31,
+      "target": 32,
       "source_label": "homemade whipped cream",
       "target_label": "uncanned whipped cream",
       "relation_type": "preferred_over",
@@ -1242,7 +1143,7 @@
     },
     {
       "source": 1,
-      "target": 34,
+      "target": 33,
       "source_label": "algeria",
       "target_label": "american food over french",
       "relation_type": "prefer",
@@ -1250,8 +1151,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 35,
-      "target": 36,
+      "source": 34,
+      "target": 35,
       "source_label": "date format",
       "target_label": "mm/dd/yyyy",
       "relation_type": "prefers",
@@ -1260,7 +1161,7 @@
     },
     {
       "source": 1,
-      "target": 37,
+      "target": 36,
       "source_label": "algeria",
       "target_label": "running water or dishwasher",
       "relation_type": "preferred_method",
@@ -1268,8 +1169,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 38,
-      "target": 39,
+      "source": 37,
+      "target": 38,
       "source_label": "culture group",
       "target_label": "early sleep",
       "relation_type": "prefers",
@@ -1277,7 +1178,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 40,
+      "source": 39,
       "target": 11,
       "source_label": "specific brands and flavors",
       "target_label": "united states",
@@ -1287,7 +1188,7 @@
     },
     {
       "source": 1,
-      "target": 41,
+      "target": 40,
       "source_label": "algeria",
       "target_label": "unique flavors",
       "relation_type": "prefer",
@@ -1295,8 +1196,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 42,
-      "target": 43,
+      "source": 41,
+      "target": 42,
       "source_label": "bread slicing",
       "target_label": "using machines",
       "relation_type": "preferred_method",
@@ -1304,8 +1205,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 44,
-      "target": 45,
+      "source": 43,
+      "target": 44,
       "source_label": "diy nail care",
       "target_label": "individuals",
       "relation_type": "preferred_by",
@@ -1313,8 +1214,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 46,
-      "target": 47,
+      "source": 45,
+      "target": 46,
       "source_label": "americanized chinese food",
       "target_label": "consumers",
       "relation_type": "preferred_by",
@@ -1322,17 +1223,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 12,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "prefer",
-      "weight": 6,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 11,
-      "target": 48,
+      "target": 47,
       "source_label": "united states",
       "target_label": "peanut butter",
       "relation_type": "prefer",
@@ -1340,17 +1232,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 12,
-      "target": 49,
-      "source_label": "diwali",
-      "target_label": "both fish and chips, french fries",
-      "relation_type": "refers_to",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 11,
-      "target": 50,
+      "target": 49,
       "source_label": "united states",
       "target_label": "fresh strawberries",
       "relation_type": "prefers",
@@ -1359,7 +1242,7 @@
     },
     {
       "source": 1,
-      "target": 51,
+      "target": 50,
       "source_label": "algeria",
       "target_label": "diy and professional services",
       "relation_type": "prefers",
@@ -1377,7 +1260,7 @@
     },
     {
       "source": 11,
-      "target": 52,
+      "target": 51,
       "source_label": "united states",
       "target_label": "larger fruit sizes",
       "relation_type": "prefer",
@@ -1385,17 +1268,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 53,
-      "target": 12,
-      "source_label": "free communication methods",
-      "target_label": "diwali",
-      "relation_type": "preferred_over",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 11,
-      "target": 54,
+      "target": 53,
       "source_label": "united states",
       "target_label": "credit card use",
       "relation_type": "prefers",
@@ -1403,8 +1277,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 55,
-      "target": 56,
+      "source": 54,
+      "target": 55,
       "source_label": "supermarket shoppers",
       "target_label": "self-bagging",
       "relation_type": "prefer",
@@ -1413,7 +1287,7 @@
     },
     {
       "source": 11,
-      "target": 57,
+      "target": 56,
       "source_label": "united states",
       "target_label": "carbonated or sparkling water",
       "relation_type": "prefers",
@@ -1422,7 +1296,7 @@
     },
     {
       "source": 11,
-      "target": 58,
+      "target": 57,
       "source_label": "united states",
       "target_label": "mobile apps",
       "relation_type": "prefers",
@@ -1430,17 +1304,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 19,
-      "target": 12,
-      "source_label": "americans",
-      "target_label": "diwali",
-      "relation_type": "prefer",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 59,
-      "target": 60,
+      "source": 58,
+      "target": 59,
       "source_label": "consumer behavior",
       "target_label": "shopping",
       "relation_type": "prefer",
@@ -1448,8 +1313,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 47,
-      "target": 61,
+      "source": 46,
+      "target": 60,
       "source_label": "consumers",
       "target_label": "unique tuna salad preparation",
       "relation_type": "prefer",
@@ -1457,8 +1322,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 62,
-      "target": 63,
+      "source": 61,
+      "target": 62,
       "source_label": "broadcasters",
       "target_label": "tobacco products",
       "relation_type": "refer_to",
@@ -1467,7 +1332,7 @@
     },
     {
       "source": 1,
-      "target": 64,
+      "target": 63,
       "source_label": "algeria",
       "target_label": "card payment",
       "relation_type": "prefer",
@@ -1476,7 +1341,7 @@
     },
     {
       "source": 1,
-      "target": 65,
+      "target": 64,
       "source_label": "algeria",
       "target_label": "significant space for ketchup",
       "relation_type": "prefer",
@@ -1485,7 +1350,7 @@
     },
     {
       "source": 11,
-      "target": 66,
+      "target": 65,
       "source_label": "united states",
       "target_label": "bell peppers, including their chemical name and colloquial terms",
       "relation_type": "refer_to",
@@ -1494,7 +1359,7 @@
     },
     {
       "source": 11,
-      "target": 67,
+      "target": 66,
       "source_label": "united states",
       "target_label": "capsicum over bell peppers",
       "relation_type": "prefer",
@@ -1503,7 +1368,7 @@
     },
     {
       "source": 1,
-      "target": 68,
+      "target": 67,
       "source_label": "algeria",
       "target_label": "zelle for payments",
       "relation_type": "prefer",
@@ -1512,7 +1377,7 @@
     },
     {
       "source": 11,
-      "target": 69,
+      "target": 68,
       "source_label": "united states",
       "target_label": "home-packed lunches",
       "relation_type": "prefer",
@@ -1521,7 +1386,7 @@
     },
     {
       "source": 11,
-      "target": 70,
+      "target": 69,
       "source_label": "united states",
       "target_label": "rice as a side dish",
       "relation_type": "prefers_eating",
@@ -1529,8 +1394,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 71,
-      "target": 72,
+      "source": 70,
+      "target": 71,
       "source_label": "locally grown produce",
       "target_label": "steroided produce",
       "relation_type": "preferred_over",
@@ -1538,8 +1403,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 73,
-      "target": 74,
+      "source": 72,
+      "target": 73,
       "source_label": "expensive cars",
       "target_label": "by consumers",
       "relation_type": "preferred",
@@ -1547,17 +1412,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 23,
-      "target": 12,
-      "source_label": "france",
-      "target_label": "diwali",
-      "relation_type": "prefers",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 75,
-      "target": 76,
+      "source": 74,
+      "target": 75,
       "source_label": "vacationers",
       "target_label": "warm destinations",
       "relation_type": "prefer",
@@ -1565,8 +1421,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 77,
-      "target": 78,
+      "source": 76,
+      "target": 77,
       "source_label": "us citizens",
       "target_label": "fox news",
       "relation_type": "prefer",
@@ -1574,8 +1430,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 79,
-      "target": 80,
+      "source": 78,
+      "target": 79,
       "source_label": "bathrooms",
       "target_label": "bathtubs",
       "relation_type": "prefer",
@@ -1584,7 +1440,7 @@
     },
     {
       "source": 1,
-      "target": 81,
+      "target": 80,
       "source_label": "algeria",
       "target_label": "various oreos combinations",
       "relation_type": "prefer",
@@ -1593,7 +1449,7 @@
     },
     {
       "source": 1,
-      "target": 82,
+      "target": 81,
       "source_label": "algeria",
       "target_label": "certain snack foods",
       "relation_type": "prefer",
@@ -1602,7 +1458,7 @@
     },
     {
       "source": 1,
-      "target": 83,
+      "target": 82,
       "source_label": "algeria",
       "target_label": "algerian countryside",
       "relation_type": "prefers",
@@ -1610,7 +1466,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 84,
+      "source": 83,
       "target": 1,
       "source_label": "algerian seniors",
       "target_label": "algeria",
@@ -1619,8 +1475,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 85,
-      "target": 86,
+      "source": 84,
+      "target": 85,
       "source_label": "parents",
       "target_label": "education system",
       "relation_type": "prefer",
@@ -1629,7 +1485,7 @@
     },
     {
       "source": 1,
-      "target": 87,
+      "target": 86,
       "source_label": "algeria",
       "target_label": "morning",
       "relation_type": "prefer",
@@ -1638,7 +1494,7 @@
     },
     {
       "source": 1,
-      "target": 88,
+      "target": 87,
       "source_label": "algeria",
       "target_label": "soup",
       "relation_type": "prefer",
@@ -1646,17 +1502,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 12,
-      "target": 89,
-      "source_label": "diwali",
-      "target_label": "certain occupations",
-      "relation_type": "prefer",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 1,
-      "target": 90,
+      "target": 89,
       "source_label": "algeria",
       "target_label": "activities",
       "relation_type": "preferred",
@@ -1665,7 +1512,7 @@
     },
     {
       "source": 1,
-      "target": 91,
+      "target": 90,
       "source_label": "algeria",
       "target_label": "domestic vacation spots",
       "relation_type": "prefer",
@@ -1673,17 +1520,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 12,
-      "target": 1,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "refer_to",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 1,
-      "target": 92,
+      "target": 91,
       "source_label": "algeria",
       "target_label": "adventure sports",
       "relation_type": "prefer",
@@ -1692,7 +1530,7 @@
     },
     {
       "source": 1,
-      "target": 93,
+      "target": 92,
       "source_label": "algeria",
       "target_label": "chips with spicy flavours",
       "relation_type": "prefer",
@@ -1701,7 +1539,7 @@
     },
     {
       "source": 1,
-      "target": 94,
+      "target": 93,
       "source_label": "algeria",
       "target_label": "quick meals",
       "relation_type": "prefer",
@@ -1709,17 +1547,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 12,
-      "target": 95,
-      "source_label": "diwali",
-      "target_label": "algeria's cultural group",
-      "relation_type": "refer_to",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 1,
-      "target": 96,
+      "target": 95,
       "source_label": "algeria",
       "target_label": "couscous",
       "relation_type": "prefer",
@@ -1728,7 +1557,7 @@
     },
     {
       "source": 1,
-      "target": 97,
+      "target": 96,
       "source_label": "algeria",
       "target_label": "football",
       "relation_type": "prefer",
@@ -1737,7 +1566,7 @@
     },
     {
       "source": 1,
-      "target": 98,
+      "target": 97,
       "source_label": "algeria",
       "target_label": "local brands",
       "relation_type": "prefer",
@@ -1745,17 +1574,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 12,
-      "target": 99,
-      "source_label": "diwali",
-      "target_label": "traditional vehicles",
-      "relation_type": "prefer",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 100,
-      "target": 101,
+      "source": 99,
+      "target": 100,
       "source_label": "algerian girls",
       "target_label": "traditional dolls",
       "relation_type": "prefer",
@@ -1764,7 +1584,7 @@
     },
     {
       "source": 1,
-      "target": 102,
+      "target": 101,
       "source_label": "algeria",
       "target_label": "abroad destinations",
       "relation_type": "prefer",
@@ -1773,7 +1593,7 @@
     },
     {
       "source": 1,
-      "target": 103,
+      "target": 102,
       "source_label": "algeria",
       "target_label": "olive oil for cooking",
       "relation_type": "prefer",
@@ -1782,7 +1602,7 @@
     },
     {
       "source": 1,
-      "target": 104,
+      "target": 103,
       "source_label": "algeria",
       "target_label": "personal car",
       "relation_type": "prefers",
@@ -1790,8 +1610,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 105,
-      "target": 106,
+      "source": 104,
+      "target": 105,
       "source_label": "tv viewers",
       "target_label": "popular algerian family shows",
       "relation_type": "prefer",
@@ -1800,7 +1620,7 @@
     },
     {
       "source": 1,
-      "target": 107,
+      "target": 106,
       "source_label": "algeria",
       "target_label": "olympic sports",
       "relation_type": "prefer",
@@ -1808,8 +1628,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 108,
-      "target": 109,
+      "source": 107,
+      "target": 108,
       "source_label": "journalist",
       "target_label": "tipping points",
       "relation_type": "prefers",

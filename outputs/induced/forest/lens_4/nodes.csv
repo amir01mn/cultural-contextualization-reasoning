@@ -1,171 +1,170 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
 1,food setting,3,algeria,unknown,arabculture,1
-2,table,1,algeria,unknown,arabculture,1
+2,table,4,algeria,unknown,arabculture,1
 3,henna ceremony,3,algeria,unknown,arabculture,1
 4,singing of special songs,3,algeria,unknown,arabculture,1
-5,diwali,3,algeria,unknown,arabculture,125
-6,ramadan,1,algeria,unknown,arabculture,3
-7,shared iftar meals,3,algeria,unknown,arabculture,1
-8,wedding banquet,3,algeria,unknown,arabculture,1
-9,algeria,3,algeria,unknown,arabculture,80
-10,traditional local songs,3,algeria,unknown,arabculture,1
-11,dance,1,algeria,unknown,arabculture,2
-12,nile valley,1,egypt,unknown,arabculture,1
-13,traditional grilled foods,3,egypt,unknown,arabculture,1
-14,breaking fast meal,3,egypt,unknown,arabculture,1
-15,special car reservation,3,egypt,unknown,arabculture,1
-16,activities,1,egypt,unknown,arabculture,1
-17,traditional dancing,3,egypt,unknown,arabculture,1
-18,white-dyed song,3,egypt,unknown,arabculture,1
-19,srikalahasti kalamkari,1,andhra pradesh,unknown,diwali,1
-20,geometric flower-like shapes,3,arunachal pradesh,unknown,diwali,1
-21,simple straight lines and stripes,3,arunachal pradesh,unknown,diwali,1
-22,sherdukpen shawl,1,arunachal pradesh,unknown,diwali,1
-23,distinct patterns,3,arunachal pradesh,unknown,diwali,1
-24,colors,3,arunachal pradesh,unknown,diwali,1
-25,wancho bag,1,arunachal pradesh,unknown,diwali,3
-26,tagin textiles,3,arunachal pradesh,unknown,diwali,1
-27,straight lines and geometric patterns,3,arunachal pradesh,unknown,diwali,1
-28,distinctive,1,arunachal pradesh,unknown,diwali,4
-29,"bright colors, unique patterns",3,assam,unknown,diwali,1
-30,richly patterned textile,3,bihar,unknown,diwali,1
-31,"animals, birds, huts, bows, arrows, plants, peacocks, tribal flowers, pitchers, temples, lions",3,chhattisgarh,unknown,diwali,1
-32,liturgical vestments,3,goa,unknown,diwali,1
-33,fabric,1,goa,unknown,diwali,3
-34,patterns by binding cloth,3,gujarat,unknown,diwali,1
-35,"folklore, nature, geometric designs",3,gujarat,unknown,diwali,1
-36,mashru,1,gujarat,unknown,diwali,2
-37,vibrant stripes or patterns,3,gujarat,unknown,diwali,1
-38,raised dots,3,gujarat,unknown,diwali,1
-39,multicolored geometric checks,3,gujarat,unknown,diwali,1
-40,kutchi embroidery,1,gujarat,unknown,diwali,3
-41,mirrors,3,gujarat,unknown,diwali,1
-42,bagh,1,haryana,unknown,diwali,4
-43,simple designs,3,haryana,unknown,diwali,1
-44,simple patterns,3,himachal pradesh,unknown,diwali,1
-45,bright borders,3,himachal pradesh,unknown,diwali,1
-46,traditional patterns and motifs,3,jharkhand,unknown,diwali,1
-47,ilkal saree,1,karnataka,unknown,diwali,2
-48,tope teni technique,3,karnataka,unknown,diwali,1
-49,"fruits, animals, flowers",3,karnataka,unknown,diwali,1
-50,checked patterns and contrasting borders,3,karnataka,unknown,diwali,1
-51,puliyilakara border,3,kerala,unknown,diwali,1
-52,checkered patterns,3,kerala,unknown,diwali,1
-53,minimalistic designs,3,kerala,unknown,diwali,1
-54,chanderi sari,1,madhya pradesh,unknown,diwali,2
-55,"coins, flowers, peacocks",3,madhya pradesh,unknown,diwali,1
-56,reversible borders called bugdi,3,madhya pradesh,unknown,diwali,1
-57,geometric patterns and stripes,3,madhya pradesh,unknown,diwali,1
-58,cotton and silk fabrics,3,madhya pradesh,unknown,diwali,1
-59,floral and geometric,3,madhya pradesh,unknown,diwali,1
-60,indigo background with white and red motifs,3,madhya pradesh,unknown,diwali,1
-61,satin finish,3,maharashtra,unknown,diwali,1
-62,dual-colored borders,3,maharashtra,unknown,diwali,1
-63,distinctive red borders and pallu,3,maharashtra,unknown,diwali,1
-64,intricate motifs,3,maharashtra,unknown,diwali,1
-65,"animals, celestial bodies, traditional symbols",3,manipur,unknown,diwali,1
-66,symmetrical designs,3,meghalaya,unknown,diwali,1
-67,intricate patterns and vibrant colors,3,mizoram,unknown,diwali,1
-68,puans,3,mizoram,unknown,diwali,1
-69,narrow strips of fabric,3,nagaland,unknown,diwali,1
-70,shiehtsap nie version,3,nagaland,unknown,diwali,1
-71,"shankha, chakra, phula",3,odisha,unknown,diwali,1
-72,textiles,1,odisha,unknown,diwali,1
-73,earthy tones and traditional motifs,3,odisha,unknown,diwali,1
-74,"kumbha, fish, flowers",3,odisha,unknown,diwali,1
-75,odisha ikat technique,3,odisha,unknown,diwali,1
-76,base cloth,3,odisha,unknown,diwali,1
-77,jamdani,1,punjab,unknown,diwali,3
-78,minimalistic embroidery,3,punjab,unknown,diwali,1
-79,dots and motifs,3,rajasthan,unknown,diwali,1
-80,floral and geometric motifs,3,rajasthan,unknown,diwali,1
-81,flowers,1,rajasthan,unknown,diwali,2
-82,kanchipuram silk saree,1,tamil nadu,unknown,diwali,2
-83,distinctive dotted patterns,3,tamil nadu,unknown,diwali,1
-84,"bold checks, stripes, contrasting hues",3,tamil nadu,unknown,diwali,1
-85,"rich colors, intricate designs",3,tamil nadu,unknown,diwali,1
-86,red and black on white background,3,tamil nadu,unknown,diwali,1
-87,self-designed jacquard pattern,3,tamil nadu,unknown,diwali,1
-88,koorainadu saree,1,tamil nadu,unknown,diwali,1
-89,geometric and floral,3,tamil nadu,unknown,diwali,1
-90,"flowers, parrots, elephants",3,telangana,unknown,diwali,1
-91,village life,3,telangana,unknown,diwali,1
-92,himroo shawls,3,telangana,unknown,diwali,1
-93,'geethalu' and 'pan patola',3,telangana,unknown,diwali,1
-94,distinctive patterns and motifs,3,tripura,unknown,diwali,1
-95,vibrant fabrics,3,tripura,unknown,diwali,1
-96,textiles and accessories,3,uttarakhand,unknown,diwali,1
-97,rustic fabrics,3,uttarakhand,unknown,diwali,1
-98,floral and paisley,3,uttar pradesh,unknown,diwali,1
-99,tanchoi saris,3,uttar pradesh,unknown,diwali,1
-100,'paddo' (lotus) and 'aansh paar' (fish scale),3,west bengal,unknown,diwali,1
-101,shantipuri sari,1,west bengal,unknown,diwali,1
-102,intricate borders and pallus,3,west bengal,unknown,diwali,1
-103,tightly woven cotton fabric,3,west bengal,unknown,diwali,1
-104,striped or checkered patterns,3,west bengal,unknown,diwali,1
-105,hand-painted or block-printed,3,west bengal,unknown,diwali,1
-106,handcrafted unique designs,3,west bengal,unknown,diwali,1
-107,geometric and floral motifs,3,chandigarh,unknown,diwali,1
-108,warli painting,1,dadra and nagar haveli and dama,unknown,diwali,1
-109,intricate floral and paisley designs,3,delhi,unknown,diwali,1
-110,pashmina shawl,1,jammu and kashmir,unknown,diwali,1
-111,intricate hand-embroidery,3,jammu and kashmir,unknown,diwali,1
-112,paisley and floral motifs,3,jammu and kashmir,unknown,diwali,1
-113,chinar leaves and paisleys,3,jammu and kashmir,unknown,diwali,1
-114,large masks,3,andhra pradesh,unknown,diwali,1
-115,intricate steps and movements,3,andhra pradesh,unknown,diwali,1
-116,dhuliya dance,1,assam,unknown,diwali,2
-117,dance-drama,1,assam,unknown,diwali,2
-118,acrobatics,3,chhattisgarh,unknown,diwali,1
-119,circular formations,3,goa,unknown,diwali,1
-120,family-friendly atmospheres,3,general,unknown,culturebank,1
-121,football games,3,general,unknown,culturebank,1
-122,low water levels,3,general,unknown,culturebank,1
-123,unique menu items,3,general,unknown,culturebank,1
-124,small ice cream portions,3,general,unknown,culturebank,1
-125,summer months,3,general,unknown,culturebank,1
-126,leaving early on fridays,3,general,unknown,culturebank,1
-127,americans,1,general,unknown,culturebank,1
-128,chugging water,3,general,unknown,culturebank,1
-129,cultural quirks,3,general,unknown,culturebank,1
-130,unique last names,3,general,unknown,culturebank,1
-131,popular indoor family activities,3,dz,unknown,blend,1
-132,hand games and wrestling,3,dz,unknown,blend,1
-133,music education,3,dz,unknown,blend,1
-134,performance,1,dz,unknown,blend,1
-135,a variety of dishes,3,dz,unknown,blend,1
-136,specific decorations,3,dz,unknown,blend,1
-137,"grilled meats, vegetables",3,dz,unknown,blend,1
-138,fruit sales,3,dz,unknown,blend,1
-139,algerian_cuisine,3,dz,unknown,blend,1
-140,spices,3,dz,unknown,blend,1
-141,dining table,3,dz,unknown,blend,1
-142,gendered sports participation,3,dz,unknown,blend,1
-143,couscous,1,dz,unknown,blend,3
-144,fish-based dish,3,dz,unknown,blend,1
-145,popular martial arts,3,dz,unknown,blend,1
-146,spicy dishes,3,dz,unknown,blend,1
-147,willingness for extreme activities,3,dz,unknown,blend,1
-148,algerian festival,3,dz,unknown,blend,1
-149,local alcohol,3,dz,unknown,blend,1
-150,elderly musical preferences,3,dz,unknown,blend,1
-151,birthday party,3,dz,unknown,blend,1
-152,algerian folk tune,3,dz,unknown,blend,1
-153,senior park activities,3,dz,unknown,blend,1
-154,diverse occupations,3,dz,unknown,blend,1
-155,staple grains,3,dz,unknown,blend,1
-156,popular daily exercise for women,3,dz,unknown,blend,1
-157,women's sports teams,3,dz,unknown,blend,1
-158,weekend family meal,3,dz,unknown,blend,1
-159,popular local cuisine,3,dz,unknown,blend,1
-160,judge,1,clerk,unknown,candle,2
-161,order,1,clerk,unknown,candle,1
-162,cat circus,3,judge,unknown,candle,1
-163,graphs,3,teacher,unknown,candle,1
-164,agreements,3,tailor,unknown,candle,1
-165,artist,1,artist,unknown,candle,2
-166,respect for elders,1,artist,unknown,candle,1
-167,brush,3,painter,unknown,candle,1
-168,beautiful_brushstrokes,3,painter,unknown,candle,1
-169,architect,1,architect,unknown,candle,1
+5,ramadan,1,algeria,unknown,arabculture,3
+6,shared iftar meals,3,algeria,unknown,arabculture,1
+7,wedding banquet,3,algeria,unknown,arabculture,1
+8,algeria,1,algeria,unknown,arabculture,80
+9,traditional local songs,3,algeria,unknown,arabculture,1
+10,dance,1,algeria,unknown,arabculture,2
+11,nile valley,1,egypt,unknown,arabculture,1
+12,traditional grilled foods,3,egypt,unknown,arabculture,1
+13,breaking fast meal,3,egypt,unknown,arabculture,1
+14,special car reservation,3,egypt,unknown,arabculture,1
+15,activities,1,egypt,unknown,arabculture,1
+16,traditional dancing,3,egypt,unknown,arabculture,1
+17,white-dyed song,3,egypt,unknown,arabculture,1
+18,srikalahasti kalamkari,2,andhra pradesh,unknown,diwali,1
+19,geometric flower-like shapes,3,arunachal pradesh,unknown,diwali,1
+20,simple straight lines and stripes,3,arunachal pradesh,unknown,diwali,1
+21,sherdukpen shawl,4,arunachal pradesh,unknown,diwali,1
+22,distinct patterns,3,arunachal pradesh,unknown,diwali,1
+23,colors,3,arunachal pradesh,unknown,diwali,1
+24,wancho bag,3,arunachal pradesh,unknown,diwali,3
+25,tagin textiles,3,arunachal pradesh,unknown,diwali,1
+26,straight lines and geometric patterns,3,arunachal pradesh,unknown,diwali,1
+27,distinctive,4,arunachal pradesh,unknown,diwali,4
+28,"bright colors, unique patterns",3,assam,unknown,diwali,1
+29,richly patterned textile,3,bihar,unknown,diwali,1
+30,"animals, birds, huts, bows, arrows, plants, peacocks, tribal flowers, pitchers, temples, lions",3,chhattisgarh,unknown,diwali,1
+31,liturgical vestments,3,goa,unknown,diwali,1
+32,fabric,1,goa,unknown,diwali,3
+33,patterns by binding cloth,3,gujarat,unknown,diwali,1
+34,"folklore, nature, geometric designs",3,gujarat,unknown,diwali,1
+35,mashru,3,gujarat,unknown,diwali,2
+36,vibrant stripes or patterns,3,gujarat,unknown,diwali,1
+37,raised dots,3,gujarat,unknown,diwali,1
+38,multicolored geometric checks,3,gujarat,unknown,diwali,1
+39,kutchi embroidery,1,gujarat,unknown,diwali,3
+40,mirrors,3,gujarat,unknown,diwali,1
+41,bagh,2,haryana,unknown,diwali,4
+42,simple designs,3,haryana,unknown,diwali,1
+43,simple patterns,3,himachal pradesh,unknown,diwali,1
+44,bright borders,3,himachal pradesh,unknown,diwali,1
+45,traditional patterns and motifs,3,jharkhand,unknown,diwali,1
+46,ilkal saree,3,karnataka,unknown,diwali,2
+47,tope teni technique,3,karnataka,unknown,diwali,1
+48,"fruits, animals, flowers",3,karnataka,unknown,diwali,1
+49,checked patterns and contrasting borders,3,karnataka,unknown,diwali,1
+50,puliyilakara border,3,kerala,unknown,diwali,1
+51,checkered patterns,3,kerala,unknown,diwali,1
+52,minimalistic designs,3,kerala,unknown,diwali,1
+53,chanderi sari,3,madhya pradesh,unknown,diwali,2
+54,"coins, flowers, peacocks",3,madhya pradesh,unknown,diwali,1
+55,reversible borders called bugdi,3,madhya pradesh,unknown,diwali,1
+56,geometric patterns and stripes,3,madhya pradesh,unknown,diwali,1
+57,cotton and silk fabrics,3,madhya pradesh,unknown,diwali,1
+58,floral and geometric,3,madhya pradesh,unknown,diwali,1
+59,indigo background with white and red motifs,3,madhya pradesh,unknown,diwali,1
+60,satin finish,3,maharashtra,unknown,diwali,1
+61,dual-colored borders,3,maharashtra,unknown,diwali,1
+62,distinctive red borders and pallu,3,maharashtra,unknown,diwali,1
+63,intricate motifs,3,maharashtra,unknown,diwali,1
+64,"animals, celestial bodies, traditional symbols",3,manipur,unknown,diwali,1
+65,symmetrical designs,3,meghalaya,unknown,diwali,1
+66,intricate patterns and vibrant colors,3,mizoram,unknown,diwali,1
+67,puans,3,mizoram,unknown,diwali,1
+68,narrow strips of fabric,3,nagaland,unknown,diwali,1
+69,shiehtsap nie version,3,nagaland,unknown,diwali,1
+70,"shankha, chakra, phula",3,odisha,unknown,diwali,1
+71,textiles,1,odisha,unknown,diwali,1
+72,earthy tones and traditional motifs,3,odisha,unknown,diwali,1
+73,"kumbha, fish, flowers",3,odisha,unknown,diwali,1
+74,odisha ikat technique,3,odisha,unknown,diwali,1
+75,base cloth,3,odisha,unknown,diwali,1
+76,jamdani,2,punjab,unknown,diwali,3
+77,minimalistic embroidery,3,punjab,unknown,diwali,1
+78,dots and motifs,3,rajasthan,unknown,diwali,1
+79,floral and geometric motifs,3,rajasthan,unknown,diwali,1
+80,flowers,4,rajasthan,unknown,diwali,2
+81,kanchipuram silk saree,3,tamil nadu,unknown,diwali,2
+82,distinctive dotted patterns,3,tamil nadu,unknown,diwali,1
+83,"bold checks, stripes, contrasting hues",3,tamil nadu,unknown,diwali,1
+84,"rich colors, intricate designs",3,tamil nadu,unknown,diwali,1
+85,red and black on white background,3,tamil nadu,unknown,diwali,1
+86,self-designed jacquard pattern,3,tamil nadu,unknown,diwali,1
+87,koorainadu saree,4,tamil nadu,unknown,diwali,1
+88,geometric and floral,3,tamil nadu,unknown,diwali,1
+89,"flowers, parrots, elephants",3,telangana,unknown,diwali,1
+90,village life,3,telangana,unknown,diwali,1
+91,himroo shawls,3,telangana,unknown,diwali,1
+92,'geethalu' and 'pan patola',3,telangana,unknown,diwali,1
+93,distinctive patterns and motifs,3,tripura,unknown,diwali,1
+94,vibrant fabrics,3,tripura,unknown,diwali,1
+95,textiles and accessories,3,uttarakhand,unknown,diwali,1
+96,rustic fabrics,3,uttarakhand,unknown,diwali,1
+97,floral and paisley,3,uttar pradesh,unknown,diwali,1
+98,tanchoi saris,3,uttar pradesh,unknown,diwali,1
+99,'paddo' (lotus) and 'aansh paar' (fish scale),3,west bengal,unknown,diwali,1
+100,shantipuri sari,4,west bengal,unknown,diwali,1
+101,intricate borders and pallus,3,west bengal,unknown,diwali,1
+102,tightly woven cotton fabric,3,west bengal,unknown,diwali,1
+103,striped or checkered patterns,3,west bengal,unknown,diwali,1
+104,hand-painted or block-printed,3,west bengal,unknown,diwali,1
+105,handcrafted unique designs,3,west bengal,unknown,diwali,1
+106,geometric and floral motifs,3,chandigarh,unknown,diwali,1
+107,warli painting,5,dadra and nagar haveli and dama,unknown,diwali,1
+108,intricate floral and paisley designs,3,delhi,unknown,diwali,1
+109,pashmina shawl,3,jammu and kashmir,unknown,diwali,1
+110,intricate hand-embroidery,3,jammu and kashmir,unknown,diwali,1
+111,paisley and floral motifs,3,jammu and kashmir,unknown,diwali,1
+112,chinar leaves and paisleys,3,jammu and kashmir,unknown,diwali,1
+113,large masks,3,andhra pradesh,unknown,diwali,1
+114,intricate steps and movements,3,andhra pradesh,unknown,diwali,1
+115,dhuliya dance,2,assam,unknown,diwali,2
+116,dance-drama,3,assam,unknown,diwali,2
+117,acrobatics,3,chhattisgarh,unknown,diwali,1
+118,circular formations,3,goa,unknown,diwali,1
+119,family-friendly atmospheres,3,general,unknown,culturebank,1
+120,football games,3,general,unknown,culturebank,1
+121,low water levels,3,general,unknown,culturebank,1
+122,unique menu items,3,general,unknown,culturebank,1
+123,small ice cream portions,3,general,unknown,culturebank,1
+124,summer months,3,general,unknown,culturebank,1
+125,leaving early on fridays,3,general,unknown,culturebank,1
+126,americans,1,general,unknown,culturebank,1
+127,chugging water,3,general,unknown,culturebank,1
+128,cultural quirks,3,general,unknown,culturebank,1
+129,unique last names,3,general,unknown,culturebank,1
+130,popular indoor family activities,3,dz,unknown,blend,1
+131,hand games and wrestling,3,dz,unknown,blend,1
+132,music education,3,dz,unknown,blend,1
+133,performance,3,dz,unknown,blend,1
+134,a variety of dishes,3,dz,unknown,blend,1
+135,specific decorations,3,dz,unknown,blend,1
+136,"grilled meats, vegetables",3,dz,unknown,blend,1
+137,fruit sales,3,dz,unknown,blend,1
+138,algerian_cuisine,3,dz,unknown,blend,1
+139,spices,3,dz,unknown,blend,1
+140,dining table,3,dz,unknown,blend,1
+141,gendered sports participation,3,dz,unknown,blend,1
+142,couscous,1,dz,unknown,blend,3
+143,fish-based dish,3,dz,unknown,blend,1
+144,popular martial arts,3,dz,unknown,blend,1
+145,spicy dishes,3,dz,unknown,blend,1
+146,willingness for extreme activities,3,dz,unknown,blend,1
+147,algerian festival,3,dz,unknown,blend,1
+148,local alcohol,3,dz,unknown,blend,1
+149,elderly musical preferences,3,dz,unknown,blend,1
+150,birthday party,3,dz,unknown,blend,1
+151,algerian folk tune,3,dz,unknown,blend,1
+152,senior park activities,3,dz,unknown,blend,1
+153,diverse occupations,3,dz,unknown,blend,1
+154,staple grains,3,dz,unknown,blend,1
+155,popular daily exercise for women,3,dz,unknown,blend,1
+156,women's sports teams,3,dz,unknown,blend,1
+157,weekend family meal,3,dz,unknown,blend,1
+158,popular local cuisine,3,dz,unknown,blend,1
+159,judge,1,clerk,unknown,candle,2
+160,order,3,clerk,unknown,candle,1
+161,cat circus,3,judge,unknown,candle,1
+162,graphs,3,teacher,unknown,candle,1
+163,agreements,3,tailor,unknown,candle,1
+164,artist,1,artist,unknown,candle,2
+165,respect for elders,2,artist,unknown,candle,1
+166,brush,3,painter,unknown,candle,1
+167,beautiful_brushstrokes,3,painter,unknown,candle,1
+168,architect,1,architect,unknown,candle,1

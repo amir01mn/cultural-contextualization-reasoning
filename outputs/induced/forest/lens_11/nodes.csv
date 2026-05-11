@@ -3,99 +3,98 @@ node_id,label,level,cultural_group,domain,source_dataset,frequency
 1,dance,1,algeria,unknown,arabculture,1
 2,saida region,3,algeria,unknown,arabculture,1
 3,ramadan,1,algeria,unknown,arabculture,1
-4,diwali,3,algeria,unknown,arabculture,95
-5,nile valley,1,egypt,unknown,arabculture,1
-6,pochampally,3,andhra pradesh,unknown,diwali,1
-7,mangalagiri town,3,andhra pradesh,unknown,diwali,1
-8,venkatagiri town,3,andhra pradesh,unknown,diwali,1
-9,uppada silk,3,andhra pradesh,unknown,diwali,1
-10,uppada village,3,andhra pradesh,unknown,diwali,1
-11,srikalahasti kalamkari,1,andhra pradesh,unknown,diwali,2
-12,srikalahasti,3,andhra pradesh,unknown,diwali,1
-13,united states,4,assam,unknown,diwali,7
-14,bhagalpuri silk,1,bihar,unknown,diwali,4
-15,kutchi embroidery,1,bihar,unknown,diwali,1
-16,muzaffarpur,3,bihar,unknown,diwali,1
-17,"bhagalpur, bihar",3,bihar,unknown,diwali,1
-18,"patan, gujarat",3,gujarat,unknown,diwali,1
-19,ajrakh,1,gujarat,unknown,diwali,2
-20,kutch region,3,gujarat,unknown,diwali,1
-21,dangasia community,3,gujarat,unknown,diwali,1
-22,dhurrie,1,haryana,unknown,diwali,1
-23,haryana_panipat_region,3,haryana,unknown,diwali,1
-24,region,1,himachal pradesh,unknown,diwali,2
-25,kinnaur district,3,himachal pradesh,unknown,diwali,1
-26,rampur chaddar,1,himachal pradesh,unknown,diwali,2
-27,bhagalpur region,3,jharkhand,unknown,diwali,1
-28,ilkal saree,1,karnataka,unknown,diwali,1
-29,ilkal,3,karnataka,unknown,diwali,1
-30,mysore silk,1,karnataka,unknown,diwali,1
-31,mysore,3,karnataka,unknown,diwali,1
-32,"molakalmuru, chitradurga district",3,karnataka,unknown,diwali,1
-33,navalgund,3,karnataka,unknown,diwali,1
-34,gadag district,3,karnataka,unknown,diwali,1
-35,guledgudda,3,karnataka,unknown,diwali,1
-36,balaramapuram region,3,kerala,unknown,diwali,1
-37,chendamangalam village,3,kerala,unknown,diwali,1
-38,kerala capital city,3,kerala,unknown,diwali,1
-39,chanderi sari,1,madhya pradesh,unknown,diwali,2
-40,chanderi town,3,madhya pradesh,unknown,diwali,1
-41,maheshwar,3,madhya pradesh,unknown,diwali,1
-42,bagh,1,madhya pradesh,unknown,diwali,1
-43,"village of bagh, madhya pradesh",3,madhya pradesh,unknown,diwali,1
-44,malwa region,3,madhya pradesh,unknown,diwali,1
-45,paithan,3,maharashtra,unknown,diwali,1
-46,aurangabad,3,maharashtra,unknown,diwali,1
-47,mashru,1,maharashtra,unknown,diwali,1
-48,maharashtra,3,maharashtra,unknown,diwali,1
-49,kolhapur,3,maharashtra,unknown,diwali,1
-50,narayan peth,3,maharashtra,unknown,diwali,1
-51,western odisha,3,odisha,unknown,diwali,1
-52,sonepur district,3,odisha,unknown,diwali,1
-53,berhampuri patta,1,odisha,unknown,diwali,2
-54,berhampur,3,odisha,unknown,diwali,1
-55,tribal regions of koraput,3,odisha,unknown,diwali,1
-56,kalahandi district,3,odisha,unknown,diwali,1
-57,pipili village,3,odisha,unknown,diwali,1
-58,odisha,3,odisha,unknown,diwali,1
-59,maru-gurjar tradition,3,rajasthan,unknown,diwali,1
-60,sanganeri block print,3,rajasthan,unknown,diwali,1
-61,sanganer,3,rajasthan,unknown,diwali,1
-62,sindh,3,rajasthan,unknown,diwali,1
-63,madurai sungudi,3,tamil nadu,unknown,diwali,1
-64,madurai,3,tamil nadu,unknown,diwali,1
-65,chettinad region,3,tamil nadu,unknown,diwali,1
-66,arani town,3,tamil nadu,unknown,diwali,1
-67,kumbakonam,3,tamil nadu,unknown,diwali,1
-68,bhavani,3,tamil nadu,unknown,diwali,1
-69,algeria,3,tamil nadu,unknown,diwali,3
-70,coimbatore region,3,tamil nadu,unknown,diwali,1
-71,bhoodan pochampally,3,telangana,unknown,diwali,1
-72,"gadwal, telangana",3,telangana,unknown,diwali,1
-73,siddipet,3,telangana,unknown,diwali,1
-74,puttapaka village,3,telangana,unknown,diwali,1
-75,himroo weaving,3,telangana,unknown,diwali,1
-76,telangana,3,telangana,unknown,diwali,1
-77,lucknow,3,uttar pradesh,unknown,diwali,1
-78,aligarh,3,uttar pradesh,unknown,diwali,1
-79,jamdani,1,uttar pradesh,unknown,diwali,2
-80,"baluchar, murshidabad",3,west bengal,unknown,diwali,1
-81,"tangail, bangladesh",3,west bengal,unknown,diwali,1
-82,dhaniakhali region,3,west bengal,unknown,diwali,1
-83,warli painting,1,dadra and nagar haveli and dama,unknown,diwali,1
-84,mughal courts,3,delhi,unknown,diwali,1
-85,kanihama area,3,jammu and kashmir,unknown,diwali,1
-86,sambha region,3,jammu and kashmir,unknown,diwali,1
-87,andhra ikshvakus' courts,3,andhra pradesh,unknown,diwali,1
-88,jangam katha,3,andhra pradesh,unknown,diwali,1
-89,araku valley,3,andhra pradesh,unknown,diwali,1
-90,chhau dance,1,arunachal pradesh,unknown,diwali,2
-91,azan,1,assam,unknown,diwali,2
-92,kalaigaon dance,1,assam,unknown,diwali,4
-93,paika,1,bihar,unknown,diwali,1
-94,hispanic language,3,general,unknown,culturebank,1
-95,umbrella,3,general,unknown,culturebank,1
-96,latin word 'umbra',3,general,unknown,culturebank,1
-97,soccer,1,general,unknown,culturebank,1
-98,british colonizers,3,general,unknown,culturebank,1
-99,couscous,1,dz,unknown,blend,1
+4,nile valley,1,egypt,unknown,arabculture,1
+5,pochampally,3,andhra pradesh,unknown,diwali,1
+6,mangalagiri town,3,andhra pradesh,unknown,diwali,1
+7,venkatagiri town,3,andhra pradesh,unknown,diwali,1
+8,uppada silk,3,andhra pradesh,unknown,diwali,1
+9,uppada village,3,andhra pradesh,unknown,diwali,1
+10,srikalahasti kalamkari,2,andhra pradesh,unknown,diwali,2
+11,srikalahasti,3,andhra pradesh,unknown,diwali,1
+12,united states,1,assam,unknown,diwali,7
+13,bhagalpuri silk,2,bihar,unknown,diwali,4
+14,kutchi embroidery,1,bihar,unknown,diwali,1
+15,muzaffarpur,3,bihar,unknown,diwali,1
+16,"bhagalpur, bihar",3,bihar,unknown,diwali,1
+17,"patan, gujarat",3,gujarat,unknown,diwali,1
+18,ajrakh,3,gujarat,unknown,diwali,2
+19,kutch region,3,gujarat,unknown,diwali,1
+20,dangasia community,3,gujarat,unknown,diwali,1
+21,dhurrie,2,haryana,unknown,diwali,1
+22,haryana_panipat_region,3,haryana,unknown,diwali,1
+23,region,1,himachal pradesh,unknown,diwali,2
+24,kinnaur district,3,himachal pradesh,unknown,diwali,1
+25,rampur chaddar,3,himachal pradesh,unknown,diwali,2
+26,bhagalpur region,3,jharkhand,unknown,diwali,1
+27,ilkal saree,3,karnataka,unknown,diwali,1
+28,ilkal,3,karnataka,unknown,diwali,1
+29,mysore silk,5,karnataka,unknown,diwali,1
+30,mysore,3,karnataka,unknown,diwali,1
+31,"molakalmuru, chitradurga district",3,karnataka,unknown,diwali,1
+32,navalgund,3,karnataka,unknown,diwali,1
+33,gadag district,3,karnataka,unknown,diwali,1
+34,guledgudda,3,karnataka,unknown,diwali,1
+35,balaramapuram region,3,kerala,unknown,diwali,1
+36,chendamangalam village,3,kerala,unknown,diwali,1
+37,kerala capital city,3,kerala,unknown,diwali,1
+38,chanderi sari,3,madhya pradesh,unknown,diwali,2
+39,chanderi town,3,madhya pradesh,unknown,diwali,1
+40,maheshwar,3,madhya pradesh,unknown,diwali,1
+41,bagh,2,madhya pradesh,unknown,diwali,1
+42,"village of bagh, madhya pradesh",3,madhya pradesh,unknown,diwali,1
+43,malwa region,3,madhya pradesh,unknown,diwali,1
+44,paithan,3,maharashtra,unknown,diwali,1
+45,aurangabad,3,maharashtra,unknown,diwali,1
+46,mashru,3,maharashtra,unknown,diwali,1
+47,maharashtra,3,maharashtra,unknown,diwali,1
+48,kolhapur,3,maharashtra,unknown,diwali,1
+49,narayan peth,3,maharashtra,unknown,diwali,1
+50,western odisha,3,odisha,unknown,diwali,1
+51,sonepur district,3,odisha,unknown,diwali,1
+52,berhampuri patta,3,odisha,unknown,diwali,2
+53,berhampur,3,odisha,unknown,diwali,1
+54,tribal regions of koraput,3,odisha,unknown,diwali,1
+55,kalahandi district,3,odisha,unknown,diwali,1
+56,pipili village,3,odisha,unknown,diwali,1
+57,odisha,3,odisha,unknown,diwali,1
+58,maru-gurjar tradition,3,rajasthan,unknown,diwali,1
+59,sanganeri block print,3,rajasthan,unknown,diwali,1
+60,sanganer,3,rajasthan,unknown,diwali,1
+61,sindh,3,rajasthan,unknown,diwali,1
+62,madurai sungudi,3,tamil nadu,unknown,diwali,1
+63,madurai,3,tamil nadu,unknown,diwali,1
+64,chettinad region,3,tamil nadu,unknown,diwali,1
+65,arani town,3,tamil nadu,unknown,diwali,1
+66,kumbakonam,3,tamil nadu,unknown,diwali,1
+67,bhavani,3,tamil nadu,unknown,diwali,1
+68,algeria,1,tamil nadu,unknown,diwali,3
+69,coimbatore region,3,tamil nadu,unknown,diwali,1
+70,bhoodan pochampally,3,telangana,unknown,diwali,1
+71,"gadwal, telangana",3,telangana,unknown,diwali,1
+72,siddipet,3,telangana,unknown,diwali,1
+73,puttapaka village,3,telangana,unknown,diwali,1
+74,himroo weaving,3,telangana,unknown,diwali,1
+75,telangana,3,telangana,unknown,diwali,1
+76,lucknow,3,uttar pradesh,unknown,diwali,1
+77,aligarh,3,uttar pradesh,unknown,diwali,1
+78,jamdani,2,uttar pradesh,unknown,diwali,2
+79,"baluchar, murshidabad",3,west bengal,unknown,diwali,1
+80,"tangail, bangladesh",3,west bengal,unknown,diwali,1
+81,dhaniakhali region,3,west bengal,unknown,diwali,1
+82,warli painting,5,dadra and nagar haveli and dama,unknown,diwali,1
+83,mughal courts,3,delhi,unknown,diwali,1
+84,kanihama area,3,jammu and kashmir,unknown,diwali,1
+85,sambha region,3,jammu and kashmir,unknown,diwali,1
+86,andhra ikshvakus' courts,3,andhra pradesh,unknown,diwali,1
+87,jangam katha,3,andhra pradesh,unknown,diwali,1
+88,araku valley,3,andhra pradesh,unknown,diwali,1
+89,chhau dance,2,arunachal pradesh,unknown,diwali,2
+90,azan,4,assam,unknown,diwali,2
+91,kalaigaon dance,3,assam,unknown,diwali,4
+92,paika,3,bihar,unknown,diwali,1
+93,hispanic language,3,general,unknown,culturebank,1
+94,umbrella,3,general,unknown,culturebank,1
+95,latin word 'umbra',3,general,unknown,culturebank,1
+96,soccer,3,general,unknown,culturebank,1
+97,british colonizers,3,general,unknown,culturebank,1
+98,couscous,1,dz,unknown,blend,1

@@ -5,88 +5,69 @@ source_id,target_id,source_label,target_label,relation_type,weight,source_datase
 7,1,comfortable clothing,algeria,preferred,1,culturebank
 1,8,algeria,early dinners,prefer,1,culturebank
 9,10,strip malls,accessibility,preferred_for,1,culturebank
-11,12,united states,diwali,prefers,8,culturebank
-13,12,healthcare system,diwali,preferred_over,1,culturebank
-1,14,algeria,shopping at aldi,prefer,1,culturebank
-11,15,united states,driving,prefers,1,culturebank
-12,16,diwali,hands over soap,prefers,1,culturebank
-12,17,diwali,fizzy and non-fizzy drinks,refers_to,1,culturebank
-11,18,united states,air conditioning,prefers,1,culturebank
-12,18,diwali,air conditioning,preferred_over,1,culturebank
-12,19,diwali,americans,preferred_by,1,culturebank
-1,12,algeria,diwali,preferred_for,1,culturebank
-1,20,algeria,taste,preferred_for,1,culturebank
-12,1,diwali,algeria,preferred_by,1,culturebank
-21,22,tea preparation,faster methods,prefers,1,culturebank
-23,12,france,diwali,prefer,1,culturebank
-12,24,diwali,disposable plates,preferred_over,1,culturebank
-25,1,ceramic plates,algeria,preferred_for,1,culturebank
-26,27,powerful washing machines,in laundry,preferred,1,culturebank
-11,28,united states,"warm, freshly made sandwiches",prefers,1,culturebank
-29,30,businesses,imperial units,prefer,1,culturebank
-11,31,united states,canned whipped cream,prefers,1,culturebank
-32,33,homemade whipped cream,uncanned whipped cream,preferred_over,1,culturebank
-1,34,algeria,american food over french,prefer,1,culturebank
-35,36,date format,mm/dd/yyyy,prefers,1,culturebank
-1,37,algeria,running water or dishwasher,preferred_method,1,culturebank
-38,39,culture group,early sleep,prefers,1,culturebank
-40,11,specific brands and flavors,united states,preferred_by,1,culturebank
-1,41,algeria,unique flavors,prefer,1,culturebank
-42,43,bread slicing,using machines,preferred_method,1,culturebank
-44,45,diy nail care,individuals,preferred_by,1,culturebank
-46,47,americanized chinese food,consumers,preferred_by,1,culturebank
-1,12,algeria,diwali,prefer,6,culturebank
-11,48,united states,peanut butter,prefer,1,culturebank
-12,49,diwali,"both fish and chips, french fries",refers_to,1,culturebank
-11,50,united states,fresh strawberries,prefers,1,culturebank
-1,51,algeria,diy and professional services,prefers,1,culturebank
+1,13,algeria,shopping at aldi,prefer,1,culturebank
+11,14,united states,driving,prefers,1,culturebank
+11,17,united states,air conditioning,prefers,1,culturebank
+1,19,algeria,taste,preferred_for,1,culturebank
+20,21,tea preparation,faster methods,prefers,1,culturebank
+24,1,ceramic plates,algeria,preferred_for,1,culturebank
+25,26,powerful washing machines,in laundry,preferred,1,culturebank
+11,27,united states,"warm, freshly made sandwiches",prefers,1,culturebank
+28,29,businesses,imperial units,prefer,1,culturebank
+11,30,united states,canned whipped cream,prefers,1,culturebank
+31,32,homemade whipped cream,uncanned whipped cream,preferred_over,1,culturebank
+1,33,algeria,american food over french,prefer,1,culturebank
+34,35,date format,mm/dd/yyyy,prefers,1,culturebank
+1,36,algeria,running water or dishwasher,preferred_method,1,culturebank
+37,38,culture group,early sleep,prefers,1,culturebank
+39,11,specific brands and flavors,united states,preferred_by,1,culturebank
+1,40,algeria,unique flavors,prefer,1,culturebank
+41,42,bread slicing,using machines,preferred_method,1,culturebank
+43,44,diy nail care,individuals,preferred_by,1,culturebank
+45,46,americanized chinese food,consumers,preferred_by,1,culturebank
+11,47,united states,peanut butter,prefer,1,culturebank
+11,49,united states,fresh strawberries,prefers,1,culturebank
+1,50,algeria,diy and professional services,prefers,1,culturebank
 11,1,united states,algeria,prefers,1,culturebank
-11,52,united states,larger fruit sizes,prefer,1,culturebank
-53,12,free communication methods,diwali,preferred_over,1,culturebank
-11,54,united states,credit card use,prefers,1,culturebank
-55,56,supermarket shoppers,self-bagging,prefer,1,culturebank
-11,57,united states,carbonated or sparkling water,prefers,1,culturebank
-11,58,united states,mobile apps,prefers,1,culturebank
-19,12,americans,diwali,prefer,1,culturebank
-59,60,consumer behavior,shopping,prefer,1,culturebank
-47,61,consumers,unique tuna salad preparation,prefer,1,culturebank
-62,63,broadcasters,tobacco products,refer_to,1,culturebank
-1,64,algeria,card payment,prefer,1,culturebank
-1,65,algeria,significant space for ketchup,prefer,1,culturebank
-11,66,united states,"bell peppers, including their chemical name and colloquial terms",refer_to,1,culturebank
-11,67,united states,capsicum over bell peppers,prefer,1,culturebank
-1,68,algeria,zelle for payments,prefer,1,culturebank
-11,69,united states,home-packed lunches,prefer,1,culturebank
-11,70,united states,rice as a side dish,prefers_eating,1,culturebank
-71,72,locally grown produce,steroided produce,preferred_over,1,culturebank
-73,74,expensive cars,by consumers,preferred,1,culturebank
-23,12,france,diwali,prefers,1,culturebank
-75,76,vacationers,warm destinations,prefer,1,culturebank
-77,78,us citizens,fox news,prefer,1,culturebank
-79,80,bathrooms,bathtubs,prefer,1,culturebank
-1,81,algeria,various oreos combinations,prefer,1,culturebank
-1,82,algeria,certain snack foods,prefer,1,culturebank
-1,83,algeria,algerian countryside,prefers,1,blend
-84,1,algerian seniors,algeria,prefer,1,blend
-85,86,parents,education system,prefer,1,blend
-1,87,algeria,morning,prefer,1,blend
-1,88,algeria,soup,prefer,1,blend
-12,89,diwali,certain occupations,prefer,1,blend
-1,90,algeria,activities,preferred,1,blend
-1,91,algeria,domestic vacation spots,prefer,1,blend
-12,1,diwali,algeria,refer_to,1,blend
-1,92,algeria,adventure sports,prefer,1,blend
-1,93,algeria,chips with spicy flavours,prefer,1,blend
-1,94,algeria,quick meals,prefer,1,blend
-12,95,diwali,algeria's cultural group,refer_to,1,blend
-1,96,algeria,couscous,prefer,1,blend
-1,97,algeria,football,prefer,1,blend
-1,98,algeria,local brands,prefer,1,blend
-12,99,diwali,traditional vehicles,prefer,1,blend
-100,101,algerian girls,traditional dolls,prefer,1,blend
-1,102,algeria,abroad destinations,prefer,1,blend
-1,103,algeria,olive oil for cooking,prefer,1,blend
-1,104,algeria,personal car,prefers,1,blend
-105,106,tv viewers,popular algerian family shows,prefer,1,blend
-1,107,algeria,olympic sports,prefer,1,blend
-108,109,journalist,tipping points,prefers,1,candle
+11,51,united states,larger fruit sizes,prefer,1,culturebank
+11,53,united states,credit card use,prefers,1,culturebank
+54,55,supermarket shoppers,self-bagging,prefer,1,culturebank
+11,56,united states,carbonated or sparkling water,prefers,1,culturebank
+11,57,united states,mobile apps,prefers,1,culturebank
+58,59,consumer behavior,shopping,prefer,1,culturebank
+46,60,consumers,unique tuna salad preparation,prefer,1,culturebank
+61,62,broadcasters,tobacco products,refer_to,1,culturebank
+1,63,algeria,card payment,prefer,1,culturebank
+1,64,algeria,significant space for ketchup,prefer,1,culturebank
+11,65,united states,"bell peppers, including their chemical name and colloquial terms",refer_to,1,culturebank
+11,66,united states,capsicum over bell peppers,prefer,1,culturebank
+1,67,algeria,zelle for payments,prefer,1,culturebank
+11,68,united states,home-packed lunches,prefer,1,culturebank
+11,69,united states,rice as a side dish,prefers_eating,1,culturebank
+70,71,locally grown produce,steroided produce,preferred_over,1,culturebank
+72,73,expensive cars,by consumers,preferred,1,culturebank
+74,75,vacationers,warm destinations,prefer,1,culturebank
+76,77,us citizens,fox news,prefer,1,culturebank
+78,79,bathrooms,bathtubs,prefer,1,culturebank
+1,80,algeria,various oreos combinations,prefer,1,culturebank
+1,81,algeria,certain snack foods,prefer,1,culturebank
+1,82,algeria,algerian countryside,prefers,1,blend
+83,1,algerian seniors,algeria,prefer,1,blend
+84,85,parents,education system,prefer,1,blend
+1,86,algeria,morning,prefer,1,blend
+1,87,algeria,soup,prefer,1,blend
+1,89,algeria,activities,preferred,1,blend
+1,90,algeria,domestic vacation spots,prefer,1,blend
+1,91,algeria,adventure sports,prefer,1,blend
+1,92,algeria,chips with spicy flavours,prefer,1,blend
+1,93,algeria,quick meals,prefer,1,blend
+1,95,algeria,couscous,prefer,1,blend
+1,96,algeria,football,prefer,1,blend
+1,97,algeria,local brands,prefer,1,blend
+99,100,algerian girls,traditional dolls,prefer,1,blend
+1,101,algeria,abroad destinations,prefer,1,blend
+1,102,algeria,olive oil for cooking,prefer,1,blend
+1,103,algeria,personal car,prefers,1,blend
+104,105,tv viewers,popular algerian family shows,prefer,1,blend
+1,106,algeria,olympic sports,prefer,1,blend
+107,108,journalist,tipping points,prefers,1,candle

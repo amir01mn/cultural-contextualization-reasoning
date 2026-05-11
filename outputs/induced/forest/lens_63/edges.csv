@@ -1,13 +1,11 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,algeria,egg availability,struggle_with,1,culturebank
-3,4,united states,diwali,struggles_with,1,culturebank
-1,5,algeria,social and academic integration,struggle_with,1,culturebank
-1,6,algeria,adapting to french food culture,struggle_with,1,culturebank
-1,7,algeria,medical debt,struggle_with,1,culturebank
-1,8,algeria,using roundabouts,struggle_with,1,culturebank
-1,9,algeria,housing costs,struggle_with,1,culturebank
-1,10,algeria,general expenses,struggle_with,1,culturebank
-11,12,us citizens,affordability and access to healthcare,struggle_with,1,culturebank
-13,4,americans,diwali,struggle_with,1,culturebank
-1,14,algeria,societal and economic challenges,struggle_with,1,culturebank
-3,15,united states,affordable healthcare,struggles_with,1,culturebank
+1,4,algeria,social and academic integration,struggle_with,1,culturebank
+1,5,algeria,adapting to french food culture,struggle_with,1,culturebank
+1,6,algeria,medical debt,struggle_with,1,culturebank
+1,7,algeria,using roundabouts,struggle_with,1,culturebank
+1,8,algeria,housing costs,struggle_with,1,culturebank
+1,9,algeria,general expenses,struggle_with,1,culturebank
+10,11,us citizens,affordability and access to healthcare,struggle_with,1,culturebank
+1,13,algeria,societal and economic challenges,struggle_with,1,culturebank
+3,14,united states,affordable healthcare,struggles_with,1,culturebank

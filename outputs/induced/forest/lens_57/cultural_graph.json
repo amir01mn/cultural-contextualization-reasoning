@@ -26,7 +26,7 @@
     {
       "id": 2,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -62,7 +62,7 @@
     {
       "id": 6,
       "label": "girls",
-      "level": 1,
+      "level": 4,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "label": "brothers",
-      "level": 1,
+      "level": 3,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -115,15 +115,6 @@
     },
     {
       "id": 12,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 5
-    },
-    {
-      "id": 13,
       "label": "neighbors",
       "level": 3,
       "cultural_group": "egypt",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "to start countdown",
       "level": 3,
       "cultural_group": "egypt",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "feasts",
       "level": 3,
       "cultural_group": "dz",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "sports bars",
       "level": 3,
       "cultural_group": "dz",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "courtyard",
       "level": 3,
       "cultural_group": "dz",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "public speeches",
       "level": 3,
       "cultural_group": "dz",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "eid festivities",
       "level": 3,
       "cultural_group": "dz",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "dentist",
       "level": 1,
       "cultural_group": "dentist",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "medical history",
       "level": 3,
       "cultural_group": "dentist",
@@ -204,9 +195,9 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "attorney",
-      "level": 2,
+      "level": 1,
       "cultural_group": "attorney",
       "domain": "unknown",
       "source_dataset": "candle",
@@ -278,17 +269,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 2,
-      "target": 12,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "eats_together",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 13,
-      "target": 14,
+      "source": 12,
+      "target": 13,
       "source_label": "neighbors",
       "target_label": "to start countdown",
       "relation_type": "gather_together",
@@ -297,7 +279,7 @@
     },
     {
       "source": 2,
-      "target": 15,
+      "target": 14,
       "source_label": "algeria",
       "target_label": "feasts",
       "relation_type": "gather_for",
@@ -306,7 +288,7 @@
     },
     {
       "source": 2,
-      "target": 16,
+      "target": 15,
       "source_label": "algeria",
       "target_label": "sports bars",
       "relation_type": "gather_at",
@@ -314,17 +296,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 12,
-      "target": 17,
-      "source_label": "diwali",
-      "target_label": "courtyard",
-      "relation_type": "gather_at",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 2,
-      "target": 18,
+      "target": 17,
       "source_label": "algeria",
       "target_label": "public speeches",
       "relation_type": "gather_for",
@@ -333,7 +306,7 @@
     },
     {
       "source": 2,
-      "target": 19,
+      "target": 18,
       "source_label": "algeria",
       "target_label": "eid festivities",
       "relation_type": "gather_for",
@@ -341,19 +314,10 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 21,
+      "source": 19,
+      "target": 20,
       "source_label": "dentist",
       "target_label": "medical history",
-      "relation_type": "gathers",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 22,
-      "target": 12,
-      "source_label": "attorney",
-      "target_label": "diwali",
       "relation_type": "gathers",
       "weight": 1,
       "source_dataset": "candle"

@@ -15,6 +15,7 @@ from collections import Counter, defaultdict
 from typing import Any
 
 import numpy as np
+from numpy import percentile as np_percentile
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.cluster import DBSCAN
@@ -126,70 +127,39 @@ def cluster_relations(freq_data: dict, min_cluster_size: int = 2) -> list[dict]:
 
 
 # ---------------------------------------------------------------------------
-# Step 2d — Frequency-driven level assignment (Jenks natural breaks)
+# Step 2d — Frequency-driven level assignment (percentile binning)
 # ---------------------------------------------------------------------------
 
-def _jenks_breaks(values: list[float], n_classes: int) -> list[float]:
-    """Simple Jenks natural breaks using Fisher's algorithm."""
-    values = sorted(values)
-    n = len(values)
-    if n <= n_classes:
-        return values
-    mat1 = [[0.0] * (n + 1) for _ in range(n_classes + 1)]
-    mat2 = [[float("inf")] * (n + 1) for _ in range(n_classes + 1)]
-    for i in range(1, n + 1):
-        mat1[1][i] = 1.0
-        mat2[1][i] = 0.0
-    for l in range(2, n_classes + 1):
-        for m in range(l, n + 1):
-            for j in range(l - 1, m):
-                s1 = sum(values[j:m])
-                s2 = sum(v ** 2 for v in values[j:m])
-                cnt = m - j
-                variance = s2 - (s1 ** 2) / cnt if cnt > 0 else 0
-                val = mat2[l - 1][j] + variance
-                if val < mat2[l][m]:
-                    mat1[l][m] = j
-                    mat2[l][m] = val
-    breaks = []
-    k = n
-    for l in range(n_classes, 1, -1):
-        idx = int(mat1[l][k]) - 1
-        if idx < len(values):
-            breaks.insert(0, values[idx])
-        k = int(mat1[l][k])
-    return breaks
-
-
-def assign_levels(entity_clusters: list[dict]) -> list[dict]:
+def assign_levels(entity_clusters: list[dict], n_levels: int = 5) -> list[dict]:
     """
-    Assign a level to each entity cluster based on frequency.
-    High frequency → low level number (more abstract).
-    Uses Jenks natural breaks to find tier boundaries.
+    Assign a level to each entity cluster based on log-frequency percentiles.
+
+    Divides clusters into n_levels equal-sized bins:
+      Level 1 = top 1/n_levels by frequency  (most abstract / cross-cultural)
+      Level N = bottom 1/n_levels            (most specific / culture-local)
+
+    This replaces Jenks natural breaks which collapsed almost all clusters
+    to Level 1 when the frequency distribution is heavily skewed.
     """
-    freqs = [c["frequency"] for c in entity_clusters]
-    if not freqs:
+    if not entity_clusters:
         return entity_clusters
 
-    log_freqs = [math.log(f + 1) for f in freqs]
-    max_levels = min(6, len(set(freqs)))
-    try:
-        breaks = _jenks_breaks(log_freqs, max_levels)
-    except Exception:
-        breaks = []
+    log_freqs = [math.log(c["frequency"] + 1) for c in entity_clusters]
+    step = 100.0 / n_levels
+    # Percentile thresholds from high to low: [80, 60, 40, 20] for n_levels=5
+    thresholds = [
+        float(np.percentile(log_freqs, 100.0 - step * i))
+        for i in range(1, n_levels)
+    ]
 
-    def get_level(log_f: float) -> int:
-        for i, b in enumerate(breaks):
-            if log_f <= b:
-                return max_levels - i
-        return 1
+    for c, lf in zip(entity_clusters, log_freqs):
+        level = n_levels  # default: most specific
+        for lvl, threshold in enumerate(thresholds, start=1):
+            if lf >= threshold:
+                level = lvl
+                break
+        c["level"] = level
 
-    total_levels = max_levels
-    for c in entity_clusters:
-        lf = math.log(c["frequency"] + 1)
-        raw_level = get_level(lf)
-        # Invert: highest freq → level 1, lowest → level N
-        c["level"] = total_levels - raw_level + 1
     return entity_clusters
 
 

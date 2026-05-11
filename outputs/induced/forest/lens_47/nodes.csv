@@ -1,19 +1,18 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,independence day,1,algeria,unknown,arabculture,1
-2,diwali,3,algeria,unknown,arabculture,21
-3,goddess,3,andhra pradesh,unknown,diwali,1
-4,yak discovery,3,arunachal pradesh,unknown,diwali,1
-5,ancestor abo tani,3,arunachal pradesh,unknown,diwali,1
-6,galo,3,arunachal pradesh,unknown,diwali,1
-7,cultural heritage,1,arunachal pradesh,unknown,diwali,1
-8,deori bihu dance,1,assam,unknown,diwali,2
-9,assamese new year,3,assam,unknown,diwali,1
-10,ali ai ligang dance,1,assam,unknown,diwali,2
-11,deities,1,assam,unknown,diwali,4
-12,diwali spirit,3,assam,unknown,diwali,1
-13,harvest season,1,assam,unknown,diwali,1
-14,cattle,3,bihar,unknown,diwali,1
-15,algeria,3,dz,unknown,blend,1
-16,nurse,3,nurse,unknown,candle,1
-17,patient's beliefs,3,nurse,unknown,candle,1
+1,independence day,2,algeria,unknown,arabculture,1
+2,goddess,3,andhra pradesh,unknown,diwali,1
+3,yak discovery,3,arunachal pradesh,unknown,diwali,1
+4,ancestor abo tani,3,arunachal pradesh,unknown,diwali,1
+5,galo,3,arunachal pradesh,unknown,diwali,1
+6,cultural heritage,2,arunachal pradesh,unknown,diwali,1
+7,deori bihu dance,2,assam,unknown,diwali,2
+8,assamese new year,3,assam,unknown,diwali,1
+9,ali ai ligang dance,4,assam,unknown,diwali,2
+10,deities,3,assam,unknown,diwali,4
+11,diwali spirit,3,assam,unknown,diwali,1
+12,harvest season,2,assam,unknown,diwali,1
+13,cattle,3,bihar,unknown,diwali,1
+14,algeria,1,dz,unknown,blend,1
+15,nurse,1,nurse,unknown,candle,1
+16,patient's beliefs,3,nurse,unknown,candle,1

@@ -1,28 +1,10 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,srikalahasti kalamkari,mythological narratives,depicts,1,diwali
-3,4,diwali,algeria,depict,1,diwali
-4,5,algeria,stories,depict,1,diwali
-3,6,diwali,mythological and natural themes,depicts,1,diwali
-4,7,algeria,"animals, birds, trees, huts, flowers",depicts_motifs,1,diwali
-4,8,algeria,"animals, plants, folklore",depict,1,diwali
-3,9,diwali,local folklore,depicts,1,diwali
-3,10,diwali,"folklore tales, nature",depicts,1,diwali
-11,12,kutchi embroidery,nature and geometric patterns,depicts,1,diwali
-3,13,diwali,mythological scenes,depicts,1,diwali
-11,14,kutchi embroidery,daily life,depict,1,diwali
-3,15,diwali,traditional to contemporary,depicts_motifs,1,diwali
-16,17,warli painting,"daily life, nature, rituals",depicts,1,diwali
-3,18,diwali,epic episodes,depicts,1,diwali
-3,19,diwali,daily tasks,depicts,1,diwali
-3,20,diwali,cowherds' life,depicts,1,diwali
-3,21,diwali,chenchu tribe,depicts_life_of,1,diwali
-22,23,rasaka,playful scenes,depicts,1,diwali
-3,24,diwali,love and valor,depicts_stories,1,diwali
-3,25,diwali,love and sorrow,depicts,1,diwali
-26,3,chhau dance,diwali,depicts,2,diwali
-3,27,diwali,daily life of boatmen,depicts,1,diwali
-3,28,diwali,rural life,depicts,1,diwali
-3,29,diwali,romantic tales,depicts_stories,1,diwali
-3,30,diwali,ten incarnations of lord vishnu,depicts,1,diwali
-3,31,diwali,ramayana,depicts_stories,1,diwali
-32,4,media,algeria,depicts,1,culturebank
+3,4,algeria,stories,depict,1,diwali
+3,6,algeria,"animals, birds, trees, huts, flowers",depicts_motifs,1,diwali
+3,7,algeria,"animals, plants, folklore",depict,1,diwali
+10,11,kutchi embroidery,nature and geometric patterns,depicts,1,diwali
+10,13,kutchi embroidery,daily life,depict,1,diwali
+15,16,warli painting,"daily life, nature, rituals",depicts,1,diwali
+21,22,rasaka,playful scenes,depicts,1,diwali
+31,3,media,algeria,depicts,1,culturebank

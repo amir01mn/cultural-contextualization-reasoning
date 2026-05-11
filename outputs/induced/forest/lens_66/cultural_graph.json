@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "bihar",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 5
-    },
-    {
-      "id": 2,
       "label": "textiles",
       "level": 1,
       "cultural_group": "bihar",
@@ -33,7 +24,7 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "fabrics for home décor and apparel",
       "level": 3,
       "cultural_group": "telangana",
@@ -42,7 +33,7 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "generalization",
       "level": 3,
       "cultural_group": "general",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "european cultures",
       "level": 3,
       "cultural_group": "general",
@@ -60,7 +51,7 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "cultural adaptation",
       "level": 3,
       "cultural_group": "general",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "americanized",
       "level": 3,
       "cultural_group": "general",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "date and time formatting",
       "level": 3,
       "cultural_group": "general",
@@ -87,17 +78,8 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "algeria",
-      "level": 3,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 1
-    },
-    {
-      "id": 10,
-      "label": "daily life",
       "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
@@ -105,7 +87,16 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 9,
+      "label": "daily life",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
       "label": "military time",
       "level": 3,
       "cultural_group": "general",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "finger foods",
       "level": 3,
       "cultural_group": "general",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "tax rates and exemptions",
       "level": 3,
       "cultural_group": "general",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "different food items",
       "level": 3,
       "cultural_group": "general",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "dentist",
       "level": 1,
       "cultural_group": "dentist",
@@ -150,7 +141,7 @@
       "frequency": 2
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "wound dressing",
       "level": 3,
       "cultural_group": "dentist",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "artist",
       "level": 1,
       "cultural_group": "artist",
@@ -168,16 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
-      "label": "candle",
-      "level": 1,
-      "cultural_group": "artist",
-      "domain": "unknown",
-      "source_dataset": "candle",
-      "frequency": 1
-    },
-    {
-      "id": 19,
+      "id": 17,
       "label": "mehndi artist",
       "level": 3,
       "cultural_group": "artist",
@@ -188,26 +170,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "textiles",
-      "relation_type": "applied_to",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "source_label": "diwali",
-      "target_label": "fabrics for home décor and apparel",
-      "relation_type": "applied_to",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 4,
-      "target": 5,
+      "source": 3,
+      "target": 4,
       "source_label": "generalization",
       "target_label": "european cultures",
       "relation_type": "applied_to",
@@ -215,8 +179,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 6,
-      "target": 7,
+      "source": 5,
+      "target": 6,
       "source_label": "cultural adaptation",
       "target_label": "americanized",
       "relation_type": "applied_to",
@@ -224,8 +188,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 8,
-      "target": 9,
+      "source": 7,
+      "target": 8,
       "source_label": "date and time formatting",
       "target_label": "algeria",
       "relation_type": "applies_to",
@@ -233,8 +197,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "daily life",
       "target_label": "military time",
       "relation_type": "applies",
@@ -242,17 +206,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 12,
-      "source_label": "diwali",
-      "target_label": "finger foods",
-      "relation_type": "applies_to",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 13,
-      "target": 14,
+      "source": 12,
+      "target": 13,
       "source_label": "tax rates and exemptions",
       "target_label": "different food items",
       "relation_type": "applied_to",
@@ -260,37 +215,10 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 15,
-      "target": 16,
+      "source": 14,
+      "target": 15,
       "source_label": "dentist",
       "target_label": "wound dressing",
-      "relation_type": "applies",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 15,
-      "target": 1,
-      "source_label": "dentist",
-      "target_label": "diwali",
-      "relation_type": "applies",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 17,
-      "target": 18,
-      "source_label": "artist",
-      "target_label": "candle",
-      "relation_type": "applies",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 19,
-      "target": 1,
-      "source_label": "mehndi artist",
-      "target_label": "diwali",
       "relation_type": "applies",
       "weight": 1,
       "source_dataset": "candle"

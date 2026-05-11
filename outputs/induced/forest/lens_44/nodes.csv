@@ -1,40 +1,39 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,diwali,3,algeria,unknown,arabculture,6
-2,food preparation,1,algeria,unknown,arabculture,1
-3,algeria,3,algeria,unknown,arabculture,4
-4,chanderi sari,1,maharashtra,unknown,diwali,1
-5,weaving traditions in maharashtra,3,maharashtra,unknown,diwali,1
-6,mealtime,3,general,unknown,culturebank,1
-7,dining habits,3,general,unknown,culturebank,1
-8,setting,3,general,unknown,culturebank,1
-9,accent use,3,general,unknown,culturebank,1
-10,age of potty training,3,general,unknown,culturebank,1
-11,societal pressures,3,general,unknown,culturebank,1
-12,potty training approach,3,general,unknown,culturebank,1
-13,restaurant environment,3,general,unknown,culturebank,1
-14,customer behavior,3,general,unknown,culturebank,1
-15,cultural factors,3,general,unknown,culturebank,1
-16,local food preferences,3,general,unknown,culturebank,1
-17,vegetable and meat consumption,3,general,unknown,culturebank,1
-18,puritanical and religious origins,3,general,unknown,culturebank,1
-19,tight-toweled style,3,general,unknown,culturebank,1
-20,societal expectations,3,general,unknown,culturebank,1
-21,parents,1,general,unknown,culturebank,1
-22,dressing style,3,general,unknown,culturebank,1
-23,personal preference,1,general,unknown,culturebank,2
-24,name choice,3,general,unknown,culturebank,1
-25,social norms,1,general,unknown,culturebank,2
-26,respect for elders,1,general,unknown,culturebank,1
-27,costs,1,general,unknown,culturebank,1
-28,driving,1,general,unknown,culturebank,1
-29,walking direction,3,general,unknown,culturebank,1
-30,women's sport watching,3,dz,unknown,blend,1
-31,health practices,3,dz,unknown,blend,1
-32,judge,1,judge,unknown,candle,1
-33,parental cooperation,3,judge,unknown,candle,1
-34,proposal,3,teacher,unknown,candle,1
-35,politician,1,politician,unknown,candle,1
-36,art work,3,historian,unknown,candle,1
-37,historical understanding,3,historian,unknown,candle,1
-38,specific building,3,architect,unknown,candle,1
+1,food preparation,4,algeria,unknown,arabculture,1
+2,algeria,1,algeria,unknown,arabculture,4
+3,chanderi sari,3,maharashtra,unknown,diwali,1
+4,weaving traditions in maharashtra,3,maharashtra,unknown,diwali,1
+5,mealtime,3,general,unknown,culturebank,1
+6,dining habits,3,general,unknown,culturebank,1
+7,setting,3,general,unknown,culturebank,1
+8,accent use,3,general,unknown,culturebank,1
+9,age of potty training,3,general,unknown,culturebank,1
+10,societal pressures,3,general,unknown,culturebank,1
+11,potty training approach,3,general,unknown,culturebank,1
+12,restaurant environment,3,general,unknown,culturebank,1
+13,customer behavior,3,general,unknown,culturebank,1
+14,cultural factors,3,general,unknown,culturebank,1
+15,local food preferences,3,general,unknown,culturebank,1
+16,vegetable and meat consumption,3,general,unknown,culturebank,1
+17,puritanical and religious origins,3,general,unknown,culturebank,1
+18,tight-toweled style,3,general,unknown,culturebank,1
+19,societal expectations,3,general,unknown,culturebank,1
+20,parents,1,general,unknown,culturebank,1
+21,dressing style,3,general,unknown,culturebank,1
+22,personal preference,2,general,unknown,culturebank,2
+23,name choice,3,general,unknown,culturebank,1
+24,social norms,3,general,unknown,culturebank,2
+25,respect for elders,2,general,unknown,culturebank,1
+26,costs,3,general,unknown,culturebank,1
+27,driving,3,general,unknown,culturebank,1
+28,walking direction,3,general,unknown,culturebank,1
+29,women's sport watching,3,dz,unknown,blend,1
+30,health practices,3,dz,unknown,blend,1
+31,judge,1,judge,unknown,candle,1
+32,parental cooperation,3,judge,unknown,candle,1
+33,proposal,3,teacher,unknown,candle,1
+34,politician,1,politician,unknown,candle,1
+35,art work,3,historian,unknown,candle,1
+36,historical understanding,3,historian,unknown,candle,1
+37,specific building,3,architect,unknown,candle,1

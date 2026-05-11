@@ -1,32 +1,18 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,الجمعية,تجهيز الأبناء,focuses_on,1,arabculture
-3,4,diwali,satyabhama's tales,focuses_on,1,diwali
-3,5,diwali,hunting scenes,focuses_on,1,diwali
-3,6,diwali,intricate footwork,focuses_on,1,diwali
-3,7,diwali,rhythm_and_movement,focuses_on,1,diwali
-3,8,diwali,various aspects,focuses_on,1,diwali
-3,9,diwali,philosophical_topics,focuses_on,1,diwali
-10,11,algeria,safety and visibility,focus_on,1,culturebank
-12,13,daily routine,adequate sleep,focuses_on,1,culturebank
-14,15,algerian society,healthy living,focuses_on,1,culturebank
-3,16,diwali,personal preferences,focuses_on,1,culturebank
-17,18,americans,avoiding depression,focus_on,1,culturebank
-19,20,parents,protective measures,focuses_on,1,culturebank
-3,21,diwali,education through play,focuses_on,1,blend
-3,22,diwali,popular_sport,focuses_on,1,blend
-3,23,diwali,popularity_of_sport,focuses_on,1,blend
-24,3,algerian media,diwali,focuses_on,1,blend
-25,26,work life,youth entrepreneurship,focus_on,1,blend
-3,27,diwali,paralympic sports,focuses_on,1,blend
-28,29,education system,national identity through literature,focuses_on,1,blend
-30,31,prenatal education,pregnancy care,focuses_on,1,blend
-32,33,evaluation,student success,focuses_on,1,candle
-34,35,self-evaluation,strengths and skills,focuses_on,1,candle
-36,3,nurse,diwali,focuses_on_skills,2,candle
-36,37,nurse,speaking,focuses_on_skills,1,candle
-38,39,traditional wedding photographer,wedding photography,focuses_on,1,candle
-40,10,photographer,algeria,focuses_on,1,candle
-40,41,photographer,architect,focuses_on,1,candle
-40,42,photographer,religious ceremonies,focuses_on,1,candle
-43,44,artist,aesthetic appearance,focuses_on,1,candle
-45,46,rehearsal,creating vision,focuses_on,1,candle
+7,8,algeria,safety and visibility,focus_on,1,culturebank
+9,10,daily routine,adequate sleep,focuses_on,1,culturebank
+11,12,algerian society,healthy living,focuses_on,1,culturebank
+14,15,americans,avoiding depression,focus_on,1,culturebank
+16,17,parents,protective measures,focuses_on,1,culturebank
+22,23,work life,youth entrepreneurship,focus_on,1,blend
+25,26,education system,national identity through literature,focuses_on,1,blend
+27,28,prenatal education,pregnancy care,focuses_on,1,blend
+29,30,evaluation,student success,focuses_on,1,candle
+31,32,self-evaluation,strengths and skills,focuses_on,1,candle
+33,34,nurse,speaking,focuses_on_skills,1,candle
+35,36,traditional wedding photographer,wedding photography,focuses_on,1,candle
+37,7,photographer,algeria,focuses_on,1,candle
+37,38,photographer,architect,focuses_on,1,candle
+37,39,photographer,religious ceremonies,focuses_on,1,candle
+40,41,artist,aesthetic appearance,focuses_on,1,candle
+42,43,rehearsal,creating vision,focuses_on,1,candle

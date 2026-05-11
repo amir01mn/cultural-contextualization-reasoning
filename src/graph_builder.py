@@ -2,23 +2,39 @@
 Assembles raw node/edge dicts from the extractor into a deduplicated CulturalGraph.
 """
 from __future__ import annotations
+import re
+from typing import Any
 from schema import Node, Edge, CulturalGraph, RELATION_TYPES, CULTURAL_DOMAINS, LEVELS
+
+# Dataset names that leak into node labels from CANDLE/DIWALI/BLEnD entries
+_DATASET_NAME_NOISE = {"candle", "diwali", "blend", "arabculture", "culturebank"}
+
+# Arabic Unicode block: U+0600–U+06FF
+_ARABIC_RE = re.compile(r'[؀-ۿ]')
+
+
+def _is_noisy(label: str) -> bool:
+    """Return True if this node label should be filtered out."""
+    if len(label) < 3:
+        return True
+    if label in _DATASET_NAME_NOISE:
+        return True
+    if _ARABIC_RE.search(label):
+        return True
+    return False
 
 
 def _valid_level(val: Any) -> int:
     try:
         lvl = int(val)
-        return lvl if lvl in LEVELS else 3  # default to practice level
+        return lvl if 0 <= lvl <= 6 else 3
     except (TypeError, ValueError):
         return 3
 
 
-from typing import Any
-
-
 def _coerce_node(raw: dict) -> Node | None:
     label = str(raw.get("label") or "").strip().lower()
-    if not label:
+    if not label or _is_noisy(label):
         return None
     level = _valid_level(raw.get("level"))
     cultural_group = str(raw.get("cultural_group") or "general").strip().lower()

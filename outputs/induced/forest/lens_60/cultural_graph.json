@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 6
-    },
-    {
-      "id": 2,
       "label": "effective skincare",
       "level": 3,
       "cultural_group": "algeria",
@@ -33,16 +24,16 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "harvest season",
-      "level": 1,
+      "level": 2,
       "cultural_group": "arunachal pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "quickness",
       "level": 3,
       "cultural_group": "general",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "americans",
       "level": 1,
       "cultural_group": "general",
@@ -60,16 +51,16 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "freedom",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "service staff",
       "level": 1,
       "cultural_group": "general",
@@ -78,16 +69,16 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 4
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "affordable wine options",
       "level": 3,
       "cultural_group": "general",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "specialty and fancy cheese selections",
       "level": 3,
       "cultural_group": "general",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "individuals",
       "level": 1,
       "cultural_group": "general",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "better quality of life",
       "level": 3,
       "cultural_group": "general",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "employment-conducive majors",
       "level": 3,
       "cultural_group": "dz",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "flexible work opportunities",
       "level": 3,
       "cultural_group": "dz",
@@ -141,16 +132,16 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "banker",
-      "level": 1,
+      "level": 2,
       "cultural_group": "banker",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "successful connection",
       "level": 3,
       "cultural_group": "banker",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "sharpest scissors",
       "level": 3,
       "cultural_group": "tailor",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "tailors",
       "level": 3,
       "cultural_group": "carpenter",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "the sharpest scissors",
       "level": 3,
       "cultural_group": "carpenter",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "politician",
       "level": 1,
       "cultural_group": "politician",
@@ -197,35 +188,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "effective skincare",
-      "relation_type": "seeks",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "source_label": "diwali",
-      "target_label": "harvest season",
-      "relation_type": "seek",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "quickness",
-      "relation_type": "seek",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 5,
-      "target": 6,
+      "source": 4,
+      "target": 5,
       "source_label": "americans",
       "target_label": "freedom",
       "relation_type": "seek",
@@ -234,16 +198,7 @@
     },
     {
       "source": 7,
-      "target": 1,
-      "source_label": "service staff",
-      "target_label": "diwali",
-      "relation_type": "seek",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 8,
-      "target": 9,
+      "target": 8,
       "source_label": "algeria",
       "target_label": "affordable wine options",
       "relation_type": "seek",
@@ -251,8 +206,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 8,
-      "target": 10,
+      "source": 7,
+      "target": 9,
       "source_label": "algeria",
       "target_label": "specialty and fancy cheese selections",
       "relation_type": "seek",
@@ -260,8 +215,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 11,
-      "target": 12,
+      "source": 10,
+      "target": 11,
       "source_label": "individuals",
       "target_label": "better quality of life",
       "relation_type": "seek",
@@ -269,8 +224,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 8,
-      "target": 13,
+      "source": 7,
+      "target": 12,
       "source_label": "algeria",
       "target_label": "employment-conducive majors",
       "relation_type": "seek",
@@ -278,8 +233,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 8,
-      "target": 14,
+      "source": 7,
+      "target": 13,
       "source_label": "algeria",
       "target_label": "flexible work opportunities",
       "relation_type": "seek",
@@ -287,8 +242,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 15,
-      "target": 16,
+      "source": 14,
+      "target": 15,
       "source_label": "banker",
       "target_label": "successful connection",
       "relation_type": "seeks",
@@ -296,29 +251,11 @@
       "source_dataset": "candle"
     },
     {
-      "source": 1,
-      "target": 17,
-      "source_label": "diwali",
-      "target_label": "sharpest scissors",
-      "relation_type": "seeks",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 18,
-      "target": 19,
+      "source": 17,
+      "target": 18,
       "source_label": "tailors",
       "target_label": "the sharpest scissors",
       "relation_type": "seek",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 20,
-      "target": 1,
-      "source_label": "politician",
-      "target_label": "diwali",
-      "relation_type": "seeks",
       "weight": 1,
       "source_dataset": "candle"
     }

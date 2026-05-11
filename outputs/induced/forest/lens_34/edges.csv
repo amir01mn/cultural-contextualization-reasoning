@@ -1,28 +1,7 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,diwali,cotton and silk yarn,woven_with,1,diwali
-1,3,diwali,extra weft,woven_in,1,diwali
-1,4,diwali,"muga, eri or pat silk",woven_from,1,diwali
-1,5,diwali,karbi tribe,woven_by,1,diwali
-1,6,diwali,manual looms,woven_on,1,diwali
-1,7,diwali,handlooms,woven_on,1,diwali
-1,8,diwali,algeria,woven_using,1,diwali
-1,9,diwali,devanga chettiar community,woven_by,1,diwali
-1,8,diwali,algeria,woven_from,3,diwali
-1,10,diwali,unique techniques,woven_with,1,diwali
-1,11,diwali,eri silk,woven_in,2,diwali
-12,13,ilkal saree,bordering regions of maharashtra,woven_in,1,diwali
-1,11,diwali,eri silk,woven_from,2,diwali
-14,15,mirgan community,textiles,woven_by,1,diwali
-1,16,diwali,traditional pit looms,woven_on,1,diwali
-1,17,diwali,back-strap looms,woven_on,1,diwali
-18,19,kanchipuram silk saree,kanchipuram town,woven_in,1,diwali
-1,8,diwali,algeria,woven_with,1,diwali
-8,20,algeria,coimbatore district,woven_in,1,diwali
-1,21,diwali,interlocked weft technique,woven_using,1,diwali
-22,23,kuruma community,blankets,woven_by,1,diwali
-1,24,diwali,cotton padding,woven_with,1,diwali
-1,25,diwali,dharamgarh region,woven_in,1,diwali
-1,26,diwali,pit or frame looms,woven_on,1,diwali
-1,27,diwali,shantipuri sari,woven_in,1,diwali
-27,28,shantipuri sari,high-quality cotton or silk,woven_from,1,diwali
-1,29,diwali,small wooden spools called 'kanis',woven_using,1,diwali
+11,12,ilkal saree,bordering regions of maharashtra,woven_in,1,diwali
+13,14,mirgan community,textiles,woven_by,1,diwali
+17,18,kanchipuram silk saree,kanchipuram town,woven_in,1,diwali
+7,19,algeria,coimbatore district,woven_in,1,diwali
+21,22,kuruma community,blankets,woven_by,1,diwali
+26,27,shantipuri sari,high-quality cotton or silk,woven_from,1,diwali

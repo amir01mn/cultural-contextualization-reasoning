@@ -1,28 +1,15 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,items carried,women's professions,represent,1,arabculture
 3,4,sherdukpen shawl,cultural heritage,represents,1,diwali
-5,4,diwali,cultural heritage,represents,1,diwali
-5,6,diwali,madhya pradesh's weaving traditions,represents,1,diwali
-5,7,diwali,textile heritage,represents,1,diwali
-5,8,diwali,confluence of ganga and yamuna rivers,represents,1,diwali
-9,4,algeria,cultural heritage,represent,1,diwali
-5,10,diwali,heritage of hmar community,represents,1,diwali
-11,4,chakhesang naga shawl,cultural heritage,represents,1,diwali
-5,12,diwali,traditional handloom product,represents,1,diwali
-5,13,diwali,textile diversity,represents,1,diwali
-14,15,textiles,traditional craftsmanship,represent,1,diwali
-16,17,rasaka,community defense,represents,1,diwali
-5,9,diwali,algeria,represents,2,diwali
-9,18,algeria,cultural_identity,represent,1,blend
-19,20,most famous family,notable algerian lineage,represent,1,blend
-21,5,customary symbol,diwali,represents,1,blend
-22,23,talk,words and actions,represents,1,candle
-24,25,chart,changes,represent,1,candle
-26,5,white,diwali,represents,1,candle
-27,28,books,businesses,represent,1,candle
-29,30,priest,beauty,represents,1,candle
-29,31,priest,splendor,represents,1,candle
-32,5,ushers,diwali,represent,1,candle
-5,33,diwali,detailed plan,represents,1,candle
-34,5,attorney,diwali,represents,1,candle
-34,35,attorney,decision,represents,1,candle
+8,4,algeria,cultural heritage,represent,1,diwali
+10,4,chakhesang naga shawl,cultural heritage,represents,1,diwali
+13,14,textiles,traditional craftsmanship,represent,1,diwali
+15,16,rasaka,community defense,represents,1,diwali
+8,17,algeria,cultural_identity,represent,1,blend
+18,19,most famous family,notable algerian lineage,represent,1,blend
+21,22,talk,words and actions,represents,1,candle
+23,24,chart,changes,represent,1,candle
+26,27,books,businesses,represent,1,candle
+28,29,priest,beauty,represents,1,candle
+28,30,priest,splendor,represents,1,candle
+33,34,attorney,decision,represents,1,candle

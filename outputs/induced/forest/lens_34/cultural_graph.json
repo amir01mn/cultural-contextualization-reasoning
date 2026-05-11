@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "andhra pradesh",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 29
-    },
-    {
-      "id": 2,
       "label": "cotton and silk yarn",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -33,7 +24,7 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "extra weft",
       "level": 3,
       "cultural_group": "arunachal pradesh",
@@ -42,7 +33,7 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "muga, eri or pat silk",
       "level": 3,
       "cultural_group": "assam",
@@ -51,16 +42,16 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "karbi tribe",
-      "level": 1,
+      "level": 3,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "manual looms",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "handlooms",
       "level": 3,
       "cultural_group": "himachal pradesh",
@@ -78,16 +69,16 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "karnataka",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 6
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "devanga chettiar community",
       "level": 3,
       "cultural_group": "kerala",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "unique techniques",
       "level": 3,
       "cultural_group": "maharashtra",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "eri silk",
       "level": 1,
       "cultural_group": "maharashtra",
@@ -114,16 +105,16 @@
       "frequency": 4
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "ilkal saree",
-      "level": 1,
+      "level": 3,
       "cultural_group": "maharashtra",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "bordering regions of maharashtra",
       "level": 3,
       "cultural_group": "maharashtra",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "mirgan community",
       "level": 3,
       "cultural_group": "odisha",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "textiles",
       "level": 1,
       "cultural_group": "odisha",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "traditional pit looms",
       "level": 3,
       "cultural_group": "rajasthan",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "back-strap looms",
       "level": 3,
       "cultural_group": "sikkim",
@@ -168,16 +159,16 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "kanchipuram silk saree",
-      "level": 1,
+      "level": 3,
       "cultural_group": "tamil nadu",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "kanchipuram town",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "coimbatore district",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "interlocked weft technique",
       "level": 3,
       "cultural_group": "telangana",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "kuruma community",
       "level": 3,
       "cultural_group": "telangana",
@@ -213,16 +204,16 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "blankets",
-      "level": 1,
+      "level": 3,
       "cultural_group": "telangana",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "cotton padding",
       "level": 3,
       "cultural_group": "tripura",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "dharamgarh region",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -240,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "pit or frame looms",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -249,16 +240,16 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "shantipuri sari",
-      "level": 1,
+      "level": 4,
       "cultural_group": "west bengal",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "high-quality cotton or silk",
       "level": 3,
       "cultural_group": "west bengal",
@@ -267,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "small wooden spools called 'kanis'",
       "level": 3,
       "cultural_group": "jammu and kashmir",
@@ -278,107 +269,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "cotton and silk yarn",
-      "relation_type": "woven_with",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "source_label": "diwali",
-      "target_label": "extra weft",
-      "relation_type": "woven_in",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "muga, eri or pat silk",
-      "relation_type": "woven_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "source_label": "diwali",
-      "target_label": "karbi tribe",
-      "relation_type": "woven_by",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "manual looms",
-      "relation_type": "woven_on",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "source_label": "diwali",
-      "target_label": "handlooms",
-      "relation_type": "woven_on",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 8,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "woven_using",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 9,
-      "source_label": "diwali",
-      "target_label": "devanga chettiar community",
-      "relation_type": "woven_by",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 8,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "woven_from",
-      "weight": 3,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 10,
-      "source_label": "diwali",
-      "target_label": "unique techniques",
-      "relation_type": "woven_with",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 11,
-      "source_label": "diwali",
-      "target_label": "eri silk",
-      "relation_type": "woven_in",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 12,
-      "target": 13,
+      "source": 11,
+      "target": 12,
       "source_label": "ilkal saree",
       "target_label": "bordering regions of maharashtra",
       "relation_type": "woven_in",
@@ -386,17 +278,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 11,
-      "source_label": "diwali",
-      "target_label": "eri silk",
-      "relation_type": "woven_from",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 14,
-      "target": 15,
+      "source": 13,
+      "target": 14,
       "source_label": "mirgan community",
       "target_label": "textiles",
       "relation_type": "woven_by",
@@ -404,26 +287,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 16,
-      "source_label": "diwali",
-      "target_label": "traditional pit looms",
-      "relation_type": "woven_on",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 17,
-      "source_label": "diwali",
-      "target_label": "back-strap looms",
-      "relation_type": "woven_on",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 18,
-      "target": 19,
+      "source": 17,
+      "target": 18,
       "source_label": "kanchipuram silk saree",
       "target_label": "kanchipuram town",
       "relation_type": "woven_in",
@@ -431,17 +296,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 8,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "woven_with",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 8,
-      "target": 20,
+      "source": 7,
+      "target": 19,
       "source_label": "algeria",
       "target_label": "coimbatore district",
       "relation_type": "woven_in",
@@ -449,17 +305,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 21,
-      "source_label": "diwali",
-      "target_label": "interlocked weft technique",
-      "relation_type": "woven_using",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 22,
-      "target": 23,
+      "source": 21,
+      "target": 22,
       "source_label": "kuruma community",
       "target_label": "blankets",
       "relation_type": "woven_by",
@@ -467,56 +314,11 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 24,
-      "source_label": "diwali",
-      "target_label": "cotton padding",
-      "relation_type": "woven_with",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 25,
-      "source_label": "diwali",
-      "target_label": "dharamgarh region",
-      "relation_type": "woven_in",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 26,
-      "source_label": "diwali",
-      "target_label": "pit or frame looms",
-      "relation_type": "woven_on",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
+      "source": 26,
       "target": 27,
-      "source_label": "diwali",
-      "target_label": "shantipuri sari",
-      "relation_type": "woven_in",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 27,
-      "target": 28,
       "source_label": "shantipuri sari",
       "target_label": "high-quality cotton or silk",
       "relation_type": "woven_from",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 29,
-      "source_label": "diwali",
-      "target_label": "small wooden spools called 'kanis'",
-      "relation_type": "woven_using",
       "weight": 1,
       "source_dataset": "diwali"
     }

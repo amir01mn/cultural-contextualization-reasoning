@@ -1,12 +1,5 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,algeria,diwali,exhibit,1,arabculture
-3,4,nile valley,varied leisure activities,exhibits,1,arabculture
-5,2,wancho bag,diwali,exhibits,1,diwali
-2,6,diwali,weave finesse,exhibits,1,diwali
-2,7,diwali,intricate weaving patterns,exhibits,1,diwali
-8,9,united states,individuals,exhibits,1,culturebank
-10,11,public behavior,food eating,exhibits,1,culturebank
-12,2,city regions,diwali,exhibit,1,blend
-2,13,diwali,ritual,exhibits,1,candle
-14,15,nurse,behavior guided by leaders,exhibits,1,candle
-2,16,diwali,solemn glory,exhibit,1,candle
+2,3,nile valley,varied leisure activities,exhibits,1,arabculture
+7,8,united states,individuals,exhibits,1,culturebank
+9,10,public behavior,food eating,exhibits,1,culturebank
+13,14,nurse,behavior guided by leaders,exhibits,1,candle

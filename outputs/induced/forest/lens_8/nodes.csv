@@ -8,110 +8,108 @@ node_id,label,level,cultural_group,domain,source_dataset,frequency
 6,honor of prophet muhammad,3,algeria,unknown,arabculture,1
 7,leaving and coming back,3,algeria,unknown,arabculture,1
 8,returning to one's roots,3,algeria,unknown,arabculture,1
-9,diwali,3,algeria,unknown,arabculture,56
-10,first food of the day,3,algeria,unknown,arabculture,1
-11,hope and prosperity,3,algeria,unknown,arabculture,1
-12,moving process,3,algeria,unknown,arabculture,1
-13,integration of couple,3,algeria,unknown,arabculture,1
-14,home,1,algeria,unknown,arabculture,1
-15,algeria,3,egypt,unknown,arabculture,9
-16,hospitality,1,egypt,unknown,arabculture,2
-17,honor and respect,3,egypt,unknown,arabculture,1
-18,gifts,1,egypt,unknown,arabculture,5
-19,community bonds,3,egypt,unknown,arabculture,1
-20,spring season,3,egypt,unknown,arabculture,1
-21,sandwiches,1,egypt,unknown,arabculture,1
-22,care and nurturing,3,egypt,unknown,arabculture,1
-23,love and care,3,egypt,unknown,arabculture,1
-24,joyous occasion,3,egypt,unknown,arabculture,1
-25,joy and celebration,3,egypt,unknown,arabculture,1
-26,comers,3,egypt,unknown,arabculture,1
-27,new_people,3,egypt,unknown,arabculture,1
-28,mawlid al-nabi,1,egypt,unknown,arabculture,1
-29,new clothes,3,egypt,unknown,arabculture,1
-30,wedding celebrations,1,egypt,unknown,arabculture,1
-31,lamb doll,1,egypt,unknown,arabculture,2
-32,loyalty home,3,egypt,unknown,arabculture,1
-33,dirtiness,3,egypt,unknown,arabculture,1
-34,nature elements,3,arunachal pradesh,unknown,diwali,1
-35,tribal folklore,3,arunachal pradesh,unknown,diwali,1
-36,assamese pride,3,assam,unknown,diwali,1
-37,assamese culture,3,assam,unknown,diwali,1
-38,ceremonial textiles,3,goa,unknown,diwali,1
-39,religious art and textile craftsmanship,3,goa,unknown,diwali,1
-40,cultural importance,3,kerala,unknown,diwali,1
-41,pakhangba serpent teeth,3,manipur,unknown,diwali,1
-42,courage and valor,3,mizoram,unknown,diwali,1
-43,valor_and_accomplishment,3,nagaland,unknown,diwali,1
-44,valor and prosperity,3,nagaland,unknown,diwali,1
-45,khiamniungan nütsah shawl,3,nagaland,unknown,diwali,1
-46,status,3,nagaland,unknown,diwali,1
-47,kanchipuram silk saree,1,tamil nadu,unknown,diwali,1
-48,tamil nadu's cultural heritage,3,tamil nadu,unknown,diwali,1
-49,cultural and religious significance,3,uttarakhand,unknown,diwali,1
-50,rasaka,1,andhra pradesh,unknown,diwali,2
-51,martial traditions,3,andhra pradesh,unknown,diwali,1
-52,martial readiness,3,andhra pradesh,unknown,diwali,1
-53,harmony and prosperity,3,arunachal pradesh,unknown,diwali,1
-54,wancho bag,1,arunachal pradesh,unknown,diwali,1
-55,joy and unity,3,arunachal pradesh,unknown,diwali,1
-56,unity and cultural identity,3,arunachal pradesh,unknown,diwali,1
-57,karma dance,1,bihar,unknown,diwali,2
-58,prosperity,3,bihar,unknown,diwali,1
-59,marital happiness,3,bihar,unknown,diwali,1
-60,nacha dance,1,chhattisgarh,unknown,diwali,1
-61,devotion,1,chhattisgarh,unknown,diwali,1
-62,discipline,1,goa,unknown,diwali,2
-63,engagement ring,3,general,unknown,culturebank,1
-64,wedding ring,3,general,unknown,culturebank,1
-65,ownership and commitment,3,general,unknown,culturebank,1
-66,leftovers,3,general,unknown,culturebank,1
-67,money conservation,3,general,unknown,culturebank,1
-68,pen license,3,general,unknown,culturebank,1
-69,maturity,3,general,unknown,culturebank,1
-70,patriotism and civic duty,3,general,unknown,culturebank,1
-71,americans,1,general,unknown,culturebank,1
-72,wealth and fertility,3,dz,unknown,blend,1
-73,new day,3,dz,unknown,blend,1
-74,salary,3,dz,unknown,blend,1
-75,economic stability,3,dz,unknown,blend,1
-76,dinner,1,dz,unknown,blend,1
-77,end of day,3,dz,unknown,blend,1
-78,good fortune,3,dz,unknown,blend,1
-79,couscous,1,dz,unknown,blend,2
-80,nourishment,3,dz,unknown,blend,1
-81,hospitality and friendship,3,dz,unknown,blend,1
-82,cultural pride,3,dz,unknown,blend,1
-83,male identity,3,dz,unknown,blend,1
-84,candle,1,judge,unknown,candle,27
-85,ritual,1,judge,unknown,candle,10
-86,responsibility,3,teacher,unknown,candle,1
-87,testing,3,teacher,unknown,candle,1
-88,medication,1,teacher,unknown,candle,2
-89,life,3,teacher,unknown,candle,1
-90,respect for elders,1,teacher,unknown,candle,1
-91,walk,3,teacher,unknown,candle,1
-92,action congruence,3,teacher,unknown,candle,1
-93,accountability,3,teacher,unknown,candle,1
-94,positivity,3,teacher,unknown,candle,1
-95,teacher's role,3,teacher,unknown,candle,1
-96,tailor-made,1,tailor,unknown,candle,1
-97,craftsmanship,3,tailor,unknown,candle,1
-98,smile,3,dentist,unknown,candle,1
-99,beauty,1,dentist,unknown,candle,1
-100,white,1,dentist,unknown,candle,1
-101,integrity,3,dentist,unknown,candle,1
-102,challenge coin,3,dentist,unknown,candle,1
-103,routine job,3,dentist,unknown,candle,1
-104,reservation,3,politician,unknown,candle,1
-105,votes,3,politician,unknown,candle,1
-106,parades,1,politician,unknown,candle,1
-107,money given,3,politician,unknown,candle,1
-108,ribbon,3,politician,unknown,candle,1
-109,new deal announcement,3,politician,unknown,candle,1
-110,books,1,merchant,unknown,candle,1
-111,bridal day,3,artist,unknown,candle,1
-112,beginning of new chapter,3,artist,unknown,candle,1
-113,receptions,3,attorney,unknown,candle,1
-114,professional networking,3,attorney,unknown,candle,1
-115,divine reverence for doctors,3,doctor,unknown,candle,1
+9,first food of the day,3,algeria,unknown,arabculture,1
+10,hope and prosperity,3,algeria,unknown,arabculture,1
+11,moving process,3,algeria,unknown,arabculture,1
+12,integration of couple,3,algeria,unknown,arabculture,1
+13,home,1,algeria,unknown,arabculture,1
+14,algeria,1,egypt,unknown,arabculture,9
+15,hospitality,3,egypt,unknown,arabculture,2
+16,honor and respect,3,egypt,unknown,arabculture,1
+17,gifts,1,egypt,unknown,arabculture,5
+18,community bonds,3,egypt,unknown,arabculture,1
+19,spring season,3,egypt,unknown,arabculture,1
+20,sandwiches,3,egypt,unknown,arabculture,1
+21,care and nurturing,3,egypt,unknown,arabculture,1
+22,love and care,3,egypt,unknown,arabculture,1
+23,joyous occasion,3,egypt,unknown,arabculture,1
+24,joy and celebration,3,egypt,unknown,arabculture,1
+25,comers,3,egypt,unknown,arabculture,1
+26,new_people,3,egypt,unknown,arabculture,1
+27,mawlid al-nabi,5,egypt,unknown,arabculture,1
+28,new clothes,3,egypt,unknown,arabculture,1
+29,wedding celebrations,1,egypt,unknown,arabculture,1
+30,lamb doll,4,egypt,unknown,arabculture,2
+31,loyalty home,3,egypt,unknown,arabculture,1
+32,dirtiness,3,egypt,unknown,arabculture,1
+33,nature elements,3,arunachal pradesh,unknown,diwali,1
+34,tribal folklore,3,arunachal pradesh,unknown,diwali,1
+35,assamese pride,3,assam,unknown,diwali,1
+36,assamese culture,3,assam,unknown,diwali,1
+37,ceremonial textiles,3,goa,unknown,diwali,1
+38,religious art and textile craftsmanship,3,goa,unknown,diwali,1
+39,cultural importance,3,kerala,unknown,diwali,1
+40,pakhangba serpent teeth,3,manipur,unknown,diwali,1
+41,courage and valor,3,mizoram,unknown,diwali,1
+42,valor_and_accomplishment,3,nagaland,unknown,diwali,1
+43,valor and prosperity,3,nagaland,unknown,diwali,1
+44,khiamniungan nütsah shawl,3,nagaland,unknown,diwali,1
+45,status,3,nagaland,unknown,diwali,1
+46,kanchipuram silk saree,3,tamil nadu,unknown,diwali,1
+47,tamil nadu's cultural heritage,3,tamil nadu,unknown,diwali,1
+48,cultural and religious significance,3,uttarakhand,unknown,diwali,1
+49,rasaka,2,andhra pradesh,unknown,diwali,2
+50,martial traditions,3,andhra pradesh,unknown,diwali,1
+51,martial readiness,3,andhra pradesh,unknown,diwali,1
+52,harmony and prosperity,3,arunachal pradesh,unknown,diwali,1
+53,wancho bag,3,arunachal pradesh,unknown,diwali,1
+54,joy and unity,3,arunachal pradesh,unknown,diwali,1
+55,unity and cultural identity,3,arunachal pradesh,unknown,diwali,1
+56,karma dance,4,bihar,unknown,diwali,2
+57,prosperity,3,bihar,unknown,diwali,1
+58,marital happiness,3,bihar,unknown,diwali,1
+59,nacha dance,3,chhattisgarh,unknown,diwali,1
+60,devotion,3,chhattisgarh,unknown,diwali,1
+61,discipline,4,goa,unknown,diwali,2
+62,engagement ring,3,general,unknown,culturebank,1
+63,wedding ring,3,general,unknown,culturebank,1
+64,ownership and commitment,3,general,unknown,culturebank,1
+65,leftovers,3,general,unknown,culturebank,1
+66,money conservation,3,general,unknown,culturebank,1
+67,pen license,3,general,unknown,culturebank,1
+68,maturity,3,general,unknown,culturebank,1
+69,patriotism and civic duty,3,general,unknown,culturebank,1
+70,americans,1,general,unknown,culturebank,1
+71,wealth and fertility,3,dz,unknown,blend,1
+72,new day,3,dz,unknown,blend,1
+73,salary,3,dz,unknown,blend,1
+74,economic stability,3,dz,unknown,blend,1
+75,dinner,5,dz,unknown,blend,1
+76,end of day,3,dz,unknown,blend,1
+77,good fortune,3,dz,unknown,blend,1
+78,couscous,1,dz,unknown,blend,2
+79,nourishment,3,dz,unknown,blend,1
+80,hospitality and friendship,3,dz,unknown,blend,1
+81,cultural pride,3,dz,unknown,blend,1
+82,male identity,3,dz,unknown,blend,1
+83,ritual,1,judge,unknown,candle,10
+84,responsibility,3,teacher,unknown,candle,1
+85,testing,3,teacher,unknown,candle,1
+86,medication,3,teacher,unknown,candle,2
+87,life,3,teacher,unknown,candle,1
+88,respect for elders,2,teacher,unknown,candle,1
+89,walk,3,teacher,unknown,candle,1
+90,action congruence,3,teacher,unknown,candle,1
+91,accountability,3,teacher,unknown,candle,1
+92,positivity,3,teacher,unknown,candle,1
+93,teacher's role,3,teacher,unknown,candle,1
+94,tailor-made,5,tailor,unknown,candle,1
+95,craftsmanship,3,tailor,unknown,candle,1
+96,smile,3,dentist,unknown,candle,1
+97,beauty,4,dentist,unknown,candle,1
+98,white,5,dentist,unknown,candle,1
+99,integrity,3,dentist,unknown,candle,1
+100,challenge coin,3,dentist,unknown,candle,1
+101,routine job,3,dentist,unknown,candle,1
+102,reservation,3,politician,unknown,candle,1
+103,votes,3,politician,unknown,candle,1
+104,parades,4,politician,unknown,candle,1
+105,money given,3,politician,unknown,candle,1
+106,ribbon,3,politician,unknown,candle,1
+107,new deal announcement,3,politician,unknown,candle,1
+108,books,3,merchant,unknown,candle,1
+109,bridal day,3,artist,unknown,candle,1
+110,beginning of new chapter,3,artist,unknown,candle,1
+111,receptions,3,attorney,unknown,candle,1
+112,professional networking,3,attorney,unknown,candle,1
+113,divine reverence for doctors,3,doctor,unknown,candle,1

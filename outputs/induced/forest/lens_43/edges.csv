@@ -1,23 +1,17 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,religious ceremonies,diwali,followed_by,1,arabculture
-3,4,algeria,islamic teachings,follow,1,arabculture
-2,5,diwali,reversible wear,allows,1,diwali
-3,6,algeria,dress codes,follow,1,culturebank
-7,2,specific locations,diwali,allows,1,culturebank
-3,8,algeria,lockdown procedures,follow,1,culturebank
-2,9,diwali,traffic signals,follow,1,culturebank
-3,10,algeria,early bedtime routines,follow,1,culturebank
-11,2,drivers,diwali,follow,1,culturebank
-12,13,shopping,unwritten rules,follow,1,culturebank
-3,14,algeria,strict rules,follow,1,culturebank
-11,2,drivers,diwali,follows,1,culturebank
-3,15,algeria,football,follow,1,blend
-3,17,algeria,teacher directions,follows,1,candle
-18,19,nurse,regular schedule,follows,1,candle
-18,20,nurse,orders,follows,1,candle
-18,21,nurse,patient's religious practices,follow,1,candle
-18,22,nurse,doctor's order,follows,1,candle
-23,24,artist,before tattoo,follows_routine,1,candle
-23,25,artist,after tattoo,follows_routine,1,candle
-18,26,nurse,doctors' orders,follows,1,candle
-27,18,order,nurse,followed_by,1,candle
+2,3,algeria,islamic teachings,follow,1,arabculture
+2,5,algeria,dress codes,follow,1,culturebank
+2,7,algeria,lockdown procedures,follow,1,culturebank
+2,9,algeria,early bedtime routines,follow,1,culturebank
+11,12,shopping,unwritten rules,follow,1,culturebank
+2,13,algeria,strict rules,follow,1,culturebank
+2,14,algeria,football,follow,1,blend
+2,16,algeria,teacher directions,follows,1,candle
+17,18,nurse,regular schedule,follows,1,candle
+17,19,nurse,orders,follows,1,candle
+17,20,nurse,patient's religious practices,follow,1,candle
+17,21,nurse,doctor's order,follows,1,candle
+22,23,artist,before tattoo,follows_routine,1,candle
+22,24,artist,after tattoo,follows_routine,1,candle
+17,25,nurse,doctors' orders,follows,1,candle
+26,17,order,nurse,followed_by,1,candle

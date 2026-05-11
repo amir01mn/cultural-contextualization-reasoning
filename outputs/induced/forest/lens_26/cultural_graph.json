@@ -26,7 +26,7 @@
     {
       "id": 2,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -79,15 +79,6 @@
     },
     {
       "id": 8,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 22
-    },
-    {
-      "id": 9,
       "label": "pre-wedding party",
       "level": 3,
       "cultural_group": "algeria",
@@ -96,16 +87,16 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "independence day",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 6
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "national liberation",
       "level": 3,
       "cultural_group": "algeria",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "start of fasting day",
       "level": 3,
       "cultural_group": "egypt",
@@ -123,16 +114,16 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "food preparation",
-      "level": 1,
+      "level": 4,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "religious festival",
       "level": 3,
       "cultural_group": "egypt",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "prayers",
       "level": 3,
       "cultural_group": "egypt",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "islamic holidays",
       "level": 3,
       "cultural_group": "egypt",
@@ -159,16 +150,16 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "prayer",
-      "level": 1,
+      "level": 3,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "new abaya purchases",
       "level": 3,
       "cultural_group": "egypt",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "blessed feast",
       "level": 3,
       "cultural_group": "egypt",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "sham el-nessim",
       "level": 3,
       "cultural_group": "egypt",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "spring equinox",
       "level": 3,
       "cultural_group": "egypt",
@@ -204,16 +195,16 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "sham al-nessim",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "ramadan",
       "level": 1,
       "cultural_group": "egypt",
@@ -222,7 +213,7 @@
       "frequency": 5
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "islamic month",
       "level": 3,
       "cultural_group": "egypt",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "iftar",
       "level": 1,
       "cultural_group": "egypt",
@@ -240,7 +231,7 @@
       "frequency": 2
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "end of fast",
       "level": 3,
       "cultural_group": "egypt",
@@ -249,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "eid al-fitr",
       "level": 1,
       "cultural_group": "egypt",
@@ -258,16 +249,7 @@
       "frequency": 2
     },
     {
-      "id": 28,
-      "label": "ذكرى حرب أكتوبر",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 29,
+      "id": 27,
       "label": "sixth hour",
       "level": 3,
       "cultural_group": "egypt",
@@ -276,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 28,
       "label": "morning start",
       "level": 3,
       "cultural_group": "egypt",
@@ -285,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 29,
       "label": "first visit",
       "level": 3,
       "cultural_group": "egypt",
@@ -294,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 30,
       "label": "exchange gifts",
       "level": 3,
       "cultural_group": "egypt",
@@ -303,25 +285,16 @@
       "frequency": 1
     },
     {
-      "id": 33,
-      "label": "إهداء الهدايا",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 34,
+      "id": 31,
       "label": "deori bihu dance",
-      "level": 1,
+      "level": 2,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 32,
       "label": "rongali bihu festival",
       "level": 3,
       "cultural_group": "assam",
@@ -330,16 +303,16 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 33,
       "label": "harvest season",
-      "level": 1,
+      "level": 2,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 3
     },
     {
-      "id": 37,
+      "id": 34,
       "label": "wedding celebrations",
       "level": 1,
       "cultural_group": "assam",
@@ -348,16 +321,16 @@
       "frequency": 2
     },
     {
-      "id": 38,
+      "id": 35,
       "label": "barpeta's bhortal nritya",
-      "level": 1,
+      "level": 2,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 36,
       "label": "important events",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -366,7 +339,7 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 37,
       "label": "birth of a child",
       "level": 3,
       "cultural_group": "dz",
@@ -375,16 +348,16 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 38,
       "label": "evening meal",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 39,
       "label": "start of leisure",
       "level": 3,
       "cultural_group": "dz",
@@ -393,7 +366,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 40,
       "label": "end of workday",
       "level": 3,
       "cultural_group": "dz",
@@ -402,16 +375,16 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 41,
       "label": "papers",
-      "level": 1,
+      "level": 2,
       "cultural_group": "teacher",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 42,
       "label": "pivotal moment",
       "level": 3,
       "cultural_group": "nurse",
@@ -420,7 +393,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 43,
       "label": "deal unveiling",
       "level": 3,
       "cultural_group": "politician",
@@ -467,17 +440,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 8,
-      "target": 9,
-      "source_label": "diwali",
-      "target_label": "pre-wedding party",
-      "relation_type": "marks_event",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "independence day",
       "target_label": "national liberation",
       "relation_type": "marks",
@@ -485,17 +449,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 8,
-      "target": 12,
-      "source_label": "diwali",
-      "target_label": "start of fasting day",
-      "relation_type": "marks",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 13,
-      "target": 14,
+      "source": 12,
+      "target": 13,
       "source_label": "food preparation",
       "target_label": "religious festival",
       "relation_type": "marks",
@@ -503,8 +458,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 15,
-      "target": 16,
+      "source": 14,
+      "target": 15,
       "source_label": "prayers",
       "target_label": "islamic holidays",
       "relation_type": "mark",
@@ -512,8 +467,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 17,
-      "target": 18,
+      "source": 16,
+      "target": 17,
       "source_label": "prayer",
       "target_label": "new abaya purchases",
       "relation_type": "mark",
@@ -521,17 +476,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 8,
-      "target": 19,
-      "source_label": "diwali",
-      "target_label": "blessed feast",
-      "relation_type": "mark",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 20,
-      "target": 21,
+      "source": 19,
+      "target": 20,
       "source_label": "sham el-nessim",
       "target_label": "spring equinox",
       "relation_type": "marks",
@@ -540,16 +486,7 @@
     },
     {
       "source": 22,
-      "target": 8,
-      "source_label": "sham al-nessim",
-      "target_label": "diwali",
-      "relation_type": "marks",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 23,
-      "target": 24,
+      "target": 23,
       "source_label": "ramadan",
       "target_label": "islamic month",
       "relation_type": "marks",
@@ -557,8 +494,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 25,
-      "target": 26,
+      "source": 24,
+      "target": 25,
       "source_label": "iftar",
       "target_label": "end of fast",
       "relation_type": "marks",
@@ -566,8 +503,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 23,
-      "target": 25,
+      "source": 22,
+      "target": 24,
       "source_label": "ramadan",
       "target_label": "iftar",
       "relation_type": "marks",
@@ -575,17 +512,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 8,
-      "target": 23,
-      "source_label": "diwali",
-      "target_label": "ramadan",
-      "relation_type": "marks",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 27,
-      "target": 23,
+      "source": 26,
+      "target": 22,
       "source_label": "eid al-fitr",
       "target_label": "ramadan",
       "relation_type": "marks",
@@ -593,17 +521,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 8,
+      "source": 27,
       "target": 28,
-      "source_label": "diwali",
-      "target_label": "ذكرى حرب أكتوبر",
-      "relation_type": "marks",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 29,
-      "target": 30,
       "source_label": "sixth hour",
       "target_label": "morning start",
       "relation_type": "marks",
@@ -611,8 +530,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 31,
-      "target": 32,
+      "source": 29,
+      "target": 30,
       "source_label": "first visit",
       "target_label": "exchange gifts",
       "relation_type": "occasion_for",
@@ -620,17 +539,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 8,
-      "target": 33,
-      "source_label": "diwali",
-      "target_label": "إهداء الهدايا",
-      "relation_type": "occasion_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 34,
-      "target": 35,
+      "source": 31,
+      "target": 32,
       "source_label": "deori bihu dance",
       "target_label": "rongali bihu festival",
       "relation_type": "marks",
@@ -638,62 +548,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 8,
-      "target": 36,
-      "source_label": "diwali",
-      "target_label": "harvest season",
-      "relation_type": "marks_end_of",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 8,
-      "target": 37,
-      "source_label": "diwali",
-      "target_label": "wedding celebrations",
-      "relation_type": "marks",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 8,
-      "target": 38,
-      "source_label": "diwali",
-      "target_label": "barpeta's bhortal nritya",
-      "relation_type": "occasion_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 8,
-      "target": 36,
-      "source_label": "diwali",
-      "target_label": "harvest season",
-      "relation_type": "marks",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 8,
-      "target": 39,
-      "source_label": "diwali",
-      "target_label": "important events",
-      "relation_type": "marks_event",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 8,
-      "target": 10,
-      "source_label": "diwali",
-      "target_label": "independence day",
-      "relation_type": "marks",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 2,
-      "target": 40,
+      "target": 37,
       "source_label": "algeria",
       "target_label": "birth of a child",
       "relation_type": "marks",
@@ -701,8 +557,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 41,
-      "target": 42,
+      "source": 38,
+      "target": 39,
       "source_label": "evening meal",
       "target_label": "start of leisure",
       "relation_type": "marks",
@@ -710,38 +566,11 @@
       "source_dataset": "blend"
     },
     {
-      "source": 8,
-      "target": 43,
-      "source_label": "diwali",
-      "target_label": "end of workday",
-      "relation_type": "marks",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 2,
-      "target": 44,
+      "target": 41,
       "source_label": "algeria",
       "target_label": "papers",
       "relation_type": "marks",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 8,
-      "target": 45,
-      "source_label": "diwali",
-      "target_label": "pivotal moment",
-      "relation_type": "marks",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 8,
-      "target": 46,
-      "source_label": "diwali",
-      "target_label": "deal unveiling",
-      "relation_type": "marks_occasion",
       "weight": 1,
       "source_dataset": "candle"
     }

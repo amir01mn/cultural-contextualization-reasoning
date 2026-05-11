@@ -17,7 +17,7 @@
     {
       "id": 1,
       "label": "srikalahasti kalamkari",
-      "level": 1,
+      "level": 2,
       "cultural_group": "andhra pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
@@ -34,24 +34,15 @@
     },
     {
       "id": 3,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "arunachal pradesh",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 23
-    },
-    {
-      "id": 4,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "arunachal pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 5
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "stories",
       "level": 3,
       "cultural_group": "bihar",
@@ -60,7 +51,7 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "mythological and natural themes",
       "level": 3,
       "cultural_group": "bihar",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "animals, birds, trees, huts, flowers",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "animals, plants, folklore",
       "level": 3,
       "cultural_group": "jharkhand",
@@ -87,16 +78,16 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "local folklore",
-      "level": 1,
+      "level": 5,
       "cultural_group": "jharkhand",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "folklore tales, nature",
       "level": 3,
       "cultural_group": "madhya pradesh",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "kutchi embroidery",
       "level": 1,
       "cultural_group": "tamil nadu",
@@ -114,7 +105,7 @@
       "frequency": 2
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "nature and geometric patterns",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "mythological scenes",
       "level": 3,
       "cultural_group": "west bengal",
@@ -132,16 +123,16 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "daily life",
-      "level": 1,
+      "level": 2,
       "cultural_group": "west bengal",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "traditional to contemporary",
       "level": 3,
       "cultural_group": "west bengal",
@@ -150,16 +141,16 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "warli painting",
-      "level": 1,
+      "level": 5,
       "cultural_group": "dadra and nagar haveli and dama",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "daily life, nature, rituals",
       "level": 3,
       "cultural_group": "dadra and nagar haveli and dama",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "epic episodes",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "daily tasks",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "cowherds' life",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "chenchu tribe",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -204,16 +195,16 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "rasaka",
-      "level": 1,
+      "level": 2,
       "cultural_group": "andhra pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "playful scenes",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -222,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "love and valor",
       "level": 3,
       "cultural_group": "assam",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "love and sorrow",
       "level": 3,
       "cultural_group": "bihar",
@@ -240,16 +231,16 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "chhau dance",
-      "level": 1,
+      "level": 2,
       "cultural_group": "bihar",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "daily life of boatmen",
       "level": 3,
       "cultural_group": "bihar",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "rural life",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -267,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "romantic tales",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -276,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "ten incarnations of lord vishnu",
       "level": 3,
       "cultural_group": "goa",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "ramayana",
       "level": 3,
       "cultural_group": "goa",
@@ -294,9 +285,9 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "media",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -316,15 +307,6 @@
     {
       "source": 3,
       "target": 4,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "depict",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 4,
-      "target": 5,
       "source_label": "algeria",
       "target_label": "stories",
       "relation_type": "depict",
@@ -334,15 +316,6 @@
     {
       "source": 3,
       "target": 6,
-      "source_label": "diwali",
-      "target_label": "mythological and natural themes",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 4,
-      "target": 7,
       "source_label": "algeria",
       "target_label": "animals, birds, trees, huts, flowers",
       "relation_type": "depicts_motifs",
@@ -350,8 +323,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 4,
-      "target": 8,
+      "source": 3,
+      "target": 7,
       "source_label": "algeria",
       "target_label": "animals, plants, folklore",
       "relation_type": "depict",
@@ -359,26 +332,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 9,
-      "source_label": "diwali",
-      "target_label": "local folklore",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 10,
-      "source_label": "diwali",
-      "target_label": "folklore tales, nature",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 11,
-      "target": 12,
+      "source": 10,
+      "target": 11,
       "source_label": "kutchi embroidery",
       "target_label": "nature and geometric patterns",
       "relation_type": "depicts",
@@ -386,17 +341,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
+      "source": 10,
       "target": 13,
-      "source_label": "diwali",
-      "target_label": "mythological scenes",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 11,
-      "target": 14,
       "source_label": "kutchi embroidery",
       "target_label": "daily life",
       "relation_type": "depict",
@@ -404,17 +350,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 15,
-      "source_label": "diwali",
-      "target_label": "traditional to contemporary",
-      "relation_type": "depicts_motifs",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 16,
-      "target": 17,
+      "source": 15,
+      "target": 16,
       "source_label": "warli painting",
       "target_label": "daily life, nature, rituals",
       "relation_type": "depicts",
@@ -422,44 +359,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 18,
-      "source_label": "diwali",
-      "target_label": "epic episodes",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 19,
-      "source_label": "diwali",
-      "target_label": "daily tasks",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 20,
-      "source_label": "diwali",
-      "target_label": "cowherds' life",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 21,
-      "source_label": "diwali",
-      "target_label": "chenchu tribe",
-      "relation_type": "depicts_life_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 22,
-      "target": 23,
+      "source": 21,
+      "target": 22,
       "source_label": "rasaka",
       "target_label": "playful scenes",
       "relation_type": "depicts",
@@ -467,80 +368,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 24,
-      "source_label": "diwali",
-      "target_label": "love and valor",
-      "relation_type": "depicts_stories",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 25,
-      "source_label": "diwali",
-      "target_label": "love and sorrow",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 26,
+      "source": 31,
       "target": 3,
-      "source_label": "chhau dance",
-      "target_label": "diwali",
-      "relation_type": "depicts",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 27,
-      "source_label": "diwali",
-      "target_label": "daily life of boatmen",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 28,
-      "source_label": "diwali",
-      "target_label": "rural life",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 29,
-      "source_label": "diwali",
-      "target_label": "romantic tales",
-      "relation_type": "depicts_stories",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 30,
-      "source_label": "diwali",
-      "target_label": "ten incarnations of lord vishnu",
-      "relation_type": "depicts",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 31,
-      "source_label": "diwali",
-      "target_label": "ramayana",
-      "relation_type": "depicts_stories",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 32,
-      "target": 4,
       "source_label": "media",
       "target_label": "algeria",
       "relation_type": "depicts",

@@ -1,162 +1,77 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,food setting,table,features,1,arabculture
 3,4,henna ceremony,singing of special songs,feature,1,arabculture
-6,7,ramadan,shared iftar meals,features,1,arabculture
-8,5,wedding banquet,diwali,features,1,arabculture
-9,10,algeria,traditional local songs,features,1,arabculture
-9,11,algeria,dance,features,2,arabculture
-12,13,nile valley,traditional grilled foods,features,1,arabculture
-6,14,ramadan,breaking fast meal,features,1,arabculture
-9,15,algeria,special car reservation,features,1,arabculture
-9,5,algeria,diwali,create,1,arabculture
-16,17,activities,traditional dancing,feature,1,arabculture
-9,5,algeria,diwali,features,1,arabculture
-9,18,algeria,white-dyed song,features_song,1,arabculture
-5,9,diwali,algeria,features_patterns,1,diwali
-5,9,diwali,algeria,features,16,diwali
-19,9,srikalahasti kalamkari,algeria,features,1,diwali
-5,9,diwali,algeria,feature,2,diwali
-5,20,diwali,geometric flower-like shapes,features_motifs_of,1,diwali
-5,21,diwali,simple straight lines and stripes,feature,1,diwali
-22,9,sherdukpen shawl,algeria,features,1,diwali
-5,23,diwali,distinct patterns,feature,1,diwali
-5,24,diwali,colors,feature,1,diwali
-25,9,wancho bag,algeria,features,1,diwali
-26,27,tagin textiles,straight lines and geometric patterns,feature,1,diwali
-5,28,diwali,distinctive,features_patterns,3,diwali
-5,29,diwali,"bright colors, unique patterns",features,1,diwali
-5,9,diwali,algeria,create,1,diwali
-5,30,diwali,richly patterned textile,create,1,diwali
-5,31,diwali,"animals, birds, huts, bows, arrows, plants, peacocks, tribal flowers, pitchers, temples, lions",feature_motifs_of,1,diwali
-32,9,liturgical vestments,algeria,feature,1,diwali
-33,9,fabric,algeria,feature,1,diwali
-5,34,diwali,patterns by binding cloth,create,1,diwali
-5,35,diwali,"folklore, nature, geometric designs",features_motifs_of,1,diwali
-36,37,mashru,vibrant stripes or patterns,features,1,diwali
-5,38,diwali,raised dots,creates_patterns_of,1,diwali
-5,39,diwali,multicolored geometric checks,features_designs,1,diwali
-40,41,kutchi embroidery,mirrors,features,1,diwali
-42,9,bagh,algeria,uses_designs,2,diwali
-9,43,algeria,simple designs,feature,1,diwali
-5,44,diwali,simple patterns,features,1,diwali
-5,45,diwali,bright borders,features,1,diwali
-5,46,diwali,traditional patterns and motifs,features,1,diwali
-47,48,ilkal saree,tope teni technique,features,1,diwali
-5,49,diwali,"fruits, animals, flowers",features_motifs_of,1,diwali
-5,50,diwali,checked patterns and contrasting borders,features,1,diwali
-5,51,diwali,puliyilakara border,features,1,diwali
-5,52,diwali,checkered patterns,features,1,diwali
-5,53,diwali,minimalistic designs,features,1,diwali
-54,55,chanderi sari,"coins, flowers, peacocks",features_motifs,1,diwali
-5,56,diwali,reversible borders called bugdi,features,1,diwali
-5,57,diwali,geometric patterns and stripes,designs,1,diwali
-42,58,bagh,cotton and silk fabrics,creates_patterns_on,1,diwali
-5,59,diwali,floral and geometric,features_designs,1,diwali
-5,33,diwali,fabric,creates_patterns_on,1,diwali
-5,60,diwali,indigo background with white and red motifs,features,1,diwali
-36,61,mashru,satin finish,features,1,diwali
-33,9,fabric,algeria,features,1,diwali
-5,62,diwali,dual-colored borders,features,1,diwali
-5,9,diwali,algeria,features_motifs,1,diwali
-47,63,ilkal saree,distinctive red borders and pallu,feature,1,diwali
-54,64,chanderi sari,intricate motifs,features,1,diwali
-5,65,diwali,"animals, celestial bodies, traditional symbols",features_motifs_of,1,diwali
-5,66,diwali,symmetrical designs,features,1,diwali
-5,67,diwali,intricate patterns and vibrant colors,features,1,diwali
-68,5,puans,diwali,created_by,1,diwali
-5,69,diwali,narrow strips of fabric,create,1,diwali
-70,5,shiehtsap nie version,diwali,features,1,diwali
-5,71,diwali,"shankha, chakra, phula",features_motifs,1,diwali
-72,73,textiles,earthy tones and traditional motifs,feature,1,diwali
-5,74,diwali,"kumbha, fish, flowers",features_motifs_of,1,diwali
-9,75,algeria,odisha ikat technique,created_by,1,diwali
-5,76,diwali,base cloth,creates_patterns_on,1,diwali
-77,9,jamdani,algeria,features,2,diwali
-5,78,diwali,minimalistic embroidery,feature,1,diwali
-5,79,diwali,dots and motifs,creates_patterns_of,1,diwali
-5,9,diwali,algeria,carve_designs_onto,1,diwali
-9,80,algeria,floral and geometric motifs,feature,1,diwali
-9,81,algeria,flowers,feature_motifs_of,1,diwali
-82,5,kanchipuram silk saree,diwali,feature,1,diwali
-5,83,diwali,distinctive dotted patterns,feature,1,diwali
-5,84,diwali,"bold checks, stripes, contrasting hues",features,1,diwali
-5,85,diwali,"rich colors, intricate designs",features,1,diwali
-82,28,kanchipuram silk saree,distinctive,features,1,diwali
-40,86,kutchi embroidery,red and black on white background,features_motifs_of,1,diwali
-9,87,algeria,self-designed jacquard pattern,features,1,diwali
-88,89,koorainadu saree,geometric and floral,features_designs,1,diwali
-5,90,diwali,"flowers, parrots, elephants",features_motifs,1,diwali
-5,91,diwali,village life,feature_motifs_of,1,diwali
-92,9,himroo shawls,algeria,feature,1,diwali
-5,93,diwali,'geethalu' and 'pan patola',features_motifs,1,diwali
-5,94,diwali,distinctive patterns and motifs,features,1,diwali
-5,95,diwali,vibrant fabrics,features,1,diwali
-5,96,diwali,textiles and accessories,create,1,diwali
-9,97,algeria,rustic fabrics,creates,1,diwali
-5,9,diwali,algeria,features_designs,1,diwali
-5,98,diwali,floral and paisley,features_patterns,1,diwali
-99,5,tanchoi saris,diwali,feature,1,diwali
-5,100,diwali,'paddo' (lotus) and 'aansh paar' (fish scale),features_motifs,1,diwali
-77,9,jamdani,algeria,features_patterns,1,diwali
-40,5,kutchi embroidery,diwali,create,1,diwali
-101,102,shantipuri sari,intricate borders and pallus,features,1,diwali
-5,103,diwali,tightly woven cotton fabric,features,1,diwali
-5,104,diwali,striped or checkered patterns,designs,1,diwali
-5,105,diwali,hand-painted or block-printed,features_designs,1,diwali
-5,106,diwali,handcrafted unique designs,creates,1,diwali
-42,107,bagh,geometric and floral motifs,features,1,diwali
-108,9,warli painting,algeria,features,1,diwali
-5,109,diwali,intricate floral and paisley designs,features,1,diwali
-110,111,pashmina shawl,intricate hand-embroidery,feature,1,diwali
-5,112,diwali,paisley and floral motifs,feature,1,diwali
-5,113,diwali,chinar leaves and paisleys,feature_motifs_of,1,diwali
-5,114,diwali,large masks,features,1,diwali
-5,115,diwali,intricate steps and movements,features,1,diwali
-116,117,dhuliya dance,dance-drama,features,2,diwali
-5,118,diwali,acrobatics,features,1,diwali
-5,119,diwali,circular formations,feature,1,diwali
-5,120,diwali,family-friendly atmospheres,create,1,culturebank
-5,121,diwali,football games,feature,1,culturebank
-9,122,algeria,low water levels,feature,1,culturebank
-5,123,diwali,unique menu items,features,1,culturebank
-9,124,algeria,small ice cream portions,feature,1,culturebank
-125,126,summer months,leaving early on fridays,feature,1,culturebank
-127,128,americans,chugging water,feature,1,culturebank
-9,129,algeria,cultural quirks,create,1,culturebank
-5,130,diwali,unique last names,create,1,culturebank
-9,131,algeria,popular indoor family activities,features,1,blend
-9,132,algeria,hand games and wrestling,features,1,blend
-9,133,algeria,music education,features,1,blend
-9,134,algeria,performance,feature,1,blend
-5,135,diwali,a variety of dishes,features,1,blend
-9,136,algeria,specific decorations,features,1,blend
-5,137,diwali,"grilled meats, vegetables",features,1,blend
-6,138,ramadan,fruit sales,features,1,blend
-139,140,algerian_cuisine,spices,features,1,blend
-141,9,dining table,algeria,features,1,blend
-9,142,algeria,gendered sports participation,features,1,blend
-5,143,diwali,couscous,features,1,blend
-9,143,algeria,couscous,feature,1,blend
-9,143,algeria,couscous,features_dish,1,blend
-5,144,diwali,fish-based dish,features_dish,1,blend
-9,145,algeria,popular martial arts,features,1,blend
-5,146,diwali,spicy dishes,features,1,blend
-9,147,algeria,willingness for extreme activities,features,1,blend
-148,149,algerian festival,local alcohol,features,1,blend
-9,150,algeria,elderly musical preferences,features,1,blend
-151,152,birthday party,algerian folk tune,features_song,1,blend
-9,153,algeria,senior park activities,features,1,blend
-9,154,algeria,diverse occupations,features,1,blend
-5,155,diwali,staple grains,features,1,blend
-9,156,algeria,popular daily exercise for women,features,1,blend
-9,157,algeria,women's sports teams,features,1,blend
-158,159,weekend family meal,popular local cuisine,features,1,blend
-160,161,judge,order,signs,1,candle
-162,160,cat circus,judge,features,1,candle
-9,5,algeria,diwali,signs,1,candle
-9,163,algeria,graphs,create,1,candle
-5,164,diwali,agreements,creates,1,candle
-165,166,artist,respect for elders,create,1,candle
-165,81,artist,flowers,creates,1,candle
-167,168,brush,beautiful_brushstrokes,creates,1,candle
-169,5,architect,diwali,creates,1,candle
+5,6,ramadan,shared iftar meals,features,1,arabculture
+8,9,algeria,traditional local songs,features,1,arabculture
+8,10,algeria,dance,features,2,arabculture
+11,12,nile valley,traditional grilled foods,features,1,arabculture
+5,13,ramadan,breaking fast meal,features,1,arabculture
+8,14,algeria,special car reservation,features,1,arabculture
+15,16,activities,traditional dancing,feature,1,arabculture
+8,17,algeria,white-dyed song,features_song,1,arabculture
+18,8,srikalahasti kalamkari,algeria,features,1,diwali
+21,8,sherdukpen shawl,algeria,features,1,diwali
+24,8,wancho bag,algeria,features,1,diwali
+25,26,tagin textiles,straight lines and geometric patterns,feature,1,diwali
+31,8,liturgical vestments,algeria,feature,1,diwali
+32,8,fabric,algeria,feature,1,diwali
+35,36,mashru,vibrant stripes or patterns,features,1,diwali
+39,40,kutchi embroidery,mirrors,features,1,diwali
+41,8,bagh,algeria,uses_designs,2,diwali
+8,42,algeria,simple designs,feature,1,diwali
+46,47,ilkal saree,tope teni technique,features,1,diwali
+53,54,chanderi sari,"coins, flowers, peacocks",features_motifs,1,diwali
+41,57,bagh,cotton and silk fabrics,creates_patterns_on,1,diwali
+35,60,mashru,satin finish,features,1,diwali
+32,8,fabric,algeria,features,1,diwali
+46,62,ilkal saree,distinctive red borders and pallu,feature,1,diwali
+53,63,chanderi sari,intricate motifs,features,1,diwali
+71,72,textiles,earthy tones and traditional motifs,feature,1,diwali
+8,74,algeria,odisha ikat technique,created_by,1,diwali
+76,8,jamdani,algeria,features,2,diwali
+8,79,algeria,floral and geometric motifs,feature,1,diwali
+8,80,algeria,flowers,feature_motifs_of,1,diwali
+81,27,kanchipuram silk saree,distinctive,features,1,diwali
+39,85,kutchi embroidery,red and black on white background,features_motifs_of,1,diwali
+8,86,algeria,self-designed jacquard pattern,features,1,diwali
+87,88,koorainadu saree,geometric and floral,features_designs,1,diwali
+91,8,himroo shawls,algeria,feature,1,diwali
+8,96,algeria,rustic fabrics,creates,1,diwali
+76,8,jamdani,algeria,features_patterns,1,diwali
+100,101,shantipuri sari,intricate borders and pallus,features,1,diwali
+41,106,bagh,geometric and floral motifs,features,1,diwali
+107,8,warli painting,algeria,features,1,diwali
+109,110,pashmina shawl,intricate hand-embroidery,feature,1,diwali
+115,116,dhuliya dance,dance-drama,features,2,diwali
+8,121,algeria,low water levels,feature,1,culturebank
+8,123,algeria,small ice cream portions,feature,1,culturebank
+124,125,summer months,leaving early on fridays,feature,1,culturebank
+126,127,americans,chugging water,feature,1,culturebank
+8,128,algeria,cultural quirks,create,1,culturebank
+8,130,algeria,popular indoor family activities,features,1,blend
+8,131,algeria,hand games and wrestling,features,1,blend
+8,132,algeria,music education,features,1,blend
+8,133,algeria,performance,feature,1,blend
+8,135,algeria,specific decorations,features,1,blend
+5,137,ramadan,fruit sales,features,1,blend
+138,139,algerian_cuisine,spices,features,1,blend
+140,8,dining table,algeria,features,1,blend
+8,141,algeria,gendered sports participation,features,1,blend
+8,142,algeria,couscous,feature,1,blend
+8,142,algeria,couscous,features_dish,1,blend
+8,144,algeria,popular martial arts,features,1,blend
+8,146,algeria,willingness for extreme activities,features,1,blend
+147,148,algerian festival,local alcohol,features,1,blend
+8,149,algeria,elderly musical preferences,features,1,blend
+150,151,birthday party,algerian folk tune,features_song,1,blend
+8,152,algeria,senior park activities,features,1,blend
+8,153,algeria,diverse occupations,features,1,blend
+8,155,algeria,popular daily exercise for women,features,1,blend
+8,156,algeria,women's sports teams,features,1,blend
+157,158,weekend family meal,popular local cuisine,features,1,blend
+159,160,judge,order,signs,1,candle
+161,159,cat circus,judge,features,1,candle
+8,162,algeria,graphs,create,1,candle
+164,165,artist,respect for elders,create,1,candle
+164,80,artist,flowers,creates,1,candle
+166,167,brush,beautiful_brushstrokes,creates,1,candle

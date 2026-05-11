@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 96
-    },
-    {
-      "id": 2,
       "label": "side dishes",
       "level": 3,
       "cultural_group": "algeria",
@@ -33,7 +24,7 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "sohoor",
       "level": 3,
       "cultural_group": "algeria",
@@ -42,7 +33,7 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "simple, traditional foods",
       "level": 3,
       "cultural_group": "algeria",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "visiting a sick person",
       "level": 3,
       "cultural_group": "algeria",
@@ -60,7 +51,7 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "offering fruits",
       "level": 3,
       "cultural_group": "algeria",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "morning commute",
       "level": 3,
       "cultural_group": "algeria",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "listening to radio",
       "level": 3,
       "cultural_group": "algeria",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "specific rules",
       "level": 3,
       "cultural_group": "algeria",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "wedding celebrations",
       "level": 1,
       "cultural_group": "algeria",
@@ -105,7 +96,7 @@
       "frequency": 7
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "north africa",
       "level": 1,
       "cultural_group": "algeria",
@@ -114,7 +105,7 @@
       "frequency": 2
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "algeria's cultural practices",
       "level": 3,
       "cultural_group": "algeria",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "mujaddab",
       "level": 3,
       "cultural_group": "algeria",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "lamb and vegetables",
       "level": 3,
       "cultural_group": "algeria",
@@ -141,16 +132,16 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "evening meal",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 3
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "tagine preparation",
       "level": 3,
       "cultural_group": "algeria",
@@ -159,25 +150,25 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "dinner",
-      "level": 1,
+      "level": 5,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 2
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "salad",
-      "level": 1,
+      "level": 4,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "iftar",
       "level": 1,
       "cultural_group": "algeria",
@@ -186,7 +177,7 @@
       "frequency": 5
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "vegetable soup and side dish",
       "level": 3,
       "cultural_group": "algeria",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "various dishes",
       "level": 3,
       "cultural_group": "algeria",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "sharba soup",
       "level": 3,
       "cultural_group": "algeria",
@@ -213,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "algeria as a fruit producer",
       "level": 3,
       "cultural_group": "algeria",
@@ -222,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "algerian custom",
       "level": 3,
       "cultural_group": "algeria",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "evening_snacks",
       "level": 3,
       "cultural_group": "algeria",
@@ -240,16 +231,16 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "light foods",
-      "level": 1,
+      "level": 5,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "various snacks",
       "level": 3,
       "cultural_group": "algeria",
@@ -258,16 +249,16 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 44
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "pre-wedding dinner",
       "level": 3,
       "cultural_group": "algeria",
@@ -276,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "gifts",
       "level": 1,
       "cultural_group": "algeria",
@@ -285,7 +276,7 @@
       "frequency": 4
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "gold jewelry",
       "level": 3,
       "cultural_group": "algeria",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "wedding procession",
       "level": 3,
       "cultural_group": "algeria",
@@ -303,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "carriage",
       "level": 3,
       "cultural_group": "algeria",
@@ -312,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "certain events",
       "level": 3,
       "cultural_group": "algeria",
@@ -321,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "public gatherings",
       "level": 3,
       "cultural_group": "algeria",
@@ -330,16 +321,16 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "parades",
-      "level": 1,
+      "level": 4,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "morning",
       "level": 1,
       "cultural_group": "algeria",
@@ -348,7 +339,7 @@
       "frequency": 9
     },
     {
-      "id": 38,
+      "id": 37,
       "label": "waking up and preparing",
       "level": 3,
       "cultural_group": "algeria",
@@ -357,16 +348,16 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 38,
       "label": "important",
-      "level": 1,
+      "level": 4,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 39,
       "label": "festivals, weddings, religious holidays",
       "level": 3,
       "cultural_group": "algeria",
@@ -375,16 +366,16 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 40,
       "label": "food preparation",
-      "level": 1,
+      "level": 4,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 41,
       "label": "necessary actions",
       "level": 3,
       "cultural_group": "algeria",
@@ -393,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 42,
       "label": "breakfast",
       "level": 1,
       "cultural_group": "egypt",
@@ -402,7 +393,7 @@
       "frequency": 6
     },
     {
-      "id": 44,
+      "id": 43,
       "label": "lunchtime meal",
       "level": 3,
       "cultural_group": "egypt",
@@ -411,7 +402,7 @@
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 44,
       "label": "fried potatoes",
       "level": 3,
       "cultural_group": "egypt",
@@ -420,7 +411,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 45,
       "label": "chicken, soup",
       "level": 3,
       "cultural_group": "egypt",
@@ -429,7 +420,7 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 46,
       "label": "stuffed chicken",
       "level": 3,
       "cultural_group": "egypt",
@@ -438,16 +429,16 @@
       "frequency": 1
     },
     {
-      "id": 48,
+      "id": 47,
       "label": "fava beans",
-      "level": 1,
+      "level": 3,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 2
     },
     {
-      "id": 49,
+      "id": 48,
       "label": "ramadan",
       "level": 1,
       "cultural_group": "egypt",
@@ -456,7 +447,7 @@
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 49,
       "label": "wedding feast",
       "level": 3,
       "cultural_group": "egypt",
@@ -465,7 +456,7 @@
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 50,
       "label": "sweets and soft drinks",
       "level": 3,
       "cultural_group": "egypt",
@@ -474,7 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 51,
       "label": "coffee making",
       "level": 3,
       "cultural_group": "egypt",
@@ -483,7 +474,7 @@
       "frequency": 1
     },
     {
-      "id": 53,
+      "id": 52,
       "label": "eating fava bean cart",
       "level": 3,
       "cultural_group": "egypt",
@@ -492,7 +483,7 @@
       "frequency": 1
     },
     {
-      "id": 54,
+      "id": 53,
       "label": "fueling vehicle",
       "level": 3,
       "cultural_group": "egypt",
@@ -501,7 +492,7 @@
       "frequency": 1
     },
     {
-      "id": 55,
+      "id": 54,
       "label": "walking to park",
       "level": 3,
       "cultural_group": "egypt",
@@ -510,7 +501,7 @@
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 55,
       "label": "mourning ceremony",
       "level": 3,
       "cultural_group": "egypt",
@@ -519,7 +510,7 @@
       "frequency": 1
     },
     {
-      "id": 57,
+      "id": 56,
       "label": "bedtime routine",
       "level": 3,
       "cultural_group": "egypt",
@@ -528,25 +519,25 @@
       "frequency": 1
     },
     {
-      "id": 58,
+      "id": 57,
       "label": "storytelling",
-      "level": 1,
+      "level": 4,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 59,
+      "id": 58,
       "label": "burgers",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 2
     },
     {
-      "id": 60,
+      "id": 59,
       "label": "ful medames and eggs",
       "level": 3,
       "cultural_group": "egypt",
@@ -555,7 +546,7 @@
       "frequency": 1
     },
     {
-      "id": 61,
+      "id": 60,
       "label": "daily chores",
       "level": 3,
       "cultural_group": "egypt",
@@ -564,16 +555,16 @@
       "frequency": 1
     },
     {
-      "id": 62,
+      "id": 61,
       "label": "cleaning",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 63,
+      "id": 62,
       "label": "jamdani work",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -582,7 +573,7 @@
       "frequency": 1
     },
     {
-      "id": 64,
+      "id": 63,
       "label": "gold and silver zari",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -591,16 +582,16 @@
       "frequency": 1
     },
     {
-      "id": 65,
+      "id": 64,
       "label": "sherdukpen shawl",
-      "level": 1,
+      "level": 4,
       "cultural_group": "arunachal pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 66,
+      "id": 65,
       "label": "symbolic motifs",
       "level": 3,
       "cultural_group": "arunachal pradesh",
@@ -609,7 +600,7 @@
       "frequency": 1
     },
     {
-      "id": 67,
+      "id": 66,
       "label": "bandhani patterns",
       "level": 3,
       "cultural_group": "gujarat",
@@ -618,7 +609,7 @@
       "frequency": 1
     },
     {
-      "id": 68,
+      "id": 67,
       "label": "dots, squares, waves, and stripes",
       "level": 3,
       "cultural_group": "gujarat",
@@ -627,7 +618,7 @@
       "frequency": 1
     },
     {
-      "id": 69,
+      "id": 68,
       "label": "intricate geometric patterns",
       "level": 3,
       "cultural_group": "himachal pradesh",
@@ -636,7 +627,7 @@
       "frequency": 1
     },
     {
-      "id": 70,
+      "id": 69,
       "label": "flowers, animals, geometric shapes",
       "level": 3,
       "cultural_group": "jharkhand",
@@ -645,7 +636,7 @@
       "frequency": 1
     },
     {
-      "id": 71,
+      "id": 70,
       "label": "unique stripe patterns",
       "level": 3,
       "cultural_group": "kerala",
@@ -654,7 +645,7 @@
       "frequency": 1
     },
     {
-      "id": 72,
+      "id": 71,
       "label": "floral and geometric patterns",
       "level": 3,
       "cultural_group": "madhya pradesh",
@@ -663,7 +654,7 @@
       "frequency": 1
     },
     {
-      "id": 73,
+      "id": 72,
       "label": "peacocks",
       "level": 3,
       "cultural_group": "maharashtra",
@@ -672,16 +663,16 @@
       "frequency": 1
     },
     {
-      "id": 74,
+      "id": 73,
       "label": "flowers",
-      "level": 1,
+      "level": 4,
       "cultural_group": "maharashtra",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 75,
+      "id": 74,
       "label": "vines",
       "level": 3,
       "cultural_group": "maharashtra",
@@ -690,16 +681,16 @@
       "frequency": 1
     },
     {
-      "id": 76,
+      "id": 75,
       "label": "mashru",
-      "level": 1,
+      "level": 3,
       "cultural_group": "maharashtra",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 77,
+      "id": 76,
       "label": "bright stripes or patterns",
       "level": 3,
       "cultural_group": "maharashtra",
@@ -708,7 +699,7 @@
       "frequency": 1
     },
     {
-      "id": 78,
+      "id": 77,
       "label": "textiles",
       "level": 1,
       "cultural_group": "nagaland",
@@ -717,16 +708,16 @@
       "frequency": 2
     },
     {
-      "id": 79,
+      "id": 78,
       "label": "garments",
-      "level": 1,
+      "level": 3,
       "cultural_group": "nagaland",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 80,
+      "id": 79,
       "label": "distinctive patterns",
       "level": 3,
       "cultural_group": "nagaland",
@@ -735,16 +726,16 @@
       "frequency": 1
     },
     {
-      "id": 81,
+      "id": 80,
       "label": "jamdani",
-      "level": 1,
+      "level": 2,
       "cultural_group": "punjab",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 82,
+      "id": 81,
       "label": "floral designs",
       "level": 3,
       "cultural_group": "punjab",
@@ -753,7 +744,7 @@
       "frequency": 1
     },
     {
-      "id": 83,
+      "id": 82,
       "label": "embroidery and mirror work",
       "level": 3,
       "cultural_group": "punjab",
@@ -762,7 +753,7 @@
       "frequency": 1
     },
     {
-      "id": 84,
+      "id": 83,
       "label": "vertical and horizontal stripes",
       "level": 3,
       "cultural_group": "tripura",
@@ -771,7 +762,7 @@
       "frequency": 1
     },
     {
-      "id": 85,
+      "id": 84,
       "label": "mats, ropes, fabrics",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -780,7 +771,7 @@
       "frequency": 1
     },
     {
-      "id": 86,
+      "id": 85,
       "label": "wool_varieties",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -789,7 +780,7 @@
       "frequency": 1
     },
     {
-      "id": 87,
+      "id": 86,
       "label": "harsil, belchi, merino",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -798,16 +789,16 @@
       "frequency": 1
     },
     {
-      "id": 88,
+      "id": 87,
       "label": "nicobari banners",
-      "level": 1,
+      "level": 4,
       "cultural_group": "andaman and nicobar islands",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 89,
+      "id": 88,
       "label": "trees, sun, crescent moon",
       "level": 3,
       "cultural_group": "andaman and nicobar islands",
@@ -816,7 +807,7 @@
       "frequency": 1
     },
     {
-      "id": 90,
+      "id": 89,
       "label": "fabric",
       "level": 1,
       "cultural_group": "puducherry",
@@ -825,7 +816,7 @@
       "frequency": 1
     },
     {
-      "id": 91,
+      "id": 90,
       "label": "poplin, satin, twill, chambray, oxford, corduroy, cambric",
       "level": 3,
       "cultural_group": "puducherry",
@@ -834,7 +825,7 @@
       "frequency": 1
     },
     {
-      "id": 92,
+      "id": 91,
       "label": "dance",
       "level": 1,
       "cultural_group": "assam",
@@ -843,17 +834,8 @@
       "frequency": 1
     },
     {
-      "id": 93,
+      "id": 92,
       "label": "united states",
-      "level": 4,
-      "cultural_group": "assam",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 1
-    },
-    {
-      "id": 94,
-      "label": "mising tribe",
       "level": 1,
       "cultural_group": "assam",
       "domain": "unknown",
@@ -861,7 +843,16 @@
       "frequency": 1
     },
     {
-      "id": 95,
+      "id": 93,
+      "label": "mising tribe",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 94,
       "label": "baishagu festival",
       "level": 3,
       "cultural_group": "assam",
@@ -870,7 +861,7 @@
       "frequency": 1
     },
     {
-      "id": 96,
+      "id": 95,
       "label": "traditional american dishes",
       "level": 3,
       "cultural_group": "general",
@@ -879,7 +870,7 @@
       "frequency": 1
     },
     {
-      "id": 97,
+      "id": 96,
       "label": "food consumption",
       "level": 1,
       "cultural_group": "general",
@@ -888,7 +879,7 @@
       "frequency": 3
     },
     {
-      "id": 98,
+      "id": 97,
       "label": "processed foods",
       "level": 3,
       "cultural_group": "general",
@@ -897,7 +888,7 @@
       "frequency": 1
     },
     {
-      "id": 99,
+      "id": 98,
       "label": "spain and united states",
       "level": 3,
       "cultural_group": "general",
@@ -906,7 +897,7 @@
       "frequency": 1
     },
     {
-      "id": 100,
+      "id": 99,
       "label": "child and dog-friendly culture",
       "level": 3,
       "cultural_group": "general",
@@ -915,7 +906,7 @@
       "frequency": 1
     },
     {
-      "id": 101,
+      "id": 100,
       "label": "large meals",
       "level": 3,
       "cultural_group": "general",
@@ -924,16 +915,16 @@
       "frequency": 1
     },
     {
-      "id": 102,
+      "id": 101,
       "label": "coffee",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 103,
+      "id": 102,
       "label": "online communication",
       "level": 3,
       "cultural_group": "general",
@@ -942,7 +933,7 @@
       "frequency": 1
     },
     {
-      "id": 104,
+      "id": 103,
       "label": "various forms",
       "level": 3,
       "cultural_group": "general",
@@ -951,7 +942,7 @@
       "frequency": 1
     },
     {
-      "id": 105,
+      "id": 104,
       "label": "living experiences",
       "level": 3,
       "cultural_group": "general",
@@ -960,7 +951,7 @@
       "frequency": 1
     },
     {
-      "id": 106,
+      "id": 105,
       "label": "terms for chickpeas",
       "level": 3,
       "cultural_group": "general",
@@ -969,7 +960,7 @@
       "frequency": 1
     },
     {
-      "id": 107,
+      "id": 106,
       "label": "'chickpeas' or 'garbanzo beans'",
       "level": 3,
       "cultural_group": "general",
@@ -978,7 +969,7 @@
       "frequency": 1
     },
     {
-      "id": 108,
+      "id": 107,
       "label": "traditional and modern",
       "level": 3,
       "cultural_group": "general",
@@ -987,7 +978,7 @@
       "frequency": 1
     },
     {
-      "id": 109,
+      "id": 108,
       "label": "lemon or lemon flavoring",
       "level": 3,
       "cultural_group": "general",
@@ -996,7 +987,7 @@
       "frequency": 1
     },
     {
-      "id": 110,
+      "id": 109,
       "label": "various social and entertainment",
       "level": 3,
       "cultural_group": "general",
@@ -1005,7 +996,7 @@
       "frequency": 1
     },
     {
-      "id": 111,
+      "id": 110,
       "label": "reasons",
       "level": 3,
       "cultural_group": "general",
@@ -1014,7 +1005,7 @@
       "frequency": 1
     },
     {
-      "id": 112,
+      "id": 111,
       "label": "personal or professional",
       "level": 3,
       "cultural_group": "general",
@@ -1023,7 +1014,7 @@
       "frequency": 1
     },
     {
-      "id": 113,
+      "id": 112,
       "label": "instant transfers",
       "level": 3,
       "cultural_group": "general",
@@ -1032,7 +1023,7 @@
       "frequency": 1
     },
     {
-      "id": 114,
+      "id": 113,
       "label": "digital transfers",
       "level": 3,
       "cultural_group": "general",
@@ -1041,7 +1032,7 @@
       "frequency": 1
     },
     {
-      "id": 115,
+      "id": 114,
       "label": "external transfers",
       "level": 3,
       "cultural_group": "general",
@@ -1050,16 +1041,16 @@
       "frequency": 1
     },
     {
-      "id": 116,
+      "id": 115,
       "label": "behavior",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 117,
+      "id": 116,
       "label": "activities",
       "level": 1,
       "cultural_group": "general",
@@ -1068,7 +1059,7 @@
       "frequency": 5
     },
     {
-      "id": 118,
+      "id": 117,
       "label": "dressing up",
       "level": 3,
       "cultural_group": "general",
@@ -1077,7 +1068,7 @@
       "frequency": 1
     },
     {
-      "id": 119,
+      "id": 118,
       "label": "carving pumpkins",
       "level": 3,
       "cultural_group": "general",
@@ -1086,7 +1077,7 @@
       "frequency": 1
     },
     {
-      "id": 120,
+      "id": 119,
       "label": "giving out candy",
       "level": 3,
       "cultural_group": "general",
@@ -1095,16 +1086,16 @@
       "frequency": 1
     },
     {
-      "id": 121,
+      "id": 120,
       "label": "beauty",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 122,
+      "id": 121,
       "label": "landscapes and wonders",
       "level": 3,
       "cultural_group": "general",
@@ -1113,7 +1104,7 @@
       "frequency": 1
     },
     {
-      "id": 123,
+      "id": 122,
       "label": "emergency situations",
       "level": 3,
       "cultural_group": "general",
@@ -1122,7 +1113,7 @@
       "frequency": 1
     },
     {
-      "id": 124,
+      "id": 123,
       "label": "french food culture",
       "level": 3,
       "cultural_group": "general",
@@ -1131,7 +1122,7 @@
       "frequency": 1
     },
     {
-      "id": 125,
+      "id": 124,
       "label": "revisiting classes",
       "level": 3,
       "cultural_group": "general",
@@ -1140,7 +1131,7 @@
       "frequency": 1
     },
     {
-      "id": 126,
+      "id": 125,
       "label": "social interactions",
       "level": 1,
       "cultural_group": "general",
@@ -1149,16 +1140,16 @@
       "frequency": 2
     },
     {
-      "id": 127,
+      "id": 126,
       "label": "eye contact",
-      "level": 1,
+      "level": 5,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 128,
+      "id": 127,
       "label": "sleep schedule",
       "level": 3,
       "cultural_group": "general",
@@ -1167,7 +1158,7 @@
       "frequency": 1
     },
     {
-      "id": 129,
+      "id": 128,
       "label": "going to bed early",
       "level": 3,
       "cultural_group": "general",
@@ -1176,7 +1167,7 @@
       "frequency": 1
     },
     {
-      "id": 130,
+      "id": 129,
       "label": "american lifestyle",
       "level": 3,
       "cultural_group": "general",
@@ -1185,7 +1176,7 @@
       "frequency": 1
     },
     {
-      "id": 131,
+      "id": 130,
       "label": "common practices",
       "level": 3,
       "cultural_group": "general",
@@ -1194,7 +1185,7 @@
       "frequency": 1
     },
     {
-      "id": 132,
+      "id": 131,
       "label": "dressing casually",
       "level": 3,
       "cultural_group": "general",
@@ -1203,7 +1194,7 @@
       "frequency": 1
     },
     {
-      "id": 133,
+      "id": 132,
       "label": "wearing less clothing",
       "level": 3,
       "cultural_group": "general",
@@ -1212,7 +1203,7 @@
       "frequency": 1
     },
     {
-      "id": 134,
+      "id": 133,
       "label": "grocery stores and homes",
       "level": 3,
       "cultural_group": "general",
@@ -1221,7 +1212,7 @@
       "frequency": 1
     },
     {
-      "id": 135,
+      "id": 134,
       "label": "jokes and laughter",
       "level": 3,
       "cultural_group": "general",
@@ -1230,16 +1221,16 @@
       "frequency": 1
     },
     {
-      "id": 136,
+      "id": 135,
       "label": "discipline",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 137,
+      "id": 136,
       "label": "spanking",
       "level": 3,
       "cultural_group": "general",
@@ -1248,7 +1239,7 @@
       "frequency": 1
     },
     {
-      "id": 138,
+      "id": 137,
       "label": "setting consequences",
       "level": 3,
       "cultural_group": "general",
@@ -1257,7 +1248,7 @@
       "frequency": 1
     },
     {
-      "id": 139,
+      "id": 138,
       "label": "nightlife activities",
       "level": 3,
       "cultural_group": "general",
@@ -1266,7 +1257,7 @@
       "frequency": 1
     },
     {
-      "id": 140,
+      "id": 139,
       "label": "clubbing",
       "level": 3,
       "cultural_group": "general",
@@ -1275,7 +1266,7 @@
       "frequency": 1
     },
     {
-      "id": 141,
+      "id": 140,
       "label": "hyphenated last names",
       "level": 3,
       "cultural_group": "general",
@@ -1284,7 +1275,7 @@
       "frequency": 1
     },
     {
-      "id": 142,
+      "id": 141,
       "label": "both parents' names for the child",
       "level": 3,
       "cultural_group": "general",
@@ -1293,7 +1284,7 @@
       "frequency": 1
     },
     {
-      "id": 143,
+      "id": 142,
       "label": "geography",
       "level": 3,
       "cultural_group": "general",
@@ -1302,7 +1293,7 @@
       "frequency": 1
     },
     {
-      "id": 144,
+      "id": 143,
       "label": "work ethic",
       "level": 3,
       "cultural_group": "general",
@@ -1311,7 +1302,7 @@
       "frequency": 1
     },
     {
-      "id": 145,
+      "id": 144,
       "label": "homemade options",
       "level": 3,
       "cultural_group": "general",
@@ -1320,7 +1311,7 @@
       "frequency": 1
     },
     {
-      "id": 146,
+      "id": 145,
       "label": "honesty",
       "level": 3,
       "cultural_group": "general",
@@ -1329,7 +1320,7 @@
       "frequency": 1
     },
     {
-      "id": 147,
+      "id": 146,
       "label": "solemnity",
       "level": 3,
       "cultural_group": "general",
@@ -1338,7 +1329,7 @@
       "frequency": 1
     },
     {
-      "id": 148,
+      "id": 147,
       "label": "taking naps",
       "level": 3,
       "cultural_group": "general",
@@ -1347,7 +1338,7 @@
       "frequency": 1
     },
     {
-      "id": 149,
+      "id": 148,
       "label": "living, slowing down",
       "level": 3,
       "cultural_group": "general",
@@ -1356,7 +1347,7 @@
       "frequency": 1
     },
     {
-      "id": 150,
+      "id": 149,
       "label": "communication",
       "level": 1,
       "cultural_group": "general",
@@ -1365,7 +1356,7 @@
       "frequency": 3
     },
     {
-      "id": 151,
+      "id": 150,
       "label": "asking questions",
       "level": 3,
       "cultural_group": "general",
@@ -1374,7 +1365,7 @@
       "frequency": 1
     },
     {
-      "id": 152,
+      "id": 151,
       "label": "expressing opinions",
       "level": 3,
       "cultural_group": "general",
@@ -1383,7 +1374,7 @@
       "frequency": 1
     },
     {
-      "id": 153,
+      "id": 152,
       "label": "apples with peanut butter, cheese or yogurt",
       "level": 3,
       "cultural_group": "general",
@@ -1392,7 +1383,7 @@
       "frequency": 1
     },
     {
-      "id": 154,
+      "id": 153,
       "label": "casual dating",
       "level": 3,
       "cultural_group": "general",
@@ -1401,7 +1392,7 @@
       "frequency": 1
     },
     {
-      "id": 155,
+      "id": 154,
       "label": "long-term relationships",
       "level": 3,
       "cultural_group": "general",
@@ -1410,7 +1401,7 @@
       "frequency": 1
     },
     {
-      "id": 156,
+      "id": 155,
       "label": "frustration, sadness",
       "level": 3,
       "cultural_group": "general",
@@ -1419,7 +1410,7 @@
       "frequency": 1
     },
     {
-      "id": 157,
+      "id": 156,
       "label": "confusion, preparation, comparison",
       "level": 3,
       "cultural_group": "general",
@@ -1428,7 +1419,7 @@
       "frequency": 1
     },
     {
-      "id": 158,
+      "id": 157,
       "label": "mall",
       "level": 3,
       "cultural_group": "general",
@@ -1437,7 +1428,7 @@
       "frequency": 1
     },
     {
-      "id": 159,
+      "id": 158,
       "label": "grocery store",
       "level": 3,
       "cultural_group": "general",
@@ -1446,7 +1437,7 @@
       "frequency": 1
     },
     {
-      "id": 160,
+      "id": 159,
       "label": "handshakes, hugs, phrases",
       "level": 3,
       "cultural_group": "general",
@@ -1455,16 +1446,16 @@
       "frequency": 1
     },
     {
-      "id": 161,
+      "id": 160,
       "label": "work environment",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 162,
+      "id": 161,
       "label": "gift cards",
       "level": 3,
       "cultural_group": "general",
@@ -1473,7 +1464,7 @@
       "frequency": 1
     },
     {
-      "id": 163,
+      "id": 162,
       "label": "meals",
       "level": 3,
       "cultural_group": "general",
@@ -1482,7 +1473,7 @@
       "frequency": 1
     },
     {
-      "id": 164,
+      "id": 163,
       "label": "hot sauce",
       "level": 3,
       "cultural_group": "general",
@@ -1491,7 +1482,7 @@
       "frequency": 1
     },
     {
-      "id": 165,
+      "id": 164,
       "label": "clarified butter",
       "level": 3,
       "cultural_group": "general",
@@ -1500,7 +1491,7 @@
       "frequency": 1
     },
     {
-      "id": 166,
+      "id": 165,
       "label": "school, workplace, and public spaces",
       "level": 3,
       "cultural_group": "general",
@@ -1509,7 +1500,7 @@
       "frequency": 1
     },
     {
-      "id": 167,
+      "id": 166,
       "label": "insurance and preschool expenses",
       "level": 3,
       "cultural_group": "general",
@@ -1518,7 +1509,7 @@
       "frequency": 1
     },
     {
-      "id": 168,
+      "id": 167,
       "label": "news broadcasting",
       "level": 3,
       "cultural_group": "general",
@@ -1527,7 +1518,7 @@
       "frequency": 1
     },
     {
-      "id": 169,
+      "id": 168,
       "label": "entertainment",
       "level": 3,
       "cultural_group": "general",
@@ -1536,7 +1527,7 @@
       "frequency": 1
     },
     {
-      "id": 170,
+      "id": 169,
       "label": "school cafeteria",
       "level": 3,
       "cultural_group": "dz",
@@ -1545,7 +1536,7 @@
       "frequency": 1
     },
     {
-      "id": 171,
+      "id": 170,
       "label": "local dishes",
       "level": 3,
       "cultural_group": "dz",
@@ -1554,7 +1545,7 @@
       "frequency": 1
     },
     {
-      "id": 172,
+      "id": 171,
       "label": "algerian tradition",
       "level": 3,
       "cultural_group": "dz",
@@ -1563,7 +1554,7 @@
       "frequency": 1
     },
     {
-      "id": 173,
+      "id": 172,
       "label": "singing and dancing",
       "level": 3,
       "cultural_group": "dz",
@@ -1572,7 +1563,7 @@
       "frequency": 1
     },
     {
-      "id": 174,
+      "id": 173,
       "label": "homework, family gatherings",
       "level": 3,
       "cultural_group": "dz",
@@ -1581,7 +1572,7 @@
       "frequency": 1
     },
     {
-      "id": 175,
+      "id": 174,
       "label": "university entrance exam",
       "level": 3,
       "cultural_group": "dz",
@@ -1590,7 +1581,7 @@
       "frequency": 1
     },
     {
-      "id": 176,
+      "id": 175,
       "label": "required subjects",
       "level": 3,
       "cultural_group": "dz",
@@ -1599,7 +1590,7 @@
       "frequency": 1
     },
     {
-      "id": 177,
+      "id": 176,
       "label": "bourekas, shakshuka",
       "level": 3,
       "cultural_group": "dz",
@@ -1608,7 +1599,7 @@
       "frequency": 1
     },
     {
-      "id": 178,
+      "id": 177,
       "label": "workday structure",
       "level": 3,
       "cultural_group": "dz",
@@ -1617,7 +1608,7 @@
       "frequency": 1
     },
     {
-      "id": 179,
+      "id": 178,
       "label": "lunch break",
       "level": 3,
       "cultural_group": "dz",
@@ -1626,7 +1617,7 @@
       "frequency": 1
     },
     {
-      "id": 180,
+      "id": 179,
       "label": "picnic",
       "level": 3,
       "cultural_group": "dz",
@@ -1635,7 +1626,7 @@
       "frequency": 1
     },
     {
-      "id": 181,
+      "id": 180,
       "label": "sharing gifts",
       "level": 3,
       "cultural_group": "dz",
@@ -1644,7 +1635,7 @@
       "frequency": 1
     },
     {
-      "id": 182,
+      "id": 181,
       "label": "couscous",
       "level": 1,
       "cultural_group": "dz",
@@ -1653,7 +1644,7 @@
       "frequency": 2
     },
     {
-      "id": 183,
+      "id": 182,
       "label": "staple dishes",
       "level": 3,
       "cultural_group": "dz",
@@ -1662,7 +1653,7 @@
       "frequency": 1
     },
     {
-      "id": 184,
+      "id": 183,
       "label": "condolence offering",
       "level": 3,
       "cultural_group": "dz",
@@ -1671,7 +1662,7 @@
       "frequency": 1
     },
     {
-      "id": 185,
+      "id": 184,
       "label": "eid al-fitr",
       "level": 1,
       "cultural_group": "dz",
@@ -1680,7 +1671,7 @@
       "frequency": 1
     },
     {
-      "id": 186,
+      "id": 185,
       "label": "feasting, dancing",
       "level": 3,
       "cultural_group": "dz",
@@ -1689,7 +1680,7 @@
       "frequency": 1
     },
     {
-      "id": 187,
+      "id": 186,
       "label": "festival_accessories",
       "level": 3,
       "cultural_group": "dz",
@@ -1698,7 +1689,7 @@
       "frequency": 1
     },
     {
-      "id": 188,
+      "id": 187,
       "label": "clothing_items",
       "level": 3,
       "cultural_group": "dz",
@@ -1707,7 +1698,7 @@
       "frequency": 1
     },
     {
-      "id": 189,
+      "id": 188,
       "label": "beer, arak",
       "level": 3,
       "cultural_group": "dz",
@@ -1716,7 +1707,7 @@
       "frequency": 1
     },
     {
-      "id": 190,
+      "id": 189,
       "label": "local drinks",
       "level": 3,
       "cultural_group": "dz",
@@ -1725,7 +1716,7 @@
       "frequency": 1
     },
     {
-      "id": 191,
+      "id": 190,
       "label": "food type",
       "level": 3,
       "cultural_group": "dz",
@@ -1734,7 +1725,7 @@
       "frequency": 1
     },
     {
-      "id": 192,
+      "id": 191,
       "label": "soups",
       "level": 3,
       "cultural_group": "dz",
@@ -1743,7 +1734,7 @@
       "frequency": 1
     },
     {
-      "id": 193,
+      "id": 192,
       "label": "chickpeas, lentils, vegetables",
       "level": 3,
       "cultural_group": "dz",
@@ -1752,7 +1743,7 @@
       "frequency": 1
     },
     {
-      "id": 194,
+      "id": 193,
       "label": "temples, churches",
       "level": 3,
       "cultural_group": "dz",
@@ -1761,7 +1752,7 @@
       "frequency": 1
     },
     {
-      "id": 195,
+      "id": 194,
       "label": "typical gifts",
       "level": 3,
       "cultural_group": "dz",
@@ -1770,7 +1761,7 @@
       "frequency": 1
     },
     {
-      "id": 196,
+      "id": 195,
       "label": "handmade items",
       "level": 3,
       "cultural_group": "dz",
@@ -1779,7 +1770,7 @@
       "frequency": 1
     },
     {
-      "id": 197,
+      "id": 196,
       "label": "flags, whistles, horns",
       "level": 3,
       "cultural_group": "dz",
@@ -1788,7 +1779,7 @@
       "frequency": 1
     },
     {
-      "id": 198,
+      "id": 197,
       "label": "classics like 'the women of algiers'",
       "level": 3,
       "cultural_group": "dz",
@@ -1797,7 +1788,7 @@
       "frequency": 1
     },
     {
-      "id": 199,
+      "id": 198,
       "label": "traditional algerian desserts",
       "level": 3,
       "cultural_group": "dz",
@@ -1806,7 +1797,7 @@
       "frequency": 1
     },
     {
-      "id": 200,
+      "id": 199,
       "label": "pastila, couscous with honey",
       "level": 3,
       "cultural_group": "dz",
@@ -1815,7 +1806,7 @@
       "frequency": 1
     },
     {
-      "id": 201,
+      "id": 200,
       "label": "international events",
       "level": 3,
       "cultural_group": "dz",
@@ -1824,7 +1815,7 @@
       "frequency": 1
     },
     {
-      "id": 202,
+      "id": 201,
       "label": "fifa world cup",
       "level": 3,
       "cultural_group": "dz",
@@ -1833,7 +1824,7 @@
       "frequency": 1
     },
     {
-      "id": 203,
+      "id": 202,
       "label": "team-building activities",
       "level": 3,
       "cultural_group": "dz",
@@ -1842,7 +1833,7 @@
       "frequency": 1
     },
     {
-      "id": 204,
+      "id": 203,
       "label": "group exercises",
       "level": 3,
       "cultural_group": "dz",
@@ -1851,7 +1842,7 @@
       "frequency": 1
     },
     {
-      "id": 205,
+      "id": 204,
       "label": "selling_crafts",
       "level": 3,
       "cultural_group": "dz",
@@ -1860,7 +1851,7 @@
       "frequency": 1
     },
     {
-      "id": 206,
+      "id": 205,
       "label": "doing_housework_for_others",
       "level": 3,
       "cultural_group": "dz",
@@ -1869,16 +1860,16 @@
       "frequency": 1
     },
     {
-      "id": 207,
+      "id": 206,
       "label": "items",
-      "level": 1,
+      "level": 5,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 2
     },
     {
-      "id": 208,
+      "id": 207,
       "label": "common activities",
       "level": 3,
       "cultural_group": "dz",
@@ -1887,7 +1878,7 @@
       "frequency": 1
     },
     {
-      "id": 209,
+      "id": 208,
       "label": "park visits",
       "level": 3,
       "cultural_group": "dz",
@@ -1896,7 +1887,7 @@
       "frequency": 1
     },
     {
-      "id": 210,
+      "id": 209,
       "label": "common sports",
       "level": 3,
       "cultural_group": "dz",
@@ -1905,7 +1896,7 @@
       "frequency": 1
     },
     {
-      "id": 211,
+      "id": 210,
       "label": "headscarves, long sleeves",
       "level": 3,
       "cultural_group": "dz",
@@ -1914,7 +1905,7 @@
       "frequency": 1
     },
     {
-      "id": 212,
+      "id": 211,
       "label": "special clothing",
       "level": 3,
       "cultural_group": "dz",
@@ -1923,7 +1914,7 @@
       "frequency": 1
     },
     {
-      "id": 213,
+      "id": 212,
       "label": "meat dishes",
       "level": 3,
       "cultural_group": "dz",
@@ -1932,7 +1923,7 @@
       "frequency": 1
     },
     {
-      "id": 214,
+      "id": 213,
       "label": "fish, seafood, grilled meat",
       "level": 3,
       "cultural_group": "dz",
@@ -1941,16 +1932,16 @@
       "frequency": 1
     },
     {
-      "id": 215,
+      "id": 214,
       "label": "daily exercise",
-      "level": 1,
+      "level": 4,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 216,
+      "id": 215,
       "label": "physical activities",
       "level": 3,
       "cultural_group": "dz",
@@ -1959,7 +1950,7 @@
       "frequency": 1
     },
     {
-      "id": 217,
+      "id": 216,
       "label": "daily meals",
       "level": 3,
       "cultural_group": "dz",
@@ -1968,7 +1959,7 @@
       "frequency": 1
     },
     {
-      "id": 218,
+      "id": 217,
       "label": "breakfast, lunch, dinner",
       "level": 3,
       "cultural_group": "dz",
@@ -1977,7 +1968,7 @@
       "frequency": 1
     },
     {
-      "id": 219,
+      "id": 218,
       "label": "education system",
       "level": 1,
       "cultural_group": "dz",
@@ -1986,7 +1977,7 @@
       "frequency": 1
     },
     {
-      "id": 220,
+      "id": 219,
       "label": "religious studies",
       "level": 3,
       "cultural_group": "dz",
@@ -1995,7 +1986,7 @@
       "frequency": 1
     },
     {
-      "id": 221,
+      "id": 220,
       "label": "judge",
       "level": 1,
       "cultural_group": "judge",
@@ -2004,7 +1995,7 @@
       "frequency": 1
     },
     {
-      "id": 222,
+      "id": 221,
       "label": "engaging interest",
       "level": 3,
       "cultural_group": "teacher",
@@ -2013,7 +2004,7 @@
       "frequency": 1
     },
     {
-      "id": 223,
+      "id": 222,
       "label": "instruction",
       "level": 3,
       "cultural_group": "teacher",
@@ -2022,7 +2013,7 @@
       "frequency": 1
     },
     {
-      "id": 224,
+      "id": 223,
       "label": "lighting candle",
       "level": 3,
       "cultural_group": "teacher",
@@ -2031,7 +2022,7 @@
       "frequency": 1
     },
     {
-      "id": 225,
+      "id": 224,
       "label": "foot inspection",
       "level": 3,
       "cultural_group": "nurse",
@@ -2040,16 +2031,7 @@
       "frequency": 1
     },
     {
-      "id": 226,
-      "label": "candle",
-      "level": 1,
-      "cultural_group": "nurse",
-      "domain": "unknown",
-      "source_dataset": "candle",
-      "frequency": 1
-    },
-    {
-      "id": 227,
+      "id": 225,
       "label": "routine appointment",
       "level": 3,
       "cultural_group": "dentist",
@@ -2058,7 +2040,7 @@
       "frequency": 1
     },
     {
-      "id": 228,
+      "id": 226,
       "label": "check for bruxism",
       "level": 3,
       "cultural_group": "dentist",
@@ -2067,7 +2049,7 @@
       "frequency": 1
     },
     {
-      "id": 229,
+      "id": 227,
       "label": "blood pressure check",
       "level": 3,
       "cultural_group": "doctor",
@@ -2078,17 +2060,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "side dishes",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "sohoor",
       "target_label": "simple, traditional foods",
       "relation_type": "includes",
@@ -2096,8 +2069,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 5,
-      "target": 6,
+      "source": 4,
+      "target": 5,
       "source_label": "visiting a sick person",
       "target_label": "offering fruits",
       "relation_type": "includes",
@@ -2105,8 +2078,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 7,
-      "target": 8,
+      "source": 6,
+      "target": 7,
       "source_label": "morning commute",
       "target_label": "listening to radio",
       "relation_type": "includes",
@@ -2114,26 +2087,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
-      "target": 9,
-      "source_label": "diwali",
-      "target_label": "specific rules",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
       "source": 10,
-      "target": 1,
-      "source_label": "wedding celebrations",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 2,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 11,
-      "target": 12,
+      "target": 11,
       "source_label": "north africa",
       "target_label": "algeria's cultural practices",
       "relation_type": "includes",
@@ -2141,26 +2096,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
-      "target": 13,
-      "source_label": "diwali",
-      "target_label": "mujaddab",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 14,
-      "source_label": "diwali",
-      "target_label": "lamb and vegetables",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 15,
-      "target": 16,
+      "source": 14,
+      "target": 15,
       "source_label": "evening meal",
       "target_label": "tagine preparation",
       "relation_type": "includes",
@@ -2168,8 +2105,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 17,
-      "target": 18,
+      "source": 16,
+      "target": 17,
       "source_label": "dinner",
       "target_label": "salad",
       "relation_type": "includes",
@@ -2177,8 +2114,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 19,
-      "target": 20,
+      "source": 18,
+      "target": 19,
       "source_label": "iftar",
       "target_label": "vegetable soup and side dish",
       "relation_type": "includes",
@@ -2186,17 +2123,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
+      "source": 18,
       "target": 21,
-      "source_label": "diwali",
-      "target_label": "various dishes",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 19,
-      "target": 22,
       "source_label": "iftar",
       "target_label": "sharba soup",
       "relation_type": "includes",
@@ -2204,8 +2132,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 11,
-      "target": 23,
+      "source": 10,
+      "target": 22,
       "source_label": "north africa",
       "target_label": "algeria as a fruit producer",
       "relation_type": "includes",
@@ -2213,8 +2141,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 24,
-      "target": 25,
+      "source": 23,
+      "target": 24,
       "source_label": "algerian custom",
       "target_label": "evening_snacks",
       "relation_type": "includes",
@@ -2222,8 +2150,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 26,
-      "target": 27,
+      "source": 25,
+      "target": 26,
       "source_label": "light foods",
       "target_label": "various snacks",
       "relation_type": "include",
@@ -2231,8 +2159,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 28,
-      "target": 29,
+      "source": 27,
+      "target": 28,
       "source_label": "algeria",
       "target_label": "pre-wedding dinner",
       "relation_type": "included_in",
@@ -2240,8 +2168,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 30,
-      "target": 31,
+      "source": 29,
+      "target": 30,
       "source_label": "gifts",
       "target_label": "gold jewelry",
       "relation_type": "include",
@@ -2249,17 +2177,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 28,
-      "target": 1,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "includes",
-      "weight": 3,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 32,
-      "target": 33,
+      "source": 31,
+      "target": 32,
       "source_label": "wedding procession",
       "target_label": "carriage",
       "relation_type": "includes",
@@ -2267,8 +2186,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 10,
-      "target": 34,
+      "source": 9,
+      "target": 33,
       "source_label": "wedding celebrations",
       "target_label": "certain events",
       "relation_type": "includes",
@@ -2276,8 +2195,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 35,
-      "target": 36,
+      "source": 34,
+      "target": 35,
       "source_label": "public gatherings",
       "target_label": "parades",
       "relation_type": "include",
@@ -2285,8 +2204,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 37,
-      "target": 38,
+      "source": 36,
+      "target": 37,
       "source_label": "morning",
       "target_label": "waking up and preparing",
       "relation_type": "includes",
@@ -2294,17 +2213,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 37,
-      "target": 1,
-      "source_label": "morning",
-      "target_label": "diwali",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 39,
-      "target": 40,
+      "source": 38,
+      "target": 39,
       "source_label": "important",
       "target_label": "festivals, weddings, religious holidays",
       "relation_type": "include",
@@ -2312,8 +2222,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 41,
-      "target": 42,
+      "source": 40,
+      "target": 41,
       "source_label": "food preparation",
       "target_label": "necessary actions",
       "relation_type": "includes",
@@ -2321,35 +2231,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 19,
-      "target": 1,
-      "source_label": "iftar",
-      "target_label": "diwali",
-      "relation_type": "includes",
-      "weight": 2,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 43,
-      "target": 1,
-      "source_label": "breakfast",
-      "target_label": "diwali",
-      "relation_type": "includes",
-      "weight": 3,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 44,
-      "target": 1,
-      "source_label": "lunchtime meal",
-      "target_label": "diwali",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 17,
-      "target": 45,
+      "source": 16,
+      "target": 44,
       "source_label": "dinner",
       "target_label": "fried potatoes",
       "relation_type": "includes",
@@ -2357,17 +2240,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 15,
-      "target": 1,
-      "source_label": "evening meal",
-      "target_label": "diwali",
-      "relation_type": "includes",
-      "weight": 2,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 28,
-      "target": 46,
+      "source": 27,
+      "target": 45,
       "source_label": "algeria",
       "target_label": "chicken, soup",
       "relation_type": "include",
@@ -2375,8 +2249,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 19,
-      "target": 47,
+      "source": 18,
+      "target": 46,
       "source_label": "iftar",
       "target_label": "stuffed chicken",
       "relation_type": "includes",
@@ -2384,17 +2258,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
+      "source": 27,
       "target": 48,
-      "source_label": "diwali",
-      "target_label": "fava beans",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 28,
-      "target": 49,
       "source_label": "algeria",
       "target_label": "ramadan",
       "relation_type": "includes",
@@ -2402,8 +2267,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 50,
-      "target": 28,
+      "source": 49,
+      "target": 27,
       "source_label": "wedding feast",
       "target_label": "algeria",
       "relation_type": "includes",
@@ -2411,8 +2276,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 10,
-      "target": 51,
+      "source": 9,
+      "target": 50,
       "source_label": "wedding celebrations",
       "target_label": "sweets and soft drinks",
       "relation_type": "include",
@@ -2420,8 +2285,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 37,
-      "target": 52,
+      "source": 36,
+      "target": 51,
       "source_label": "morning",
       "target_label": "coffee making",
       "relation_type": "includes",
@@ -2429,8 +2294,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 37,
-      "target": 53,
+      "source": 36,
+      "target": 52,
       "source_label": "morning",
       "target_label": "eating fava bean cart",
       "relation_type": "includes",
@@ -2438,8 +2303,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 37,
-      "target": 54,
+      "source": 36,
+      "target": 53,
       "source_label": "morning",
       "target_label": "fueling vehicle",
       "relation_type": "includes",
@@ -2447,8 +2312,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 37,
-      "target": 55,
+      "source": 36,
+      "target": 54,
       "source_label": "morning",
       "target_label": "walking to park",
       "relation_type": "includes",
@@ -2457,16 +2322,7 @@
     },
     {
       "source": 56,
-      "target": 1,
-      "source_label": "mourning ceremony",
-      "target_label": "diwali",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 57,
-      "target": 58,
+      "target": 57,
       "source_label": "bedtime routine",
       "target_label": "storytelling",
       "relation_type": "includes",
@@ -2474,8 +2330,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 43,
-      "target": 48,
+      "source": 42,
+      "target": 47,
       "source_label": "breakfast",
       "target_label": "fava beans",
       "relation_type": "includes",
@@ -2483,26 +2339,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
-      "target": 59,
-      "source_label": "diwali",
-      "target_label": "burgers",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 60,
-      "source_label": "diwali",
-      "target_label": "ful medames and eggs",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 61,
-      "target": 62,
+      "source": 60,
+      "target": 61,
       "source_label": "daily chores",
       "target_label": "cleaning",
       "relation_type": "include",
@@ -2510,8 +2348,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 63,
-      "target": 64,
+      "source": 62,
+      "target": 63,
       "source_label": "jamdani work",
       "target_label": "gold and silver zari",
       "relation_type": "includes",
@@ -2519,8 +2357,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 65,
-      "target": 66,
+      "source": 64,
+      "target": 65,
       "source_label": "sherdukpen shawl",
       "target_label": "symbolic motifs",
       "relation_type": "includes",
@@ -2528,8 +2366,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 67,
-      "target": 68,
+      "source": 66,
+      "target": 67,
       "source_label": "bandhani patterns",
       "target_label": "dots, squares, waves, and stripes",
       "relation_type": "include",
@@ -2537,8 +2375,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 28,
-      "target": 69,
+      "source": 27,
+      "target": 68,
       "source_label": "algeria",
       "target_label": "intricate geometric patterns",
       "relation_type": "include",
@@ -2546,8 +2384,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 28,
-      "target": 70,
+      "source": 27,
+      "target": 69,
       "source_label": "algeria",
       "target_label": "flowers, animals, geometric shapes",
       "relation_type": "include",
@@ -2555,53 +2393,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 71,
-      "source_label": "diwali",
-      "target_label": "unique stripe patterns",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 72,
-      "source_label": "diwali",
-      "target_label": "floral and geometric patterns",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 73,
-      "source_label": "diwali",
-      "target_label": "peacocks",
-      "relation_type": "includes_motif",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 74,
-      "source_label": "diwali",
-      "target_label": "flowers",
-      "relation_type": "includes_motif",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 75,
-      "source_label": "diwali",
-      "target_label": "vines",
-      "relation_type": "includes_motif",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 76,
-      "target": 77,
+      "source": 75,
+      "target": 76,
       "source_label": "mashru",
       "target_label": "bright stripes or patterns",
       "relation_type": "includes",
@@ -2609,8 +2402,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 78,
-      "target": 79,
+      "source": 77,
+      "target": 78,
       "source_label": "textiles",
       "target_label": "garments",
       "relation_type": "include",
@@ -2618,17 +2411,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 80,
-      "source_label": "diwali",
-      "target_label": "distinctive patterns",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 81,
-      "target": 82,
+      "source": 80,
+      "target": 81,
       "source_label": "jamdani",
       "target_label": "floral designs",
       "relation_type": "includes",
@@ -2636,8 +2420,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 81,
-      "target": 28,
+      "source": 80,
+      "target": 27,
       "source_label": "jamdani",
       "target_label": "algeria",
       "relation_type": "includes",
@@ -2645,17 +2429,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
+      "source": 27,
       "target": 83,
-      "source_label": "diwali",
-      "target_label": "embroidery and mirror work",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 28,
-      "target": 84,
       "source_label": "algeria",
       "target_label": "vertical and horizontal stripes",
       "relation_type": "include",
@@ -2663,8 +2438,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 78,
-      "target": 85,
+      "source": 77,
+      "target": 84,
       "source_label": "textiles",
       "target_label": "mats, ropes, fabrics",
       "relation_type": "include",
@@ -2672,8 +2447,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 86,
-      "target": 87,
+      "source": 85,
+      "target": 86,
       "source_label": "wool_varieties",
       "target_label": "harsil, belchi, merino",
       "relation_type": "include",
@@ -2681,8 +2456,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 88,
-      "target": 89,
+      "source": 87,
+      "target": 88,
       "source_label": "nicobari banners",
       "target_label": "trees, sun, crescent moon",
       "relation_type": "include",
@@ -2690,8 +2465,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 90,
-      "target": 91,
+      "source": 89,
+      "target": 90,
       "source_label": "fabric",
       "target_label": "poplin, satin, twill, chambray, oxford, corduroy, cambric",
       "relation_type": "include",
@@ -2699,17 +2474,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 92,
-      "source_label": "diwali",
-      "target_label": "dance",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 93,
-      "target": 94,
+      "source": 92,
+      "target": 93,
       "source_label": "united states",
       "target_label": "mising tribe",
       "relation_type": "includes",
@@ -2718,25 +2484,7 @@
     },
     {
       "source": 95,
-      "target": 1,
-      "source_label": "baishagu festival",
-      "target_label": "diwali",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 28,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "includes",
-      "weight": 4,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 96,
-      "target": 97,
+      "target": 96,
       "source_label": "traditional american dishes",
       "target_label": "food consumption",
       "relation_type": "included_in",
@@ -2744,8 +2492,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 98,
-      "target": 97,
+      "source": 97,
+      "target": 96,
       "source_label": "processed foods",
       "target_label": "food consumption",
       "relation_type": "included_in",
@@ -2753,8 +2501,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 97,
+      "source": 27,
+      "target": 96,
       "source_label": "algeria",
       "target_label": "food consumption",
       "relation_type": "included_in",
@@ -2762,8 +2510,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 99,
-      "target": 100,
+      "source": 98,
+      "target": 99,
       "source_label": "spain and united states",
       "target_label": "child and dog-friendly culture",
       "relation_type": "include",
@@ -2771,8 +2519,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 43,
-      "target": 101,
+      "source": 42,
+      "target": 100,
       "source_label": "breakfast",
       "target_label": "large meals",
       "relation_type": "includes",
@@ -2780,8 +2528,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 43,
-      "target": 102,
+      "source": 42,
+      "target": 101,
       "source_label": "breakfast",
       "target_label": "coffee",
       "relation_type": "includes",
@@ -2789,8 +2537,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 103,
-      "target": 104,
+      "source": 102,
+      "target": 103,
       "source_label": "online communication",
       "target_label": "various forms",
       "relation_type": "includes",
@@ -2799,16 +2547,7 @@
     },
     {
       "source": 105,
-      "target": 1,
-      "source_label": "living experiences",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 106,
-      "target": 107,
+      "target": 106,
       "source_label": "terms for chickpeas",
       "target_label": "'chickpeas' or 'garbanzo beans'",
       "relation_type": "include",
@@ -2816,8 +2555,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 108,
+      "source": 27,
+      "target": 107,
       "source_label": "algeria",
       "target_label": "traditional and modern",
       "relation_type": "include",
@@ -2825,17 +2564,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
+      "source": 27,
       "target": 109,
-      "source_label": "diwali",
-      "target_label": "lemon or lemon flavoring",
-      "relation_type": "often_includes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 28,
-      "target": 110,
       "source_label": "algeria",
       "target_label": "various social and entertainment",
       "relation_type": "include",
@@ -2843,8 +2573,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 111,
-      "target": 112,
+      "source": 110,
+      "target": 111,
       "source_label": "reasons",
       "target_label": "personal or professional",
       "relation_type": "include",
@@ -2852,44 +2582,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 113,
-      "source_label": "diwali",
-      "target_label": "instant transfers",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 114,
-      "source_label": "diwali",
-      "target_label": "digital transfers",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 115,
-      "source_label": "diwali",
-      "target_label": "external transfers",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 116,
-      "target": 1,
-      "source_label": "behavior",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 117,
-      "target": 118,
+      "target": 117,
       "source_label": "activities",
       "target_label": "dressing up",
       "relation_type": "include",
@@ -2897,8 +2591,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 117,
-      "target": 119,
+      "source": 116,
+      "target": 118,
       "source_label": "activities",
       "target_label": "carving pumpkins",
       "relation_type": "include",
@@ -2906,8 +2600,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 117,
-      "target": 120,
+      "source": 116,
+      "target": 119,
       "source_label": "activities",
       "target_label": "giving out candy",
       "relation_type": "include",
@@ -2915,8 +2609,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 121,
-      "target": 122,
+      "source": 120,
+      "target": 121,
       "source_label": "beauty",
       "target_label": "landscapes and wonders",
       "relation_type": "include",
@@ -2924,26 +2618,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 123,
-      "target": 1,
-      "source_label": "emergency situations",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 124,
-      "target": 1,
-      "source_label": "french food culture",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 28,
-      "target": 125,
+      "source": 27,
+      "target": 124,
       "source_label": "algeria",
       "target_label": "revisiting classes",
       "relation_type": "include",
@@ -2951,8 +2627,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 126,
-      "target": 127,
+      "source": 125,
+      "target": 126,
       "source_label": "social interactions",
       "target_label": "eye contact",
       "relation_type": "include",
@@ -2960,8 +2636,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 128,
-      "target": 129,
+      "source": 127,
+      "target": 128,
       "source_label": "sleep schedule",
       "target_label": "going to bed early",
       "relation_type": "includes",
@@ -2969,8 +2645,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 130,
-      "target": 131,
+      "source": 129,
+      "target": 130,
       "source_label": "american lifestyle",
       "target_label": "common practices",
       "relation_type": "include",
@@ -2978,8 +2654,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 132,
+      "source": 27,
+      "target": 131,
       "source_label": "algeria",
       "target_label": "dressing casually",
       "relation_type": "include",
@@ -2987,8 +2663,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 133,
+      "source": 27,
+      "target": 132,
       "source_label": "algeria",
       "target_label": "wearing less clothing",
       "relation_type": "include",
@@ -2996,8 +2672,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 134,
+      "source": 27,
+      "target": 133,
       "source_label": "algeria",
       "target_label": "grocery stores and homes",
       "relation_type": "include",
@@ -3005,17 +2681,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 135,
-      "source_label": "diwali",
-      "target_label": "jokes and laughter",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 136,
-      "target": 137,
+      "source": 135,
+      "target": 136,
       "source_label": "discipline",
       "target_label": "spanking",
       "relation_type": "include",
@@ -3023,8 +2690,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 136,
-      "target": 138,
+      "source": 135,
+      "target": 137,
       "source_label": "discipline",
       "target_label": "setting consequences",
       "relation_type": "include",
@@ -3032,8 +2699,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 139,
-      "target": 140,
+      "source": 138,
+      "target": 139,
       "source_label": "nightlife activities",
       "target_label": "clubbing",
       "relation_type": "include",
@@ -3041,35 +2708,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 30,
-      "target": 1,
-      "source_label": "gifts",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 141,
-      "source_label": "diwali",
-      "target_label": "hyphenated last names",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
+      "source": 27,
       "target": 142,
-      "source_label": "diwali",
-      "target_label": "both parents' names for the child",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 28,
-      "target": 143,
       "source_label": "algeria",
       "target_label": "geography",
       "relation_type": "includes",
@@ -3077,8 +2717,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 144,
+      "source": 27,
+      "target": 143,
       "source_label": "algeria",
       "target_label": "work ethic",
       "relation_type": "includes",
@@ -3086,17 +2726,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 117,
-      "target": 1,
-      "source_label": "activities",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 59,
-      "target": 145,
+      "source": 58,
+      "target": 144,
       "source_label": "burgers",
       "target_label": "homemade options",
       "relation_type": "include",
@@ -3104,8 +2735,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 126,
-      "target": 146,
+      "source": 125,
+      "target": 145,
       "source_label": "social interactions",
       "target_label": "honesty",
       "relation_type": "include",
@@ -3113,8 +2744,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 10,
-      "target": 147,
+      "source": 9,
+      "target": 146,
       "source_label": "wedding celebrations",
       "target_label": "solemnity",
       "relation_type": "include",
@@ -3122,8 +2753,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 37,
-      "target": 148,
+      "source": 36,
+      "target": 147,
       "source_label": "morning",
       "target_label": "taking naps",
       "relation_type": "include",
@@ -3131,8 +2762,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 117,
-      "target": 149,
+      "source": 116,
+      "target": 148,
       "source_label": "activities",
       "target_label": "living, slowing down",
       "relation_type": "include",
@@ -3140,8 +2771,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 150,
-      "target": 151,
+      "source": 149,
+      "target": 150,
       "source_label": "communication",
       "target_label": "asking questions",
       "relation_type": "includes",
@@ -3149,8 +2780,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 150,
-      "target": 152,
+      "source": 149,
+      "target": 151,
       "source_label": "communication",
       "target_label": "expressing opinions",
       "relation_type": "includes",
@@ -3158,8 +2789,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 153,
+      "source": 27,
+      "target": 152,
       "source_label": "algeria",
       "target_label": "apples with peanut butter, cheese or yogurt",
       "relation_type": "include",
@@ -3167,35 +2798,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 154,
-      "source_label": "diwali",
-      "target_label": "casual dating",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 155,
-      "source_label": "diwali",
-      "target_label": "long-term relationships",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
+      "source": 27,
       "target": 156,
-      "source_label": "diwali",
-      "target_label": "frustration, sadness",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 28,
-      "target": 157,
       "source_label": "algeria",
       "target_label": "confusion, preparation, comparison",
       "relation_type": "include",
@@ -3203,8 +2807,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 158,
+      "source": 27,
+      "target": 157,
       "source_label": "algeria",
       "target_label": "mall",
       "relation_type": "include",
@@ -3212,17 +2816,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 1,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 28,
-      "target": 159,
+      "source": 27,
+      "target": 158,
       "source_label": "algeria",
       "target_label": "grocery store",
       "relation_type": "include",
@@ -3230,8 +2825,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 150,
-      "target": 160,
+      "source": 149,
+      "target": 159,
       "source_label": "communication",
       "target_label": "handshakes, hugs, phrases",
       "relation_type": "includes",
@@ -3239,8 +2834,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 161,
+      "source": 27,
+      "target": 160,
       "source_label": "algeria",
       "target_label": "work environment",
       "relation_type": "include",
@@ -3248,53 +2843,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 74,
-      "source_label": "diwali",
-      "target_label": "flowers",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 162,
-      "source_label": "diwali",
-      "target_label": "gift cards",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 163,
-      "target": 1,
-      "source_label": "meals",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 164,
-      "source_label": "diwali",
-      "target_label": "hot sauce",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
+      "source": 27,
       "target": 165,
-      "source_label": "diwali",
-      "target_label": "clarified butter",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 28,
-      "target": 166,
       "source_label": "algeria",
       "target_label": "school, workplace, and public spaces",
       "relation_type": "include",
@@ -3302,8 +2852,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 167,
+      "source": 27,
+      "target": 166,
       "source_label": "algeria",
       "target_label": "insurance and preschool expenses",
       "relation_type": "includes",
@@ -3311,8 +2861,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 168,
-      "target": 169,
+      "source": 167,
+      "target": 168,
       "source_label": "news broadcasting",
       "target_label": "entertainment",
       "relation_type": "include",
@@ -3320,8 +2870,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 170,
-      "target": 171,
+      "source": 169,
+      "target": 170,
       "source_label": "school cafeteria",
       "target_label": "local dishes",
       "relation_type": "includes",
@@ -3329,8 +2879,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 172,
-      "target": 173,
+      "source": 171,
+      "target": 172,
       "source_label": "algerian tradition",
       "target_label": "singing and dancing",
       "relation_type": "includes",
@@ -3338,17 +2888,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 174,
-      "source_label": "diwali",
-      "target_label": "homework, family gatherings",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 175,
-      "target": 176,
+      "source": 174,
+      "target": 175,
       "source_label": "university entrance exam",
       "target_label": "required subjects",
       "relation_type": "includes",
@@ -3356,26 +2897,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 37,
-      "target": 1,
-      "source_label": "morning",
-      "target_label": "diwali",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 1,
-      "target": 177,
-      "source_label": "diwali",
-      "target_label": "bourekas, shakshuka",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 178,
-      "target": 179,
+      "source": 177,
+      "target": 178,
       "source_label": "workday structure",
       "target_label": "lunch break",
       "relation_type": "includes",
@@ -3383,8 +2906,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 180,
-      "target": 28,
+      "source": 179,
+      "target": 27,
       "source_label": "picnic",
       "target_label": "algeria",
       "relation_type": "includes",
@@ -3392,8 +2915,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 10,
-      "target": 181,
+      "source": 9,
+      "target": 180,
       "source_label": "wedding celebrations",
       "target_label": "sharing gifts",
       "relation_type": "includes",
@@ -3401,17 +2924,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
+      "source": 27,
       "target": 182,
-      "source_label": "diwali",
-      "target_label": "couscous",
-      "relation_type": "often_includes",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 28,
-      "target": 183,
       "source_label": "algeria",
       "target_label": "staple dishes",
       "relation_type": "includes",
@@ -3419,8 +2933,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 184,
-      "target": 37,
+      "source": 183,
+      "target": 36,
       "source_label": "condolence offering",
       "target_label": "morning",
       "relation_type": "includes",
@@ -3428,26 +2942,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 182,
-      "source_label": "diwali",
-      "target_label": "couscous",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 1,
-      "target": 28,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 28,
-      "target": 185,
+      "source": 27,
+      "target": 184,
       "source_label": "algeria",
       "target_label": "eid al-fitr",
       "relation_type": "include",
@@ -3455,8 +2951,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 10,
-      "target": 186,
+      "source": 9,
+      "target": 185,
       "source_label": "wedding celebrations",
       "target_label": "feasting, dancing",
       "relation_type": "include",
@@ -3464,8 +2960,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 187,
-      "target": 188,
+      "source": 186,
+      "target": 187,
       "source_label": "festival_accessories",
       "target_label": "clothing_items",
       "relation_type": "include",
@@ -3473,35 +2969,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 189,
-      "source_label": "diwali",
-      "target_label": "beer, arak",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 1,
-      "target": 190,
-      "source_label": "diwali",
-      "target_label": "local drinks",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 191,
-      "target": 1,
-      "source_label": "food type",
-      "target_label": "diwali",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 192,
-      "target": 193,
+      "target": 192,
       "source_label": "soups",
       "target_label": "chickpeas, lentils, vegetables",
       "relation_type": "include",
@@ -3509,17 +2978,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 194,
-      "source_label": "diwali",
-      "target_label": "temples, churches",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 195,
-      "target": 196,
+      "source": 194,
+      "target": 195,
       "source_label": "typical gifts",
       "target_label": "handmade items",
       "relation_type": "include",
@@ -3527,26 +2987,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 197,
-      "source_label": "diwali",
-      "target_label": "flags, whistles, horns",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 1,
-      "target": 198,
-      "source_label": "diwali",
-      "target_label": "classics like 'the women of algiers'",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 199,
-      "target": 200,
+      "source": 198,
+      "target": 199,
       "source_label": "traditional algerian desserts",
       "target_label": "pastila, couscous with honey",
       "relation_type": "include",
@@ -3554,8 +2996,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 201,
-      "target": 202,
+      "source": 200,
+      "target": 201,
       "source_label": "international events",
       "target_label": "fifa world cup",
       "relation_type": "include",
@@ -3563,8 +3005,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 203,
-      "target": 204,
+      "source": 202,
+      "target": 203,
       "source_label": "team-building activities",
       "target_label": "group exercises",
       "relation_type": "include",
@@ -3572,26 +3014,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 205,
-      "source_label": "diwali",
-      "target_label": "selling_crafts",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 1,
+      "source": 29,
       "target": 206,
-      "source_label": "diwali",
-      "target_label": "doing_housework_for_others",
-      "relation_type": "include",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 30,
-      "target": 207,
       "source_label": "gifts",
       "target_label": "items",
       "relation_type": "include",
@@ -3599,8 +3023,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 208,
-      "target": 209,
+      "source": 207,
+      "target": 208,
       "source_label": "common activities",
       "target_label": "park visits",
       "relation_type": "include",
@@ -3608,8 +3032,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 210,
-      "target": 28,
+      "source": 209,
+      "target": 27,
       "source_label": "common sports",
       "target_label": "algeria",
       "relation_type": "include",
@@ -3617,8 +3041,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 28,
-      "target": 211,
+      "source": 27,
+      "target": 210,
       "source_label": "algeria",
       "target_label": "headscarves, long sleeves",
       "relation_type": "include",
@@ -3626,8 +3050,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 28,
-      "target": 212,
+      "source": 27,
+      "target": 211,
       "source_label": "algeria",
       "target_label": "special clothing",
       "relation_type": "includes",
@@ -3635,17 +3059,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
+      "source": 27,
       "target": 213,
-      "source_label": "diwali",
-      "target_label": "meat dishes",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 28,
-      "target": 214,
       "source_label": "algeria",
       "target_label": "fish, seafood, grilled meat",
       "relation_type": "includes",
@@ -3653,8 +3068,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 215,
-      "target": 216,
+      "source": 214,
+      "target": 215,
       "source_label": "daily exercise",
       "target_label": "physical activities",
       "relation_type": "includes",
@@ -3662,8 +3077,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 217,
-      "target": 218,
+      "source": 216,
+      "target": 217,
       "source_label": "daily meals",
       "target_label": "breakfast, lunch, dinner",
       "relation_type": "include",
@@ -3671,8 +3086,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 219,
-      "target": 220,
+      "source": 218,
+      "target": 219,
       "source_label": "education system",
       "target_label": "religious studies",
       "relation_type": "include",
@@ -3680,26 +3095,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 221,
-      "source_label": "diwali",
-      "target_label": "judge",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 1,
-      "target": 222,
-      "source_label": "diwali",
-      "target_label": "engaging interest",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 223,
-      "target": 224,
+      "source": 222,
+      "target": 223,
       "source_label": "instruction",
       "target_label": "lighting candle",
       "relation_type": "includes",
@@ -3707,37 +3104,10 @@
       "source_dataset": "candle"
     },
     {
-      "source": 1,
-      "target": 225,
-      "source_label": "diwali",
-      "target_label": "foot inspection",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 1,
+      "source": 225,
       "target": 226,
-      "source_label": "diwali",
-      "target_label": "candle",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 227,
-      "target": 228,
       "source_label": "routine appointment",
       "target_label": "check for bruxism",
-      "relation_type": "includes",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 1,
-      "target": 229,
-      "source_label": "diwali",
-      "target_label": "blood pressure check",
       "relation_type": "includes",
       "weight": 1,
       "source_dataset": "candle"

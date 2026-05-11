@@ -17,7 +17,7 @@
     {
       "id": 1,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -53,7 +53,7 @@
     {
       "id": 5,
       "label": "professionalism",
-      "level": 1,
+      "level": 5,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -70,15 +70,6 @@
     },
     {
       "id": 7,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 136
-    },
-    {
-      "id": 8,
       "label": "cleaning services",
       "level": 3,
       "cultural_group": "algeria",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "emotions during farewell",
       "level": 3,
       "cultural_group": "algeria",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "song",
       "level": 3,
       "cultural_group": "algeria",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "affecting and beautiful nature",
       "level": 3,
       "cultural_group": "algeria",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "preservation of traditional music",
       "level": 3,
       "cultural_group": "algeria",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "local algerian dances",
       "level": 3,
       "cultural_group": "algeria",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "dance",
       "level": 1,
       "cultural_group": "algeria",
@@ -141,7 +132,7 @@
       "frequency": 6
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "men only",
       "level": 3,
       "cultural_group": "algeria",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "justice",
       "level": 3,
       "cultural_group": "algeria",
@@ -159,16 +150,16 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "proverb",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 7
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "wisdom about life experiences",
       "level": 3,
       "cultural_group": "algeria",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "life experience and travel",
       "level": 3,
       "cultural_group": "algeria",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "algerian society",
       "level": 1,
       "cultural_group": "algeria",
@@ -195,7 +186,7 @@
       "frequency": 19
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "strong bonds of brotherhood",
       "level": 3,
       "cultural_group": "algeria",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "brothers and sisters",
       "level": 3,
       "cultural_group": "algeria",
@@ -213,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "family ties, tradition",
       "level": 3,
       "cultural_group": "algeria",
@@ -222,16 +213,16 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "devotion",
-      "level": 1,
+      "level": 3,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 8
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "national pride",
       "level": 3,
       "cultural_group": "algeria",
@@ -240,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "friendship among children",
       "level": 3,
       "cultural_group": "algeria",
@@ -249,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "respect for etiquette",
       "level": 3,
       "cultural_group": "algeria",
@@ -258,25 +249,25 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "respect for elders",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 4
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "greeting",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 3
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "peace and well-being",
       "level": 3,
       "cultural_group": "algeria",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "gifts",
       "level": 1,
       "cultural_group": "algeria",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "friendship value",
       "level": 3,
       "cultural_group": "algeria",
@@ -303,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "thoughtful gift selection",
       "level": 3,
       "cultural_group": "algeria",
@@ -312,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "simple cleanliness practice",
       "level": 3,
       "cultural_group": "algeria",
@@ -321,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "ritual",
       "level": 1,
       "cultural_group": "algeria",
@@ -330,7 +321,7 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "emotions of grief and respect",
       "level": 3,
       "cultural_group": "algeria",
@@ -339,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "amal (proverbs)",
       "level": 3,
       "cultural_group": "algeria",
@@ -348,16 +339,16 @@
       "frequency": 1
     },
     {
-      "id": 38,
+      "id": 37,
       "label": "hospitality",
-      "level": 1,
+      "level": 3,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 2
     },
     {
-      "id": 39,
+      "id": 38,
       "label": "loss and acceptance",
       "level": 3,
       "cultural_group": "algeria",
@@ -366,7 +357,7 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 39,
       "label": "sensory experience",
       "level": 3,
       "cultural_group": "algeria",
@@ -375,16 +366,16 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 40,
       "label": "together",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 3
     },
     {
-      "id": 42,
+      "id": 41,
       "label": "action",
       "level": 3,
       "cultural_group": "egypt",
@@ -393,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 42,
       "label": "unity and equality",
       "level": 3,
       "cultural_group": "egypt",
@@ -402,7 +393,7 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 43,
       "label": "affection publicly",
       "level": 3,
       "cultural_group": "egypt",
@@ -411,7 +402,7 @@
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 44,
       "label": "religious belief",
       "level": 3,
       "cultural_group": "egypt",
@@ -420,7 +411,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 45,
       "label": "afterlife support",
       "level": 3,
       "cultural_group": "egypt",
@@ -429,16 +420,16 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 46,
       "label": "performance",
-      "level": 1,
+      "level": 3,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 48,
+      "id": 47,
       "label": "parents",
       "level": 1,
       "cultural_group": "egypt",
@@ -447,7 +438,7 @@
       "frequency": 1
     },
     {
-      "id": 49,
+      "id": 48,
       "label": "modesty of daughter",
       "level": 3,
       "cultural_group": "egypt",
@@ -456,7 +447,7 @@
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 49,
       "label": "caution",
       "level": 3,
       "cultural_group": "egypt",
@@ -465,16 +456,16 @@
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 50,
       "label": "brothers",
-      "level": 1,
+      "level": 3,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 51,
       "label": "closeness",
       "level": 3,
       "cultural_group": "egypt",
@@ -483,7 +474,7 @@
       "frequency": 1
     },
     {
-      "id": 53,
+      "id": 52,
       "label": "morality",
       "level": 3,
       "cultural_group": "egypt",
@@ -492,7 +483,7 @@
       "frequency": 1
     },
     {
-      "id": 54,
+      "id": 53,
       "label": "preparing home for marriage",
       "level": 3,
       "cultural_group": "egypt",
@@ -501,7 +492,7 @@
       "frequency": 1
     },
     {
-      "id": 55,
+      "id": 54,
       "label": "traditions in weddings",
       "level": 3,
       "cultural_group": "egypt",
@@ -510,16 +501,16 @@
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 55,
       "label": "independence day",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 2
     },
     {
-      "id": 57,
+      "id": 56,
       "label": "caring for oneself",
       "level": 3,
       "cultural_group": "egypt",
@@ -528,7 +519,7 @@
       "frequency": 1
     },
     {
-      "id": 58,
+      "id": 57,
       "label": "complex_designs",
       "level": 3,
       "cultural_group": "arunachal pradesh",
@@ -537,16 +528,16 @@
       "frequency": 1
     },
     {
-      "id": 59,
+      "id": 58,
       "label": "durability and warmth",
-      "level": 1,
+      "level": 4,
       "cultural_group": "haryana",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 3
     },
     {
-      "id": 60,
+      "id": 59,
       "label": "mizo culture",
       "level": 3,
       "cultural_group": "mizoram",
@@ -555,16 +546,16 @@
       "frequency": 1
     },
     {
-      "id": 61,
+      "id": 60,
       "label": "strength",
-      "level": 1,
+      "level": 4,
       "cultural_group": "mizoram",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 62,
+      "id": 61,
       "label": "symbols of valor and prosperity",
       "level": 3,
       "cultural_group": "nagaland",
@@ -573,16 +564,16 @@
       "frequency": 1
     },
     {
-      "id": 63,
+      "id": 62,
       "label": "berhampuri patta",
-      "level": 1,
+      "level": 3,
       "cultural_group": "odisha",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 64,
+      "id": 63,
       "label": "unique craftsmanship",
       "level": 3,
       "cultural_group": "odisha",
@@ -591,7 +582,7 @@
       "frequency": 1
     },
     {
-      "id": 65,
+      "id": 64,
       "label": "quality and comfort",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -600,7 +591,7 @@
       "frequency": 1
     },
     {
-      "id": 66,
+      "id": 65,
       "label": "kutchi embroidery",
       "level": 1,
       "cultural_group": "telangana",
@@ -609,7 +600,7 @@
       "frequency": 1
     },
     {
-      "id": 67,
+      "id": 66,
       "label": "cultural richness",
       "level": 3,
       "cultural_group": "telangana",
@@ -618,7 +609,7 @@
       "frequency": 1
     },
     {
-      "id": 68,
+      "id": 67,
       "label": "versatility",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -627,7 +618,7 @@
       "frequency": 1
     },
     {
-      "id": 69,
+      "id": 68,
       "label": "eco-conscious traditions",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -636,16 +627,16 @@
       "frequency": 1
     },
     {
-      "id": 70,
+      "id": 69,
       "label": "uttarakhand",
-      "level": 1,
+      "level": 3,
       "cultural_group": "uttarakhand",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 71,
+      "id": 70,
       "label": "khadi fabrics",
       "level": 3,
       "cultural_group": "puducherry",
@@ -654,7 +645,7 @@
       "frequency": 1
     },
     {
-      "id": 72,
+      "id": 71,
       "label": "texture and comfort",
       "level": 3,
       "cultural_group": "puducherry",
@@ -663,25 +654,25 @@
       "frequency": 1
     },
     {
-      "id": 73,
+      "id": 72,
       "label": "shiva priya",
-      "level": 1,
+      "level": 3,
       "cultural_group": "andhra pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 74,
+      "id": 73,
       "label": "chhau dance",
-      "level": 1,
+      "level": 2,
       "cultural_group": "arunachal pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 75,
+      "id": 74,
       "label": "ritualistic beliefs",
       "level": 3,
       "cultural_group": "arunachal pradesh",
@@ -690,16 +681,16 @@
       "frequency": 1
     },
     {
-      "id": 76,
+      "id": 75,
       "label": "apatani",
-      "level": 1,
+      "level": 4,
       "cultural_group": "arunachal pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 77,
+      "id": 76,
       "label": "emotions of joy",
       "level": 3,
       "cultural_group": "arunachal pradesh",
@@ -708,16 +699,16 @@
       "frequency": 1
     },
     {
-      "id": 78,
+      "id": 77,
       "label": "deori bihu dance",
-      "level": 1,
+      "level": 2,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 79,
+      "id": 78,
       "label": "vibrancy",
       "level": 3,
       "cultural_group": "assam",
@@ -726,7 +717,7 @@
       "frequency": 1
     },
     {
-      "id": 80,
+      "id": 79,
       "label": "unity and joy",
       "level": 3,
       "cultural_group": "assam",
@@ -735,9 +726,18 @@
       "frequency": 1
     },
     {
-      "id": 81,
+      "id": 80,
       "label": "ali ai ligang dance",
-      "level": 1,
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "rabha tribe",
+      "level": 3,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
@@ -745,15 +745,6 @@
     },
     {
       "id": 82,
-      "label": "rabha tribe",
-      "level": 1,
-      "cultural_group": "assam",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 1
-    },
-    {
-      "id": 83,
       "label": "emotions of love and valor",
       "level": 3,
       "cultural_group": "assam",
@@ -762,43 +753,43 @@
       "frequency": 1
     },
     {
-      "id": 84,
+      "id": 83,
       "label": "chomangkan dance",
-      "level": 1,
+      "level": 3,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 85,
+      "id": 84,
       "label": "cultural heritage",
-      "level": 1,
+      "level": 2,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 4
     },
     {
-      "id": 86,
+      "id": 85,
       "label": "jikir and jari",
-      "level": 1,
+      "level": 4,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 87,
+      "id": 86,
       "label": "jhumar",
-      "level": 1,
+      "level": 3,
       "cultural_group": "bihar",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 88,
+      "id": 87,
       "label": "longing_and_love",
       "level": 3,
       "cultural_group": "bihar",
@@ -807,7 +798,7 @@
       "frequency": 1
     },
     {
-      "id": 89,
+      "id": 88,
       "label": "joy_and_festivity",
       "level": 3,
       "cultural_group": "bihar",
@@ -816,7 +807,7 @@
       "frequency": 1
     },
     {
-      "id": 90,
+      "id": 89,
       "label": "agricultural prosperity",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -825,7 +816,7 @@
       "frequency": 1
     },
     {
-      "id": 91,
+      "id": 90,
       "label": "love and tragedy",
       "level": 3,
       "cultural_group": "goa",
@@ -834,7 +825,7 @@
       "frequency": 1
     },
     {
-      "id": 92,
+      "id": 91,
       "label": "early dinner times",
       "level": 3,
       "cultural_group": "general",
@@ -843,7 +834,7 @@
       "frequency": 1
     },
     {
-      "id": 93,
+      "id": 92,
       "label": "gun ownership",
       "level": 3,
       "cultural_group": "general",
@@ -852,7 +843,7 @@
       "frequency": 1
     },
     {
-      "id": 94,
+      "id": 93,
       "label": "normal practice",
       "level": 3,
       "cultural_group": "general",
@@ -861,7 +852,7 @@
       "frequency": 1
     },
     {
-      "id": 95,
+      "id": 94,
       "label": "fresh or high-quality bread",
       "level": 3,
       "cultural_group": "general",
@@ -870,16 +861,16 @@
       "frequency": 1
     },
     {
-      "id": 96,
+      "id": 95,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 13
     },
     {
-      "id": 97,
+      "id": 96,
       "label": "close parent-child bonds",
       "level": 3,
       "cultural_group": "general",
@@ -888,7 +879,7 @@
       "frequency": 1
     },
     {
-      "id": 98,
+      "id": 97,
       "label": "us citizens",
       "level": 1,
       "cultural_group": "general",
@@ -897,7 +888,7 @@
       "frequency": 2
     },
     {
-      "id": 99,
+      "id": 98,
       "label": "their country",
       "level": 3,
       "cultural_group": "general",
@@ -906,7 +897,7 @@
       "frequency": 1
     },
     {
-      "id": 100,
+      "id": 99,
       "label": "friendly public interactions",
       "level": 3,
       "cultural_group": "general",
@@ -915,7 +906,7 @@
       "frequency": 1
     },
     {
-      "id": 101,
+      "id": 100,
       "label": "risk management",
       "level": 3,
       "cultural_group": "general",
@@ -924,7 +915,7 @@
       "frequency": 1
     },
     {
-      "id": 102,
+      "id": 101,
       "label": "curiosity",
       "level": 3,
       "cultural_group": "general",
@@ -933,7 +924,7 @@
       "frequency": 1
     },
     {
-      "id": 103,
+      "id": 102,
       "label": "trendiness and comfort",
       "level": 3,
       "cultural_group": "general",
@@ -942,7 +933,7 @@
       "frequency": 1
     },
     {
-      "id": 104,
+      "id": 103,
       "label": "thinness",
       "level": 3,
       "cultural_group": "general",
@@ -951,7 +942,7 @@
       "frequency": 1
     },
     {
-      "id": 105,
+      "id": 104,
       "label": "committed relationships",
       "level": 3,
       "cultural_group": "general",
@@ -960,25 +951,25 @@
       "frequency": 1
     },
     {
-      "id": 106,
+      "id": 105,
       "label": "sandwiches",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 107,
+      "id": 106,
       "label": "freedom",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 3
     },
     {
-      "id": 108,
+      "id": 107,
       "label": "financial independence",
       "level": 3,
       "cultural_group": "general",
@@ -987,7 +978,7 @@
       "frequency": 1
     },
     {
-      "id": 109,
+      "id": 108,
       "label": "americans",
       "level": 1,
       "cultural_group": "general",
@@ -996,7 +987,7 @@
       "frequency": 3
     },
     {
-      "id": 110,
+      "id": 109,
       "label": "strong work ethic",
       "level": 3,
       "cultural_group": "general",
@@ -1005,7 +996,7 @@
       "frequency": 1
     },
     {
-      "id": 111,
+      "id": 110,
       "label": "consumers",
       "level": 1,
       "cultural_group": "general",
@@ -1014,7 +1005,7 @@
       "frequency": 5
     },
     {
-      "id": 112,
+      "id": 111,
       "label": "specific wine types",
       "level": 3,
       "cultural_group": "general",
@@ -1023,7 +1014,7 @@
       "frequency": 1
     },
     {
-      "id": 113,
+      "id": 112,
       "label": "education system",
       "level": 1,
       "cultural_group": "general",
@@ -1032,7 +1023,7 @@
       "frequency": 4
     },
     {
-      "id": 114,
+      "id": 113,
       "label": "diversity in school activities",
       "level": 3,
       "cultural_group": "general",
@@ -1041,16 +1032,16 @@
       "frequency": 1
     },
     {
-      "id": 115,
+      "id": 114,
       "label": "prices",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 116,
+      "id": 115,
       "label": "barefoot",
       "level": 3,
       "cultural_group": "general",
@@ -1059,7 +1050,7 @@
       "frequency": 1
     },
     {
-      "id": 117,
+      "id": 116,
       "label": "over appearance",
       "level": 3,
       "cultural_group": "general",
@@ -1068,7 +1059,7 @@
       "frequency": 1
     },
     {
-      "id": 118,
+      "id": 117,
       "label": "individual choice",
       "level": 3,
       "cultural_group": "general",
@@ -1077,16 +1068,16 @@
       "frequency": 1
     },
     {
-      "id": 119,
+      "id": 118,
       "label": "partners",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 3
     },
     {
-      "id": 120,
+      "id": 119,
       "label": "to enjoy food",
       "level": 3,
       "cultural_group": "general",
@@ -1095,7 +1086,7 @@
       "frequency": 1
     },
     {
-      "id": 121,
+      "id": 120,
       "label": "fulfilling career",
       "level": 3,
       "cultural_group": "general",
@@ -1104,7 +1095,7 @@
       "frequency": 1
     },
     {
-      "id": 122,
+      "id": 121,
       "label": "enthusiasm during celebrations",
       "level": 3,
       "cultural_group": "general",
@@ -1113,7 +1104,7 @@
       "frequency": 1
     },
     {
-      "id": 123,
+      "id": 122,
       "label": "shock",
       "level": 3,
       "cultural_group": "general",
@@ -1122,7 +1113,7 @@
       "frequency": 1
     },
     {
-      "id": 124,
+      "id": 123,
       "label": "opportunities",
       "level": 3,
       "cultural_group": "general",
@@ -1131,7 +1122,7 @@
       "frequency": 1
     },
     {
-      "id": 125,
+      "id": 124,
       "label": "individual parenthood",
       "level": 3,
       "cultural_group": "general",
@@ -1140,7 +1131,7 @@
       "frequency": 1
     },
     {
-      "id": 126,
+      "id": 125,
       "label": "love and gratitude",
       "level": 3,
       "cultural_group": "general",
@@ -1149,7 +1140,7 @@
       "frequency": 1
     },
     {
-      "id": 127,
+      "id": 126,
       "label": "shock or surprise",
       "level": 3,
       "cultural_group": "general",
@@ -1158,7 +1149,7 @@
       "frequency": 1
     },
     {
-      "id": 128,
+      "id": 127,
       "label": "access to affordable and adequate healthcare",
       "level": 3,
       "cultural_group": "general",
@@ -1167,7 +1158,7 @@
       "frequency": 1
     },
     {
-      "id": 129,
+      "id": 128,
       "label": "empathy",
       "level": 3,
       "cultural_group": "general",
@@ -1176,7 +1167,7 @@
       "frequency": 1
     },
     {
-      "id": 130,
+      "id": 129,
       "label": "shock at different shopping hours",
       "level": 3,
       "cultural_group": "general",
@@ -1185,16 +1176,16 @@
       "frequency": 1
     },
     {
-      "id": 131,
+      "id": 130,
       "label": "audience",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 132,
+      "id": 131,
       "label": "freedom of expression",
       "level": 3,
       "cultural_group": "general",
@@ -1203,7 +1194,7 @@
       "frequency": 1
     },
     {
-      "id": 133,
+      "id": 132,
       "label": "german culture",
       "level": 3,
       "cultural_group": "general",
@@ -1212,7 +1203,7 @@
       "frequency": 1
     },
     {
-      "id": 134,
+      "id": 133,
       "label": "specific products",
       "level": 3,
       "cultural_group": "general",
@@ -1221,7 +1212,7 @@
       "frequency": 1
     },
     {
-      "id": 135,
+      "id": 134,
       "label": "employees",
       "level": 1,
       "cultural_group": "general",
@@ -1230,7 +1221,7 @@
       "frequency": 1
     },
     {
-      "id": 136,
+      "id": 135,
       "label": "comfort and professionalism",
       "level": 3,
       "cultural_group": "general",
@@ -1239,16 +1230,16 @@
       "frequency": 1
     },
     {
-      "id": 137,
+      "id": 136,
       "label": "weather",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 138,
+      "id": 137,
       "label": "german immigrants",
       "level": 3,
       "cultural_group": "general",
@@ -1257,7 +1248,7 @@
       "frequency": 1
     },
     {
-      "id": 139,
+      "id": 138,
       "label": "us-born individuals",
       "level": 3,
       "cultural_group": "general",
@@ -1266,7 +1257,7 @@
       "frequency": 1
     },
     {
-      "id": 140,
+      "id": 139,
       "label": "diversity in food preparation",
       "level": 3,
       "cultural_group": "general",
@@ -1275,7 +1266,7 @@
       "frequency": 1
     },
     {
-      "id": 141,
+      "id": 140,
       "label": "seeking answers",
       "level": 3,
       "cultural_group": "general",
@@ -1284,7 +1275,7 @@
       "frequency": 1
     },
     {
-      "id": 142,
+      "id": 141,
       "label": "target's offerings",
       "level": 3,
       "cultural_group": "general",
@@ -1293,7 +1284,7 @@
       "frequency": 1
     },
     {
-      "id": 143,
+      "id": 142,
       "label": "punctuality",
       "level": 3,
       "cultural_group": "general",
@@ -1302,7 +1293,7 @@
       "frequency": 1
     },
     {
-      "id": 144,
+      "id": 143,
       "label": "time management",
       "level": 3,
       "cultural_group": "general",
@@ -1311,7 +1302,7 @@
       "frequency": 1
     },
     {
-      "id": 145,
+      "id": 144,
       "label": "respect for others' time",
       "level": 3,
       "cultural_group": "general",
@@ -1320,7 +1311,7 @@
       "frequency": 1
     },
     {
-      "id": 146,
+      "id": 145,
       "label": "formal and informal",
       "level": 3,
       "cultural_group": "general",
@@ -1329,7 +1320,7 @@
       "frequency": 1
     },
     {
-      "id": 147,
+      "id": 146,
       "label": "respect or affection",
       "level": 3,
       "cultural_group": "general",
@@ -1338,7 +1329,7 @@
       "frequency": 1
     },
     {
-      "id": 148,
+      "id": 147,
       "label": "fear-based parenting",
       "level": 3,
       "cultural_group": "general",
@@ -1347,7 +1338,7 @@
       "frequency": 1
     },
     {
-      "id": 149,
+      "id": 148,
       "label": "concern for kidnapping",
       "level": 3,
       "cultural_group": "general",
@@ -1356,16 +1347,16 @@
       "frequency": 1
     },
     {
-      "id": 150,
+      "id": 149,
       "label": "behavior",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 151,
+      "id": 150,
       "label": "quietness",
       "level": 3,
       "cultural_group": "general",
@@ -1374,7 +1365,7 @@
       "frequency": 1
     },
     {
-      "id": 152,
+      "id": 151,
       "label": "to servers",
       "level": 3,
       "cultural_group": "general",
@@ -1383,7 +1374,7 @@
       "frequency": 1
     },
     {
-      "id": 153,
+      "id": 152,
       "label": "barcelona residents",
       "level": 3,
       "cultural_group": "general",
@@ -1392,7 +1383,7 @@
       "frequency": 1
     },
     {
-      "id": 154,
+      "id": 153,
       "label": "surprise and frustration",
       "level": 3,
       "cultural_group": "general",
@@ -1401,7 +1392,7 @@
       "frequency": 1
     },
     {
-      "id": 155,
+      "id": 154,
       "label": "oreo lovers",
       "level": 3,
       "cultural_group": "general",
@@ -1410,7 +1401,7 @@
       "frequency": 1
     },
     {
-      "id": 156,
+      "id": 155,
       "label": "deep-fried oreos",
       "level": 3,
       "cultural_group": "general",
@@ -1419,7 +1410,7 @@
       "frequency": 1
     },
     {
-      "id": 157,
+      "id": 156,
       "label": "physical fitness",
       "level": 3,
       "cultural_group": "dz",
@@ -1428,7 +1419,7 @@
       "frequency": 1
     },
     {
-      "id": 158,
+      "id": 157,
       "label": "students in algeria",
       "level": 3,
       "cultural_group": "dz",
@@ -1437,7 +1428,7 @@
       "frequency": 1
     },
     {
-      "id": 159,
+      "id": 158,
       "label": "nutritious morning start",
       "level": 3,
       "cultural_group": "dz",
@@ -1446,7 +1437,7 @@
       "frequency": 1
     },
     {
-      "id": 160,
+      "id": 159,
       "label": "extended family",
       "level": 3,
       "cultural_group": "dz",
@@ -1455,7 +1446,7 @@
       "frequency": 1
     },
     {
-      "id": 161,
+      "id": 160,
       "label": "togetherness and relaxation",
       "level": 3,
       "cultural_group": "dz",
@@ -1464,7 +1455,7 @@
       "frequency": 1
     },
     {
-      "id": 162,
+      "id": 161,
       "label": "teamwork and sportsmanship",
       "level": 3,
       "cultural_group": "dz",
@@ -1473,7 +1464,7 @@
       "frequency": 1
     },
     {
-      "id": 163,
+      "id": 162,
       "label": "small family size",
       "level": 3,
       "cultural_group": "dz",
@@ -1482,7 +1473,7 @@
       "frequency": 1
     },
     {
-      "id": 164,
+      "id": 163,
       "label": "family autonomy",
       "level": 3,
       "cultural_group": "dz",
@@ -1491,7 +1482,7 @@
       "frequency": 1
     },
     {
-      "id": 165,
+      "id": 164,
       "label": "grand birthday celebrations",
       "level": 3,
       "cultural_group": "dz",
@@ -1500,7 +1491,7 @@
       "frequency": 1
     },
     {
-      "id": 166,
+      "id": 165,
       "label": "respect for certain professions",
       "level": 3,
       "cultural_group": "dz",
@@ -1509,7 +1500,7 @@
       "frequency": 1
     },
     {
-      "id": 167,
+      "id": 166,
       "label": "education progression",
       "level": 3,
       "cultural_group": "dz",
@@ -1518,7 +1509,7 @@
       "frequency": 1
     },
     {
-      "id": 168,
+      "id": 167,
       "label": "welcoming new life",
       "level": 3,
       "cultural_group": "dz",
@@ -1527,7 +1518,7 @@
       "frequency": 1
     },
     {
-      "id": 169,
+      "id": 168,
       "label": "team spirit, physical fitness",
       "level": 3,
       "cultural_group": "dz",
@@ -1536,7 +1527,7 @@
       "frequency": 1
     },
     {
-      "id": 170,
+      "id": 169,
       "label": "team spirit and community bonding",
       "level": 3,
       "cultural_group": "dz",
@@ -1545,16 +1536,16 @@
       "frequency": 1
     },
     {
-      "id": 171,
+      "id": 170,
       "label": "for deceased",
-      "level": 1,
+      "level": 4,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 172,
+      "id": 171,
       "label": "funeral guests",
       "level": 3,
       "cultural_group": "dz",
@@ -1563,7 +1554,7 @@
       "frequency": 1
     },
     {
-      "id": 173,
+      "id": 172,
       "label": "sympathy and respect",
       "level": 3,
       "cultural_group": "dz",
@@ -1572,7 +1563,7 @@
       "frequency": 1
     },
     {
-      "id": 174,
+      "id": 173,
       "label": "hospitality through food",
       "level": 3,
       "cultural_group": "dz",
@@ -1581,7 +1572,7 @@
       "frequency": 1
     },
     {
-      "id": 175,
+      "id": 174,
       "label": "family unity and tradition",
       "level": 3,
       "cultural_group": "dz",
@@ -1590,7 +1581,7 @@
       "frequency": 1
     },
     {
-      "id": 176,
+      "id": 175,
       "label": "family honor",
       "level": 3,
       "cultural_group": "dz",
@@ -1599,7 +1590,7 @@
       "frequency": 1
     },
     {
-      "id": 177,
+      "id": 176,
       "label": "cultural_preservation",
       "level": 3,
       "cultural_group": "dz",
@@ -1608,7 +1599,7 @@
       "frequency": 1
     },
     {
-      "id": 178,
+      "id": 177,
       "label": "algerian workplace culture",
       "level": 3,
       "cultural_group": "dz",
@@ -1617,7 +1608,7 @@
       "frequency": 1
     },
     {
-      "id": 179,
+      "id": 178,
       "label": "formal contract",
       "level": 3,
       "cultural_group": "dz",
@@ -1626,7 +1617,7 @@
       "frequency": 1
     },
     {
-      "id": 180,
+      "id": 179,
       "label": "visits",
       "level": 3,
       "cultural_group": "dz",
@@ -1635,7 +1626,7 @@
       "frequency": 1
     },
     {
-      "id": 181,
+      "id": 180,
       "label": "faith and devotion",
       "level": 3,
       "cultural_group": "dz",
@@ -1644,7 +1635,7 @@
       "frequency": 1
     },
     {
-      "id": 182,
+      "id": 181,
       "label": "evening ceremonies",
       "level": 3,
       "cultural_group": "dz",
@@ -1653,7 +1644,7 @@
       "frequency": 1
     },
     {
-      "id": 183,
+      "id": 182,
       "label": "enthusiasm, support",
       "level": 3,
       "cultural_group": "dz",
@@ -1662,7 +1653,7 @@
       "frequency": 1
     },
     {
-      "id": 184,
+      "id": 183,
       "label": "religious tradition",
       "level": 3,
       "cultural_group": "dz",
@@ -1671,7 +1662,7 @@
       "frequency": 1
     },
     {
-      "id": 185,
+      "id": 184,
       "label": "community gathering",
       "level": 3,
       "cultural_group": "dz",
@@ -1680,7 +1671,7 @@
       "frequency": 1
     },
     {
-      "id": 186,
+      "id": 185,
       "label": "family bonding through media",
       "level": 3,
       "cultural_group": "dz",
@@ -1689,7 +1680,7 @@
       "frequency": 1
     },
     {
-      "id": 187,
+      "id": 186,
       "label": "maternal and child health",
       "level": 3,
       "cultural_group": "dz",
@@ -1698,7 +1689,7 @@
       "frequency": 1
     },
     {
-      "id": 188,
+      "id": 187,
       "label": "masculinity and strength",
       "level": 3,
       "cultural_group": "dz",
@@ -1707,7 +1698,7 @@
       "frequency": 1
     },
     {
-      "id": 189,
+      "id": 188,
       "label": "respect for tradition",
       "level": 3,
       "cultural_group": "dz",
@@ -1716,7 +1707,7 @@
       "frequency": 1
     },
     {
-      "id": 190,
+      "id": 189,
       "label": "education and employment balance",
       "level": 3,
       "cultural_group": "dz",
@@ -1725,7 +1716,7 @@
       "frequency": 1
     },
     {
-      "id": 191,
+      "id": 190,
       "label": "collectivism",
       "level": 3,
       "cultural_group": "dz",
@@ -1734,7 +1725,7 @@
       "frequency": 1
     },
     {
-      "id": 192,
+      "id": 191,
       "label": "financial_security",
       "level": 3,
       "cultural_group": "dz",
@@ -1743,7 +1734,7 @@
       "frequency": 1
     },
     {
-      "id": 193,
+      "id": 192,
       "label": "society in algeria",
       "level": 3,
       "cultural_group": "dz",
@@ -1752,7 +1743,7 @@
       "frequency": 1
     },
     {
-      "id": 194,
+      "id": 193,
       "label": "islamic traditions",
       "level": 3,
       "cultural_group": "dz",
@@ -1761,7 +1752,7 @@
       "frequency": 1
     },
     {
-      "id": 195,
+      "id": 194,
       "label": "nutritious diet during pregnancy",
       "level": 3,
       "cultural_group": "dz",
@@ -1770,7 +1761,7 @@
       "frequency": 1
     },
     {
-      "id": 196,
+      "id": 195,
       "label": "love or hate",
       "level": 3,
       "cultural_group": "dz",
@@ -1779,7 +1770,7 @@
       "frequency": 1
     },
     {
-      "id": 197,
+      "id": 196,
       "label": "islamic education",
       "level": 3,
       "cultural_group": "dz",
@@ -1788,7 +1779,7 @@
       "frequency": 1
     },
     {
-      "id": 198,
+      "id": 197,
       "label": "self_sacrifice",
       "level": 3,
       "cultural_group": "teacher",
@@ -1797,7 +1788,7 @@
       "frequency": 1
     },
     {
-      "id": 199,
+      "id": 198,
       "label": "respect for knowledge and authority",
       "level": 3,
       "cultural_group": "teacher",
@@ -1806,7 +1797,7 @@
       "frequency": 1
     },
     {
-      "id": 200,
+      "id": 199,
       "label": "great teachers",
       "level": 3,
       "cultural_group": "teacher",
@@ -1815,7 +1806,7 @@
       "frequency": 1
     },
     {
-      "id": 201,
+      "id": 200,
       "label": "thorough planning",
       "level": 3,
       "cultural_group": "teacher",
@@ -1824,7 +1815,7 @@
       "frequency": 1
     },
     {
-      "id": 202,
+      "id": 201,
       "label": "hand_independence",
       "level": 3,
       "cultural_group": "pianist",
@@ -1833,7 +1824,7 @@
       "frequency": 1
     },
     {
-      "id": 203,
+      "id": 202,
       "label": "investment",
       "level": 3,
       "cultural_group": "banker",
@@ -1842,7 +1833,7 @@
       "frequency": 1
     },
     {
-      "id": 204,
+      "id": 203,
       "label": "revisit",
       "level": 3,
       "cultural_group": "dentist",
@@ -1851,7 +1842,7 @@
       "frequency": 1
     },
     {
-      "id": 205,
+      "id": 204,
       "label": "deception",
       "level": 3,
       "cultural_group": "politician",
@@ -1860,7 +1851,7 @@
       "frequency": 1
     },
     {
-      "id": 206,
+      "id": 205,
       "label": "politician",
       "level": 1,
       "cultural_group": "politician",
@@ -1869,7 +1860,7 @@
       "frequency": 1
     },
     {
-      "id": 207,
+      "id": 206,
       "label": "success in politics",
       "level": 3,
       "cultural_group": "politician",
@@ -1878,7 +1869,7 @@
       "frequency": 1
     },
     {
-      "id": 208,
+      "id": 207,
       "label": "serious direct mail",
       "level": 3,
       "cultural_group": "copywriter",
@@ -1887,16 +1878,16 @@
       "frequency": 1
     },
     {
-      "id": 209,
+      "id": 208,
       "label": "copywriter",
-      "level": 1,
+      "level": 3,
       "cultural_group": "copywriter",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 210,
+      "id": 209,
       "label": "profit accordingly",
       "level": 3,
       "cultural_group": "copywriter",
@@ -1905,7 +1896,7 @@
       "frequency": 1
     },
     {
-      "id": 211,
+      "id": 210,
       "label": "professional wedding photographer",
       "level": 3,
       "cultural_group": "photographer",
@@ -1914,7 +1905,7 @@
       "frequency": 1
     },
     {
-      "id": 212,
+      "id": 211,
       "label": "photographer",
       "level": 1,
       "cultural_group": "photographer",
@@ -1923,7 +1914,7 @@
       "frequency": 2
     },
     {
-      "id": 213,
+      "id": 212,
       "label": "architect",
       "level": 1,
       "cultural_group": "architect",
@@ -1932,9 +1923,18 @@
       "frequency": 1
     },
     {
-      "id": 214,
+      "id": 213,
       "label": "housekeepers",
-      "level": 1,
+      "level": 4,
+      "cultural_group": "housekeeper",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 214,
+      "label": "entrance hall",
+      "level": 4,
       "cultural_group": "housekeeper",
       "domain": "unknown",
       "source_dataset": "candle",
@@ -1942,24 +1942,15 @@
     },
     {
       "id": 215,
-      "label": "entrance hall",
-      "level": 1,
-      "cultural_group": "housekeeper",
-      "domain": "unknown",
-      "source_dataset": "candle",
-      "frequency": 1
-    },
-    {
-      "id": 216,
       "label": "payment",
-      "level": 1,
+      "level": 4,
       "cultural_group": "waiter",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 217,
+      "id": 216,
       "label": "moral values",
       "level": 3,
       "cultural_group": "doctor",
@@ -2015,35 +2006,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
-      "target": 7,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "value",
-      "weight": 3,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 8,
-      "target": 7,
-      "source_label": "cleaning services",
-      "target_label": "diwali",
-      "relation_type": "valued_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 7,
-      "target": 9,
-      "source_label": "diwali",
-      "target_label": "emotions during farewell",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "song",
       "target_label": "affecting and beautiful nature",
       "relation_type": "express",
@@ -2052,7 +2016,7 @@
     },
     {
       "source": 1,
-      "target": 12,
+      "target": 11,
       "source_label": "algeria",
       "target_label": "preservation of traditional music",
       "relation_type": "value",
@@ -2060,17 +2024,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 7,
-      "target": 13,
-      "source_label": "diwali",
-      "target_label": "local algerian dances",
-      "relation_type": "expressed_in",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 14,
-      "target": 15,
+      "source": 13,
+      "target": 14,
       "source_label": "dance",
       "target_label": "men only",
       "relation_type": "expressed_by",
@@ -2078,17 +2033,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 7,
-      "target": 16,
-      "source_label": "diwali",
-      "target_label": "justice",
-      "relation_type": "expresses_value",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 17,
-      "target": 18,
+      "source": 16,
+      "target": 17,
       "source_label": "proverb",
       "target_label": "wisdom about life experiences",
       "relation_type": "express",
@@ -2097,7 +2043,7 @@
     },
     {
       "source": 1,
-      "target": 19,
+      "target": 18,
       "source_label": "algeria",
       "target_label": "life experience and travel",
       "relation_type": "value",
@@ -2105,17 +2051,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 17,
-      "target": 7,
-      "source_label": "proverb",
-      "target_label": "diwali",
-      "relation_type": "expressed_in",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 20,
-      "target": 21,
+      "source": 19,
+      "target": 20,
       "source_label": "algerian society",
       "target_label": "strong bonds of brotherhood",
       "relation_type": "values",
@@ -2123,26 +2060,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 22,
-      "target": 7,
-      "source_label": "brothers and sisters",
-      "target_label": "diwali",
-      "relation_type": "express",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
       "source": 1,
-      "target": 7,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "values",
-      "weight": 4,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 23,
+      "target": 22,
       "source_label": "algeria",
       "target_label": "family ties, tradition",
       "relation_type": "values",
@@ -2151,7 +2070,7 @@
     },
     {
       "source": 1,
-      "target": 24,
+      "target": 23,
       "source_label": "algeria",
       "target_label": "devotion",
       "relation_type": "express",
@@ -2160,7 +2079,7 @@
     },
     {
       "source": 1,
-      "target": 25,
+      "target": 24,
       "source_label": "algeria",
       "target_label": "national pride",
       "relation_type": "express",
@@ -2169,16 +2088,7 @@
     },
     {
       "source": 1,
-      "target": 7,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "express",
-      "weight": 5,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 26,
+      "target": 25,
       "source_label": "algeria",
       "target_label": "friendship among children",
       "relation_type": "values",
@@ -2187,7 +2097,7 @@
     },
     {
       "source": 1,
-      "target": 27,
+      "target": 26,
       "source_label": "algeria",
       "target_label": "respect for etiquette",
       "relation_type": "values",
@@ -2196,7 +2106,7 @@
     },
     {
       "source": 1,
-      "target": 28,
+      "target": 27,
       "source_label": "algeria",
       "target_label": "respect for elders",
       "relation_type": "value",
@@ -2204,8 +2114,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 29,
-      "target": 30,
+      "source": 28,
+      "target": 29,
       "source_label": "greeting",
       "target_label": "peace and well-being",
       "relation_type": "expresses",
@@ -2213,8 +2123,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 31,
-      "target": 32,
+      "source": 30,
+      "target": 31,
       "source_label": "gifts",
       "target_label": "friendship value",
       "relation_type": "expresses",
@@ -2223,7 +2133,7 @@
     },
     {
       "source": 1,
-      "target": 33,
+      "target": 32,
       "source_label": "algeria",
       "target_label": "thoughtful gift selection",
       "relation_type": "values",
@@ -2231,17 +2141,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 7,
-      "target": 34,
-      "source_label": "diwali",
-      "target_label": "simple cleanliness practice",
-      "relation_type": "expressed_as",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 35,
-      "target": 36,
+      "source": 34,
+      "target": 35,
       "source_label": "ritual",
       "target_label": "emotions of grief and respect",
       "relation_type": "express",
@@ -2249,16 +2150,7 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
-      "target": 7,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "expresses",
-      "weight": 2,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 37,
+      "source": 36,
       "target": 1,
       "source_label": "amal (proverbs)",
       "target_label": "algeria",
@@ -2267,8 +2159,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 17,
-      "target": 38,
+      "source": 16,
+      "target": 37,
       "source_label": "proverb",
       "target_label": "hospitality",
       "relation_type": "expresses",
@@ -2276,8 +2168,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 17,
-      "target": 39,
+      "source": 16,
+      "target": 38,
       "source_label": "proverb",
       "target_label": "loss and acceptance",
       "relation_type": "expresses",
@@ -2285,8 +2177,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 17,
-      "target": 40,
+      "source": 16,
+      "target": 39,
       "source_label": "proverb",
       "target_label": "sensory experience",
       "relation_type": "expresses",
@@ -2295,7 +2187,7 @@
     },
     {
       "source": 1,
-      "target": 41,
+      "target": 40,
       "source_label": "algeria",
       "target_label": "together",
       "relation_type": "values",
@@ -2303,8 +2195,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 42,
-      "target": 43,
+      "source": 41,
+      "target": 42,
       "source_label": "action",
       "target_label": "unity and equality",
       "relation_type": "expresses",
@@ -2313,7 +2205,7 @@
     },
     {
       "source": 1,
-      "target": 44,
+      "target": 43,
       "source_label": "algeria",
       "target_label": "affection publicly",
       "relation_type": "express",
@@ -2322,7 +2214,7 @@
     },
     {
       "source": 1,
-      "target": 38,
+      "target": 37,
       "source_label": "algeria",
       "target_label": "hospitality",
       "relation_type": "values",
@@ -2330,8 +2222,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 45,
-      "target": 46,
+      "source": 44,
+      "target": 45,
       "source_label": "religious belief",
       "target_label": "afterlife support",
       "relation_type": "expresses",
@@ -2340,25 +2232,7 @@
     },
     {
       "source": 47,
-      "target": 7,
-      "source_label": "performance",
-      "target_label": "diwali",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "expresses_belief_in",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 48,
-      "target": 49,
+      "target": 48,
       "source_label": "parents",
       "target_label": "modesty of daughter",
       "relation_type": "value",
@@ -2367,7 +2241,7 @@
     },
     {
       "source": 1,
-      "target": 17,
+      "target": 16,
       "source_label": "algeria",
       "target_label": "proverb",
       "relation_type": "expresses_belief_in",
@@ -2375,8 +2249,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 17,
-      "target": 50,
+      "source": 16,
+      "target": 49,
       "source_label": "proverb",
       "target_label": "caution",
       "relation_type": "expresses_value",
@@ -2384,8 +2258,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 51,
-      "target": 52,
+      "source": 50,
+      "target": 51,
       "source_label": "brothers",
       "target_label": "closeness",
       "relation_type": "express",
@@ -2394,7 +2268,7 @@
     },
     {
       "source": 1,
-      "target": 53,
+      "target": 52,
       "source_label": "algeria",
       "target_label": "morality",
       "relation_type": "values",
@@ -2403,7 +2277,7 @@
     },
     {
       "source": 1,
-      "target": 54,
+      "target": 53,
       "source_label": "algeria",
       "target_label": "preparing home for marriage",
       "relation_type": "values",
@@ -2412,7 +2286,7 @@
     },
     {
       "source": 1,
-      "target": 55,
+      "target": 54,
       "source_label": "algeria",
       "target_label": "traditions in weddings",
       "relation_type": "values",
@@ -2421,7 +2295,7 @@
     },
     {
       "source": 1,
-      "target": 56,
+      "target": 55,
       "source_label": "algeria",
       "target_label": "independence day",
       "relation_type": "value",
@@ -2430,7 +2304,7 @@
     },
     {
       "source": 1,
-      "target": 57,
+      "target": 56,
       "source_label": "algeria",
       "target_label": "caring for oneself",
       "relation_type": "values",
@@ -2438,44 +2312,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 7,
-      "target": 58,
-      "source_label": "diwali",
-      "target_label": "complex_designs",
-      "relation_type": "expresses_value",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "expresses",
-      "weight": 5,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 1,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "values",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 59,
-      "source_label": "diwali",
-      "target_label": "durability and warmth",
-      "relation_type": "valued_for",
-      "weight": 3,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 60,
-      "target": 61,
+      "source": 59,
+      "target": 60,
       "source_label": "mizo culture",
       "target_label": "strength",
       "relation_type": "values",
@@ -2483,17 +2321,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 7,
-      "target": 62,
-      "source_label": "diwali",
-      "target_label": "symbols of valor and prosperity",
-      "relation_type": "values",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 63,
-      "target": 64,
+      "source": 62,
+      "target": 63,
       "source_label": "berhampuri patta",
       "target_label": "unique craftsmanship",
       "relation_type": "valued_for",
@@ -2502,7 +2331,7 @@
     },
     {
       "source": 1,
-      "target": 65,
+      "target": 64,
       "source_label": "algeria",
       "target_label": "quality and comfort",
       "relation_type": "valued_for",
@@ -2510,8 +2339,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 66,
-      "target": 67,
+      "source": 65,
+      "target": 66,
       "source_label": "kutchi embroidery",
       "target_label": "cultural richness",
       "relation_type": "expresses",
@@ -2519,17 +2348,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 7,
-      "target": 68,
-      "source_label": "diwali",
-      "target_label": "versatility",
-      "relation_type": "value",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
       "source": 1,
-      "target": 69,
+      "target": 68,
       "source_label": "algeria",
       "target_label": "eco-conscious traditions",
       "relation_type": "expresses",
@@ -2538,16 +2358,7 @@
     },
     {
       "source": 70,
-      "target": 7,
-      "source_label": "uttarakhand",
-      "target_label": "diwali",
-      "relation_type": "values",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 71,
-      "target": 72,
+      "target": 71,
       "source_label": "khadi fabrics",
       "target_label": "texture and comfort",
       "relation_type": "valued_for",
@@ -2555,8 +2366,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 73,
-      "target": 24,
+      "source": 72,
+      "target": 23,
       "source_label": "shiva priya",
       "target_label": "devotion",
       "relation_type": "expresses",
@@ -2564,17 +2375,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 7,
-      "target": 24,
-      "source_label": "diwali",
-      "target_label": "devotion",
-      "relation_type": "expresses",
-      "weight": 4,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 74,
-      "target": 75,
+      "source": 73,
+      "target": 74,
       "source_label": "chhau dance",
       "target_label": "ritualistic beliefs",
       "relation_type": "expresses",
@@ -2582,8 +2384,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 76,
-      "target": 77,
+      "source": 75,
+      "target": 76,
       "source_label": "apatani",
       "target_label": "emotions of joy",
       "relation_type": "express",
@@ -2591,8 +2393,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 78,
-      "target": 79,
+      "source": 77,
+      "target": 78,
       "source_label": "deori bihu dance",
       "target_label": "vibrancy",
       "relation_type": "expresses",
@@ -2600,52 +2402,7 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 7,
-      "target": 80,
-      "source_label": "diwali",
-      "target_label": "unity and joy",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 81,
-      "target": 7,
-      "source_label": "ali ai ligang dance",
-      "target_label": "diwali",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 82,
-      "target": 7,
-      "source_label": "rabha tribe",
-      "target_label": "diwali",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 83,
-      "source_label": "diwali",
-      "target_label": "emotions of love and valor",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 14,
-      "target": 7,
-      "source_label": "dance",
-      "target_label": "diwali",
-      "relation_type": "express_culture",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 84,
+      "source": 83,
       "target": 1,
       "source_label": "chomangkan dance",
       "target_label": "algeria",
@@ -2654,26 +2411,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 78,
-      "target": 7,
-      "source_label": "deori bihu dance",
-      "target_label": "diwali",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 85,
-      "source_label": "diwali",
-      "target_label": "cultural heritage",
-      "relation_type": "expresses",
-      "weight": 4,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 86,
-      "target": 24,
+      "source": 85,
+      "target": 23,
       "source_label": "jikir and jari",
       "target_label": "devotion",
       "relation_type": "expresses",
@@ -2681,98 +2420,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 7,
-      "target": 1,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "expresses_value_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 87,
-      "target": 7,
-      "source_label": "jhumar",
-      "target_label": "diwali",
-      "relation_type": "express",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 88,
-      "source_label": "diwali",
-      "target_label": "longing_and_love",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 89,
-      "source_label": "diwali",
-      "target_label": "joy_and_festivity",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 90,
-      "source_label": "diwali",
-      "target_label": "agricultural prosperity",
-      "relation_type": "expresses_value_of",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 14,
-      "target": 7,
-      "source_label": "dance",
-      "target_label": "diwali",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 14,
-      "source_label": "diwali",
-      "target_label": "dance",
-      "relation_type": "expressed_by",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
-      "target": 14,
-      "source_label": "diwali",
-      "target_label": "dance",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 7,
+      "source": 1,
       "target": 91,
-      "source_label": "diwali",
-      "target_label": "love and tragedy",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "expresses_value_of",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 92,
       "source_label": "algeria",
       "target_label": "early dinner times",
       "relation_type": "has_preference_for",
@@ -2780,8 +2429,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 93,
-      "target": 94,
+      "source": 92,
+      "target": 93,
       "source_label": "gun ownership",
       "target_label": "normal practice",
       "relation_type": "expressed_as",
@@ -2790,7 +2439,7 @@
     },
     {
       "source": 1,
-      "target": 95,
+      "target": 94,
       "source_label": "algeria",
       "target_label": "fresh or high-quality bread",
       "relation_type": "express_preference_for",
@@ -2798,8 +2447,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 96,
-      "target": 97,
+      "source": 95,
+      "target": 96,
       "source_label": "united states",
       "target_label": "close parent-child bonds",
       "relation_type": "value",
@@ -2807,8 +2456,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 98,
-      "target": 99,
+      "source": 97,
+      "target": 98,
       "source_label": "us citizens",
       "target_label": "their country",
       "relation_type": "express_pride_in",
@@ -2816,8 +2465,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 96,
-      "target": 100,
+      "source": 95,
+      "target": 99,
       "source_label": "united states",
       "target_label": "friendly public interactions",
       "relation_type": "value",
@@ -2826,7 +2475,7 @@
     },
     {
       "source": 1,
-      "target": 101,
+      "target": 100,
       "source_label": "algeria",
       "target_label": "risk management",
       "relation_type": "values",
@@ -2834,17 +2483,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 7,
+      "source": 95,
       "target": 102,
-      "source_label": "diwali",
-      "target_label": "curiosity",
-      "relation_type": "expressed_emotion",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 96,
-      "target": 103,
       "source_label": "united states",
       "target_label": "trendiness and comfort",
       "relation_type": "values",
@@ -2852,17 +2492,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 7,
-      "target": 104,
-      "source_label": "diwali",
-      "target_label": "thinness",
-      "relation_type": "value",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 1,
-      "target": 105,
+      "target": 104,
       "source_label": "algeria",
       "target_label": "committed relationships",
       "relation_type": "values",
@@ -2870,17 +2501,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 106,
-      "target": 7,
-      "source_label": "sandwiches",
-      "target_label": "diwali",
-      "relation_type": "expressed_as",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 96,
-      "target": 107,
+      "source": 95,
+      "target": 106,
       "source_label": "united states",
       "target_label": "freedom",
       "relation_type": "values",
@@ -2888,8 +2510,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 98,
-      "target": 108,
+      "source": 97,
+      "target": 107,
       "source_label": "us citizens",
       "target_label": "financial independence",
       "relation_type": "value",
@@ -2897,17 +2519,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 7,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "express_preference_for",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 109,
-      "target": 110,
+      "source": 108,
+      "target": 109,
       "source_label": "americans",
       "target_label": "strong work ethic",
       "relation_type": "value",
@@ -2915,8 +2528,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 111,
-      "target": 112,
+      "source": 110,
+      "target": 111,
       "source_label": "consumers",
       "target_label": "specific wine types",
       "relation_type": "express_preference_for",
@@ -2924,8 +2537,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 113,
-      "target": 114,
+      "source": 112,
+      "target": 113,
       "source_label": "education system",
       "target_label": "diversity in school activities",
       "relation_type": "values",
@@ -2933,8 +2546,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 109,
-      "target": 115,
+      "source": 108,
+      "target": 114,
       "source_label": "americans",
       "target_label": "prices",
       "relation_type": "express_emotions_towards",
@@ -2943,7 +2556,7 @@
     },
     {
       "source": 1,
-      "target": 116,
+      "target": 115,
       "source_label": "algeria",
       "target_label": "barefoot",
       "relation_type": "value_comfort",
@@ -2952,7 +2565,7 @@
     },
     {
       "source": 1,
-      "target": 117,
+      "target": 116,
       "source_label": "algeria",
       "target_label": "over appearance",
       "relation_type": "value_comfort",
@@ -2961,7 +2574,7 @@
     },
     {
       "source": 1,
-      "target": 118,
+      "target": 117,
       "source_label": "algeria",
       "target_label": "individual choice",
       "relation_type": "values",
@@ -2969,17 +2582,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 7,
-      "target": 119,
-      "source_label": "diwali",
-      "target_label": "partners",
-      "relation_type": "emotional_expression",
-      "weight": 3,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 1,
-      "target": 120,
+      "target": 119,
       "source_label": "algeria",
       "target_label": "to enjoy food",
       "relation_type": "express_preferences",
@@ -2987,17 +2591,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 7,
-      "target": 121,
-      "source_label": "diwali",
-      "target_label": "fulfilling career",
-      "relation_type": "value",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 1,
-      "target": 122,
+      "target": 121,
       "source_label": "algeria",
       "target_label": "enthusiasm during celebrations",
       "relation_type": "express",
@@ -3005,17 +2600,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 111,
-      "target": 7,
-      "source_label": "consumers",
-      "target_label": "diwali",
-      "relation_type": "express_emotions",
-      "weight": 2,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 111,
-      "target": 123,
+      "source": 110,
+      "target": 122,
       "source_label": "consumers",
       "target_label": "shock",
       "relation_type": "express_emotions",
@@ -3023,8 +2609,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 107,
-      "target": 96,
+      "source": 106,
+      "target": 95,
       "source_label": "freedom",
       "target_label": "united states",
       "relation_type": "values",
@@ -3032,8 +2618,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 124,
-      "target": 96,
+      "source": 123,
+      "target": 95,
       "source_label": "opportunities",
       "target_label": "united states",
       "relation_type": "values",
@@ -3041,8 +2627,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 61,
-      "target": 96,
+      "source": 60,
+      "target": 95,
       "source_label": "strength",
       "target_label": "united states",
       "relation_type": "values",
@@ -3050,8 +2636,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 96,
-      "target": 125,
+      "source": 95,
+      "target": 124,
       "source_label": "united states",
       "target_label": "individual parenthood",
       "relation_type": "values",
@@ -3059,7 +2645,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 96,
+      "source": 95,
       "target": 1,
       "source_label": "united states",
       "target_label": "algeria",
@@ -3068,17 +2654,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 7,
+      "source": 95,
       "target": 126,
-      "source_label": "diwali",
-      "target_label": "love and gratitude",
-      "relation_type": "express",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 96,
-      "target": 127,
       "source_label": "united states",
       "target_label": "shock or surprise",
       "relation_type": "express_emotion",
@@ -3086,8 +2663,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 20,
-      "target": 128,
+      "source": 19,
+      "target": 127,
       "source_label": "algerian society",
       "target_label": "access to affordable and adequate healthcare",
       "relation_type": "values",
@@ -3095,7 +2672,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 129,
+      "source": 128,
       "target": 1,
       "source_label": "empathy",
       "target_label": "algeria",
@@ -3105,7 +2682,7 @@
     },
     {
       "source": 1,
-      "target": 130,
+      "target": 129,
       "source_label": "algeria",
       "target_label": "shock at different shopping hours",
       "relation_type": "express",
@@ -3113,17 +2690,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 7,
-      "target": 131,
-      "source_label": "diwali",
-      "target_label": "audience",
-      "relation_type": "express_emotion",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 1,
-      "target": 132,
+      "target": 131,
       "source_label": "algeria",
       "target_label": "freedom of expression",
       "relation_type": "value",
@@ -3131,17 +2699,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 133,
-      "target": 7,
-      "source_label": "german culture",
-      "target_label": "diwali",
-      "relation_type": "values",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 111,
-      "target": 134,
+      "source": 110,
+      "target": 133,
       "source_label": "consumers",
       "target_label": "specific products",
       "relation_type": "express_preference_for",
@@ -3149,8 +2708,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 135,
-      "target": 136,
+      "source": 134,
+      "target": 135,
       "source_label": "employees",
       "target_label": "comfort and professionalism",
       "relation_type": "express",
@@ -3158,8 +2717,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 109,
-      "target": 137,
+      "source": 108,
+      "target": 136,
       "source_label": "americans",
       "target_label": "weather",
       "relation_type": "express_emotions_towards",
@@ -3167,26 +2726,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 138,
-      "target": 7,
-      "source_label": "german immigrants",
-      "target_label": "diwali",
-      "relation_type": "express_emotion",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 139,
-      "target": 7,
-      "source_label": "us-born individuals",
-      "target_label": "diwali",
-      "relation_type": "express_pride_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 1,
-      "target": 140,
+      "target": 139,
       "source_label": "algeria",
       "target_label": "diversity in food preparation",
       "relation_type": "values",
@@ -3195,7 +2736,7 @@
     },
     {
       "source": 1,
-      "target": 141,
+      "target": 140,
       "source_label": "algeria",
       "target_label": "seeking answers",
       "relation_type": "values",
@@ -3204,7 +2745,7 @@
     },
     {
       "source": 1,
-      "target": 142,
+      "target": 141,
       "source_label": "algeria",
       "target_label": "target's offerings",
       "relation_type": "express_preference_for",
@@ -3212,8 +2753,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 96,
-      "target": 143,
+      "source": 95,
+      "target": 142,
       "source_label": "united states",
       "target_label": "punctuality",
       "relation_type": "value",
@@ -3221,8 +2762,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 144,
-      "target": 145,
+      "source": 143,
+      "target": 144,
       "source_label": "time management",
       "target_label": "respect for others' time",
       "relation_type": "express",
@@ -3230,8 +2771,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 29,
-      "target": 146,
+      "source": 28,
+      "target": 145,
       "source_label": "greeting",
       "target_label": "formal and informal",
       "relation_type": "expressed_as",
@@ -3239,8 +2780,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 29,
-      "target": 147,
+      "source": 28,
+      "target": 146,
       "source_label": "greeting",
       "target_label": "respect or affection",
       "relation_type": "expressed_as",
@@ -3248,8 +2789,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 148,
-      "target": 149,
+      "source": 147,
+      "target": 148,
       "source_label": "fear-based parenting",
       "target_label": "concern for kidnapping",
       "relation_type": "expresses",
@@ -3257,8 +2798,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 150,
-      "target": 151,
+      "source": 149,
+      "target": 150,
       "source_label": "behavior",
       "target_label": "quietness",
       "relation_type": "expressed_in",
@@ -3267,7 +2808,7 @@
     },
     {
       "source": 1,
-      "target": 152,
+      "target": 151,
       "source_label": "algeria",
       "target_label": "to servers",
       "relation_type": "express_preferences",
@@ -3275,7 +2816,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 96,
+      "source": 95,
       "target": 1,
       "source_label": "united states",
       "target_label": "algeria",
@@ -3284,8 +2825,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 153,
-      "target": 154,
+      "source": 152,
+      "target": 153,
       "source_label": "barcelona residents",
       "target_label": "surprise and frustration",
       "relation_type": "express",
@@ -3293,8 +2834,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 155,
-      "target": 156,
+      "source": 154,
+      "target": 155,
       "source_label": "oreo lovers",
       "target_label": "deep-fried oreos",
       "relation_type": "express_preference_for",
@@ -3303,7 +2844,7 @@
     },
     {
       "source": 1,
-      "target": 157,
+      "target": 156,
       "source_label": "algeria",
       "target_label": "physical fitness",
       "relation_type": "values",
@@ -3311,8 +2852,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 158,
-      "target": 113,
+      "source": 157,
+      "target": 112,
       "source_label": "students in algeria",
       "target_label": "education system",
       "relation_type": "value",
@@ -3321,7 +2862,7 @@
     },
     {
       "source": 1,
-      "target": 159,
+      "target": 158,
       "source_label": "algeria",
       "target_label": "nutritious morning start",
       "relation_type": "values",
@@ -3330,7 +2871,7 @@
     },
     {
       "source": 1,
-      "target": 160,
+      "target": 159,
       "source_label": "algeria",
       "target_label": "extended family",
       "relation_type": "values",
@@ -3339,7 +2880,7 @@
     },
     {
       "source": 1,
-      "target": 28,
+      "target": 27,
       "source_label": "algeria",
       "target_label": "respect for elders",
       "relation_type": "values",
@@ -3348,7 +2889,7 @@
     },
     {
       "source": 1,
-      "target": 161,
+      "target": 160,
       "source_label": "algeria",
       "target_label": "togetherness and relaxation",
       "relation_type": "values",
@@ -3356,7 +2897,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
+      "source": 19,
       "target": 1,
       "source_label": "algerian society",
       "target_label": "algeria",
@@ -3366,7 +2907,7 @@
     },
     {
       "source": 1,
-      "target": 162,
+      "target": 161,
       "source_label": "algeria",
       "target_label": "teamwork and sportsmanship",
       "relation_type": "values",
@@ -3374,8 +2915,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 163,
+      "source": 19,
+      "target": 162,
       "source_label": "algerian society",
       "target_label": "small family size",
       "relation_type": "values",
@@ -3383,17 +2924,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 7,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "has_preference_for",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 20,
-      "target": 164,
+      "source": 19,
+      "target": 163,
       "source_label": "algerian society",
       "target_label": "family autonomy",
       "relation_type": "values",
@@ -3401,8 +2933,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 165,
+      "source": 19,
+      "target": 164,
       "source_label": "algerian society",
       "target_label": "grand birthday celebrations",
       "relation_type": "values",
@@ -3410,8 +2942,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 113,
+      "source": 19,
+      "target": 112,
       "source_label": "algerian society",
       "target_label": "education system",
       "relation_type": "values",
@@ -3419,17 +2951,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 7,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "has_culture",
-      "weight": 2,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 20,
-      "target": 166,
+      "source": 19,
+      "target": 165,
       "source_label": "algerian society",
       "target_label": "respect for certain professions",
       "relation_type": "values",
@@ -3437,8 +2960,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 167,
+      "source": 19,
+      "target": 166,
       "source_label": "algerian society",
       "target_label": "education progression",
       "relation_type": "values",
@@ -3447,7 +2970,7 @@
     },
     {
       "source": 1,
-      "target": 168,
+      "target": 167,
       "source_label": "algeria",
       "target_label": "welcoming new life",
       "relation_type": "values",
@@ -3456,7 +2979,7 @@
     },
     {
       "source": 1,
-      "target": 169,
+      "target": 168,
       "source_label": "algeria",
       "target_label": "team spirit, physical fitness",
       "relation_type": "values",
@@ -3465,7 +2988,7 @@
     },
     {
       "source": 1,
-      "target": 170,
+      "target": 169,
       "source_label": "algeria",
       "target_label": "team spirit and community bonding",
       "relation_type": "value",
@@ -3474,7 +2997,7 @@
     },
     {
       "source": 1,
-      "target": 171,
+      "target": 170,
       "source_label": "algeria",
       "target_label": "for deceased",
       "relation_type": "values",
@@ -3482,8 +3005,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 172,
-      "target": 173,
+      "source": 171,
+      "target": 172,
       "source_label": "funeral guests",
       "target_label": "sympathy and respect",
       "relation_type": "express",
@@ -3492,7 +3015,7 @@
     },
     {
       "source": 1,
-      "target": 174,
+      "target": 173,
       "source_label": "algeria",
       "target_label": "hospitality through food",
       "relation_type": "value",
@@ -3501,7 +3024,7 @@
     },
     {
       "source": 1,
-      "target": 175,
+      "target": 174,
       "source_label": "algeria",
       "target_label": "family unity and tradition",
       "relation_type": "values",
@@ -3509,8 +3032,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 176,
+      "source": 19,
+      "target": 175,
       "source_label": "algerian society",
       "target_label": "family honor",
       "relation_type": "values",
@@ -3519,7 +3042,7 @@
     },
     {
       "source": 1,
-      "target": 177,
+      "target": 176,
       "source_label": "algeria",
       "target_label": "cultural_preservation",
       "relation_type": "value",
@@ -3527,8 +3050,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 178,
-      "target": 179,
+      "source": 177,
+      "target": 178,
       "source_label": "algerian workplace culture",
       "target_label": "formal contract",
       "relation_type": "values",
@@ -3536,8 +3059,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 180,
-      "target": 181,
+      "source": 179,
+      "target": 180,
       "source_label": "visits",
       "target_label": "faith and devotion",
       "relation_type": "express",
@@ -3546,7 +3069,7 @@
     },
     {
       "source": 1,
-      "target": 182,
+      "target": 181,
       "source_label": "algeria",
       "target_label": "evening ceremonies",
       "relation_type": "values",
@@ -3555,7 +3078,7 @@
     },
     {
       "source": 1,
-      "target": 183,
+      "target": 182,
       "source_label": "algeria",
       "target_label": "enthusiasm, support",
       "relation_type": "express",
@@ -3563,8 +3086,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 184,
+      "source": 19,
+      "target": 183,
       "source_label": "algerian society",
       "target_label": "religious tradition",
       "relation_type": "values",
@@ -3573,7 +3096,7 @@
     },
     {
       "source": 1,
-      "target": 185,
+      "target": 184,
       "source_label": "algeria",
       "target_label": "community gathering",
       "relation_type": "values",
@@ -3582,7 +3105,7 @@
     },
     {
       "source": 1,
-      "target": 186,
+      "target": 185,
       "source_label": "algeria",
       "target_label": "family bonding through media",
       "relation_type": "values",
@@ -3590,8 +3113,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 187,
+      "source": 19,
+      "target": 186,
       "source_label": "algerian society",
       "target_label": "maternal and child health",
       "relation_type": "values",
@@ -3600,7 +3123,7 @@
     },
     {
       "source": 1,
-      "target": 188,
+      "target": 187,
       "source_label": "algeria",
       "target_label": "masculinity and strength",
       "relation_type": "values",
@@ -3608,8 +3131,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 189,
+      "source": 19,
+      "target": 188,
       "source_label": "algerian society",
       "target_label": "respect for tradition",
       "relation_type": "values",
@@ -3617,8 +3140,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 190,
+      "source": 19,
+      "target": 189,
       "source_label": "algerian society",
       "target_label": "education and employment balance",
       "relation_type": "values",
@@ -3627,7 +3150,7 @@
     },
     {
       "source": 1,
-      "target": 191,
+      "target": 190,
       "source_label": "algeria",
       "target_label": "collectivism",
       "relation_type": "values",
@@ -3636,7 +3159,7 @@
     },
     {
       "source": 1,
-      "target": 192,
+      "target": 191,
       "source_label": "algeria",
       "target_label": "financial_security",
       "relation_type": "value",
@@ -3645,7 +3168,7 @@
     },
     {
       "source": 1,
-      "target": 113,
+      "target": 112,
       "source_label": "algeria",
       "target_label": "education system",
       "relation_type": "values",
@@ -3653,8 +3176,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 193,
-      "target": 194,
+      "source": 192,
+      "target": 193,
       "source_label": "society in algeria",
       "target_label": "islamic traditions",
       "relation_type": "values",
@@ -3663,7 +3186,7 @@
     },
     {
       "source": 1,
-      "target": 195,
+      "target": 194,
       "source_label": "algeria",
       "target_label": "nutritious diet during pregnancy",
       "relation_type": "values",
@@ -3671,17 +3194,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 7,
-      "source_label": "algerian society",
-      "target_label": "diwali",
-      "relation_type": "value",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 1,
-      "target": 196,
+      "target": 195,
       "source_label": "algeria",
       "target_label": "love or hate",
       "relation_type": "express",
@@ -3689,8 +3203,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 41,
+      "source": 19,
+      "target": 40,
       "source_label": "algerian society",
       "target_label": "together",
       "relation_type": "values",
@@ -3698,8 +3212,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 20,
-      "target": 197,
+      "source": 19,
+      "target": 196,
       "source_label": "algerian society",
       "target_label": "islamic education",
       "relation_type": "value",
@@ -3707,17 +3221,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 7,
-      "target": 198,
-      "source_label": "diwali",
-      "target_label": "self_sacrifice",
-      "relation_type": "values",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
       "source": 1,
-      "target": 199,
+      "target": 198,
       "source_label": "algeria",
       "target_label": "respect for knowledge and authority",
       "relation_type": "expresses",
@@ -3725,8 +3230,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 200,
-      "target": 201,
+      "source": 199,
+      "target": 200,
       "source_label": "great teachers",
       "target_label": "thorough planning",
       "relation_type": "value",
@@ -3734,44 +3239,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 7,
-      "target": 202,
-      "source_label": "diwali",
-      "target_label": "hand_independence",
-      "relation_type": "values",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 7,
-      "target": 203,
-      "source_label": "diwali",
-      "target_label": "investment",
-      "relation_type": "values",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 204,
-      "target": 7,
-      "source_label": "revisit",
-      "target_label": "diwali",
-      "relation_type": "expressed_by",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 7,
-      "target": 205,
-      "source_label": "diwali",
-      "target_label": "deception",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 206,
-      "target": 207,
+      "source": 205,
+      "target": 206,
       "source_label": "politician",
       "target_label": "success in politics",
       "relation_type": "values",
@@ -3779,17 +3248,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 7,
-      "target": 208,
-      "source_label": "diwali",
-      "target_label": "serious direct mail",
-      "relation_type": "expresses",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 209,
-      "target": 210,
+      "source": 208,
+      "target": 209,
       "source_label": "copywriter",
       "target_label": "profit accordingly",
       "relation_type": "values",
@@ -3797,34 +3257,7 @@
       "source_dataset": "candle"
     },
     {
-      "source": 211,
-      "target": 7,
-      "source_label": "professional wedding photographer",
-      "target_label": "diwali",
-      "relation_type": "values",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
       "source": 212,
-      "target": 7,
-      "source_label": "photographer",
-      "target_label": "diwali",
-      "relation_type": "values",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 7,
-      "target": 212,
-      "source_label": "diwali",
-      "target_label": "photographer",
-      "relation_type": "expressed_by",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 213,
       "target": 5,
       "source_label": "architect",
       "target_label": "professionalism",
@@ -3833,29 +3266,11 @@
       "source_dataset": "candle"
     },
     {
-      "source": 214,
-      "target": 215,
+      "source": 213,
+      "target": 214,
       "source_label": "housekeepers",
       "target_label": "entrance hall",
       "relation_type": "values",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 7,
-      "target": 216,
-      "source_label": "diwali",
-      "target_label": "payment",
-      "relation_type": "expressed_as",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 7,
-      "target": 217,
-      "source_label": "diwali",
-      "target_label": "moral values",
-      "relation_type": "expresses",
       "weight": 1,
       "source_dataset": "candle"
     }

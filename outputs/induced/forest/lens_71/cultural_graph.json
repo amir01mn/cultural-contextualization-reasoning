@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 7
-    },
-    {
-      "id": 2,
       "label": "cheap soda in us",
       "level": 3,
       "cultural_group": "general",
@@ -33,7 +24,7 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "waste disposal methods",
       "level": 3,
       "cultural_group": "general",
@@ -42,7 +33,7 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "environmentally unfriendly",
       "level": 3,
       "cultural_group": "general",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "ubiquitous",
       "level": 3,
       "cultural_group": "general",
@@ -60,7 +51,7 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "personal",
       "level": 3,
       "cultural_group": "general",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "distinctively american",
       "level": 3,
       "cultural_group": "general",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "activities",
       "level": 1,
       "cultural_group": "general",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "natural tasks",
       "level": 3,
       "cultural_group": "general",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "healthcare system",
       "level": 1,
       "cultural_group": "general",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "a right",
       "level": 3,
       "cultural_group": "general",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "affordable",
       "level": 3,
       "cultural_group": "general",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "unhealthy",
       "level": 3,
       "cultural_group": "general",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "popular snack food",
       "level": 3,
       "cultural_group": "general",
@@ -143,17 +134,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "cheap soda in us",
-      "relation_type": "seen_as",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "waste disposal methods",
       "target_label": "environmentally unfriendly",
       "relation_type": "seen_as",
@@ -161,35 +143,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 5,
-      "source_label": "diwali",
-      "target_label": "ubiquitous",
-      "relation_type": "seen_as",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "personal",
-      "relation_type": "seen_as",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 7,
-      "source_label": "diwali",
-      "target_label": "distinctively american",
-      "relation_type": "seen_as",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 8,
-      "target": 9,
+      "source": 7,
+      "target": 8,
       "source_label": "activities",
       "target_label": "natural tasks",
       "relation_type": "are_seen_as",
@@ -197,38 +152,11 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "healthcare system",
       "target_label": "a right",
       "relation_type": "seen_as",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 12,
-      "source_label": "diwali",
-      "target_label": "affordable",
-      "relation_type": "seen_as",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 13,
-      "source_label": "diwali",
-      "target_label": "unhealthy",
-      "relation_type": "seen_as",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 14,
-      "source_label": "diwali",
-      "target_label": "popular snack food",
-      "relation_type": "are_seen_as",
       "weight": 1,
       "source_dataset": "culturebank"
     }

@@ -17,7 +17,7 @@
     {
       "id": 1,
       "label": "restaurant",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -34,15 +34,6 @@
     },
     {
       "id": 3,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 2
-    },
-    {
-      "id": 4,
       "label": "large portions",
       "level": 3,
       "cultural_group": "general",
@@ -51,16 +42,16 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 3
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "structured breaks",
       "level": 3,
       "cultural_group": "general",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "unstructured breaks",
       "level": 3,
       "cultural_group": "general",
@@ -78,17 +69,26 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "businesses",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "water",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "united states",
       "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
@@ -97,15 +97,6 @@
     },
     {
       "id": 10,
-      "label": "united states",
-      "level": 4,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 1
-    },
-    {
-      "id": 11,
       "label": "maternity leave policies",
       "level": 3,
       "cultural_group": "general",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "service provider",
       "level": 3,
       "cultural_group": "general",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "professional nail care",
       "level": 3,
       "cultural_group": "general",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "cheese sections/stores",
       "level": 3,
       "cultural_group": "general",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "diverse cheese options",
       "level": 3,
       "cultural_group": "general",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "americans",
       "level": 1,
       "cultural_group": "general",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "unique dining experiences",
       "level": 3,
       "cultural_group": "general",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "employees",
       "level": 1,
       "cultural_group": "general",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "paid holidays",
       "level": 3,
       "cultural_group": "general",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "up to 40 days per year",
       "level": 3,
       "cultural_group": "general",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "academies/institutes",
       "level": 3,
       "cultural_group": "dz",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "various subjects",
       "level": 3,
       "cultural_group": "dz",
@@ -213,16 +204,16 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "household",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "extracurricular music programs",
       "level": 3,
       "cultural_group": "dz",
@@ -231,8 +222,17 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "health",
       "level": 3,
       "cultural_group": "nurse",
       "domain": "unknown",
@@ -241,15 +241,6 @@
     },
     {
       "id": 26,
-      "label": "health",
-      "level": 1,
-      "cultural_group": "nurse",
-      "domain": "unknown",
-      "source_dataset": "candle",
-      "frequency": 1
-    },
-    {
-      "id": 27,
       "label": "mentoring sessions",
       "level": 3,
       "cultural_group": "tailor",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "individualized support",
       "level": 3,
       "cultural_group": "tailor",
@@ -267,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "utility",
       "level": 3,
       "cultural_group": "tailor",
@@ -276,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "programs",
       "level": 3,
       "cultural_group": "tailor",
@@ -296,17 +287,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 3,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "large portions",
-      "relation_type": "offers",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 5,
-      "target": 6,
+      "source": 4,
+      "target": 5,
       "source_label": "algeria",
       "target_label": "structured breaks",
       "relation_type": "offer",
@@ -314,8 +296,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 5,
-      "target": 7,
+      "source": 4,
+      "target": 6,
       "source_label": "algeria",
       "target_label": "unstructured breaks",
       "relation_type": "offer",
@@ -323,8 +305,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 8,
-      "target": 9,
+      "source": 7,
+      "target": 8,
       "source_label": "businesses",
       "target_label": "water",
       "relation_type": "offers",
@@ -332,8 +314,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "united states",
       "target_label": "maternity leave policies",
       "relation_type": "offers",
@@ -341,8 +323,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 12,
-      "target": 13,
+      "source": 11,
+      "target": 12,
       "source_label": "service provider",
       "target_label": "professional nail care",
       "relation_type": "offers",
@@ -350,8 +332,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 14,
-      "target": 15,
+      "source": 13,
+      "target": 14,
       "source_label": "cheese sections/stores",
       "target_label": "diverse cheese options",
       "relation_type": "offer",
@@ -359,8 +341,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 16,
-      "target": 17,
+      "source": 15,
+      "target": 16,
       "source_label": "americans",
       "target_label": "unique dining experiences",
       "relation_type": "offer",
@@ -368,8 +350,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 18,
-      "target": 19,
+      "source": 17,
+      "target": 18,
       "source_label": "employees",
       "target_label": "paid holidays",
       "relation_type": "offer",
@@ -377,8 +359,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 8,
-      "target": 20,
+      "source": 7,
+      "target": 19,
       "source_label": "businesses",
       "target_label": "up to 40 days per year",
       "relation_type": "offer",
@@ -386,8 +368,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 22,
+      "source": 20,
+      "target": 21,
       "source_label": "academies/institutes",
       "target_label": "various subjects",
       "relation_type": "offer",
@@ -395,17 +377,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 23,
-      "target": 3,
-      "source_label": "household",
-      "target_label": "diwali",
-      "relation_type": "offer",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 5,
-      "target": 24,
+      "source": 4,
+      "target": 23,
       "source_label": "algeria",
       "target_label": "extracurricular music programs",
       "relation_type": "offer",
@@ -413,8 +386,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 25,
-      "target": 26,
+      "source": 24,
+      "target": 25,
       "source_label": "nurse",
       "target_label": "health",
       "relation_type": "offers",
@@ -422,8 +395,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 27,
-      "target": 28,
+      "source": 26,
+      "target": 27,
       "source_label": "mentoring sessions",
       "target_label": "individualized support",
       "relation_type": "offer",
@@ -431,8 +404,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 29,
-      "target": 30,
+      "source": 28,
+      "target": 29,
       "source_label": "utility",
       "target_label": "programs",
       "relation_type": "offers",

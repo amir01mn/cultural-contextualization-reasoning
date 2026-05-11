@@ -1,83 +1,82 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,algeria,3,algeria,unknown,arabculture,40
+1,algeria,1,algeria,unknown,arabculture,40
 2,ramadan evening gathering,3,algeria,unknown,arabculture,1
-3,diwali,3,algeria,unknown,arabculture,18
-4,celebratory meal,3,algeria,unknown,arabculture,1
-5,special dance,1,algeria,unknown,arabculture,1
-6,eid celebrations,3,algeria,unknown,arabculture,1
-7,community of skikda,3,algeria,unknown,arabculture,1
-8,fruit festival,3,algeria,unknown,arabculture,1
-9,preparing for bride's move,3,algeria,unknown,arabculture,1
-10,preparation activities,3,algeria,unknown,arabculture,1
-11,flag-raising ceremonies,3,algeria,unknown,arabculture,1
-12,pre-burial rituals,3,algeria,unknown,arabculture,1
-13,mourning practices,3,algeria,unknown,arabculture,1
-14,nile valley,1,egypt,unknown,arabculture,1
-15,female guests,3,egypt,unknown,arabculture,1
-16,henna designs,3,egypt,unknown,arabculture,1
-17,back-striking game,3,egypt,unknown,arabculture,1
-18,charity after burial,3,egypt,unknown,arabculture,1
-19,mourning gathering,3,egypt,unknown,arabculture,1
-20,holiday preparations,3,egypt,unknown,arabculture,1
-21,prayer,1,egypt,unknown,arabculture,1
-22,family and friends,1,egypt,unknown,arabculture,1
-23,nighttime socializing,3,egypt,unknown,arabculture,1
-24,egg hunts during easter,3,general,unknown,culturebank,1
-25,drills,3,general,unknown,culturebank,1
-26,school activities,3,general,unknown,culturebank,1
-27,eating candy traditionally or personally,3,general,unknown,culturebank,1
-28,california residents,1,general,unknown,culturebank,1
-29,licensing system,3,general,unknown,culturebank,1
-30,us citizens,1,general,unknown,culturebank,1
-31,politics,3,general,unknown,culturebank,1
-32,americans,1,general,unknown,culturebank,1
-33,seasonal pumpkin spice tradition,3,general,unknown,culturebank,1
-34,algerian elementary school,3,dz,unknown,blend,1
-35,afterschool sports,3,dz,unknown,blend,1
-36,little kids,3,dz,unknown,blend,1
-37,fun activities,3,dz,unknown,blend,1
-38,seniors in algeria,3,dz,unknown,blend,1
-39,"kabaddi, wrestling",3,dz,unknown,blend,1
-40,street soccer,3,dz,unknown,blend,1
-41,religious ceremonies,1,dz,unknown,blend,1
-42,newborn's family,3,dz,unknown,blend,1
-43,rituals and celebrations,3,dz,unknown,blend,1
-44,activities,1,dz,unknown,blend,1
-45,performance,1,dz,unknown,blend,1
-46,school sports activities,3,dz,unknown,blend,1
-47,girls,1,dz,unknown,blend,1
-48,physical education sports,3,dz,unknown,blend,1
-49,typical sports,3,dz,unknown,blend,1
-50,guests,1,dz,unknown,blend,1
-51,exchange of gifts,3,dz,unknown,blend,1
-52,limited sports,3,dz,unknown,blend,1
-53,fast-growing sports,3,dz,unknown,blend,1
-54,retired women,1,dz,unknown,blend,2
-55,traditional crafts,3,dz,unknown,blend,1
-56,coffee house gatherings,3,dz,unknown,blend,1
-57,prenatal education activities,3,dz,unknown,blend,1
-58,after-school curricula,3,dz,unknown,blend,1
-59,music activities,3,dz,unknown,blend,1
-60,various olympic sports,3,dz,unknown,blend,1
-61,athletes,1,dz,unknown,blend,1
-62,international football competitions,3,dz,unknown,blend,1
-63,lunch sharing,3,dz,unknown,blend,1
-64,algerian family traditions,3,dz,unknown,blend,1
-65,dog show,3,judge,unknown,candle,1
-66,circus,3,judge,unknown,candle,1
-67,in skill demonstration,3,teacher,unknown,candle,1
-68,knowledge updating,3,teacher,unknown,candle,1
-69,nurse,3,nurse,unknown,candle,1
-70,hospital-wide event,3,nurse,unknown,candle,1
-71,contractor,3,tailor,unknown,candle,1
-72,partners,1,tailor,unknown,candle,1
-73,politician,1,politician,unknown,candle,2
-74,parades,1,politician,unknown,candle,1
-75,corruption,3,politician,unknown,candle,1
-76,attorney,2,attorney,unknown,candle,4
-77,hearings and trials,3,attorney,unknown,candle,1
-78,real estate closing,3,attorney,unknown,candle,1
-79,media,1,attorney,unknown,candle,1
-80,doctor,1,doctor,unknown,candle,1
-81,ritual,1,doctor,unknown,candle,1
+3,celebratory meal,3,algeria,unknown,arabculture,1
+4,special dance,5,algeria,unknown,arabculture,1
+5,eid celebrations,3,algeria,unknown,arabculture,1
+6,community of skikda,3,algeria,unknown,arabculture,1
+7,fruit festival,3,algeria,unknown,arabculture,1
+8,preparing for bride's move,3,algeria,unknown,arabculture,1
+9,preparation activities,3,algeria,unknown,arabculture,1
+10,flag-raising ceremonies,3,algeria,unknown,arabculture,1
+11,pre-burial rituals,3,algeria,unknown,arabculture,1
+12,mourning practices,3,algeria,unknown,arabculture,1
+13,nile valley,1,egypt,unknown,arabculture,1
+14,female guests,3,egypt,unknown,arabculture,1
+15,henna designs,3,egypt,unknown,arabculture,1
+16,back-striking game,3,egypt,unknown,arabculture,1
+17,charity after burial,3,egypt,unknown,arabculture,1
+18,mourning gathering,3,egypt,unknown,arabculture,1
+19,holiday preparations,3,egypt,unknown,arabculture,1
+20,prayer,3,egypt,unknown,arabculture,1
+21,family and friends,4,egypt,unknown,arabculture,1
+22,nighttime socializing,3,egypt,unknown,arabculture,1
+23,egg hunts during easter,3,general,unknown,culturebank,1
+24,drills,3,general,unknown,culturebank,1
+25,school activities,3,general,unknown,culturebank,1
+26,eating candy traditionally or personally,3,general,unknown,culturebank,1
+27,california residents,2,general,unknown,culturebank,1
+28,licensing system,3,general,unknown,culturebank,1
+29,us citizens,1,general,unknown,culturebank,1
+30,politics,3,general,unknown,culturebank,1
+31,americans,1,general,unknown,culturebank,1
+32,seasonal pumpkin spice tradition,3,general,unknown,culturebank,1
+33,algerian elementary school,3,dz,unknown,blend,1
+34,afterschool sports,3,dz,unknown,blend,1
+35,little kids,3,dz,unknown,blend,1
+36,fun activities,3,dz,unknown,blend,1
+37,seniors in algeria,3,dz,unknown,blend,1
+38,"kabaddi, wrestling",3,dz,unknown,blend,1
+39,street soccer,3,dz,unknown,blend,1
+40,religious ceremonies,1,dz,unknown,blend,1
+41,newborn's family,3,dz,unknown,blend,1
+42,rituals and celebrations,3,dz,unknown,blend,1
+43,activities,1,dz,unknown,blend,1
+44,performance,3,dz,unknown,blend,1
+45,school sports activities,3,dz,unknown,blend,1
+46,girls,4,dz,unknown,blend,1
+47,physical education sports,3,dz,unknown,blend,1
+48,typical sports,3,dz,unknown,blend,1
+49,guests,1,dz,unknown,blend,1
+50,exchange of gifts,3,dz,unknown,blend,1
+51,limited sports,3,dz,unknown,blend,1
+52,fast-growing sports,3,dz,unknown,blend,1
+53,retired women,5,dz,unknown,blend,2
+54,traditional crafts,3,dz,unknown,blend,1
+55,coffee house gatherings,3,dz,unknown,blend,1
+56,prenatal education activities,3,dz,unknown,blend,1
+57,after-school curricula,3,dz,unknown,blend,1
+58,music activities,3,dz,unknown,blend,1
+59,various olympic sports,3,dz,unknown,blend,1
+60,athletes,4,dz,unknown,blend,1
+61,international football competitions,3,dz,unknown,blend,1
+62,lunch sharing,3,dz,unknown,blend,1
+63,algerian family traditions,3,dz,unknown,blend,1
+64,dog show,3,judge,unknown,candle,1
+65,circus,3,judge,unknown,candle,1
+66,in skill demonstration,3,teacher,unknown,candle,1
+67,knowledge updating,3,teacher,unknown,candle,1
+68,nurse,1,nurse,unknown,candle,1
+69,hospital-wide event,3,nurse,unknown,candle,1
+70,contractor,3,tailor,unknown,candle,1
+71,partners,3,tailor,unknown,candle,1
+72,politician,1,politician,unknown,candle,2
+73,parades,4,politician,unknown,candle,1
+74,corruption,3,politician,unknown,candle,1
+75,attorney,1,attorney,unknown,candle,4
+76,hearings and trials,3,attorney,unknown,candle,1
+77,real estate closing,3,attorney,unknown,candle,1
+78,media,3,attorney,unknown,candle,1
+79,doctor,1,doctor,unknown,candle,1
+80,ritual,1,doctor,unknown,candle,1

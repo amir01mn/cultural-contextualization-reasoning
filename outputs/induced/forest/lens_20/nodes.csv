@@ -2,69 +2,68 @@ node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
 1,rhythmic dance,3,algeria,unknown,arabculture,1
 2,tizi ouzou region,3,algeria,unknown,arabculture,1
-3,diwali,3,algeria,unknown,arabculture,41
-4,tobacco products,1,algeria,unknown,arabculture,1
-5,special sweet,3,algeria,unknown,arabculture,1
-6,traditional dances,3,algeria,unknown,arabculture,1
-7,asmaa el-koshari,3,egypt,unknown,arabculture,1
-8,egyptian dish,3,egypt,unknown,arabculture,1
-9,nile valley,1,egypt,unknown,arabculture,3
-10,algeria,3,egypt,unknown,arabculture,15
-11,traditional sweets,3,egypt,unknown,arabculture,1
-12,traditional_cuisine,3,egypt,unknown,arabculture,1
-13,rich colors,3,andhra pradesh,unknown,diwali,1
-14,eri silk,1,assam,unknown,diwali,1
-15,endi or errandi,3,assam,unknown,diwali,1
-16,bhagalpuri silk,1,bihar,unknown,diwali,1
-17,janjgir-champa and raigarh districts,3,chhattisgarh,unknown,diwali,1
-18,kosa silk production,3,chhattisgarh,unknown,diwali,1
-19,raipur,3,chhattisgarh,unknown,diwali,1
-20,balodabazar,3,chhattisgarh,unknown,diwali,1
-21,mahasamund,3,chhattisgarh,unknown,diwali,1
-22,durg,3,chhattisgarh,unknown,diwali,1
-23,rajnandgaon,3,chhattisgarh,unknown,diwali,1
-24,dhamtari,3,chhattisgarh,unknown,diwali,1
-25,balod,3,chhattisgarh,unknown,diwali,1
-26,bastar,3,chhattisgarh,unknown,diwali,1
-27,sarguja,3,chhattisgarh,unknown,diwali,1
-28,producing_dhurries,3,haryana,unknown,diwali,1
-29,durability and warmth,1,himachal pradesh,unknown,diwali,2
-30,"unique texture, natural sheen",3,jharkhand,unknown,diwali,1
-31,mysore silk,1,karnataka,unknown,diwali,1
-32,"purity of silk, minimalist design",3,karnataka,unknown,diwali,1
-33,distinctive,1,maharashtra,unknown,diwali,1
-34,bold patterns,3,mizoram,unknown,diwali,1
-35,dhurrie,1,punjab,unknown,diwali,2
-36,comfort and versatility,3,punjab,unknown,diwali,1
-37,airy and comfortable texture,3,rajasthan,unknown,diwali,1
-38,lightweight and vibrant appeal,3,tamil nadu,unknown,diwali,1
-39,koorainadu saree,1,tamil nadu,unknown,diwali,1
-40,unique weaving patterns and vibrant colors,3,tamil nadu,unknown,diwali,1
-41,quality,1,tamil nadu,unknown,diwali,1
-42,coimbatore,3,tamil nadu,unknown,diwali,1
-43,"durability, vibrant colors",3,tamil nadu,unknown,diwali,1
-44,rich textile heritage,3,tamil nadu,unknown,diwali,1
-45,himroo sarees,3,telangana,unknown,diwali,1
-46,softness and elaborate motifs,3,telangana,unknown,diwali,1
-47,blankets,1,telangana,unknown,diwali,1
-48,uttarakhand,1,uttarakhand,unknown,diwali,1
-49,natural_fiber_crafts,3,uttarakhand,unknown,diwali,1
-50,fine texture and comfort,3,west bengal,unknown,diwali,1
-51,tant saris,3,west bengal,unknown,diwali,1
-52,"lightness, transparency, comfort",3,west bengal,unknown,diwali,1
-53,united states,4,west bengal,unknown,diwali,2
-54,intricate batik designs,3,west bengal,unknown,diwali,1
-55,zardozi embroidery,3,delhi,unknown,diwali,1
-56,pashmina shawl,1,jammu and kashmir,unknown,diwali,2
-57,exceptional warmth and softness,3,jammu and kashmir,unknown,diwali,1
-58,unparalleled softness,3,jammu and kashmir,unknown,diwali,1
-59,quality and intricate designs,3,jammu and kashmir,unknown,diwali,1
-60,"softness, warmth",3,ladakh,unknown,diwali,1
-61,handloom industry,1,puducherry,unknown,diwali,1
-62,intricate needlework,3,puducherry,unknown,diwali,1
-63,textile trade history,3,puducherry,unknown,diwali,1
-64,harira-like soups,3,dz,unknown,blend,1
-65,coffee/tea industry,3,dz,unknown,blend,1
-66,livestock industry,3,dz,unknown,blend,1
-67,performance,1,dz,unknown,blend,1
-68,famous edible souvenir,3,dz,unknown,blend,1
+3,tobacco products,3,algeria,unknown,arabculture,1
+4,special sweet,3,algeria,unknown,arabculture,1
+5,traditional dances,3,algeria,unknown,arabculture,1
+6,asmaa el-koshari,3,egypt,unknown,arabculture,1
+7,egyptian dish,3,egypt,unknown,arabculture,1
+8,nile valley,1,egypt,unknown,arabculture,3
+9,algeria,1,egypt,unknown,arabculture,15
+10,traditional sweets,3,egypt,unknown,arabculture,1
+11,traditional_cuisine,3,egypt,unknown,arabculture,1
+12,rich colors,3,andhra pradesh,unknown,diwali,1
+13,eri silk,1,assam,unknown,diwali,1
+14,endi or errandi,3,assam,unknown,diwali,1
+15,bhagalpuri silk,2,bihar,unknown,diwali,1
+16,janjgir-champa and raigarh districts,3,chhattisgarh,unknown,diwali,1
+17,kosa silk production,3,chhattisgarh,unknown,diwali,1
+18,raipur,3,chhattisgarh,unknown,diwali,1
+19,balodabazar,3,chhattisgarh,unknown,diwali,1
+20,mahasamund,3,chhattisgarh,unknown,diwali,1
+21,durg,3,chhattisgarh,unknown,diwali,1
+22,rajnandgaon,3,chhattisgarh,unknown,diwali,1
+23,dhamtari,3,chhattisgarh,unknown,diwali,1
+24,balod,3,chhattisgarh,unknown,diwali,1
+25,bastar,3,chhattisgarh,unknown,diwali,1
+26,sarguja,3,chhattisgarh,unknown,diwali,1
+27,producing_dhurries,3,haryana,unknown,diwali,1
+28,durability and warmth,4,himachal pradesh,unknown,diwali,2
+29,"unique texture, natural sheen",3,jharkhand,unknown,diwali,1
+30,mysore silk,5,karnataka,unknown,diwali,1
+31,"purity of silk, minimalist design",3,karnataka,unknown,diwali,1
+32,distinctive,4,maharashtra,unknown,diwali,1
+33,bold patterns,3,mizoram,unknown,diwali,1
+34,dhurrie,2,punjab,unknown,diwali,2
+35,comfort and versatility,3,punjab,unknown,diwali,1
+36,airy and comfortable texture,3,rajasthan,unknown,diwali,1
+37,lightweight and vibrant appeal,3,tamil nadu,unknown,diwali,1
+38,koorainadu saree,4,tamil nadu,unknown,diwali,1
+39,unique weaving patterns and vibrant colors,3,tamil nadu,unknown,diwali,1
+40,quality,3,tamil nadu,unknown,diwali,1
+41,coimbatore,3,tamil nadu,unknown,diwali,1
+42,"durability, vibrant colors",3,tamil nadu,unknown,diwali,1
+43,rich textile heritage,3,tamil nadu,unknown,diwali,1
+44,himroo sarees,3,telangana,unknown,diwali,1
+45,softness and elaborate motifs,3,telangana,unknown,diwali,1
+46,blankets,3,telangana,unknown,diwali,1
+47,uttarakhand,3,uttarakhand,unknown,diwali,1
+48,natural_fiber_crafts,3,uttarakhand,unknown,diwali,1
+49,fine texture and comfort,3,west bengal,unknown,diwali,1
+50,tant saris,3,west bengal,unknown,diwali,1
+51,"lightness, transparency, comfort",3,west bengal,unknown,diwali,1
+52,united states,1,west bengal,unknown,diwali,2
+53,intricate batik designs,3,west bengal,unknown,diwali,1
+54,zardozi embroidery,3,delhi,unknown,diwali,1
+55,pashmina shawl,3,jammu and kashmir,unknown,diwali,2
+56,exceptional warmth and softness,3,jammu and kashmir,unknown,diwali,1
+57,unparalleled softness,3,jammu and kashmir,unknown,diwali,1
+58,quality and intricate designs,3,jammu and kashmir,unknown,diwali,1
+59,"softness, warmth",3,ladakh,unknown,diwali,1
+60,handloom industry,5,puducherry,unknown,diwali,1
+61,intricate needlework,3,puducherry,unknown,diwali,1
+62,textile trade history,3,puducherry,unknown,diwali,1
+63,harira-like soups,3,dz,unknown,blend,1
+64,coffee/tea industry,3,dz,unknown,blend,1
+65,livestock industry,3,dz,unknown,blend,1
+66,performance,3,dz,unknown,blend,1
+67,famous edible souvenir,3,dz,unknown,blend,1

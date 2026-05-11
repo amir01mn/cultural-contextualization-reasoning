@@ -1,32 +1,31 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,algeria,3,algeria,unknown,arabculture,21
+1,algeria,1,algeria,unknown,arabculture,21
 2,algerian_family,3,algeria,unknown,arabculture,1
 3,meal_time,3,algeria,unknown,arabculture,1
 4,north_africa,3,algeria,unknown,arabculture,1
 5,common_cultural_practices,3,algeria,unknown,arabculture,1
 6,similar peace expressions,3,algeria,unknown,arabculture,1
 7,this breakfast tradition,3,algeria,unknown,arabculture,1
-8,diwali,3,algeria,unknown,arabculture,6
-9,north africa,1,algeria,unknown,arabculture,1
-10,similar lunch customs,3,algeria,unknown,arabculture,1
-11,meal and drink,3,algeria,unknown,arabculture,1
-12,local people,3,algeria,unknown,arabculture,1
-13,brothers,1,algeria,unknown,arabculture,1
-14,evening meal,1,algeria,unknown,arabculture,2
-15,meal traditions,3,egypt,unknown,arabculture,1
-16,meals together,3,egypt,unknown,arabculture,1
-17,nile valley,1,egypt,unknown,arabculture,5
-18,qatayef tradition,3,egypt,unknown,arabculture,1
-19,couple,1,egypt,unknown,arabculture,1
-20,water bowl,3,egypt,unknown,arabculture,1
-21,with family and friends,3,egypt,unknown,arabculture,1
-22,wisdom through proverbs,3,egypt,unknown,arabculture,1
-23,common meal,3,egypt,unknown,arabculture,1
-24,iftar,1,egypt,unknown,arabculture,1
-25,meal_customs,3,egypt,unknown,arabculture,1
-26,meals during ramadan,3,egypt,unknown,arabculture,1
-27,united states,4,general,unknown,culturebank,1
-28,ideals,3,general,unknown,culturebank,1
-29,content creators,3,general,unknown,culturebank,1
-30,posts,3,general,unknown,culturebank,1
+8,north africa,1,algeria,unknown,arabculture,1
+9,similar lunch customs,3,algeria,unknown,arabculture,1
+10,meal and drink,3,algeria,unknown,arabculture,1
+11,local people,3,algeria,unknown,arabculture,1
+12,brothers,3,algeria,unknown,arabculture,1
+13,evening meal,2,algeria,unknown,arabculture,2
+14,meal traditions,3,egypt,unknown,arabculture,1
+15,meals together,3,egypt,unknown,arabculture,1
+16,nile valley,1,egypt,unknown,arabculture,5
+17,qatayef tradition,3,egypt,unknown,arabculture,1
+18,couple,2,egypt,unknown,arabculture,1
+19,water bowl,3,egypt,unknown,arabculture,1
+20,with family and friends,3,egypt,unknown,arabculture,1
+21,wisdom through proverbs,3,egypt,unknown,arabculture,1
+22,common meal,3,egypt,unknown,arabculture,1
+23,iftar,1,egypt,unknown,arabculture,1
+24,meal_customs,3,egypt,unknown,arabculture,1
+25,meals during ramadan,3,egypt,unknown,arabculture,1
+26,united states,1,general,unknown,culturebank,1
+27,ideals,3,general,unknown,culturebank,1
+28,content creators,3,general,unknown,culturebank,1
+29,posts,3,general,unknown,culturebank,1

@@ -1,17 +1,14 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,day at work,tiredness,causes,1,arabculture
 3,4,cultural differences,admiration and frustration,cause,1,culturebank
-5,6,diwali,algeria,causes_confusion,1,culturebank
-7,5,lack_of_dryers,diwali,causes,1,culturebank
-8,9,prices,"shock, frustration, concern",cause,1,culturebank
-5,10,diwali,burgers,express_confusion,1,culturebank
-11,12,term 'chips',due to dual meaning,causes_confusion,1,culturebank
-13,14,high prices,perceived unfairness,cause,1,culturebank
-15,16,food consumption,clothing strain,causes,1,culturebank
-17,18,size of united states,reaction of awe and confusion,causes,1,culturebank
-19,20,individuals,regarding education system,express_confusion,1,culturebank
-21,22,restaurant,unfamiliarity,cause,1,culturebank
-23,24,color-coded money,among people,causes_confusion,1,culturebank
-25,26,air conditioning,dryness and irritation,causes,1,culturebank
-27,28,vacations,burnout,cause,1,culturebank
-29,30,national holiday,traffic congestion,causes,1,blend
+7,8,prices,"shock, frustration, concern",cause,1,culturebank
+10,11,term 'chips',due to dual meaning,causes_confusion,1,culturebank
+12,13,high prices,perceived unfairness,cause,1,culturebank
+14,15,food consumption,clothing strain,causes,1,culturebank
+16,17,size of united states,reaction of awe and confusion,causes,1,culturebank
+18,19,individuals,regarding education system,express_confusion,1,culturebank
+20,21,restaurant,unfamiliarity,cause,1,culturebank
+22,23,color-coded money,among people,causes_confusion,1,culturebank
+24,25,air conditioning,dryness and irritation,causes,1,culturebank
+26,27,vacations,burnout,cause,1,culturebank
+28,29,national holiday,traffic congestion,causes,1,blend

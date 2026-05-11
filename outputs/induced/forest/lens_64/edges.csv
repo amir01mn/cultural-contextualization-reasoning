@@ -1,11 +1,7 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,dance,women's status,display,1,arabculture
 3,4,wancho bag,cultural motifs,displays,1,diwali
-5,6,diwali,dexterity,displays,1,diwali
-5,7,diwali,skill and grace,displays,1,diwali
-8,9,natua,physical prowess,displays,1,diwali
-8,10,natua,strength and agility,displays,1,diwali
-5,11,diwali,cultural heritage,displays,1,diwali
-12,13,americans,energetic behavior,display,1,culturebank
-14,15,algeria,"surprise, confusion, disapproval",display,1,culturebank
-16,5,countries,diwali,display,1,culturebank
+7,8,natua,physical prowess,displays,1,diwali
+7,9,natua,strength and agility,displays,1,diwali
+11,12,americans,energetic behavior,display,1,culturebank
+13,14,algeria,"surprise, confusion, disapproval",display,1,culturebank

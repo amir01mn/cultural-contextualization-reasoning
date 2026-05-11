@@ -3,370 +3,162 @@ source_id,target_id,source_label,target_label,relation_type,weight,source_datase
 2,3,ramadan,algeria,observed_by,1,arabculture
 4,5,north africa,sahur tradition,observes,1,arabculture
 3,6,algeria,light suhoor,observe,1,arabculture
-3,7,algeria,diwali,serves,1,arabculture
-3,8,algeria,marriage with food,celebrates,1,arabculture
-9,10,sharing,eid al-fitr,celebrates,1,arabculture
-11,4,العيد,north africa,celebrated_in,1,arabculture
-12,13,independence day,salem and her brothers,celebrated_by,1,arabculture
-3,12,algeria,independence day,occurs_during,1,arabculture
-7,3,diwali,algeria,celebrated_in,4,arabculture
-7,14,diwali,سلمى,celebrated_by,1,arabculture
-15,16,radio,morning travel,popular_during,1,arabculture
-17,18,interaction at work,formal setting,occurs_in,1,arabculture
-19,20,household,morning,performed_on,1,arabculture
-21,4,currency exchange,north africa,occurs_in,1,arabculture
-3,22,algeria,farewell ceremony,performs,1,arabculture
-3,23,algeria,ritual,observe,1,arabculture
-7,24,diwali,burial,perform,1,arabculture
-3,25,algeria,traditional henna song,perform,1,arabculture
-7,26,diwali,special dance,perform,1,arabculture
-3,7,algeria,diwali,occurs_on,1,arabculture
-3,20,algeria,morning,during,1,arabculture
-1,27,iftar,after sunset,occurs,1,arabculture
-28,7,yasmin,diwali,serves,1,arabculture
-7,29,diwali,light foods,served_with,1,arabculture
-7,4,diwali,north africa,popular_in,1,arabculture
-30,4,wedding celebrations,north africa,occurs_in,1,arabculture
-10,4,eid al-fitr,north africa,celebrated_in,1,arabculture
-7,4,diwali,north africa,celebrated_in,1,arabculture
-3,31,algeria,mawlid al-nabi,celebrate,1,arabculture
-31,3,mawlid al-nabi,algeria,observed_by,1,arabculture
-3,7,algeria,diwali,celebrate_during,2,arabculture
-3,7,algeria,diwali,celebrate,5,arabculture
-3,30,algeria,wedding celebrations,observe,1,arabculture
-3,32,algeria,beginning of muharram,occur_in,1,arabculture
-3,12,algeria,independence day,celebrate,2,arabculture
-3,7,algeria,diwali,celebrates,2,arabculture
+3,7,algeria,marriage with food,celebrates,1,arabculture
+8,9,sharing,eid al-fitr,celebrates,1,arabculture
+10,11,independence day,salem and her brothers,celebrated_by,1,arabculture
+3,10,algeria,independence day,occurs_during,1,arabculture
+12,13,radio,morning travel,popular_during,1,arabculture
+14,15,interaction at work,formal setting,occurs_in,1,arabculture
+16,17,household,morning,performed_on,1,arabculture
+18,4,currency exchange,north africa,occurs_in,1,arabculture
+3,19,algeria,farewell ceremony,performs,1,arabculture
+3,20,algeria,ritual,observe,1,arabculture
+3,22,algeria,traditional henna song,perform,1,arabculture
+3,17,algeria,morning,during,1,arabculture
+1,24,iftar,after sunset,occurs,1,arabculture
+27,4,wedding celebrations,north africa,occurs_in,1,arabculture
+9,4,eid al-fitr,north africa,celebrated_in,1,arabculture
+3,28,algeria,mawlid al-nabi,celebrate,1,arabculture
+28,3,mawlid al-nabi,algeria,observed_by,1,arabculture
+3,27,algeria,wedding celebrations,observe,1,arabculture
+3,29,algeria,beginning of muharram,occur_in,1,arabculture
+3,10,algeria,independence day,celebrate,2,arabculture
 3,4,algeria,north africa,performed_in,1,arabculture
-3,33,algeria,religious instructions,observes,1,arabculture
-34,35,algerian musical instruments,festivals and celebrations,used_during,1,arabculture
-36,37,dance,kabyle region,performed_in,1,arabculture
-38,7,traditional algerian dances,diwali,performed_in,1,arabculture
-39,40,free time,outdoors,occurs_in,1,arabculture
-41,42,nile_valley_people,daily_iftar_custom,observe,1,arabculture
+3,30,algeria,religious instructions,observes,1,arabculture
+31,32,algerian musical instruments,festivals and celebrations,used_during,1,arabculture
+33,34,dance,kabyle region,performed_in,1,arabculture
+36,37,free time,outdoors,occurs_in,1,arabculture
+38,39,nile_valley_people,daily_iftar_custom,observe,1,arabculture
 2,1,ramadan,iftar,celebrates,1,arabculture
-43,7,qatayef,diwali,served_with,1,arabculture
-44,3,fava bean dish,algeria,served_as,1,arabculture
-3,45,algeria,weddings with food,celebrate,1,arabculture
-46,47,urban areas,same traditions,observe,1,arabculture
-3,48,algeria,nile valley weddings,performed_in,1,arabculture
-7,3,diwali,algeria,celebrated_by,5,arabculture
-3,49,algeria,prayer after dawn,perform,1,arabculture
-50,10,muslims,eid al-fitr,perform,1,arabculture
-51,52,sham al-nessim,easter weekend,celebrates,1,arabculture
-3,53,algeria,fisk and rinega,celebrate_with,1,arabculture
-7,54,diwali,march,observed_in,1,arabculture
-3,7,algeria,diwali,celebrate_with,4,arabculture
-3,55,algeria,dyeing eggs,celebrate_with,1,arabculture
-56,57,fava beans,breakfast food,served_as,1,arabculture
-58,40,game,outdoors,played_in,1,arabculture
-3,59,algeria,distribute alms,perform,1,arabculture
-3,60,algeria,burial ceremonies,performed_during,1,arabculture
-61,62,flute,nile valley,played_in,1,arabculture
-63,64,cafe,performance space,serves_as,1,arabculture
-65,30,music ensemble,wedding celebrations,performs_at,1,arabculture
-51,62,sham al-nessim,nile valley,occur_in,1,arabculture
+41,3,fava bean dish,algeria,served_as,1,arabculture
+3,42,algeria,weddings with food,celebrate,1,arabculture
+43,44,urban areas,same traditions,observe,1,arabculture
+3,45,algeria,nile valley weddings,performed_in,1,arabculture
+3,46,algeria,prayer after dawn,perform,1,arabculture
+47,9,muslims,eid al-fitr,perform,1,arabculture
+48,49,sham al-nessim,easter weekend,celebrates,1,arabculture
+3,50,algeria,fisk and rinega,celebrate_with,1,arabculture
+3,52,algeria,dyeing eggs,celebrate_with,1,arabculture
+53,54,fava beans,breakfast food,served_as,1,arabculture
+55,37,game,outdoors,played_in,1,arabculture
+3,56,algeria,distribute alms,perform,1,arabculture
+3,57,algeria,burial ceremonies,performed_during,1,arabculture
+58,59,flute,nile valley,played_in,1,arabculture
+60,61,cafe,performance space,serves_as,1,arabculture
+62,27,music ensemble,wedding celebrations,performs_at,1,arabculture
+48,59,sham al-nessim,nile valley,occur_in,1,arabculture
 3,2,algeria,ramadan,celebrates,2,arabculture
-7,66,diwali,upper egypt,performed_in,1,arabculture
-3,67,algeria,folkloric dances,perform,1,arabculture
-56,7,fava beans,diwali,serves,1,arabculture
-7,68,diwali,evening meal,served_at,1,arabculture
-7,69,diwali,مائدتي الافطار,served_at,1,arabculture
-7,70,diwali,رمضان,observed_during,1,arabculture
-71,7,samaah al-raqaaq,diwali,performs,1,arabculture
-7,2,diwali,ramadan,during,1,arabculture
-72,62,الجوافة,nile valley,popular_in,1,arabculture
-7,73,diwali,mid-procession,perform,1,arabculture
-3,74,algeria,eid al-fitr and eid al-adha,celebrate,1,arabculture
-7,62,diwali,nile valley,celebrated_by,1,arabculture
-10,3,eid al-fitr,algeria,celebrated_by,1,arabculture
-7,75,diwali,muslims in egypt,celebrated_by,1,arabculture
-51,3,sham al-nessim,algeria,celebrated_by,2,arabculture
-51,62,sham al-nessim,nile valley,celebrated_by,1,arabculture
-3,7,algeria,diwali,celebrate_new_year,1,arabculture
-7,76,diwali,household tasks,performs,1,arabculture
-7,39,diwali,free time,played_during,1,arabculture
-77,62,financial discussion,nile valley,occurs_in,1,arabculture
-7,78,diwali,home,played_in,1,arabculture
-7,79,diwali,religious and cultural ceremonies,worn_during,1,diwali
-80,3,kunbi saree,algeria,worn_by,1,diwali
-7,81,diwali,festivals and special occasions,worn_during,1,diwali
-7,3,diwali,algeria,worn_during,1,diwali
-82,83,fabric,rural maharashtra,popular_in,1,diwali
-7,84,diwali,maharashtrian women,worn_by,1,diwali
-7,85,diwali,meitei women,worn_by,1,diwali
-7,86,diwali,marriage ceremonies,popular_during,1,diwali
-87,88,dhurrie,functional rugs,serve_as,1,diwali
-87,89,dhurrie,decorative carpets,serve_as,1,diwali
-7,90,diwali,marriage,used_during,1,diwali
-7,3,diwali,algeria,used_during,1,diwali
-7,91,diwali,kumaoni women,worn_by,1,diwali
-7,92,diwali,men and women,worn_by,1,diwali
-7,93,diwali,elite,popular_among,1,diwali
-7,94,diwali,nomadic communities,worn_by,1,diwali
-7,3,diwali,algeria,worn_by,1,diwali
-95,7,mundu,diwali,worn_by,1,diwali
-7,96,diwali,functional items,serve_as,1,diwali
-97,98,kutchi embroidery,wooden frame,performed_on,1,diwali
-7,99,diwali,"tanuku, andhra pradesh",popular_in,1,diwali
-7,100,diwali,banjaras,performed_by,1,diwali
-7,101,diwali,colorful attire,worn_during,1,diwali
-102,7,tribes,diwali,perform,1,diwali
-7,3,diwali,algeria,performed_during,11,diwali
-7,103,diwali,bonalu festival,performed_during,1,diwali
-3,7,algeria,diwali,performed_during,1,diwali
-7,104,diwali,groups,performed_by,1,diwali
-105,7,rasaka,diwali,performed_during,2,diwali
-105,106,rasaka,andhra pradesh community,performed_by,1,diwali
-105,7,rasaka,diwali,celebrated_during,1,diwali
-7,3,diwali,algeria,performed_by,15,diwali
-7,107,diwali,certain communities,performed_by,1,diwali
-7,108,diwali,activities,performed_during,1,diwali
-105,7,rasaka,diwali,performed_in,1,diwali
-7,109,diwali,wooden platforms,performed_on,1,diwali
-7,110,diwali,people of andhra pradesh,performed_by,1,diwali
-3,111,algeria,aji lhamu dance,perform,1,diwali
-3,7,algeria,diwali,celebrates_with,3,diwali
-7,112,diwali,monpa community,performed_by,1,diwali
-3,7,algeria,diwali,perform,13,diwali
-113,7,apatani,diwali,perform,3,diwali
-7,114,diwali,dree festival,celebrate,1,diwali
-115,7,nyishi,diwali,performs,1,diwali
-7,116,diwali,festivals and gatherings,performed_during,1,diwali
-117,118,wancho bag,oriah festival,performed_during,1,diwali
-7,119,diwali,adi people,performed_by,1,diwali
-7,120,diwali,tribal heritage,celebrates,1,diwali
-121,122,sherdukpen people,bardo chham dance,perform,1,diwali
-123,7,nishing,diwali,performs,1,diwali
-124,7,chhau dance,diwali,performed_during,2,diwali
-125,7,kachin people,diwali,perform,1,diwali
-7,3,diwali,algeria,occur_during,2,diwali
-126,7,nishi tribe,diwali,performs,1,diwali
-7,3,diwali,algeria,celebrates,2,diwali
-127,7,kachin community,diwali,performs,1,diwali
-7,128,diwali,deori bihu dance,celebrate_with,1,diwali
-7,129,diwali,bwisagu festival,celebrate,1,diwali
-130,131,mising tribe,ali ai ligang dance,performs,1,diwali
-130,132,mising tribe,sowing festival,celebrates,1,diwali
-133,7,barpeta's bhortal nritya,diwali,performed_during,2,diwali
-134,135,rabha tribe,community celebrations,during,1,diwali
-7,3,diwali,algeria,performed_for,2,diwali
-136,7,garo tribe,diwali,performs,1,diwali
-7,137,diwali,post-harvest season,celebrates,1,diwali
-138,7,reang community,diwali,performs,1,diwali
-139,3,dhuliya,algeria,performed_during,1,diwali
-140,3,bhawariya,algeria,performed_during,1,diwali
-7,141,diwali,religious contexts,performed_in,1,diwali
-7,142,diwali,chomangkan dance,celebrated_during,1,diwali
-7,143,diwali,karbi tribe,performed_by,1,diwali
-7,23,diwali,ritual,during,2,diwali
-130,7,mising tribe,diwali,performs,2,diwali
-7,131,diwali,ali ai ligang dance,celebrated_during,1,diwali
-144,7,united states,diwali,celebrates,5,diwali
-7,145,diwali,harvest season,celebrates,4,diwali
-146,3,dhuliya dance,algeria,performed_during,4,diwali
-146,7,dhuliya dance,diwali,celebrated_during,1,diwali
-36,7,dance,diwali,performed_by,2,diwali
-142,143,chomangkan dance,karbi tribe,performed_by,2,diwali
-142,147,chomangkan dance,death,celebrates,2,diwali
-142,23,chomangkan dance,ritual,during,2,diwali
-148,3,thengal kachari dance,algeria,during,1,diwali
-3,128,algeria,deori bihu dance,performs,2,diwali
-128,145,deori bihu dance,harvest season,celebrates,1,diwali
-7,3,diwali,algeria,performed_with,2,diwali
-7,150,diwali,religious ceremonies,performed_during,7,diwali
-3,7,algeria,diwali,performs,3,diwali
-7,151,diwali,cultural group assam,performed_by,1,diwali
-3,7,algeria,diwali,performs_for,2,diwali
-7,23,diwali,ritual,performed_during,2,diwali
-152,7,tribal group,diwali,performs,1,diwali
-7,153,diwali,victories,celebrates,1,diwali
-7,142,diwali,chomangkan dance,during,1,diwali
-7,144,diwali,united states,celebrated_in,1,diwali
-143,7,karbi tribe,diwali,performs,1,diwali
-154,7,ojapali,diwali,performed_during,1,diwali
-148,3,thengal kachari dance,algeria,occurs_during,1,diwali
-128,155,deori bihu dance,assam's harvest,celebrates,1,diwali
-156,157,jikir and jari,azan,performed_by,1,diwali
-154,3,ojapali,algeria,performed_during,1,diwali
-158,159,jhijhiya,dussehra,performed_during,1,diwali
-7,160,diwali,holi celebrations,performed_during,1,diwali
-3,161,algeria,jhumar,perform,1,diwali
-161,162,jhumar,joy and nature,celebrate,1,diwali
-3,163,algeria,karam festival,celebrates,1,diwali
-7,164,diwali,childbirth,celebrates,1,diwali
-165,7,natua,diwali,performed_during,1,diwali
-7,166,diwali,washermen community,performed_by,1,diwali
-7,30,diwali,wedding celebrations,during,2,diwali
-7,167,diwali,boatmen community,performed_by,1,diwali
-7,168,diwali,rituals and festivals,performed_during,1,diwali
-144,20,united states,morning,celebrates_with,1,diwali
-20,7,morning,diwali,performed_during,1,diwali
-144,20,united states,morning,perform,1,diwali
-7,3,diwali,algeria,performed_at,2,diwali
-144,7,united states,diwali,celebrates_with,1,diwali
-144,7,united states,diwali,during,1,diwali
-144,7,united states,diwali,perform,1,diwali
-165,7,natua,diwali,celebrates,1,diwali
-7,169,diwali,sohrai festival,during,1,diwali
-170,7,paika,diwali,performed_during,1,diwali
-7,171,diwali,satnami community,performed_by,1,diwali
-172,7,yadava community,diwali,performs,1,diwali
-7,173,diwali,post-diwali festivities,celebrates,1,diwali
-174,175,karma dance,karma festival,performed_during,1,diwali
-174,7,karma dance,diwali,celebrates,1,diwali
-7,176,diwali,goura marriage celebrations,during,1,diwali
-177,7,young boys,diwali,perform,1,diwali
-7,178,diwali,chhattisgarhi people,performed_by,1,diwali
-7,179,diwali,abhujmaria tribe,performed_by,1,diwali
-7,180,diwali,new beginnings,celebrates,1,diwali
-181,7,chhattisgarh,diwali,performs,3,diwali
-7,182,diwali,chaitra month,occurs_during,1,diwali
-7,183,diwali,bhatra tribe,performed_by,1,diwali
-7,3,diwali,algeria,during,2,diwali
-161,3,jhumar,algeria,performed_during,1,diwali
-161,7,jhumar,diwali,performed_during,1,diwali
-184,7,muria tribe,diwali,performs,1,diwali
-7,3,diwali,algeria,occurs_during,1,diwali
-185,7,nacha dance,diwali,popular_among,1,diwali
-185,7,nacha dance,diwali,performed_during,1,diwali
-185,3,nacha dance,algeria,performed_during,1,diwali
-36,7,dance,diwali,performed_during,1,diwali
-7,186,diwali,nature's beauty,celebrates,1,diwali
-187,7,baiga tribe,diwali,performs,1,diwali
-7,188,diwali,worship ceremonies,during,1,diwali
-7,189,diwali,phagun month,performed_during,1,diwali
-7,3,diwali,algeria,popular_among,4,diwali
-7,190,diwali,navratri,performed_during,1,diwali
-7,191,diwali,chhattisgarh community,celebrated_by,1,diwali
-7,192,diwali,rains,celebrates,1,diwali
-7,193,diwali,vasdeva community,performed_by,1,diwali
-7,194,diwali,yadav community,performed_by,1,diwali
-7,195,diwali,ganesh chaturthi,occur_during,1,diwali
-80,196,kunbi saree,kunbi_community,performed_by,1,diwali
-197,7,christian community,diwali,performs,1,diwali
-7,198,diwali,shepherd community,performed_by,1,diwali
-199,200,americans,easter baskets,celebrates_with,1,culturebank
-201,202,shopping,specific stores or times,occurs_at,1,culturebank
-3,203,algeria,transportation system,serve_as,1,culturebank
-7,204,diwali,chicken burger restaurant,serves_as,1,culturebank
-205,3,streets and cities,algeria,serve_as,1,culturebank
-206,7,movie theater patrons,diwali,serves,1,culturebank
-207,208,drivers,others' driving,observe,1,culturebank
-7,209,diwali,fast food chain,serves_as,1,culturebank
-7,20,diwali,morning,served_in,1,culturebank
-7,210,diwali,coping mechanism,serve_as,1,culturebank
-3,211,algeria,national settings,celebrated_in,1,culturebank
-3,212,algeria,time for relaxation,serve_as,1,culturebank
-3,213,algeria,college settings,occur_in,1,culturebank
-214,7,waffle house,diwali,serves,1,culturebank
-215,7,manners,diwali,observed_during,1,culturebank
-12,7,independence day,diwali,celebrated_by,1,culturebank
-7,216,diwali,barbecues,celebrate_with,1,culturebank
-7,217,diwali,parades,celebrate_with,1,culturebank
-7,218,diwali,reflection on military sacrifices,celebrate_with,1,culturebank
-219,220,social interactions,specific regions like the south,occur_in,1,culturebank
-221,222,shopping behavior,target stores and malls,occurs_in,1,culturebank
-223,7,individuals,diwali,celebrate,1,culturebank
-224,7,burger king,diwali,serves,1,culturebank
-7,225,diwali,social gathering points,serve_as,1,culturebank
-7,226,diwali,couscous,served_with,1,blend
-3,227,algeria,common cafeteria food,serves,1,blend
-3,30,algeria,wedding celebrations,celebrate_on,2,blend
-3,228,algeria,christian traditions,observe,1,blend
-7,3,diwali,algeria,celebrates_with,1,blend
-7,229,diwali,sweet pastries,served_with,1,blend
-230,3,basketball,algeria,popular_among,1,blend
-3,10,algeria,eid al-fitr,celebrates,1,blend
-231,232,bourekas,breakfast snack,served_as,1,blend
-233,234,common leisure activity,males in their 20s,popular_among,1,blend
-3,217,algeria,parades,celebrate_with,1,blend
-235,3,(lunar) new year,algeria,celebrated_by,1,blend
-236,237,tourist attraction,visitors,popular_among,1,blend
+3,64,algeria,folkloric dances,perform,1,arabculture
+3,68,algeria,eid al-fitr and eid al-adha,celebrate,1,arabculture
+9,3,eid al-fitr,algeria,celebrated_by,1,arabculture
+48,3,sham al-nessim,algeria,celebrated_by,2,arabculture
+48,59,sham al-nessim,nile valley,celebrated_by,1,arabculture
+71,59,financial discussion,nile valley,occurs_in,1,arabculture
+74,3,kunbi saree,algeria,worn_by,1,diwali
+76,77,fabric,rural maharashtra,popular_in,1,diwali
+81,82,dhurrie,functional rugs,serve_as,1,diwali
+81,83,dhurrie,decorative carpets,serve_as,1,diwali
+91,92,kutchi embroidery,wooden frame,performed_on,1,diwali
+99,100,rasaka,andhra pradesh community,performed_by,1,diwali
+3,105,algeria,aji lhamu dance,perform,1,diwali
+111,112,wancho bag,oriah festival,performed_during,1,diwali
+115,116,sherdukpen people,bardo chham dance,perform,1,diwali
+124,125,mising tribe,ali ai ligang dance,performs,1,diwali
+124,126,mising tribe,sowing festival,celebrates,1,diwali
+128,129,rabha tribe,community celebrations,during,1,diwali
+133,3,dhuliya,algeria,performed_during,1,diwali
+134,3,bhawariya,algeria,performed_during,1,diwali
+140,3,dhuliya dance,algeria,performed_during,4,diwali
+136,137,chomangkan dance,karbi tribe,performed_by,2,diwali
+136,141,chomangkan dance,death,celebrates,2,diwali
+136,20,chomangkan dance,ritual,during,2,diwali
+142,3,thengal kachari dance,algeria,during,1,diwali
+3,122,algeria,deori bihu dance,performs,2,diwali
+122,139,deori bihu dance,harvest season,celebrates,1,diwali
+142,3,thengal kachari dance,algeria,occurs_during,1,diwali
+122,149,deori bihu dance,assam's harvest,celebrates,1,diwali
+150,151,jikir and jari,azan,performed_by,1,diwali
+148,3,ojapali,algeria,performed_during,1,diwali
+152,153,jhijhiya,dussehra,performed_during,1,diwali
+3,155,algeria,jhumar,perform,1,diwali
+155,156,jhumar,joy and nature,celebrate,1,diwali
+3,157,algeria,karam festival,celebrates,1,diwali
+138,17,united states,morning,celebrates_with,1,diwali
+138,17,united states,morning,perform,1,diwali
+168,169,karma dance,karma festival,performed_during,1,diwali
+155,3,jhumar,algeria,performed_during,1,diwali
+179,3,nacha dance,algeria,performed_during,1,diwali
+74,190,kunbi saree,kunbi_community,performed_by,1,diwali
+193,194,americans,easter baskets,celebrates_with,1,culturebank
+195,196,shopping,specific stores or times,occurs_at,1,culturebank
+3,197,algeria,transportation system,serve_as,1,culturebank
+199,3,streets and cities,algeria,serve_as,1,culturebank
+201,202,drivers,others' driving,observe,1,culturebank
+3,205,algeria,national settings,celebrated_in,1,culturebank
+3,206,algeria,time for relaxation,serve_as,1,culturebank
+3,207,algeria,college settings,occur_in,1,culturebank
+213,214,social interactions,specific regions like the south,occur_in,1,culturebank
+215,216,shopping behavior,target stores and malls,occurs_in,1,culturebank
+3,221,algeria,common cafeteria food,serves,1,blend
+3,27,algeria,wedding celebrations,celebrate_on,2,blend
+3,222,algeria,christian traditions,observe,1,blend
+224,3,basketball,algeria,popular_among,1,blend
+3,9,algeria,eid al-fitr,celebrates,1,blend
+225,226,bourekas,breakfast snack,served_as,1,blend
+227,228,common leisure activity,males in their 20s,popular_among,1,blend
+3,211,algeria,parades,celebrate_with,1,blend
+229,3,(lunar) new year,algeria,celebrated_by,1,blend
+230,231,tourist attraction,visitors,popular_among,1,blend
 3,2,algeria,ramadan,observes,1,blend
-238,7,burgers,diwali,served_with,1,blend
-3,239,algeria,female athletes,celebrates,1,blend
-3,240,algeria,common side dish,serves_as,1,blend
-241,3,soccer,algeria,popular_sport,1,blend
-242,243,lunch time,school day,occurs_during,1,blend
-7,244,diwali,algerian youth,popular_among,1,blend
-245,246,football,middle-aged men,popular_among,1,blend
-247,3,winter sports,algeria,played_in,1,blend
-3,20,algeria,morning,celebrate_new_year,1,blend
-3,248,algeria,eid ul fitr,celebrate_with,1,blend
-7,3,diwali,algeria,observed_in,2,blend
-249,7,coffee,diwali,served_with,1,blend
-250,226,kechima,couscous,served_with,1,blend
-3,7,algeria,diwali,observe,1,blend
-7,3,diwali,algeria,popular_in,1,blend
-3,7,algeria,diwali,popular_in,1,blend
-3,251,algeria,social gathering space,serves_as,1,blend
-3,252,algeria,traditional holidays,celebrate_through,1,blend
-253,254,gymnastics,algerian spectators,popular_among,1,blend
-255,3,table,algeria,popular_sport,1,blend
-256,257,winter olympics,audience,popular_among,1,blend
-258,3,spicy chips,algeria,popular_among,1,blend
-3,259,algeria,meal option,serves_as,1,blend
-7,260,diwali,common algerian dishes,serves,1,blend
-3,261,algeria,famous families,celebrate,1,blend
-262,263,performance,specific regions,occur_in,1,blend
-249,3,coffee,algeria,popular_in,1,blend
-7,264,diwali,restaurants overseas,served_in,1,blend
-265,266,university of science and technology houari boumediene,engineering_major,popular_for,1,blend
-3,267,algeria,medicine_school,popular_for,1,blend
-268,3,folk tales,algeria,popular_among,1,blend
-7,269,diwali,"vegetables, meat",served_with,1,blend
-7,270,diwali,algerian identity,celebrates,1,blend
-271,7,algerian society,diwali,celebrates,1,blend
-272,3,card game,algeria,played_during,1,blend
-3,12,algeria,independence day,celebrate_on,1,blend
-3,7,algeria,diwali,served_at,1,blend
-3,7,algeria,diwali,celebrate_on,1,blend
-273,3,family boardgame,algeria,popular_among,1,blend
-245,274,football,professional leagues,played_in,1,blend
-7,275,diwali,issuing summons,performs_ritual,1,candle
-276,7,session,diwali,occurs_in,1,candle
-7,277,diwali,eri silk,occurs_at,1,candle
-278,3,nurse,algeria,performs_ritual,1,candle
-7,78,diwali,home,occurs_at,1,candle
-278,7,nurse,diwali,performs_ritual,1,candle
-278,279,nurse,iv insertion,performs,1,candle
-280,281,health,nurse or healthcare assistant,performed_by,1,candle
-278,282,nurse,assessments,performs,1,candle
-7,278,diwali,nurse,performed_by,1,candle
-283,7,check,diwali,occurs,1,candle
-278,7,nurse,diwali,performs,1,candle
-284,278,counting pills,nurse,performed_by,1,candle
-278,285,nurse,walking,perform_ritual_of,1,candle
-278,286,nurse,home visit,performs_ritual,1,candle
-7,287,diwali,early pregnancy,occurs_during,1,candle
-278,7,nurse,diwali,celebrate,1,candle
-7,288,diwali,week,occurs_during,1,candle
-278,289,nurse,routine checks,performs,1,candle
-290,7,dentist,diwali,performs,3,candle
-290,291,dentist,cleaning,performs,1,candle
-290,292,dentist,filling,performs,1,candle
-290,293,dentist,dry socket irrigation,performs,1,candle
-294,7,politician,diwali,performs,1,candle
-295,296,candle,artist,serves_as,1,candle
-296,297,artist,tattooing,performs_ritual,1,candle
-298,7,actors,diwali,perform,1,candle
-299,300,priest,correctly,performs_ritual,1,candle
-299,3,priest,algeria,performs_at,1,candle
-301,302,parish,availability source,serves_as,1,candle
-299,7,priest,diwali,performs,1,candle
-299,23,priest,ritual,performs,1,candle
-303,304,attorney,counsel client,performs_ritual,1,candle
-303,305,attorney,closing date,occurs_on,1,candle
-306,307,retainer,payment guarantee,serves_as,1,candle
-303,7,attorney,diwali,performs,1,candle
-308,309,interviewer,initial prospective client meeting,occurs_during,1,candle
-303,310,attorney,presentation,performs,1,candle
-311,312,scientist,counting repeats,performs_ritual,1,candle
-313,314,registration,greeting,occurs_during,1,candle
-7,255,diwali,table,serves,1,candle
-7,315,diwali,dishes tableside,serves,1,candle
-7,316,diwali,tables,serves,1,candle
-317,318,doctor,equating to divine status,perform_ritual_of,1,candle
-317,319,doctor,ethics,observes,1,candle
-317,320,doctor,physical,performs,1,candle
+3,233,algeria,female athletes,celebrates,1,blend
+3,234,algeria,common side dish,serves_as,1,blend
+235,3,soccer,algeria,popular_sport,1,blend
+236,237,lunch time,school day,occurs_during,1,blend
+239,240,football,middle-aged men,popular_among,1,blend
+241,3,winter sports,algeria,played_in,1,blend
+3,17,algeria,morning,celebrate_new_year,1,blend
+3,242,algeria,eid ul fitr,celebrate_with,1,blend
+244,220,kechima,couscous,served_with,1,blend
+3,245,algeria,social gathering space,serves_as,1,blend
+3,246,algeria,traditional holidays,celebrate_through,1,blend
+247,248,gymnastics,algerian spectators,popular_among,1,blend
+249,3,table,algeria,popular_sport,1,blend
+250,251,winter olympics,audience,popular_among,1,blend
+252,3,spicy chips,algeria,popular_among,1,blend
+3,253,algeria,meal option,serves_as,1,blend
+3,255,algeria,famous families,celebrate,1,blend
+256,257,performance,specific regions,occur_in,1,blend
+243,3,coffee,algeria,popular_in,1,blend
+259,260,university of science and technology houari boumediene,engineering_major,popular_for,1,blend
+3,261,algeria,medicine_school,popular_for,1,blend
+262,3,folk tales,algeria,popular_among,1,blend
+266,3,card game,algeria,played_during,1,blend
+3,10,algeria,independence day,celebrate_on,1,blend
+267,3,family boardgame,algeria,popular_among,1,blend
+239,268,football,professional leagues,played_in,1,blend
+272,3,nurse,algeria,performs_ritual,1,candle
+272,273,nurse,iv insertion,performs,1,candle
+274,275,health,nurse or healthcare assistant,performed_by,1,candle
+272,276,nurse,assessments,performs,1,candle
+278,272,counting pills,nurse,performed_by,1,candle
+272,279,nurse,walking,perform_ritual_of,1,candle
+272,280,nurse,home visit,performs_ritual,1,candle
+272,283,nurse,routine checks,performs,1,candle
+284,285,dentist,cleaning,performs,1,candle
+284,286,dentist,filling,performs,1,candle
+284,287,dentist,dry socket irrigation,performs,1,candle
+289,290,artist,tattooing,performs_ritual,1,candle
+292,293,priest,correctly,performs_ritual,1,candle
+292,3,priest,algeria,performs_at,1,candle
+294,295,parish,availability source,serves_as,1,candle
+292,20,priest,ritual,performs,1,candle
+296,297,attorney,counsel client,performs_ritual,1,candle
+296,298,attorney,closing date,occurs_on,1,candle
+299,300,retainer,payment guarantee,serves_as,1,candle
+301,302,interviewer,initial prospective client meeting,occurs_during,1,candle
+296,303,attorney,presentation,performs,1,candle
+304,305,scientist,counting repeats,performs_ritual,1,candle
+306,307,registration,greeting,occurs_during,1,candle
+310,311,doctor,equating to divine status,perform_ritual_of,1,candle
+310,312,doctor,ethics,observes,1,candle
+310,313,doctor,physical,performs,1,candle

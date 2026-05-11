@@ -35,7 +35,7 @@
     {
       "id": 3,
       "label": "gender",
-      "level": 1,
+      "level": 4,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -44,7 +44,7 @@
     {
       "id": 4,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -52,15 +52,6 @@
     },
     {
       "id": 5,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 1
-    },
-    {
-      "id": 6,
       "label": "accent variation",
       "level": 3,
       "cultural_group": "general",
@@ -69,16 +60,16 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "work environment",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "willingness to work hard",
       "level": 3,
       "cultural_group": "general",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "streetlights",
       "level": 3,
       "cultural_group": "general",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "lighting_adaptation",
       "level": 3,
       "cultural_group": "general",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "size of country",
       "level": 3,
       "cultural_group": "general",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "perception_of_underground_structures",
       "level": 3,
       "cultural_group": "general",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "personal beliefs",
       "level": 3,
       "cultural_group": "general",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "approaches to parenting",
       "level": 3,
       "cultural_group": "general",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "building types",
       "level": 3,
       "cultural_group": "general",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "floor terminology usage",
       "level": 3,
       "cultural_group": "general",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "storage conditions",
       "level": 3,
       "cultural_group": "general",
@@ -168,9 +159,18 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "quality",
-      "level": 1,
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "costs",
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -178,15 +178,6 @@
     },
     {
       "id": 19,
-      "label": "costs",
-      "level": 1,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 1
-    },
-    {
-      "id": 20,
       "label": "parental emotions",
       "level": 3,
       "cultural_group": "general",
@@ -195,16 +186,16 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "weather",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "jacket-wearing advice",
       "level": 3,
       "cultural_group": "general",
@@ -213,16 +204,16 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "harvest season",
-      "level": 1,
+      "level": 2,
       "cultural_group": "photographer",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "income",
       "level": 3,
       "cultural_group": "photographer",
@@ -251,17 +242,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 5,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "accent variation",
-      "relation_type": "affects",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 7,
-      "target": 8,
+      "source": 6,
+      "target": 7,
       "source_label": "work environment",
       "target_label": "willingness to work hard",
       "relation_type": "affect",
@@ -269,8 +251,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 9,
-      "target": 10,
+      "source": 8,
+      "target": 9,
       "source_label": "streetlights",
       "target_label": "lighting_adaptation",
       "relation_type": "affect",
@@ -278,8 +260,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 11,
-      "target": 12,
+      "source": 10,
+      "target": 11,
       "source_label": "size of country",
       "target_label": "perception_of_underground_structures",
       "relation_type": "affects",
@@ -287,8 +269,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 13,
-      "target": 14,
+      "source": 12,
+      "target": 13,
       "source_label": "personal beliefs",
       "target_label": "approaches to parenting",
       "relation_type": "affect",
@@ -296,8 +278,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 15,
-      "target": 16,
+      "source": 14,
+      "target": 15,
       "source_label": "building types",
       "target_label": "floor terminology usage",
       "relation_type": "affect",
@@ -305,8 +287,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 17,
-      "target": 18,
+      "source": 16,
+      "target": 17,
       "source_label": "storage conditions",
       "target_label": "quality",
       "relation_type": "affect",
@@ -314,8 +296,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 19,
-      "target": 20,
+      "source": 18,
+      "target": 19,
       "source_label": "costs",
       "target_label": "parental emotions",
       "relation_type": "affect",
@@ -323,8 +305,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 22,
+      "source": 20,
+      "target": 21,
       "source_label": "weather",
       "target_label": "jacket-wearing advice",
       "relation_type": "affects",
@@ -332,8 +314,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 23,
-      "target": 24,
+      "source": 22,
+      "target": 23,
       "source_label": "harvest season",
       "target_label": "income",
       "relation_type": "affects",

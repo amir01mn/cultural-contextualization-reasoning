@@ -5,12 +5,10 @@ source_id,target_id,source_label,target_label,relation_type,weight,source_datase
 7,8,visual appeal,intricate process,result_of,1,diwali
 9,10,ajrakh,intricate geometric and floral patterns,results_in,1,diwali
 5,11,algeria,functional and artistic products,results_in,1,diwali
-13,14,food consumption,air conditioning,result_of,1,culturebank
-15,16,diverse cultural landscape,blending,result_of,1,culturebank
-17,18,social interactions,misunderstandings,result_in,1,culturebank
-12,19,diwali,misunderstandings_or_lack_of_clarity,result_of,1,culturebank
-20,21,parenting plan,judicial intervention,result_of,1,candle
-22,23,difference,tailor-made,result_of,1,candle
-24,12,behavior,diwali,result_of,1,candle
-25,26,health,regular_checkups,result_of,1,candle
-27,28,success,doing same thing,result_of,1,candle
+12,13,food consumption,air conditioning,result_of,1,culturebank
+14,15,diverse cultural landscape,blending,result_of,1,culturebank
+16,17,social interactions,misunderstandings,result_in,1,culturebank
+19,20,parenting plan,judicial intervention,result_of,1,candle
+21,22,difference,tailor-made,result_of,1,candle
+24,25,health,regular_checkups,result_of,1,candle
+26,27,success,doing same thing,result_of,1,candle

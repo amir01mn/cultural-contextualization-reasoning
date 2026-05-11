@@ -2,145 +2,142 @@ node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
 1,ramadan,1,algeria,unknown,arabculture,4
 2,sahoor practice,3,algeria,unknown,arabculture,1
-3,day of arafat,1,algeria,unknown,arabculture,1
+3,day of arafat,4,algeria,unknown,arabculture,1
 4,fasting and preparation,3,algeria,unknown,arabculture,1
-5,قبل الذهاب للدراسة,3,algeria,unknown,arabculture,1
-6,putting on the emblem,3,algeria,unknown,arabculture,1
-7,economic practice,3,algeria,unknown,arabculture,1
-8,borrowing money,3,algeria,unknown,arabculture,1
-9,diwali,3,algeria,unknown,arabculture,73
-10,olive ingredient,3,algeria,unknown,arabculture,1
-11,algeria,3,algeria,unknown,arabculture,14
-12,suhour (pre-dawn meal) during ramadan,3,algeria,unknown,arabculture,1
-13,multiple family members,3,algeria,unknown,arabculture,1
-14,fasting and celebration,3,algeria,unknown,arabculture,1
-15,january celebrations,3,algeria,unknown,arabculture,1
-16,various practices,3,algeria,unknown,arabculture,1
-17,communication,1,algeria,unknown,arabculture,3
-18,dialect usage,3,algeria,unknown,arabculture,1
-19,proverb,1,algeria,unknown,arabculture,1
-20,limited knowledge,3,algeria,unknown,arabculture,1
-21,marriage,1,egypt,unknown,arabculture,1
-22,daily exchanges,3,egypt,unknown,arabculture,1
-23,game,1,egypt,unknown,arabculture,1
-24,striking the back,3,egypt,unknown,arabculture,1
-25,chase,3,egypt,unknown,arabculture,1
-26,funeral rituals,3,egypt,unknown,arabculture,1
-27,reception of mourners,3,egypt,unknown,arabculture,1
-28,wedding celebrations,1,egypt,unknown,arabculture,1
-29,countdown,3,egypt,unknown,arabculture,1
-30,household,1,egypt,unknown,arabculture,2
-31,home maintenance,3,egypt,unknown,arabculture,1
-32,iftar ceremony,3,egypt,unknown,arabculture,1
-33,52 motifs,3,bihar,unknown,diwali,1
-34,narrative scrolls,3,jharkhand,unknown,diwali,1
-35,creating patterns on fabrics,3,jharkhand,unknown,diwali,1
-36,ajrakh,1,rajasthan,unknown,diwali,1
-37,multiple stages of dyeing and resist printing,3,rajasthan,unknown,diwali,1
-38,floral and leaf motifs,3,uttar pradesh,unknown,diwali,1
-39,"selecting, cleaning, sun-drying, splitting, and weaving",3,andaman and nicobar islands,unknown,diwali,1
-40,expressive storytelling,3,andhra pradesh,unknown,diwali,1
-41,feminine movements,3,andhra pradesh,unknown,diwali,1
-42,storytelling,1,andhra pradesh,unknown,diwali,2
-43,percussive dance,3,andhra pradesh,unknown,diwali,1
-44,ball games,3,andhra pradesh,unknown,diwali,1
-45,ball play,3,andhra pradesh,unknown,diwali,1
-46,music and movement,3,andhra pradesh,unknown,diwali,1
-47,songs and music,3,andhra pradesh,unknown,diwali,1
-48,puppets,3,assam,unknown,diwali,1
-49,dance,1,assam,unknown,diwali,2
-50,dance and song,3,bihar,unknown,diwali,1
-51,paika,1,bihar,unknown,diwali,2
-52,chhau dance,1,bihar,unknown,diwali,2
-53,wooden horse props,3,bihar,unknown,diwali,1
-54,acrobatic movements,3,chhattisgarh,unknown,diwali,1
-55,nacha dance,1,chhattisgarh,unknown,diwali,1
-56,clapping,3,chhattisgarh,unknown,diwali,1
-57,circular movements,3,chhattisgarh,unknown,diwali,1
-58,dance and storytelling,3,chhattisgarh,unknown,diwali,1
-59,rhythmic clapping,3,chhattisgarh,unknown,diwali,1
-60,weaving braids,3,goa,unknown,diwali,1
-61,traditional instrumental performance,3,goa,unknown,diwali,1
-62,businesses and financial transactions,3,general,unknown,culturebank,1
-63,payments,3,general,unknown,culturebank,1
-64,financial transactions,3,general,unknown,culturebank,1
-65,social interactions,1,general,unknown,culturebank,5
-66,handing out napkins,3,general,unknown,culturebank,1
-67,activities,1,general,unknown,culturebank,2
-68,shopping,1,general,unknown,culturebank,1
-69,"frustration, confusion, shock",3,general,unknown,culturebank,1
-70,"gratitude, appreciation",3,general,unknown,culturebank,1
-71,smiling,3,general,unknown,culturebank,1
-72,babies,3,general,unknown,culturebank,1
-73,birth and supply costs,3,general,unknown,culturebank,1
-74,making amends,3,general,unknown,culturebank,1
-75,morning,1,general,unknown,culturebank,2
-76,business closure norms,3,general,unknown,culturebank,1
-77,americans,1,general,unknown,culturebank,1
-78,order,1,general,unknown,culturebank,1
-79,creating new surnames,3,general,unknown,culturebank,1
-80,rule-breaking and corruption,3,general,unknown,culturebank,1
-81,having lunch,3,general,unknown,culturebank,1
-82,different names for things,3,general,unknown,culturebank,1
-83,doggy bag usage,3,general,unknown,culturebank,1
-84,explicit expression,3,general,unknown,culturebank,1
-85,questions,1,general,unknown,culturebank,1
-86,chatting and small talk,3,general,unknown,culturebank,1
-87,safety,1,general,unknown,culturebank,1
-88,food consumption,1,general,unknown,culturebank,2
-89,sweetness preference,3,general,unknown,culturebank,1
-90,health considerations,3,general,unknown,culturebank,1
-91,algerian meal,3,dz,unknown,blend,1
-92,indispensable ingredients,3,dz,unknown,blend,1
-93,exam preparation,3,dz,unknown,blend,1
-94,self-study,3,dz,unknown,blend,1
-95,adding ras el hanout,3,dz,unknown,blend,1
-96,symbolic expression,3,dz,unknown,blend,1
-97,spending time together,3,dz,unknown,blend,1
-98,competition,3,judge,unknown,candle,1
-99,judge,1,judge,unknown,candle,1
-100,religious ceremonies,1,judge,unknown,candle,1
-101,candle,1,judge,unknown,candle,3
-102,initial testing,3,teacher,unknown,candle,1
-103,identified children,3,teacher,unknown,candle,1
-104,teacher-student relationship,3,teacher,unknown,candle,1
-105,regular interaction,3,teacher,unknown,candle,1
-106,progress discussion,3,teacher,unknown,candle,1
-107,process,1,teacher,unknown,candle,1
-108,interest,3,teacher,unknown,candle,1
-109,piano_practice,3,pianist,unknown,candle,1
-110,hand_separation,3,pianist,unknown,candle,1
-111,administrators,1,nurse,unknown,candle,1
-112,medication,1,nurse,unknown,candle,1
-113,appointment,3,nurse,unknown,candle,1
-114,planning,1,nurse,unknown,candle,1
-115,self-assessment,3,nurse,unknown,candle,1
-116,plaque removal,3,dentist,unknown,candle,1
-117,dental practice,3,dentist,unknown,candle,1
-118,ritualistic procedures,3,dentist,unknown,candle,1
-119,photographer,1,photographer,unknown,candle,2
-120,moment-capturing,3,photographer,unknown,candle,1
-121,hard work from photographers,3,photographer,unknown,candle,1
-122,training,1,artist,unknown,candle,1
-123,long periods,3,artist,unknown,candle,1
-124,ritual,1,artist,unknown,candle,1
-125,priest,1,priest,unknown,candle,1
-126,young_girl,3,priest,unknown,candle,1
-127,cultural_practice,3,priest,unknown,candle,1
-128,attorney,2,attorney,unknown,candle,8
-129,buyers,1,attorney,unknown,candle,1
-130,sellers,3,attorney,unknown,candle,1
-131,lenders,3,attorney,unknown,candle,1
-132,agents,3,attorney,unknown,candle,1
-133,media,1,attorney,unknown,candle,1
-134,appearance_of_each_side_with_attorney,3,attorney,unknown,candle,1
-135,immigration,3,attorney,unknown,candle,1
-136,court proceeding,3,attorney,unknown,candle,1
-137,attorney's record,3,attorney,unknown,candle,1
-138,united states,4,attorney,unknown,candle,1
-139,death,1,attorney,unknown,candle,1
-140,preparing,3,scientist,unknown,candle,1
-141,time allocation,3,scientist,unknown,candle,1
-142,journalist,1,journalist,unknown,candle,1
-143,service staff,1,waiter,unknown,candle,1
-144,tableside delivery,3,waiter,unknown,candle,1
+5,putting on the emblem,3,algeria,unknown,arabculture,1
+6,economic practice,3,algeria,unknown,arabculture,1
+7,borrowing money,3,algeria,unknown,arabculture,1
+8,olive ingredient,3,algeria,unknown,arabculture,1
+9,algeria,1,algeria,unknown,arabculture,14
+10,suhour (pre-dawn meal) during ramadan,3,algeria,unknown,arabculture,1
+11,multiple family members,3,algeria,unknown,arabculture,1
+12,fasting and celebration,3,algeria,unknown,arabculture,1
+13,january celebrations,3,algeria,unknown,arabculture,1
+14,various practices,3,algeria,unknown,arabculture,1
+15,communication,1,algeria,unknown,arabculture,3
+16,dialect usage,3,algeria,unknown,arabculture,1
+17,proverb,2,algeria,unknown,arabculture,1
+18,limited knowledge,3,algeria,unknown,arabculture,1
+19,marriage,3,egypt,unknown,arabculture,1
+20,daily exchanges,3,egypt,unknown,arabculture,1
+21,game,2,egypt,unknown,arabculture,1
+22,striking the back,3,egypt,unknown,arabculture,1
+23,chase,3,egypt,unknown,arabculture,1
+24,funeral rituals,3,egypt,unknown,arabculture,1
+25,reception of mourners,3,egypt,unknown,arabculture,1
+26,wedding celebrations,1,egypt,unknown,arabculture,1
+27,countdown,3,egypt,unknown,arabculture,1
+28,household,2,egypt,unknown,arabculture,2
+29,home maintenance,3,egypt,unknown,arabculture,1
+30,iftar ceremony,3,egypt,unknown,arabculture,1
+31,52 motifs,3,bihar,unknown,diwali,1
+32,narrative scrolls,3,jharkhand,unknown,diwali,1
+33,creating patterns on fabrics,3,jharkhand,unknown,diwali,1
+34,ajrakh,3,rajasthan,unknown,diwali,1
+35,multiple stages of dyeing and resist printing,3,rajasthan,unknown,diwali,1
+36,floral and leaf motifs,3,uttar pradesh,unknown,diwali,1
+37,"selecting, cleaning, sun-drying, splitting, and weaving",3,andaman and nicobar islands,unknown,diwali,1
+38,expressive storytelling,3,andhra pradesh,unknown,diwali,1
+39,feminine movements,3,andhra pradesh,unknown,diwali,1
+40,storytelling,4,andhra pradesh,unknown,diwali,2
+41,percussive dance,3,andhra pradesh,unknown,diwali,1
+42,ball games,3,andhra pradesh,unknown,diwali,1
+43,ball play,3,andhra pradesh,unknown,diwali,1
+44,music and movement,3,andhra pradesh,unknown,diwali,1
+45,songs and music,3,andhra pradesh,unknown,diwali,1
+46,puppets,3,assam,unknown,diwali,1
+47,dance,1,assam,unknown,diwali,2
+48,dance and song,3,bihar,unknown,diwali,1
+49,paika,3,bihar,unknown,diwali,2
+50,chhau dance,2,bihar,unknown,diwali,2
+51,wooden horse props,3,bihar,unknown,diwali,1
+52,acrobatic movements,3,chhattisgarh,unknown,diwali,1
+53,nacha dance,3,chhattisgarh,unknown,diwali,1
+54,clapping,3,chhattisgarh,unknown,diwali,1
+55,circular movements,3,chhattisgarh,unknown,diwali,1
+56,dance and storytelling,3,chhattisgarh,unknown,diwali,1
+57,rhythmic clapping,3,chhattisgarh,unknown,diwali,1
+58,weaving braids,3,goa,unknown,diwali,1
+59,traditional instrumental performance,3,goa,unknown,diwali,1
+60,businesses and financial transactions,3,general,unknown,culturebank,1
+61,payments,3,general,unknown,culturebank,1
+62,financial transactions,3,general,unknown,culturebank,1
+63,social interactions,1,general,unknown,culturebank,5
+64,handing out napkins,3,general,unknown,culturebank,1
+65,activities,1,general,unknown,culturebank,2
+66,shopping,2,general,unknown,culturebank,1
+67,"frustration, confusion, shock",3,general,unknown,culturebank,1
+68,"gratitude, appreciation",3,general,unknown,culturebank,1
+69,smiling,3,general,unknown,culturebank,1
+70,babies,3,general,unknown,culturebank,1
+71,birth and supply costs,3,general,unknown,culturebank,1
+72,making amends,3,general,unknown,culturebank,1
+73,morning,1,general,unknown,culturebank,2
+74,business closure norms,3,general,unknown,culturebank,1
+75,americans,1,general,unknown,culturebank,1
+76,order,3,general,unknown,culturebank,1
+77,creating new surnames,3,general,unknown,culturebank,1
+78,rule-breaking and corruption,3,general,unknown,culturebank,1
+79,having lunch,3,general,unknown,culturebank,1
+80,different names for things,3,general,unknown,culturebank,1
+81,doggy bag usage,3,general,unknown,culturebank,1
+82,explicit expression,3,general,unknown,culturebank,1
+83,questions,2,general,unknown,culturebank,1
+84,chatting and small talk,3,general,unknown,culturebank,1
+85,safety,2,general,unknown,culturebank,1
+86,food consumption,1,general,unknown,culturebank,2
+87,sweetness preference,3,general,unknown,culturebank,1
+88,health considerations,3,general,unknown,culturebank,1
+89,algerian meal,3,dz,unknown,blend,1
+90,indispensable ingredients,3,dz,unknown,blend,1
+91,exam preparation,3,dz,unknown,blend,1
+92,self-study,3,dz,unknown,blend,1
+93,adding ras el hanout,3,dz,unknown,blend,1
+94,symbolic expression,3,dz,unknown,blend,1
+95,spending time together,3,dz,unknown,blend,1
+96,competition,3,judge,unknown,candle,1
+97,judge,1,judge,unknown,candle,1
+98,religious ceremonies,1,judge,unknown,candle,1
+99,initial testing,3,teacher,unknown,candle,1
+100,identified children,3,teacher,unknown,candle,1
+101,teacher-student relationship,3,teacher,unknown,candle,1
+102,regular interaction,3,teacher,unknown,candle,1
+103,progress discussion,3,teacher,unknown,candle,1
+104,process,4,teacher,unknown,candle,1
+105,interest,3,teacher,unknown,candle,1
+106,piano_practice,3,pianist,unknown,candle,1
+107,hand_separation,3,pianist,unknown,candle,1
+108,administrators,4,nurse,unknown,candle,1
+109,medication,3,nurse,unknown,candle,1
+110,appointment,3,nurse,unknown,candle,1
+111,planning,4,nurse,unknown,candle,1
+112,self-assessment,3,nurse,unknown,candle,1
+113,plaque removal,3,dentist,unknown,candle,1
+114,dental practice,3,dentist,unknown,candle,1
+115,ritualistic procedures,3,dentist,unknown,candle,1
+116,photographer,1,photographer,unknown,candle,2
+117,moment-capturing,3,photographer,unknown,candle,1
+118,hard work from photographers,3,photographer,unknown,candle,1
+119,training,3,artist,unknown,candle,1
+120,long periods,3,artist,unknown,candle,1
+121,ritual,1,artist,unknown,candle,1
+122,priest,1,priest,unknown,candle,1
+123,young_girl,3,priest,unknown,candle,1
+124,cultural_practice,3,priest,unknown,candle,1
+125,attorney,1,attorney,unknown,candle,8
+126,buyers,5,attorney,unknown,candle,1
+127,sellers,3,attorney,unknown,candle,1
+128,lenders,3,attorney,unknown,candle,1
+129,agents,3,attorney,unknown,candle,1
+130,media,3,attorney,unknown,candle,1
+131,appearance_of_each_side_with_attorney,3,attorney,unknown,candle,1
+132,immigration,3,attorney,unknown,candle,1
+133,court proceeding,3,attorney,unknown,candle,1
+134,attorney's record,3,attorney,unknown,candle,1
+135,united states,1,attorney,unknown,candle,1
+136,death,3,attorney,unknown,candle,1
+137,preparing,3,scientist,unknown,candle,1
+138,time allocation,3,scientist,unknown,candle,1
+139,journalist,2,journalist,unknown,candle,1
+140,service staff,1,waiter,unknown,candle,1
+141,tableside delivery,3,waiter,unknown,candle,1

@@ -17,7 +17,7 @@
     {
       "id": 1,
       "label": "hospitality",
-      "level": 1,
+      "level": 3,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -35,7 +35,7 @@
     {
       "id": 3,
       "label": "personal hygiene",
-      "level": 1,
+      "level": 3,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -44,7 +44,7 @@
     {
       "id": 4,
       "label": "generations",
-      "level": 1,
+      "level": 3,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -53,7 +53,7 @@
     {
       "id": 5,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "label": "proverb",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -160,15 +160,6 @@
     },
     {
       "id": 17,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 17
-    },
-    {
-      "id": 18,
       "label": "custom of inquiry",
       "level": 3,
       "cultural_group": "egypt",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "gifts",
       "level": 1,
       "cultural_group": "egypt",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "present",
       "level": 3,
       "cultural_group": "egypt",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "loom weaving technique",
       "level": 3,
       "cultural_group": "sikkim",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "casual tone",
       "level": 3,
       "cultural_group": "general",
@@ -213,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "friendliness",
       "level": 3,
       "cultural_group": "general",
@@ -222,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "appropriate attire and accessories",
       "level": 3,
       "cultural_group": "general",
@@ -231,16 +222,16 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "patriotic manner",
       "level": 3,
       "cultural_group": "general",
@@ -249,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "offers of help",
       "level": 3,
       "cultural_group": "general",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "thriftiness",
       "level": 3,
       "cultural_group": "general",
@@ -267,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "admiration and appreciation",
       "level": 3,
       "cultural_group": "general",
@@ -276,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "likes",
       "level": 3,
       "cultural_group": "general",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "thank you messages",
       "level": 3,
       "cultural_group": "general",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "soccer rivalries",
       "level": 3,
       "cultural_group": "dz",
@@ -303,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "craft skills",
       "level": 3,
       "cultural_group": "dz",
@@ -312,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "oral traditions",
       "level": 3,
       "cultural_group": "dz",
@@ -321,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "sport traditions",
       "level": 3,
       "cultural_group": "dz",
@@ -330,7 +321,7 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "teacher_students_interaction",
       "level": 3,
       "cultural_group": "teacher",
@@ -339,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "portraits",
       "level": 3,
       "cultural_group": "photographer",
@@ -458,26 +449,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 17,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "generations",
-      "relation_type": "passed_down",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 17,
-      "target": 18,
-      "source_label": "diwali",
-      "target_label": "custom of inquiry",
-      "relation_type": "passes_down",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 19,
-      "target": 20,
+      "source": 18,
+      "target": 19,
       "source_label": "gifts",
       "target_label": "present",
       "relation_type": "expresses_love_through",
@@ -486,7 +459,7 @@
     },
     {
       "source": 5,
-      "target": 21,
+      "target": 20,
       "source_label": "algeria",
       "target_label": "loom weaving technique",
       "relation_type": "passes_down",
@@ -494,35 +467,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 17,
-      "target": 22,
-      "source_label": "diwali",
-      "target_label": "casual tone",
-      "relation_type": "expressed_through",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 23,
-      "target": 17,
-      "source_label": "friendliness",
-      "target_label": "diwali",
-      "relation_type": "expressed_through",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 17,
-      "target": 24,
-      "source_label": "diwali",
-      "target_label": "appropriate attire and accessories",
-      "relation_type": "expressed_through",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 25,
-      "target": 26,
+      "source": 24,
+      "target": 25,
       "source_label": "united states",
       "target_label": "patriotic manner",
       "relation_type": "expresses_love_through",
@@ -530,17 +476,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 17,
-      "target": 27,
-      "source_label": "diwali",
-      "target_label": "offers of help",
-      "relation_type": "expressed_through",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 5,
-      "target": 28,
+      "target": 27,
       "source_label": "algeria",
       "target_label": "thriftiness",
       "relation_type": "expressed_through",
@@ -549,7 +486,7 @@
     },
     {
       "source": 5,
-      "target": 29,
+      "target": 28,
       "source_label": "algeria",
       "target_label": "admiration and appreciation",
       "relation_type": "passed_down",
@@ -557,26 +494,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 17,
-      "target": 30,
-      "source_label": "diwali",
-      "target_label": "likes",
-      "relation_type": "expressed_through",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 17,
-      "target": 31,
-      "source_label": "diwali",
-      "target_label": "thank you messages",
-      "relation_type": "expressed_through",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 5,
-      "target": 32,
+      "target": 31,
       "source_label": "algeria",
       "target_label": "soccer rivalries",
       "relation_type": "expressed_through",
@@ -594,7 +513,7 @@
     },
     {
       "source": 5,
-      "target": 33,
+      "target": 32,
       "source_label": "algeria",
       "target_label": "craft skills",
       "relation_type": "pass_down",
@@ -603,7 +522,7 @@
     },
     {
       "source": 5,
-      "target": 34,
+      "target": 33,
       "source_label": "algeria",
       "target_label": "oral traditions",
       "relation_type": "pass_down",
@@ -612,21 +531,12 @@
     },
     {
       "source": 5,
-      "target": 35,
+      "target": 34,
       "source_label": "algeria",
       "target_label": "sport traditions",
       "relation_type": "pass_down",
       "weight": 1,
       "source_dataset": "blend"
-    },
-    {
-      "source": 17,
-      "target": 36,
-      "source_label": "diwali",
-      "target_label": "teacher_students_interaction",
-      "relation_type": "expressed_through",
-      "weight": 1,
-      "source_dataset": "candle"
     },
     {
       "source": 3,
@@ -639,7 +549,7 @@
     },
     {
       "source": 5,
-      "target": 37,
+      "target": 36,
       "source_label": "algeria",
       "target_label": "portraits",
       "relation_type": "passed_down_through",

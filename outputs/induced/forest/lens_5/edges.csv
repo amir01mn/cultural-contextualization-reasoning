@@ -1,138 +1,96 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,algeria,iftar in morning,practice,1,arabculture
 3,4,fruit usage,algerian desserts,common_in,1,arabculture
-5,6,diwali,religious observance,practices,1,arabculture
-1,7,algeria,nicely packaged gifts,cultural_practice,1,arabculture
-1,8,algeria,specialized cultivation,practices,1,arabculture
-1,9,algeria,caring for the young by the old,practices,1,arabculture
-10,11,region,north africa,practices_in,1,arabculture
-1,5,algeria,diwali,practice,2,arabculture
-1,12,algeria,making special sweet,practices,1,arabculture
-1,13,algeria,giving mahr,practices,1,arabculture
-1,14,algeria,marriage customs,practices,1,arabculture
-5,1,diwali,algeria,common_in,3,arabculture
-1,15,algeria,basic bathing,practices,1,arabculture
-1,16,algeria,game,cultural_practice,1,arabculture
-1,17,algeria,using musical instruments,practices,1,arabculture
-18,19,nile valley,traditional lunch preparation,has_cultural_practice,1,arabculture
-18,20,nile valley,family meal preparation,practices,1,arabculture
-18,21,nile valley,traditional fishing,practices,1,arabculture
-1,22,algeria,serving sahur together,practices,1,arabculture
-18,23,nile valley,writing for weddings,practices,1,arabculture
-18,24,nile valley,special car reservation for weddings,practices,1,arabculture
-18,25,nile valley,traditional wedding customs,practices,1,arabculture
-26,27,mouride community,ramadan,practices,1,arabculture
-18,28,nile valley,coffee preparation,practice,1,arabculture
-18,1,nile valley,algeria,cultural_practice,1,arabculture
-18,29,nile valley,mourning with qari,practice,1,arabculture
-18,30,nile valley,collective morning meal,practices,1,arabculture
-1,31,algeria,setting masqaa during meals,practice,1,arabculture
-32,33,mother,prepare iftar,cultural_practice,1,arabculture
-18,5,nile valley,diwali,practices,2,arabculture
-18,34,nile valley,serving eggs at suhoor,practices,1,arabculture
-18,35,nile valley,suhour customs,practices,1,arabculture
-18,36,nile valley,bringing date palms,practices,1,arabculture
-18,37,nile valley,buying new clothes,practices,1,arabculture
-18,38,nile valley,early morning routine,practices,1,arabculture
-39,18,cleaning,nile valley,practice,1,arabculture
-18,40,nile valley,thorough home maintenance,practice,1,arabculture
-1,41,algeria,home care rituals,practice,1,arabculture
-18,42,nile valley,egyptian household routines,practices_in,1,arabculture
-18,43,nile valley,thorough cleaning,practices,1,arabculture
-18,44,nile valley,inquiring strangers,practice,1,arabculture
-18,45,nile valley,gifting customs,practices,1,arabculture
-5,46,diwali,nile valley homes,common_in,1,arabculture
-47,48,tawang district inhabitants,monpa tribe,practice_weaving,1,diwali
-49,5,united states,diwali,practices,10,diwali
-50,5,gujarati artisans,diwali,practice,1,diwali
-51,52,gujarati cities,bandhani craft,practice,1,diwali
-53,54,gujarati weavers,double ikat weaving technique,practice,1,diwali
-5,1,diwali,algeria,practiced_by,1,diwali
-55,56,kutchi embroidery,karnataka,practiced_in,1,diwali
-55,57,kutchi embroidery,lambani or banjara community,practiced_by,1,diwali
-5,58,diwali,bhairavgarh,practiced_in,1,diwali
-55,5,kutchi embroidery,diwali,practiced_in,2,diwali
-5,59,diwali,loin loom weaving,practice_weaving,1,diwali
-60,59,naga tribes,loin loom weaving,practice,1,diwali
-1,61,algeria,odisha ikat designs,common_in,1,diwali
-5,62,diwali,jamdani,practices,1,diwali
-5,63,diwali,jaipur region,practiced_in,1,diwali
-64,5,chhipa community,diwali,practices,1,diwali
-5,65,diwali,mothra textile technique,practices,1,diwali
-66,5,ajrakh,diwali,practiced_in,1,diwali
-5,67,diwali,weaving koorainadu sarees,practices,1,diwali
-5,68,diwali,skilled craftsmanship,practice,1,diwali
-69,55,toda tribe,kutchi embroidery,practices,1,diwali
-5,1,diwali,algeria,practices,1,diwali
-70,55,lambada tribe,kutchi embroidery,practices,1,diwali
-5,71,diwali,loin loom textiles,practice_weaving,1,diwali
-5,72,diwali,reflecting weaving traditions,practice,1,diwali
-10,73,region,sustainable weaving,practices,1,diwali
-74,75,uttarakhand,woolen weaving,practices,1,diwali
-76,1,lower himalayan regions,algeria,practice,1,diwali
-5,77,diwali,rampur chaddar,practiced_in,1,diwali
-62,78,jamdani,parts of uttar pradesh,practiced_in,1,diwali
-62,5,jamdani,diwali,practiced_in,1,diwali
-1,55,algeria,kutchi embroidery,practice,1,diwali
-49,55,united states,kutchi embroidery,practice,1,diwali
-79,80,nicobarese people,traditional nicobarese weaving,practice_weaving,1,diwali
-5,81,diwali,traditional art form,practices,1,diwali
-5,82,diwali,making namda,practices,1,diwali
-5,1,diwali,algeria,practice,1,diwali
-5,83,diwali,rasaka,practices,2,diwali
-5,84,diwali,shiva priya,practices,2,diwali
-5,85,diwali,suddha_nartana,practices,1,diwali
-83,5,rasaka,diwali,cultural_practice_of,1,diwali
-5,49,diwali,united states,practiced_in,1,diwali
-5,49,diwali,united states,cultural_dance_of,1,diwali
-49,86,united states,ojapali,practices,1,diwali
-87,49,thengal kachari dance,united states,cultural_practice_of,1,diwali
-88,89,jikir and jari,assam cultural group,practiced_by,1,diwali
-86,49,ojapali,united states,cultural_practice_of,1,diwali
-90,49,natua,united states,cultural_practice_of,1,diwali
-91,5,chhattisgarh,diwali,practices,2,diwali
-5,91,diwali,chhattisgarh,cultural_practice_of,1,diwali
-1,5,algeria,diwali,practices,2,diwali
-91,5,chhattisgarh,diwali,practice,1,diwali
-5,92,diwali,water and soft drinks,common_for,1,culturebank
-49,93,united states,save money at starbucks,has_cultural_practice,1,culturebank
-49,94,united states,walking or cycling,practice,1,culturebank
-95,96,work environment,hall passes,practice,1,culturebank
-97,5,large stones,diwali,common_in,1,culturebank
-49,98,united states,use towels,practice,1,culturebank
-49,5,united states,diwali,common_practice,1,culturebank
-99,100,soap rinsing,bathroom hygiene,common_practice,1,culturebank
-101,102,employees,budgeting,practice,1,culturebank
-103,1,water conservation,algeria,practiced_by,1,culturebank
-49,104,united states,pen license ceremony,practice,1,culturebank
-1,105,algeria,"usa, australia",practiced_in,1,culturebank
-49,106,united states,doggy bag,practices,1,culturebank
-107,108,california residents,recycling,practice,1,culturebank
-109,5,smokers,diwali,practice,1,culturebank
-110,1,jealousy,algeria,common_among,1,culturebank
-49,111,united states,showering in tubs,practices,1,culturebank
-49,112,united states,sitting in tubs during bath,practice,1,culturebank
-113,114,outdoors,family outings,common_for,1,blend
-115,1,weekdays,algeria,common_for,1,blend
-116,117,family planning,many couples,practiced_by,1,blend
-1,118,algeria,postpartum confinement,cultural_practice,1,blend
-32,119,mother,postpartum seclusion,practice,1,blend
-1,120,algeria,gifting upon visit,common_practice,1,blend
-121,122,musical instrument learning,elementary school students,common_among,1,blend
-1,123,algeria,mental sports,practice,1,blend
-1,124,algeria,use of symbols,practices,1,blend
-125,126,leisure activity,20s females,common_among,1,blend
-1,127,algeria,surveying female preferences,has_cultural_practice,1,blend
-1,128,algeria,graduation ceremony clothing norms,has_cultural_practice,1,blend
-1,129,algeria,martial arts sports,practices,1,blend
-1,130,algeria,giving gifts,has_cultural_practice,1,blend
-1,131,algeria,consumption of coffee/tea,practices,1,blend
-5,132,diwali,livestock farming,practices,1,blend
-133,1,late-night snack,algeria,common_in,1,blend
-134,1,morning,algeria,common_in,1,blend
-1,135,algeria,playing soccer,has_cultural_practice,1,blend
-1,136,algeria,daily exercise,practice,1,blend
-1,137,algeria,walking,practice,1,candle
-138,139,specialist digital photographers,agreeing,practice,1,candle
-140,5,pound fellows receptions,diwali,practice_of,1,candle
-141,142,events,attorney,common_among,1,candle
+1,6,algeria,nicely packaged gifts,cultural_practice,1,arabculture
+1,7,algeria,specialized cultivation,practices,1,arabculture
+1,8,algeria,caring for the young by the old,practices,1,arabculture
+9,10,region,north africa,practices_in,1,arabculture
+1,11,algeria,making special sweet,practices,1,arabculture
+1,12,algeria,giving mahr,practices,1,arabculture
+1,13,algeria,marriage customs,practices,1,arabculture
+1,14,algeria,basic bathing,practices,1,arabculture
+1,15,algeria,game,cultural_practice,1,arabculture
+1,16,algeria,using musical instruments,practices,1,arabculture
+17,18,nile valley,traditional lunch preparation,has_cultural_practice,1,arabculture
+17,19,nile valley,family meal preparation,practices,1,arabculture
+17,20,nile valley,traditional fishing,practices,1,arabculture
+1,21,algeria,serving sahur together,practices,1,arabculture
+17,22,nile valley,writing for weddings,practices,1,arabculture
+17,23,nile valley,special car reservation for weddings,practices,1,arabculture
+17,24,nile valley,traditional wedding customs,practices,1,arabculture
+25,26,mouride community,ramadan,practices,1,arabculture
+17,27,nile valley,coffee preparation,practice,1,arabculture
+17,1,nile valley,algeria,cultural_practice,1,arabculture
+17,28,nile valley,mourning with qari,practice,1,arabculture
+17,29,nile valley,collective morning meal,practices,1,arabculture
+1,30,algeria,setting masqaa during meals,practice,1,arabculture
+31,32,mother,prepare iftar,cultural_practice,1,arabculture
+17,33,nile valley,serving eggs at suhoor,practices,1,arabculture
+17,34,nile valley,suhour customs,practices,1,arabculture
+17,35,nile valley,bringing date palms,practices,1,arabculture
+17,36,nile valley,buying new clothes,practices,1,arabculture
+17,37,nile valley,early morning routine,practices,1,arabculture
+38,17,cleaning,nile valley,practice,1,arabculture
+17,39,nile valley,thorough home maintenance,practice,1,arabculture
+1,40,algeria,home care rituals,practice,1,arabculture
+17,41,nile valley,egyptian household routines,practices_in,1,arabculture
+17,42,nile valley,thorough cleaning,practices,1,arabculture
+17,43,nile valley,inquiring strangers,practice,1,arabculture
+17,44,nile valley,gifting customs,practices,1,arabculture
+46,47,tawang district inhabitants,monpa tribe,practice_weaving,1,diwali
+50,51,gujarati cities,bandhani craft,practice,1,diwali
+52,53,gujarati weavers,double ikat weaving technique,practice,1,diwali
+54,55,kutchi embroidery,karnataka,practiced_in,1,diwali
+54,56,kutchi embroidery,lambani or banjara community,practiced_by,1,diwali
+59,58,naga tribes,loin loom weaving,practice,1,diwali
+1,60,algeria,odisha ikat designs,common_in,1,diwali
+68,54,toda tribe,kutchi embroidery,practices,1,diwali
+69,54,lambada tribe,kutchi embroidery,practices,1,diwali
+9,72,region,sustainable weaving,practices,1,diwali
+73,74,uttarakhand,woolen weaving,practices,1,diwali
+75,1,lower himalayan regions,algeria,practice,1,diwali
+61,77,jamdani,parts of uttar pradesh,practiced_in,1,diwali
+1,54,algeria,kutchi embroidery,practice,1,diwali
+48,54,united states,kutchi embroidery,practice,1,diwali
+78,79,nicobarese people,traditional nicobarese weaving,practice_weaving,1,diwali
+48,85,united states,ojapali,practices,1,diwali
+86,48,thengal kachari dance,united states,cultural_practice_of,1,diwali
+87,88,jikir and jari,assam cultural group,practiced_by,1,diwali
+85,48,ojapali,united states,cultural_practice_of,1,diwali
+89,48,natua,united states,cultural_practice_of,1,diwali
+48,92,united states,save money at starbucks,has_cultural_practice,1,culturebank
+48,93,united states,walking or cycling,practice,1,culturebank
+94,95,work environment,hall passes,practice,1,culturebank
+48,97,united states,use towels,practice,1,culturebank
+98,99,soap rinsing,bathroom hygiene,common_practice,1,culturebank
+100,101,employees,budgeting,practice,1,culturebank
+102,1,water conservation,algeria,practiced_by,1,culturebank
+48,103,united states,pen license ceremony,practice,1,culturebank
+1,104,algeria,"usa, australia",practiced_in,1,culturebank
+48,105,united states,doggy bag,practices,1,culturebank
+106,107,california residents,recycling,practice,1,culturebank
+109,1,jealousy,algeria,common_among,1,culturebank
+48,110,united states,showering in tubs,practices,1,culturebank
+48,111,united states,sitting in tubs during bath,practice,1,culturebank
+112,113,outdoors,family outings,common_for,1,blend
+114,1,weekdays,algeria,common_for,1,blend
+115,116,family planning,many couples,practiced_by,1,blend
+1,117,algeria,postpartum confinement,cultural_practice,1,blend
+31,118,mother,postpartum seclusion,practice,1,blend
+1,119,algeria,gifting upon visit,common_practice,1,blend
+120,121,musical instrument learning,elementary school students,common_among,1,blend
+1,122,algeria,mental sports,practice,1,blend
+1,123,algeria,use of symbols,practices,1,blend
+124,125,leisure activity,20s females,common_among,1,blend
+1,126,algeria,surveying female preferences,has_cultural_practice,1,blend
+1,127,algeria,graduation ceremony clothing norms,has_cultural_practice,1,blend
+1,128,algeria,martial arts sports,practices,1,blend
+1,129,algeria,giving gifts,has_cultural_practice,1,blend
+1,130,algeria,consumption of coffee/tea,practices,1,blend
+132,1,late-night snack,algeria,common_in,1,blend
+133,1,morning,algeria,common_in,1,blend
+1,134,algeria,playing soccer,has_cultural_practice,1,blend
+1,135,algeria,daily exercise,practice,1,blend
+1,136,algeria,walking,practice,1,candle
+137,138,specialist digital photographers,agreeing,practice,1,candle
+140,141,events,attorney,common_among,1,candle

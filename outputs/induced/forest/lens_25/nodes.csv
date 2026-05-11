@@ -1,49 +1,48 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,algeria,3,algeria,unknown,arabculture,6
+1,algeria,1,algeria,unknown,arabculture,6
 2,large quantity of fruits,3,algeria,unknown,arabculture,1
-3,diwali,3,andhra pradesh,unknown,diwali,30
-4,dharmavaram,3,andhra pradesh,unknown,diwali,1
-5,srikalahasti kalamkari,1,andhra pradesh,unknown,diwali,1
-6,pedana town,3,andhra pradesh,unknown,diwali,1
-7,eri silk,1,assam,unknown,diwali,2
-8,united states,4,assam,unknown,diwali,3
-9,fabric,1,bihar,unknown,diwali,1
-10,"baikunthpur, bihar",3,bihar,unknown,diwali,1
-11,antheraea mylitta silkworm,3,chhattisgarh,unknown,diwali,1
-12,"handkerchiefs, tablecloths, pillow covers, bedspreads",3,goa,unknown,diwali,1
-13,textiles,1,goa,unknown,diwali,2
-14,himachal pradesh,3,himachal pradesh,unknown,diwali,1
-15,kharsawan-kuchai region,3,jharkhand,unknown,diwali,1
-16,bhagalpuri silk,1,jharkhand,unknown,diwali,1
-17,bihar and jharkhand border,3,jharkhand,unknown,diwali,1
-18,santhal community,3,jharkhand,unknown,diwali,1
-19,kochi handloom,3,kerala,unknown,diwali,1
-20,kochi region,3,kerala,unknown,diwali,1
-21,chhindwara,3,madhya pradesh,unknown,diwali,1
-22,solapur,3,maharashtra,unknown,diwali,1
-23,tribes of meghalaya,3,meghalaya,unknown,diwali,1
-24,traditional textiles,3,mizoram,unknown,diwali,1
-25,loin loom weaving,1,nagaland,unknown,diwali,1
-26,tribal patterns,3,nagaland,unknown,diwali,1
-27,salem region,3,tamil nadu,unknown,diwali,1
-28,white silk dhotis,3,tamil nadu,unknown,diwali,1
-29,kanchipuram silk saree,1,tamil nadu,unknown,diwali,1
-30,narayanpet town,3,telangana,unknown,diwali,1
-31,ropes,3,uttarakhand,unknown,diwali,1
-32,region,1,uttarakhand,unknown,diwali,1
-33,apparel_grade_wool,3,uttarakhand,unknown,diwali,1
-34,shantipuri sari,1,west bengal,unknown,diwali,2
-35,murshidabad,3,west bengal,unknown,diwali,1
-36,pondicherry handloom fabrics,3,puducherry,unknown,diwali,1
-37,various fine fabrics,3,puducherry,unknown,diwali,1
-38,rhythmic sounds,3,andhra pradesh,unknown,diwali,1
-39,unique rhythmic sounds,3,andhra pradesh,unknown,diwali,1
-40,muslim saint,3,assam,unknown,diwali,1
-41,azan,1,assam,unknown,diwali,1
-42,jikir and jari,1,assam,unknown,diwali,1
-43,flavors,3,general,unknown,culturebank,1
-44,famous boxers,3,dz,unknown,blend,1
-45,toy makers,3,dz,unknown,blend,1
-46,handcrafted dolls,3,dz,unknown,blend,1
-47,papers,1,tailor,unknown,candle,1
+3,dharmavaram,3,andhra pradesh,unknown,diwali,1
+4,srikalahasti kalamkari,2,andhra pradesh,unknown,diwali,1
+5,pedana town,3,andhra pradesh,unknown,diwali,1
+6,eri silk,1,assam,unknown,diwali,2
+7,united states,1,assam,unknown,diwali,3
+8,fabric,1,bihar,unknown,diwali,1
+9,"baikunthpur, bihar",3,bihar,unknown,diwali,1
+10,antheraea mylitta silkworm,3,chhattisgarh,unknown,diwali,1
+11,"handkerchiefs, tablecloths, pillow covers, bedspreads",3,goa,unknown,diwali,1
+12,textiles,1,goa,unknown,diwali,2
+13,himachal pradesh,3,himachal pradesh,unknown,diwali,1
+14,kharsawan-kuchai region,3,jharkhand,unknown,diwali,1
+15,bhagalpuri silk,2,jharkhand,unknown,diwali,1
+16,bihar and jharkhand border,3,jharkhand,unknown,diwali,1
+17,santhal community,3,jharkhand,unknown,diwali,1
+18,kochi handloom,3,kerala,unknown,diwali,1
+19,kochi region,3,kerala,unknown,diwali,1
+20,chhindwara,3,madhya pradesh,unknown,diwali,1
+21,solapur,3,maharashtra,unknown,diwali,1
+22,tribes of meghalaya,3,meghalaya,unknown,diwali,1
+23,traditional textiles,3,mizoram,unknown,diwali,1
+24,loin loom weaving,4,nagaland,unknown,diwali,1
+25,tribal patterns,3,nagaland,unknown,diwali,1
+26,salem region,3,tamil nadu,unknown,diwali,1
+27,white silk dhotis,3,tamil nadu,unknown,diwali,1
+28,kanchipuram silk saree,3,tamil nadu,unknown,diwali,1
+29,narayanpet town,3,telangana,unknown,diwali,1
+30,ropes,3,uttarakhand,unknown,diwali,1
+31,region,1,uttarakhand,unknown,diwali,1
+32,apparel_grade_wool,3,uttarakhand,unknown,diwali,1
+33,shantipuri sari,4,west bengal,unknown,diwali,2
+34,murshidabad,3,west bengal,unknown,diwali,1
+35,pondicherry handloom fabrics,3,puducherry,unknown,diwali,1
+36,various fine fabrics,3,puducherry,unknown,diwali,1
+37,rhythmic sounds,3,andhra pradesh,unknown,diwali,1
+38,unique rhythmic sounds,3,andhra pradesh,unknown,diwali,1
+39,muslim saint,3,assam,unknown,diwali,1
+40,azan,4,assam,unknown,diwali,1
+41,jikir and jari,4,assam,unknown,diwali,1
+42,flavors,3,general,unknown,culturebank,1
+43,famous boxers,3,dz,unknown,blend,1
+44,toy makers,3,dz,unknown,blend,1
+45,handcrafted dolls,3,dz,unknown,blend,1
+46,papers,2,tailor,unknown,candle,1

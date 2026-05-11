@@ -16,24 +16,15 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 47
-    },
-    {
-      "id": 2,
       "label": "cultural heritage",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 2
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "communication",
       "level": 1,
       "cultural_group": "algeria",
@@ -42,7 +33,7 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "peace values",
       "level": 3,
       "cultural_group": "algeria",
@@ -51,16 +42,16 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 19
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "family tradition",
       "level": 3,
       "cultural_group": "algeria",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "youth culture",
       "level": 3,
       "cultural_group": "algeria",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "modernization",
       "level": 3,
       "cultural_group": "algeria",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "agricultural practices",
       "level": 3,
       "cultural_group": "algeria",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "right-handed culture",
       "level": 3,
       "cultural_group": "egypt",
@@ -105,16 +96,16 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "game",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "real-world banking",
       "level": 3,
       "cultural_group": "egypt",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "dabka",
       "level": 3,
       "cultural_group": "egypt",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "disciplined aesthetic",
       "level": 3,
       "cultural_group": "arunachal pradesh",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "tribal identity",
       "level": 3,
       "cultural_group": "arunachal pradesh",
@@ -150,16 +141,16 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "rabha tribe",
-      "level": 1,
+      "level": 3,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "christian heritage",
       "level": 3,
       "cultural_group": "goa",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "traditional goan handloom fabrics",
       "level": 3,
       "cultural_group": "goa",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "coastal heritage",
       "level": 3,
       "cultural_group": "goa",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "haryana's rich cultural",
       "level": 3,
       "cultural_group": "haryana",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "unique_embroidery_styles",
       "level": 3,
       "cultural_group": "himachal pradesh",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "weaving excellence",
       "level": 3,
       "cultural_group": "himachal pradesh",
@@ -213,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "utilitarianism",
       "level": 3,
       "cultural_group": "jharkhand",
@@ -222,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "weaving techniques",
       "level": 3,
       "cultural_group": "kerala",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "textiles",
       "level": 1,
       "cultural_group": "kerala",
@@ -240,16 +231,16 @@
       "frequency": 2
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "chanderi sari",
-      "level": 1,
+      "level": 3,
       "cultural_group": "madhya pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "royal influences",
       "level": 3,
       "cultural_group": "madhya pradesh",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "cultural tapestry of madhya pradesh",
       "level": 3,
       "cultural_group": "madhya pradesh",
@@ -267,16 +258,16 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "local folklore",
-      "level": 1,
+      "level": 5,
       "cultural_group": "madhya pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "cultural heritage of maharashtra",
       "level": 3,
       "cultural_group": "maharashtra",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "cultural identity of meitei community",
       "level": 3,
       "cultural_group": "manipur",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "khasi women's cultural attire",
       "level": 3,
       "cultural_group": "meghalaya",
@@ -303,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "tribal motifs and local folklore",
       "level": 3,
       "cultural_group": "mizoram",
@@ -312,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "region's rich heritage",
       "level": 3,
       "cultural_group": "odisha",
@@ -321,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "vibrant artistry",
       "level": 3,
       "cultural_group": "odisha",
@@ -330,7 +321,7 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "punjabi craftsmanship",
       "level": 3,
       "cultural_group": "punjab",
@@ -339,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "simplicity and elegance",
       "level": 3,
       "cultural_group": "punjab",
@@ -348,7 +339,7 @@
       "frequency": 1
     },
     {
-      "id": 38,
+      "id": 37,
       "label": "regional craftsmanship",
       "level": 3,
       "cultural_group": "punjab",
@@ -357,7 +348,7 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 38,
       "label": "tibetan_influences",
       "level": 3,
       "cultural_group": "sikkim",
@@ -366,7 +357,7 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 39,
       "label": "craftsmanship skill",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -375,16 +366,16 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 40,
       "label": "thirubuvanam silk saree",
-      "level": 1,
+      "level": 5,
       "cultural_group": "tamil nadu",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 41,
       "label": "traditional weaving techniques",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -393,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 42,
       "label": "textile tradition",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -402,16 +393,16 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 43,
       "label": "blankets",
-      "level": 1,
+      "level": 3,
       "cultural_group": "telangana",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 44,
       "label": "pastoral lifestyle",
       "level": 3,
       "cultural_group": "telangana",
@@ -420,16 +411,16 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 45,
       "label": "jamdani",
-      "level": 1,
+      "level": 2,
       "cultural_group": "uttar pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 46,
       "label": "regional traditions blending",
       "level": 3,
       "cultural_group": "uttar pradesh",
@@ -438,7 +429,7 @@
       "frequency": 1
     },
     {
-      "id": 48,
+      "id": 47,
       "label": "region's rich storytelling tradition",
       "level": 3,
       "cultural_group": "west bengal",
@@ -447,7 +438,7 @@
       "frequency": 1
     },
     {
-      "id": 49,
+      "id": 48,
       "label": "artisans' surroundings",
       "level": 3,
       "cultural_group": "west bengal",
@@ -456,7 +447,7 @@
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 49,
       "label": "utilitarian and artistic weaving practices",
       "level": 3,
       "cultural_group": "chandigarh",
@@ -465,7 +456,7 @@
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 50,
       "label": "aesthetic sensibilities of mughal era",
       "level": 3,
       "cultural_group": "delhi",
@@ -474,7 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 51,
       "label": "textile traditions",
       "level": 3,
       "cultural_group": "jammu and kashmir",
@@ -483,7 +474,7 @@
       "frequency": 1
     },
     {
-      "id": 53,
+      "id": 52,
       "label": "pashmina wool products",
       "level": 3,
       "cultural_group": "ladakh",
@@ -492,7 +483,7 @@
       "frequency": 1
     },
     {
-      "id": 54,
+      "id": 53,
       "label": "regional heritage",
       "level": 3,
       "cultural_group": "ladakh",
@@ -501,7 +492,7 @@
       "frequency": 1
     },
     {
-      "id": 55,
+      "id": 54,
       "label": "island's resourcefulness",
       "level": 3,
       "cultural_group": "lakshadweep",
@@ -510,7 +501,7 @@
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 55,
       "label": "rich weaving traditions",
       "level": 3,
       "cultural_group": "puducherry",
@@ -519,16 +510,16 @@
       "frequency": 1
     },
     {
-      "id": 57,
+      "id": 56,
       "label": "barpeta's bhortal nritya",
-      "level": 1,
+      "level": 2,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 3
     },
     {
-      "id": 58,
+      "id": 57,
       "label": "rich cultural heritage",
       "level": 3,
       "cultural_group": "assam",
@@ -537,7 +528,7 @@
       "frequency": 1
     },
     {
-      "id": 59,
+      "id": 58,
       "label": "vaishnavite culture",
       "level": 3,
       "cultural_group": "assam",
@@ -546,7 +537,7 @@
       "frequency": 1
     },
     {
-      "id": 60,
+      "id": 59,
       "label": "dance",
       "level": 1,
       "cultural_group": "assam",
@@ -555,7 +546,7 @@
       "frequency": 2
     },
     {
-      "id": 61,
+      "id": 60,
       "label": "assam's tea garden communities",
       "level": 3,
       "cultural_group": "assam",
@@ -564,16 +555,16 @@
       "frequency": 1
     },
     {
-      "id": 62,
+      "id": 61,
       "label": "kalaigaon dance",
-      "level": 1,
+      "level": 3,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 63,
+      "id": 62,
       "label": "barpeta cultural heritage",
       "level": 3,
       "cultural_group": "assam",
@@ -582,7 +573,7 @@
       "frequency": 1
     },
     {
-      "id": 64,
+      "id": 63,
       "label": "agricultural culture",
       "level": 3,
       "cultural_group": "assam",
@@ -591,7 +582,7 @@
       "frequency": 1
     },
     {
-      "id": 65,
+      "id": 64,
       "label": "assam tea garden communities",
       "level": 3,
       "cultural_group": "assam",
@@ -600,7 +591,7 @@
       "frequency": 1
     },
     {
-      "id": 66,
+      "id": 65,
       "label": "cultural fusion",
       "level": 3,
       "cultural_group": "goa",
@@ -609,7 +600,7 @@
       "frequency": 1
     },
     {
-      "id": 67,
+      "id": 66,
       "label": "social issues",
       "level": 3,
       "cultural_group": "goa",
@@ -618,16 +609,16 @@
       "frequency": 1
     },
     {
-      "id": 68,
+      "id": 67,
       "label": "prices",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 69,
+      "id": 68,
       "label": "perceived unfamiliarity",
       "level": 3,
       "cultural_group": "general",
@@ -636,7 +627,7 @@
       "frequency": 1
     },
     {
-      "id": 70,
+      "id": 69,
       "label": "lifestyle preference",
       "level": 3,
       "cultural_group": "general",
@@ -645,7 +636,7 @@
       "frequency": 1
     },
     {
-      "id": 71,
+      "id": 70,
       "label": "household practices",
       "level": 3,
       "cultural_group": "general",
@@ -654,7 +645,7 @@
       "frequency": 1
     },
     {
-      "id": 72,
+      "id": 71,
       "label": "resource conservation",
       "level": 3,
       "cultural_group": "general",
@@ -663,16 +654,16 @@
       "frequency": 1
     },
     {
-      "id": 73,
+      "id": 72,
       "label": "daily life",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 74,
+      "id": 73,
       "label": "capitalist norms",
       "level": 3,
       "cultural_group": "general",
@@ -681,7 +672,7 @@
       "frequency": 1
     },
     {
-      "id": 75,
+      "id": 74,
       "label": "relaxed attitude",
       "level": 3,
       "cultural_group": "general",
@@ -690,7 +681,7 @@
       "frequency": 1
     },
     {
-      "id": 76,
+      "id": 75,
       "label": "berber and arab influences",
       "level": 3,
       "cultural_group": "dz",
@@ -699,7 +690,7 @@
       "frequency": 1
     },
     {
-      "id": 77,
+      "id": 76,
       "label": "generosity and hospitality",
       "level": 3,
       "cultural_group": "dz",
@@ -708,7 +699,7 @@
       "frequency": 1
     },
     {
-      "id": 78,
+      "id": 77,
       "label": "expectation",
       "level": 3,
       "cultural_group": "teacher",
@@ -717,7 +708,7 @@
       "frequency": 1
     },
     {
-      "id": 79,
+      "id": 78,
       "label": "high standards",
       "level": 3,
       "cultural_group": "teacher",
@@ -726,7 +717,7 @@
       "frequency": 1
     },
     {
-      "id": 80,
+      "id": 79,
       "label": "delicacy",
       "level": 3,
       "cultural_group": "photographer",
@@ -735,7 +726,7 @@
       "frequency": 1
     },
     {
-      "id": 81,
+      "id": 80,
       "label": "photographer",
       "level": 1,
       "cultural_group": "photographer",
@@ -744,7 +735,7 @@
       "frequency": 1
     },
     {
-      "id": 82,
+      "id": 81,
       "label": "unrecorded land",
       "level": 3,
       "cultural_group": "photographer",
@@ -755,17 +746,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "cultural heritage",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "communication",
       "target_label": "peace values",
       "relation_type": "reflects",
@@ -773,8 +755,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 5,
-      "target": 6,
+      "source": 4,
+      "target": 5,
       "source_label": "algeria",
       "target_label": "family tradition",
       "relation_type": "reflects",
@@ -782,8 +764,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 7,
-      "target": 8,
+      "source": 6,
+      "target": 7,
       "source_label": "youth culture",
       "target_label": "modernization",
       "relation_type": "reflects",
@@ -791,8 +773,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 9,
-      "target": 5,
+      "source": 8,
+      "target": 4,
       "source_label": "agricultural practices",
       "target_label": "algeria",
       "relation_type": "reflect",
@@ -800,17 +782,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
-      "target": 10,
-      "source_label": "diwali",
-      "target_label": "right-handed culture",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 11,
-      "target": 12,
+      "source": 10,
+      "target": 11,
       "source_label": "game",
       "target_label": "real-world banking",
       "relation_type": "reflect",
@@ -818,8 +791,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 13,
-      "target": 5,
+      "source": 12,
+      "target": 4,
       "source_label": "dabka",
       "target_label": "algeria",
       "relation_type": "reflects",
@@ -827,53 +800,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
-      "target": 14,
-      "source_label": "diwali",
-      "target_label": "disciplined aesthetic",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 15,
-      "source_label": "diwali",
-      "target_label": "tribal identity",
-      "relation_type": "reflect",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "reflects_heritage",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 16,
-      "source_label": "diwali",
-      "target_label": "rabha tribe",
-      "relation_type": "reflects_cultural_heritage",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 17,
-      "source_label": "diwali",
-      "target_label": "christian heritage",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 18,
-      "target": 19,
+      "source": 17,
+      "target": 18,
       "source_label": "traditional goan handloom fabrics",
       "target_label": "coastal heritage",
       "relation_type": "reflect",
@@ -881,71 +809,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 20,
-      "source_label": "diwali",
-      "target_label": "haryana's rich cultural",
-      "relation_type": "reflects_heritage",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "reflects",
-      "weight": 4,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 21,
-      "source_label": "diwali",
-      "target_label": "unique_embroidery_styles",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 22,
-      "source_label": "diwali",
-      "target_label": "weaving excellence",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 5,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "reflect",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 23,
-      "source_label": "diwali",
-      "target_label": "utilitarianism",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 24,
-      "source_label": "diwali",
-      "target_label": "weaving techniques",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 25,
-      "target": 5,
+      "source": 24,
+      "target": 4,
       "source_label": "textiles",
       "target_label": "algeria",
       "relation_type": "reflect",
@@ -953,8 +818,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 26,
-      "target": 27,
+      "source": 25,
+      "target": 26,
       "source_label": "chanderi sari",
       "target_label": "royal influences",
       "relation_type": "reflects",
@@ -962,62 +827,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 28,
-      "source_label": "diwali",
-      "target_label": "cultural tapestry of madhya pradesh",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 29,
-      "source_label": "diwali",
-      "target_label": "local folklore",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 30,
-      "source_label": "diwali",
-      "target_label": "cultural heritage of maharashtra",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 31,
-      "source_label": "diwali",
-      "target_label": "cultural identity of meitei community",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 32,
-      "source_label": "diwali",
-      "target_label": "khasi women's cultural attire",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
+      "source": 4,
       "target": 33,
-      "source_label": "diwali",
-      "target_label": "tribal motifs and local folklore",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 5,
-      "target": 34,
       "source_label": "algeria",
       "target_label": "region's rich heritage",
       "relation_type": "reflect",
@@ -1025,17 +836,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 35,
-      "source_label": "diwali",
-      "target_label": "vibrant artistry",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 36,
-      "target": 37,
+      "source": 35,
+      "target": 36,
       "source_label": "punjabi craftsmanship",
       "target_label": "simplicity and elegance",
       "relation_type": "reflect",
@@ -1043,35 +845,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 38,
-      "source_label": "diwali",
-      "target_label": "regional craftsmanship",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 39,
-      "source_label": "diwali",
-      "target_label": "tibetan_influences",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 40,
-      "source_label": "diwali",
-      "target_label": "craftsmanship skill",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 41,
-      "target": 42,
+      "source": 40,
+      "target": 41,
       "source_label": "thirubuvanam silk saree",
       "target_label": "traditional weaving techniques",
       "relation_type": "reflect",
@@ -1079,17 +854,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 43,
-      "source_label": "diwali",
-      "target_label": "textile tradition",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 44,
-      "target": 45,
+      "source": 43,
+      "target": 44,
       "source_label": "blankets",
       "target_label": "pastoral lifestyle",
       "relation_type": "reflect",
@@ -1097,8 +863,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 46,
-      "target": 47,
+      "source": 45,
+      "target": 46,
       "source_label": "jamdani",
       "target_label": "regional traditions blending",
       "relation_type": "reflects",
@@ -1106,17 +872,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
+      "source": 4,
       "target": 48,
-      "source_label": "diwali",
-      "target_label": "region's rich storytelling tradition",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 5,
-      "target": 49,
       "source_label": "algeria",
       "target_label": "artisans' surroundings",
       "relation_type": "reflect",
@@ -1124,35 +881,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 50,
-      "source_label": "diwali",
-      "target_label": "utilitarian and artistic weaving practices",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 51,
-      "source_label": "diwali",
-      "target_label": "aesthetic sensibilities of mughal era",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 52,
-      "source_label": "diwali",
-      "target_label": "textile traditions",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 53,
-      "target": 54,
+      "source": 52,
+      "target": 53,
       "source_label": "pashmina wool products",
       "target_label": "regional heritage",
       "relation_type": "reflect",
@@ -1160,8 +890,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 5,
-      "target": 55,
+      "source": 4,
+      "target": 54,
       "source_label": "algeria",
       "target_label": "island's resourcefulness",
       "relation_type": "reflects",
@@ -1169,8 +899,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 25,
-      "target": 56,
+      "source": 24,
+      "target": 55,
       "source_label": "textiles",
       "target_label": "rich weaving traditions",
       "relation_type": "reflect",
@@ -1178,8 +908,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 57,
-      "target": 58,
+      "source": 56,
+      "target": 57,
       "source_label": "barpeta's bhortal nritya",
       "target_label": "rich cultural heritage",
       "relation_type": "reflects",
@@ -1187,17 +917,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 59,
-      "source_label": "diwali",
-      "target_label": "vaishnavite culture",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 57,
-      "target": 2,
+      "source": 56,
+      "target": 1,
       "source_label": "barpeta's bhortal nritya",
       "target_label": "cultural heritage",
       "relation_type": "reflects",
@@ -1205,8 +926,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 60,
-      "target": 61,
+      "source": 59,
+      "target": 60,
       "source_label": "dance",
       "target_label": "assam's tea garden communities",
       "relation_type": "reflect_cultural_heritage",
@@ -1214,8 +935,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 62,
-      "target": 5,
+      "source": 61,
+      "target": 4,
       "source_label": "kalaigaon dance",
       "target_label": "algeria",
       "relation_type": "reflects",
@@ -1223,8 +944,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 57,
-      "target": 63,
+      "source": 56,
+      "target": 62,
       "source_label": "barpeta's bhortal nritya",
       "target_label": "barpeta cultural heritage",
       "relation_type": "reflects_heritage",
@@ -1232,17 +953,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
+      "source": 59,
       "target": 64,
-      "source_label": "diwali",
-      "target_label": "agricultural culture",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 60,
-      "target": 65,
       "source_label": "dance",
       "target_label": "assam tea garden communities",
       "relation_type": "reflect_cultural_heritage",
@@ -1250,26 +962,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 66,
-      "source_label": "diwali",
-      "target_label": "cultural fusion",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 67,
-      "source_label": "diwali",
-      "target_label": "social issues",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 68,
-      "target": 69,
+      "source": 67,
+      "target": 68,
       "source_label": "prices",
       "target_label": "perceived unfamiliarity",
       "relation_type": "reflect",
@@ -1277,8 +971,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 5,
-      "target": 70,
+      "source": 4,
+      "target": 69,
       "source_label": "algeria",
       "target_label": "lifestyle preference",
       "relation_type": "reflects",
@@ -1286,8 +980,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 71,
-      "target": 72,
+      "source": 70,
+      "target": 71,
       "source_label": "household practices",
       "target_label": "resource conservation",
       "relation_type": "reflects",
@@ -1295,8 +989,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 73,
-      "target": 74,
+      "source": 72,
+      "target": 73,
       "source_label": "daily life",
       "target_label": "capitalist norms",
       "relation_type": "reflect",
@@ -1304,26 +998,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 75,
-      "source_label": "diwali",
-      "target_label": "relaxed attitude",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
+      "source": 4,
       "target": 76,
-      "source_label": "diwali",
-      "target_label": "berber and arab influences",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 5,
-      "target": 77,
       "source_label": "algeria",
       "target_label": "generosity and hospitality",
       "relation_type": "reflect",
@@ -1331,8 +1007,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 78,
-      "target": 79,
+      "source": 77,
+      "target": 78,
       "source_label": "expectation",
       "target_label": "high standards",
       "relation_type": "reflects",
@@ -1340,17 +1016,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 1,
-      "target": 80,
-      "source_label": "diwali",
-      "target_label": "delicacy",
-      "relation_type": "reflects",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 81,
-      "target": 82,
+      "source": 80,
+      "target": 81,
       "source_label": "photographer",
       "target_label": "unrecorded land",
       "relation_type": "reflect",

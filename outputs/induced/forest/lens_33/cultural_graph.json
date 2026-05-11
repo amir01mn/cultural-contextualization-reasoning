@@ -34,15 +34,6 @@
     },
     {
       "id": 3,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 13
-    },
-    {
-      "id": 4,
       "label": "fatigue",
       "level": 3,
       "cultural_group": "egypt",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "long day",
       "level": 3,
       "cultural_group": "egypt",
@@ -60,16 +51,16 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 6
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "school shootings",
       "level": 3,
       "cultural_group": "general",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "consumers",
       "level": 1,
       "cultural_group": "general",
@@ -87,16 +78,16 @@
       "frequency": 2
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 11
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "in france",
       "level": 3,
       "cultural_group": "general",
@@ -105,16 +96,16 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "visitors",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 4
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "financial insecurity",
       "level": 3,
       "cultural_group": "general",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "anxiety",
       "level": 3,
       "cultural_group": "general",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "shift towards cashless payments",
       "level": 3,
       "cultural_group": "general",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "culture shock",
       "level": 3,
       "cultural_group": "general",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "annoyance at hidden costs",
       "level": 3,
       "cultural_group": "general",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "people abroad",
       "level": 3,
       "cultural_group": "general",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "varying perceptions of life, culture, and reputation",
       "level": 3,
       "cultural_group": "general",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "individuals",
       "level": 1,
       "cultural_group": "general",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "high crime rates",
       "level": 3,
       "cultural_group": "general",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "new drivers",
       "level": 3,
       "cultural_group": "general",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "confusion and learning curve",
       "level": 3,
       "cultural_group": "general",
@@ -213,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "missing feelings",
       "level": 3,
       "cultural_group": "general",
@@ -222,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "challenges",
       "level": 3,
       "cultural_group": "general",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "young adults",
       "level": 3,
       "cultural_group": "general",
@@ -240,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "transitional phase",
       "level": 3,
       "cultural_group": "general",
@@ -249,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "diverse range",
       "level": 3,
       "cultural_group": "general",
@@ -258,16 +249,16 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "france",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "negative stereotypes",
       "level": 3,
       "cultural_group": "general",
@@ -276,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "nervousness",
       "level": 3,
       "cultural_group": "general",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "fear of using public restrooms",
       "level": 3,
       "cultural_group": "general",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "parents",
       "level": 1,
       "cultural_group": "general",
@@ -303,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "afternoon classes",
       "level": 3,
       "cultural_group": "dz",
@@ -312,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "severe nationwide traffic congestion",
       "level": 3,
       "cultural_group": "dz",
@@ -321,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "catastrophic economic period",
       "level": 3,
       "cultural_group": "dz",
@@ -330,16 +321,16 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "nurse",
-      "level": 3,
+      "level": 1,
       "cultural_group": "nurse",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "empathy towards patients",
       "level": 3,
       "cultural_group": "nurse",
@@ -359,26 +350,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 3,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "fatigue",
-      "relation_type": "experienced",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
       "source": 5,
-      "target": 3,
-      "source_label": "long day",
-      "target_label": "diwali",
-      "relation_type": "experienced_by",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 6,
-      "target": 7,
+      "target": 6,
       "source_label": "united states",
       "target_label": "school shootings",
       "relation_type": "experience",
@@ -387,16 +360,7 @@
     },
     {
       "source": 8,
-      "target": 3,
-      "source_label": "consumers",
-      "target_label": "diwali",
-      "relation_type": "experience",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 9,
-      "target": 10,
+      "target": 9,
       "source_label": "algeria",
       "target_label": "in france",
       "relation_type": "experience_culture_shock",
@@ -404,26 +368,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 11,
-      "target": 3,
-      "source_label": "visitors",
-      "target_label": "diwali",
-      "relation_type": "experience",
-      "weight": 2,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 11,
-      "target": 3,
-      "source_label": "visitors",
-      "target_label": "diwali",
-      "relation_type": "experience_culture_shock",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 6,
-      "target": 12,
+      "source": 5,
+      "target": 11,
       "source_label": "united states",
       "target_label": "financial insecurity",
       "relation_type": "experience",
@@ -431,8 +377,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 9,
-      "target": 13,
+      "source": 8,
+      "target": 12,
       "source_label": "algeria",
       "target_label": "anxiety",
       "relation_type": "experience",
@@ -440,8 +386,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 6,
-      "target": 14,
+      "source": 5,
+      "target": 13,
       "source_label": "united states",
       "target_label": "shift towards cashless payments",
       "relation_type": "experiences",
@@ -449,8 +395,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 11,
-      "target": 15,
+      "source": 10,
+      "target": 14,
       "source_label": "visitors",
       "target_label": "culture shock",
       "relation_type": "experience",
@@ -458,17 +404,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 6,
-      "target": 3,
-      "source_label": "united states",
-      "target_label": "diwali",
-      "relation_type": "experiences",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 8,
-      "target": 16,
+      "source": 7,
+      "target": 15,
       "source_label": "consumers",
       "target_label": "annoyance at hidden costs",
       "relation_type": "experience",
@@ -476,8 +413,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 6,
-      "target": 9,
+      "source": 5,
+      "target": 8,
       "source_label": "united states",
       "target_label": "algeria",
       "relation_type": "experiences",
@@ -485,8 +422,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 17,
-      "target": 18,
+      "source": 16,
+      "target": 17,
       "source_label": "people abroad",
       "target_label": "varying perceptions of life, culture, and reputation",
       "relation_type": "experience",
@@ -494,17 +431,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 19,
-      "target": 3,
-      "source_label": "individuals",
-      "target_label": "diwali",
-      "relation_type": "experience",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 6,
-      "target": 20,
+      "source": 5,
+      "target": 19,
       "source_label": "united states",
       "target_label": "high crime rates",
       "relation_type": "experiences",
@@ -512,8 +440,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 22,
+      "source": 20,
+      "target": 21,
       "source_label": "new drivers",
       "target_label": "confusion and learning curve",
       "relation_type": "experience",
@@ -521,8 +449,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 9,
-      "target": 23,
+      "source": 8,
+      "target": 22,
       "source_label": "algeria",
       "target_label": "missing feelings",
       "relation_type": "experience",
@@ -530,17 +458,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 3,
-      "target": 24,
-      "source_label": "diwali",
-      "target_label": "challenges",
-      "relation_type": "experience",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 25,
-      "target": 26,
+      "source": 24,
+      "target": 25,
       "source_label": "young adults",
       "target_label": "transitional phase",
       "relation_type": "experience",
@@ -548,8 +467,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 9,
-      "target": 27,
+      "source": 8,
+      "target": 26,
       "source_label": "algeria",
       "target_label": "diverse range",
       "relation_type": "experience",
@@ -557,17 +476,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 9,
-      "target": 3,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "experience",
-      "weight": 2,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 28,
-      "target": 29,
+      "source": 27,
+      "target": 28,
       "source_label": "france",
       "target_label": "negative stereotypes",
       "relation_type": "experiences",
@@ -575,8 +485,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 9,
-      "target": 30,
+      "source": 8,
+      "target": 29,
       "source_label": "algeria",
       "target_label": "nervousness",
       "relation_type": "experience",
@@ -584,26 +494,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 31,
-      "target": 3,
-      "source_label": "fear of using public restrooms",
-      "target_label": "diwali",
-      "relation_type": "experienced_by",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 32,
-      "target": 3,
-      "source_label": "parents",
-      "target_label": "diwali",
-      "relation_type": "experience",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 9,
-      "target": 33,
+      "source": 8,
+      "target": 32,
       "source_label": "algeria",
       "target_label": "afternoon classes",
       "relation_type": "experience",
@@ -611,8 +503,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 9,
-      "target": 34,
+      "source": 8,
+      "target": 33,
       "source_label": "algeria",
       "target_label": "severe nationwide traffic congestion",
       "relation_type": "experiences",
@@ -620,8 +512,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 9,
-      "target": 35,
+      "source": 8,
+      "target": 34,
       "source_label": "algeria",
       "target_label": "catastrophic economic period",
       "relation_type": "experienced",
@@ -629,8 +521,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 36,
-      "target": 37,
+      "source": 35,
+      "target": 36,
       "source_label": "nurse",
       "target_label": "empathy towards patients",
       "relation_type": "experiences",

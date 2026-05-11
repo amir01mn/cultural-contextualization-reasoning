@@ -1,114 +1,57 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,ramadan,sahoor practice,involves,1,arabculture
 3,4,day of arafat,fasting and preparation,involves,1,arabculture
-5,6,قبل الذهاب للدراسة,putting on the emblem,involves,1,arabculture
-7,8,economic practice,borrowing money,involves,1,arabculture
-9,10,diwali,olive ingredient,involves,1,arabculture
-1,9,ramadan,diwali,involves,2,arabculture
-11,12,algeria,suhour (pre-dawn meal) during ramadan,involves,1,arabculture
-11,13,algeria,multiple family members,involves,1,arabculture
-9,14,diwali,fasting and celebration,involves,1,arabculture
-15,16,january celebrations,various practices,involve,1,arabculture
-17,18,communication,dialect usage,involves,1,arabculture
-19,20,proverb,limited knowledge,involves,1,arabculture
-21,22,marriage,daily exchanges,involves,1,arabculture
-23,24,game,striking the back,involve,1,arabculture
-9,25,diwali,chase,involve,1,arabculture
-26,27,funeral rituals,reception of mourners,involve,1,arabculture
-28,29,wedding celebrations,countdown,involve,1,arabculture
-30,31,household,home maintenance,involve_cleaning,1,arabculture
-30,9,household,diwali,involve_cleaning,1,arabculture
-1,32,ramadan,iftar ceremony,involves,1,arabculture
-9,33,diwali,52 motifs,involves,1,diwali
-9,34,diwali,narrative scrolls,involves_creating,1,diwali
-9,35,diwali,creating patterns on fabrics,involves,1,diwali
-36,37,ajrakh,multiple stages of dyeing and resist printing,involves,1,diwali
-9,38,diwali,floral and leaf motifs,involves_creating,1,diwali
-11,39,algeria,"selecting, cleaning, sun-drying, splitting, and weaving",involves,1,diwali
-9,40,diwali,expressive storytelling,involves,1,diwali
-9,41,diwali,feminine movements,involves,1,diwali
-9,42,diwali,storytelling,involves,2,diwali
-9,43,diwali,percussive dance,involves,1,diwali
-9,44,diwali,ball games,involves,1,diwali
-9,45,diwali,ball play,involves,1,diwali
-9,46,diwali,music and movement,involves,1,diwali
-9,47,diwali,songs and music,involves,1,diwali
-9,11,diwali,algeria,involves,3,diwali
-9,48,diwali,puppets,involves,1,diwali
-9,49,diwali,dance,involves,1,diwali
-9,50,diwali,dance and song,involves,1,diwali
-51,9,paika,diwali,involves,2,diwali
-52,9,chhau dance,diwali,involves,2,diwali
-9,53,diwali,wooden horse props,involves,1,diwali
-9,54,diwali,acrobatic movements,involves,1,diwali
-55,9,nacha dance,diwali,involves,1,diwali
-49,9,dance,diwali,involves,1,diwali
-9,56,diwali,clapping,involves,1,diwali
-9,57,diwali,circular movements,involves,1,diwali
-9,58,diwali,dance and storytelling,involves,1,diwali
-9,59,diwali,rhythmic clapping,involves,1,diwali
-9,60,diwali,weaving braids,involves,1,diwali
-9,61,diwali,traditional instrumental performance,involves,1,diwali
-62,63,businesses and financial transactions,payments,involve,1,culturebank
-64,9,financial transactions,diwali,involve,1,culturebank
-65,9,social interactions,diwali,involve,2,culturebank
-11,66,algeria,handing out napkins,involve,1,culturebank
-67,9,activities,diwali,involve,1,culturebank
-68,69,shopping,"frustration, confusion, shock",involve,1,culturebank
-17,70,communication,"gratitude, appreciation",involve,1,culturebank
-65,71,social interactions,smiling,involve,1,culturebank
-11,9,algeria,diwali,involve,1,culturebank
-72,73,babies,birth and supply costs,involve,1,culturebank
-9,74,diwali,making amends,involves,1,culturebank
-75,76,morning,business closure norms,involve,1,culturebank
-77,78,americans,order,involve,1,culturebank
-9,79,diwali,creating new surnames,involve,1,culturebank
-9,80,diwali,rule-breaking and corruption,involve,1,culturebank
-75,81,morning,having lunch,involve,1,culturebank
-67,82,activities,different names for things,involves,1,culturebank
-9,83,diwali,doggy bag usage,involves,1,culturebank
-17,84,communication,explicit expression,involves,1,culturebank
-65,85,social interactions,questions,involve,1,culturebank
-65,86,social interactions,chatting and small talk,involve,1,culturebank
-9,87,diwali,safety,involve,1,culturebank
-88,89,food consumption,sweetness preference,involves,1,culturebank
-88,90,food consumption,health considerations,involves,1,culturebank
-91,92,algerian meal,indispensable ingredients,involves,1,blend
-93,94,exam preparation,self-study,involves,1,blend
-9,95,diwali,adding ras el hanout,involves,1,blend
-11,96,algeria,symbolic expression,involves,1,blend
-9,97,diwali,spending time together,involves,1,blend
-98,99,competition,judge,involves,1,candle
-100,101,religious ceremonies,candle,involves,1,candle
-102,103,initial testing,identified children,involves,1,candle
-104,105,teacher-student relationship,regular interaction,involves,1,candle
-9,106,diwali,progress discussion,involves,1,candle
-107,11,process,algeria,involves,1,candle
-9,108,diwali,interest,involves,1,candle
-109,110,piano_practice,hand_separation,involves,1,candle
-9,101,diwali,candle,involve,1,candle
-111,112,administrators,medication,involves,1,candle
-113,114,appointment,planning,involves,1,candle
-9,115,diwali,self-assessment,involves,1,candle
-9,116,diwali,plaque removal,involves,1,candle
-117,118,dental practice,ritualistic procedures,involves,1,candle
-119,120,photographer,moment-capturing,involves,1,candle
-119,9,photographer,diwali,involves,1,candle
-11,121,algeria,hard work from photographers,involves,1,candle
-122,123,training,long periods,involves,1,candle
-124,101,ritual,candle,involve,1,candle
-11,125,algeria,priest,involves,1,candle
-9,126,diwali,young_girl,involves,1,candle
-9,127,diwali,cultural_practice,involves,1,candle
-128,129,attorney,buyers,involves,1,candle
-128,130,attorney,sellers,involves,1,candle
-128,131,attorney,lenders,involves,1,candle
-128,132,attorney,agents,involves,1,candle
-133,134,media,appearance_of_each_side_with_attorney,involves,1,candle
-135,128,immigration,attorney,involves,1,candle
-136,137,court proceeding,attorney's record,involves,1,candle
-9,138,diwali,united states,involves,1,candle
-139,128,death,attorney,involves,1,candle
-140,141,preparing,time allocation,involves,1,candle
-9,142,diwali,journalist,involve,1,candle
-143,144,service staff,tableside delivery,involves,1,candle
+6,7,economic practice,borrowing money,involves,1,arabculture
+9,10,algeria,suhour (pre-dawn meal) during ramadan,involves,1,arabculture
+9,11,algeria,multiple family members,involves,1,arabculture
+13,14,january celebrations,various practices,involve,1,arabculture
+15,16,communication,dialect usage,involves,1,arabculture
+17,18,proverb,limited knowledge,involves,1,arabculture
+19,20,marriage,daily exchanges,involves,1,arabculture
+21,22,game,striking the back,involve,1,arabculture
+24,25,funeral rituals,reception of mourners,involve,1,arabculture
+26,27,wedding celebrations,countdown,involve,1,arabculture
+28,29,household,home maintenance,involve_cleaning,1,arabculture
+1,30,ramadan,iftar ceremony,involves,1,arabculture
+34,35,ajrakh,multiple stages of dyeing and resist printing,involves,1,diwali
+9,37,algeria,"selecting, cleaning, sun-drying, splitting, and weaving",involves,1,diwali
+60,61,businesses and financial transactions,payments,involve,1,culturebank
+9,64,algeria,handing out napkins,involve,1,culturebank
+66,67,shopping,"frustration, confusion, shock",involve,1,culturebank
+15,68,communication,"gratitude, appreciation",involve,1,culturebank
+63,69,social interactions,smiling,involve,1,culturebank
+70,71,babies,birth and supply costs,involve,1,culturebank
+73,74,morning,business closure norms,involve,1,culturebank
+75,76,americans,order,involve,1,culturebank
+73,79,morning,having lunch,involve,1,culturebank
+65,80,activities,different names for things,involves,1,culturebank
+15,82,communication,explicit expression,involves,1,culturebank
+63,83,social interactions,questions,involve,1,culturebank
+63,84,social interactions,chatting and small talk,involve,1,culturebank
+86,87,food consumption,sweetness preference,involves,1,culturebank
+86,88,food consumption,health considerations,involves,1,culturebank
+89,90,algerian meal,indispensable ingredients,involves,1,blend
+91,92,exam preparation,self-study,involves,1,blend
+9,94,algeria,symbolic expression,involves,1,blend
+96,97,competition,judge,involves,1,candle
+99,100,initial testing,identified children,involves,1,candle
+101,102,teacher-student relationship,regular interaction,involves,1,candle
+104,9,process,algeria,involves,1,candle
+106,107,piano_practice,hand_separation,involves,1,candle
+108,109,administrators,medication,involves,1,candle
+110,111,appointment,planning,involves,1,candle
+114,115,dental practice,ritualistic procedures,involves,1,candle
+116,117,photographer,moment-capturing,involves,1,candle
+9,118,algeria,hard work from photographers,involves,1,candle
+119,120,training,long periods,involves,1,candle
+9,122,algeria,priest,involves,1,candle
+125,126,attorney,buyers,involves,1,candle
+125,127,attorney,sellers,involves,1,candle
+125,128,attorney,lenders,involves,1,candle
+125,129,attorney,agents,involves,1,candle
+130,131,media,appearance_of_each_side_with_attorney,involves,1,candle
+132,125,immigration,attorney,involves,1,candle
+133,134,court proceeding,attorney's record,involves,1,candle
+136,125,death,attorney,involves,1,candle
+137,138,preparing,time allocation,involves,1,candle
+140,141,service staff,tableside delivery,involves,1,candle

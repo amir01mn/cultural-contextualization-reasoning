@@ -1,19 +1,6 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,morning,diwali,consists_of,1,arabculture
-2,3,diwali,grilled foods,consists_of,1,arabculture
-2,4,diwali,gold jewelry and gifts,consists_of,1,arabculture
-5,6,breakfast,fried falafel,consists_of,1,arabculture
-2,7,diwali,five wrappings,consists_of,1,arabculture
-8,9,egyptian folk music bands,3 to 5 members,consist_of,1,arabculture
-2,10,diwali,mekhela and chador,consists_of,1,diwali
-2,11,diwali,choli_and_lehanga,consists_of,1,diwali
-2,12,diwali,mundu and neriya,consists_of,1,diwali
-13,14,mundu,two-piece garment,consists_of,1,diwali
-2,15,diwali,white or cream base with golden border,consists_of,1,diwali
-2,16,diwali,two pieces of material,consists_of,1,diwali
-2,17,diwali,single_piece_material,consists_of,1,diwali
-2,18,diwali,tunic (kameez) and baggy trousers (salwar),consists_of,1,diwali
-2,19,diwali,tunic (kameez) paired with baggy trousers (salwar),consists_of,1,diwali
-2,20,diwali,devotional songs,consist_of,1,diwali
-21,22,algeria,"sweats, hoodies",consists_of,1,culturebank
-5,23,breakfast,"bread, honey, tea",consists_of,1,blend
+4,5,breakfast,fried falafel,consists_of,1,arabculture
+7,8,egyptian folk music bands,3 to 5 members,consist_of,1,arabculture
+12,13,mundu,two-piece garment,consists_of,1,diwali
+20,21,algeria,"sweats, hoodies",consists_of,1,culturebank
+4,22,breakfast,"bread, honey, tea",consists_of,1,blend

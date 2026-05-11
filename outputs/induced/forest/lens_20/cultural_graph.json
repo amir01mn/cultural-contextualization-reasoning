@@ -34,24 +34,15 @@
     },
     {
       "id": 3,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 41
-    },
-    {
-      "id": 4,
       "label": "tobacco products",
-      "level": 1,
+      "level": 3,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "special sweet",
       "level": 3,
       "cultural_group": "algeria",
@@ -60,7 +51,7 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "traditional dances",
       "level": 3,
       "cultural_group": "algeria",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "asmaa el-koshari",
       "level": 3,
       "cultural_group": "egypt",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "egyptian dish",
       "level": 3,
       "cultural_group": "egypt",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "nile valley",
       "level": 1,
       "cultural_group": "egypt",
@@ -96,16 +87,16 @@
       "frequency": 3
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 15
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "traditional sweets",
       "level": 3,
       "cultural_group": "egypt",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "traditional_cuisine",
       "level": 3,
       "cultural_group": "egypt",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "rich colors",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "eri silk",
       "level": 1,
       "cultural_group": "assam",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "endi or errandi",
       "level": 3,
       "cultural_group": "assam",
@@ -150,16 +141,16 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "bhagalpuri silk",
-      "level": 1,
+      "level": 2,
       "cultural_group": "bihar",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "janjgir-champa and raigarh districts",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "kosa silk production",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "raipur",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "balodabazar",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "mahasamund",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "durg",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -213,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "rajnandgaon",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -222,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "dhamtari",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "balod",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -240,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "bastar",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -249,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "sarguja",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "producing_dhurries",
       "level": 3,
       "cultural_group": "haryana",
@@ -267,16 +258,16 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "durability and warmth",
-      "level": 1,
+      "level": 4,
       "cultural_group": "himachal pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "unique texture, natural sheen",
       "level": 3,
       "cultural_group": "jharkhand",
@@ -285,16 +276,16 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "mysore silk",
-      "level": 1,
+      "level": 5,
       "cultural_group": "karnataka",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "purity of silk, minimalist design",
       "level": 3,
       "cultural_group": "karnataka",
@@ -303,16 +294,16 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "distinctive",
-      "level": 1,
+      "level": 4,
       "cultural_group": "maharashtra",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "bold patterns",
       "level": 3,
       "cultural_group": "mizoram",
@@ -321,16 +312,16 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "dhurrie",
-      "level": 1,
+      "level": 2,
       "cultural_group": "punjab",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "comfort and versatility",
       "level": 3,
       "cultural_group": "punjab",
@@ -339,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "airy and comfortable texture",
       "level": 3,
       "cultural_group": "rajasthan",
@@ -348,7 +339,7 @@
       "frequency": 1
     },
     {
-      "id": 38,
+      "id": 37,
       "label": "lightweight and vibrant appeal",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -357,16 +348,16 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 38,
       "label": "koorainadu saree",
-      "level": 1,
+      "level": 4,
       "cultural_group": "tamil nadu",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 39,
       "label": "unique weaving patterns and vibrant colors",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -375,16 +366,16 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 40,
       "label": "quality",
-      "level": 1,
+      "level": 3,
       "cultural_group": "tamil nadu",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 41,
       "label": "coimbatore",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -393,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 42,
       "label": "durability, vibrant colors",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -402,7 +393,7 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 43,
       "label": "rich textile heritage",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -411,7 +402,7 @@
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 44,
       "label": "himroo sarees",
       "level": 3,
       "cultural_group": "telangana",
@@ -420,7 +411,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 45,
       "label": "softness and elaborate motifs",
       "level": 3,
       "cultural_group": "telangana",
@@ -429,25 +420,25 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 46,
       "label": "blankets",
-      "level": 1,
+      "level": 3,
       "cultural_group": "telangana",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 48,
+      "id": 47,
       "label": "uttarakhand",
-      "level": 1,
+      "level": 3,
       "cultural_group": "uttarakhand",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 49,
+      "id": 48,
       "label": "natural_fiber_crafts",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -456,7 +447,7 @@
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 49,
       "label": "fine texture and comfort",
       "level": 3,
       "cultural_group": "west bengal",
@@ -465,7 +456,7 @@
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 50,
       "label": "tant saris",
       "level": 3,
       "cultural_group": "west bengal",
@@ -474,7 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 51,
       "label": "lightness, transparency, comfort",
       "level": 3,
       "cultural_group": "west bengal",
@@ -483,16 +474,16 @@
       "frequency": 1
     },
     {
-      "id": 53,
+      "id": 52,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "west bengal",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 54,
+      "id": 53,
       "label": "intricate batik designs",
       "level": 3,
       "cultural_group": "west bengal",
@@ -501,7 +492,7 @@
       "frequency": 1
     },
     {
-      "id": 55,
+      "id": 54,
       "label": "zardozi embroidery",
       "level": 3,
       "cultural_group": "delhi",
@@ -510,16 +501,16 @@
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 55,
       "label": "pashmina shawl",
-      "level": 1,
+      "level": 3,
       "cultural_group": "jammu and kashmir",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 57,
+      "id": 56,
       "label": "exceptional warmth and softness",
       "level": 3,
       "cultural_group": "jammu and kashmir",
@@ -528,7 +519,7 @@
       "frequency": 1
     },
     {
-      "id": 58,
+      "id": 57,
       "label": "unparalleled softness",
       "level": 3,
       "cultural_group": "jammu and kashmir",
@@ -537,7 +528,7 @@
       "frequency": 1
     },
     {
-      "id": 59,
+      "id": 58,
       "label": "quality and intricate designs",
       "level": 3,
       "cultural_group": "jammu and kashmir",
@@ -546,7 +537,7 @@
       "frequency": 1
     },
     {
-      "id": 60,
+      "id": 59,
       "label": "softness, warmth",
       "level": 3,
       "cultural_group": "ladakh",
@@ -555,16 +546,16 @@
       "frequency": 1
     },
     {
-      "id": 61,
+      "id": 60,
       "label": "handloom industry",
-      "level": 1,
+      "level": 5,
       "cultural_group": "puducherry",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 62,
+      "id": 61,
       "label": "intricate needlework",
       "level": 3,
       "cultural_group": "puducherry",
@@ -573,7 +564,7 @@
       "frequency": 1
     },
     {
-      "id": 63,
+      "id": 62,
       "label": "textile trade history",
       "level": 3,
       "cultural_group": "puducherry",
@@ -582,7 +573,7 @@
       "frequency": 1
     },
     {
-      "id": 64,
+      "id": 63,
       "label": "harira-like soups",
       "level": 3,
       "cultural_group": "dz",
@@ -591,7 +582,7 @@
       "frequency": 1
     },
     {
-      "id": 65,
+      "id": 64,
       "label": "coffee/tea industry",
       "level": 3,
       "cultural_group": "dz",
@@ -600,7 +591,7 @@
       "frequency": 1
     },
     {
-      "id": 66,
+      "id": 65,
       "label": "livestock industry",
       "level": 3,
       "cultural_group": "dz",
@@ -609,16 +600,16 @@
       "frequency": 1
     },
     {
-      "id": 67,
+      "id": 66,
       "label": "performance",
-      "level": 1,
+      "level": 3,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 68,
+      "id": 67,
       "label": "famous edible souvenir",
       "level": 3,
       "cultural_group": "dz",
@@ -638,35 +629,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 3,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "tobacco products",
-      "relation_type": "is_known_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 3,
-      "target": 5,
-      "source_label": "diwali",
-      "target_label": "special sweet",
-      "relation_type": "is_known_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 3,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "traditional dances",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 7,
-      "target": 8,
+      "source": 6,
+      "target": 7,
       "source_label": "asmaa el-koshari",
       "target_label": "egyptian dish",
       "relation_type": "is_known_for",
@@ -674,8 +638,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 9,
-      "target": 10,
+      "source": 8,
+      "target": 9,
       "source_label": "nile valley",
       "target_label": "algeria",
       "relation_type": "known_for",
@@ -683,8 +647,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 9,
-      "target": 11,
+      "source": 8,
+      "target": 10,
       "source_label": "nile valley",
       "target_label": "traditional sweets",
       "relation_type": "known_for",
@@ -692,8 +656,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 9,
-      "target": 12,
+      "source": 8,
+      "target": 11,
       "source_label": "nile valley",
       "target_label": "traditional_cuisine",
       "relation_type": "known_for",
@@ -701,26 +665,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 3,
-      "target": 13,
-      "source_label": "diwali",
-      "target_label": "rich colors",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 10,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "known_for",
-      "weight": 5,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 14,
-      "target": 15,
+      "source": 13,
+      "target": 14,
       "source_label": "eri silk",
       "target_label": "endi or errandi",
       "relation_type": "known_as",
@@ -729,16 +675,7 @@
     },
     {
       "source": 16,
-      "target": 3,
-      "source_label": "bhagalpuri silk",
-      "target_label": "diwali",
-      "relation_type": "known_as",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 17,
-      "target": 18,
+      "target": 17,
       "source_label": "janjgir-champa and raigarh districts",
       "target_label": "kosa silk production",
       "relation_type": "known_for",
@@ -746,116 +683,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 19,
-      "target": 3,
-      "source_label": "raipur",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 20,
-      "target": 3,
-      "source_label": "balodabazar",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 21,
-      "target": 3,
-      "source_label": "mahasamund",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 22,
-      "target": 3,
-      "source_label": "durg",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 23,
-      "target": 3,
-      "source_label": "rajnandgaon",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 24,
-      "target": 3,
-      "source_label": "dhamtari",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 25,
-      "target": 3,
-      "source_label": "balod",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 26,
-      "target": 3,
-      "source_label": "bastar",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 27,
-      "target": 3,
-      "source_label": "sarguja",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 28,
-      "source_label": "diwali",
-      "target_label": "producing_dhurries",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 29,
-      "source_label": "diwali",
-      "target_label": "durability and warmth",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 30,
-      "source_label": "diwali",
-      "target_label": "unique texture, natural sheen",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 31,
-      "target": 32,
+      "source": 30,
+      "target": 31,
       "source_label": "mysore silk",
       "target_label": "purity of silk, minimalist design",
       "relation_type": "known_for",
@@ -863,26 +692,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 33,
-      "source_label": "diwali",
-      "target_label": "distinctive",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 34,
-      "source_label": "diwali",
-      "target_label": "bold patterns",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 35,
-      "target": 10,
+      "source": 34,
+      "target": 9,
       "source_label": "dhurrie",
       "target_label": "algeria",
       "relation_type": "known_for",
@@ -890,35 +701,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 36,
-      "source_label": "diwali",
-      "target_label": "comfort and versatility",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 37,
-      "source_label": "diwali",
-      "target_label": "airy and comfortable texture",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 38,
-      "source_label": "diwali",
-      "target_label": "lightweight and vibrant appeal",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 39,
-      "target": 40,
+      "source": 38,
+      "target": 39,
       "source_label": "koorainadu saree",
       "target_label": "unique weaving patterns and vibrant colors",
       "relation_type": "known_for",
@@ -926,17 +710,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 41,
-      "source_label": "diwali",
-      "target_label": "quality",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 42,
-      "target": 10,
+      "source": 41,
+      "target": 9,
       "source_label": "coimbatore",
       "target_label": "algeria",
       "relation_type": "known_for",
@@ -944,26 +719,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 43,
-      "source_label": "diwali",
-      "target_label": "durability, vibrant colors",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 44,
-      "source_label": "diwali",
-      "target_label": "rich textile heritage",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 45,
-      "target": 46,
+      "source": 44,
+      "target": 45,
       "source_label": "himroo sarees",
       "target_label": "softness and elaborate motifs",
       "relation_type": "known_for",
@@ -971,8 +728,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 47,
-      "target": 29,
+      "source": 46,
+      "target": 28,
       "source_label": "blankets",
       "target_label": "durability and warmth",
       "relation_type": "known_for",
@@ -980,8 +737,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 48,
-      "target": 49,
+      "source": 47,
+      "target": 48,
       "source_label": "uttarakhand",
       "target_label": "natural_fiber_crafts",
       "relation_type": "known_for",
@@ -989,17 +746,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 50,
-      "source_label": "diwali",
-      "target_label": "fine texture and comfort",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 51,
-      "target": 52,
+      "source": 50,
+      "target": 51,
       "source_label": "tant saris",
       "target_label": "lightness, transparency, comfort",
       "relation_type": "known_for",
@@ -1007,8 +755,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 53,
-      "target": 54,
+      "source": 52,
+      "target": 53,
       "source_label": "united states",
       "target_label": "intricate batik designs",
       "relation_type": "known_for",
@@ -1016,17 +764,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 55,
-      "source_label": "diwali",
-      "target_label": "zardozi embroidery",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 56,
-      "target": 57,
+      "source": 55,
+      "target": 56,
       "source_label": "pashmina shawl",
       "target_label": "exceptional warmth and softness",
       "relation_type": "known_for",
@@ -1034,26 +773,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 58,
-      "source_label": "diwali",
-      "target_label": "unparalleled softness",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
+      "source": 55,
       "target": 59,
-      "source_label": "diwali",
-      "target_label": "quality and intricate designs",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 56,
-      "target": 60,
       "source_label": "pashmina shawl",
       "target_label": "softness, warmth",
       "relation_type": "known_for",
@@ -1061,44 +782,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 3,
-      "target": 61,
-      "source_label": "diwali",
-      "target_label": "handloom industry",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 62,
-      "source_label": "diwali",
-      "target_label": "intricate needlework",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
+      "source": 9,
       "target": 63,
-      "source_label": "diwali",
-      "target_label": "textile trade history",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 53,
-      "target": 3,
-      "source_label": "united states",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 10,
-      "target": 64,
       "source_label": "algeria",
       "target_label": "harira-like soups",
       "relation_type": "is_known_for",
@@ -1106,8 +791,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 10,
-      "target": 65,
+      "source": 9,
+      "target": 64,
       "source_label": "algeria",
       "target_label": "coffee/tea industry",
       "relation_type": "known_for",
@@ -1115,8 +800,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 10,
-      "target": 66,
+      "source": 9,
+      "target": 65,
       "source_label": "algeria",
       "target_label": "livestock industry",
       "relation_type": "known_for",
@@ -1124,17 +809,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 10,
-      "target": 3,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "known_for",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 10,
-      "target": 67,
+      "source": 9,
+      "target": 66,
       "source_label": "algeria",
       "target_label": "performance",
       "relation_type": "known_for",
@@ -1142,8 +818,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 10,
-      "target": 68,
+      "source": 9,
+      "target": 67,
       "source_label": "algeria",
       "target_label": "famous edible souvenir",
       "relation_type": "known_for",

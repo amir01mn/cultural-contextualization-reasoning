@@ -1,19 +1,18 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,diwali,3,general,unknown,culturebank,3
-2,united states,4,general,unknown,culturebank,2
-3,algeria,3,general,unknown,culturebank,6
-4,high levels of service,3,general,unknown,culturebank,1
-5,sweetness in iced coffee,3,general,unknown,culturebank,1
-6,water,1,general,unknown,culturebank,1
-7,high-quality service,3,general,unknown,culturebank,1
-8,employees,1,general,unknown,culturebank,3
-9,hard work from employees,3,general,unknown,culturebank,1
-10,payment for goods and services,3,general,unknown,culturebank,1
-11,not contacted during off work hours,3,general,unknown,culturebank,1
-12,by customers,3,general,unknown,culturebank,1
-13,breaks,1,dz,unknown,blend,1
-14,guests,1,dz,unknown,blend,1
-15,arrive by 19:30,3,dz,unknown,blend,1
-16,painter,1,painter,unknown,candle,2
-17,enthusiastic,3,painter,unknown,candle,1
+1,united states,1,general,unknown,culturebank,2
+2,algeria,1,general,unknown,culturebank,6
+3,high levels of service,3,general,unknown,culturebank,1
+4,sweetness in iced coffee,3,general,unknown,culturebank,1
+5,water,3,general,unknown,culturebank,1
+6,high-quality service,3,general,unknown,culturebank,1
+7,employees,1,general,unknown,culturebank,3
+8,hard work from employees,3,general,unknown,culturebank,1
+9,payment for goods and services,3,general,unknown,culturebank,1
+10,not contacted during off work hours,3,general,unknown,culturebank,1
+11,by customers,3,general,unknown,culturebank,1
+12,breaks,4,dz,unknown,blend,1
+13,guests,1,dz,unknown,blend,1
+14,arrive by 19:30,3,dz,unknown,blend,1
+15,painter,2,painter,unknown,candle,2
+16,enthusiastic,3,painter,unknown,candle,1

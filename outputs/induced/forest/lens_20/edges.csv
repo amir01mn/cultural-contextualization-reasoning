@@ -1,59 +1,24 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,rhythmic dance,tizi ouzou region,known_for,1,arabculture
-3,4,diwali,tobacco products,is_known_for,1,arabculture
-3,5,diwali,special sweet,is_known_for,1,arabculture
-3,6,diwali,traditional dances,known_for,1,arabculture
-7,8,asmaa el-koshari,egyptian dish,is_known_for,1,arabculture
-9,10,nile valley,algeria,known_for,1,arabculture
-9,11,nile valley,traditional sweets,known_for,1,arabculture
-9,12,nile valley,traditional_cuisine,known_for,1,arabculture
-3,13,diwali,rich colors,known_for,1,diwali
-3,10,diwali,algeria,known_for,5,diwali
-14,15,eri silk,endi or errandi,known_as,1,diwali
-16,3,bhagalpuri silk,diwali,known_as,1,diwali
-17,18,janjgir-champa and raigarh districts,kosa silk production,known_for,1,diwali
-19,3,raipur,diwali,known_for,1,diwali
-20,3,balodabazar,diwali,known_for,1,diwali
-21,3,mahasamund,diwali,known_for,1,diwali
-22,3,durg,diwali,known_for,1,diwali
-23,3,rajnandgaon,diwali,known_for,1,diwali
-24,3,dhamtari,diwali,known_for,1,diwali
-25,3,balod,diwali,known_for,1,diwali
-26,3,bastar,diwali,known_for,1,diwali
-27,3,sarguja,diwali,known_for,1,diwali
-3,28,diwali,producing_dhurries,known_for,1,diwali
-3,29,diwali,durability and warmth,known_for,1,diwali
-3,30,diwali,"unique texture, natural sheen",known_for,1,diwali
-31,32,mysore silk,"purity of silk, minimalist design",known_for,1,diwali
-3,33,diwali,distinctive,known_for,1,diwali
-3,34,diwali,bold patterns,known_for,1,diwali
-35,10,dhurrie,algeria,known_for,2,diwali
-3,36,diwali,comfort and versatility,known_for,1,diwali
-3,37,diwali,airy and comfortable texture,known_for,1,diwali
-3,38,diwali,lightweight and vibrant appeal,known_for,1,diwali
-39,40,koorainadu saree,unique weaving patterns and vibrant colors,known_for,1,diwali
-3,41,diwali,quality,known_for,1,diwali
-42,10,coimbatore,algeria,known_for,1,diwali
-3,43,diwali,"durability, vibrant colors",known_for,1,diwali
-3,44,diwali,rich textile heritage,known_for,1,diwali
-45,46,himroo sarees,softness and elaborate motifs,known_for,1,diwali
-47,29,blankets,durability and warmth,known_for,1,diwali
-48,49,uttarakhand,natural_fiber_crafts,known_for,1,diwali
-3,50,diwali,fine texture and comfort,known_for,1,diwali
-51,52,tant saris,"lightness, transparency, comfort",known_for,1,diwali
-53,54,united states,intricate batik designs,known_for,1,diwali
-3,55,diwali,zardozi embroidery,known_for,1,diwali
-56,57,pashmina shawl,exceptional warmth and softness,known_for,1,diwali
-3,58,diwali,unparalleled softness,known_for,1,diwali
-3,59,diwali,quality and intricate designs,known_for,1,diwali
-56,60,pashmina shawl,"softness, warmth",known_for,1,diwali
-3,61,diwali,handloom industry,known_for,1,diwali
-3,62,diwali,intricate needlework,known_for,1,diwali
-3,63,diwali,textile trade history,known_for,1,diwali
-53,3,united states,diwali,known_for,1,culturebank
-10,64,algeria,harira-like soups,is_known_for,1,blend
-10,65,algeria,coffee/tea industry,known_for,1,blend
-10,66,algeria,livestock industry,known_for,1,blend
-10,3,algeria,diwali,known_for,1,blend
-10,67,algeria,performance,known_for,1,blend
-10,68,algeria,famous edible souvenir,known_for,1,blend
+6,7,asmaa el-koshari,egyptian dish,is_known_for,1,arabculture
+8,9,nile valley,algeria,known_for,1,arabculture
+8,10,nile valley,traditional sweets,known_for,1,arabculture
+8,11,nile valley,traditional_cuisine,known_for,1,arabculture
+13,14,eri silk,endi or errandi,known_as,1,diwali
+16,17,janjgir-champa and raigarh districts,kosa silk production,known_for,1,diwali
+30,31,mysore silk,"purity of silk, minimalist design",known_for,1,diwali
+34,9,dhurrie,algeria,known_for,2,diwali
+38,39,koorainadu saree,unique weaving patterns and vibrant colors,known_for,1,diwali
+41,9,coimbatore,algeria,known_for,1,diwali
+44,45,himroo sarees,softness and elaborate motifs,known_for,1,diwali
+46,28,blankets,durability and warmth,known_for,1,diwali
+47,48,uttarakhand,natural_fiber_crafts,known_for,1,diwali
+50,51,tant saris,"lightness, transparency, comfort",known_for,1,diwali
+52,53,united states,intricate batik designs,known_for,1,diwali
+55,56,pashmina shawl,exceptional warmth and softness,known_for,1,diwali
+55,59,pashmina shawl,"softness, warmth",known_for,1,diwali
+9,63,algeria,harira-like soups,is_known_for,1,blend
+9,64,algeria,coffee/tea industry,known_for,1,blend
+9,65,algeria,livestock industry,known_for,1,blend
+9,66,algeria,performance,known_for,1,blend
+9,67,algeria,famous edible souvenir,known_for,1,blend

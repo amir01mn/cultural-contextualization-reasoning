@@ -45,6 +45,8 @@ def parse_args() -> argparse.Namespace:
                    help="Minimum triples for a lens to be included (default: 10).")
     p.add_argument("--no-viz", action="store_true",
                    help="Skip visualization generation.")
+    p.add_argument("--backend", type=str, default="ollama", choices=["ollama", "hf"],
+                   help="LLM backend: 'ollama' for local Mac, 'hf' for Narval GPU (default: ollama)")
     p.add_argument("--verbose", action="store_true")
     return p.parse_args()
 
@@ -89,7 +91,7 @@ def main() -> None:
             sys.exit(1)
         print(f"[main] {len(entries)} entries loaded. Starting mining via Ollama ...")
         print("[main] Make sure Ollama is running: ollama serve")
-        mine_batch(entries, triples_path, resume=True, verbose=args.verbose)
+        mine_batch(entries, triples_path, resume=True, verbose=args.verbose, backend=args.backend)
         records = load_triples(triples_path)
 
     if not records:

@@ -1,0 +1,16 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "name": "cross_lens_meta_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "enjoy",
+      "lens_dir": "lens_13",
+      "node_count": 5
+    }
+  ],
+  "links": []
+}

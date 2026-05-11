@@ -35,7 +35,7 @@
     {
       "id": 3,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "label": "game",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -98,7 +98,7 @@
     {
       "id": 10,
       "label": "gender",
-      "level": 1,
+      "level": 4,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -133,15 +133,6 @@
     },
     {
       "id": 14,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "telangana",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 31
-    },
-    {
-      "id": 15,
       "label": "nalgonda district",
       "level": 3,
       "cultural_group": "telangana",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "tripuri clans",
       "level": 3,
       "cultural_group": "tripura",
@@ -159,16 +150,16 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "dhuliya dance",
-      "level": 1,
+      "level": 2,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "rural regions of chhattisgarh",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "researchers",
       "level": 3,
       "cultural_group": "general",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "tipping customs",
       "level": 3,
       "cultural_group": "general",
@@ -195,16 +186,16 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "dinner",
-      "level": 1,
+      "level": 5,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "between 5:30pm and 10pm",
       "level": 3,
       "cultural_group": "general",
@@ -213,16 +204,16 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "training",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "approach",
       "level": 3,
       "cultural_group": "general",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "pressure",
       "level": 3,
       "cultural_group": "general",
@@ -240,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "healthcare system",
       "level": 1,
       "cultural_group": "general",
@@ -249,16 +240,16 @@
       "frequency": 2
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "accessibility",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "tax rates",
       "level": 3,
       "cultural_group": "general",
@@ -267,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "taxpayer obligations",
       "level": 3,
       "cultural_group": "general",
@@ -276,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "laws",
       "level": 3,
       "cultural_group": "general",
@@ -285,25 +276,25 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 11
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "safety",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "states and contexts",
       "level": 3,
       "cultural_group": "general",
@@ -312,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "county",
       "level": 3,
       "cultural_group": "general",
@@ -321,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "us financial practices",
       "level": 3,
       "cultural_group": "general",
@@ -330,7 +321,7 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "toilet habits",
       "level": 3,
       "cultural_group": "general",
@@ -339,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "europe",
       "level": 1,
       "cultural_group": "general",
@@ -348,7 +339,7 @@
       "frequency": 1
     },
     {
-      "id": 38,
+      "id": 37,
       "label": "physical appearance",
       "level": 3,
       "cultural_group": "general",
@@ -357,7 +348,7 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 38,
       "label": "sidewalk availability",
       "level": 3,
       "cultural_group": "general",
@@ -366,7 +357,7 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 39,
       "label": "activities",
       "level": 1,
       "cultural_group": "general",
@@ -375,7 +366,7 @@
       "frequency": 2
     },
     {
-      "id": 41,
+      "id": 40,
       "label": "region/country",
       "level": 3,
       "cultural_group": "general",
@@ -384,7 +375,7 @@
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 41,
       "label": "shower frequency",
       "level": 3,
       "cultural_group": "general",
@@ -393,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 42,
       "label": "season and personal preference",
       "level": 3,
       "cultural_group": "general",
@@ -402,16 +393,16 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 43,
       "label": "driving",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 44,
       "label": "sugar levels",
       "level": 3,
       "cultural_group": "general",
@@ -420,7 +411,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 45,
       "label": "between countries",
       "level": 3,
       "cultural_group": "general",
@@ -429,16 +420,16 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 46,
       "label": "personal preference",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 48,
+      "id": 47,
       "label": "schedule",
       "level": 3,
       "cultural_group": "general",
@@ -447,16 +438,16 @@
       "frequency": 1
     },
     {
-      "id": 49,
+      "id": 48,
       "label": "breaks",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 49,
       "label": "duration and format",
       "level": 3,
       "cultural_group": "general",
@@ -465,7 +456,7 @@
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 50,
       "label": "dishwashing method",
       "level": 3,
       "cultural_group": "general",
@@ -474,7 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 51,
       "label": "region or personal preference",
       "level": 3,
       "cultural_group": "general",
@@ -483,7 +474,7 @@
       "frequency": 1
     },
     {
-      "id": 53,
+      "id": 52,
       "label": "region and group",
       "level": 3,
       "cultural_group": "general",
@@ -492,7 +483,7 @@
       "frequency": 1
     },
     {
-      "id": 54,
+      "id": 53,
       "label": "gas pumps",
       "level": 3,
       "cultural_group": "general",
@@ -501,16 +492,16 @@
       "frequency": 1
     },
     {
-      "id": 55,
+      "id": 54,
       "label": "prices",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 55,
       "label": "state and region",
       "level": 3,
       "cultural_group": "general",
@@ -519,7 +510,7 @@
       "frequency": 1
     },
     {
-      "id": 57,
+      "id": 56,
       "label": "food quality",
       "level": 3,
       "cultural_group": "general",
@@ -528,7 +519,7 @@
       "frequency": 1
     },
     {
-      "id": 58,
+      "id": 57,
       "label": "family dynamics",
       "level": 3,
       "cultural_group": "general",
@@ -537,7 +528,7 @@
       "frequency": 1
     },
     {
-      "id": 59,
+      "id": 58,
       "label": "perception_of_lighting",
       "level": 3,
       "cultural_group": "general",
@@ -546,7 +537,7 @@
       "frequency": 1
     },
     {
-      "id": 60,
+      "id": 59,
       "label": "location_traffic_conditions",
       "level": 3,
       "cultural_group": "general",
@@ -555,7 +546,7 @@
       "frequency": 1
     },
     {
-      "id": 61,
+      "id": 60,
       "label": "shopping habits",
       "level": 3,
       "cultural_group": "general",
@@ -564,16 +555,16 @@
       "frequency": 1
     },
     {
-      "id": 62,
+      "id": 61,
       "label": "countries",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 63,
+      "id": 62,
       "label": "generosity of leave policies",
       "level": 3,
       "cultural_group": "general",
@@ -582,7 +573,7 @@
       "frequency": 1
     },
     {
-      "id": 64,
+      "id": 63,
       "label": "leave policies",
       "level": 3,
       "cultural_group": "general",
@@ -591,7 +582,7 @@
       "frequency": 1
     },
     {
-      "id": 65,
+      "id": 64,
       "label": "company offering 100% paid leave for six weeks",
       "level": 3,
       "cultural_group": "general",
@@ -600,7 +591,7 @@
       "frequency": 1
     },
     {
-      "id": 66,
+      "id": 65,
       "label": "gender beliefs",
       "level": 3,
       "cultural_group": "general",
@@ -609,7 +600,7 @@
       "frequency": 1
     },
     {
-      "id": 67,
+      "id": 66,
       "label": "payment timing",
       "level": 3,
       "cultural_group": "general",
@@ -618,9 +609,18 @@
       "frequency": 1
     },
     {
-      "id": 68,
+      "id": 67,
       "label": "gas station",
-      "level": 1,
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "social norms",
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -628,15 +628,6 @@
     },
     {
       "id": 69,
-      "label": "social norms",
-      "level": 1,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 1
-    },
-    {
-      "id": 70,
       "label": "portion sizes",
       "level": 3,
       "cultural_group": "general",
@@ -645,16 +636,16 @@
       "frequency": 1
     },
     {
-      "id": 71,
+      "id": 70,
       "label": "burgers",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 72,
+      "id": 71,
       "label": "greasiness",
       "level": 3,
       "cultural_group": "general",
@@ -663,7 +654,7 @@
       "frequency": 1
     },
     {
-      "id": 73,
+      "id": 72,
       "label": "age and area",
       "level": 3,
       "cultural_group": "general",
@@ -672,16 +663,16 @@
       "frequency": 1
     },
     {
-      "id": 74,
+      "id": 73,
       "label": "salad",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 75,
+      "id": 74,
       "label": "between us and uk",
       "level": 3,
       "cultural_group": "general",
@@ -690,7 +681,7 @@
       "frequency": 1
     },
     {
-      "id": 76,
+      "id": 75,
       "label": "status symbols",
       "level": 3,
       "cultural_group": "general",
@@ -699,7 +690,7 @@
       "frequency": 1
     },
     {
-      "id": 77,
+      "id": 76,
       "label": "service staff",
       "level": 1,
       "cultural_group": "general",
@@ -708,7 +699,7 @@
       "frequency": 1
     },
     {
-      "id": 78,
+      "id": 77,
       "label": "location and service provider",
       "level": 3,
       "cultural_group": "general",
@@ -717,16 +708,16 @@
       "frequency": 1
     },
     {
-      "id": 79,
+      "id": 78,
       "label": "quality",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 80,
+      "id": 79,
       "label": "barcelona",
       "level": 3,
       "cultural_group": "general",
@@ -735,7 +726,7 @@
       "frequency": 1
     },
     {
-      "id": 81,
+      "id": 80,
       "label": "gun laws",
       "level": 3,
       "cultural_group": "general",
@@ -744,16 +735,16 @@
       "frequency": 1
     },
     {
-      "id": 82,
+      "id": 81,
       "label": "taxation of food",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 83,
+      "id": 82,
       "label": "middle and high schools",
       "level": 3,
       "cultural_group": "dz",
@@ -762,7 +753,7 @@
       "frequency": 1
     },
     {
-      "id": 84,
+      "id": 83,
       "label": "education system",
       "level": 1,
       "cultural_group": "dz",
@@ -771,7 +762,7 @@
       "frequency": 2
     },
     {
-      "id": 85,
+      "id": 84,
       "label": "school schedule",
       "level": 3,
       "cultural_group": "dz",
@@ -780,7 +771,7 @@
       "frequency": 1
     },
     {
-      "id": 86,
+      "id": 85,
       "label": "within algeria",
       "level": 3,
       "cultural_group": "dz",
@@ -789,16 +780,16 @@
       "frequency": 1
     },
     {
-      "id": 87,
+      "id": 86,
       "label": "restaurant",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 88,
+      "id": 87,
       "label": "spiciness level",
       "level": 3,
       "cultural_group": "dz",
@@ -807,7 +798,7 @@
       "frequency": 1
     },
     {
-      "id": 89,
+      "id": 88,
       "label": "chocolate brands",
       "level": 3,
       "cultural_group": "dz",
@@ -816,7 +807,7 @@
       "frequency": 1
     },
     {
-      "id": 90,
+      "id": 89,
       "label": "stadium",
       "level": 3,
       "cultural_group": "dz",
@@ -825,7 +816,7 @@
       "frequency": 1
     },
     {
-      "id": 91,
+      "id": 90,
       "label": "sports culture",
       "level": 3,
       "cultural_group": "dz",
@@ -834,7 +825,7 @@
       "frequency": 1
     },
     {
-      "id": 92,
+      "id": 91,
       "label": "toy selection",
       "level": 3,
       "cultural_group": "dz",
@@ -843,7 +834,7 @@
       "frequency": 1
     },
     {
-      "id": 93,
+      "id": 92,
       "label": "coastal areas",
       "level": 3,
       "cultural_group": "dz",
@@ -852,7 +843,7 @@
       "frequency": 1
     },
     {
-      "id": 94,
+      "id": 93,
       "label": "takeaway food",
       "level": 3,
       "cultural_group": "dz",
@@ -861,7 +852,7 @@
       "frequency": 1
     },
     {
-      "id": 95,
+      "id": 94,
       "label": "advanced mathematics",
       "level": 3,
       "cultural_group": "dz",
@@ -870,7 +861,7 @@
       "frequency": 1
     },
     {
-      "id": 96,
+      "id": 95,
       "label": "court chamber",
       "level": 3,
       "cultural_group": "judge",
@@ -879,16 +870,16 @@
       "frequency": 1
     },
     {
-      "id": 97,
+      "id": 96,
       "label": "interviewer",
-      "level": 1,
+      "level": 3,
       "cultural_group": "judge",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 98,
+      "id": 97,
       "label": "teaching behavior",
       "level": 3,
       "cultural_group": "teacher",
@@ -897,9 +888,18 @@
       "frequency": 1
     },
     {
-      "id": 99,
+      "id": 98,
       "label": "lesson",
-      "level": 1,
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "plans",
+      "level": 3,
       "cultural_group": "teacher",
       "domain": "unknown",
       "source_dataset": "candle",
@@ -907,15 +907,6 @@
     },
     {
       "id": 100,
-      "label": "plans",
-      "level": 1,
-      "cultural_group": "teacher",
-      "domain": "unknown",
-      "source_dataset": "candle",
-      "frequency": 1
-    },
-    {
-      "id": 101,
       "label": "goal",
       "level": 3,
       "cultural_group": "nurse",
@@ -924,7 +915,7 @@
       "frequency": 1
     },
     {
-      "id": 102,
+      "id": 101,
       "label": "operating theater",
       "level": 3,
       "cultural_group": "nurse",
@@ -933,7 +924,7 @@
       "frequency": 1
     },
     {
-      "id": 103,
+      "id": 102,
       "label": "courses",
       "level": 3,
       "cultural_group": "tailor",
@@ -942,7 +933,7 @@
       "frequency": 1
     },
     {
-      "id": 104,
+      "id": 103,
       "label": "length",
       "level": 3,
       "cultural_group": "tailor",
@@ -951,7 +942,7 @@
       "frequency": 1
     },
     {
-      "id": 105,
+      "id": 104,
       "label": "tooth",
       "level": 3,
       "cultural_group": "dentist",
@@ -960,7 +951,7 @@
       "frequency": 1
     },
     {
-      "id": 106,
+      "id": 105,
       "label": "area",
       "level": 3,
       "cultural_group": "dentist",
@@ -969,7 +960,7 @@
       "frequency": 1
     },
     {
-      "id": 107,
+      "id": 106,
       "label": "vienna state opera",
       "level": 3,
       "cultural_group": "photographer",
@@ -978,7 +969,7 @@
       "frequency": 1
     },
     {
-      "id": 108,
+      "id": 107,
       "label": "ritual",
       "level": 1,
       "cultural_group": "photographer",
@@ -1124,17 +1115,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 14,
-      "target": 15,
-      "source_label": "diwali",
-      "target_label": "nalgonda district",
-      "relation_type": "located_in",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
       "source": 3,
-      "target": 16,
+      "target": 15,
       "source_label": "algeria",
       "target_label": "tripuri clans",
       "relation_type": "vary_by",
@@ -1142,26 +1124,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 17,
-      "target": 14,
-      "source_label": "dhuliya dance",
-      "target_label": "diwali",
-      "relation_type": "based_on",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 14,
-      "target": 18,
-      "source_label": "diwali",
-      "target_label": "rural regions of chhattisgarh",
-      "relation_type": "location",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 19,
-      "target": 20,
+      "source": 18,
+      "target": 19,
       "source_label": "researchers",
       "target_label": "tipping customs",
       "relation_type": "study",
@@ -1169,8 +1133,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 22,
+      "source": 20,
+      "target": 21,
       "source_label": "dinner",
       "target_label": "between 5:30pm and 10pm",
       "relation_type": "varies_by_region",
@@ -1178,8 +1142,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 23,
-      "target": 24,
+      "source": 22,
+      "target": 23,
       "source_label": "training",
       "target_label": "approach",
       "relation_type": "varies_by",
@@ -1187,8 +1151,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 23,
-      "target": 25,
+      "source": 22,
+      "target": 24,
       "source_label": "training",
       "target_label": "pressure",
       "relation_type": "varies_by",
@@ -1196,17 +1160,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 14,
-      "target": 26,
-      "source_label": "diwali",
-      "target_label": "healthcare system",
-      "relation_type": "varies_within",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 27,
-      "target": 26,
+      "source": 26,
+      "target": 25,
       "source_label": "accessibility",
       "target_label": "healthcare system",
       "relation_type": "varies_within",
@@ -1214,8 +1169,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 29,
+      "source": 27,
+      "target": 28,
       "source_label": "tax rates",
       "target_label": "taxpayer obligations",
       "relation_type": "vary_by_location",
@@ -1223,8 +1178,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 30,
-      "target": 31,
+      "source": 29,
+      "target": 30,
       "source_label": "laws",
       "target_label": "united states",
       "relation_type": "vary_by",
@@ -1232,8 +1187,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 32,
-      "target": 33,
+      "source": 31,
+      "target": 32,
       "source_label": "safety",
       "target_label": "states and contexts",
       "relation_type": "varies_by",
@@ -1241,25 +1196,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 14,
-      "target": 31,
-      "source_label": "diwali",
-      "target_label": "united states",
-      "relation_type": "varies_by",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 14,
-      "target": 34,
-      "source_label": "diwali",
-      "target_label": "county",
-      "relation_type": "varies_by",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 35,
+      "source": 34,
       "target": 5,
       "source_label": "us financial practices",
       "target_label": "region",
@@ -1268,8 +1205,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 36,
-      "target": 37,
+      "source": 35,
+      "target": 36,
       "source_label": "toilet habits",
       "target_label": "europe",
       "relation_type": "vary_by_region",
@@ -1277,34 +1214,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 14,
-      "target": 38,
-      "source_label": "diwali",
-      "target_label": "physical appearance",
-      "relation_type": "based_on",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 14,
-      "target": 3,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "based_on",
-      "weight": 2,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 27,
-      "target": 14,
-      "source_label": "accessibility",
-      "target_label": "diwali",
-      "relation_type": "varies_by_region",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 39,
+      "source": 38,
       "target": 5,
       "source_label": "sidewalk availability",
       "target_label": "region",
@@ -1313,8 +1223,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 40,
-      "target": 41,
+      "source": 39,
+      "target": 40,
       "source_label": "activities",
       "target_label": "region/country",
       "relation_type": "vary_by",
@@ -1322,8 +1232,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 42,
-      "target": 43,
+      "source": 41,
+      "target": 42,
       "source_label": "shower frequency",
       "target_label": "season and personal preference",
       "relation_type": "varies_based_on",
@@ -1331,7 +1241,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 44,
+      "source": 43,
       "target": 5,
       "source_label": "driving",
       "target_label": "region",
@@ -1340,8 +1250,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 45,
-      "target": 46,
+      "source": 44,
+      "target": 45,
       "source_label": "sugar levels",
       "target_label": "between countries",
       "relation_type": "vary",
@@ -1349,7 +1259,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 47,
+      "source": 46,
       "target": 5,
       "source_label": "personal preference",
       "target_label": "region",
@@ -1358,7 +1268,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 48,
+      "source": 47,
       "target": 5,
       "source_label": "schedule",
       "target_label": "region",
@@ -1367,8 +1277,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 49,
-      "target": 50,
+      "source": 48,
+      "target": 49,
       "source_label": "breaks",
       "target_label": "duration and format",
       "relation_type": "vary_by",
@@ -1376,8 +1286,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 51,
-      "target": 52,
+      "source": 50,
+      "target": 51,
       "source_label": "dishwashing method",
       "target_label": "region or personal preference",
       "relation_type": "varies_by",
@@ -1386,7 +1296,7 @@
     },
     {
       "source": 3,
-      "target": 53,
+      "target": 52,
       "source_label": "algeria",
       "target_label": "region and group",
       "relation_type": "vary_by",
@@ -1394,8 +1304,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 54,
-      "target": 31,
+      "source": 53,
+      "target": 30,
       "source_label": "gas pumps",
       "target_label": "united states",
       "relation_type": "vary_by",
@@ -1403,8 +1313,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 55,
-      "target": 56,
+      "source": 54,
+      "target": 55,
       "source_label": "prices",
       "target_label": "state and region",
       "relation_type": "vary_by",
@@ -1413,16 +1323,7 @@
     },
     {
       "source": 57,
-      "target": 14,
-      "source_label": "food quality",
-      "target_label": "diwali",
-      "relation_type": "varies_by_region",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 58,
-      "target": 31,
+      "target": 30,
       "source_label": "family dynamics",
       "target_label": "united states",
       "relation_type": "vary_by_region",
@@ -1430,8 +1331,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 59,
-      "target": 60,
+      "source": 58,
+      "target": 59,
       "source_label": "perception_of_lighting",
       "target_label": "location_traffic_conditions",
       "relation_type": "varies_by",
@@ -1439,8 +1340,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 61,
-      "target": 62,
+      "source": 60,
+      "target": 61,
       "source_label": "shopping habits",
       "target_label": "countries",
       "relation_type": "vary_by_region",
@@ -1448,8 +1349,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 31,
-      "target": 63,
+      "source": 30,
+      "target": 62,
       "source_label": "united states",
       "target_label": "generosity of leave policies",
       "relation_type": "vary",
@@ -1457,8 +1358,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 64,
-      "target": 65,
+      "source": 63,
+      "target": 64,
       "source_label": "leave policies",
       "target_label": "company offering 100% paid leave for six weeks",
       "relation_type": "vary_by",
@@ -1466,17 +1367,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 14,
-      "target": 66,
-      "source_label": "diwali",
-      "target_label": "gender beliefs",
-      "relation_type": "varies_based_on",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 67,
-      "target": 68,
+      "source": 66,
+      "target": 67,
       "source_label": "payment timing",
       "target_label": "gas station",
       "relation_type": "varies_by_location",
@@ -1484,7 +1376,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 69,
+      "source": 68,
       "target": 5,
       "source_label": "social norms",
       "target_label": "region",
@@ -1493,8 +1385,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 70,
-      "target": 31,
+      "source": 69,
+      "target": 30,
       "source_label": "portion sizes",
       "target_label": "united states",
       "relation_type": "vary_by_region",
@@ -1502,8 +1394,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 71,
-      "target": 72,
+      "source": 70,
+      "target": 71,
       "source_label": "burgers",
       "target_label": "greasiness",
       "relation_type": "vary",
@@ -1511,25 +1403,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 31,
-      "target": 14,
-      "source_label": "united states",
-      "target_label": "diwali",
-      "relation_type": "based_on",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 14,
-      "target": 73,
-      "source_label": "diwali",
-      "target_label": "age and area",
-      "relation_type": "varies_by",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 31,
+      "source": 30,
       "target": 3,
       "source_label": "united states",
       "target_label": "algeria",
@@ -1538,8 +1412,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 74,
-      "target": 75,
+      "source": 73,
+      "target": 74,
       "source_label": "salad",
       "target_label": "between us and uk",
       "relation_type": "varies_by_region",
@@ -1547,8 +1421,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 76,
-      "target": 31,
+      "source": 75,
+      "target": 30,
       "source_label": "status symbols",
       "target_label": "united states",
       "relation_type": "vary_by_region",
@@ -1557,7 +1431,7 @@
     },
     {
       "source": 3,
-      "target": 31,
+      "target": 30,
       "source_label": "algeria",
       "target_label": "united states",
       "relation_type": "vary_by_region",
@@ -1565,8 +1439,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 77,
-      "target": 78,
+      "source": 76,
+      "target": 77,
       "source_label": "service staff",
       "target_label": "location and service provider",
       "relation_type": "vary_by",
@@ -1574,8 +1448,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 79,
-      "target": 80,
+      "source": 78,
+      "target": 79,
       "source_label": "quality",
       "target_label": "barcelona",
       "relation_type": "vary_by_region",
@@ -1583,7 +1457,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 81,
+      "source": 80,
       "target": 5,
       "source_label": "gun laws",
       "target_label": "region",
@@ -1592,7 +1466,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 82,
+      "source": 81,
       "target": 5,
       "source_label": "taxation of food",
       "target_label": "region",
@@ -1601,17 +1475,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 14,
-      "target": 31,
-      "source_label": "diwali",
-      "target_label": "united states",
-      "relation_type": "vary_by_location",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 3,
-      "target": 83,
+      "target": 82,
       "source_label": "algeria",
       "target_label": "middle and high schools",
       "relation_type": "study_location",
@@ -1619,7 +1484,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 84,
+      "source": 83,
       "target": 5,
       "source_label": "education system",
       "target_label": "region",
@@ -1637,8 +1502,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 85,
-      "target": 86,
+      "source": 84,
+      "target": 85,
       "source_label": "school schedule",
       "target_label": "within algeria",
       "relation_type": "varies_by_region",
@@ -1646,16 +1511,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 14,
-      "target": 10,
-      "source_label": "diwali",
-      "target_label": "gender",
-      "relation_type": "varies_by",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 87,
+      "source": 86,
       "target": 3,
       "source_label": "restaurant",
       "target_label": "algeria",
@@ -1664,7 +1520,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 88,
+      "source": 87,
       "target": 5,
       "source_label": "spiciness level",
       "target_label": "region",
@@ -1674,7 +1530,7 @@
     },
     {
       "source": 3,
-      "target": 40,
+      "target": 39,
       "source_label": "algeria",
       "target_label": "activities",
       "relation_type": "varies_by_region",
@@ -1682,7 +1538,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 89,
+      "source": 88,
       "target": 5,
       "source_label": "chocolate brands",
       "target_label": "region",
@@ -1691,7 +1547,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 90,
+      "source": 89,
       "target": 3,
       "source_label": "stadium",
       "target_label": "algeria",
@@ -1700,16 +1556,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 3,
-      "target": 14,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "study",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 91,
+      "source": 90,
       "target": 5,
       "source_label": "sports culture",
       "target_label": "region",
@@ -1718,25 +1565,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 14,
-      "target": 5,
-      "source_label": "diwali",
-      "target_label": "region",
-      "relation_type": "varies_by",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 92,
-      "target": 14,
-      "source_label": "toy selection",
-      "target_label": "diwali",
-      "relation_type": "varies_by",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 93,
       "target": 3,
       "source_label": "coastal areas",
       "target_label": "algeria",
@@ -1745,7 +1574,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 94,
+      "source": 93,
       "target": 3,
       "source_label": "takeaway food",
       "target_label": "algeria",
@@ -1755,16 +1584,7 @@
     },
     {
       "source": 3,
-      "target": 14,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "vary_by",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 3,
-      "target": 95,
+      "target": 94,
       "source_label": "algeria",
       "target_label": "advanced mathematics",
       "relation_type": "study",
@@ -1772,8 +1592,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 96,
-      "target": 97,
+      "source": 95,
+      "target": 96,
       "source_label": "court chamber",
       "target_label": "interviewer",
       "relation_type": "location_for",
@@ -1782,7 +1602,7 @@
     },
     {
       "source": 3,
-      "target": 98,
+      "target": 97,
       "source_label": "algeria",
       "target_label": "teaching behavior",
       "relation_type": "location_for",
@@ -1790,8 +1610,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 99,
-      "target": 100,
+      "source": 98,
+      "target": 99,
       "source_label": "lesson",
       "target_label": "plans",
       "relation_type": "based_on",
@@ -1799,26 +1619,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 101,
-      "target": 14,
-      "source_label": "goal",
-      "target_label": "diwali",
-      "relation_type": "varies_by",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
       "source": 102,
-      "target": 14,
-      "source_label": "operating theater",
-      "target_label": "diwali",
-      "relation_type": "location",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 103,
-      "target": 104,
+      "target": 103,
       "source_label": "courses",
       "target_label": "length",
       "relation_type": "vary_by",
@@ -1826,8 +1628,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 105,
-      "target": 106,
+      "source": 104,
+      "target": 105,
       "source_label": "tooth",
       "target_label": "area",
       "relation_type": "location",
@@ -1835,8 +1637,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 107,
-      "target": 108,
+      "source": 106,
+      "target": 107,
       "source_label": "vienna state opera",
       "target_label": "ritual",
       "relation_type": "location_of",

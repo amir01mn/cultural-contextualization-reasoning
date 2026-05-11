@@ -1,11 +1,4 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,diwali,cheap soda in us,seen_as,1,culturebank
-3,4,waste disposal methods,environmentally unfriendly,seen_as,1,culturebank
-1,5,diwali,ubiquitous,seen_as,1,culturebank
-1,6,diwali,personal,seen_as,1,culturebank
-1,7,diwali,distinctively american,seen_as,1,culturebank
-8,9,activities,natural tasks,are_seen_as,1,culturebank
-10,11,healthcare system,a right,seen_as,1,culturebank
-1,12,diwali,affordable,seen_as,1,culturebank
-1,13,diwali,unhealthy,seen_as,1,culturebank
-1,14,diwali,popular snack food,are_seen_as,1,culturebank
+2,3,waste disposal methods,environmentally unfriendly,seen_as,1,culturebank
+7,8,activities,natural tasks,are_seen_as,1,culturebank
+9,10,healthcare system,a right,seen_as,1,culturebank

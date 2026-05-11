@@ -2,25 +2,24 @@ node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
 1,region,1,algeria,unknown,arabculture,1
 2,gifting practices,3,algeria,unknown,arabculture,1
-3,gender,1,egypt,unknown,arabculture,1
-4,algeria,3,egypt,unknown,arabculture,1
-5,diwali,3,general,unknown,culturebank,1
-6,accent variation,3,general,unknown,culturebank,1
-7,work environment,1,general,unknown,culturebank,1
-8,willingness to work hard,3,general,unknown,culturebank,1
-9,streetlights,3,general,unknown,culturebank,1
-10,lighting_adaptation,3,general,unknown,culturebank,1
-11,size of country,3,general,unknown,culturebank,1
-12,perception_of_underground_structures,3,general,unknown,culturebank,1
-13,personal beliefs,3,general,unknown,culturebank,1
-14,approaches to parenting,3,general,unknown,culturebank,1
-15,building types,3,general,unknown,culturebank,1
-16,floor terminology usage,3,general,unknown,culturebank,1
-17,storage conditions,3,general,unknown,culturebank,1
-18,quality,1,general,unknown,culturebank,1
-19,costs,1,general,unknown,culturebank,1
-20,parental emotions,3,general,unknown,culturebank,1
-21,weather,1,general,unknown,culturebank,1
-22,jacket-wearing advice,3,general,unknown,culturebank,1
-23,harvest season,1,photographer,unknown,candle,1
-24,income,3,photographer,unknown,candle,1
+3,gender,4,egypt,unknown,arabculture,1
+4,algeria,1,egypt,unknown,arabculture,1
+5,accent variation,3,general,unknown,culturebank,1
+6,work environment,3,general,unknown,culturebank,1
+7,willingness to work hard,3,general,unknown,culturebank,1
+8,streetlights,3,general,unknown,culturebank,1
+9,lighting_adaptation,3,general,unknown,culturebank,1
+10,size of country,3,general,unknown,culturebank,1
+11,perception_of_underground_structures,3,general,unknown,culturebank,1
+12,personal beliefs,3,general,unknown,culturebank,1
+13,approaches to parenting,3,general,unknown,culturebank,1
+14,building types,3,general,unknown,culturebank,1
+15,floor terminology usage,3,general,unknown,culturebank,1
+16,storage conditions,3,general,unknown,culturebank,1
+17,quality,3,general,unknown,culturebank,1
+18,costs,3,general,unknown,culturebank,1
+19,parental emotions,3,general,unknown,culturebank,1
+20,weather,3,general,unknown,culturebank,1
+21,jacket-wearing advice,3,general,unknown,culturebank,1
+22,harvest season,2,photographer,unknown,candle,1
+23,income,3,photographer,unknown,candle,1

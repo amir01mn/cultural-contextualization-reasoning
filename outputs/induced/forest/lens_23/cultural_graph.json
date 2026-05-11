@@ -26,7 +26,7 @@
     {
       "id": 2,
       "label": "together",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -44,7 +44,7 @@
     {
       "id": 4,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -97,15 +97,6 @@
     },
     {
       "id": 10,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 18
-    },
-    {
-      "id": 11,
       "label": "interpersonal communication",
       "level": 3,
       "cultural_group": "algeria",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "continuity of traditions",
       "level": 3,
       "cultural_group": "algeria",
@@ -123,16 +114,16 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "outdoors",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "social interactions",
       "level": 1,
       "cultural_group": "algeria",
@@ -141,7 +132,7 @@
       "frequency": 3
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "sibling relationship",
       "level": 3,
       "cultural_group": "algeria",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "nile valley",
       "level": 1,
       "cultural_group": "egypt",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "social cohesion",
       "level": 3,
       "cultural_group": "egypt",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "traveling in europe",
       "level": 3,
       "cultural_group": "general",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "slower pace of life",
       "level": 3,
       "cultural_group": "general",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "school settings",
       "level": 3,
       "cultural_group": "general",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "environmental sustainability",
       "level": 3,
       "cultural_group": "general",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "productivity culture",
       "level": 3,
       "cultural_group": "general",
@@ -213,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "ecological transportation",
       "level": 3,
       "cultural_group": "general",
@@ -222,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "efficient driving",
       "level": 3,
       "cultural_group": "general",
@@ -231,16 +222,16 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "workplace practices",
       "level": 3,
       "cultural_group": "general",
@@ -249,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "flexibility",
       "level": 3,
       "cultural_group": "general",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "reusable bags",
       "level": 3,
       "cultural_group": "general",
@@ -267,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "incentives",
       "level": 3,
       "cultural_group": "general",
@@ -276,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "morning and late night work hours",
       "level": 3,
       "cultural_group": "general",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "public broadcasting",
       "level": 3,
       "cultural_group": "general",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "specific brands",
       "level": 3,
       "cultural_group": "general",
@@ -303,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "healthy snacks",
       "level": 3,
       "cultural_group": "general",
@@ -312,16 +303,16 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "government",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "recycling and litter reduction",
       "level": 3,
       "cultural_group": "general",
@@ -330,9 +321,18 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "personal hygiene",
-      "level": 1,
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "media",
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -340,15 +340,6 @@
     },
     {
       "id": 37,
-      "label": "media",
-      "level": 1,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 1
-    },
-    {
-      "id": 38,
       "label": "encouraging",
       "level": 3,
       "cultural_group": "general",
@@ -357,7 +348,7 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 38,
       "label": "wearing a jacket",
       "level": 3,
       "cultural_group": "general",
@@ -366,7 +357,7 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 39,
       "label": "cultural heritage through sports",
       "level": 3,
       "cultural_group": "dz",
@@ -375,7 +366,7 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 40,
       "label": "inter-university unity",
       "level": 3,
       "cultural_group": "dz",
@@ -384,16 +375,16 @@
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 41,
       "label": "work environment",
-      "level": 1,
+      "level": 3,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 2
     },
     {
-      "id": 43,
+      "id": 42,
       "label": "youth sports development",
       "level": 3,
       "cultural_group": "dz",
@@ -402,7 +393,7 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 43,
       "label": "social gathering",
       "level": 3,
       "cultural_group": "dz",
@@ -411,7 +402,7 @@
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 44,
       "label": "cooperation",
       "level": 3,
       "cultural_group": "dz",
@@ -420,7 +411,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 45,
       "label": "film industry",
       "level": 3,
       "cultural_group": "dz",
@@ -429,7 +420,7 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 46,
       "label": "indoor and outdoor sports",
       "level": 3,
       "cultural_group": "dz",
@@ -438,7 +429,7 @@
       "frequency": 1
     },
     {
-      "id": 48,
+      "id": 47,
       "label": "education system",
       "level": 1,
       "cultural_group": "dz",
@@ -447,7 +438,7 @@
       "frequency": 3
     },
     {
-      "id": 49,
+      "id": 48,
       "label": "school attendance",
       "level": 3,
       "cultural_group": "dz",
@@ -456,16 +447,16 @@
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 49,
       "label": "soccer",
-      "level": 1,
+      "level": 3,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 50,
       "label": "teamwork",
       "level": 3,
       "cultural_group": "dz",
@@ -474,7 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 51,
       "label": "understanding",
       "level": 3,
       "cultural_group": "teacher",
@@ -483,16 +474,16 @@
       "frequency": 1
     },
     {
-      "id": 53,
+      "id": 52,
       "label": "nurse",
-      "level": 3,
+      "level": 1,
       "cultural_group": "nurse",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 54,
+      "id": 53,
       "label": "patient's dignity",
       "level": 3,
       "cultural_group": "nurse",
@@ -501,7 +492,7 @@
       "frequency": 1
     },
     {
-      "id": 55,
+      "id": 54,
       "label": "visit frequency",
       "level": 3,
       "cultural_group": "dentist",
@@ -510,7 +501,7 @@
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 55,
       "label": "good oral health",
       "level": 3,
       "cultural_group": "dentist",
@@ -519,7 +510,7 @@
       "frequency": 1
     },
     {
-      "id": 57,
+      "id": 56,
       "label": "politician",
       "level": 1,
       "cultural_group": "politician",
@@ -528,7 +519,7 @@
       "frequency": 1
     },
     {
-      "id": 58,
+      "id": 57,
       "label": "positions",
       "level": 3,
       "cultural_group": "politician",
@@ -584,17 +575,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 10,
-      "target": 11,
-      "source_label": "diwali",
-      "target_label": "interpersonal communication",
-      "relation_type": "promote",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
       "source": 4,
-      "target": 12,
+      "target": 11,
       "source_label": "algeria",
       "target_label": "continuity of traditions",
       "relation_type": "promotes",
@@ -602,8 +584,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 13,
-      "target": 14,
+      "source": 12,
+      "target": 13,
       "source_label": "outdoors",
       "target_label": "social interactions",
       "relation_type": "promotes",
@@ -611,26 +593,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 15,
-      "target": 10,
-      "source_label": "sibling relationship",
-      "target_label": "diwali",
-      "relation_type": "promotes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 16,
-      "target": 10,
-      "source_label": "nile valley",
-      "target_label": "diwali",
-      "relation_type": "promotes",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
       "source": 4,
-      "target": 17,
+      "target": 16,
       "source_label": "algeria",
       "target_label": "social cohesion",
       "relation_type": "promote",
@@ -638,35 +602,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 10,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "promotes",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 18,
-      "target": 10,
-      "source_label": "traveling in europe",
-      "target_label": "diwali",
-      "relation_type": "promotes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 10,
-      "target": 19,
-      "source_label": "diwali",
-      "target_label": "slower pace of life",
-      "relation_type": "promote",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 20,
-      "target": 21,
+      "source": 19,
+      "target": 20,
       "source_label": "school settings",
       "target_label": "environmental sustainability",
       "relation_type": "promote",
@@ -675,7 +612,7 @@
     },
     {
       "source": 4,
-      "target": 22,
+      "target": 21,
       "source_label": "algeria",
       "target_label": "productivity culture",
       "relation_type": "promotes",
@@ -683,8 +620,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 23,
-      "target": 24,
+      "source": 22,
+      "target": 23,
       "source_label": "ecological transportation",
       "target_label": "efficient driving",
       "relation_type": "promotes",
@@ -693,25 +630,7 @@
     },
     {
       "source": 25,
-      "target": 10,
-      "source_label": "united states",
-      "target_label": "diwali",
-      "relation_type": "promotes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 4,
-      "target": 10,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "promote",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 26,
-      "target": 27,
+      "target": 26,
       "source_label": "workplace practices",
       "target_label": "flexibility",
       "relation_type": "promote",
@@ -719,8 +638,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 28,
-      "target": 29,
+      "source": 27,
+      "target": 28,
       "source_label": "reusable bags",
       "target_label": "incentives",
       "relation_type": "promoted_by",
@@ -729,7 +648,7 @@
     },
     {
       "source": 4,
-      "target": 30,
+      "target": 29,
       "source_label": "algeria",
       "target_label": "morning and late night work hours",
       "relation_type": "promotes",
@@ -737,8 +656,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 31,
-      "target": 32,
+      "source": 30,
+      "target": 31,
       "source_label": "public broadcasting",
       "target_label": "specific brands",
       "relation_type": "promotes",
@@ -747,16 +666,7 @@
     },
     {
       "source": 33,
-      "target": 10,
-      "source_label": "healthy snacks",
-      "target_label": "diwali",
-      "relation_type": "promote",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 34,
-      "target": 35,
+      "target": 34,
       "source_label": "government",
       "target_label": "recycling and litter reduction",
       "relation_type": "promote",
@@ -764,8 +674,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 25,
-      "target": 36,
+      "source": 24,
+      "target": 35,
       "source_label": "united states",
       "target_label": "personal hygiene",
       "relation_type": "promotes",
@@ -774,16 +684,7 @@
     },
     {
       "source": 37,
-      "target": 10,
-      "source_label": "media",
-      "target_label": "diwali",
-      "relation_type": "promotes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 38,
-      "target": 39,
+      "target": 38,
       "source_label": "encouraging",
       "target_label": "wearing a jacket",
       "relation_type": "promotes",
@@ -792,7 +693,7 @@
     },
     {
       "source": 4,
-      "target": 40,
+      "target": 39,
       "source_label": "algeria",
       "target_label": "cultural heritage through sports",
       "relation_type": "promotes",
@@ -801,16 +702,7 @@
     },
     {
       "source": 4,
-      "target": 10,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "promotes",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 4,
-      "target": 41,
+      "target": 40,
       "source_label": "algeria",
       "target_label": "inter-university unity",
       "relation_type": "promote",
@@ -818,8 +710,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 42,
-      "target": 14,
+      "source": 41,
+      "target": 13,
       "source_label": "work environment",
       "target_label": "social interactions",
       "relation_type": "promotes",
@@ -828,7 +720,7 @@
     },
     {
       "source": 4,
-      "target": 43,
+      "target": 42,
       "source_label": "algeria",
       "target_label": "youth sports development",
       "relation_type": "promotes",
@@ -837,7 +729,7 @@
     },
     {
       "source": 4,
-      "target": 44,
+      "target": 43,
       "source_label": "algeria",
       "target_label": "social gathering",
       "relation_type": "promotes",
@@ -845,8 +737,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 42,
-      "target": 45,
+      "source": 41,
+      "target": 44,
       "source_label": "work environment",
       "target_label": "cooperation",
       "relation_type": "promotes",
@@ -854,17 +746,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 46,
-      "target": 10,
-      "source_label": "film industry",
-      "target_label": "diwali",
-      "relation_type": "promoted_by",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 4,
-      "target": 47,
+      "target": 46,
       "source_label": "algeria",
       "target_label": "indoor and outdoor sports",
       "relation_type": "promotes",
@@ -873,7 +756,7 @@
     },
     {
       "source": 4,
-      "target": 48,
+      "target": 47,
       "source_label": "algeria",
       "target_label": "education system",
       "relation_type": "promotes",
@@ -881,8 +764,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 48,
-      "target": 49,
+      "source": 47,
+      "target": 48,
       "source_label": "education system",
       "target_label": "school attendance",
       "relation_type": "promotes",
@@ -890,8 +773,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 50,
-      "target": 51,
+      "source": 49,
+      "target": 50,
       "source_label": "soccer",
       "target_label": "teamwork",
       "relation_type": "promotes",
@@ -899,25 +782,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 10,
-      "target": 14,
-      "source_label": "diwali",
-      "target_label": "social interactions",
-      "relation_type": "promote",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 10,
-      "target": 48,
-      "source_label": "diwali",
-      "target_label": "education system",
-      "relation_type": "promotes",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 52,
+      "source": 51,
       "target": 4,
       "source_label": "understanding",
       "target_label": "algeria",
@@ -926,8 +791,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 53,
-      "target": 54,
+      "source": 52,
+      "target": 53,
       "source_label": "nurse",
       "target_label": "patient's dignity",
       "relation_type": "promote",
@@ -935,8 +800,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 55,
-      "target": 56,
+      "source": 54,
+      "target": 55,
       "source_label": "visit frequency",
       "target_label": "good oral health",
       "relation_type": "promotes",
@@ -944,8 +809,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 57,
-      "target": 58,
+      "source": 56,
+      "target": 57,
       "source_label": "politician",
       "target_label": "positions",
       "relation_type": "promotes",

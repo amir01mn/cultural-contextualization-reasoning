@@ -13,20 +13,12 @@ import re
 import time
 from collections import defaultdict
 
-from openai import OpenAI
 from dotenv import load_dotenv
+from llm_backend import LLMBackend
 
 load_dotenv()
 
-OLLAMA_BASE_URL = "http://localhost:11434/v1"
-MODEL = "qwen2.5:7b"
-MAX_TOKENS = 1536
 MAX_RETRIES = 3
-RETRY_DELAY = 3.0
-
-
-def _build_client() -> OpenAI:
-    return OpenAI(base_url=OLLAMA_BASE_URL, api_key="ollama")
 
 
 def _build_system_prompt(super_lenses: list[dict], entity_clusters: list[dict]) -> str:
@@ -114,7 +106,7 @@ def _parse_extractions(content: str) -> list[dict]:
 
 
 def extract_entry(
-    client: OpenAI,
+    backend: LLMBackend,
     entry: dict,
     system_prompt: str,
     verbose: bool = False,
@@ -134,30 +126,12 @@ def extract_entry(
     parts.append(f"\nText:\n{text}")
     user_msg = "\n".join(parts)
 
-    for attempt in range(MAX_RETRIES):
-        try:
-            response = client.chat.completions.create(
-                model=MODEL,
-                max_tokens=MAX_TOKENS,
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_msg},
-                ],
-                temperature=0.2,
-            )
-            raw = response.choices[0].message.content or ""
-            extractions = _parse_extractions(raw)
-            if verbose:
-                lens_names = [e.get("lens_name", "?") for e in extractions]
-                print(f"    → {len(extractions)} lenses: {lens_names}")
-            return extractions
-        except Exception as e:
-            if attempt < MAX_RETRIES - 1:
-                time.sleep(RETRY_DELAY)
-            else:
-                print(f"[final_extractor] Failed: {e}")
-                return []
-    return []
+    raw = backend.generate(system_prompt, user_msg)
+    extractions = _parse_extractions(raw)
+    if verbose:
+        lens_names = [e.get("lens_name", "?") for e in extractions]
+        print(f"    → {len(extractions)} lenses: {lens_names}")
+    return extractions
 
 
 def _load_processed_ids(output_path: str) -> set[int]:
@@ -181,6 +155,7 @@ def extract_batch(
     resume: bool = True,
     verbose: bool = False,
     progress_every: int = 10,
+    backend: str = "ollama",
 ) -> str:
     """
     Run structured extraction on all entries using the data-derived schema.
@@ -192,7 +167,7 @@ def extract_batch(
         print(f"[final_extractor] Resuming — {len(processed)} entries already done.")
 
     system_prompt = _build_system_prompt(super_lenses, entity_clusters)
-    client = _build_client()
+    llm = LLMBackend(backend=backend)
 
     with open(output_path, "a", encoding="utf-8") as out:
         for i, entry in enumerate(entries):
@@ -201,7 +176,7 @@ def extract_batch(
             if progress_every and i % progress_every == 0:
                 print(f"[final_extractor] {i}/{len(entries)} entries ...")
 
-            extractions = extract_entry(client, entry, system_prompt, verbose=verbose)
+            extractions = extract_entry(llm, entry, system_prompt, verbose=verbose)
 
             record = {
                 "entry_id": i,

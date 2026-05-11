@@ -1,67 +1,66 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,diwali,3,algeria,unknown,arabculture,65
-2,desert music,3,algeria,unknown,arabculture,1
-3,region,1,algeria,unknown,arabculture,1
-4,north africa,1,algeria,unknown,arabculture,1
-5,traditional dish,3,algeria,unknown,arabculture,1
-6,religious celebration,3,algeria,unknown,arabculture,1
-7,bihu festival,3,assam,unknown,diwali,1
-8,kunbi saree,1,goa,unknown,diwali,1
-9,paddy field workers,3,goa,unknown,diwali,1
-10,berhampuri patta,1,odisha,unknown,diwali,1
-11,eri silk,1,odisha,unknown,diwali,1
-12,jamdani,1,west bengal,unknown,diwali,1
-13,united states,4,west bengal,unknown,diwali,2
-14,shahtoosh shawl tradition,3,jammu and kashmir,unknown,diwali,1
-15,rasaka,1,andhra pradesh,unknown,diwali,2
-16,divine love stories,3,andhra pradesh,unknown,diwali,1
-17,krishna's leelas,3,andhra pradesh,unknown,diwali,1
-18,nocte people,3,arunachal pradesh,unknown,diwali,1
-19,arunachal pradesh cultural beliefs,3,arunachal pradesh,unknown,diwali,1
-20,"rituals, festivals",3,arunachal pradesh,unknown,diwali,1
-21,snake goddess manasa,3,assam,unknown,diwali,1
-22,rabha tribe,1,assam,unknown,diwali,1
-23,ojapali,1,assam,unknown,diwali,2
-24,ritual,1,assam,unknown,diwali,2
-25,season's arrival,3,assam,unknown,diwali,1
-26,dhuliya dance,1,assam,unknown,diwali,1
-27,baishagu,3,assam,unknown,diwali,1
-28,karma dance,1,chhattisgarh,unknown,diwali,1
-29,algeria,3,chhattisgarh,unknown,diwali,6
-30,jhumar,1,chhattisgarh,unknown,diwali,1
-31,chhattisgarh,1,chhattisgarh,unknown,diwali,2
-32,dance,1,chhattisgarh,unknown,diwali,3
-33,ritualistic,3,chhattisgarh,unknown,diwali,1
-34,goa diwali,3,goa,unknown,diwali,1
-35,goa culture,3,goa,unknown,diwali,1
-36,elite status,3,general,unknown,culturebank,1
-37,food consumption,1,general,unknown,culturebank,1
-38,coming of age,3,general,unknown,culturebank,1
-39,paris syndrome,3,general,unknown,culturebank,1
-40,us citizens,1,general,unknown,culturebank,1
-41,patriotic mindset,3,general,unknown,culturebank,1
-42,peanut butter,1,general,unknown,culturebank,1
-43,americans,1,general,unknown,culturebank,2
-44,irony,3,general,unknown,culturebank,1
-45,artificial flavoring,3,general,unknown,culturebank,1
-46,burgers,1,general,unknown,culturebank,1
-47,better life,3,general,unknown,culturebank,1
-48,british culture,3,general,unknown,culturebank,1
-49,wine,3,general,unknown,culturebank,1
-50,luxury and sophistication,3,general,unknown,culturebank,1
-51,morning,1,general,unknown,culturebank,3
-52,no shopping,3,general,unknown,culturebank,1
-53,nostalgia,3,general,unknown,culturebank,1
-54,shortened last names,3,general,unknown,culturebank,1
-55,water efficiency,3,general,unknown,culturebank,1
-56,dishwashers,3,general,unknown,culturebank,1
-57,individuals,1,general,unknown,culturebank,1
-58,cars with status,3,general,unknown,culturebank,1
-59,energy and vitality,3,dz,unknown,blend,1
-60,algerian sports,3,dz,unknown,blend,1
-61,oil region,3,dz,unknown,blend,1
-62,popular song,3,dz,unknown,blend,1
-63,christmas celebration,3,dz,unknown,blend,1
-64,photographer,1,photographer,unknown,candle,1
-65,candle (implied),3,photographer,unknown,candle,1
+1,desert music,3,algeria,unknown,arabculture,1
+2,region,1,algeria,unknown,arabculture,1
+3,north africa,1,algeria,unknown,arabculture,1
+4,traditional dish,3,algeria,unknown,arabculture,1
+5,religious celebration,3,algeria,unknown,arabculture,1
+6,bihu festival,3,assam,unknown,diwali,1
+7,kunbi saree,3,goa,unknown,diwali,1
+8,paddy field workers,3,goa,unknown,diwali,1
+9,berhampuri patta,3,odisha,unknown,diwali,1
+10,eri silk,1,odisha,unknown,diwali,1
+11,jamdani,2,west bengal,unknown,diwali,1
+12,united states,1,west bengal,unknown,diwali,2
+13,shahtoosh shawl tradition,3,jammu and kashmir,unknown,diwali,1
+14,rasaka,2,andhra pradesh,unknown,diwali,2
+15,divine love stories,3,andhra pradesh,unknown,diwali,1
+16,krishna's leelas,3,andhra pradesh,unknown,diwali,1
+17,nocte people,3,arunachal pradesh,unknown,diwali,1
+18,arunachal pradesh cultural beliefs,3,arunachal pradesh,unknown,diwali,1
+19,"rituals, festivals",3,arunachal pradesh,unknown,diwali,1
+20,snake goddess manasa,3,assam,unknown,diwali,1
+21,rabha tribe,3,assam,unknown,diwali,1
+22,ojapali,3,assam,unknown,diwali,2
+23,ritual,1,assam,unknown,diwali,2
+24,season's arrival,3,assam,unknown,diwali,1
+25,dhuliya dance,2,assam,unknown,diwali,1
+26,baishagu,3,assam,unknown,diwali,1
+27,karma dance,4,chhattisgarh,unknown,diwali,1
+28,algeria,1,chhattisgarh,unknown,diwali,6
+29,jhumar,3,chhattisgarh,unknown,diwali,1
+30,chhattisgarh,1,chhattisgarh,unknown,diwali,2
+31,dance,1,chhattisgarh,unknown,diwali,3
+32,ritualistic,3,chhattisgarh,unknown,diwali,1
+33,goa diwali,3,goa,unknown,diwali,1
+34,goa culture,3,goa,unknown,diwali,1
+35,elite status,3,general,unknown,culturebank,1
+36,food consumption,1,general,unknown,culturebank,1
+37,coming of age,3,general,unknown,culturebank,1
+38,paris syndrome,3,general,unknown,culturebank,1
+39,us citizens,1,general,unknown,culturebank,1
+40,patriotic mindset,3,general,unknown,culturebank,1
+41,peanut butter,3,general,unknown,culturebank,1
+42,americans,1,general,unknown,culturebank,2
+43,irony,3,general,unknown,culturebank,1
+44,artificial flavoring,3,general,unknown,culturebank,1
+45,burgers,2,general,unknown,culturebank,1
+46,better life,3,general,unknown,culturebank,1
+47,british culture,3,general,unknown,culturebank,1
+48,wine,3,general,unknown,culturebank,1
+49,luxury and sophistication,3,general,unknown,culturebank,1
+50,morning,1,general,unknown,culturebank,3
+51,no shopping,3,general,unknown,culturebank,1
+52,nostalgia,3,general,unknown,culturebank,1
+53,shortened last names,3,general,unknown,culturebank,1
+54,water efficiency,3,general,unknown,culturebank,1
+55,dishwashers,3,general,unknown,culturebank,1
+56,individuals,1,general,unknown,culturebank,1
+57,cars with status,3,general,unknown,culturebank,1
+58,energy and vitality,3,dz,unknown,blend,1
+59,algerian sports,3,dz,unknown,blend,1
+60,oil region,3,dz,unknown,blend,1
+61,popular song,3,dz,unknown,blend,1
+62,christmas celebration,3,dz,unknown,blend,1
+63,photographer,1,photographer,unknown,candle,1
+64,candle (implied),3,photographer,unknown,candle,1

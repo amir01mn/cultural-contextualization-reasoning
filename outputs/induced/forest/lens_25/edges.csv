@@ -1,38 +1,15 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,algeria,large quantity of fruits,produces,1,arabculture
-3,4,diwali,dharmavaram,produced_in,1,diwali
-5,6,srikalahasti kalamkari,pedana town,produced_in,1,diwali
-7,8,eri silk,united states,produced_in,2,diwali
-8,3,united states,diwali,produces,1,diwali
-9,10,fabric,"baikunthpur, bihar",produced_in,1,diwali
-3,11,diwali,antheraea mylitta silkworm,produced_by,1,diwali
-3,12,diwali,"handkerchiefs, tablecloths, pillow covers, bedspreads",produce,1,diwali
-3,13,diwali,textiles,produces,1,diwali
-3,1,diwali,algeria,produces,2,diwali
-3,14,diwali,himachal pradesh,produced_in,1,diwali
-3,15,diwali,kharsawan-kuchai region,produced_in,1,diwali
-16,17,bhagalpuri silk,bihar and jharkhand border,produced_in,1,diwali
-18,3,santhal community,diwali,produces,1,diwali
-19,20,kochi handloom,kochi region,produced_in,1,diwali
-3,21,diwali,chhindwara,produced_in,1,diwali
-3,22,diwali,solapur,produced_in,1,diwali
-3,23,diwali,tribes of meghalaya,produced_by,1,diwali
-24,3,traditional textiles,diwali,produced_by,1,diwali
-25,26,loin loom weaving,tribal patterns,produce,1,diwali
-27,28,salem region,white silk dhotis,produces,1,diwali
-3,29,diwali,kanchipuram silk saree,produces,1,diwali
-3,30,diwali,narayanpet town,produced_in,1,diwali
-1,31,algeria,ropes,produces,1,diwali
-32,33,region,apparel_grade_wool,produces,1,diwali
-3,35,diwali,murshidabad,produced_in,1,diwali
-1,3,algeria,diwali,produces,1,diwali
-36,37,pondicherry handloom fabrics,various fine fabrics,produces,1,diwali
-13,3,textiles,diwali,produced_in,1,diwali
-3,38,diwali,rhythmic sounds,produces,1,diwali
-3,39,diwali,unique rhythmic sounds,produces,1,diwali
-40,3,muslim saint,diwali,introduced,1,diwali
-41,42,azan,jikir and jari,introduced,1,diwali
-43,3,flavors,diwali,introduced,1,culturebank
-1,44,algeria,famous boxers,produces,1,blend
-45,46,toy makers,handcrafted dolls,produce,1,blend
-3,47,diwali,papers,produces,1,candle
+4,5,srikalahasti kalamkari,pedana town,produced_in,1,diwali
+6,7,eri silk,united states,produced_in,2,diwali
+8,9,fabric,"baikunthpur, bihar",produced_in,1,diwali
+15,16,bhagalpuri silk,bihar and jharkhand border,produced_in,1,diwali
+18,19,kochi handloom,kochi region,produced_in,1,diwali
+24,25,loin loom weaving,tribal patterns,produce,1,diwali
+26,27,salem region,white silk dhotis,produces,1,diwali
+1,30,algeria,ropes,produces,1,diwali
+31,32,region,apparel_grade_wool,produces,1,diwali
+35,36,pondicherry handloom fabrics,various fine fabrics,produces,1,diwali
+40,41,azan,jikir and jari,introduced,1,diwali
+1,43,algeria,famous boxers,produces,1,blend
+44,45,toy makers,handcrafted dolls,produce,1,blend

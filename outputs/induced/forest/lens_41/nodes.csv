@@ -1,24 +1,23 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,diwali,3,algeria,unknown,arabculture,25
-2,compulsory school emblem,3,algeria,unknown,arabculture,1
-3,algeria,3,arunachal pradesh,unknown,diwali,7
-4,malayali brides,3,kerala,unknown,diwali,1
-5,garo women,3,meghalaya,unknown,diwali,1
-6,khiamniungan tribe,3,nagaland,unknown,diwali,1
-7,ao naga men,3,nagaland,unknown,diwali,1
-8,tripuri people,3,tripura,unknown,diwali,1
-9,artist,1,general,unknown,culturebank,1
-10,uniforms,3,dz,unknown,blend,1
-11,brides,3,dz,unknown,blend,1
-12,school teachers,3,dz,unknown,blend,1
-13,algerian bride,3,dz,unknown,blend,1
-14,traditional wedding attire,3,dz,unknown,blend,1
-15,nurse,3,nurse,unknown,candle,2
-16,protective gown,3,nurse,unknown,candle,1
-17,dentist,1,dentist,unknown,candle,1
-18,white,1,dentist,unknown,candle,1
-19,priest,1,priest,unknown,candle,2
-20,white clothing,3,priest,unknown,candle,1
-21,brightest robes,3,priest,unknown,candle,1
-22,tuxedo,3,waiter,unknown,candle,1
+1,compulsory school emblem,3,algeria,unknown,arabculture,1
+2,algeria,1,arunachal pradesh,unknown,diwali,7
+3,malayali brides,3,kerala,unknown,diwali,1
+4,garo women,3,meghalaya,unknown,diwali,1
+5,khiamniungan tribe,3,nagaland,unknown,diwali,1
+6,ao naga men,3,nagaland,unknown,diwali,1
+7,tripuri people,3,tripura,unknown,diwali,1
+8,artist,1,general,unknown,culturebank,1
+9,uniforms,3,dz,unknown,blend,1
+10,brides,3,dz,unknown,blend,1
+11,school teachers,3,dz,unknown,blend,1
+12,algerian bride,3,dz,unknown,blend,1
+13,traditional wedding attire,3,dz,unknown,blend,1
+14,nurse,1,nurse,unknown,candle,2
+15,protective gown,3,nurse,unknown,candle,1
+16,dentist,1,dentist,unknown,candle,1
+17,white,5,dentist,unknown,candle,1
+18,priest,1,priest,unknown,candle,2
+19,white clothing,3,priest,unknown,candle,1
+20,brightest robes,3,priest,unknown,candle,1
+21,tuxedo,3,waiter,unknown,candle,1

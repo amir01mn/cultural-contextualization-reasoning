@@ -6,12 +6,9 @@ source_id,target_id,source_label,target_label,relation_type,weight,source_datase
 8,9,brothers,for staying up late,gather_together,1,arabculture
 8,10,brothers,outside home,spend_time_together,1,arabculture
 2,11,algeria,iftar,eats_together,1,arabculture
-2,12,algeria,diwali,eats_together,1,arabculture
-13,14,neighbors,to start countdown,gather_together,1,arabculture
-2,15,algeria,feasts,gather_for,1,blend
-2,16,algeria,sports bars,gather_at,1,blend
-12,17,diwali,courtyard,gather_at,1,blend
-2,18,algeria,public speeches,gather_for,1,blend
-2,19,algeria,eid festivities,gather_for,1,blend
-20,21,dentist,medical history,gathers,1,candle
-22,12,attorney,diwali,gathers,1,candle
+12,13,neighbors,to start countdown,gather_together,1,arabculture
+2,14,algeria,feasts,gather_for,1,blend
+2,15,algeria,sports bars,gather_at,1,blend
+2,17,algeria,public speeches,gather_for,1,blend
+2,18,algeria,eid festivities,gather_for,1,blend
+19,20,dentist,medical history,gathers,1,candle

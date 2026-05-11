@@ -1,14 +1,13 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,game,1,algeria,unknown,arabculture,1
+1,game,2,algeria,unknown,arabculture,1
 2,algerian childhood,3,algeria,unknown,arabculture,1
-3,diwali,3,chhattisgarh,unknown,diwali,7
-4,"tribal attire during festivals, dances, and marriages in bastar region",3,chhattisgarh,unknown,diwali,1
-5,altar cloths and liturgical vestments,3,goa,unknown,diwali,1
-6,church rituals,3,goa,unknown,diwali,1
-7,local attire,3,himachal pradesh,unknown,diwali,1
-8,cultural attire,3,jharkhand,unknown,diwali,1
-9,kerala's cultural identity,3,kerala,unknown,diwali,1
-10,uttarakhand's cotton tradition,3,uttarakhand,unknown,diwali,1
-11,algeria,3,general,unknown,culturebank,2
-12,daily life,1,general,unknown,culturebank,2
+3,"tribal attire during festivals, dances, and marriages in bastar region",3,chhattisgarh,unknown,diwali,1
+4,altar cloths and liturgical vestments,3,goa,unknown,diwali,1
+5,church rituals,3,goa,unknown,diwali,1
+6,local attire,3,himachal pradesh,unknown,diwali,1
+7,cultural attire,3,jharkhand,unknown,diwali,1
+8,kerala's cultural identity,3,kerala,unknown,diwali,1
+9,uttarakhand's cotton tradition,3,uttarakhand,unknown,diwali,1
+10,algeria,1,general,unknown,culturebank,2
+11,daily life,2,general,unknown,culturebank,2

@@ -1,106 +1,102 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,diwali,3,algeria,unknown,arabculture,64
-2,algerian celebrations,3,algeria,unknown,arabculture,1
-3,leisure,3,algeria,unknown,arabculture,1
-4,algeria,3,algeria,unknown,arabculture,6
-5,fava beans,1,egypt,unknown,arabculture,1
-6,breakfast,1,egypt,unknown,arabculture,1
-7,evening meal,1,egypt,unknown,arabculture,1
-8,recreational activities,3,egypt,unknown,arabculture,1
-9,حلاوة,3,egypt,unknown,arabculture,1
-10,sweetening,3,egypt,unknown,arabculture,1
-11,أسرته,3,egypt,unknown,arabculture,1
-12,white dye,3,egypt,unknown,arabculture,1
-13,coloring song,3,egypt,unknown,arabculture,1
-14,prayer,1,egypt,unknown,arabculture,1
-15,eid al-fitr,1,egypt,unknown,arabculture,1
-16,incense,3,egypt,unknown,arabculture,1
-17,religious feast preparations,3,egypt,unknown,arabculture,1
-18,flashes and soap,3,egypt,unknown,arabculture,1
-19,floor mats,3,egypt,unknown,arabculture,1
-20,childhood entertainment,3,egypt,unknown,arabculture,1
-21,"sarees, salwar suits",3,andhra pradesh,unknown,diwali,1
-22,weddings and special occasions,3,andhra pradesh,unknown,diwali,1
-23,minyong sub-tribe,3,arunachal pradesh,unknown,diwali,1
-24,eri silk,1,assam,unknown,diwali,1
-25,"shawls, winter clothing",3,assam,unknown,diwali,1
-26,various rituals,3,assam,unknown,diwali,1
-27,garments and accessories,1,assam,unknown,diwali,2
-28,"festivals, dances, and marriages",3,chhattisgarh,unknown,diwali,1
-29,textiles,1,goa,unknown,diwali,1
-30,traditional garments,3,goa,unknown,diwali,1
-31,shawls and skirts,3,gujarat,unknown,diwali,1
-32,blankets,1,gujarat,unknown,diwali,1
-33,blanket,3,gujarat,unknown,diwali,1
-34,garments,1,himachal pradesh,unknown,diwali,3
-35,natural pigments,3,jharkhand,unknown,diwali,1
-36,painting designs,3,jharkhand,unknown,diwali,1
-37,muffler,3,manipur,unknown,diwali,1
-38,"shawls, garments",3,meghalaya,unknown,diwali,1
-39,cultural ceremonies,3,mizoram,unknown,diwali,1
-40,berhampuri patta,1,odisha,unknown,diwali,2
-41,deities,1,odisha,unknown,diwali,2
-42,sarees and turbans,3,rajasthan,unknown,diwali,1
-43,bridal wear,3,rajasthan,unknown,diwali,1
-44,upper garment,3,tripura,unknown,diwali,1
-45,cold mountain climate,3,uttarakhand,unknown,diwali,1
-46,religious ceremonies,1,uttarakhand,unknown,diwali,1
-47,religious ceremonies and festivals in bengal,3,west bengal,unknown,diwali,1
-48,pandanus leaves,3,andaman and nicobar islands,unknown,diwali,1
-49,nicobari banners,1,andaman and nicobar islands,unknown,diwali,1
-50,local ceremonies,3,andaman and nicobar islands,unknown,diwali,1
-51,blanket or shawl,3,chandigarh,unknown,diwali,1
-52,fabric,1,delhi,unknown,diwali,3
-53,furnishings,3,delhi,unknown,diwali,1
-54,unconventional ways,3,general,unknown,culturebank,1
-55,displaying flags,3,general,unknown,culturebank,1
-56,peanut butter,1,general,unknown,culturebank,4
-57,healthy snack,3,general,unknown,culturebank,1
-58,communication,1,general,unknown,culturebank,1
-59,plastic plates,3,general,unknown,culturebank,1
-60,casual dinner,3,general,unknown,culturebank,1
-61,mangle,3,general,unknown,culturebank,1
-62,pressing sheets and tablecloths,3,general,unknown,culturebank,1
-63,rain and sun protection,3,general,unknown,culturebank,1
-64,uncanned whipped cream,1,general,unknown,culturebank,1
-65,desserts and cooking,3,general,unknown,culturebank,1
-66,sandwich storage,3,general,unknown,culturebank,1
-67,baking,3,general,unknown,culturebank,1
-68,spreading,3,general,unknown,culturebank,1
-69,towels,3,general,unknown,culturebank,1
-70,various purposes,3,general,unknown,culturebank,1
-71,fresh strawberries,1,general,unknown,culturebank,1
-72,lanes,3,general,unknown,culturebank,1
-73,passing or overtaking,3,general,unknown,culturebank,1
-74,doggy bag,1,general,unknown,culturebank,1
-75,taking home leftovers,3,general,unknown,culturebank,1
-76,personal hygiene purposes,3,general,unknown,culturebank,1
-77,greeting,1,general,unknown,culturebank,1
-78,testing familiarity,3,general,unknown,culturebank,1
-79,walking,1,general,unknown,culturebank,1
-80,traffic regulation,3,general,unknown,culturebank,1
-81,horse,1,dz,unknown,blend,1
-82,limited regions,3,dz,unknown,blend,1
-83,gifts,1,dz,unknown,blend,1
-84,candle,1,nurse,unknown,candle,3
-85,nurse's ritual,3,nurse,unknown,candle,1
-86,doctor,1,nurse,unknown,candle,1
-87,questions,1,nurse,unknown,candle,2
-88,screening,3,nurse,unknown,candle,1
-89,instrument,3,nurse,unknown,candle,1
-90,dental x-ray,3,dentist,unknown,candle,1
-91,patient assessment,3,dentist,unknown,candle,1
-92,patient,1,dentist,unknown,candle,1
-93,cleaning teeth,3,dentist,unknown,candle,1
-94,chair,3,dentist,unknown,candle,1
-95,media,1,politician,unknown,candle,1
-96,politician,1,politician,unknown,candle,1
-97,ritual,1,artist,unknown,candle,2
-98,mehndi art,3,artist,unknown,candle,1
-99,document,3,attorney,unknown,candle,1
-100,signing,3,attorney,unknown,candle,1
-101,number,3,scientist,unknown,candle,1
-102,scientific counting,3,scientist,unknown,candle,1
-103,sperm sample,3,doctor,unknown,candle,1
-104,implanting eggs,3,doctor,unknown,candle,1
+1,algerian celebrations,3,algeria,unknown,arabculture,1
+2,leisure,3,algeria,unknown,arabculture,1
+3,algeria,1,algeria,unknown,arabculture,6
+4,fava beans,3,egypt,unknown,arabculture,1
+5,breakfast,1,egypt,unknown,arabculture,1
+6,evening meal,2,egypt,unknown,arabculture,1
+7,recreational activities,3,egypt,unknown,arabculture,1
+8,sweetening,3,egypt,unknown,arabculture,1
+9,white dye,3,egypt,unknown,arabculture,1
+10,coloring song,3,egypt,unknown,arabculture,1
+11,prayer,3,egypt,unknown,arabculture,1
+12,eid al-fitr,1,egypt,unknown,arabculture,1
+13,incense,3,egypt,unknown,arabculture,1
+14,religious feast preparations,3,egypt,unknown,arabculture,1
+15,flashes and soap,3,egypt,unknown,arabculture,1
+16,floor mats,3,egypt,unknown,arabculture,1
+17,childhood entertainment,3,egypt,unknown,arabculture,1
+18,"sarees, salwar suits",3,andhra pradesh,unknown,diwali,1
+19,weddings and special occasions,3,andhra pradesh,unknown,diwali,1
+20,minyong sub-tribe,3,arunachal pradesh,unknown,diwali,1
+21,eri silk,1,assam,unknown,diwali,1
+22,"shawls, winter clothing",3,assam,unknown,diwali,1
+23,various rituals,3,assam,unknown,diwali,1
+24,garments and accessories,5,assam,unknown,diwali,2
+25,"festivals, dances, and marriages",3,chhattisgarh,unknown,diwali,1
+26,textiles,1,goa,unknown,diwali,1
+27,traditional garments,3,goa,unknown,diwali,1
+28,shawls and skirts,3,gujarat,unknown,diwali,1
+29,blankets,3,gujarat,unknown,diwali,1
+30,blanket,3,gujarat,unknown,diwali,1
+31,garments,3,himachal pradesh,unknown,diwali,3
+32,natural pigments,3,jharkhand,unknown,diwali,1
+33,painting designs,3,jharkhand,unknown,diwali,1
+34,muffler,3,manipur,unknown,diwali,1
+35,"shawls, garments",3,meghalaya,unknown,diwali,1
+36,cultural ceremonies,3,mizoram,unknown,diwali,1
+37,berhampuri patta,3,odisha,unknown,diwali,2
+38,deities,3,odisha,unknown,diwali,2
+39,sarees and turbans,3,rajasthan,unknown,diwali,1
+40,bridal wear,3,rajasthan,unknown,diwali,1
+41,upper garment,3,tripura,unknown,diwali,1
+42,cold mountain climate,3,uttarakhand,unknown,diwali,1
+43,religious ceremonies,1,uttarakhand,unknown,diwali,1
+44,religious ceremonies and festivals in bengal,3,west bengal,unknown,diwali,1
+45,pandanus leaves,3,andaman and nicobar islands,unknown,diwali,1
+46,nicobari banners,4,andaman and nicobar islands,unknown,diwali,1
+47,local ceremonies,3,andaman and nicobar islands,unknown,diwali,1
+48,blanket or shawl,3,chandigarh,unknown,diwali,1
+49,fabric,1,delhi,unknown,diwali,3
+50,furnishings,3,delhi,unknown,diwali,1
+51,unconventional ways,3,general,unknown,culturebank,1
+52,displaying flags,3,general,unknown,culturebank,1
+53,peanut butter,3,general,unknown,culturebank,4
+54,healthy snack,3,general,unknown,culturebank,1
+55,communication,1,general,unknown,culturebank,1
+56,plastic plates,3,general,unknown,culturebank,1
+57,casual dinner,3,general,unknown,culturebank,1
+58,mangle,3,general,unknown,culturebank,1
+59,pressing sheets and tablecloths,3,general,unknown,culturebank,1
+60,rain and sun protection,3,general,unknown,culturebank,1
+61,uncanned whipped cream,5,general,unknown,culturebank,1
+62,desserts and cooking,3,general,unknown,culturebank,1
+63,sandwich storage,3,general,unknown,culturebank,1
+64,baking,3,general,unknown,culturebank,1
+65,spreading,3,general,unknown,culturebank,1
+66,towels,3,general,unknown,culturebank,1
+67,various purposes,3,general,unknown,culturebank,1
+68,fresh strawberries,5,general,unknown,culturebank,1
+69,lanes,3,general,unknown,culturebank,1
+70,passing or overtaking,3,general,unknown,culturebank,1
+71,doggy bag,5,general,unknown,culturebank,1
+72,taking home leftovers,3,general,unknown,culturebank,1
+73,personal hygiene purposes,3,general,unknown,culturebank,1
+74,greeting,2,general,unknown,culturebank,1
+75,testing familiarity,3,general,unknown,culturebank,1
+76,walking,3,general,unknown,culturebank,1
+77,traffic regulation,3,general,unknown,culturebank,1
+78,horse,3,dz,unknown,blend,1
+79,limited regions,3,dz,unknown,blend,1
+80,gifts,1,dz,unknown,blend,1
+81,nurse's ritual,3,nurse,unknown,candle,1
+82,doctor,1,nurse,unknown,candle,1
+83,questions,2,nurse,unknown,candle,2
+84,screening,3,nurse,unknown,candle,1
+85,instrument,3,nurse,unknown,candle,1
+86,dental x-ray,3,dentist,unknown,candle,1
+87,patient assessment,3,dentist,unknown,candle,1
+88,patient,1,dentist,unknown,candle,1
+89,cleaning teeth,3,dentist,unknown,candle,1
+90,chair,3,dentist,unknown,candle,1
+91,media,3,politician,unknown,candle,1
+92,politician,1,politician,unknown,candle,1
+93,ritual,1,artist,unknown,candle,2
+94,mehndi art,3,artist,unknown,candle,1
+95,document,3,attorney,unknown,candle,1
+96,signing,3,attorney,unknown,candle,1
+97,number,3,scientist,unknown,candle,1
+98,scientific counting,3,scientist,unknown,candle,1
+99,sperm sample,3,doctor,unknown,candle,1
+100,implanting eggs,3,doctor,unknown,candle,1

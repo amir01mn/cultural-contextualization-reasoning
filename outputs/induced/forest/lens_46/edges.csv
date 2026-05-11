@@ -1,22 +1,14 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,diwali,maharashtra's most exquisite textile,is_considered,1,diwali
-3,4,food consumption,high in united states,is_considered,1,culturebank
-1,5,diwali,staple food,considered,1,culturebank
-1,6,diwali,common form of social interaction,considered,1,culturebank
-7,1,social norms,diwali,considered_rude,1,culturebank
-8,9,tax system,confusing and unique,considered,1,culturebank
-10,11,payment,traceable,considered,1,culturebank
-12,13,water,standard offering,considered,1,culturebank
-14,15,algeria,cost_safety_natural_lighting,consider,1,culturebank
-16,17,united states,underground structures unique,considers,1,culturebank
-18,19,putting dogs in back of trucks,unsafe and illegal,considered,1,culturebank
-1,20,diwali,france,considered_rude,1,culturebank
-21,22,apple and peanut butter,classic combination,considered,1,culturebank
-1,23,diwali,a staple food,considered,1,culturebank
-24,25,sauce packets,rip-off,considered,1,culturebank
-26,27,most popular,table,is_considered,1,blend
-14,28,algeria,exams as end goal,consider,1,candle
-29,1,banker,diwali,consider,1,candle
-1,30,diwali,extra official,is_considered,1,candle
-31,32,artist,skin type,considers,1,candle
-33,34,entrance hall,important,is_considered,1,candle
+2,3,food consumption,high in united states,is_considered,1,culturebank
+7,8,tax system,confusing and unique,considered,1,culturebank
+9,10,payment,traceable,considered,1,culturebank
+11,12,water,standard offering,considered,1,culturebank
+13,14,algeria,cost_safety_natural_lighting,consider,1,culturebank
+15,16,united states,underground structures unique,considers,1,culturebank
+17,18,putting dogs in back of trucks,unsafe and illegal,considered,1,culturebank
+20,21,apple and peanut butter,classic combination,considered,1,culturebank
+23,24,sauce packets,rip-off,considered,1,culturebank
+25,26,most popular,table,is_considered,1,blend
+13,27,algeria,exams as end goal,consider,1,candle
+30,31,artist,skin type,considers,1,candle
+32,33,entrance hall,important,is_considered,1,candle

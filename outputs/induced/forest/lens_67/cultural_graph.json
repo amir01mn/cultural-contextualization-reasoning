@@ -17,7 +17,7 @@
     {
       "id": 1,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -25,15 +25,6 @@
     },
     {
       "id": 2,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 7
-    },
-    {
-      "id": 3,
       "label": "nile valley",
       "level": 1,
       "cultural_group": "egypt",
@@ -42,7 +33,7 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "varied leisure activities",
       "level": 3,
       "cultural_group": "egypt",
@@ -51,16 +42,16 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "wancho bag",
-      "level": 1,
+      "level": 3,
       "cultural_group": "arunachal pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "weave finesse",
       "level": 3,
       "cultural_group": "kerala",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "intricate weaving patterns",
       "level": 3,
       "cultural_group": "meghalaya",
@@ -78,16 +69,16 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "individuals",
       "level": 1,
       "cultural_group": "general",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "public behavior",
       "level": 3,
       "cultural_group": "general",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "food eating",
       "level": 3,
       "cultural_group": "general",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "city regions",
       "level": 3,
       "cultural_group": "dz",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "ritual",
       "level": 1,
       "cultural_group": "clerk",
@@ -132,16 +123,16 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "nurse",
-      "level": 3,
+      "level": 1,
       "cultural_group": "nurse",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "behavior guided by leaders",
       "level": 3,
       "cultural_group": "nurse",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "solemn glory",
       "level": 3,
       "cultural_group": "priest",
@@ -161,17 +152,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "exhibit",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "nile valley",
       "target_label": "varied leisure activities",
       "relation_type": "exhibits",
@@ -179,35 +161,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 5,
-      "target": 2,
-      "source_label": "wancho bag",
-      "target_label": "diwali",
-      "relation_type": "exhibits",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 2,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "weave finesse",
-      "relation_type": "exhibits",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 2,
-      "target": 7,
-      "source_label": "diwali",
-      "target_label": "intricate weaving patterns",
-      "relation_type": "exhibits",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 8,
-      "target": 9,
+      "source": 7,
+      "target": 8,
       "source_label": "united states",
       "target_label": "individuals",
       "relation_type": "exhibits",
@@ -215,8 +170,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "public behavior",
       "target_label": "food eating",
       "relation_type": "exhibits",
@@ -224,38 +179,11 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 12,
-      "target": 2,
-      "source_label": "city regions",
-      "target_label": "diwali",
-      "relation_type": "exhibit",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 2,
-      "target": 13,
-      "source_label": "diwali",
-      "target_label": "ritual",
-      "relation_type": "exhibits",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 14,
-      "target": 15,
+      "source": 13,
+      "target": 14,
       "source_label": "nurse",
       "target_label": "behavior guided by leaders",
       "relation_type": "exhibits",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 2,
-      "target": 16,
-      "source_label": "diwali",
-      "target_label": "solemn glory",
-      "relation_type": "exhibit",
       "weight": 1,
       "source_dataset": "candle"
     }

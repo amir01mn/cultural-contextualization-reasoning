@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "odisha",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 9
-    },
-    {
-      "id": 2,
       "label": "textile heritage of tamil nadu",
       "level": 3,
       "cultural_group": "tamil nadu",
@@ -33,7 +24,7 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "srimanta sankardev",
       "level": 3,
       "cultural_group": "assam",
@@ -42,9 +33,18 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "strength",
-      "level": 1,
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "safety",
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -52,15 +52,6 @@
     },
     {
       "id": 5,
-      "label": "safety",
-      "level": 1,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 1
-    },
-    {
-      "id": 6,
       "label": "unhealthy food",
       "level": 3,
       "cultural_group": "general",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "lack of exercise",
       "level": 3,
       "cultural_group": "general",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "academic norms",
       "level": 3,
       "cultural_group": "general",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "integration challenges",
       "level": 3,
       "cultural_group": "general",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "laziness",
       "level": 3,
       "cultural_group": "general",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "avoidance of hand washing",
       "level": 3,
       "cultural_group": "general",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "addictive nature",
       "level": 3,
       "cultural_group": "general",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "healthcare system",
       "level": 1,
       "cultural_group": "general",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "schooling",
       "level": 3,
       "cultural_group": "general",
@@ -143,26 +134,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "textile heritage of tamil nadu",
-      "relation_type": "contributes_to",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "source_label": "diwali",
-      "target_label": "srimanta sankardev",
-      "relation_type": "attributed_to",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 4,
-      "target": 5,
+      "source": 3,
+      "target": 4,
       "source_label": "strength",
       "target_label": "safety",
       "relation_type": "contributes_to",
@@ -170,26 +143,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 6,
-      "target": 1,
-      "source_label": "unhealthy food",
-      "target_label": "diwali",
-      "relation_type": "contributes_to",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 7,
-      "target": 1,
-      "source_label": "lack of exercise",
-      "target_label": "diwali",
-      "relation_type": "contributes_to",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 8,
-      "target": 9,
+      "target": 8,
       "source_label": "academic norms",
       "target_label": "integration challenges",
       "relation_type": "contribute_to",
@@ -197,38 +152,11 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "laziness",
       "target_label": "avoidance of hand washing",
       "relation_type": "attributed_to",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 12,
-      "target": 1,
-      "source_label": "addictive nature",
-      "target_label": "diwali",
-      "relation_type": "attributed_to",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 13,
-      "target": 1,
-      "source_label": "healthcare system",
-      "target_label": "diwali",
-      "relation_type": "contribute_to",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 14,
-      "target": 1,
-      "source_label": "schooling",
-      "target_label": "diwali",
-      "relation_type": "contribute_to",
       "weight": 1,
       "source_dataset": "culturebank"
     }

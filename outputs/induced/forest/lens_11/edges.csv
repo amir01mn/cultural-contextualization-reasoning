@@ -1,82 +1,27 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
 1,2,dance,saida region,originates_from,1,arabculture
-3,4,ramadan,diwali,originates_from,1,arabculture
-4,5,diwali,nile valley,originates_from,1,arabculture
-4,6,diwali,pochampally,originates_from,1,diwali
-4,7,diwali,mangalagiri town,originates_from,1,diwali
-4,8,diwali,venkatagiri town,originates_from,1,diwali
-9,10,uppada silk,uppada village,originates_from,1,diwali
-11,4,srikalahasti kalamkari,diwali,originates_from,1,diwali
-11,12,srikalahasti kalamkari,srikalahasti,originates_from,1,diwali
-4,13,diwali,united states,originates_from,3,diwali
-15,16,kutchi embroidery,muzaffarpur,originates_from,1,diwali
-14,17,bhagalpuri silk,"bhagalpur, bihar",originates_from,1,diwali
-4,18,diwali,"patan, gujarat",originates_from,1,diwali
-19,20,ajrakh,kutch region,originates_from,1,diwali
-4,21,diwali,dangasia community,originates_from,1,diwali
-22,23,dhurrie,haryana_panipat_region,originates_from,1,diwali
-4,24,diwali,region,originates_from,2,diwali
-4,25,diwali,kinnaur district,originates_from,1,diwali
-14,27,bhagalpuri silk,bhagalpur region,originates_from,1,diwali
-28,29,ilkal saree,ilkal,originates_from,1,diwali
-30,31,mysore silk,mysore,originates_from,1,diwali
-4,32,diwali,"molakalmuru, chitradurga district",originates_from,1,diwali
-4,33,diwali,navalgund,originates_from,1,diwali
-4,34,diwali,gadag district,originates_from,1,diwali
-4,35,diwali,guledgudda,originates_from,1,diwali
-4,36,diwali,balaramapuram region,originates_from,1,diwali
-4,37,diwali,chendamangalam village,originates_from,1,diwali
-4,38,diwali,kerala capital city,originates_from,1,diwali
-39,40,chanderi sari,chanderi town,originates_from,1,diwali
-4,41,diwali,maheshwar,originates_from,1,diwali
-42,43,bagh,"village of bagh, madhya pradesh",originates_from,1,diwali
-4,44,diwali,malwa region,originates_from,1,diwali
-4,45,diwali,paithan,originates_from,1,diwali
-4,46,diwali,aurangabad,originates_from,1,diwali
-47,48,mashru,maharashtra,originates_from,1,diwali
-4,49,diwali,kolhapur,originates_from,1,diwali
-4,50,diwali,narayan peth,originates_from,1,diwali
-39,4,chanderi sari,diwali,originates_from,1,diwali
-4,51,diwali,western odisha,originates_from,1,diwali
-4,52,diwali,sonepur district,originates_from,1,diwali
-53,54,berhampuri patta,berhampur,originates_from,1,diwali
-4,55,diwali,tribal regions of koraput,originates_from,1,diwali
-4,56,diwali,kalahandi district,originates_from,1,diwali
-4,57,diwali,pipili village,originates_from,1,diwali
-53,58,berhampuri patta,odisha,originates_from,1,diwali
-4,59,diwali,maru-gurjar tradition,originates_from,1,diwali
-60,61,sanganeri block print,sanganer,originates_from,1,diwali
-19,62,ajrakh,sindh,originates_from,1,diwali
-63,64,madurai sungudi,madurai,originates_from,1,diwali
-4,65,diwali,chettinad region,originates_from,1,diwali
-4,66,diwali,arani town,originates_from,1,diwali
-4,67,diwali,kumbakonam,originates_from,1,diwali
-4,68,diwali,bhavani,originates_from,1,diwali
-69,70,algeria,coimbatore region,originates_from,1,diwali
-4,71,diwali,bhoodan pochampally,originates_from,1,diwali
-4,72,diwali,"gadwal, telangana",originates_from,1,diwali
-4,73,diwali,siddipet,originates_from,1,diwali
-4,74,diwali,puttapaka village,originates_from,1,diwali
-75,76,himroo weaving,telangana,originates_from,1,diwali
-4,77,diwali,lucknow,originates_from,1,diwali
-4,78,diwali,aligarh,originates_from,1,diwali
-79,13,jamdani,united states,originates_from,2,diwali
-4,80,diwali,"baluchar, murshidabad",originates_from,1,diwali
-4,81,diwali,"tangail, bangladesh",originates_from,1,diwali
-4,82,diwali,dhaniakhali region,originates_from,1,diwali
-83,4,warli painting,diwali,originates_from,1,diwali
-4,84,diwali,mughal courts,originated_from,1,diwali
-4,85,diwali,kanihama area,originates_from,1,diwali
-4,86,diwali,sambha region,originates_from,1,diwali
-4,87,diwali,andhra ikshvakus' courts,originates_from,1,diwali
-4,88,diwali,jangam katha,originated_from,1,diwali
-4,89,diwali,araku valley,originates_from,1,diwali
-69,4,algeria,diwali,originates_from,1,diwali
-90,4,chhau dance,diwali,originates_from,1,diwali
-4,91,diwali,azan,originated_from,2,diwali
-93,13,paika,united states,originates_from,1,diwali
-90,13,chhau dance,united states,originates_from,1,diwali
-4,94,diwali,hispanic language,originated_from,1,culturebank
-95,96,umbrella,latin word 'umbra',originates_from,1,culturebank
-97,98,soccer,british colonizers,originated_from,1,culturebank
-99,69,couscous,algeria,originated_from,1,blend
+8,9,uppada silk,uppada village,originates_from,1,diwali
+10,11,srikalahasti kalamkari,srikalahasti,originates_from,1,diwali
+14,15,kutchi embroidery,muzaffarpur,originates_from,1,diwali
+13,16,bhagalpuri silk,"bhagalpur, bihar",originates_from,1,diwali
+18,19,ajrakh,kutch region,originates_from,1,diwali
+21,22,dhurrie,haryana_panipat_region,originates_from,1,diwali
+13,26,bhagalpuri silk,bhagalpur region,originates_from,1,diwali
+27,28,ilkal saree,ilkal,originates_from,1,diwali
+29,30,mysore silk,mysore,originates_from,1,diwali
+38,39,chanderi sari,chanderi town,originates_from,1,diwali
+41,42,bagh,"village of bagh, madhya pradesh",originates_from,1,diwali
+46,47,mashru,maharashtra,originates_from,1,diwali
+52,53,berhampuri patta,berhampur,originates_from,1,diwali
+52,57,berhampuri patta,odisha,originates_from,1,diwali
+59,60,sanganeri block print,sanganer,originates_from,1,diwali
+18,61,ajrakh,sindh,originates_from,1,diwali
+62,63,madurai sungudi,madurai,originates_from,1,diwali
+68,69,algeria,coimbatore region,originates_from,1,diwali
+74,75,himroo weaving,telangana,originates_from,1,diwali
+78,12,jamdani,united states,originates_from,2,diwali
+92,12,paika,united states,originates_from,1,diwali
+89,12,chhau dance,united states,originates_from,1,diwali
+94,95,umbrella,latin word 'umbra',originates_from,1,culturebank
+96,97,soccer,british colonizers,originated_from,1,culturebank
+98,68,couscous,algeria,originated_from,1,blend

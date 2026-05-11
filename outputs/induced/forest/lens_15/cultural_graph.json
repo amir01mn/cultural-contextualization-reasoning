@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 64
-    },
-    {
-      "id": 2,
       "label": "algerian celebrations",
       "level": 3,
       "cultural_group": "algeria",
@@ -33,7 +24,7 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "leisure",
       "level": 3,
       "cultural_group": "algeria",
@@ -42,25 +33,25 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 6
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "fava beans",
-      "level": 1,
+      "level": 3,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "breakfast",
       "level": 1,
       "cultural_group": "egypt",
@@ -69,16 +60,16 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "evening meal",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "recreational activities",
       "level": 3,
       "cultural_group": "egypt",
@@ -87,16 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
-      "label": "حلاوة",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 10,
+      "id": 8,
       "label": "sweetening",
       "level": 3,
       "cultural_group": "egypt",
@@ -105,16 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
-      "label": "أسرته",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 12,
+      "id": 9,
       "label": "white dye",
       "level": 3,
       "cultural_group": "egypt",
@@ -123,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 10,
       "label": "coloring song",
       "level": 3,
       "cultural_group": "egypt",
@@ -132,16 +105,16 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 11,
       "label": "prayer",
-      "level": 1,
+      "level": 3,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 12,
       "label": "eid al-fitr",
       "level": 1,
       "cultural_group": "egypt",
@@ -150,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 13,
       "label": "incense",
       "level": 3,
       "cultural_group": "egypt",
@@ -159,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 14,
       "label": "religious feast preparations",
       "level": 3,
       "cultural_group": "egypt",
@@ -168,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 15,
       "label": "flashes and soap",
       "level": 3,
       "cultural_group": "egypt",
@@ -177,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 16,
       "label": "floor mats",
       "level": 3,
       "cultural_group": "egypt",
@@ -186,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 17,
       "label": "childhood entertainment",
       "level": 3,
       "cultural_group": "egypt",
@@ -195,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 18,
       "label": "sarees, salwar suits",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -204,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 19,
       "label": "weddings and special occasions",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -213,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 20,
       "label": "minyong sub-tribe",
       "level": 3,
       "cultural_group": "arunachal pradesh",
@@ -222,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 21,
       "label": "eri silk",
       "level": 1,
       "cultural_group": "assam",
@@ -231,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 22,
       "label": "shawls, winter clothing",
       "level": 3,
       "cultural_group": "assam",
@@ -240,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 23,
       "label": "various rituals",
       "level": 3,
       "cultural_group": "assam",
@@ -249,16 +222,16 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 24,
       "label": "garments and accessories",
-      "level": 1,
+      "level": 5,
       "cultural_group": "assam",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 28,
+      "id": 25,
       "label": "festivals, dances, and marriages",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -267,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 26,
       "label": "textiles",
       "level": 1,
       "cultural_group": "goa",
@@ -276,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 27,
       "label": "traditional garments",
       "level": 3,
       "cultural_group": "goa",
@@ -285,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 28,
       "label": "shawls and skirts",
       "level": 3,
       "cultural_group": "gujarat",
@@ -294,16 +267,16 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 29,
       "label": "blankets",
-      "level": 1,
+      "level": 3,
       "cultural_group": "gujarat",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 30,
       "label": "blanket",
       "level": 3,
       "cultural_group": "gujarat",
@@ -312,16 +285,16 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 31,
       "label": "garments",
-      "level": 1,
+      "level": 3,
       "cultural_group": "himachal pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 3
     },
     {
-      "id": 35,
+      "id": 32,
       "label": "natural pigments",
       "level": 3,
       "cultural_group": "jharkhand",
@@ -330,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 33,
       "label": "painting designs",
       "level": 3,
       "cultural_group": "jharkhand",
@@ -339,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 34,
       "label": "muffler",
       "level": 3,
       "cultural_group": "manipur",
@@ -348,7 +321,7 @@
       "frequency": 1
     },
     {
-      "id": 38,
+      "id": 35,
       "label": "shawls, garments",
       "level": 3,
       "cultural_group": "meghalaya",
@@ -357,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 36,
       "label": "cultural ceremonies",
       "level": 3,
       "cultural_group": "mizoram",
@@ -366,25 +339,25 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 37,
       "label": "berhampuri patta",
-      "level": 1,
+      "level": 3,
       "cultural_group": "odisha",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 41,
+      "id": 38,
       "label": "deities",
-      "level": 1,
+      "level": 3,
       "cultural_group": "odisha",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 2
     },
     {
-      "id": 42,
+      "id": 39,
       "label": "sarees and turbans",
       "level": 3,
       "cultural_group": "rajasthan",
@@ -393,7 +366,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 40,
       "label": "bridal wear",
       "level": 3,
       "cultural_group": "rajasthan",
@@ -402,7 +375,7 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 41,
       "label": "upper garment",
       "level": 3,
       "cultural_group": "tripura",
@@ -411,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 42,
       "label": "cold mountain climate",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -420,7 +393,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 43,
       "label": "religious ceremonies",
       "level": 1,
       "cultural_group": "uttarakhand",
@@ -429,7 +402,7 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 44,
       "label": "religious ceremonies and festivals in bengal",
       "level": 3,
       "cultural_group": "west bengal",
@@ -438,7 +411,7 @@
       "frequency": 1
     },
     {
-      "id": 48,
+      "id": 45,
       "label": "pandanus leaves",
       "level": 3,
       "cultural_group": "andaman and nicobar islands",
@@ -447,16 +420,16 @@
       "frequency": 1
     },
     {
-      "id": 49,
+      "id": 46,
       "label": "nicobari banners",
-      "level": 1,
+      "level": 4,
       "cultural_group": "andaman and nicobar islands",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 47,
       "label": "local ceremonies",
       "level": 3,
       "cultural_group": "andaman and nicobar islands",
@@ -465,7 +438,7 @@
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 48,
       "label": "blanket or shawl",
       "level": 3,
       "cultural_group": "chandigarh",
@@ -474,7 +447,7 @@
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 49,
       "label": "fabric",
       "level": 1,
       "cultural_group": "delhi",
@@ -483,7 +456,7 @@
       "frequency": 3
     },
     {
-      "id": 53,
+      "id": 50,
       "label": "furnishings",
       "level": 3,
       "cultural_group": "delhi",
@@ -492,7 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 54,
+      "id": 51,
       "label": "unconventional ways",
       "level": 3,
       "cultural_group": "general",
@@ -501,7 +474,7 @@
       "frequency": 1
     },
     {
-      "id": 55,
+      "id": 52,
       "label": "displaying flags",
       "level": 3,
       "cultural_group": "general",
@@ -510,16 +483,16 @@
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 53,
       "label": "peanut butter",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 4
     },
     {
-      "id": 57,
+      "id": 54,
       "label": "healthy snack",
       "level": 3,
       "cultural_group": "general",
@@ -528,7 +501,7 @@
       "frequency": 1
     },
     {
-      "id": 58,
+      "id": 55,
       "label": "communication",
       "level": 1,
       "cultural_group": "general",
@@ -537,7 +510,7 @@
       "frequency": 1
     },
     {
-      "id": 59,
+      "id": 56,
       "label": "plastic plates",
       "level": 3,
       "cultural_group": "general",
@@ -546,7 +519,7 @@
       "frequency": 1
     },
     {
-      "id": 60,
+      "id": 57,
       "label": "casual dinner",
       "level": 3,
       "cultural_group": "general",
@@ -555,7 +528,7 @@
       "frequency": 1
     },
     {
-      "id": 61,
+      "id": 58,
       "label": "mangle",
       "level": 3,
       "cultural_group": "general",
@@ -564,7 +537,7 @@
       "frequency": 1
     },
     {
-      "id": 62,
+      "id": 59,
       "label": "pressing sheets and tablecloths",
       "level": 3,
       "cultural_group": "general",
@@ -573,7 +546,7 @@
       "frequency": 1
     },
     {
-      "id": 63,
+      "id": 60,
       "label": "rain and sun protection",
       "level": 3,
       "cultural_group": "general",
@@ -582,16 +555,16 @@
       "frequency": 1
     },
     {
-      "id": 64,
+      "id": 61,
       "label": "uncanned whipped cream",
-      "level": 1,
+      "level": 5,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 65,
+      "id": 62,
       "label": "desserts and cooking",
       "level": 3,
       "cultural_group": "general",
@@ -600,7 +573,7 @@
       "frequency": 1
     },
     {
-      "id": 66,
+      "id": 63,
       "label": "sandwich storage",
       "level": 3,
       "cultural_group": "general",
@@ -609,7 +582,7 @@
       "frequency": 1
     },
     {
-      "id": 67,
+      "id": 64,
       "label": "baking",
       "level": 3,
       "cultural_group": "general",
@@ -618,7 +591,7 @@
       "frequency": 1
     },
     {
-      "id": 68,
+      "id": 65,
       "label": "spreading",
       "level": 3,
       "cultural_group": "general",
@@ -627,7 +600,7 @@
       "frequency": 1
     },
     {
-      "id": 69,
+      "id": 66,
       "label": "towels",
       "level": 3,
       "cultural_group": "general",
@@ -636,7 +609,7 @@
       "frequency": 1
     },
     {
-      "id": 70,
+      "id": 67,
       "label": "various purposes",
       "level": 3,
       "cultural_group": "general",
@@ -645,16 +618,16 @@
       "frequency": 1
     },
     {
-      "id": 71,
+      "id": 68,
       "label": "fresh strawberries",
-      "level": 1,
+      "level": 5,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 72,
+      "id": 69,
       "label": "lanes",
       "level": 3,
       "cultural_group": "general",
@@ -663,7 +636,7 @@
       "frequency": 1
     },
     {
-      "id": 73,
+      "id": 70,
       "label": "passing or overtaking",
       "level": 3,
       "cultural_group": "general",
@@ -672,16 +645,16 @@
       "frequency": 1
     },
     {
-      "id": 74,
+      "id": 71,
       "label": "doggy bag",
-      "level": 1,
+      "level": 5,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 75,
+      "id": 72,
       "label": "taking home leftovers",
       "level": 3,
       "cultural_group": "general",
@@ -690,7 +663,7 @@
       "frequency": 1
     },
     {
-      "id": 76,
+      "id": 73,
       "label": "personal hygiene purposes",
       "level": 3,
       "cultural_group": "general",
@@ -699,16 +672,16 @@
       "frequency": 1
     },
     {
-      "id": 77,
+      "id": 74,
       "label": "greeting",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 78,
+      "id": 75,
       "label": "testing familiarity",
       "level": 3,
       "cultural_group": "general",
@@ -717,16 +690,16 @@
       "frequency": 1
     },
     {
-      "id": 79,
+      "id": 76,
       "label": "walking",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 80,
+      "id": 77,
       "label": "traffic regulation",
       "level": 3,
       "cultural_group": "general",
@@ -735,16 +708,16 @@
       "frequency": 1
     },
     {
-      "id": 81,
+      "id": 78,
       "label": "horse",
-      "level": 1,
+      "level": 3,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 82,
+      "id": 79,
       "label": "limited regions",
       "level": 3,
       "cultural_group": "dz",
@@ -753,7 +726,7 @@
       "frequency": 1
     },
     {
-      "id": 83,
+      "id": 80,
       "label": "gifts",
       "level": 1,
       "cultural_group": "dz",
@@ -762,16 +735,7 @@
       "frequency": 1
     },
     {
-      "id": 84,
-      "label": "candle",
-      "level": 1,
-      "cultural_group": "nurse",
-      "domain": "unknown",
-      "source_dataset": "candle",
-      "frequency": 3
-    },
-    {
-      "id": 85,
+      "id": 81,
       "label": "nurse's ritual",
       "level": 3,
       "cultural_group": "nurse",
@@ -780,7 +744,7 @@
       "frequency": 1
     },
     {
-      "id": 86,
+      "id": 82,
       "label": "doctor",
       "level": 1,
       "cultural_group": "nurse",
@@ -789,16 +753,16 @@
       "frequency": 1
     },
     {
-      "id": 87,
+      "id": 83,
       "label": "questions",
-      "level": 1,
+      "level": 2,
       "cultural_group": "nurse",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 2
     },
     {
-      "id": 88,
+      "id": 84,
       "label": "screening",
       "level": 3,
       "cultural_group": "nurse",
@@ -807,7 +771,7 @@
       "frequency": 1
     },
     {
-      "id": 89,
+      "id": 85,
       "label": "instrument",
       "level": 3,
       "cultural_group": "nurse",
@@ -816,7 +780,7 @@
       "frequency": 1
     },
     {
-      "id": 90,
+      "id": 86,
       "label": "dental x-ray",
       "level": 3,
       "cultural_group": "dentist",
@@ -825,7 +789,7 @@
       "frequency": 1
     },
     {
-      "id": 91,
+      "id": 87,
       "label": "patient assessment",
       "level": 3,
       "cultural_group": "dentist",
@@ -834,7 +798,7 @@
       "frequency": 1
     },
     {
-      "id": 92,
+      "id": 88,
       "label": "patient",
       "level": 1,
       "cultural_group": "dentist",
@@ -843,7 +807,7 @@
       "frequency": 1
     },
     {
-      "id": 93,
+      "id": 89,
       "label": "cleaning teeth",
       "level": 3,
       "cultural_group": "dentist",
@@ -852,7 +816,7 @@
       "frequency": 1
     },
     {
-      "id": 94,
+      "id": 90,
       "label": "chair",
       "level": 3,
       "cultural_group": "dentist",
@@ -861,16 +825,16 @@
       "frequency": 1
     },
     {
-      "id": 95,
+      "id": 91,
       "label": "media",
-      "level": 1,
+      "level": 3,
       "cultural_group": "politician",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 96,
+      "id": 92,
       "label": "politician",
       "level": 1,
       "cultural_group": "politician",
@@ -879,7 +843,7 @@
       "frequency": 1
     },
     {
-      "id": 97,
+      "id": 93,
       "label": "ritual",
       "level": 1,
       "cultural_group": "artist",
@@ -888,7 +852,7 @@
       "frequency": 2
     },
     {
-      "id": 98,
+      "id": 94,
       "label": "mehndi art",
       "level": 3,
       "cultural_group": "artist",
@@ -897,7 +861,7 @@
       "frequency": 1
     },
     {
-      "id": 99,
+      "id": 95,
       "label": "document",
       "level": 3,
       "cultural_group": "attorney",
@@ -906,7 +870,7 @@
       "frequency": 1
     },
     {
-      "id": 100,
+      "id": 96,
       "label": "signing",
       "level": 3,
       "cultural_group": "attorney",
@@ -915,7 +879,7 @@
       "frequency": 1
     },
     {
-      "id": 101,
+      "id": 97,
       "label": "number",
       "level": 3,
       "cultural_group": "scientist",
@@ -924,7 +888,7 @@
       "frequency": 1
     },
     {
-      "id": 102,
+      "id": 98,
       "label": "scientific counting",
       "level": 3,
       "cultural_group": "scientist",
@@ -933,7 +897,7 @@
       "frequency": 1
     },
     {
-      "id": 103,
+      "id": 99,
       "label": "sperm sample",
       "level": 3,
       "cultural_group": "doctor",
@@ -942,7 +906,7 @@
       "frequency": 1
     },
     {
-      "id": 104,
+      "id": 100,
       "label": "implanting eggs",
       "level": 3,
       "cultural_group": "doctor",
@@ -953,35 +917,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "algerian celebrations",
-      "relation_type": "used_in",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 3,
-      "source_label": "diwali",
-      "target_label": "leisure",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "used_in",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 5,
-      "target": 6,
+      "source": 4,
+      "target": 5,
       "source_label": "fava beans",
       "target_label": "breakfast",
       "relation_type": "for",
@@ -989,8 +926,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 7,
-      "target": 8,
+      "source": 6,
+      "target": 7,
       "source_label": "evening meal",
       "target_label": "recreational activities",
       "relation_type": "used_for",
@@ -1000,24 +937,6 @@
     {
       "source": 9,
       "target": 10,
-      "source_label": "حلاوة",
-      "target_label": "sweetening",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 1,
-      "target": 11,
-      "source_label": "diwali",
-      "target_label": "أسرته",
-      "relation_type": "for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 12,
-      "target": 13,
       "source_label": "white dye",
       "target_label": "coloring song",
       "relation_type": "used_for",
@@ -1025,8 +944,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 14,
-      "target": 15,
+      "source": 11,
+      "target": 12,
       "source_label": "prayer",
       "target_label": "eid al-fitr",
       "relation_type": "for",
@@ -1034,8 +953,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 16,
-      "target": 17,
+      "source": 13,
+      "target": 14,
       "source_label": "incense",
       "target_label": "religious feast preparations",
       "relation_type": "used_in",
@@ -1043,17 +962,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 18,
-      "target": 1,
-      "source_label": "flashes and soap",
-      "target_label": "diwali",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 19,
-      "target": 20,
+      "source": 16,
+      "target": 17,
       "source_label": "floor mats",
       "target_label": "childhood entertainment",
       "relation_type": "used_for",
@@ -1061,35 +971,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 1,
-      "target": 21,
-      "source_label": "diwali",
-      "target_label": "sarees, salwar suits",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
+      "source": 21,
       "target": 22,
-      "source_label": "diwali",
-      "target_label": "weddings and special occasions",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 23,
-      "source_label": "diwali",
-      "target_label": "minyong sub-tribe",
-      "relation_type": "used_by",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 24,
-      "target": 25,
       "source_label": "eri silk",
       "target_label": "shawls, winter clothing",
       "relation_type": "used_for",
@@ -1097,35 +980,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 26,
-      "source_label": "diwali",
-      "target_label": "various rituals",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
+      "source": 26,
       "target": 27,
-      "source_label": "diwali",
-      "target_label": "garments and accessories",
-      "relation_type": "used_for",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 28,
-      "source_label": "diwali",
-      "target_label": "festivals, dances, and marriages",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 29,
-      "target": 30,
       "source_label": "textiles",
       "target_label": "traditional garments",
       "relation_type": "used_for",
@@ -1133,53 +989,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 31,
-      "source_label": "diwali",
-      "target_label": "shawls and skirts",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 32,
-      "source_label": "diwali",
-      "target_label": "blankets",
-      "relation_type": "used_as",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
+      "source": 32,
       "target": 33,
-      "source_label": "diwali",
-      "target_label": "blanket",
-      "relation_type": "used_as",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 4,
-      "target": 1,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 34,
-      "source_label": "diwali",
-      "target_label": "garments",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 35,
-      "target": 36,
       "source_label": "natural pigments",
       "target_label": "painting designs",
       "relation_type": "used_in",
@@ -1187,35 +998,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 37,
-      "source_label": "diwali",
-      "target_label": "muffler",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
+      "source": 37,
       "target": 38,
-      "source_label": "diwali",
-      "target_label": "shawls, garments",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 39,
-      "source_label": "diwali",
-      "target_label": "cultural ceremonies",
-      "relation_type": "used_in",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 40,
-      "target": 41,
       "source_label": "berhampuri patta",
       "target_label": "deities",
       "relation_type": "used_for",
@@ -1223,71 +1007,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 42,
-      "source_label": "diwali",
-      "target_label": "sarees and turbans",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 43,
-      "source_label": "diwali",
-      "target_label": "bridal wear",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 44,
-      "source_label": "diwali",
-      "target_label": "upper garment",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 45,
-      "source_label": "diwali",
-      "target_label": "cold mountain climate",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 46,
-      "source_label": "diwali",
-      "target_label": "religious ceremonies",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 4,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "used_for",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 47,
-      "source_label": "diwali",
-      "target_label": "religious ceremonies and festivals in bengal",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 48,
-      "target": 4,
+      "source": 45,
+      "target": 3,
       "source_label": "pandanus leaves",
       "target_label": "algeria",
       "relation_type": "used_for",
@@ -1295,8 +1016,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 49,
-      "target": 50,
+      "source": 46,
+      "target": 47,
       "source_label": "nicobari banners",
       "target_label": "local ceremonies",
       "relation_type": "used_for",
@@ -1304,17 +1025,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 1,
-      "target": 51,
-      "source_label": "diwali",
-      "target_label": "blanket or shawl",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 52,
-      "target": 34,
+      "source": 49,
+      "target": 31,
       "source_label": "fabric",
       "target_label": "garments",
       "relation_type": "used_for",
@@ -1322,8 +1034,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 52,
-      "target": 53,
+      "source": 49,
+      "target": 50,
       "source_label": "fabric",
       "target_label": "furnishings",
       "relation_type": "used_for",
@@ -1331,8 +1043,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 54,
-      "target": 55,
+      "source": 51,
+      "target": 52,
       "source_label": "unconventional ways",
       "target_label": "displaying flags",
       "relation_type": "used_for",
@@ -1340,8 +1052,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 56,
-      "target": 57,
+      "source": 53,
+      "target": 54,
       "source_label": "peanut butter",
       "target_label": "healthy snack",
       "relation_type": "used_as",
@@ -1349,17 +1061,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 58,
-      "source_label": "diwali",
-      "target_label": "communication",
-      "relation_type": "used_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 59,
-      "target": 60,
+      "source": 56,
+      "target": 57,
       "source_label": "plastic plates",
       "target_label": "casual dinner",
       "relation_type": "used_for",
@@ -1367,8 +1070,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 61,
-      "target": 62,
+      "source": 58,
+      "target": 59,
       "source_label": "mangle",
       "target_label": "pressing sheets and tablecloths",
       "relation_type": "used_for",
@@ -1376,17 +1079,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 63,
-      "source_label": "diwali",
-      "target_label": "rain and sun protection",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 64,
-      "target": 65,
+      "source": 61,
+      "target": 62,
       "source_label": "uncanned whipped cream",
       "target_label": "desserts and cooking",
       "relation_type": "used_in",
@@ -1394,17 +1088,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 66,
-      "source_label": "diwali",
-      "target_label": "sandwich storage",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 56,
-      "target": 67,
+      "source": 53,
+      "target": 64,
       "source_label": "peanut butter",
       "target_label": "baking",
       "relation_type": "used_for",
@@ -1412,8 +1097,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 56,
-      "target": 68,
+      "source": 53,
+      "target": 65,
       "source_label": "peanut butter",
       "target_label": "spreading",
       "relation_type": "used_for",
@@ -1421,17 +1106,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 56,
-      "target": 1,
-      "source_label": "peanut butter",
-      "target_label": "diwali",
-      "relation_type": "used_as",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 69,
-      "target": 70,
+      "source": 66,
+      "target": 67,
       "source_label": "towels",
       "target_label": "various purposes",
       "relation_type": "used_for",
@@ -1439,17 +1115,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 71,
-      "target": 1,
-      "source_label": "fresh strawberries",
-      "target_label": "diwali",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 72,
-      "target": 73,
+      "source": 69,
+      "target": 70,
       "source_label": "lanes",
       "target_label": "passing or overtaking",
       "relation_type": "used_for",
@@ -1457,8 +1124,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 74,
-      "target": 75,
+      "source": 71,
+      "target": 72,
       "source_label": "doggy bag",
       "target_label": "taking home leftovers",
       "relation_type": "used_for",
@@ -1466,17 +1133,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 76,
-      "source_label": "diwali",
-      "target_label": "personal hygiene purposes",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 77,
-      "target": 78,
+      "source": 74,
+      "target": 75,
       "source_label": "greeting",
       "target_label": "testing familiarity",
       "relation_type": "used_for",
@@ -1484,26 +1142,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 79,
-      "source_label": "diwali",
-      "target_label": "walking",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 80,
-      "source_label": "diwali",
-      "target_label": "traffic regulation",
-      "relation_type": "used_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 81,
-      "target": 4,
+      "source": 78,
+      "target": 3,
       "source_label": "horse",
       "target_label": "algeria",
       "relation_type": "used_in_sport",
@@ -1511,44 +1151,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 82,
-      "source_label": "diwali",
-      "target_label": "limited regions",
-      "relation_type": "used_in_sport",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 83,
-      "target": 1,
-      "source_label": "gifts",
-      "target_label": "diwali",
-      "relation_type": "for",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 84,
-      "target": 85,
-      "source_label": "candle",
-      "target_label": "nurse's ritual",
-      "relation_type": "used_in",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 1,
-      "target": 86,
-      "source_label": "diwali",
-      "target_label": "doctor",
-      "relation_type": "used_by",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 87,
-      "target": 88,
+      "target": 84,
       "source_label": "questions",
       "target_label": "screening",
       "relation_type": "used_in",
@@ -1556,17 +1160,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 89,
-      "target": 1,
-      "source_label": "instrument",
-      "target_label": "diwali",
-      "relation_type": "for",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 90,
-      "target": 91,
+      "source": 86,
+      "target": 87,
       "source_label": "dental x-ray",
       "target_label": "patient assessment",
       "relation_type": "used_for",
@@ -1574,35 +1169,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 1,
+      "source": 91,
       "target": 92,
-      "source_label": "diwali",
-      "target_label": "patient",
-      "relation_type": "for",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 1,
-      "target": 93,
-      "source_label": "diwali",
-      "target_label": "cleaning teeth",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 94,
-      "target": 1,
-      "source_label": "chair",
-      "target_label": "diwali",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 95,
-      "target": 96,
       "source_label": "media",
       "target_label": "politician",
       "relation_type": "used_by",
@@ -1610,26 +1178,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 84,
-      "target": 97,
-      "source_label": "candle",
-      "target_label": "ritual",
-      "relation_type": "used_in",
-      "weight": 2,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 1,
-      "target": 98,
-      "source_label": "diwali",
-      "target_label": "mehndi art",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 99,
-      "target": 100,
+      "source": 95,
+      "target": 96,
       "source_label": "document",
       "target_label": "signing",
       "relation_type": "for",
@@ -1637,8 +1187,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 101,
-      "target": 102,
+      "source": 97,
+      "target": 98,
       "source_label": "number",
       "target_label": "scientific counting",
       "relation_type": "used_for",
@@ -1646,17 +1196,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 87,
-      "target": 1,
-      "source_label": "questions",
-      "target_label": "diwali",
-      "relation_type": "used_for",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 103,
-      "target": 104,
+      "source": 99,
+      "target": 100,
       "source_label": "sperm sample",
       "target_label": "implanting eggs",
       "relation_type": "used_for",

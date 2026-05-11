@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "maharashtra",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 10
-    },
-    {
-      "id": 2,
       "label": "maharashtra's most exquisite textile",
       "level": 3,
       "cultural_group": "maharashtra",
@@ -33,7 +24,7 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "food consumption",
       "level": 1,
       "cultural_group": "general",
@@ -42,7 +33,7 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "high in united states",
       "level": 3,
       "cultural_group": "general",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "staple food",
       "level": 3,
       "cultural_group": "general",
@@ -60,7 +51,7 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "common form of social interaction",
       "level": 3,
       "cultural_group": "general",
@@ -69,16 +60,16 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "social norms",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "tax system",
       "level": 3,
       "cultural_group": "general",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "confusing and unique",
       "level": 3,
       "cultural_group": "general",
@@ -96,16 +87,16 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "payment",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "traceable",
       "level": 3,
       "cultural_group": "general",
@@ -114,16 +105,16 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "water",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "standard offering",
       "level": 3,
       "cultural_group": "general",
@@ -132,16 +123,16 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "cost_safety_natural_lighting",
       "level": 3,
       "cultural_group": "general",
@@ -150,16 +141,16 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "underground structures unique",
       "level": 3,
       "cultural_group": "general",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "putting dogs in back of trucks",
       "level": 3,
       "cultural_group": "general",
@@ -177,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "unsafe and illegal",
       "level": 3,
       "cultural_group": "general",
@@ -186,16 +177,16 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "france",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "apple and peanut butter",
       "level": 3,
       "cultural_group": "general",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "classic combination",
       "level": 3,
       "cultural_group": "general",
@@ -213,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "a staple food",
       "level": 3,
       "cultural_group": "general",
@@ -222,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "sauce packets",
       "level": 3,
       "cultural_group": "general",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "rip-off",
       "level": 3,
       "cultural_group": "general",
@@ -240,9 +231,18 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "most popular",
-      "level": 1,
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "table",
+      "level": 4,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
@@ -250,15 +250,6 @@
     },
     {
       "id": 27,
-      "label": "table",
-      "level": 1,
-      "cultural_group": "dz",
-      "domain": "unknown",
-      "source_dataset": "blend",
-      "frequency": 1
-    },
-    {
-      "id": 28,
       "label": "exams as end goal",
       "level": 3,
       "cultural_group": "teacher",
@@ -267,16 +258,16 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "banker",
-      "level": 1,
+      "level": 2,
       "cultural_group": "banker",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "extra official",
       "level": 3,
       "cultural_group": "photographer",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "artist",
       "level": 1,
       "cultural_group": "artist",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "skin type",
       "level": 3,
       "cultural_group": "artist",
@@ -303,18 +294,18 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "entrance hall",
-      "level": 1,
+      "level": 4,
       "cultural_group": "housekeeper",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "important",
-      "level": 1,
+      "level": 4,
       "cultural_group": "housekeeper",
       "domain": "unknown",
       "source_dataset": "candle",
@@ -323,17 +314,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "maharashtra's most exquisite textile",
-      "relation_type": "is_considered",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "food consumption",
       "target_label": "high in united states",
       "relation_type": "is_considered",
@@ -341,35 +323,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 5,
-      "source_label": "diwali",
-      "target_label": "staple food",
-      "relation_type": "considered",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 1,
-      "target": 6,
-      "source_label": "diwali",
-      "target_label": "common form of social interaction",
-      "relation_type": "considered",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 7,
-      "target": 1,
-      "source_label": "social norms",
-      "target_label": "diwali",
-      "relation_type": "considered_rude",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 8,
-      "target": 9,
+      "target": 8,
       "source_label": "tax system",
       "target_label": "confusing and unique",
       "relation_type": "considered",
@@ -377,8 +332,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "payment",
       "target_label": "traceable",
       "relation_type": "considered",
@@ -386,8 +341,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 12,
-      "target": 13,
+      "source": 11,
+      "target": 12,
       "source_label": "water",
       "target_label": "standard offering",
       "relation_type": "considered",
@@ -395,8 +350,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 14,
-      "target": 15,
+      "source": 13,
+      "target": 14,
       "source_label": "algeria",
       "target_label": "cost_safety_natural_lighting",
       "relation_type": "consider",
@@ -404,8 +359,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 16,
-      "target": 17,
+      "source": 15,
+      "target": 16,
       "source_label": "united states",
       "target_label": "underground structures unique",
       "relation_type": "considers",
@@ -413,8 +368,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 18,
-      "target": 19,
+      "source": 17,
+      "target": 18,
       "source_label": "putting dogs in back of trucks",
       "target_label": "unsafe and illegal",
       "relation_type": "considered",
@@ -422,17 +377,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 20,
-      "source_label": "diwali",
-      "target_label": "france",
-      "relation_type": "considered_rude",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 21,
-      "target": 22,
+      "source": 20,
+      "target": 21,
       "source_label": "apple and peanut butter",
       "target_label": "classic combination",
       "relation_type": "considered",
@@ -440,17 +386,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
-      "target": 23,
-      "source_label": "diwali",
-      "target_label": "a staple food",
-      "relation_type": "considered",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 24,
-      "target": 25,
+      "source": 23,
+      "target": 24,
       "source_label": "sauce packets",
       "target_label": "rip-off",
       "relation_type": "considered",
@@ -458,8 +395,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 26,
-      "target": 27,
+      "source": 25,
+      "target": 26,
       "source_label": "most popular",
       "target_label": "table",
       "relation_type": "is_considered",
@@ -467,8 +404,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 14,
-      "target": 28,
+      "source": 13,
+      "target": 27,
       "source_label": "algeria",
       "target_label": "exams as end goal",
       "relation_type": "consider",
@@ -476,26 +413,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 29,
-      "target": 1,
-      "source_label": "banker",
-      "target_label": "diwali",
-      "relation_type": "consider",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 1,
-      "target": 30,
-      "source_label": "diwali",
-      "target_label": "extra official",
-      "relation_type": "is_considered",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 31,
-      "target": 32,
+      "source": 30,
+      "target": 31,
       "source_label": "artist",
       "target_label": "skin type",
       "relation_type": "considers",
@@ -503,8 +422,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 33,
-      "target": 34,
+      "source": 32,
+      "target": 33,
       "source_label": "entrance hall",
       "target_label": "important",
       "relation_type": "is_considered",

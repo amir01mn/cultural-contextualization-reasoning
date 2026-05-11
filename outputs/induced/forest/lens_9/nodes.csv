@@ -2,109 +2,108 @@ node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
 1,living room,3,algeria,unknown,arabculture,1
 2,ramadan evening activities,3,algeria,unknown,arabculture,1
-3,algeria,3,algeria,unknown,arabculture,42
+3,algeria,1,algeria,unknown,arabculture,42
 4,north africa,1,algeria,unknown,arabculture,8
 5,region,1,algeria,unknown,arabculture,21
 6,regional customs,3,algeria,unknown,arabculture,1
 7,dance,1,algeria,unknown,arabculture,2
-8,game,1,egypt,unknown,arabculture,1
+8,game,2,egypt,unknown,arabculture,1
 9,king's order,3,egypt,unknown,arabculture,1
-10,gender,1,egypt,unknown,arabculture,2
+10,gender,4,egypt,unknown,arabculture,2
 11,nile valley,1,egypt,unknown,arabculture,5
 12,early morning work routine,3,egypt,unknown,arabculture,1
 13,this custom,3,egypt,unknown,arabculture,1
-14,diwali,3,telangana,unknown,diwali,31
-15,nalgonda district,3,telangana,unknown,diwali,1
-16,tripuri clans,3,tripura,unknown,diwali,1
-17,dhuliya dance,1,assam,unknown,diwali,2
-18,rural regions of chhattisgarh,3,chhattisgarh,unknown,diwali,1
-19,researchers,3,general,unknown,culturebank,1
-20,tipping customs,3,general,unknown,culturebank,1
-21,dinner,1,general,unknown,culturebank,1
-22,between 5:30pm and 10pm,3,general,unknown,culturebank,1
-23,training,1,general,unknown,culturebank,2
-24,approach,3,general,unknown,culturebank,1
-25,pressure,3,general,unknown,culturebank,1
-26,healthcare system,1,general,unknown,culturebank,2
-27,accessibility,1,general,unknown,culturebank,2
-28,tax rates,3,general,unknown,culturebank,1
-29,taxpayer obligations,3,general,unknown,culturebank,1
-30,laws,3,general,unknown,culturebank,1
-31,united states,4,general,unknown,culturebank,11
-32,safety,1,general,unknown,culturebank,1
-33,states and contexts,3,general,unknown,culturebank,1
-34,county,3,general,unknown,culturebank,1
-35,us financial practices,3,general,unknown,culturebank,1
-36,toilet habits,3,general,unknown,culturebank,1
-37,europe,1,general,unknown,culturebank,1
-38,physical appearance,3,general,unknown,culturebank,1
-39,sidewalk availability,3,general,unknown,culturebank,1
-40,activities,1,general,unknown,culturebank,2
-41,region/country,3,general,unknown,culturebank,1
-42,shower frequency,3,general,unknown,culturebank,1
-43,season and personal preference,3,general,unknown,culturebank,1
-44,driving,1,general,unknown,culturebank,1
-45,sugar levels,3,general,unknown,culturebank,1
-46,between countries,3,general,unknown,culturebank,1
-47,personal preference,1,general,unknown,culturebank,1
-48,schedule,3,general,unknown,culturebank,1
-49,breaks,1,general,unknown,culturebank,1
-50,duration and format,3,general,unknown,culturebank,1
-51,dishwashing method,3,general,unknown,culturebank,1
-52,region or personal preference,3,general,unknown,culturebank,1
-53,region and group,3,general,unknown,culturebank,1
-54,gas pumps,3,general,unknown,culturebank,1
-55,prices,1,general,unknown,culturebank,1
-56,state and region,3,general,unknown,culturebank,1
-57,food quality,3,general,unknown,culturebank,1
-58,family dynamics,3,general,unknown,culturebank,1
-59,perception_of_lighting,3,general,unknown,culturebank,1
-60,location_traffic_conditions,3,general,unknown,culturebank,1
-61,shopping habits,3,general,unknown,culturebank,1
-62,countries,1,general,unknown,culturebank,1
-63,generosity of leave policies,3,general,unknown,culturebank,1
-64,leave policies,3,general,unknown,culturebank,1
-65,company offering 100% paid leave for six weeks,3,general,unknown,culturebank,1
-66,gender beliefs,3,general,unknown,culturebank,1
-67,payment timing,3,general,unknown,culturebank,1
-68,gas station,1,general,unknown,culturebank,1
-69,social norms,1,general,unknown,culturebank,1
-70,portion sizes,3,general,unknown,culturebank,1
-71,burgers,1,general,unknown,culturebank,1
-72,greasiness,3,general,unknown,culturebank,1
-73,age and area,3,general,unknown,culturebank,1
-74,salad,1,general,unknown,culturebank,1
-75,between us and uk,3,general,unknown,culturebank,1
-76,status symbols,3,general,unknown,culturebank,1
-77,service staff,1,general,unknown,culturebank,1
-78,location and service provider,3,general,unknown,culturebank,1
-79,quality,1,general,unknown,culturebank,1
-80,barcelona,3,general,unknown,culturebank,1
-81,gun laws,3,general,unknown,culturebank,1
-82,taxation of food,1,general,unknown,culturebank,1
-83,middle and high schools,3,dz,unknown,blend,1
-84,education system,1,dz,unknown,blend,2
-85,school schedule,3,dz,unknown,blend,1
-86,within algeria,3,dz,unknown,blend,1
-87,restaurant,1,dz,unknown,blend,1
-88,spiciness level,3,dz,unknown,blend,1
-89,chocolate brands,3,dz,unknown,blend,1
-90,stadium,3,dz,unknown,blend,1
-91,sports culture,3,dz,unknown,blend,1
-92,toy selection,3,dz,unknown,blend,1
-93,coastal areas,3,dz,unknown,blend,1
-94,takeaway food,3,dz,unknown,blend,1
-95,advanced mathematics,3,dz,unknown,blend,1
-96,court chamber,3,judge,unknown,candle,1
-97,interviewer,1,judge,unknown,candle,1
-98,teaching behavior,3,teacher,unknown,candle,1
-99,lesson,1,teacher,unknown,candle,1
-100,plans,1,teacher,unknown,candle,1
-101,goal,3,nurse,unknown,candle,1
-102,operating theater,3,nurse,unknown,candle,1
-103,courses,3,tailor,unknown,candle,1
-104,length,3,tailor,unknown,candle,1
-105,tooth,3,dentist,unknown,candle,1
-106,area,3,dentist,unknown,candle,1
-107,vienna state opera,3,photographer,unknown,candle,1
-108,ritual,1,photographer,unknown,candle,1
+14,nalgonda district,3,telangana,unknown,diwali,1
+15,tripuri clans,3,tripura,unknown,diwali,1
+16,dhuliya dance,2,assam,unknown,diwali,2
+17,rural regions of chhattisgarh,3,chhattisgarh,unknown,diwali,1
+18,researchers,3,general,unknown,culturebank,1
+19,tipping customs,3,general,unknown,culturebank,1
+20,dinner,5,general,unknown,culturebank,1
+21,between 5:30pm and 10pm,3,general,unknown,culturebank,1
+22,training,3,general,unknown,culturebank,2
+23,approach,3,general,unknown,culturebank,1
+24,pressure,3,general,unknown,culturebank,1
+25,healthcare system,1,general,unknown,culturebank,2
+26,accessibility,4,general,unknown,culturebank,2
+27,tax rates,3,general,unknown,culturebank,1
+28,taxpayer obligations,3,general,unknown,culturebank,1
+29,laws,3,general,unknown,culturebank,1
+30,united states,1,general,unknown,culturebank,11
+31,safety,2,general,unknown,culturebank,1
+32,states and contexts,3,general,unknown,culturebank,1
+33,county,3,general,unknown,culturebank,1
+34,us financial practices,3,general,unknown,culturebank,1
+35,toilet habits,3,general,unknown,culturebank,1
+36,europe,1,general,unknown,culturebank,1
+37,physical appearance,3,general,unknown,culturebank,1
+38,sidewalk availability,3,general,unknown,culturebank,1
+39,activities,1,general,unknown,culturebank,2
+40,region/country,3,general,unknown,culturebank,1
+41,shower frequency,3,general,unknown,culturebank,1
+42,season and personal preference,3,general,unknown,culturebank,1
+43,driving,3,general,unknown,culturebank,1
+44,sugar levels,3,general,unknown,culturebank,1
+45,between countries,3,general,unknown,culturebank,1
+46,personal preference,2,general,unknown,culturebank,1
+47,schedule,3,general,unknown,culturebank,1
+48,breaks,4,general,unknown,culturebank,1
+49,duration and format,3,general,unknown,culturebank,1
+50,dishwashing method,3,general,unknown,culturebank,1
+51,region or personal preference,3,general,unknown,culturebank,1
+52,region and group,3,general,unknown,culturebank,1
+53,gas pumps,3,general,unknown,culturebank,1
+54,prices,3,general,unknown,culturebank,1
+55,state and region,3,general,unknown,culturebank,1
+56,food quality,3,general,unknown,culturebank,1
+57,family dynamics,3,general,unknown,culturebank,1
+58,perception_of_lighting,3,general,unknown,culturebank,1
+59,location_traffic_conditions,3,general,unknown,culturebank,1
+60,shopping habits,3,general,unknown,culturebank,1
+61,countries,3,general,unknown,culturebank,1
+62,generosity of leave policies,3,general,unknown,culturebank,1
+63,leave policies,3,general,unknown,culturebank,1
+64,company offering 100% paid leave for six weeks,3,general,unknown,culturebank,1
+65,gender beliefs,3,general,unknown,culturebank,1
+66,payment timing,3,general,unknown,culturebank,1
+67,gas station,4,general,unknown,culturebank,1
+68,social norms,3,general,unknown,culturebank,1
+69,portion sizes,3,general,unknown,culturebank,1
+70,burgers,2,general,unknown,culturebank,1
+71,greasiness,3,general,unknown,culturebank,1
+72,age and area,3,general,unknown,culturebank,1
+73,salad,4,general,unknown,culturebank,1
+74,between us and uk,3,general,unknown,culturebank,1
+75,status symbols,3,general,unknown,culturebank,1
+76,service staff,1,general,unknown,culturebank,1
+77,location and service provider,3,general,unknown,culturebank,1
+78,quality,3,general,unknown,culturebank,1
+79,barcelona,3,general,unknown,culturebank,1
+80,gun laws,3,general,unknown,culturebank,1
+81,taxation of food,4,general,unknown,culturebank,1
+82,middle and high schools,3,dz,unknown,blend,1
+83,education system,1,dz,unknown,blend,2
+84,school schedule,3,dz,unknown,blend,1
+85,within algeria,3,dz,unknown,blend,1
+86,restaurant,2,dz,unknown,blend,1
+87,spiciness level,3,dz,unknown,blend,1
+88,chocolate brands,3,dz,unknown,blend,1
+89,stadium,3,dz,unknown,blend,1
+90,sports culture,3,dz,unknown,blend,1
+91,toy selection,3,dz,unknown,blend,1
+92,coastal areas,3,dz,unknown,blend,1
+93,takeaway food,3,dz,unknown,blend,1
+94,advanced mathematics,3,dz,unknown,blend,1
+95,court chamber,3,judge,unknown,candle,1
+96,interviewer,3,judge,unknown,candle,1
+97,teaching behavior,3,teacher,unknown,candle,1
+98,lesson,5,teacher,unknown,candle,1
+99,plans,3,teacher,unknown,candle,1
+100,goal,3,nurse,unknown,candle,1
+101,operating theater,3,nurse,unknown,candle,1
+102,courses,3,tailor,unknown,candle,1
+103,length,3,tailor,unknown,candle,1
+104,tooth,3,dentist,unknown,candle,1
+105,area,3,dentist,unknown,candle,1
+106,vienna state opera,3,photographer,unknown,candle,1
+107,ritual,1,photographer,unknown,candle,1

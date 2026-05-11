@@ -16,15 +16,6 @@
     },
     {
       "id": 1,
-      "label": "النظام التعليمي",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 2,
       "label": "wearing the emblem",
       "level": 3,
       "cultural_group": "algeria",
@@ -33,16 +24,16 @@
       "frequency": 1
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 6
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "presenting gifts elegantly",
       "level": 3,
       "cultural_group": "algeria",
@@ -51,9 +42,18 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "household",
-      "level": 1,
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "cleaning",
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -61,15 +61,6 @@
     },
     {
       "id": 6,
-      "label": "cleaning",
-      "level": 1,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 7,
       "label": "weaving process",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "meticulousness",
       "level": 3,
       "cultural_group": "andhra pradesh",
@@ -87,7 +78,7 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "personal connections",
       "level": 3,
       "cultural_group": "general",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "affection and support",
       "level": 3,
       "cultural_group": "general",
@@ -105,16 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 10
-    },
-    {
-      "id": 12,
+      "id": 10,
       "label": "lotion after shower",
       "level": 3,
       "cultural_group": "general",
@@ -123,16 +105,16 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 11,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 14,
+      "id": 12,
       "label": "proper car seat usage",
       "level": 3,
       "cultural_group": "general",
@@ -141,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 13,
       "label": "raising babies",
       "level": 3,
       "cultural_group": "general",
@@ -150,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 14,
       "label": "financial investment",
       "level": 3,
       "cultural_group": "general",
@@ -159,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 15,
       "label": "customs checks",
       "level": 3,
       "cultural_group": "general",
@@ -168,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 16,
       "label": "system",
       "level": 3,
       "cultural_group": "general",
@@ -177,16 +159,16 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 17,
       "label": "payment",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 18,
       "label": "employment conditions",
       "level": 3,
       "cultural_group": "general",
@@ -195,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 19,
       "label": "frequent relocation",
       "level": 3,
       "cultural_group": "general",
@@ -204,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 20,
       "label": "social interactions",
       "level": 1,
       "cultural_group": "general",
@@ -213,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 21,
       "label": "bureaucracy",
       "level": 3,
       "cultural_group": "general",
@@ -222,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 22,
       "label": "orderly, quiet behavior",
       "level": 3,
       "cultural_group": "general",
@@ -231,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 23,
       "label": "education system",
       "level": 1,
       "cultural_group": "dz",
@@ -240,7 +222,7 @@
       "frequency": 2
     },
     {
-      "id": 26,
+      "id": 24,
       "label": "high school attendance",
       "level": 3,
       "cultural_group": "dz",
@@ -249,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 25,
       "label": "compulsory education",
       "level": 3,
       "cultural_group": "dz",
@@ -258,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 26,
       "label": "judge",
       "level": 1,
       "cultural_group": "judge",
@@ -267,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 27,
       "label": "parents develop parenting plan",
       "level": 3,
       "cultural_group": "judge",
@@ -276,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 28,
       "label": "attended",
       "level": 3,
       "cultural_group": "farmer",
@@ -285,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 29,
       "label": "nurse-midwife care",
       "level": 3,
       "cultural_group": "nurse",
@@ -294,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 30,
       "label": "nurses and midwives",
       "level": 3,
       "cultural_group": "nurse",
@@ -303,16 +285,16 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 31,
       "label": "nurse",
-      "level": 3,
+      "level": 1,
       "cultural_group": "nurse",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 2
     },
     {
-      "id": 34,
+      "id": 32,
       "label": "doctor",
       "level": 1,
       "cultural_group": "nurse",
@@ -321,16 +303,16 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 33,
       "label": "physical",
-      "level": 1,
+      "level": 3,
       "cultural_group": "nurse",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 34,
       "label": "analysis",
       "level": 3,
       "cultural_group": "tailor",
@@ -339,16 +321,16 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 35,
       "label": "papers",
-      "level": 1,
+      "level": 2,
       "cultural_group": "tailor",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 2
     },
     {
-      "id": 38,
+      "id": 36,
       "label": "fair quantity of time",
       "level": 3,
       "cultural_group": "tailor",
@@ -357,7 +339,7 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 37,
       "label": "dry socket",
       "level": 3,
       "cultural_group": "dentist",
@@ -366,7 +348,7 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 38,
       "label": "irrigation",
       "level": 3,
       "cultural_group": "dentist",
@@ -375,16 +357,16 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 39,
       "label": "merchants",
-      "level": 1,
+      "level": 2,
       "cultural_group": "merchant",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 40,
       "label": "reliable bank",
       "level": 3,
       "cultural_group": "merchant",
@@ -393,16 +375,16 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 41,
       "label": "banker",
-      "level": 1,
+      "level": 2,
       "cultural_group": "merchant",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 42,
       "label": "good customer service",
       "level": 3,
       "cultural_group": "merchant",
@@ -411,7 +393,7 @@
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 43,
       "label": "writing process",
       "level": 3,
       "cultural_group": "copywriter",
@@ -420,7 +402,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 44,
       "label": "careful consideration",
       "level": 3,
       "cultural_group": "copywriter",
@@ -429,7 +411,7 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 45,
       "label": "photographer",
       "level": 1,
       "cultural_group": "photographer",
@@ -438,7 +420,7 @@
       "frequency": 1
     },
     {
-      "id": 48,
+      "id": 46,
       "label": "face painting",
       "level": 3,
       "cultural_group": "painter",
@@ -447,7 +429,7 @@
       "frequency": 1
     },
     {
-      "id": 49,
+      "id": 47,
       "label": "quick work",
       "level": 3,
       "cultural_group": "painter",
@@ -456,7 +438,7 @@
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 48,
       "label": "architect",
       "level": 1,
       "cultural_group": "architect",
@@ -465,16 +447,16 @@
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 49,
       "label": "attorney",
-      "level": 2,
+      "level": 1,
       "cultural_group": "attorney",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 3
     },
     {
-      "id": 52,
+      "id": 50,
       "label": "stamp",
       "level": 3,
       "cultural_group": "attorney",
@@ -483,16 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 53,
-      "label": "candle",
-      "level": 1,
-      "cultural_group": "attorney",
-      "domain": "unknown",
-      "source_dataset": "candle",
-      "frequency": 1
-    },
-    {
-      "id": 54,
+      "id": 51,
       "label": "strict public notice",
       "level": 3,
       "cultural_group": "attorney",
@@ -503,17 +476,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "النظام التعليمي",
-      "target_label": "wearing the emblem",
-      "relation_type": "requires",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "algeria",
       "target_label": "presenting gifts elegantly",
       "relation_type": "requires",
@@ -521,8 +485,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 5,
-      "target": 6,
+      "source": 4,
+      "target": 5,
       "source_label": "household",
       "target_label": "cleaning",
       "relation_type": "require",
@@ -530,8 +494,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 7,
-      "target": 8,
+      "source": 6,
+      "target": 7,
       "source_label": "weaving process",
       "target_label": "meticulousness",
       "relation_type": "requires",
@@ -539,8 +503,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 9,
-      "target": 10,
+      "source": 8,
+      "target": 9,
       "source_label": "personal connections",
       "target_label": "affection and support",
       "relation_type": "require",
@@ -550,15 +514,6 @@
     {
       "source": 11,
       "target": 12,
-      "source_label": "diwali",
-      "target_label": "lotion after shower",
-      "relation_type": "requires",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 13,
-      "target": 14,
       "source_label": "united states",
       "target_label": "proper car seat usage",
       "relation_type": "requires",
@@ -566,8 +521,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 15,
-      "target": 16,
+      "source": 13,
+      "target": 14,
       "source_label": "raising babies",
       "target_label": "financial investment",
       "relation_type": "requires",
@@ -575,8 +530,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 13,
-      "target": 17,
+      "source": 11,
+      "target": 15,
       "source_label": "united states",
       "target_label": "customs checks",
       "relation_type": "require",
@@ -584,8 +539,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 18,
-      "target": 19,
+      "source": 16,
+      "target": 17,
       "source_label": "system",
       "target_label": "payment",
       "relation_type": "requires",
@@ -593,8 +548,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 20,
-      "target": 21,
+      "source": 18,
+      "target": 19,
       "source_label": "employment conditions",
       "target_label": "frequent relocation",
       "relation_type": "require",
@@ -602,26 +557,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 22,
-      "target": 11,
-      "source_label": "social interactions",
-      "target_label": "diwali",
-      "relation_type": "require",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 11,
-      "target": 23,
-      "source_label": "diwali",
-      "target_label": "bureaucracy",
-      "relation_type": "require",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 3,
-      "target": 24,
+      "source": 2,
+      "target": 22,
       "source_label": "algeria",
       "target_label": "orderly, quiet behavior",
       "relation_type": "require",
@@ -629,8 +566,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 25,
-      "target": 26,
+      "source": 23,
+      "target": 24,
       "source_label": "education system",
       "target_label": "high school attendance",
       "relation_type": "requires",
@@ -638,8 +575,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 3,
-      "target": 27,
+      "source": 2,
+      "target": 25,
       "source_label": "algeria",
       "target_label": "compulsory education",
       "relation_type": "requires",
@@ -647,17 +584,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 25,
-      "target": 11,
-      "source_label": "education system",
-      "target_label": "diwali",
-      "relation_type": "require",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 28,
-      "target": 29,
+      "source": 26,
+      "target": 27,
       "source_label": "judge",
       "target_label": "parents develop parenting plan",
       "relation_type": "require",
@@ -665,17 +593,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 11,
+      "source": 29,
       "target": 30,
-      "source_label": "diwali",
-      "target_label": "attended",
-      "relation_type": "requires",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 31,
-      "target": 32,
       "source_label": "nurse-midwife care",
       "target_label": "nurses and midwives",
       "relation_type": "requires",
@@ -683,8 +602,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 33,
-      "target": 3,
+      "source": 31,
+      "target": 2,
       "source_label": "nurse",
       "target_label": "algeria",
       "relation_type": "requires",
@@ -692,8 +611,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 34,
-      "target": 3,
+      "source": 32,
+      "target": 2,
       "source_label": "doctor",
       "target_label": "algeria",
       "relation_type": "requires",
@@ -701,8 +620,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 33,
-      "target": 35,
+      "source": 31,
+      "target": 33,
       "source_label": "nurse",
       "target_label": "physical",
       "relation_type": "requires",
@@ -710,17 +629,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 11,
+      "source": 35,
       "target": 36,
-      "source_label": "diwali",
-      "target_label": "analysis",
-      "relation_type": "requires",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 37,
-      "target": 38,
       "source_label": "papers",
       "target_label": "fair quantity of time",
       "relation_type": "require",
@@ -729,16 +639,7 @@
     },
     {
       "source": 37,
-      "target": 11,
-      "source_label": "papers",
-      "target_label": "diwali",
-      "relation_type": "require",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 39,
-      "target": 40,
+      "target": 38,
       "source_label": "dry socket",
       "target_label": "irrigation",
       "relation_type": "requires",
@@ -746,8 +647,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 41,
-      "target": 42,
+      "source": 39,
+      "target": 40,
       "source_label": "merchants",
       "target_label": "reliable bank",
       "relation_type": "require",
@@ -755,8 +656,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 43,
-      "target": 44,
+      "source": 41,
+      "target": 42,
       "source_label": "banker",
       "target_label": "good customer service",
       "relation_type": "require",
@@ -764,8 +665,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 45,
-      "target": 46,
+      "source": 43,
+      "target": 44,
       "source_label": "writing process",
       "target_label": "careful consideration",
       "relation_type": "requires",
@@ -773,8 +674,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 3,
-      "target": 47,
+      "source": 2,
+      "target": 45,
       "source_label": "algeria",
       "target_label": "photographer",
       "relation_type": "requires",
@@ -782,8 +683,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 48,
-      "target": 49,
+      "source": 46,
+      "target": 47,
       "source_label": "face painting",
       "target_label": "quick work",
       "relation_type": "requires",
@@ -791,47 +692,11 @@
       "source_dataset": "candle"
     },
     {
-      "source": 50,
-      "target": 11,
-      "source_label": "architect",
-      "target_label": "diwali",
-      "relation_type": "require",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 51,
-      "target": 52,
+      "source": 49,
+      "target": 50,
       "source_label": "attorney",
       "target_label": "stamp",
       "relation_type": "requires",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 51,
-      "target": 11,
-      "source_label": "attorney",
-      "target_label": "diwali",
-      "relation_type": "requires",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 51,
-      "target": 53,
-      "source_label": "attorney",
-      "target_label": "candle",
-      "relation_type": "requires",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 11,
-      "target": 54,
-      "source_label": "diwali",
-      "target_label": "strict public notice",
-      "relation_type": "require",
       "weight": 1,
       "source_dataset": "candle"
     }

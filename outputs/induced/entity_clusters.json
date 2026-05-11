@@ -1220,7 +1220,7 @@
     ],
     "frequency": 4328,
     "cluster_id": -1,
-    "level": 6
+    "level": 1
   },
   {
     "canonical": "algeria",
@@ -1550,7 +1550,7 @@
     ],
     "frequency": 2704,
     "cluster_id": 1,
-    "level": 5
+    "level": 1
   },
   {
     "canonical": "united states",
@@ -1579,7 +1579,7 @@
     ],
     "frequency": 435,
     "cluster_id": 0,
-    "level": 4
+    "level": 1
   },
   {
     "canonical": "nurse",
@@ -1592,7 +1592,7 @@
     ],
     "frequency": 147,
     "cluster_id": 2,
-    "level": 3
+    "level": 1
   },
   {
     "canonical": "attorney",
@@ -1612,7 +1612,7 @@
     ],
     "frequency": 109,
     "cluster_id": 5,
-    "level": 2
+    "level": 1
   },
   {
     "canonical": "nile valley",
@@ -2259,7 +2259,7 @@
     ],
     "frequency": 18,
     "cluster_id": 40,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "independence day",
@@ -2270,7 +2270,7 @@
     ],
     "frequency": 18,
     "cluster_id": 46,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "papers",
@@ -2283,7 +2283,7 @@
     ],
     "frequency": 18,
     "cluster_id": 108,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "respect for elders",
@@ -2297,7 +2297,7 @@
     ],
     "frequency": 18,
     "cluster_id": 148,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "journalist",
@@ -2307,7 +2307,7 @@
     ],
     "frequency": 17,
     "cluster_id": 35,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "safety",
@@ -2318,7 +2318,7 @@
     ],
     "frequency": 17,
     "cluster_id": 38,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "proverb",
@@ -2329,7 +2329,7 @@
     ],
     "frequency": 17,
     "cluster_id": 50,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "scientist",
@@ -2340,7 +2340,7 @@
     ],
     "frequency": 17,
     "cluster_id": 54,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "greeting",
@@ -2350,7 +2350,7 @@
     ],
     "frequency": 17,
     "cluster_id": 57,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "free time",
@@ -2363,7 +2363,7 @@
     ],
     "frequency": 17,
     "cluster_id": 77,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "bagh",
@@ -2373,7 +2373,7 @@
     ],
     "frequency": 16,
     "cluster_id": 41,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "daily life",
@@ -2384,7 +2384,7 @@
     ],
     "frequency": 16,
     "cluster_id": 47,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "rasaka",
@@ -2394,7 +2394,7 @@
     ],
     "frequency": 16,
     "cluster_id": 67,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "banker",
@@ -2406,7 +2406,7 @@
     ],
     "frequency": 16,
     "cluster_id": 73,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "household",
@@ -2417,7 +2417,7 @@
     ],
     "frequency": 16,
     "cluster_id": 78,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "harvest season",
@@ -2431,7 +2431,7 @@
     ],
     "frequency": 16,
     "cluster_id": 111,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "football",
@@ -2441,7 +2441,7 @@
     ],
     "frequency": 15,
     "cluster_id": 39,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "painter",
@@ -2452,7 +2452,7 @@
     ],
     "frequency": 15,
     "cluster_id": 53,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "fruits",
@@ -2463,7 +2463,7 @@
     ],
     "frequency": 15,
     "cluster_id": 63,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "couple",
@@ -2473,7 +2473,7 @@
     ],
     "frequency": 15,
     "cluster_id": 64,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "shopping",
@@ -2485,7 +2485,7 @@
     ],
     "frequency": 15,
     "cluster_id": 79,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "father",
@@ -2495,7 +2495,7 @@
     ],
     "frequency": 14,
     "cluster_id": 45,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "jamdani",
@@ -2506,7 +2506,7 @@
     ],
     "frequency": 14,
     "cluster_id": 58,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "coffee",
@@ -2517,7 +2517,7 @@
     ],
     "frequency": 14,
     "cluster_id": 61,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "dhuliya dance",
@@ -2527,7 +2527,7 @@
     ],
     "frequency": 14,
     "cluster_id": 68,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "audience",
@@ -2537,7 +2537,7 @@
     ],
     "frequency": 14,
     "cluster_id": 70,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "restaurant",
@@ -2548,7 +2548,7 @@
     ],
     "frequency": 14,
     "cluster_id": 71,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "cleaning",
@@ -2560,7 +2560,7 @@
     ],
     "frequency": 14,
     "cluster_id": 117,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "cultural heritage",
@@ -2570,7 +2570,7 @@
     ],
     "frequency": 13,
     "cluster_id": 44,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "servers",
@@ -2581,7 +2581,7 @@
     ],
     "frequency": 13,
     "cluster_id": 62,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "bhagalpuri silk",
@@ -2592,7 +2592,7 @@
     ],
     "frequency": 13,
     "cluster_id": 81,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "outdoors",
@@ -2605,7 +2605,7 @@
     ],
     "frequency": 13,
     "cluster_id": 112,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "chhau dance",
@@ -2616,7 +2616,7 @@
     ],
     "frequency": 13,
     "cluster_id": 130,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "personal preference",
@@ -2628,7 +2628,7 @@
     ],
     "frequency": 13,
     "cluster_id": 172,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "merchants",
@@ -2638,7 +2638,7 @@
     ],
     "frequency": 12,
     "cluster_id": 52,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "barpeta's bhortal nritya",
@@ -2648,7 +2648,7 @@
     ],
     "frequency": 12,
     "cluster_id": 83,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "deori bihu dance",
@@ -2658,7 +2658,7 @@
     ],
     "frequency": 12,
     "cluster_id": 85,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "evening meal",
@@ -2670,7 +2670,7 @@
     ],
     "frequency": 12,
     "cluster_id": 96,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "srikalahasti kalamkari",
@@ -2681,7 +2681,7 @@
     ],
     "frequency": 12,
     "cluster_id": 118,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "dhurrie",
@@ -2692,7 +2692,7 @@
     ],
     "frequency": 12,
     "cluster_id": 124,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "groom",
@@ -2703,7 +2703,7 @@
     ],
     "frequency": 12,
     "cluster_id": 143,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "sham al-nessim",
@@ -2713,7 +2713,7 @@
     ],
     "frequency": 11,
     "cluster_id": 65,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "cultural differences",
@@ -2724,7 +2724,7 @@
     ],
     "frequency": 11,
     "cluster_id": 87,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "businesses",
@@ -2734,7 +2734,7 @@
     ],
     "frequency": 11,
     "cluster_id": 90,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "together",
@@ -2745,7 +2745,7 @@
     ],
     "frequency": 11,
     "cluster_id": 92,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "visitors",
@@ -2756,7 +2756,7 @@
     ],
     "frequency": 11,
     "cluster_id": 115,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "california residents",
@@ -2767,7 +2767,7 @@
     ],
     "frequency": 11,
     "cluster_id": 134,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "burgers",
@@ -2779,7 +2779,7 @@
     ],
     "frequency": 11,
     "cluster_id": 177,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "questions",
@@ -2792,7 +2792,7 @@
     ],
     "frequency": 11,
     "cluster_id": 206,
-    "level": 1
+    "level": 2
   },
   {
     "canonical": "chomangkan dance",
@@ -2802,7 +2802,7 @@
     ],
     "frequency": 10,
     "cluster_id": 69,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "soccer",
@@ -2812,7 +2812,7 @@
     ],
     "frequency": 10,
     "cluster_id": 72,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "receptionist",
@@ -2822,7 +2822,7 @@
     ],
     "frequency": 10,
     "cluster_id": 74,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "berhampuri patta",
@@ -2832,7 +2832,7 @@
     ],
     "frequency": 10,
     "cluster_id": 82,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "ojapali",
@@ -2842,7 +2842,7 @@
     ],
     "frequency": 10,
     "cluster_id": 84,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "government",
@@ -2852,7 +2852,7 @@
     ],
     "frequency": 10,
     "cluster_id": 89,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "medication",
@@ -2862,7 +2862,7 @@
     ],
     "frequency": 10,
     "cluster_id": 91,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "books",
@@ -2873,7 +2873,7 @@
     ],
     "frequency": 10,
     "cluster_id": 107,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "personal hygiene",
@@ -2883,7 +2883,7 @@
     ],
     "frequency": 10,
     "cluster_id": 110,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "kalaigaon dance",
@@ -2893,7 +2893,7 @@
     ],
     "frequency": 9,
     "cluster_id": 86,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "karbi tribe",
@@ -2903,7 +2903,7 @@
     ],
     "frequency": 9,
     "cluster_id": 98,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "devotion",
@@ -2913,7 +2913,7 @@
     ],
     "frequency": 9,
     "cluster_id": 103,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "mashru",
@@ -2923,7 +2923,7 @@
     ],
     "frequency": 9,
     "cluster_id": 121,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "blankets",
@@ -2933,7 +2933,7 @@
     ],
     "frequency": 9,
     "cluster_id": 122,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "chanderi sari",
@@ -2943,7 +2943,7 @@
     ],
     "frequency": 9,
     "cluster_id": 126,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "kanchipuram silk saree",
@@ -2953,7 +2953,7 @@
     ],
     "frequency": 9,
     "cluster_id": 127,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "mundu",
@@ -2963,7 +2963,7 @@
     ],
     "frequency": 9,
     "cluster_id": 129,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "most popular",
@@ -2973,7 +2973,7 @@
     ],
     "frequency": 9,
     "cluster_id": 137,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "plans",
@@ -2983,7 +2983,7 @@
     ],
     "frequency": 9,
     "cluster_id": 140,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "fava beans",
@@ -2994,7 +2994,7 @@
     ],
     "frequency": 9,
     "cluster_id": 146,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "media",
@@ -3005,7 +3005,7 @@
     ],
     "frequency": 9,
     "cluster_id": 171,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "interviewer",
@@ -3016,7 +3016,7 @@
     ],
     "frequency": 9,
     "cluster_id": 179,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "work environment",
@@ -3028,7 +3028,7 @@
     ],
     "frequency": 9,
     "cluster_id": 184,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "behavior",
@@ -3040,7 +3040,7 @@
     ],
     "frequency": 9,
     "cluster_id": 212,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "physical",
@@ -3052,7 +3052,7 @@
     ],
     "frequency": 9,
     "cluster_id": 220,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "performance",
@@ -3064,7 +3064,7 @@
     ],
     "frequency": 9,
     "cluster_id": 222,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "سلمى",
@@ -3074,7 +3074,7 @@
     ],
     "frequency": 8,
     "cluster_id": 93,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "marriage",
@@ -3084,7 +3084,7 @@
     ],
     "frequency": 8,
     "cluster_id": 94,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "generations",
@@ -3094,7 +3094,7 @@
     ],
     "frequency": 8,
     "cluster_id": 95,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "driving",
@@ -3104,7 +3104,7 @@
     ],
     "frequency": 8,
     "cluster_id": 97,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "rampur chaddar",
@@ -3114,7 +3114,7 @@
     ],
     "frequency": 8,
     "cluster_id": 100,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "dance-drama",
@@ -3124,7 +3124,7 @@
     ],
     "frequency": 8,
     "cluster_id": 101,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "shiva priya",
@@ -3134,7 +3134,7 @@
     ],
     "frequency": 8,
     "cluster_id": 102,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "deities",
@@ -3144,7 +3144,7 @@
     ],
     "frequency": 8,
     "cluster_id": 104,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "thengal kachari dance",
@@ -3154,7 +3154,7 @@
     ],
     "frequency": 8,
     "cluster_id": 105,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "sonowal kachari dance",
@@ -3164,7 +3164,7 @@
     ],
     "frequency": 8,
     "cluster_id": 106,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "water",
@@ -3174,7 +3174,7 @@
     ],
     "frequency": 8,
     "cluster_id": 114,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "kunbi saree",
@@ -3184,7 +3184,7 @@
     ],
     "frequency": 8,
     "cluster_id": 119,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "order",
@@ -3194,7 +3194,7 @@
     ],
     "frequency": 8,
     "cluster_id": 138,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "rabha tribe",
@@ -3204,7 +3204,7 @@
     ],
     "frequency": 8,
     "cluster_id": 150,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "ilkal saree",
@@ -3214,7 +3214,7 @@
     ],
     "frequency": 8,
     "cluster_id": 152,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "quality",
@@ -3225,7 +3225,7 @@
     ],
     "frequency": 8,
     "cluster_id": 154,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "paika",
@@ -3235,7 +3235,7 @@
     ],
     "frequency": 8,
     "cluster_id": 158,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "jhumar",
@@ -3245,7 +3245,7 @@
     ],
     "frequency": 8,
     "cluster_id": 159,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "natua",
@@ -3255,7 +3255,7 @@
     ],
     "frequency": 8,
     "cluster_id": 160,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "nacha dance",
@@ -3265,7 +3265,7 @@
     ],
     "frequency": 8,
     "cluster_id": 163,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "peanut butter",
@@ -3275,7 +3275,7 @@
     ],
     "frequency": 8,
     "cluster_id": 170,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "social norms",
@@ -3286,7 +3286,7 @@
     ],
     "frequency": 8,
     "cluster_id": 174,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "weather",
@@ -3297,7 +3297,7 @@
     ],
     "frequency": 8,
     "cluster_id": 175,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "wancho bag",
@@ -3308,7 +3308,7 @@
     ],
     "frequency": 8,
     "cluster_id": 195,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "hospitality",
@@ -3318,7 +3318,7 @@
     ],
     "frequency": 7,
     "cluster_id": 109,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "brothers",
@@ -3328,7 +3328,7 @@
     ],
     "frequency": 7,
     "cluster_id": 113,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "sandwiches",
@@ -3338,7 +3338,7 @@
     ],
     "frequency": 7,
     "cluster_id": 116,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "ajrakh",
@@ -3348,7 +3348,7 @@
     ],
     "frequency": 7,
     "cluster_id": 120,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "garments",
@@ -3358,7 +3358,7 @@
     ],
     "frequency": 7,
     "cluster_id": 125,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "uttarakhand",
@@ -3368,7 +3368,7 @@
     ],
     "frequency": 7,
     "cluster_id": 128,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "walking",
@@ -3378,7 +3378,7 @@
     ],
     "frequency": 7,
     "cluster_id": 131,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "air conditioning",
@@ -3388,7 +3388,7 @@
     ],
     "frequency": 7,
     "cluster_id": 132,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "france",
@@ -3398,7 +3398,7 @@
     ],
     "frequency": 7,
     "cluster_id": 133,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "peers",
@@ -3408,7 +3408,7 @@
     ],
     "frequency": 7,
     "cluster_id": 135,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "conversation",
@@ -3418,7 +3418,7 @@
     ],
     "frequency": 7,
     "cluster_id": 136,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "copywriter",
@@ -3428,7 +3428,7 @@
     ],
     "frequency": 7,
     "cluster_id": 139,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "prayer",
@@ -3438,7 +3438,7 @@
     ],
     "frequency": 7,
     "cluster_id": 147,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "mising tribe",
@@ -3448,7 +3448,7 @@
     ],
     "frequency": 7,
     "cluster_id": 151,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "pashmina shawl",
@@ -3458,7 +3458,7 @@
     ],
     "frequency": 7,
     "cluster_id": 155,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "jatra dance",
@@ -3468,7 +3468,7 @@
     ],
     "frequency": 7,
     "cluster_id": 161,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "costs",
@@ -3478,7 +3478,7 @@
     ],
     "frequency": 7,
     "cluster_id": 165,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "prices",
@@ -3488,7 +3488,7 @@
     ],
     "frequency": 7,
     "cluster_id": 166,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "health",
@@ -3498,7 +3498,7 @@
     ],
     "frequency": 7,
     "cluster_id": 169,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "partners",
@@ -3508,7 +3508,7 @@
     ],
     "frequency": 7,
     "cluster_id": 176,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "training",
@@ -3518,7 +3518,7 @@
     ],
     "frequency": 7,
     "cluster_id": 181,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "death",
@@ -3529,7 +3529,7 @@
     ],
     "frequency": 7,
     "cluster_id": 191,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "tobacco products",
@@ -3540,7 +3540,7 @@
     ],
     "frequency": 7,
     "cluster_id": 207,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "countries",
@@ -3551,7 +3551,7 @@
     ],
     "frequency": 7,
     "cluster_id": 210,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "horse",
@@ -3562,7 +3562,7 @@
     ],
     "frequency": 7,
     "cluster_id": 214,
-    "level": 1
+    "level": 3
   },
   {
     "canonical": "table",
@@ -3572,7 +3572,7 @@
     ],
     "frequency": 6,
     "cluster_id": 141,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "family and friends",
@@ -3582,7 +3582,7 @@
     ],
     "frequency": 6,
     "cluster_id": 142,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "important",
@@ -3592,7 +3592,7 @@
     ],
     "frequency": 6,
     "cluster_id": 144,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "food preparation",
@@ -3602,7 +3602,7 @@
     ],
     "frequency": 6,
     "cluster_id": 145,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "distinctive",
@@ -3612,7 +3612,7 @@
     ],
     "frequency": 6,
     "cluster_id": 149,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "loin loom weaving",
@@ -3622,7 +3622,7 @@
     ],
     "frequency": 6,
     "cluster_id": 153,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "apatani",
@@ -3632,7 +3632,7 @@
     ],
     "frequency": 6,
     "cluster_id": 156,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "jikir and jari",
@@ -3642,7 +3642,7 @@
     ],
     "frequency": 6,
     "cluster_id": 157,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "karma dance",
@@ -3652,7 +3652,7 @@
     ],
     "frequency": 6,
     "cluster_id": 162,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "accessibility",
@@ -3662,7 +3662,7 @@
     ],
     "frequency": 6,
     "cluster_id": 164,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "host",
@@ -3672,7 +3672,7 @@
     ],
     "frequency": 6,
     "cluster_id": 167,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "strangers",
@@ -3682,7 +3682,7 @@
     ],
     "frequency": 6,
     "cluster_id": 168,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "movie theater patrons",
@@ -3692,7 +3692,7 @@
     ],
     "frequency": 6,
     "cluster_id": 173,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "payment",
@@ -3702,7 +3702,7 @@
     ],
     "frequency": 6,
     "cluster_id": 178,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "taxation of food",
@@ -3712,7 +3712,7 @@
     ],
     "frequency": 6,
     "cluster_id": 180,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "historian",
@@ -3722,7 +3722,7 @@
     ],
     "frequency": 6,
     "cluster_id": 182,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "storytelling",
@@ -3732,7 +3732,7 @@
     ],
     "frequency": 6,
     "cluster_id": 192,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "flowers",
@@ -3742,7 +3742,7 @@
     ],
     "frequency": 6,
     "cluster_id": 198,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "koorainadu saree",
@@ -3752,7 +3752,7 @@
     ],
     "frequency": 6,
     "cluster_id": 200,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "for deceased",
@@ -3763,7 +3763,7 @@
     ],
     "frequency": 6,
     "cluster_id": 227,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "azan",
@@ -3774,7 +3774,7 @@
     ],
     "frequency": 6,
     "cluster_id": 233,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "day of arafat",
@@ -3784,7 +3784,7 @@
     ],
     "frequency": 5,
     "cluster_id": 183,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "after burial",
@@ -3794,7 +3794,7 @@
     ],
     "frequency": 5,
     "cluster_id": 185,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "beauty",
@@ -3804,7 +3804,7 @@
     ],
     "frequency": 5,
     "cluster_id": 186,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "salad",
@@ -3814,7 +3814,7 @@
     ],
     "frequency": 5,
     "cluster_id": 187,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "parades",
@@ -3824,7 +3824,7 @@
     ],
     "frequency": 5,
     "cluster_id": 188,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "girls",
@@ -3834,7 +3834,7 @@
     ],
     "frequency": 5,
     "cluster_id": 189,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "gender",
@@ -3844,7 +3844,7 @@
     ],
     "frequency": 5,
     "cluster_id": 190,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "lamb doll",
@@ -3854,7 +3854,7 @@
     ],
     "frequency": 5,
     "cluster_id": 193,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "sherdukpen shawl",
@@ -3864,7 +3864,7 @@
     ],
     "frequency": 5,
     "cluster_id": 194,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "durability and warmth",
@@ -3874,7 +3874,7 @@
     ],
     "frequency": 5,
     "cluster_id": 196,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "process",
@@ -3884,7 +3884,7 @@
     ],
     "frequency": 5,
     "cluster_id": 197,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "strength",
@@ -3894,7 +3894,7 @@
     ],
     "frequency": 5,
     "cluster_id": 199,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "shantipuri sari",
@@ -3904,7 +3904,7 @@
     ],
     "frequency": 5,
     "cluster_id": 201,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "nicobari banners",
@@ -3914,7 +3914,7 @@
     ],
     "frequency": 5,
     "cluster_id": 202,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "ali ai ligang dance",
@@ -3924,7 +3924,7 @@
     ],
     "frequency": 5,
     "cluster_id": 203,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "discipline",
@@ -3934,7 +3934,7 @@
     ],
     "frequency": 5,
     "cluster_id": 204,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "relocation",
@@ -3944,7 +3944,7 @@
     ],
     "frequency": 5,
     "cluster_id": 205,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "breaks",
@@ -3954,7 +3954,7 @@
     ],
     "frequency": 5,
     "cluster_id": 208,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "freedom",
@@ -3964,7 +3964,7 @@
     ],
     "frequency": 5,
     "cluster_id": 209,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "gas station",
@@ -3974,7 +3974,7 @@
     ],
     "frequency": 5,
     "cluster_id": 211,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "track and field events",
@@ -3984,7 +3984,7 @@
     ],
     "frequency": 5,
     "cluster_id": 213,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "daily exercise",
@@ -3994,7 +3994,7 @@
     ],
     "frequency": 5,
     "cluster_id": 215,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "athletes",
@@ -4004,7 +4004,7 @@
     ],
     "frequency": 5,
     "cluster_id": 216,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "administrators",
@@ -4014,7 +4014,7 @@
     ],
     "frequency": 5,
     "cluster_id": 217,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "success",
@@ -4024,7 +4024,7 @@
     ],
     "frequency": 5,
     "cluster_id": 218,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "planning",
@@ -4034,7 +4034,7 @@
     ],
     "frequency": 5,
     "cluster_id": 219,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "exam",
@@ -4044,7 +4044,7 @@
     ],
     "frequency": 5,
     "cluster_id": 221,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "speech",
@@ -4054,7 +4054,7 @@
     ],
     "frequency": 5,
     "cluster_id": 223,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "housekeepers",
@@ -4064,7 +4064,7 @@
     ],
     "frequency": 5,
     "cluster_id": 224,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "entrance hall",
@@ -4074,7 +4074,7 @@
     ],
     "frequency": 5,
     "cluster_id": 225,
-    "level": 1
+    "level": 4
   },
   {
     "canonical": "professionalism",
@@ -4084,7 +4084,7 @@
     ],
     "frequency": 4,
     "cluster_id": 226,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "special dance",
@@ -4094,7 +4094,7 @@
     ],
     "frequency": 4,
     "cluster_id": 228,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "dinner",
@@ -4104,7 +4104,7 @@
     ],
     "frequency": 4,
     "cluster_id": 229,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "light foods",
@@ -4114,7 +4114,7 @@
     ],
     "frequency": 4,
     "cluster_id": 230,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "mawlid al-nabi",
@@ -4124,7 +4124,7 @@
     ],
     "frequency": 4,
     "cluster_id": 231,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "unspecified",
@@ -4134,7 +4134,7 @@
     ],
     "frequency": 4,
     "cluster_id": 232,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "garments and accessories",
@@ -4144,7 +4144,7 @@
     ],
     "frequency": 4,
     "cluster_id": 234,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "handloom industry",
@@ -4154,7 +4154,7 @@
     ],
     "frequency": 4,
     "cluster_id": 235,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "local folklore",
@@ -4164,7 +4164,7 @@
     ],
     "frequency": 4,
     "cluster_id": 236,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "mysore silk",
@@ -4174,7 +4174,7 @@
     ],
     "frequency": 4,
     "cluster_id": 237,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "thirubuvanam silk saree",
@@ -4184,7 +4184,7 @@
     ],
     "frequency": 4,
     "cluster_id": 238,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "warli painting",
@@ -4194,7 +4194,7 @@
     ],
     "frequency": 4,
     "cluster_id": 239,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "uncanned whipped cream",
@@ -4204,7 +4204,7 @@
     ],
     "frequency": 4,
     "cluster_id": 240,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "eye contact",
@@ -4214,7 +4214,7 @@
     ],
     "frequency": 4,
     "cluster_id": 241,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "fresh strawberries",
@@ -4224,7 +4224,7 @@
     ],
     "frequency": 4,
     "cluster_id": 242,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "items",
@@ -4234,7 +4234,7 @@
     ],
     "frequency": 4,
     "cluster_id": 243,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "doggy bag",
@@ -4244,7 +4244,7 @@
     ],
     "frequency": 4,
     "cluster_id": 244,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "retired women",
@@ -4254,7 +4254,7 @@
     ],
     "frequency": 4,
     "cluster_id": 245,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "white",
@@ -4264,7 +4264,7 @@
     ],
     "frequency": 4,
     "cluster_id": 246,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "buyers",
@@ -4274,7 +4274,7 @@
     ],
     "frequency": 4,
     "cluster_id": 247,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "projects",
@@ -4284,7 +4284,7 @@
     ],
     "frequency": 4,
     "cluster_id": 248,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "mentor",
@@ -4294,7 +4294,7 @@
     ],
     "frequency": 4,
     "cluster_id": 249,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "lesson",
@@ -4304,7 +4304,7 @@
     ],
     "frequency": 4,
     "cluster_id": 250,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "mortgage",
@@ -4314,7 +4314,7 @@
     ],
     "frequency": 4,
     "cluster_id": 251,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "tailor-made",
@@ -4324,7 +4324,7 @@
     ],
     "frequency": 4,
     "cluster_id": 252,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "regular visits",
@@ -4334,7 +4334,7 @@
     ],
     "frequency": 4,
     "cluster_id": 253,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "writers",
@@ -4344,7 +4344,7 @@
     ],
     "frequency": 4,
     "cluster_id": 254,
-    "level": 1
+    "level": 5
   },
   {
     "canonical": "professional dog walker",
@@ -4354,6 +4354,6 @@
     ],
     "frequency": 4,
     "cluster_id": 255,
-    "level": 1
+    "level": 5
   }
 ]

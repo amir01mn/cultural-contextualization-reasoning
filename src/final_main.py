@@ -25,6 +25,7 @@ from lens_consolidator import consolidate
 from final_extractor import extract_batch, load_extractions
 from graph_builder import build_graph
 from exporter import export_all
+from cross_lens import build_cross_lens_edges
 
 
 def parse_args() -> argparse.Namespace:
@@ -40,6 +41,8 @@ def parse_args() -> argparse.Namespace:
                    help="Skip extraction if raw_extractions.jsonl already exists.")
     p.add_argument("--eps", type=float, default=0.52,
                    help="DBSCAN eps for super-lens consolidation (default 0.52).")
+    p.add_argument("--backend", type=str, default="ollama", choices=["ollama", "hf"],
+                   help="LLM backend: 'ollama' for local Mac, 'hf' for Narval GPU (default: ollama)")
     p.add_argument("--verbose", action="store_true")
     return p.parse_args()
 
@@ -227,6 +230,7 @@ def main() -> None:
             output_path=extractions_path,
             resume=True,
             verbose=args.verbose,
+            backend=args.backend,
         )
         records = load_extractions(extractions_path)
 
@@ -239,6 +243,10 @@ def main() -> None:
     summary = build_graphs_from_extractions(records, super_lenses, args.output_dir)
 
     print_final_summary(summary, args.output_dir)
+
+    # ── Step 4: Cross-lens edges ──────────────────────────────────────────
+    print(f"\n[final] Step 4: Building cross-lens edges ...")
+    build_cross_lens_edges(output_dir=args.output_dir)
 
 
 if __name__ == "__main__":

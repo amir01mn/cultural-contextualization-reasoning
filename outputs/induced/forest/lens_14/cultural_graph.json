@@ -43,24 +43,6 @@
     },
     {
       "id": 4,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 65
-    },
-    {
-      "id": 5,
-      "label": "سلمى",
-      "level": 1,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 6,
       "label": "hot meal",
       "level": 3,
       "cultural_group": "algeria",
@@ -69,16 +51,16 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 5,
       "label": "household",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 6,
       "label": "ramadan",
       "level": 1,
       "cultural_group": "algeria",
@@ -87,16 +69,16 @@
       "frequency": 2
     },
     {
-      "id": 9,
+      "id": 7,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 27
     },
     {
-      "id": 10,
+      "id": 8,
       "label": "day before wedding",
       "level": 3,
       "cultural_group": "algeria",
@@ -105,16 +87,16 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 9,
       "label": "day of arafat",
-      "level": 1,
+      "level": 4,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 10,
       "label": "work week",
       "level": 3,
       "cultural_group": "algeria",
@@ -123,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 11,
       "label": "activities",
       "level": 1,
       "cultural_group": "algeria",
@@ -132,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 12,
       "label": "ahl al-mait",
       "level": 3,
       "cultural_group": "algeria",
@@ -141,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 13,
       "label": "mother",
       "level": 1,
       "cultural_group": "algeria",
@@ -150,7 +132,7 @@
       "frequency": 5
     },
     {
-      "id": 16,
+      "id": 14,
       "label": "samia",
       "level": 3,
       "cultural_group": "algeria",
@@ -159,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 15,
       "label": "olive tagine",
       "level": 3,
       "cultural_group": "algeria",
@@ -168,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 16,
       "label": "summer evening",
       "level": 3,
       "cultural_group": "algeria",
@@ -177,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 17,
       "label": "beverages with vegetables",
       "level": 3,
       "cultural_group": "algeria",
@@ -186,7 +168,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 18,
       "label": "ramadan beverage",
       "level": 3,
       "cultural_group": "algeria",
@@ -195,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 19,
       "label": "guests",
       "level": 1,
       "cultural_group": "algeria",
@@ -204,7 +186,7 @@
       "frequency": 3
     },
     {
-      "id": 22,
+      "id": 20,
       "label": "some religious occasions",
       "level": 3,
       "cultural_group": "algeria",
@@ -213,16 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 23,
-      "label": "الناس",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 24,
+      "id": 21,
       "label": "son for school",
       "level": 3,
       "cultural_group": "algeria",
@@ -231,7 +204,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 22,
       "label": "announce death",
       "level": 3,
       "cultural_group": "algeria",
@@ -240,16 +213,16 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 23,
       "label": "fava beans",
-      "level": 1,
+      "level": 3,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 3
     },
     {
-      "id": 27,
+      "id": 24,
       "label": "shams",
       "level": 3,
       "cultural_group": "egypt",
@@ -258,7 +231,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 25,
       "label": "breakfast",
       "level": 1,
       "cultural_group": "egypt",
@@ -267,7 +240,7 @@
       "frequency": 2
     },
     {
-      "id": 29,
+      "id": 26,
       "label": "fried potatoes for dinner",
       "level": 3,
       "cultural_group": "egypt",
@@ -276,16 +249,16 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 27,
       "label": "father",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 28,
       "label": "vegetable stew with rice",
       "level": 3,
       "cultural_group": "egypt",
@@ -294,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 29,
       "label": "large fava bean dish",
       "level": 3,
       "cultural_group": "egypt",
@@ -303,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 30,
       "label": "fava beans for family breakfast",
       "level": 3,
       "cultural_group": "egypt",
@@ -312,16 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 34,
-      "label": "علياء البصاره",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 35,
+      "id": 31,
       "label": "hanea",
       "level": 3,
       "cultural_group": "egypt",
@@ -330,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 32,
       "label": "hala",
       "level": 3,
       "cultural_group": "egypt",
@@ -339,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 33,
       "label": "molokhia",
       "level": 3,
       "cultural_group": "egypt",
@@ -348,25 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 38,
-      "label": "شكشوكه",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 39,
-      "label": "علياء",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 40,
+      "id": 34,
       "label": "eggs with ful medames for suhoor",
       "level": 3,
       "cultural_group": "egypt",
@@ -375,7 +321,7 @@
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 35,
       "label": "wedding celebrations",
       "level": 1,
       "cultural_group": "egypt",
@@ -384,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 42,
+      "id": 36,
       "label": "eid al-adha feast",
       "level": 3,
       "cultural_group": "egypt",
@@ -393,7 +339,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 37,
       "label": "sacrificial animal preparation",
       "level": 3,
       "cultural_group": "egypt",
@@ -402,7 +348,7 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 38,
       "label": "shaima",
       "level": 3,
       "cultural_group": "egypt",
@@ -411,7 +357,7 @@
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 39,
       "label": "khubz and biscuits",
       "level": 3,
       "cultural_group": "egypt",
@@ -420,7 +366,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 40,
       "label": "distribute zakat al-fitr",
       "level": 3,
       "cultural_group": "egypt",
@@ -429,7 +375,7 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 41,
       "label": "essential feast",
       "level": 3,
       "cultural_group": "egypt",
@@ -438,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 48,
+      "id": 42,
       "label": "sheikh mohamed",
       "level": 3,
       "cultural_group": "egypt",
@@ -447,7 +393,7 @@
       "frequency": 1
     },
     {
-      "id": 49,
+      "id": 43,
       "label": "distributing meat",
       "level": 3,
       "cultural_group": "egypt",
@@ -456,25 +402,25 @@
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 44,
       "label": "lamb doll",
-      "level": 1,
+      "level": 4,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 2
     },
     {
-      "id": 51,
+      "id": 45,
       "label": "sham al-nessim",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 46,
       "label": "mowaffaq",
       "level": 3,
       "cultural_group": "egypt",
@@ -483,7 +429,7 @@
       "frequency": 1
     },
     {
-      "id": 53,
+      "id": 47,
       "label": "at 6 am",
       "level": 3,
       "cultural_group": "egypt",
@@ -492,16 +438,7 @@
       "frequency": 1
     },
     {
-      "id": 54,
-      "label": "استعدت",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 55,
+      "id": 48,
       "label": "morning",
       "level": 1,
       "cultural_group": "egypt",
@@ -510,7 +447,7 @@
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 49,
       "label": "ubair",
       "level": 3,
       "cultural_group": "egypt",
@@ -519,7 +456,7 @@
       "frequency": 1
     },
     {
-      "id": 57,
+      "id": 50,
       "label": "bathroom supplies",
       "level": 3,
       "cultural_group": "egypt",
@@ -528,7 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 58,
+      "id": 51,
       "label": "youth gathering",
       "level": 3,
       "cultural_group": "egypt",
@@ -537,25 +474,7 @@
       "frequency": 1
     },
     {
-      "id": 59,
-      "label": "فوزية",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 60,
-      "label": "ابنتها",
-      "level": 3,
-      "cultural_group": "egypt",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 61,
+      "id": 52,
       "label": "parents",
       "level": 1,
       "cultural_group": "general",
@@ -564,7 +483,7 @@
       "frequency": 2
     },
     {
-      "id": 62,
+      "id": 53,
       "label": "emergencies",
       "level": 3,
       "cultural_group": "general",
@@ -573,7 +492,7 @@
       "frequency": 1
     },
     {
-      "id": 63,
+      "id": 54,
       "label": "exam subjects",
       "level": 3,
       "cultural_group": "dz",
@@ -582,16 +501,16 @@
       "frequency": 1
     },
     {
-      "id": 64,
+      "id": 55,
       "label": "host",
-      "level": 1,
+      "level": 4,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 65,
+      "id": 56,
       "label": "chef",
       "level": 3,
       "cultural_group": "dz",
@@ -600,7 +519,7 @@
       "frequency": 1
     },
     {
-      "id": 66,
+      "id": 57,
       "label": "popular dishes",
       "level": 3,
       "cultural_group": "dz",
@@ -609,7 +528,7 @@
       "frequency": 1
     },
     {
-      "id": 67,
+      "id": 58,
       "label": "court staff",
       "level": 3,
       "cultural_group": "clerk",
@@ -618,16 +537,16 @@
       "frequency": 1
     },
     {
-      "id": 68,
+      "id": 59,
       "label": "order",
-      "level": 1,
+      "level": 3,
       "cultural_group": "clerk",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 69,
+      "id": 60,
       "label": "handlers",
       "level": 3,
       "cultural_group": "judge",
@@ -636,7 +555,7 @@
       "frequency": 1
     },
     {
-      "id": 70,
+      "id": 61,
       "label": "yearlings",
       "level": 3,
       "cultural_group": "judge",
@@ -645,7 +564,7 @@
       "frequency": 1
     },
     {
-      "id": 71,
+      "id": 62,
       "label": "preschool",
       "level": 3,
       "cultural_group": "teacher",
@@ -654,7 +573,7 @@
       "frequency": 1
     },
     {
-      "id": 72,
+      "id": 63,
       "label": "kindergarten",
       "level": 3,
       "cultural_group": "teacher",
@@ -663,16 +582,16 @@
       "frequency": 1
     },
     {
-      "id": 73,
+      "id": 64,
       "label": "lesson",
-      "level": 1,
+      "level": 5,
       "cultural_group": "teacher",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 74,
+      "id": 65,
       "label": "pre-operative care",
       "level": 3,
       "cultural_group": "nurse",
@@ -681,16 +600,16 @@
       "frequency": 1
     },
     {
-      "id": 75,
+      "id": 66,
       "label": "nurse",
-      "level": 3,
+      "level": 1,
       "cultural_group": "nurse",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 2
     },
     {
-      "id": 76,
+      "id": 67,
       "label": "doctor",
       "level": 1,
       "cultural_group": "nurse",
@@ -699,7 +618,7 @@
       "frequency": 1
     },
     {
-      "id": 77,
+      "id": 68,
       "label": "instruments",
       "level": 3,
       "cultural_group": "nurse",
@@ -708,7 +627,7 @@
       "frequency": 1
     },
     {
-      "id": 78,
+      "id": 69,
       "label": "photographer",
       "level": 1,
       "cultural_group": "photographer",
@@ -717,7 +636,7 @@
       "frequency": 1
     },
     {
-      "id": 79,
+      "id": 70,
       "label": "artist",
       "level": 1,
       "cultural_group": "artist",
@@ -726,25 +645,25 @@
       "frequency": 2
     },
     {
-      "id": 80,
+      "id": 71,
       "label": "painter",
-      "level": 1,
+      "level": 2,
       "cultural_group": "painter",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 2
     },
     {
-      "id": 81,
+      "id": 72,
       "label": "attorney",
-      "level": 2,
+      "level": 1,
       "cultural_group": "attorney",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 82,
+      "id": 73,
       "label": "documents",
       "level": 3,
       "cultural_group": "attorney",
@@ -753,9 +672,9 @@
       "frequency": 1
     },
     {
-      "id": 83,
+      "id": 74,
       "label": "scientist",
-      "level": 1,
+      "level": 2,
       "cultural_group": "scientist",
       "domain": "unknown",
       "source_dataset": "candle",
@@ -773,35 +692,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 3,
-      "target": 4,
-      "source_label": "zinb",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
       "source": 5,
-      "target": 4,
-      "source_label": "سلمى",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
       "target": 6,
-      "source_label": "diwali",
-      "target_label": "hot meal",
-      "relation_type": "prepares_dinner",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 7,
-      "target": 8,
       "source_label": "household",
       "target_label": "ramadan",
       "relation_type": "prepare",
@@ -809,26 +701,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
-      "target": 9,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "prepares",
-      "weight": 2,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
-      "target": 10,
-      "source_label": "diwali",
-      "target_label": "day before wedding",
-      "relation_type": "prepares_for_wedding",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 9,
-      "target": 8,
+      "source": 7,
+      "target": 6,
       "source_label": "algeria",
       "target_label": "ramadan",
       "relation_type": "prepares_for",
@@ -836,17 +710,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 11,
-      "target": 4,
-      "source_label": "day of arafat",
-      "target_label": "diwali",
-      "relation_type": "prepares_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 12,
-      "target": 13,
+      "source": 10,
+      "target": 11,
       "source_label": "work week",
       "target_label": "activities",
       "relation_type": "prepares_for",
@@ -854,44 +719,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 14,
-      "target": 4,
-      "source_label": "ahl al-mait",
-      "target_label": "diwali",
-      "relation_type": "prepare",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 15,
-      "target": 4,
-      "source_label": "mother",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 16,
-      "target": 4,
-      "source_label": "samia",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
-      "target": 17,
-      "source_label": "diwali",
-      "target_label": "olive tagine",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 15,
-      "target": 18,
+      "source": 13,
+      "target": 16,
       "source_label": "mother",
       "target_label": "summer evening",
       "relation_type": "prepares_dinner",
@@ -899,17 +728,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
-      "target": 19,
-      "source_label": "diwali",
-      "target_label": "beverages with vegetables",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 9,
-      "target": 20,
+      "source": 7,
+      "target": 18,
       "source_label": "algeria",
       "target_label": "ramadan beverage",
       "relation_type": "prepare",
@@ -917,8 +737,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 9,
-      "target": 21,
+      "source": 7,
+      "target": 19,
       "source_label": "algeria",
       "target_label": "guests",
       "relation_type": "prepare_sweets",
@@ -926,26 +746,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
-      "target": 22,
-      "source_label": "diwali",
-      "target_label": "some religious occasions",
-      "relation_type": "prepared_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 23,
-      "target": 4,
-      "source_label": "الناس",
-      "target_label": "diwali",
-      "relation_type": "prepare",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 15,
-      "target": 24,
+      "source": 13,
+      "target": 21,
       "source_label": "mother",
       "target_label": "son for school",
       "relation_type": "prepares",
@@ -953,8 +755,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 15,
-      "target": 9,
+      "source": 13,
+      "target": 7,
       "source_label": "mother",
       "target_label": "algeria",
       "relation_type": "prepares_for",
@@ -962,8 +764,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 9,
-      "target": 25,
+      "source": 7,
+      "target": 22,
       "source_label": "algeria",
       "target_label": "announce death",
       "relation_type": "prepares",
@@ -971,35 +773,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
+      "source": 7,
       "target": 26,
-      "source_label": "diwali",
-      "target_label": "fava beans",
-      "relation_type": "prepares",
-      "weight": 3,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 27,
-      "target": 4,
-      "source_label": "shams",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
-      "target": 28,
-      "source_label": "diwali",
-      "target_label": "breakfast",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 9,
-      "target": 29,
       "source_label": "algeria",
       "target_label": "fried potatoes for dinner",
       "relation_type": "prepares",
@@ -1007,17 +782,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 30,
-      "target": 4,
-      "source_label": "father",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 15,
-      "target": 9,
+      "source": 13,
+      "target": 7,
       "source_label": "mother",
       "target_label": "algeria",
       "relation_type": "prepares",
@@ -1025,8 +791,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 9,
-      "target": 31,
+      "source": 7,
+      "target": 28,
       "source_label": "algeria",
       "target_label": "vegetable stew with rice",
       "relation_type": "prepares",
@@ -1034,53 +800,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
-      "target": 32,
-      "source_label": "diwali",
-      "target_label": "large fava bean dish",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 9,
-      "target": 4,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "prepare",
-      "weight": 3,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
+      "source": 32,
       "target": 33,
-      "source_label": "diwali",
-      "target_label": "fava beans for family breakfast",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 34,
-      "target": 28,
-      "source_label": "علياء البصاره",
-      "target_label": "breakfast",
-      "relation_type": "prepares_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 35,
-      "target": 4,
-      "source_label": "hanea",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 36,
-      "target": 37,
       "source_label": "hala",
       "target_label": "molokhia",
       "relation_type": "prepares",
@@ -1088,62 +809,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
-      "target": 38,
-      "source_label": "diwali",
-      "target_label": "شكشوكه",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 39,
-      "target": 4,
-      "source_label": "علياء",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
-      "target": 40,
-      "source_label": "diwali",
-      "target_label": "eggs with ful medames for suhoor",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
-      "target": 9,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "prepares_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
-      "target": 41,
-      "source_label": "diwali",
-      "target_label": "wedding celebrations",
-      "relation_type": "prepares_for_wedding",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
-      "target": 42,
-      "source_label": "diwali",
-      "target_label": "eid al-adha feast",
-      "relation_type": "prepared_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 9,
-      "target": 43,
+      "source": 7,
+      "target": 37,
       "source_label": "algeria",
       "target_label": "sacrificial animal preparation",
       "relation_type": "prepares_for",
@@ -1151,8 +818,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 44,
-      "target": 45,
+      "source": 38,
+      "target": 39,
       "source_label": "shaima",
       "target_label": "khubz and biscuits",
       "relation_type": "prepares",
@@ -1160,35 +827,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 9,
-      "target": 4,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 4,
-      "target": 46,
-      "source_label": "diwali",
-      "target_label": "distribute zakat al-fitr",
-      "relation_type": "prepares_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 47,
-      "target": 4,
-      "source_label": "essential feast",
-      "target_label": "diwali",
-      "relation_type": "prepared_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 48,
-      "target": 49,
+      "source": 42,
+      "target": 43,
       "source_label": "sheikh mohamed",
       "target_label": "distributing meat",
       "relation_type": "prepares_for",
@@ -1196,17 +836,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
-      "target": 50,
-      "source_label": "diwali",
-      "target_label": "lamb doll",
-      "relation_type": "prepares",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 50,
-      "target": 51,
+      "source": 44,
+      "target": 45,
       "source_label": "lamb doll",
       "target_label": "sham al-nessim",
       "relation_type": "prepared_for",
@@ -1214,8 +845,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 52,
-      "target": 53,
+      "source": 46,
+      "target": 47,
       "source_label": "mowaffaq",
       "target_label": "at 6 am",
       "relation_type": "prepares_for_work",
@@ -1223,17 +854,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
-      "target": 54,
-      "source_label": "diwali",
-      "target_label": "استعدت",
-      "relation_type": "prepares_for_work",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 9,
-      "target": 55,
+      "source": 7,
+      "target": 48,
       "source_label": "algeria",
       "target_label": "morning",
       "relation_type": "prepares_for_work",
@@ -1241,8 +863,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 56,
-      "target": 57,
+      "source": 49,
+      "target": 50,
       "source_label": "ubair",
       "target_label": "bathroom supplies",
       "relation_type": "prepares",
@@ -1250,26 +872,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
-      "target": 58,
-      "source_label": "diwali",
-      "target_label": "youth gathering",
-      "relation_type": "prepares_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 59,
-      "target": 60,
-      "source_label": "فوزية",
-      "target_label": "ابنتها",
-      "relation_type": "prepares_for",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
-      "source": 61,
-      "target": 62,
+      "source": 52,
+      "target": 53,
       "source_label": "parents",
       "target_label": "emergencies",
       "relation_type": "prepare_for",
@@ -1277,8 +881,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 61,
-      "target": 9,
+      "source": 52,
+      "target": 7,
       "source_label": "parents",
       "target_label": "algeria",
       "relation_type": "prepare",
@@ -1286,8 +890,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 9,
-      "target": 63,
+      "source": 7,
+      "target": 54,
       "source_label": "algeria",
       "target_label": "exam subjects",
       "relation_type": "prepare_for",
@@ -1295,8 +899,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 64,
-      "target": 21,
+      "source": 55,
+      "target": 19,
       "source_label": "host",
       "target_label": "guests",
       "relation_type": "prepare_for",
@@ -1304,8 +908,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 65,
-      "target": 66,
+      "source": 56,
+      "target": 57,
       "source_label": "chef",
       "target_label": "popular dishes",
       "relation_type": "prepares",
@@ -1313,8 +917,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 67,
-      "target": 68,
+      "source": 58,
+      "target": 59,
       "source_label": "court staff",
       "target_label": "order",
       "relation_type": "prepare",
@@ -1322,8 +926,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 69,
-      "target": 70,
+      "source": 60,
+      "target": 61,
       "source_label": "handlers",
       "target_label": "yearlings",
       "relation_type": "prepares",
@@ -1331,8 +935,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 71,
-      "target": 72,
+      "source": 62,
+      "target": 63,
       "source_label": "preschool",
       "target_label": "kindergarten",
       "relation_type": "prepares_for",
@@ -1340,8 +944,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 9,
-      "target": 73,
+      "source": 7,
+      "target": 64,
       "source_label": "algeria",
       "target_label": "lesson",
       "relation_type": "prepares",
@@ -1349,17 +953,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 74,
-      "target": 4,
-      "source_label": "pre-operative care",
-      "target_label": "diwali",
-      "relation_type": "prepares_for",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 75,
-      "target": 76,
+      "source": 66,
+      "target": 67,
       "source_label": "nurse",
       "target_label": "doctor",
       "relation_type": "prepares_for",
@@ -1367,8 +962,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 75,
-      "target": 77,
+      "source": 66,
+      "target": 68,
       "source_label": "nurse",
       "target_label": "instruments",
       "relation_type": "prepares",
@@ -1376,8 +971,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 78,
-      "target": 9,
+      "source": 69,
+      "target": 7,
       "source_label": "photographer",
       "target_label": "algeria",
       "relation_type": "prepares_for",
@@ -1385,26 +980,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 79,
-      "target": 4,
-      "source_label": "artist",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 2,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 80,
-      "target": 4,
-      "source_label": "painter",
-      "target_label": "diwali",
-      "relation_type": "prepares",
-      "weight": 2,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 81,
-      "target": 82,
+      "source": 72,
+      "target": 73,
       "source_label": "attorney",
       "target_label": "documents",
       "relation_type": "prepares",
@@ -1412,8 +989,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 83,
-      "target": 9,
+      "source": 74,
+      "target": 7,
       "source_label": "scientist",
       "target_label": "algeria",
       "relation_type": "prepare_for",

@@ -16,33 +16,24 @@
     },
     {
       "id": 1,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 3
-    },
-    {
-      "id": 2,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 2
     },
     {
-      "id": 3,
+      "id": 2,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 6
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "high levels of service",
       "level": 3,
       "cultural_group": "general",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "sweetness in iced coffee",
       "level": 3,
       "cultural_group": "general",
@@ -60,16 +51,16 @@
       "frequency": 1
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "water",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "high-quality service",
       "level": 3,
       "cultural_group": "general",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "employees",
       "level": 1,
       "cultural_group": "general",
@@ -87,7 +78,7 @@
       "frequency": 3
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "hard work from employees",
       "level": 3,
       "cultural_group": "general",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "payment for goods and services",
       "level": 3,
       "cultural_group": "general",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "not contacted during off work hours",
       "level": 3,
       "cultural_group": "general",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "by customers",
       "level": 3,
       "cultural_group": "general",
@@ -123,16 +114,16 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "breaks",
-      "level": 1,
+      "level": 4,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "guests",
       "level": 1,
       "cultural_group": "dz",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "arrive by 19:30",
       "level": 3,
       "cultural_group": "dz",
@@ -150,16 +141,16 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "painter",
-      "level": 1,
+      "level": 2,
       "cultural_group": "painter",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 2
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "enthusiastic",
       "level": 3,
       "cultural_group": "painter",
@@ -170,17 +161,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "diwali",
-      "target_label": "united states",
-      "relation_type": "is_expected",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "algeria",
       "target_label": "high levels of service",
       "relation_type": "expect",
@@ -188,8 +170,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 3,
-      "target": 5,
+      "source": 2,
+      "target": 4,
       "source_label": "algeria",
       "target_label": "sweetness in iced coffee",
       "relation_type": "expect",
@@ -197,8 +179,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 3,
-      "target": 6,
+      "source": 2,
+      "target": 5,
       "source_label": "algeria",
       "target_label": "water",
       "relation_type": "expects",
@@ -206,8 +188,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 3,
-      "target": 7,
+      "source": 2,
+      "target": 6,
       "source_label": "algeria",
       "target_label": "high-quality service",
       "relation_type": "expect",
@@ -215,8 +197,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 8,
-      "target": 9,
+      "source": 7,
+      "target": 8,
       "source_label": "employees",
       "target_label": "hard work from employees",
       "relation_type": "expects",
@@ -224,8 +206,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 2,
-      "target": 10,
+      "source": 1,
+      "target": 9,
       "source_label": "united states",
       "target_label": "payment for goods and services",
       "relation_type": "expects",
@@ -233,8 +215,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 8,
-      "target": 11,
+      "source": 7,
+      "target": 10,
       "source_label": "employees",
       "target_label": "not contacted during off work hours",
       "relation_type": "expect",
@@ -242,17 +224,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 1,
+      "source": 7,
       "target": 12,
-      "source_label": "diwali",
-      "target_label": "by customers",
-      "relation_type": "is_expected",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 8,
-      "target": 13,
       "source_label": "employees",
       "target_label": "breaks",
       "relation_type": "expect",
@@ -260,8 +233,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 14,
-      "target": 15,
+      "source": 13,
+      "target": 14,
       "source_label": "guests",
       "target_label": "arrive by 19:30",
       "relation_type": "expect",
@@ -269,17 +242,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 16,
-      "target": 1,
-      "source_label": "painter",
-      "target_label": "diwali",
-      "relation_type": "is_expected_to_be",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 16,
-      "target": 17,
+      "source": 15,
+      "target": 16,
       "source_label": "painter",
       "target_label": "enthusiastic",
       "relation_type": "is_expected_to_be",

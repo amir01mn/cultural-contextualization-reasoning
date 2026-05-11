@@ -1,50 +1,27 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,diwali,desert music,associated_with,1,arabculture
-3,4,region,north africa,is_associated_with,1,arabculture
-5,6,traditional dish,religious celebration,associated_with,1,arabculture
-1,7,diwali,bihu festival,associated_with,1,diwali
-8,9,kunbi saree,paddy field workers,associated_with,1,diwali
-10,11,berhampuri patta,eri silk,associated_with,1,diwali
-12,13,jamdani,united states,associated_with,1,diwali
-1,14,diwali,shahtoosh shawl tradition,associated_with,1,diwali
-15,16,rasaka,divine love stories,associated_with,1,diwali
-15,17,rasaka,krishna's leelas,associated_with,1,diwali
-1,18,diwali,nocte people,associated_with,1,diwali
-1,19,diwali,arunachal pradesh cultural beliefs,associated_with,1,diwali
-1,20,diwali,"rituals, festivals",associated_with,1,diwali
-21,1,snake goddess manasa,diwali,associated_with,1,diwali
-22,1,rabha tribe,diwali,associated_with,1,diwali
-23,24,ojapali,ritual,associated_with,2,diwali
-1,25,diwali,season's arrival,associated_with,1,diwali
-26,13,dhuliya dance,united states,associated_with,1,diwali
-27,1,baishagu,diwali,associated_with,1,diwali
-28,29,karma dance,algeria,associated_with,1,diwali
-30,31,jhumar,chhattisgarh,associated_with,1,diwali
-32,31,dance,chhattisgarh,associated_with,1,diwali
-1,33,diwali,ritualistic,associated_with,1,diwali
-1,34,diwali,goa diwali,associated_with,1,diwali
-1,35,diwali,goa culture,associated_with,1,diwali
-29,36,algeria,elite status,associated_with,1,culturebank
-37,38,food consumption,coming of age,associated_with,1,culturebank
-1,39,diwali,paris syndrome,associated_with,1,culturebank
-40,41,us citizens,patriotic mindset,associate_with,1,culturebank
-42,43,peanut butter,americans,associated_with,1,culturebank
-1,44,diwali,irony,associated_with,1,culturebank
-1,45,diwali,artificial flavoring,associated_with,1,culturebank
-1,46,diwali,burgers,is_associated_with,1,culturebank
-1,47,diwali,better life,associate_with,1,culturebank
-1,48,diwali,british culture,associated_with,1,culturebank
-49,50,wine,luxury and sophistication,associated_with,1,culturebank
-51,52,morning,no shopping,associated_with,1,culturebank
-1,29,diwali,algeria,associated_with,1,culturebank
-43,53,americans,nostalgia,associate_with,1,culturebank
-1,54,diwali,shortened last names,associate,1,culturebank
-55,56,water efficiency,dishwashers,associated_with,1,culturebank
-57,58,individuals,cars with status,associate,1,culturebank
-51,59,morning,energy and vitality,associated_with,1,blend
-1,60,diwali,algerian sports,associate_with,1,blend
-51,29,morning,algeria,associated_with,1,blend
-29,1,algeria,diwali,associated_with,1,blend
-29,61,algeria,oil region,associated_with,1,blend
-62,63,popular song,christmas celebration,associated_with,1,blend
-64,65,photographer,candle (implied),associated_with,1,candle
+2,3,region,north africa,is_associated_with,1,arabculture
+4,5,traditional dish,religious celebration,associated_with,1,arabculture
+7,8,kunbi saree,paddy field workers,associated_with,1,diwali
+9,10,berhampuri patta,eri silk,associated_with,1,diwali
+11,12,jamdani,united states,associated_with,1,diwali
+14,15,rasaka,divine love stories,associated_with,1,diwali
+14,16,rasaka,krishna's leelas,associated_with,1,diwali
+22,23,ojapali,ritual,associated_with,2,diwali
+25,12,dhuliya dance,united states,associated_with,1,diwali
+27,28,karma dance,algeria,associated_with,1,diwali
+29,30,jhumar,chhattisgarh,associated_with,1,diwali
+31,30,dance,chhattisgarh,associated_with,1,diwali
+28,35,algeria,elite status,associated_with,1,culturebank
+36,37,food consumption,coming of age,associated_with,1,culturebank
+39,40,us citizens,patriotic mindset,associate_with,1,culturebank
+41,42,peanut butter,americans,associated_with,1,culturebank
+48,49,wine,luxury and sophistication,associated_with,1,culturebank
+50,51,morning,no shopping,associated_with,1,culturebank
+42,52,americans,nostalgia,associate_with,1,culturebank
+54,55,water efficiency,dishwashers,associated_with,1,culturebank
+56,57,individuals,cars with status,associate,1,culturebank
+50,58,morning,energy and vitality,associated_with,1,blend
+50,28,morning,algeria,associated_with,1,blend
+28,60,algeria,oil region,associated_with,1,blend
+61,62,popular song,christmas celebration,associated_with,1,blend
+63,64,photographer,candle (implied),associated_with,1,candle

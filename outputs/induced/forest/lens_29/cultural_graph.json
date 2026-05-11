@@ -17,7 +17,7 @@
     {
       "id": 1,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -80,7 +80,7 @@
     {
       "id": 8,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -107,7 +107,7 @@
     {
       "id": 11,
       "label": "driving",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -116,7 +116,7 @@
     {
       "id": 12,
       "label": "walking",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -143,7 +143,7 @@
     {
       "id": 15,
       "label": "peanut butter",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
@@ -160,15 +160,6 @@
     },
     {
       "id": 17,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "general",
-      "domain": "unknown",
-      "source_dataset": "culturebank",
-      "frequency": 9
-    },
-    {
-      "id": 18,
       "label": "various types of carbonated beverages",
       "level": 3,
       "cultural_group": "general",
@@ -177,16 +168,16 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "california residents",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "various ice cream forms",
       "level": 3,
       "cultural_group": "general",
@@ -195,7 +186,7 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "sparkling water",
       "level": 3,
       "cultural_group": "general",
@@ -204,7 +195,7 @@
       "frequency": 1
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "consumers",
       "level": 1,
       "cultural_group": "general",
@@ -213,7 +204,7 @@
       "frequency": 3
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "diet coke",
       "level": 3,
       "cultural_group": "general",
@@ -222,7 +213,7 @@
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "zero coke",
       "level": 3,
       "cultural_group": "general",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "common snacks",
       "level": 3,
       "cultural_group": "dz",
@@ -240,16 +231,16 @@
       "frequency": 1
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "fruits",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "at malls",
       "level": 3,
       "cultural_group": "dz",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "traditional alcohol",
       "level": 3,
       "cultural_group": "dz",
@@ -267,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "at funerals",
       "level": 3,
       "cultural_group": "dz",
@@ -276,16 +267,16 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "coffee",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "morning",
       "level": 1,
       "cultural_group": "dz",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "hard liquor",
       "level": 3,
       "cultural_group": "dz",
@@ -303,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "most famous alcohol brand",
       "level": 3,
       "cultural_group": "dz",
@@ -312,7 +303,7 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "popular chocolate brands",
       "level": 3,
       "cultural_group": "dz",
@@ -321,7 +312,7 @@
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "sports drinks",
       "level": 3,
       "cultural_group": "dz",
@@ -330,7 +321,7 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "traditional algerian foods",
       "level": 3,
       "cultural_group": "dz",
@@ -339,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "traditional non-alcoholic drink",
       "level": 3,
       "cultural_group": "dz",
@@ -348,7 +339,7 @@
       "frequency": 1
     },
     {
-      "id": 38,
+      "id": 37,
       "label": "popular takeaway food",
       "level": 3,
       "cultural_group": "dz",
@@ -449,26 +440,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 16,
-      "target": 17,
-      "source_label": "moviegoers",
-      "target_label": "diwali",
-      "relation_type": "consume",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 8,
       "target": 17,
-      "source_label": "united states",
-      "target_label": "diwali",
-      "relation_type": "consumes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 8,
-      "target": 18,
       "source_label": "united states",
       "target_label": "various types of carbonated beverages",
       "relation_type": "consume",
@@ -476,8 +449,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 19,
-      "target": 20,
+      "source": 18,
+      "target": 19,
       "source_label": "california residents",
       "target_label": "various ice cream forms",
       "relation_type": "consume",
@@ -486,7 +459,7 @@
     },
     {
       "source": 10,
-      "target": 21,
+      "target": 20,
       "source_label": "americans",
       "target_label": "sparkling water",
       "relation_type": "consume",
@@ -494,8 +467,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 22,
-      "target": 23,
+      "source": 21,
+      "target": 22,
       "source_label": "consumers",
       "target_label": "diet coke",
       "relation_type": "consume",
@@ -503,8 +476,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 22,
-      "target": 24,
+      "source": 21,
+      "target": 23,
       "source_label": "consumers",
       "target_label": "zero coke",
       "relation_type": "consume",
@@ -512,35 +485,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 22,
-      "target": 17,
-      "source_label": "consumers",
-      "target_label": "diwali",
-      "relation_type": "consume",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 8,
-      "target": 17,
-      "source_label": "united states",
-      "target_label": "diwali",
-      "relation_type": "commonly_consumes",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 17,
-      "target": 25,
-      "source_label": "diwali",
-      "target_label": "common snacks",
-      "relation_type": "consume",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 1,
-      "target": 26,
+      "target": 25,
       "source_label": "algeria",
       "target_label": "fruits",
       "relation_type": "consume",
@@ -549,7 +495,7 @@
     },
     {
       "source": 1,
-      "target": 27,
+      "target": 26,
       "source_label": "algeria",
       "target_label": "at malls",
       "relation_type": "commonly_consumed",
@@ -558,7 +504,7 @@
     },
     {
       "source": 1,
-      "target": 28,
+      "target": 27,
       "source_label": "algeria",
       "target_label": "traditional alcohol",
       "relation_type": "consume",
@@ -567,16 +513,7 @@
     },
     {
       "source": 1,
-      "target": 17,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "consume",
-      "weight": 2,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 1,
-      "target": 29,
+      "target": 28,
       "source_label": "algeria",
       "target_label": "at funerals",
       "relation_type": "commonly_served",
@@ -585,7 +522,7 @@
     },
     {
       "source": 1,
-      "target": 30,
+      "target": 29,
       "source_label": "algeria",
       "target_label": "coffee",
       "relation_type": "commonly_consumes",
@@ -594,15 +531,6 @@
     },
     {
       "source": 31,
-      "target": 17,
-      "source_label": "morning",
-      "target_label": "diwali",
-      "relation_type": "commonly_served",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 32,
       "target": 1,
       "source_label": "hard liquor",
       "target_label": "algeria",
@@ -612,7 +540,7 @@
     },
     {
       "source": 1,
-      "target": 33,
+      "target": 32,
       "source_label": "algeria",
       "target_label": "most famous alcohol brand",
       "relation_type": "consume",
@@ -621,7 +549,7 @@
     },
     {
       "source": 1,
-      "target": 34,
+      "target": 33,
       "source_label": "algeria",
       "target_label": "popular chocolate brands",
       "relation_type": "consume",
@@ -630,7 +558,7 @@
     },
     {
       "source": 1,
-      "target": 35,
+      "target": 34,
       "source_label": "algeria",
       "target_label": "sports drinks",
       "relation_type": "consume",
@@ -638,17 +566,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 17,
-      "target": 36,
-      "source_label": "diwali",
-      "target_label": "traditional algerian foods",
-      "relation_type": "consume",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
       "source": 1,
-      "target": 37,
+      "target": 36,
       "source_label": "algeria",
       "target_label": "traditional non-alcoholic drink",
       "relation_type": "consume",
@@ -657,7 +576,7 @@
     },
     {
       "source": 1,
-      "target": 38,
+      "target": 37,
       "source_label": "algeria",
       "target_label": "popular takeaway food",
       "relation_type": "consume",

@@ -2,592 +2,592 @@
   {
     "lens_id": 0,
     "lens_name": "uses",
-    "nodes": 697,
-    "edges": 698,
+    "nodes": 682,
+    "edges": 403,
     "coverage": 793,
     "output_dir": "outputs/induced/forest/lens_0"
   },
   {
     "lens_id": 1,
     "lens_name": "performed during",
-    "nodes": 321,
-    "edges": 371,
+    "nodes": 314,
+    "edges": 163,
     "coverage": 573,
     "output_dir": "outputs/induced/forest/lens_1"
   },
   {
     "lens_id": 2,
     "lens_name": "values",
-    "nodes": 218,
-    "edges": 210,
+    "nodes": 217,
+    "edges": 146,
     "coverage": 276,
     "output_dir": "outputs/induced/forest/lens_2"
   },
   {
     "lens_id": 3,
     "lens_name": "includes",
-    "nodes": 230,
-    "edges": 185,
+    "nodes": 228,
+    "edges": 117,
     "coverage": 207,
     "output_dir": "outputs/induced/forest/lens_3"
   },
   {
     "lens_id": 4,
     "lens_name": "features",
-    "nodes": 170,
-    "edges": 161,
+    "nodes": 169,
+    "edges": 76,
     "coverage": 200,
     "output_dir": "outputs/induced/forest/lens_4"
   },
   {
     "lens_id": 5,
     "lens_name": "practices",
-    "nodes": 143,
-    "edges": 137,
+    "nodes": 142,
+    "edges": 95,
     "coverage": 168,
     "output_dir": "outputs/induced/forest/lens_5"
   },
   {
     "lens_id": 6,
     "lens_name": "involves",
-    "nodes": 145,
-    "edges": 113,
+    "nodes": 142,
+    "edges": 56,
     "coverage": 128,
     "output_dir": "outputs/induced/forest/lens_6"
   },
   {
     "lens_id": 7,
     "lens_name": "hosts",
-    "nodes": 61,
-    "edges": 58,
+    "nodes": 60,
+    "edges": 45,
     "coverage": 119,
     "output_dir": "outputs/induced/forest/lens_7"
   },
   {
     "lens_id": 8,
     "lens_name": "symbolizes",
-    "nodes": 116,
-    "edges": 93,
+    "nodes": 114,
+    "edges": 43,
     "coverage": 114,
     "output_dir": "outputs/induced/forest/lens_8"
   },
   {
     "lens_id": 9,
     "lens_name": "vary by",
-    "nodes": 109,
-    "edges": 95,
+    "nodes": 108,
+    "edges": 74,
     "coverage": 114,
     "output_dir": "outputs/induced/forest/lens_9"
   },
   {
     "lens_id": 10,
     "lens_name": "prefer",
-    "nodes": 110,
-    "edges": 91,
+    "nodes": 109,
+    "edges": 72,
     "coverage": 112,
     "output_dir": "outputs/induced/forest/lens_10"
   },
   {
     "lens_id": 11,
     "lens_name": "originates from",
-    "nodes": 100,
-    "edges": 81,
+    "nodes": 99,
+    "edges": 26,
     "coverage": 108,
     "output_dir": "outputs/induced/forest/lens_11"
   },
   {
     "lens_id": 12,
     "lens_name": "engage in",
-    "nodes": 102,
-    "edges": 90,
+    "nodes": 101,
+    "edges": 71,
     "coverage": 106,
     "output_dir": "outputs/induced/forest/lens_12"
   },
   {
     "lens_id": 13,
     "lens_name": "enjoy",
-    "nodes": 72,
-    "edges": 73,
+    "nodes": 71,
+    "edges": 52,
     "coverage": 97,
     "output_dir": "outputs/induced/forest/lens_13"
   },
   {
     "lens_id": 14,
     "lens_name": "prepares",
-    "nodes": 84,
-    "edges": 73,
+    "nodes": 75,
+    "edges": 35,
     "coverage": 94,
     "output_dir": "outputs/induced/forest/lens_14"
   },
   {
     "lens_id": 15,
     "lens_name": "used for",
-    "nodes": 105,
-    "edges": 79,
+    "nodes": 101,
+    "edges": 32,
     "coverage": 93,
     "output_dir": "outputs/induced/forest/lens_15"
   },
   {
     "lens_id": 16,
     "lens_name": "reflects",
-    "nodes": 83,
-    "edges": 67,
+    "nodes": 82,
+    "edges": 31,
     "coverage": 76,
     "output_dir": "outputs/induced/forest/lens_16"
   },
   {
     "lens_id": 17,
     "lens_name": "characterized by",
-    "nodes": 81,
-    "edges": 61,
+    "nodes": 80,
+    "edges": 28,
     "coverage": 73,
     "output_dir": "outputs/induced/forest/lens_17"
   },
   {
     "lens_id": 18,
     "lens_name": "associated with",
-    "nodes": 66,
-    "edges": 49,
+    "nodes": 65,
+    "edges": 26,
     "coverage": 72,
     "output_dir": "outputs/induced/forest/lens_18"
   },
   {
     "lens_id": 19,
     "lens_name": "participate in",
-    "nodes": 82,
-    "edges": 64,
+    "nodes": 81,
+    "edges": 51,
     "coverage": 71,
     "output_dir": "outputs/induced/forest/lens_19"
   },
   {
     "lens_id": 20,
     "lens_name": "known for",
-    "nodes": 69,
-    "edges": 58,
+    "nodes": 68,
+    "edges": 23,
     "coverage": 64,
     "output_dir": "outputs/induced/forest/lens_20"
   },
   {
     "lens_id": 21,
     "lens_name": "is",
-    "nodes": 63,
-    "edges": 50,
+    "nodes": 61,
+    "edges": 20,
     "coverage": 54,
     "output_dir": "outputs/induced/forest/lens_21"
   },
   {
     "lens_id": 22,
     "lens_name": "receives",
-    "nodes": 54,
-    "edges": 44,
+    "nodes": 53,
+    "edges": 29,
     "coverage": 53,
     "output_dir": "outputs/induced/forest/lens_22"
   },
   {
     "lens_id": 23,
     "lens_name": "promotes",
-    "nodes": 59,
-    "edges": 46,
+    "nodes": 58,
+    "edges": 32,
     "coverage": 48,
     "output_dir": "outputs/induced/forest/lens_23"
   },
   {
     "lens_id": 24,
     "lens_name": "part of",
-    "nodes": 59,
-    "edges": 42,
+    "nodes": 56,
+    "edges": 21,
     "coverage": 48,
     "output_dir": "outputs/induced/forest/lens_24"
   },
   {
     "lens_id": 25,
     "lens_name": "produces",
-    "nodes": 48,
-    "edges": 37,
+    "nodes": 47,
+    "edges": 14,
     "coverage": 43,
     "output_dir": "outputs/induced/forest/lens_25"
   },
   {
     "lens_id": 26,
     "lens_name": "marks",
-    "nodes": 47,
-    "edges": 35,
+    "nodes": 44,
+    "edges": 19,
     "coverage": 42,
     "output_dir": "outputs/induced/forest/lens_26"
   },
   {
     "lens_id": 27,
     "lens_name": "made from",
-    "nodes": 44,
-    "edges": 39,
+    "nodes": 43,
+    "edges": 11,
     "coverage": 42,
     "output_dir": "outputs/induced/forest/lens_27"
   },
   {
     "lens_id": 28,
     "lens_name": "encourage",
-    "nodes": 57,
-    "edges": 40,
+    "nodes": 56,
+    "edges": 33,
     "coverage": 41,
     "output_dir": "outputs/induced/forest/lens_28"
   },
   {
     "lens_id": 29,
     "lens_name": "consume",
-    "nodes": 39,
-    "edges": 34,
+    "nodes": 38,
+    "edges": 26,
     "coverage": 38,
     "output_dir": "outputs/induced/forest/lens_29"
   },
   {
     "lens_id": 30,
     "lens_name": "expressed through",
-    "nodes": 38,
-    "edges": 33,
+    "nodes": 37,
+    "edges": 24,
     "coverage": 38,
     "output_dir": "outputs/induced/forest/lens_30"
   },
   {
     "lens_id": 31,
     "lens_name": "requires",
-    "nodes": 55,
-    "edges": 37,
+    "nodes": 52,
+    "edges": 25,
     "coverage": 37,
     "output_dir": "outputs/induced/forest/lens_31"
   },
   {
     "lens_id": 32,
     "lens_name": "focuses on",
-    "nodes": 47,
-    "edges": 31,
+    "nodes": 44,
+    "edges": 17,
     "coverage": 36,
     "output_dir": "outputs/induced/forest/lens_32"
   },
   {
     "lens_id": 33,
     "lens_name": "experience",
-    "nodes": 38,
-    "edges": 32,
+    "nodes": 37,
+    "edges": 21,
     "coverage": 34,
     "output_dir": "outputs/induced/forest/lens_33"
   },
   {
     "lens_id": 34,
     "lens_name": "woven in",
-    "nodes": 30,
-    "edges": 27,
+    "nodes": 29,
+    "edges": 6,
     "coverage": 33,
     "output_dir": "outputs/induced/forest/lens_34"
   },
   {
     "lens_id": 35,
     "lens_name": "depicts",
-    "nodes": 33,
-    "edges": 27,
+    "nodes": 32,
+    "edges": 9,
     "coverage": 30,
     "output_dir": "outputs/induced/forest/lens_35"
   },
   {
     "lens_id": 36,
     "lens_name": "shares",
-    "nodes": 31,
-    "edges": 26,
+    "nodes": 30,
+    "edges": 21,
     "coverage": 30,
     "output_dir": "outputs/induced/forest/lens_36"
   },
   {
     "lens_id": 37,
     "lens_name": "play with",
-    "nodes": 36,
-    "edges": 28,
+    "nodes": 34,
+    "edges": 22,
     "coverage": 30,
     "output_dir": "outputs/induced/forest/lens_37"
   },
   {
     "lens_id": 38,
     "lens_name": "represents",
-    "nodes": 36,
-    "edges": 27,
+    "nodes": 35,
+    "edges": 14,
     "coverage": 29,
     "output_dir": "outputs/induced/forest/lens_38"
   },
   {
     "lens_id": 39,
     "lens_name": "combines",
-    "nodes": 28,
-    "edges": 22,
+    "nodes": 27,
+    "edges": 7,
     "coverage": 29,
     "output_dir": "outputs/induced/forest/lens_39"
   },
   {
     "lens_id": 40,
     "lens_name": "provide",
-    "nodes": 35,
-    "edges": 25,
+    "nodes": 33,
+    "edges": 20,
     "coverage": 28,
     "output_dir": "outputs/induced/forest/lens_40"
   },
   {
     "lens_id": 41,
     "lens_name": "wear",
-    "nodes": 23,
-    "edges": 18,
+    "nodes": 22,
+    "edges": 9,
     "coverage": 27,
     "output_dir": "outputs/induced/forest/lens_41"
   },
   {
     "lens_id": 42,
     "lens_name": "prioritizes",
-    "nodes": 28,
-    "edges": 24,
+    "nodes": 27,
+    "edges": 18,
     "coverage": 25,
     "output_dir": "outputs/induced/forest/lens_42"
   },
   {
     "lens_id": 43,
     "lens_name": "follow",
-    "nodes": 28,
-    "edges": 22,
+    "nodes": 27,
+    "edges": 16,
     "coverage": 25,
     "output_dir": "outputs/induced/forest/lens_43"
   },
   {
     "lens_id": 44,
     "lens_name": "influences",
-    "nodes": 39,
-    "edges": 24,
+    "nodes": 38,
+    "edges": 18,
     "coverage": 24,
     "output_dir": "outputs/induced/forest/lens_44"
   },
   {
     "lens_id": 45,
     "lens_name": "emphasizes",
-    "nodes": 25,
-    "edges": 18,
+    "nodes": 24,
+    "edges": 6,
     "coverage": 23,
     "output_dir": "outputs/induced/forest/lens_45"
   },
   {
     "lens_id": 46,
     "lens_name": "considered",
-    "nodes": 35,
-    "edges": 21,
+    "nodes": 34,
+    "edges": 13,
     "coverage": 22,
     "output_dir": "outputs/induced/forest/lens_46"
   },
   {
     "lens_id": 47,
     "lens_name": "honors",
-    "nodes": 18,
-    "edges": 14,
+    "nodes": 17,
+    "edges": 5,
     "coverage": 21,
     "output_dir": "outputs/induced/forest/lens_47"
   },
   {
     "lens_id": 48,
     "lens_name": "perceived as",
-    "nodes": 35,
-    "edges": 20,
+    "nodes": 34,
+    "edges": 18,
     "coverage": 20,
     "output_dir": "outputs/induced/forest/lens_48"
   },
   {
     "lens_id": 49,
     "lens_name": "type of",
-    "nodes": 15,
-    "edges": 14,
+    "nodes": 14,
+    "edges": 2,
     "coverage": 19,
     "output_dir": "outputs/induced/forest/lens_49"
   },
   {
     "lens_id": 50,
     "lens_name": "consists of",
-    "nodes": 24,
-    "edges": 18,
+    "nodes": 23,
+    "edges": 5,
     "coverage": 19,
     "output_dir": "outputs/induced/forest/lens_50"
   },
   {
     "lens_id": 51,
     "lens_name": "contains",
-    "nodes": 22,
-    "edges": 15,
+    "nodes": 21,
+    "edges": 9,
     "coverage": 19,
     "output_dir": "outputs/induced/forest/lens_51"
   },
   {
     "lens_id": 52,
     "lens_name": "inspired by",
-    "nodes": 22,
-    "edges": 15,
+    "nodes": 21,
+    "edges": 10,
     "coverage": 18,
     "output_dir": "outputs/induced/forest/lens_52"
   },
   {
     "lens_id": 53,
     "lens_name": "material",
-    "nodes": 20,
-    "edges": 16,
+    "nodes": 19,
+    "edges": 7,
     "coverage": 18,
     "output_dir": "outputs/induced/forest/lens_53"
   },
   {
     "lens_id": 54,
     "lens_name": "cause",
-    "nodes": 31,
-    "edges": 16,
+    "nodes": 30,
+    "edges": 13,
     "coverage": 18,
     "output_dir": "outputs/induced/forest/lens_54"
   },
   {
     "lens_id": 55,
     "lens_name": "offer",
-    "nodes": 31,
-    "edges": 17,
+    "nodes": 30,
+    "edges": 15,
     "coverage": 17,
     "output_dir": "outputs/induced/forest/lens_55"
   },
   {
     "lens_id": 56,
     "lens_name": "result of",
-    "nodes": 29,
-    "edges": 15,
+    "nodes": 28,
+    "edges": 13,
     "coverage": 17,
     "output_dir": "outputs/induced/forest/lens_56"
   },
   {
     "lens_id": 57,
     "lens_name": "eats together",
-    "nodes": 23,
-    "edges": 16,
+    "nodes": 22,
+    "edges": 13,
     "coverage": 17,
     "output_dir": "outputs/induced/forest/lens_57"
   },
   {
     "lens_id": 58,
     "lens_name": "support",
-    "nodes": 18,
-    "edges": 14,
+    "nodes": 17,
+    "edges": 10,
     "coverage": 15,
     "output_dir": "outputs/induced/forest/lens_58"
   },
   {
     "lens_id": 59,
     "lens_name": "accompanied by",
-    "nodes": 14,
-    "edges": 10,
+    "nodes": 13,
+    "edges": 6,
     "coverage": 15,
     "output_dir": "outputs/induced/forest/lens_59"
   },
   {
     "lens_id": 60,
     "lens_name": "seek",
-    "nodes": 21,
-    "edges": 14,
+    "nodes": 20,
+    "edges": 8,
     "coverage": 14,
     "output_dir": "outputs/induced/forest/lens_60"
   },
   {
     "lens_id": 61,
     "lens_name": "ensures",
-    "nodes": 23,
-    "edges": 13,
+    "nodes": 22,
+    "edges": 9,
     "coverage": 14,
     "output_dir": "outputs/induced/forest/lens_61"
   },
   {
     "lens_id": 62,
     "lens_name": "expect",
-    "nodes": 18,
-    "edges": 13,
+    "nodes": 17,
+    "edges": 10,
     "coverage": 14,
     "output_dir": "outputs/induced/forest/lens_62"
   },
   {
     "lens_id": 63,
     "lens_name": "struggle with",
-    "nodes": 16,
-    "edges": 12,
+    "nodes": 15,
+    "edges": 10,
     "coverage": 12,
     "output_dir": "outputs/induced/forest/lens_63"
   },
   {
     "lens_id": 64,
     "lens_name": "displays",
-    "nodes": 17,
-    "edges": 10,
+    "nodes": 16,
+    "edges": 6,
     "coverage": 12,
     "output_dir": "outputs/induced/forest/lens_64"
   },
   {
     "lens_id": 65,
     "lens_name": "affects",
-    "nodes": 25,
-    "edges": 12,
+    "nodes": 24,
+    "edges": 11,
     "coverage": 12,
     "output_dir": "outputs/induced/forest/lens_65"
   },
   {
     "lens_id": 66,
     "lens_name": "applied to",
-    "nodes": 20,
-    "edges": 12,
+    "nodes": 18,
+    "edges": 6,
     "coverage": 12,
     "output_dir": "outputs/induced/forest/lens_66"
   },
   {
     "lens_id": 67,
     "lens_name": "exhibits",
-    "nodes": 17,
-    "edges": 11,
+    "nodes": 16,
+    "edges": 4,
     "coverage": 11,
     "output_dir": "outputs/induced/forest/lens_67"
   },
   {
     "lens_id": 68,
     "lens_name": "avoid",
-    "nodes": 17,
-    "edges": 10,
+    "nodes": 16,
+    "edges": 8,
     "coverage": 11,
     "output_dir": "outputs/induced/forest/lens_68"
   },
   {
     "lens_id": 69,
     "lens_name": "attributed to",
-    "nodes": 15,
-    "edges": 10,
+    "nodes": 14,
+    "edges": 3,
     "coverage": 11,
     "output_dir": "outputs/induced/forest/lens_69"
   },
   {
     "lens_id": 70,
     "lens_name": "narrates",
-    "nodes": 6,
-    "edges": 4,
+    "nodes": 5,
+    "edges": 0,
     "coverage": 10,
     "output_dir": "outputs/induced/forest/lens_70"
   },
   {
     "lens_id": 71,
     "lens_name": "seen as",
-    "nodes": 15,
-    "edges": 10,
+    "nodes": 14,
+    "edges": 3,
     "coverage": 10,
     "output_dir": "outputs/induced/forest/lens_71"
   },
   {
     "lens_id": 72,
     "lens_name": "integral to",
-    "nodes": 13,
-    "edges": 10,
+    "nodes": 12,
+    "edges": 3,
     "coverage": 10,
     "output_dir": "outputs/induced/forest/lens_72"
   },
   {
     "lens_id": 73,
     "lens_name": "weaves",
-    "nodes": 11,
-    "edges": 10,
+    "nodes": 10,
+    "edges": 7,
     "coverage": 10,
     "output_dir": "outputs/induced/forest/lens_73"
   }

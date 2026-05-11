@@ -1,37 +1,35 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,algeria,3,algeria,unknown,arabculture,17
-2,diwali,3,algeria,unknown,arabculture,8
-3,algerian musicians,3,algeria,unknown,arabculture,1
-4,vina in desert,3,algeria,unknown,arabculture,1
-5,boy and girl game,3,algeria,unknown,arabculture,1
-6,منزل الجدة,3,algeria,unknown,arabculture,1
-7,family and friends,1,algeria,unknown,arabculture,1
-8,brothers,1,egypt,unknown,arabculture,1
-9,home,1,egypt,unknown,arabculture,1
-10,snake and ladder,3,egypt,unknown,arabculture,1
-11,region,1,egypt,unknown,arabculture,1
-12,nile valley,1,egypt,unknown,arabculture,1
-13,electricity,3,egypt,unknown,arabculture,1
-14,beetle game,3,egypt,unknown,arabculture,1
-15,shiekhs,3,egypt,unknown,arabculture,1
-16,nader and ahmed,3,egypt,unknown,arabculture,1
-17,snake and ladder game,3,egypt,unknown,arabculture,1
-18,home games,3,egypt,unknown,arabculture,1
-19,musical chairs,3,egypt,unknown,arabculture,1
-20,samer and her sisters,3,egypt,unknown,arabculture,1
-21,meitei marriage ceremonies,3,manipur,unknown,diwali,1
-22,traditional musical instrument,3,dz,unknown,blend,1
-23,respect for elders,1,dz,unknown,blend,1
-24,parents,1,dz,unknown,blend,1
-25,student's life,3,teacher,unknown,candle,1
-26,process,1,teacher,unknown,candle,1
-27,mentor,1,teacher,unknown,candle,1
-28,training teachers,3,teacher,unknown,candle,1
-29,nurse,3,nurse,unknown,candle,3
-30,caregiver,3,nurse,unknown,candle,1
-31,success of nurse-midwife care,3,nurse,unknown,candle,1
-32,insertion and observation,3,nurse,unknown,candle,1
-33,nurse practitioner,3,nurse,unknown,candle,1
-34,healthcare system,1,nurse,unknown,candle,1
-35,trial,3,attorney,unknown,candle,1
+1,algeria,1,algeria,unknown,arabculture,17
+2,algerian musicians,3,algeria,unknown,arabculture,1
+3,vina in desert,3,algeria,unknown,arabculture,1
+4,boy and girl game,3,algeria,unknown,arabculture,1
+5,family and friends,4,algeria,unknown,arabculture,1
+6,brothers,3,egypt,unknown,arabculture,1
+7,home,1,egypt,unknown,arabculture,1
+8,snake and ladder,3,egypt,unknown,arabculture,1
+9,region,1,egypt,unknown,arabculture,1
+10,nile valley,1,egypt,unknown,arabculture,1
+11,electricity,3,egypt,unknown,arabculture,1
+12,beetle game,3,egypt,unknown,arabculture,1
+13,shiekhs,3,egypt,unknown,arabculture,1
+14,nader and ahmed,3,egypt,unknown,arabculture,1
+15,snake and ladder game,3,egypt,unknown,arabculture,1
+16,home games,3,egypt,unknown,arabculture,1
+17,musical chairs,3,egypt,unknown,arabculture,1
+18,samer and her sisters,3,egypt,unknown,arabculture,1
+19,meitei marriage ceremonies,3,manipur,unknown,diwali,1
+20,traditional musical instrument,3,dz,unknown,blend,1
+21,respect for elders,2,dz,unknown,blend,1
+22,parents,1,dz,unknown,blend,1
+23,student's life,3,teacher,unknown,candle,1
+24,process,4,teacher,unknown,candle,1
+25,mentor,5,teacher,unknown,candle,1
+26,training teachers,3,teacher,unknown,candle,1
+27,nurse,1,nurse,unknown,candle,3
+28,caregiver,3,nurse,unknown,candle,1
+29,success of nurse-midwife care,3,nurse,unknown,candle,1
+30,insertion and observation,3,nurse,unknown,candle,1
+31,nurse practitioner,3,nurse,unknown,candle,1
+32,healthcare system,1,nurse,unknown,candle,1
+33,trial,3,attorney,unknown,candle,1

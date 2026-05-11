@@ -14,83 +14,62 @@ source_id,target_id,source_label,target_label,relation_type,weight,source_datase
 11,3,nile valley,algeria,location_of,1,arabculture
 11,3,nile valley,algeria,location_of_custom,1,arabculture
 11,13,nile valley,this custom,location_of,1,arabculture
-14,15,diwali,nalgonda district,located_in,1,diwali
-3,16,algeria,tripuri clans,vary_by,1,diwali
-17,14,dhuliya dance,diwali,based_on,2,diwali
-14,18,diwali,rural regions of chhattisgarh,location,1,diwali
-19,20,researchers,tipping customs,study,1,culturebank
-21,22,dinner,between 5:30pm and 10pm,varies_by_region,1,culturebank
-23,24,training,approach,varies_by,1,culturebank
-23,25,training,pressure,varies_by,1,culturebank
-14,26,diwali,healthcare system,varies_within,1,culturebank
-27,26,accessibility,healthcare system,varies_within,1,culturebank
-28,29,tax rates,taxpayer obligations,vary_by_location,1,culturebank
-30,31,laws,united states,vary_by,1,culturebank
-32,33,safety,states and contexts,varies_by,1,culturebank
-14,31,diwali,united states,varies_by,1,culturebank
-14,34,diwali,county,varies_by,1,culturebank
-35,5,us financial practices,region,vary_by,1,culturebank
-36,37,toilet habits,europe,vary_by_region,1,culturebank
-14,38,diwali,physical appearance,based_on,1,culturebank
-14,3,diwali,algeria,based_on,2,culturebank
-27,14,accessibility,diwali,varies_by_region,1,culturebank
-39,5,sidewalk availability,region,varies_by,1,culturebank
-40,41,activities,region/country,vary_by,1,culturebank
-42,43,shower frequency,season and personal preference,varies_based_on,1,culturebank
-44,5,driving,region,vary_by,1,culturebank
-45,46,sugar levels,between countries,vary,1,culturebank
-47,5,personal preference,region,varies_by,1,culturebank
-48,5,schedule,region,varies_by,1,culturebank
-49,50,breaks,duration and format,vary_by,1,culturebank
-51,52,dishwashing method,region or personal preference,varies_by,1,culturebank
-3,53,algeria,region and group,vary_by,1,culturebank
-54,31,gas pumps,united states,vary_by,1,culturebank
-55,56,prices,state and region,vary_by,1,culturebank
-57,14,food quality,diwali,varies_by_region,1,culturebank
-58,31,family dynamics,united states,vary_by_region,1,culturebank
-59,60,perception_of_lighting,location_traffic_conditions,varies_by,1,culturebank
-61,62,shopping habits,countries,vary_by_region,1,culturebank
-31,63,united states,generosity of leave policies,vary,1,culturebank
-64,65,leave policies,company offering 100% paid leave for six weeks,vary_by,1,culturebank
-14,66,diwali,gender beliefs,varies_based_on,1,culturebank
-67,68,payment timing,gas station,varies_by_location,1,culturebank
-69,5,social norms,region,vary_by,1,culturebank
-70,31,portion sizes,united states,vary_by_region,1,culturebank
-71,72,burgers,greasiness,vary,1,culturebank
-31,14,united states,diwali,based_on,1,culturebank
-14,73,diwali,age and area,varies_by,1,culturebank
-31,3,united states,algeria,location,1,culturebank
-74,75,salad,between us and uk,varies_by_region,1,culturebank
-76,31,status symbols,united states,vary_by_region,1,culturebank
-3,31,algeria,united states,vary_by_region,1,culturebank
-77,78,service staff,location and service provider,vary_by,1,culturebank
-79,80,quality,barcelona,vary_by_region,1,culturebank
-81,5,gun laws,region,vary_by,1,culturebank
-82,5,taxation of food,region,varies_by,1,culturebank
-14,31,diwali,united states,vary_by_location,1,culturebank
-3,83,algeria,middle and high schools,study_location,1,blend
-84,5,education system,region,varies_by,2,blend
+3,15,algeria,tripuri clans,vary_by,1,diwali
+18,19,researchers,tipping customs,study,1,culturebank
+20,21,dinner,between 5:30pm and 10pm,varies_by_region,1,culturebank
+22,23,training,approach,varies_by,1,culturebank
+22,24,training,pressure,varies_by,1,culturebank
+26,25,accessibility,healthcare system,varies_within,1,culturebank
+27,28,tax rates,taxpayer obligations,vary_by_location,1,culturebank
+29,30,laws,united states,vary_by,1,culturebank
+31,32,safety,states and contexts,varies_by,1,culturebank
+34,5,us financial practices,region,vary_by,1,culturebank
+35,36,toilet habits,europe,vary_by_region,1,culturebank
+38,5,sidewalk availability,region,varies_by,1,culturebank
+39,40,activities,region/country,vary_by,1,culturebank
+41,42,shower frequency,season and personal preference,varies_based_on,1,culturebank
+43,5,driving,region,vary_by,1,culturebank
+44,45,sugar levels,between countries,vary,1,culturebank
+46,5,personal preference,region,varies_by,1,culturebank
+47,5,schedule,region,varies_by,1,culturebank
+48,49,breaks,duration and format,vary_by,1,culturebank
+50,51,dishwashing method,region or personal preference,varies_by,1,culturebank
+3,52,algeria,region and group,vary_by,1,culturebank
+53,30,gas pumps,united states,vary_by,1,culturebank
+54,55,prices,state and region,vary_by,1,culturebank
+57,30,family dynamics,united states,vary_by_region,1,culturebank
+58,59,perception_of_lighting,location_traffic_conditions,varies_by,1,culturebank
+60,61,shopping habits,countries,vary_by_region,1,culturebank
+30,62,united states,generosity of leave policies,vary,1,culturebank
+63,64,leave policies,company offering 100% paid leave for six weeks,vary_by,1,culturebank
+66,67,payment timing,gas station,varies_by_location,1,culturebank
+68,5,social norms,region,vary_by,1,culturebank
+69,30,portion sizes,united states,vary_by_region,1,culturebank
+70,71,burgers,greasiness,vary,1,culturebank
+30,3,united states,algeria,location,1,culturebank
+73,74,salad,between us and uk,varies_by_region,1,culturebank
+75,30,status symbols,united states,vary_by_region,1,culturebank
+3,30,algeria,united states,vary_by_region,1,culturebank
+76,77,service staff,location and service provider,vary_by,1,culturebank
+78,79,quality,barcelona,vary_by_region,1,culturebank
+80,5,gun laws,region,vary_by,1,culturebank
+81,5,taxation of food,region,varies_by,1,culturebank
+3,82,algeria,middle and high schools,study_location,1,blend
+83,5,education system,region,varies_by,2,blend
 3,5,algeria,region,varies_by,2,blend
-85,86,school schedule,within algeria,varies_by_region,1,blend
-14,10,diwali,gender,varies_by,1,blend
-87,3,restaurant,algeria,located_in,1,blend
-88,5,spiciness level,region,varies_by,1,blend
-3,40,algeria,activities,varies_by_region,1,blend
-89,5,chocolate brands,region,vary_by,1,blend
-90,3,stadium,algeria,located_in,1,blend
-3,14,algeria,diwali,study,1,blend
-91,5,sports culture,region,varies_by,1,blend
-14,5,diwali,region,varies_by,1,blend
-92,14,toy selection,diwali,varies_by,1,blend
-93,3,coastal areas,algeria,location,1,blend
-94,3,takeaway food,algeria,varies_by_region,1,blend
-3,14,algeria,diwali,vary_by,1,blend
-3,95,algeria,advanced mathematics,study,1,blend
-96,97,court chamber,interviewer,location_for,1,candle
-3,98,algeria,teaching behavior,location_for,1,candle
-99,100,lesson,plans,based_on,1,candle
-101,14,goal,diwali,varies_by,1,candle
-102,14,operating theater,diwali,location,1,candle
-103,104,courses,length,vary_by,1,candle
-105,106,tooth,area,location,1,candle
-107,108,vienna state opera,ritual,location_of,1,candle
+84,85,school schedule,within algeria,varies_by_region,1,blend
+86,3,restaurant,algeria,located_in,1,blend
+87,5,spiciness level,region,varies_by,1,blend
+3,39,algeria,activities,varies_by_region,1,blend
+88,5,chocolate brands,region,vary_by,1,blend
+89,3,stadium,algeria,located_in,1,blend
+90,5,sports culture,region,varies_by,1,blend
+92,3,coastal areas,algeria,location,1,blend
+93,3,takeaway food,algeria,varies_by_region,1,blend
+3,94,algeria,advanced mathematics,study,1,blend
+95,96,court chamber,interviewer,location_for,1,candle
+3,97,algeria,teaching behavior,location_for,1,candle
+98,99,lesson,plans,based_on,1,candle
+102,103,courses,length,vary_by,1,candle
+104,105,tooth,area,location,1,candle
+106,107,vienna state opera,ritual,location_of,1,candle

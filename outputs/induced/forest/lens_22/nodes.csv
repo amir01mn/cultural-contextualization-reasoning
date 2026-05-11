@@ -1,55 +1,54 @@
 node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
-1,diwali,3,algeria,unknown,arabculture,27
-2,weeks before eid,3,algeria,unknown,arabculture,1
-3,anticipation,3,algeria,unknown,arabculture,1
-4,grandfathers and grandmothers,3,algeria,unknown,arabculture,1
-5,algeria,3,algeria,unknown,arabculture,21
-6,necessary items,3,algeria,unknown,arabculture,1
-7,parents,1,egypt,unknown,arabculture,2
-8,children on birthdays,3,egypt,unknown,arabculture,1
-9,fiancée,3,egypt,unknown,arabculture,1
-10,gifts,1,egypt,unknown,arabculture,2
-11,meeting time,3,egypt,unknown,arabculture,1
-12,others' schedules,3,egypt,unknown,arabculture,1
-13,social status,3,manipur,unknown,diwali,1
-14,rengma naga tribe,3,nagaland,unknown,diwali,1
-15,accomplishments,3,nagaland,unknown,diwali,1
-16,service staff,1,general,unknown,culturebank,1
-17,acknowledgment,3,general,unknown,culturebank,1
-18,seller,3,general,unknown,culturebank,1
-19,mother,1,dz,unknown,blend,2
-20,guests,1,dz,unknown,blend,2
-21,father,1,dz,unknown,blend,1
-22,father's day,3,dz,unknown,blend,1
-23,pupil development,3,teacher,unknown,candle,1
-24,respect from students,3,teacher,unknown,candle,1
-25,papers,1,teacher,unknown,candle,1
-26,calm responses,3,teacher,unknown,candle,1
-27,reassuring nature,3,teacher,unknown,candle,1
-28,through bowing,3,teacher,unknown,candle,1
-29,development of critical skills,3,teacher,unknown,candle,1
-30,hive,3,beekeeper,unknown,candle,1
-31,swarming potential,3,beekeeper,unknown,candle,1
-32,for occupation,3,farmer,unknown,candle,1
-33,patient,1,nurse,unknown,candle,3
-34,health,1,nurse,unknown,candle,1
-35,nurse,3,nurse,unknown,candle,1
-36,patient's religion,3,nurse,unknown,candle,1
-37,individualized learning,3,tailor,unknown,candle,1
-38,person/group,3,tailor,unknown,candle,1
-39,tailored item,3,tailor,unknown,candle,1
-40,tailor-made,1,tailor,unknown,candle,1
-41,specific customization,3,tailor,unknown,candle,1
-42,shopper,3,tailor,unknown,candle,1
-43,distinctiveness,3,tailor,unknown,candle,1
-44,customer service,3,merchant,unknown,candle,1
-45,quality of service,3,merchant,unknown,candle,1
-46,artist,1,artist,unknown,candle,1
-47,for their skills,3,artist,unknown,candle,1
-48,brushstroke,3,painter,unknown,candle,1
-49,artistic_skill,3,painter,unknown,candle,1
-50,painter,1,painter,unknown,candle,2
-51,special dance,1,architect,unknown,candle,1
-52,table,1,waiter,unknown,candle,1
-53,health status,3,doctor,unknown,candle,1
+1,weeks before eid,3,algeria,unknown,arabculture,1
+2,anticipation,3,algeria,unknown,arabculture,1
+3,grandfathers and grandmothers,3,algeria,unknown,arabculture,1
+4,algeria,1,algeria,unknown,arabculture,21
+5,necessary items,3,algeria,unknown,arabculture,1
+6,parents,1,egypt,unknown,arabculture,2
+7,children on birthdays,3,egypt,unknown,arabculture,1
+8,fiancée,3,egypt,unknown,arabculture,1
+9,gifts,1,egypt,unknown,arabculture,2
+10,meeting time,3,egypt,unknown,arabculture,1
+11,others' schedules,3,egypt,unknown,arabculture,1
+12,social status,3,manipur,unknown,diwali,1
+13,rengma naga tribe,3,nagaland,unknown,diwali,1
+14,accomplishments,3,nagaland,unknown,diwali,1
+15,service staff,1,general,unknown,culturebank,1
+16,acknowledgment,3,general,unknown,culturebank,1
+17,seller,3,general,unknown,culturebank,1
+18,mother,1,dz,unknown,blend,2
+19,guests,1,dz,unknown,blend,2
+20,father,2,dz,unknown,blend,1
+21,father's day,3,dz,unknown,blend,1
+22,pupil development,3,teacher,unknown,candle,1
+23,respect from students,3,teacher,unknown,candle,1
+24,papers,2,teacher,unknown,candle,1
+25,calm responses,3,teacher,unknown,candle,1
+26,reassuring nature,3,teacher,unknown,candle,1
+27,through bowing,3,teacher,unknown,candle,1
+28,development of critical skills,3,teacher,unknown,candle,1
+29,hive,3,beekeeper,unknown,candle,1
+30,swarming potential,3,beekeeper,unknown,candle,1
+31,for occupation,3,farmer,unknown,candle,1
+32,patient,1,nurse,unknown,candle,3
+33,health,3,nurse,unknown,candle,1
+34,nurse,1,nurse,unknown,candle,1
+35,patient's religion,3,nurse,unknown,candle,1
+36,individualized learning,3,tailor,unknown,candle,1
+37,person/group,3,tailor,unknown,candle,1
+38,tailored item,3,tailor,unknown,candle,1
+39,tailor-made,5,tailor,unknown,candle,1
+40,specific customization,3,tailor,unknown,candle,1
+41,shopper,3,tailor,unknown,candle,1
+42,distinctiveness,3,tailor,unknown,candle,1
+43,customer service,3,merchant,unknown,candle,1
+44,quality of service,3,merchant,unknown,candle,1
+45,artist,1,artist,unknown,candle,1
+46,for their skills,3,artist,unknown,candle,1
+47,brushstroke,3,painter,unknown,candle,1
+48,artistic_skill,3,painter,unknown,candle,1
+49,painter,2,painter,unknown,candle,2
+50,special dance,5,architect,unknown,candle,1
+51,table,4,waiter,unknown,candle,1
+52,health status,3,doctor,unknown,candle,1

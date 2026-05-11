@@ -15,15 +15,11 @@ import re
 import time
 from typing import Iterator
 
-from openai import OpenAI
 from dotenv import load_dotenv
+from llm_backend import LLMBackend
 
 load_dotenv()
 
-OLLAMA_BASE_URL = "http://localhost:11434/v1"
-MODEL = "qwen2.5:7b"
-MAX_TOKENS = 1024
-RETRY_DELAY = 3.0
 MAX_RETRIES = 3
 
 SYSTEM_PROMPT = """You are a cultural knowledge extractor.
@@ -41,10 +37,6 @@ Rules:
 - Labels should be short (1-6 words) and in English
 - Capture: who does what, what values are expressed, what emotions are involved,
   what varies by region/group, what is prohibited/encouraged, what is passed down and ..."""
-
-
-def _build_client() -> OpenAI:
-    return OpenAI(base_url=OLLAMA_BASE_URL, api_key="ollama")
 
 
 def _parse_triples(content: str) -> list[dict]:
@@ -73,7 +65,7 @@ def _parse_triples(content: str) -> list[dict]:
         return []
 
 
-def mine_entry(client: OpenAI, entry: dict, verbose: bool = False) -> list[dict]:
+def mine_entry(backend: LLMBackend, entry: dict, verbose: bool = False) -> list[dict]:
     """Extract free-form triples from a single dataset entry."""
     text = entry.get("text", "").strip()
     if not text:
@@ -90,29 +82,11 @@ def mine_entry(client: OpenAI, entry: dict, verbose: bool = False) -> list[dict]
     parts.append(f"\nText:\n{text}")
     user_msg = "\n".join(parts)
 
-    for attempt in range(MAX_RETRIES):
-        try:
-            response = client.chat.completions.create(
-                model=MODEL,
-                max_tokens=MAX_TOKENS,
-                messages=[
-                    {"role": "system", "content": SYSTEM_PROMPT},
-                    {"role": "user", "content": user_msg},
-                ],
-                temperature=0.3,
-            )
-            raw = response.choices[0].message.content or ""
-            triples = _parse_triples(raw)
-            if verbose:
-                print(f"    → {len(triples)} triples")
-            return triples
-        except Exception as e:
-            if attempt < MAX_RETRIES - 1:
-                time.sleep(RETRY_DELAY)
-            else:
-                print(f"[miner] Failed after {MAX_RETRIES} attempts: {e}")
-                return []
-    return []
+    raw = backend.generate(SYSTEM_PROMPT, user_msg)
+    triples = _parse_triples(raw)
+    if verbose:
+        print(f"    → {len(triples)} triples")
+    return triples
 
 
 def _load_processed_ids(output_path: str) -> set[int]:
@@ -135,10 +109,12 @@ def mine_batch(
     resume: bool = True,
     verbose: bool = False,
     progress_every: int = 10,
+    backend: str = "ollama",
 ) -> str:
     """
     Mine all entries and stream results to output_path (JSONL).
     If resume=True, skips entries whose entry_id is already in the file.
+    backend: 'ollama' (Mac) or 'hf' (Narval GPU).
     Returns output_path.
     """
     os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
@@ -147,7 +123,7 @@ def mine_batch(
     if processed:
         print(f"[miner] Resuming — {len(processed)} entries already done, skipping.")
 
-    client = _build_client()
+    llm = LLMBackend(backend=backend)
     total_triples = 0
 
     with open(output_path, "a", encoding="utf-8") as out:
@@ -159,7 +135,7 @@ def mine_batch(
             if progress_every and i % progress_every == 0:
                 print(f"[miner] {i}/{len(entries)} entries ...")
 
-            triples = mine_entry(client, entry, verbose=verbose)
+            triples = mine_entry(llm, entry, verbose=verbose)
             total_triples += len(triples)
 
             record = {

@@ -1,14 +1,11 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,diwali,united states,is_expected,1,culturebank
-3,4,algeria,high levels of service,expect,1,culturebank
-3,5,algeria,sweetness in iced coffee,expect,1,culturebank
-3,6,algeria,water,expects,1,culturebank
-3,7,algeria,high-quality service,expect,1,culturebank
-8,9,employees,hard work from employees,expects,1,culturebank
-2,10,united states,payment for goods and services,expects,1,culturebank
-8,11,employees,not contacted during off work hours,expect,1,culturebank
-1,12,diwali,by customers,is_expected,1,culturebank
-8,13,employees,breaks,expect,1,blend
-14,15,guests,arrive by 19:30,expect,1,blend
-16,1,painter,diwali,is_expected_to_be,1,candle
-16,17,painter,enthusiastic,is_expected_to_be,1,candle
+2,3,algeria,high levels of service,expect,1,culturebank
+2,4,algeria,sweetness in iced coffee,expect,1,culturebank
+2,5,algeria,water,expects,1,culturebank
+2,6,algeria,high-quality service,expect,1,culturebank
+7,8,employees,hard work from employees,expects,1,culturebank
+1,9,united states,payment for goods and services,expects,1,culturebank
+7,10,employees,not contacted during off work hours,expect,1,culturebank
+7,12,employees,breaks,expect,1,blend
+13,14,guests,arrive by 19:30,expect,1,blend
+15,16,painter,enthusiastic,is_expected_to_be,1,candle

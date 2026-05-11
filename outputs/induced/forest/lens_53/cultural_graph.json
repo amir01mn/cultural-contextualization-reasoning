@@ -17,7 +17,7 @@
     {
       "id": 1,
       "label": "srikalahasti kalamkari",
-      "level": 1,
+      "level": 2,
       "cultural_group": "andhra pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
@@ -25,24 +25,15 @@
     },
     {
       "id": 2,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "andhra pradesh",
-      "domain": "unknown",
-      "source_dataset": "diwali",
-      "frequency": 12
-    },
-    {
-      "id": 3,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "chhattisgarh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 5
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "handspun cotton saris",
       "level": 3,
       "cultural_group": "chhattisgarh",
@@ -51,7 +42,7 @@
       "frequency": 1
     },
     {
-      "id": 5,
+      "id": 4,
       "label": "kutchi embroidery",
       "level": 1,
       "cultural_group": "gujarat",
@@ -60,7 +51,7 @@
       "frequency": 2
     },
     {
-      "id": 6,
+      "id": 5,
       "label": "colorful threads",
       "level": 3,
       "cultural_group": "gujarat",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "woolen fabric",
       "level": 3,
       "cultural_group": "himachal pradesh",
@@ -78,16 +69,16 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "rampur chaddar",
-      "level": 1,
+      "level": 3,
       "cultural_group": "himachal pradesh",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "handspun woolen shawl",
       "level": 3,
       "cultural_group": "himachal pradesh",
@@ -96,7 +87,7 @@
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "pure cotton or silk",
       "level": 3,
       "cultural_group": "madhya pradesh",
@@ -105,7 +96,7 @@
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "fabric",
       "level": 1,
       "cultural_group": "maharashtra",
@@ -114,16 +105,16 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "berhampuri patta",
-      "level": 1,
+      "level": 3,
       "cultural_group": "odisha",
       "domain": "unknown",
       "source_dataset": "diwali",
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "eri silk",
       "level": 1,
       "cultural_group": "odisha",
@@ -132,7 +123,7 @@
       "frequency": 2
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "lightweight cotton body",
       "level": 3,
       "cultural_group": "telangana",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "himroo",
       "level": 3,
       "cultural_group": "telangana",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "vibrant threads, mirrors, and beadwork",
       "level": 3,
       "cultural_group": "telangana",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "woolen",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "yak wool",
       "level": 3,
       "cultural_group": "ladakh",
@@ -177,9 +168,9 @@
       "frequency": 1
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "mundu",
-      "level": 1,
+      "level": 3,
       "cultural_group": "lakshadweep",
       "domain": "unknown",
       "source_dataset": "diwali",
@@ -188,17 +179,8 @@
   ],
   "links": [
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "srikalahasti kalamkari",
-      "target_label": "diwali",
-      "relation_type": "uses_materials",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 3,
-      "target": 4,
+      "source": 2,
+      "target": 3,
       "source_label": "algeria",
       "target_label": "handspun cotton saris",
       "relation_type": "uses_material",
@@ -206,8 +188,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 5,
-      "target": 6,
+      "source": 4,
+      "target": 5,
       "source_label": "kutchi embroidery",
       "target_label": "colorful threads",
       "relation_type": "uses_materials",
@@ -215,17 +197,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 2,
-      "target": 7,
-      "source_label": "diwali",
-      "target_label": "woolen fabric",
-      "relation_type": "material",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 8,
-      "target": 9,
+      "source": 7,
+      "target": 8,
       "source_label": "rampur chaddar",
       "target_label": "handspun woolen shawl",
       "relation_type": "material",
@@ -233,35 +206,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 2,
-      "target": 3,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "material",
-      "weight": 2,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 2,
-      "target": 10,
-      "source_label": "diwali",
-      "target_label": "pure cotton or silk",
-      "relation_type": "material",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 2,
-      "target": 11,
-      "source_label": "diwali",
-      "target_label": "fabric",
-      "relation_type": "uses_material",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 12,
-      "target": 13,
+      "source": 11,
+      "target": 12,
       "source_label": "berhampuri patta",
       "target_label": "eri silk",
       "relation_type": "material",
@@ -269,17 +215,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 2,
-      "target": 14,
-      "source_label": "diwali",
-      "target_label": "lightweight cotton body",
-      "relation_type": "material",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 15,
-      "target": 3,
+      "source": 14,
+      "target": 2,
       "source_label": "himroo",
       "target_label": "algeria",
       "relation_type": "uses_materials",
@@ -287,8 +224,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 5,
-      "target": 16,
+      "source": 4,
+      "target": 15,
       "source_label": "kutchi embroidery",
       "target_label": "vibrant threads, mirrors, and beadwork",
       "relation_type": "uses_materials_for",
@@ -296,35 +233,8 @@
       "source_dataset": "diwali"
     },
     {
-      "source": 2,
-      "target": 17,
-      "source_label": "diwali",
-      "target_label": "woolen",
-      "relation_type": "material",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 2,
-      "target": 13,
-      "source_label": "diwali",
-      "target_label": "eri silk",
-      "relation_type": "uses_material",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 2,
-      "target": 18,
-      "source_label": "diwali",
-      "target_label": "yak wool",
-      "relation_type": "material",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 19,
-      "target": 3,
+      "source": 18,
+      "target": 2,
       "source_label": "mundu",
       "target_label": "algeria",
       "relation_type": "material",

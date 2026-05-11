@@ -17,7 +17,7 @@
     {
       "id": 1,
       "label": "algeria",
-      "level": 3,
+      "level": 1,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -25,15 +25,6 @@
     },
     {
       "id": 2,
-      "label": "diwali",
-      "level": 3,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 31
-    },
-    {
-      "id": 3,
       "label": "collective cleaning",
       "level": 3,
       "cultural_group": "algeria",
@@ -42,9 +33,18 @@
       "frequency": 1
     },
     {
-      "id": 4,
+      "id": 3,
       "label": "household",
-      "level": 1,
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "cleaning",
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
@@ -52,15 +52,6 @@
     },
     {
       "id": 5,
-      "label": "cleaning",
-      "level": 1,
-      "cultural_group": "algeria",
-      "domain": "unknown",
-      "source_dataset": "arabculture",
-      "frequency": 1
-    },
-    {
-      "id": 6,
       "label": "socializing with relatives",
       "level": 3,
       "cultural_group": "algeria",
@@ -69,7 +60,7 @@
       "frequency": 1
     },
     {
-      "id": 7,
+      "id": 6,
       "label": "cooking tradition",
       "level": 3,
       "cultural_group": "algeria",
@@ -78,7 +69,7 @@
       "frequency": 1
     },
     {
-      "id": 8,
+      "id": 7,
       "label": "indoor play",
       "level": 3,
       "cultural_group": "algeria",
@@ -87,25 +78,25 @@
       "frequency": 1
     },
     {
-      "id": 9,
+      "id": 8,
       "label": "outdoors",
-      "level": 1,
+      "level": 2,
       "cultural_group": "algeria",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 10,
+      "id": 9,
       "label": "groom",
-      "level": 1,
+      "level": 2,
       "cultural_group": "egypt",
       "domain": "unknown",
       "source_dataset": "arabculture",
       "frequency": 1
     },
     {
-      "id": 11,
+      "id": 10,
       "label": "reserving a car for the wedding",
       "level": 3,
       "cultural_group": "egypt",
@@ -114,7 +105,7 @@
       "frequency": 1
     },
     {
-      "id": 12,
+      "id": 11,
       "label": "tahbith dance",
       "level": 3,
       "cultural_group": "egypt",
@@ -123,7 +114,7 @@
       "frequency": 1
     },
     {
-      "id": 13,
+      "id": 12,
       "label": "local farmers",
       "level": 3,
       "cultural_group": "egypt",
@@ -132,7 +123,7 @@
       "frequency": 1
     },
     {
-      "id": 14,
+      "id": 13,
       "label": "mango farming",
       "level": 3,
       "cultural_group": "egypt",
@@ -141,7 +132,7 @@
       "frequency": 1
     },
     {
-      "id": 15,
+      "id": 14,
       "label": "nile valley",
       "level": 1,
       "cultural_group": "egypt",
@@ -150,7 +141,7 @@
       "frequency": 1
     },
     {
-      "id": 16,
+      "id": 15,
       "label": "traditional bathing customs",
       "level": 3,
       "cultural_group": "egypt",
@@ -159,7 +150,7 @@
       "frequency": 1
     },
     {
-      "id": 17,
+      "id": 16,
       "label": "nile valley youth",
       "level": 3,
       "cultural_group": "egypt",
@@ -168,7 +159,7 @@
       "frequency": 1
     },
     {
-      "id": 18,
+      "id": 17,
       "label": "activities",
       "level": 1,
       "cultural_group": "egypt",
@@ -177,7 +168,7 @@
       "frequency": 10
     },
     {
-      "id": 19,
+      "id": 18,
       "label": "board games at home",
       "level": 3,
       "cultural_group": "egypt",
@@ -186,7 +177,7 @@
       "frequency": 1
     },
     {
-      "id": 20,
+      "id": 19,
       "label": "sheep_rearing",
       "level": 3,
       "cultural_group": "uttarakhand",
@@ -195,16 +186,16 @@
       "frequency": 1
     },
     {
-      "id": 21,
+      "id": 20,
       "label": "united states",
-      "level": 4,
+      "level": 1,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 20
     },
     {
-      "id": 22,
+      "id": 21,
       "label": "diverse cultural practices",
       "level": 3,
       "cultural_group": "general",
@@ -213,16 +204,16 @@
       "frequency": 1
     },
     {
-      "id": 23,
+      "id": 22,
       "label": "training",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 24,
+      "id": 23,
       "label": "parents",
       "level": 1,
       "cultural_group": "general",
@@ -231,7 +222,7 @@
       "frequency": 1
     },
     {
-      "id": 25,
+      "id": 24,
       "label": "us citizens",
       "level": 1,
       "cultural_group": "general",
@@ -240,7 +231,7 @@
       "frequency": 5
     },
     {
-      "id": 26,
+      "id": 25,
       "label": "healthcare system",
       "level": 1,
       "cultural_group": "general",
@@ -249,7 +240,7 @@
       "frequency": 1
     },
     {
-      "id": 27,
+      "id": 26,
       "label": "payment practices",
       "level": 3,
       "cultural_group": "general",
@@ -258,7 +249,7 @@
       "frequency": 1
     },
     {
-      "id": 28,
+      "id": 27,
       "label": "giving gift baskets during easter",
       "level": 3,
       "cultural_group": "general",
@@ -267,7 +258,7 @@
       "frequency": 1
     },
     {
-      "id": 29,
+      "id": 28,
       "label": "walking (exercise/leisure)",
       "level": 3,
       "cultural_group": "general",
@@ -276,7 +267,7 @@
       "frequency": 1
     },
     {
-      "id": 30,
+      "id": 29,
       "label": "friendly behaviors",
       "level": 3,
       "cultural_group": "general",
@@ -285,7 +276,7 @@
       "frequency": 1
     },
     {
-      "id": 31,
+      "id": 30,
       "label": "falling asleep",
       "level": 3,
       "cultural_group": "general",
@@ -294,7 +285,7 @@
       "frequency": 1
     },
     {
-      "id": 32,
+      "id": 31,
       "label": "series of behaviors",
       "level": 3,
       "cultural_group": "general",
@@ -303,7 +294,7 @@
       "frequency": 1
     },
     {
-      "id": 33,
+      "id": 32,
       "label": "active walking",
       "level": 3,
       "cultural_group": "general",
@@ -312,16 +303,16 @@
       "frequency": 1
     },
     {
-      "id": 34,
+      "id": 33,
       "label": "couple",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 35,
+      "id": 34,
       "label": "cohabitation",
       "level": 3,
       "cultural_group": "general",
@@ -330,7 +321,7 @@
       "frequency": 1
     },
     {
-      "id": 36,
+      "id": 35,
       "label": "daily grooming rituals",
       "level": 3,
       "cultural_group": "general",
@@ -339,7 +330,7 @@
       "frequency": 1
     },
     {
-      "id": 37,
+      "id": 36,
       "label": "drivers",
       "level": 1,
       "cultural_group": "general",
@@ -348,7 +339,7 @@
       "frequency": 2
     },
     {
-      "id": 38,
+      "id": 37,
       "label": "speeding",
       "level": 3,
       "cultural_group": "general",
@@ -357,7 +348,7 @@
       "frequency": 1
     },
     {
-      "id": 39,
+      "id": 38,
       "label": "slow driving",
       "level": 3,
       "cultural_group": "general",
@@ -366,16 +357,16 @@
       "frequency": 1
     },
     {
-      "id": 40,
+      "id": 39,
       "label": "breaks",
-      "level": 1,
+      "level": 4,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 41,
+      "id": 40,
       "label": "employees",
       "level": 1,
       "cultural_group": "general",
@@ -384,7 +375,7 @@
       "frequency": 2
     },
     {
-      "id": 42,
+      "id": 41,
       "label": "americans",
       "level": 1,
       "cultural_group": "general",
@@ -393,7 +384,7 @@
       "frequency": 1
     },
     {
-      "id": 43,
+      "id": 42,
       "label": "second nature activities",
       "level": 3,
       "cultural_group": "general",
@@ -402,7 +393,7 @@
       "frequency": 1
     },
     {
-      "id": 44,
+      "id": 43,
       "label": "wine consumption",
       "level": 3,
       "cultural_group": "general",
@@ -411,7 +402,7 @@
       "frequency": 1
     },
     {
-      "id": 45,
+      "id": 44,
       "label": "education system",
       "level": 1,
       "cultural_group": "general",
@@ -420,7 +411,7 @@
       "frequency": 1
     },
     {
-      "id": 46,
+      "id": 45,
       "label": "diverse educational activities",
       "level": 3,
       "cultural_group": "general",
@@ -429,7 +420,7 @@
       "frequency": 1
     },
     {
-      "id": 47,
+      "id": 46,
       "label": "individuals",
       "level": 1,
       "cultural_group": "general",
@@ -438,7 +429,7 @@
       "frequency": 4
     },
     {
-      "id": 48,
+      "id": 47,
       "label": "discussion on gun rights",
       "level": 3,
       "cultural_group": "general",
@@ -447,7 +438,7 @@
       "frequency": 1
     },
     {
-      "id": 49,
+      "id": 48,
       "label": "various leisure activities",
       "level": 3,
       "cultural_group": "general",
@@ -456,7 +447,7 @@
       "frequency": 1
     },
     {
-      "id": 50,
+      "id": 49,
       "label": "diy and professional nail care",
       "level": 3,
       "cultural_group": "general",
@@ -465,7 +456,7 @@
       "frequency": 1
     },
     {
-      "id": 51,
+      "id": 50,
       "label": "customs procedures",
       "level": 3,
       "cultural_group": "general",
@@ -474,7 +465,7 @@
       "frequency": 1
     },
     {
-      "id": 52,
+      "id": 51,
       "label": "building underground structures",
       "level": 3,
       "cultural_group": "general",
@@ -483,7 +474,7 @@
       "frequency": 1
     },
     {
-      "id": 53,
+      "id": 52,
       "label": "patient",
       "level": 1,
       "cultural_group": "general",
@@ -492,7 +483,7 @@
       "frequency": 1
     },
     {
-      "id": 54,
+      "id": 53,
       "label": "healthcare-related activities",
       "level": 3,
       "cultural_group": "general",
@@ -501,7 +492,7 @@
       "frequency": 1
     },
     {
-      "id": 55,
+      "id": 54,
       "label": "college students",
       "level": 3,
       "cultural_group": "general",
@@ -510,7 +501,7 @@
       "frequency": 1
     },
     {
-      "id": 56,
+      "id": 55,
       "label": "communication for financial success",
       "level": 3,
       "cultural_group": "general",
@@ -519,7 +510,7 @@
       "frequency": 1
     },
     {
-      "id": 57,
+      "id": 56,
       "label": "cultural development",
       "level": 3,
       "cultural_group": "general",
@@ -528,7 +519,7 @@
       "frequency": 1
     },
     {
-      "id": 58,
+      "id": 57,
       "label": "consumers",
       "level": 1,
       "cultural_group": "general",
@@ -537,16 +528,16 @@
       "frequency": 1
     },
     {
-      "id": 59,
+      "id": 58,
       "label": "shopping",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 60,
+      "id": 59,
       "label": "playful language",
       "level": 3,
       "cultural_group": "general",
@@ -555,7 +546,7 @@
       "frequency": 1
     },
     {
-      "id": 61,
+      "id": 60,
       "label": "various payment practices",
       "level": 3,
       "cultural_group": "general",
@@ -564,7 +555,7 @@
       "frequency": 1
     },
     {
-      "id": 62,
+      "id": 61,
       "label": "critical discussions",
       "level": 3,
       "cultural_group": "general",
@@ -573,7 +564,7 @@
       "frequency": 1
     },
     {
-      "id": 63,
+      "id": 62,
       "label": "formal greetings",
       "level": 3,
       "cultural_group": "general",
@@ -582,16 +573,16 @@
       "frequency": 1
     },
     {
-      "id": 64,
+      "id": 63,
       "label": "conversation",
-      "level": 1,
+      "level": 3,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 65,
+      "id": 64,
       "label": "parades and fireworks",
       "level": 3,
       "cultural_group": "general",
@@ -600,7 +591,7 @@
       "frequency": 1
     },
     {
-      "id": 66,
+      "id": 65,
       "label": "open substance use",
       "level": 3,
       "cultural_group": "general",
@@ -609,7 +600,7 @@
       "frequency": 1
     },
     {
-      "id": 67,
+      "id": 66,
       "label": "inappropriate behaviors",
       "level": 3,
       "cultural_group": "general",
@@ -618,7 +609,7 @@
       "frequency": 1
     },
     {
-      "id": 68,
+      "id": 67,
       "label": "following rules",
       "level": 3,
       "cultural_group": "general",
@@ -627,7 +618,7 @@
       "frequency": 1
     },
     {
-      "id": 69,
+      "id": 68,
       "label": "direct and explicit communication",
       "level": 3,
       "cultural_group": "general",
@@ -636,7 +627,7 @@
       "frequency": 1
     },
     {
-      "id": 70,
+      "id": 69,
       "label": "inquiry and questioning",
       "level": 3,
       "cultural_group": "general",
@@ -645,7 +636,7 @@
       "frequency": 1
     },
     {
-      "id": 71,
+      "id": 70,
       "label": "boy scouts",
       "level": 3,
       "cultural_group": "general",
@@ -654,7 +645,7 @@
       "frequency": 1
     },
     {
-      "id": 72,
+      "id": 71,
       "label": "girl scouts",
       "level": 3,
       "cultural_group": "general",
@@ -663,7 +654,7 @@
       "frequency": 1
     },
     {
-      "id": 73,
+      "id": 72,
       "label": "recycling practices",
       "level": 3,
       "cultural_group": "general",
@@ -672,7 +663,7 @@
       "frequency": 1
     },
     {
-      "id": 74,
+      "id": 73,
       "label": "watching videos",
       "level": 3,
       "cultural_group": "general",
@@ -681,7 +672,7 @@
       "frequency": 1
     },
     {
-      "id": 75,
+      "id": 74,
       "label": "various stages of dating",
       "level": 3,
       "cultural_group": "general",
@@ -690,7 +681,7 @@
       "frequency": 1
     },
     {
-      "id": 76,
+      "id": 75,
       "label": "various activities at gas stations",
       "level": 3,
       "cultural_group": "general",
@@ -699,7 +690,7 @@
       "frequency": 1
     },
     {
-      "id": 77,
+      "id": 76,
       "label": "hair-related activities",
       "level": 3,
       "cultural_group": "general",
@@ -708,7 +699,7 @@
       "frequency": 1
     },
     {
-      "id": 78,
+      "id": 77,
       "label": "health insurance practices",
       "level": 3,
       "cultural_group": "general",
@@ -717,16 +708,16 @@
       "frequency": 1
     },
     {
-      "id": 79,
+      "id": 78,
       "label": "california residents",
-      "level": 1,
+      "level": 2,
       "cultural_group": "general",
       "domain": "unknown",
       "source_dataset": "culturebank",
       "frequency": 1
     },
     {
-      "id": 80,
+      "id": 79,
       "label": "gun ownership and purchase",
       "level": 3,
       "cultural_group": "general",
@@ -735,7 +726,7 @@
       "frequency": 1
     },
     {
-      "id": 81,
+      "id": 80,
       "label": "complex taxation practices",
       "level": 3,
       "cultural_group": "general",
@@ -744,7 +735,7 @@
       "frequency": 1
     },
     {
-      "id": 82,
+      "id": 81,
       "label": "rural americans",
       "level": 3,
       "cultural_group": "general",
@@ -753,7 +744,7 @@
       "frequency": 1
     },
     {
-      "id": 83,
+      "id": 82,
       "label": "truck-related activities",
       "level": 3,
       "cultural_group": "general",
@@ -762,7 +753,7 @@
       "frequency": 1
     },
     {
-      "id": 84,
+      "id": 83,
       "label": "performing dance",
       "level": 3,
       "cultural_group": "general",
@@ -771,7 +762,7 @@
       "frequency": 1
     },
     {
-      "id": 85,
+      "id": 84,
       "label": "festivities and gatherings",
       "level": 3,
       "cultural_group": "dz",
@@ -780,7 +771,7 @@
       "frequency": 1
     },
     {
-      "id": 86,
+      "id": 85,
       "label": "weekly family gathering",
       "level": 3,
       "cultural_group": "dz",
@@ -789,7 +780,7 @@
       "frequency": 1
     },
     {
-      "id": 87,
+      "id": 86,
       "label": "middle-aged population",
       "level": 3,
       "cultural_group": "dz",
@@ -798,7 +789,7 @@
       "frequency": 1
     },
     {
-      "id": 88,
+      "id": 87,
       "label": "travel during holidays",
       "level": 3,
       "cultural_group": "dz",
@@ -807,7 +798,7 @@
       "frequency": 1
     },
     {
-      "id": 89,
+      "id": 88,
       "label": "parks activities",
       "level": 3,
       "cultural_group": "dz",
@@ -816,7 +807,7 @@
       "frequency": 1
     },
     {
-      "id": 90,
+      "id": 89,
       "label": "sports together",
       "level": 3,
       "cultural_group": "dz",
@@ -825,7 +816,7 @@
       "frequency": 1
     },
     {
-      "id": 91,
+      "id": 90,
       "label": "weekend activities",
       "level": 3,
       "cultural_group": "dz",
@@ -834,16 +825,16 @@
       "frequency": 1
     },
     {
-      "id": 92,
+      "id": 91,
       "label": "evening meal",
-      "level": 1,
+      "level": 2,
       "cultural_group": "dz",
       "domain": "unknown",
       "source_dataset": "blend",
       "frequency": 1
     },
     {
-      "id": 93,
+      "id": 92,
       "label": "after-school activities",
       "level": 3,
       "cultural_group": "dz",
@@ -852,7 +843,7 @@
       "frequency": 1
     },
     {
-      "id": 94,
+      "id": 93,
       "label": "biologists",
       "level": 3,
       "cultural_group": "biologist",
@@ -861,7 +852,7 @@
       "frequency": 1
     },
     {
-      "id": 95,
+      "id": 94,
       "label": "ritual of inquiry",
       "level": 3,
       "cultural_group": "biologist",
@@ -870,7 +861,7 @@
       "frequency": 1
     },
     {
-      "id": 96,
+      "id": 95,
       "label": "pre and post assessments",
       "level": 3,
       "cultural_group": "teacher",
@@ -879,16 +870,16 @@
       "frequency": 1
     },
     {
-      "id": 97,
+      "id": 96,
       "label": "mortgage",
-      "level": 1,
+      "level": 5,
       "cultural_group": "banker",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 98,
+      "id": 97,
       "label": "loan packaging",
       "level": 3,
       "cultural_group": "banker",
@@ -897,7 +888,7 @@
       "frequency": 1
     },
     {
-      "id": 99,
+      "id": 98,
       "label": "public kin official",
       "level": 3,
       "cultural_group": "politician",
@@ -906,16 +897,16 @@
       "frequency": 1
     },
     {
-      "id": 100,
+      "id": 99,
       "label": "painter",
-      "level": 1,
+      "level": 2,
       "cultural_group": "painter",
       "domain": "unknown",
       "source_dataset": "candle",
       "frequency": 1
     },
     {
-      "id": 101,
+      "id": 100,
       "label": "prep_work",
       "level": 3,
       "cultural_group": "painter",
@@ -926,17 +917,8 @@
   ],
   "links": [
     {
-      "source": 2,
-      "target": 1,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "engages_in",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
       "source": 1,
-      "target": 3,
+      "target": 2,
       "source_label": "algeria",
       "target_label": "collective cleaning",
       "relation_type": "engages_in",
@@ -944,8 +926,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 4,
-      "target": 5,
+      "source": 3,
+      "target": 4,
       "source_label": "household",
       "target_label": "cleaning",
       "relation_type": "engage_in",
@@ -954,7 +936,7 @@
     },
     {
       "source": 1,
-      "target": 6,
+      "target": 5,
       "source_label": "algeria",
       "target_label": "socializing with relatives",
       "relation_type": "engage_in",
@@ -962,17 +944,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 2,
-      "target": 7,
-      "source_label": "diwali",
-      "target_label": "cooking tradition",
-      "relation_type": "engages_in",
-      "weight": 1,
-      "source_dataset": "arabculture"
-    },
-    {
       "source": 1,
-      "target": 8,
+      "target": 7,
       "source_label": "algeria",
       "target_label": "indoor play",
       "relation_type": "engage_in",
@@ -981,7 +954,7 @@
     },
     {
       "source": 1,
-      "target": 9,
+      "target": 8,
       "source_label": "algeria",
       "target_label": "outdoors",
       "relation_type": "engage_in",
@@ -989,8 +962,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 10,
-      "target": 11,
+      "source": 9,
+      "target": 10,
       "source_label": "groom",
       "target_label": "reserving a car for the wedding",
       "relation_type": "engage_in",
@@ -999,7 +972,7 @@
     },
     {
       "source": 1,
-      "target": 12,
+      "target": 11,
       "source_label": "algeria",
       "target_label": "tahbith dance",
       "relation_type": "engage_in",
@@ -1007,8 +980,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 13,
-      "target": 14,
+      "source": 12,
+      "target": 13,
       "source_label": "local farmers",
       "target_label": "mango farming",
       "relation_type": "engage_in",
@@ -1016,8 +989,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 15,
-      "target": 16,
+      "source": 14,
+      "target": 15,
       "source_label": "nile valley",
       "target_label": "traditional bathing customs",
       "relation_type": "engage_in",
@@ -1025,8 +998,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 17,
-      "target": 18,
+      "source": 16,
+      "target": 17,
       "source_label": "nile valley youth",
       "target_label": "activities",
       "relation_type": "engage_in",
@@ -1035,7 +1008,7 @@
     },
     {
       "source": 1,
-      "target": 19,
+      "target": 18,
       "source_label": "algeria",
       "target_label": "board games at home",
       "relation_type": "engage_in",
@@ -1043,35 +1016,8 @@
       "source_dataset": "arabculture"
     },
     {
-      "source": 2,
-      "target": 20,
-      "source_label": "diwali",
-      "target_label": "sheep_rearing",
-      "relation_type": "engages_in",
-      "weight": 1,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 1,
-      "target": 2,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "engage_in",
-      "weight": 3,
-      "source_dataset": "diwali"
-    },
-    {
-      "source": 21,
-      "target": 2,
-      "source_label": "united states",
-      "target_label": "diwali",
-      "relation_type": "engages_in",
-      "weight": 4,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 21,
-      "target": 22,
+      "source": 20,
+      "target": 21,
       "source_label": "united states",
       "target_label": "diverse cultural practices",
       "relation_type": "engages_in",
@@ -1079,8 +1025,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 23,
-      "target": 24,
+      "source": 22,
+      "target": 23,
       "source_label": "training",
       "target_label": "parents",
       "relation_type": "engaged_in_by",
@@ -1088,8 +1034,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 25,
-      "target": 26,
+      "source": 24,
+      "target": 25,
       "source_label": "us citizens",
       "target_label": "healthcare system",
       "relation_type": "engage_in",
@@ -1097,17 +1043,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 2,
-      "source_label": "united states",
-      "target_label": "diwali",
-      "relation_type": "engage_in",
-      "weight": 3,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 1,
-      "target": 27,
+      "target": 26,
       "source_label": "algeria",
       "target_label": "payment practices",
       "relation_type": "engages_in",
@@ -1116,7 +1053,7 @@
     },
     {
       "source": 1,
-      "target": 28,
+      "target": 27,
       "source_label": "algeria",
       "target_label": "giving gift baskets during easter",
       "relation_type": "engage_in",
@@ -1125,7 +1062,7 @@
     },
     {
       "source": 1,
-      "target": 29,
+      "target": 28,
       "source_label": "algeria",
       "target_label": "walking (exercise/leisure)",
       "relation_type": "engage_in",
@@ -1133,8 +1070,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 30,
+      "source": 20,
+      "target": 29,
       "source_label": "united states",
       "target_label": "friendly behaviors",
       "relation_type": "engage_in",
@@ -1142,17 +1079,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 2,
-      "target": 31,
-      "source_label": "diwali",
-      "target_label": "falling asleep",
-      "relation_type": "engage_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 1,
-      "target": 32,
+      "target": 31,
       "source_label": "algeria",
       "target_label": "series of behaviors",
       "relation_type": "engages_in",
@@ -1161,7 +1089,7 @@
     },
     {
       "source": 1,
-      "target": 33,
+      "target": 32,
       "source_label": "algeria",
       "target_label": "active walking",
       "relation_type": "engage_in",
@@ -1169,8 +1097,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 34,
-      "target": 35,
+      "source": 33,
+      "target": 34,
       "source_label": "couple",
       "target_label": "cohabitation",
       "relation_type": "engage_in",
@@ -1179,7 +1107,7 @@
     },
     {
       "source": 1,
-      "target": 18,
+      "target": 17,
       "source_label": "algeria",
       "target_label": "activities",
       "relation_type": "engage_in",
@@ -1187,8 +1115,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 18,
+      "source": 20,
+      "target": 17,
       "source_label": "united states",
       "target_label": "activities",
       "relation_type": "engages_in",
@@ -1196,8 +1124,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 36,
+      "source": 20,
+      "target": 35,
       "source_label": "united states",
       "target_label": "daily grooming rituals",
       "relation_type": "engage_in",
@@ -1205,8 +1133,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 37,
-      "target": 38,
+      "source": 36,
+      "target": 37,
       "source_label": "drivers",
       "target_label": "speeding",
       "relation_type": "engage_in",
@@ -1214,8 +1142,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 37,
-      "target": 39,
+      "source": 36,
+      "target": 38,
       "source_label": "drivers",
       "target_label": "slow driving",
       "relation_type": "engage_in",
@@ -1224,7 +1152,7 @@
     },
     {
       "source": 1,
-      "target": 40,
+      "target": 39,
       "source_label": "algeria",
       "target_label": "breaks",
       "relation_type": "engage_in",
@@ -1232,7 +1160,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 41,
+      "source": 40,
       "target": 1,
       "source_label": "employees",
       "target_label": "algeria",
@@ -1241,8 +1169,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 42,
-      "target": 43,
+      "source": 41,
+      "target": 42,
       "source_label": "americans",
       "target_label": "second nature activities",
       "relation_type": "engage_in",
@@ -1250,8 +1178,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 44,
+      "source": 20,
+      "target": 43,
       "source_label": "united states",
       "target_label": "wine consumption",
       "relation_type": "engage_in",
@@ -1259,8 +1187,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 45,
-      "target": 46,
+      "source": 44,
+      "target": 45,
       "source_label": "education system",
       "target_label": "diverse educational activities",
       "relation_type": "engages_in",
@@ -1268,17 +1196,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 2,
+      "source": 24,
       "target": 47,
-      "source_label": "diwali",
-      "target_label": "individuals",
-      "relation_type": "engaged_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 25,
-      "target": 48,
       "source_label": "us citizens",
       "target_label": "discussion on gun rights",
       "relation_type": "engage_in",
@@ -1287,7 +1206,7 @@
     },
     {
       "source": 1,
-      "target": 49,
+      "target": 48,
       "source_label": "algeria",
       "target_label": "various leisure activities",
       "relation_type": "engage_in",
@@ -1296,7 +1215,7 @@
     },
     {
       "source": 1,
-      "target": 50,
+      "target": 49,
       "source_label": "algeria",
       "target_label": "diy and professional nail care",
       "relation_type": "engages_in",
@@ -1304,17 +1223,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 2,
+      "source": 20,
       "target": 51,
-      "source_label": "diwali",
-      "target_label": "customs procedures",
-      "relation_type": "engage_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 21,
-      "target": 52,
       "source_label": "united states",
       "target_label": "building underground structures",
       "relation_type": "engages_in",
@@ -1322,8 +1232,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 53,
-      "target": 54,
+      "source": 52,
+      "target": 53,
       "source_label": "patient",
       "target_label": "healthcare-related activities",
       "relation_type": "engage_in",
@@ -1331,7 +1241,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 55,
+      "source": 54,
       "target": 1,
       "source_label": "college students",
       "target_label": "algeria",
@@ -1340,8 +1250,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 41,
-      "target": 56,
+      "source": 40,
+      "target": 55,
       "source_label": "employees",
       "target_label": "communication for financial success",
       "relation_type": "engage_in",
@@ -1350,16 +1260,7 @@
     },
     {
       "source": 57,
-      "target": 2,
-      "source_label": "cultural development",
-      "target_label": "diwali",
-      "relation_type": "engages_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 58,
-      "target": 59,
+      "target": 58,
       "source_label": "consumers",
       "target_label": "shopping",
       "relation_type": "engage_in",
@@ -1367,17 +1268,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 2,
+      "source": 20,
       "target": 60,
-      "source_label": "diwali",
-      "target_label": "playful language",
-      "relation_type": "engage_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 21,
-      "target": 61,
       "source_label": "united states",
       "target_label": "various payment practices",
       "relation_type": "engages_in",
@@ -1385,8 +1277,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 62,
+      "source": 20,
+      "target": 61,
       "source_label": "united states",
       "target_label": "critical discussions",
       "relation_type": "engage_in",
@@ -1394,8 +1286,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 63,
-      "target": 64,
+      "source": 62,
+      "target": 63,
       "source_label": "formal greetings",
       "target_label": "conversation",
       "relation_type": "engage_in",
@@ -1404,7 +1296,7 @@
     },
     {
       "source": 1,
-      "target": 65,
+      "target": 64,
       "source_label": "algeria",
       "target_label": "parades and fireworks",
       "relation_type": "engage_in",
@@ -1412,8 +1304,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 66,
+      "source": 20,
+      "target": 65,
       "source_label": "united states",
       "target_label": "open substance use",
       "relation_type": "engage_in",
@@ -1421,17 +1313,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 2,
-      "target": 18,
-      "source_label": "diwali",
-      "target_label": "activities",
-      "relation_type": "engage_in",
-      "weight": 3,
-      "source_dataset": "culturebank"
-    },
-    {
       "source": 1,
-      "target": 67,
+      "target": 66,
       "source_label": "algeria",
       "target_label": "inappropriate behaviors",
       "relation_type": "engage_in",
@@ -1439,7 +1322,7 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 68,
+      "source": 67,
       "target": 1,
       "source_label": "following rules",
       "target_label": "algeria",
@@ -1449,7 +1332,7 @@
     },
     {
       "source": 1,
-      "target": 69,
+      "target": 68,
       "source_label": "algeria",
       "target_label": "direct and explicit communication",
       "relation_type": "engage_in",
@@ -1457,8 +1340,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 47,
-      "target": 70,
+      "source": 46,
+      "target": 69,
       "source_label": "individuals",
       "target_label": "inquiry and questioning",
       "relation_type": "engage_in",
@@ -1466,35 +1349,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 2,
-      "target": 1,
-      "source_label": "diwali",
-      "target_label": "algeria",
-      "relation_type": "engaged_in_by",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 71,
-      "target": 2,
-      "source_label": "boy scouts",
-      "target_label": "diwali",
-      "relation_type": "engage_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 72,
-      "target": 2,
-      "source_label": "girl scouts",
-      "target_label": "diwali",
-      "relation_type": "engage_in",
-      "weight": 1,
-      "source_dataset": "culturebank"
-    },
-    {
-      "source": 25,
-      "target": 73,
+      "source": 24,
+      "target": 72,
       "source_label": "us citizens",
       "target_label": "recycling practices",
       "relation_type": "engage_in",
@@ -1502,8 +1358,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 74,
+      "source": 20,
+      "target": 73,
       "source_label": "united states",
       "target_label": "watching videos",
       "relation_type": "engages_in",
@@ -1511,8 +1367,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 47,
-      "target": 75,
+      "source": 46,
+      "target": 74,
       "source_label": "individuals",
       "target_label": "various stages of dating",
       "relation_type": "engage_in",
@@ -1520,8 +1376,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 25,
-      "target": 76,
+      "source": 24,
+      "target": 75,
       "source_label": "us citizens",
       "target_label": "various activities at gas stations",
       "relation_type": "engage_in",
@@ -1530,7 +1386,7 @@
     },
     {
       "source": 1,
-      "target": 77,
+      "target": 76,
       "source_label": "algeria",
       "target_label": "hair-related activities",
       "relation_type": "engage_in",
@@ -1538,8 +1394,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 78,
+      "source": 20,
+      "target": 77,
       "source_label": "united states",
       "target_label": "health insurance practices",
       "relation_type": "engages_in",
@@ -1547,8 +1403,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 79,
-      "target": 18,
+      "source": 78,
+      "target": 17,
       "source_label": "california residents",
       "target_label": "activities",
       "relation_type": "engage_in",
@@ -1556,8 +1412,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 47,
-      "target": 80,
+      "source": 46,
+      "target": 79,
       "source_label": "individuals",
       "target_label": "gun ownership and purchase",
       "relation_type": "engage_in",
@@ -1565,8 +1421,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 21,
-      "target": 81,
+      "source": 20,
+      "target": 80,
       "source_label": "united states",
       "target_label": "complex taxation practices",
       "relation_type": "engages_in",
@@ -1574,8 +1430,8 @@
       "source_dataset": "culturebank"
     },
     {
-      "source": 82,
-      "target": 83,
+      "source": 81,
+      "target": 82,
       "source_label": "rural americans",
       "target_label": "truck-related activities",
       "relation_type": "engage_in",
@@ -1584,7 +1440,7 @@
     },
     {
       "source": 1,
-      "target": 84,
+      "target": 83,
       "source_label": "algeria",
       "target_label": "performing dance",
       "relation_type": "engage_in",
@@ -1593,7 +1449,7 @@
     },
     {
       "source": 1,
-      "target": 85,
+      "target": 84,
       "source_label": "algeria",
       "target_label": "festivities and gatherings",
       "relation_type": "engage_in",
@@ -1602,7 +1458,7 @@
     },
     {
       "source": 1,
-      "target": 86,
+      "target": 85,
       "source_label": "algeria",
       "target_label": "weekly family gathering",
       "relation_type": "engage_in",
@@ -1610,16 +1466,7 @@
       "source_dataset": "blend"
     },
     {
-      "source": 1,
-      "target": 2,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "usually_engage_in",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 87,
+      "source": 86,
       "target": 1,
       "source_label": "middle-aged population",
       "target_label": "algeria",
@@ -1628,8 +1475,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 25,
-      "target": 88,
+      "source": 24,
+      "target": 87,
       "source_label": "us citizens",
       "target_label": "travel during holidays",
       "relation_type": "engage_in",
@@ -1638,25 +1485,7 @@
     },
     {
       "source": 1,
-      "target": 2,
-      "source_label": "algeria",
-      "target_label": "diwali",
-      "relation_type": "mainly_engage_in",
-      "weight": 2,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 2,
       "target": 89,
-      "source_label": "diwali",
-      "target_label": "parks activities",
-      "relation_type": "engage_in",
-      "weight": 1,
-      "source_dataset": "blend"
-    },
-    {
-      "source": 1,
-      "target": 90,
       "source_label": "algeria",
       "target_label": "sports together",
       "relation_type": "engage_in",
@@ -1665,7 +1494,7 @@
     },
     {
       "source": 1,
-      "target": 91,
+      "target": 90,
       "source_label": "algeria",
       "target_label": "weekend activities",
       "relation_type": "engages_in",
@@ -1674,7 +1503,7 @@
     },
     {
       "source": 1,
-      "target": 92,
+      "target": 91,
       "source_label": "algeria",
       "target_label": "evening meal",
       "relation_type": "engages_in",
@@ -1683,7 +1512,7 @@
     },
     {
       "source": 1,
-      "target": 93,
+      "target": 92,
       "source_label": "algeria",
       "target_label": "after-school activities",
       "relation_type": "usually_engage_in",
@@ -1691,8 +1520,8 @@
       "source_dataset": "blend"
     },
     {
-      "source": 94,
-      "target": 95,
+      "source": 93,
+      "target": 94,
       "source_label": "biologists",
       "target_label": "ritual of inquiry",
       "relation_type": "engage_in",
@@ -1701,7 +1530,7 @@
     },
     {
       "source": 1,
-      "target": 96,
+      "target": 95,
       "source_label": "algeria",
       "target_label": "pre and post assessments",
       "relation_type": "engage_in",
@@ -1709,8 +1538,8 @@
       "source_dataset": "candle"
     },
     {
-      "source": 97,
-      "target": 98,
+      "source": 96,
+      "target": 97,
       "source_label": "mortgage",
       "target_label": "loan packaging",
       "relation_type": "engages_in",
@@ -1719,16 +1548,7 @@
     },
     {
       "source": 99,
-      "target": 2,
-      "source_label": "public kin official",
-      "target_label": "diwali",
-      "relation_type": "engages_in",
-      "weight": 1,
-      "source_dataset": "candle"
-    },
-    {
-      "source": 100,
-      "target": 101,
+      "target": 100,
       "source_label": "painter",
       "target_label": "prep_work",
       "relation_type": "engages_in",

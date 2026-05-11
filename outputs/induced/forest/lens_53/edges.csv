@@ -1,17 +1,8 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,srikalahasti kalamkari,diwali,uses_materials,1,diwali
-3,4,algeria,handspun cotton saris,uses_material,1,diwali
-5,6,kutchi embroidery,colorful threads,uses_materials,1,diwali
-2,7,diwali,woolen fabric,material,1,diwali
-8,9,rampur chaddar,handspun woolen shawl,material,1,diwali
-2,3,diwali,algeria,material,2,diwali
-2,10,diwali,pure cotton or silk,material,1,diwali
-2,11,diwali,fabric,uses_material,1,diwali
-12,13,berhampuri patta,eri silk,material,1,diwali
-2,14,diwali,lightweight cotton body,material,1,diwali
-15,3,himroo,algeria,uses_materials,1,diwali
-5,16,kutchi embroidery,"vibrant threads, mirrors, and beadwork",uses_materials_for,1,diwali
-2,17,diwali,woolen,material,1,diwali
-2,13,diwali,eri silk,uses_material,1,diwali
-2,18,diwali,yak wool,material,1,diwali
-19,3,mundu,algeria,material,1,diwali
+2,3,algeria,handspun cotton saris,uses_material,1,diwali
+4,5,kutchi embroidery,colorful threads,uses_materials,1,diwali
+7,8,rampur chaddar,handspun woolen shawl,material,1,diwali
+11,12,berhampuri patta,eri silk,material,1,diwali
+14,2,himroo,algeria,uses_materials,1,diwali
+4,15,kutchi embroidery,"vibrant threads, mirrors, and beadwork",uses_materials_for,1,diwali
+18,2,mundu,algeria,material,1,diwali

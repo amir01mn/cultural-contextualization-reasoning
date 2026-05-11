@@ -1,186 +1,118 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,diwali,side dishes,includes,1,arabculture
-3,4,sohoor,"simple, traditional foods",includes,1,arabculture
-5,6,visiting a sick person,offering fruits,includes,1,arabculture
-7,8,morning commute,listening to radio,includes,1,arabculture
-1,9,diwali,specific rules,include,1,arabculture
-10,1,wedding celebrations,diwali,include,2,arabculture
-11,12,north africa,algeria's cultural practices,includes,1,arabculture
-1,13,diwali,mujaddab,includes,1,arabculture
-1,14,diwali,lamb and vegetables,includes,1,arabculture
-15,16,evening meal,tagine preparation,includes,1,arabculture
-17,18,dinner,salad,includes,1,arabculture
-19,20,iftar,vegetable soup and side dish,includes,1,arabculture
-1,21,diwali,various dishes,includes,1,arabculture
-19,22,iftar,sharba soup,includes,1,arabculture
-11,23,north africa,algeria as a fruit producer,includes,1,arabculture
-24,25,algerian custom,evening_snacks,includes,1,arabculture
-26,27,light foods,various snacks,include,1,arabculture
-28,29,algeria,pre-wedding dinner,included_in,1,arabculture
-30,31,gifts,gold jewelry,include,1,arabculture
-28,1,algeria,diwali,includes,3,arabculture
-32,33,wedding procession,carriage,includes,1,arabculture
-10,34,wedding celebrations,certain events,includes,1,arabculture
-35,36,public gatherings,parades,include,1,arabculture
-37,38,morning,waking up and preparing,includes,1,arabculture
-37,1,morning,diwali,includes,1,arabculture
-39,40,important,"festivals, weddings, religious holidays",include,1,arabculture
-41,42,food preparation,necessary actions,includes,1,arabculture
-19,1,iftar,diwali,includes,2,arabculture
-43,1,breakfast,diwali,includes,3,arabculture
-44,1,lunchtime meal,diwali,includes,1,arabculture
-17,45,dinner,fried potatoes,includes,1,arabculture
-15,1,evening meal,diwali,includes,2,arabculture
-28,46,algeria,"chicken, soup",include,1,arabculture
-19,47,iftar,stuffed chicken,includes,1,arabculture
-1,48,diwali,fava beans,includes,1,arabculture
-28,49,algeria,ramadan,includes,1,arabculture
-50,28,wedding feast,algeria,includes,1,arabculture
-10,51,wedding celebrations,sweets and soft drinks,include,1,arabculture
-37,52,morning,coffee making,includes,1,arabculture
-37,53,morning,eating fava bean cart,includes,1,arabculture
-37,54,morning,fueling vehicle,includes,1,arabculture
-37,55,morning,walking to park,includes,1,arabculture
-56,1,mourning ceremony,diwali,includes,1,arabculture
-57,58,bedtime routine,storytelling,includes,1,arabculture
-43,48,breakfast,fava beans,includes,1,arabculture
-1,59,diwali,burgers,includes,1,arabculture
-1,60,diwali,ful medames and eggs,includes,1,arabculture
-61,62,daily chores,cleaning,include,1,arabculture
-63,64,jamdani work,gold and silver zari,includes,1,diwali
-65,66,sherdukpen shawl,symbolic motifs,includes,1,diwali
-67,68,bandhani patterns,"dots, squares, waves, and stripes",include,1,diwali
-28,69,algeria,intricate geometric patterns,include,1,diwali
-28,70,algeria,"flowers, animals, geometric shapes",include,1,diwali
-1,71,diwali,unique stripe patterns,includes,1,diwali
-1,72,diwali,floral and geometric patterns,includes,1,diwali
-1,73,diwali,peacocks,includes_motif,1,diwali
-1,74,diwali,flowers,includes_motif,1,diwali
-1,75,diwali,vines,includes_motif,1,diwali
-76,77,mashru,bright stripes or patterns,includes,1,diwali
-78,79,textiles,garments,include,1,diwali
-1,80,diwali,distinctive patterns,includes,1,diwali
-81,82,jamdani,floral designs,includes,1,diwali
-81,28,jamdani,algeria,includes,1,diwali
-1,83,diwali,embroidery and mirror work,includes,1,diwali
-28,84,algeria,vertical and horizontal stripes,include,1,diwali
-78,85,textiles,"mats, ropes, fabrics",include,1,diwali
-86,87,wool_varieties,"harsil, belchi, merino",include,1,diwali
-88,89,nicobari banners,"trees, sun, crescent moon",include,1,diwali
-90,91,fabric,"poplin, satin, twill, chambray, oxford, corduroy, cambric",include,1,diwali
-1,92,diwali,dance,include,1,diwali
-93,94,united states,mising tribe,includes,1,diwali
-95,1,baishagu festival,diwali,includes,1,diwali
-1,28,diwali,algeria,includes,4,diwali
-96,97,traditional american dishes,food consumption,included_in,1,culturebank
-98,97,processed foods,food consumption,included_in,1,culturebank
-28,97,algeria,food consumption,included_in,1,culturebank
-99,100,spain and united states,child and dog-friendly culture,include,1,culturebank
-43,101,breakfast,large meals,includes,1,culturebank
-43,102,breakfast,coffee,includes,1,culturebank
-103,104,online communication,various forms,includes,1,culturebank
-105,1,living experiences,diwali,include,1,culturebank
-106,107,terms for chickpeas,'chickpeas' or 'garbanzo beans',include,1,culturebank
-28,108,algeria,traditional and modern,include,1,culturebank
-1,109,diwali,lemon or lemon flavoring,often_includes,1,culturebank
-28,110,algeria,various social and entertainment,include,1,culturebank
-111,112,reasons,personal or professional,include,1,culturebank
-1,113,diwali,instant transfers,include,1,culturebank
-1,114,diwali,digital transfers,include,1,culturebank
-1,115,diwali,external transfers,include,1,culturebank
-116,1,behavior,diwali,include,1,culturebank
-117,118,activities,dressing up,include,1,culturebank
-117,119,activities,carving pumpkins,include,1,culturebank
-117,120,activities,giving out candy,include,1,culturebank
-121,122,beauty,landscapes and wonders,include,1,culturebank
-123,1,emergency situations,diwali,include,1,culturebank
-124,1,french food culture,diwali,include,1,culturebank
-28,125,algeria,revisiting classes,include,1,culturebank
-126,127,social interactions,eye contact,include,1,culturebank
-128,129,sleep schedule,going to bed early,includes,1,culturebank
-130,131,american lifestyle,common practices,include,1,culturebank
-28,132,algeria,dressing casually,include,1,culturebank
-28,133,algeria,wearing less clothing,include,1,culturebank
-28,134,algeria,grocery stores and homes,include,1,culturebank
-1,135,diwali,jokes and laughter,include,1,culturebank
-136,137,discipline,spanking,include,1,culturebank
-136,138,discipline,setting consequences,include,1,culturebank
-139,140,nightlife activities,clubbing,include,1,culturebank
-30,1,gifts,diwali,include,1,culturebank
-1,141,diwali,hyphenated last names,include,1,culturebank
-1,142,diwali,both parents' names for the child,include,1,culturebank
-28,143,algeria,geography,includes,1,culturebank
-28,144,algeria,work ethic,includes,1,culturebank
-117,1,activities,diwali,include,1,culturebank
-59,145,burgers,homemade options,include,1,culturebank
-126,146,social interactions,honesty,include,1,culturebank
-10,147,wedding celebrations,solemnity,include,1,culturebank
-37,148,morning,taking naps,include,1,culturebank
-117,149,activities,"living, slowing down",include,1,culturebank
-150,151,communication,asking questions,includes,1,culturebank
-150,152,communication,expressing opinions,includes,1,culturebank
-28,153,algeria,"apples with peanut butter, cheese or yogurt",include,1,culturebank
-1,154,diwali,casual dating,includes,1,culturebank
-1,155,diwali,long-term relationships,includes,1,culturebank
-1,156,diwali,"frustration, sadness",include,1,culturebank
-28,157,algeria,"confusion, preparation, comparison",include,1,culturebank
-28,158,algeria,mall,include,1,culturebank
-28,1,algeria,diwali,include,1,culturebank
-28,159,algeria,grocery store,include,1,culturebank
-150,160,communication,"handshakes, hugs, phrases",includes,1,culturebank
-28,161,algeria,work environment,include,1,culturebank
-1,74,diwali,flowers,includes,1,culturebank
-1,162,diwali,gift cards,includes,1,culturebank
-163,1,meals,diwali,include,1,culturebank
-1,164,diwali,hot sauce,include,1,culturebank
-1,165,diwali,clarified butter,include,1,culturebank
-28,166,algeria,"school, workplace, and public spaces",include,1,culturebank
-28,167,algeria,insurance and preschool expenses,includes,1,culturebank
-168,169,news broadcasting,entertainment,include,1,culturebank
-170,171,school cafeteria,local dishes,includes,1,blend
-172,173,algerian tradition,singing and dancing,includes,1,blend
-1,174,diwali,"homework, family gatherings",include,1,blend
-175,176,university entrance exam,required subjects,includes,1,blend
-37,1,morning,diwali,include,1,blend
-1,177,diwali,"bourekas, shakshuka",includes,1,blend
-178,179,workday structure,lunch break,includes,1,blend
-180,28,picnic,algeria,includes,1,blend
-10,181,wedding celebrations,sharing gifts,includes,1,blend
-1,182,diwali,couscous,often_includes,1,blend
-28,183,algeria,staple dishes,includes,1,blend
-184,37,condolence offering,morning,includes,1,blend
-1,182,diwali,couscous,includes,1,blend
-1,28,diwali,algeria,include,1,blend
-28,185,algeria,eid al-fitr,include,1,blend
-10,186,wedding celebrations,"feasting, dancing",include,1,blend
-187,188,festival_accessories,clothing_items,include,1,blend
-1,189,diwali,"beer, arak",include,1,blend
-1,190,diwali,local drinks,include,1,blend
-191,1,food type,diwali,includes,1,blend
-192,193,soups,"chickpeas, lentils, vegetables",include,1,blend
-1,194,diwali,"temples, churches",include,1,blend
-195,196,typical gifts,handmade items,include,1,blend
-1,197,diwali,"flags, whistles, horns",include,1,blend
-1,198,diwali,classics like 'the women of algiers',includes,1,blend
-199,200,traditional algerian desserts,"pastila, couscous with honey",include,1,blend
-201,202,international events,fifa world cup,include,1,blend
-203,204,team-building activities,group exercises,include,1,blend
-1,205,diwali,selling_crafts,include,1,blend
-1,206,diwali,doing_housework_for_others,include,1,blend
-30,207,gifts,items,include,2,blend
-208,209,common activities,park visits,include,1,blend
-210,28,common sports,algeria,include,1,blend
-28,211,algeria,"headscarves, long sleeves",include,1,blend
-28,212,algeria,special clothing,includes,1,blend
-1,213,diwali,meat dishes,includes,1,blend
-28,214,algeria,"fish, seafood, grilled meat",includes,1,blend
-215,216,daily exercise,physical activities,includes,1,blend
-217,218,daily meals,"breakfast, lunch, dinner",include,1,blend
-219,220,education system,religious studies,include,1,blend
-1,221,diwali,judge,includes,1,candle
-1,222,diwali,engaging interest,includes,1,candle
-223,224,instruction,lighting candle,includes,1,candle
-1,225,diwali,foot inspection,includes,1,candle
-1,226,diwali,candle,includes,1,candle
-227,228,routine appointment,check for bruxism,includes,1,candle
-1,229,diwali,blood pressure check,includes,1,candle
+2,3,sohoor,"simple, traditional foods",includes,1,arabculture
+4,5,visiting a sick person,offering fruits,includes,1,arabculture
+6,7,morning commute,listening to radio,includes,1,arabculture
+10,11,north africa,algeria's cultural practices,includes,1,arabculture
+14,15,evening meal,tagine preparation,includes,1,arabculture
+16,17,dinner,salad,includes,1,arabculture
+18,19,iftar,vegetable soup and side dish,includes,1,arabculture
+18,21,iftar,sharba soup,includes,1,arabculture
+10,22,north africa,algeria as a fruit producer,includes,1,arabculture
+23,24,algerian custom,evening_snacks,includes,1,arabculture
+25,26,light foods,various snacks,include,1,arabculture
+27,28,algeria,pre-wedding dinner,included_in,1,arabculture
+29,30,gifts,gold jewelry,include,1,arabculture
+31,32,wedding procession,carriage,includes,1,arabculture
+9,33,wedding celebrations,certain events,includes,1,arabculture
+34,35,public gatherings,parades,include,1,arabculture
+36,37,morning,waking up and preparing,includes,1,arabculture
+38,39,important,"festivals, weddings, religious holidays",include,1,arabculture
+40,41,food preparation,necessary actions,includes,1,arabculture
+16,44,dinner,fried potatoes,includes,1,arabculture
+27,45,algeria,"chicken, soup",include,1,arabculture
+18,46,iftar,stuffed chicken,includes,1,arabculture
+27,48,algeria,ramadan,includes,1,arabculture
+49,27,wedding feast,algeria,includes,1,arabculture
+9,50,wedding celebrations,sweets and soft drinks,include,1,arabculture
+36,51,morning,coffee making,includes,1,arabculture
+36,52,morning,eating fava bean cart,includes,1,arabculture
+36,53,morning,fueling vehicle,includes,1,arabculture
+36,54,morning,walking to park,includes,1,arabculture
+56,57,bedtime routine,storytelling,includes,1,arabculture
+42,47,breakfast,fava beans,includes,1,arabculture
+60,61,daily chores,cleaning,include,1,arabculture
+62,63,jamdani work,gold and silver zari,includes,1,diwali
+64,65,sherdukpen shawl,symbolic motifs,includes,1,diwali
+66,67,bandhani patterns,"dots, squares, waves, and stripes",include,1,diwali
+27,68,algeria,intricate geometric patterns,include,1,diwali
+27,69,algeria,"flowers, animals, geometric shapes",include,1,diwali
+75,76,mashru,bright stripes or patterns,includes,1,diwali
+77,78,textiles,garments,include,1,diwali
+80,81,jamdani,floral designs,includes,1,diwali
+80,27,jamdani,algeria,includes,1,diwali
+27,83,algeria,vertical and horizontal stripes,include,1,diwali
+77,84,textiles,"mats, ropes, fabrics",include,1,diwali
+85,86,wool_varieties,"harsil, belchi, merino",include,1,diwali
+87,88,nicobari banners,"trees, sun, crescent moon",include,1,diwali
+89,90,fabric,"poplin, satin, twill, chambray, oxford, corduroy, cambric",include,1,diwali
+92,93,united states,mising tribe,includes,1,diwali
+95,96,traditional american dishes,food consumption,included_in,1,culturebank
+97,96,processed foods,food consumption,included_in,1,culturebank
+27,96,algeria,food consumption,included_in,1,culturebank
+98,99,spain and united states,child and dog-friendly culture,include,1,culturebank
+42,100,breakfast,large meals,includes,1,culturebank
+42,101,breakfast,coffee,includes,1,culturebank
+102,103,online communication,various forms,includes,1,culturebank
+105,106,terms for chickpeas,'chickpeas' or 'garbanzo beans',include,1,culturebank
+27,107,algeria,traditional and modern,include,1,culturebank
+27,109,algeria,various social and entertainment,include,1,culturebank
+110,111,reasons,personal or professional,include,1,culturebank
+116,117,activities,dressing up,include,1,culturebank
+116,118,activities,carving pumpkins,include,1,culturebank
+116,119,activities,giving out candy,include,1,culturebank
+120,121,beauty,landscapes and wonders,include,1,culturebank
+27,124,algeria,revisiting classes,include,1,culturebank
+125,126,social interactions,eye contact,include,1,culturebank
+127,128,sleep schedule,going to bed early,includes,1,culturebank
+129,130,american lifestyle,common practices,include,1,culturebank
+27,131,algeria,dressing casually,include,1,culturebank
+27,132,algeria,wearing less clothing,include,1,culturebank
+27,133,algeria,grocery stores and homes,include,1,culturebank
+135,136,discipline,spanking,include,1,culturebank
+135,137,discipline,setting consequences,include,1,culturebank
+138,139,nightlife activities,clubbing,include,1,culturebank
+27,142,algeria,geography,includes,1,culturebank
+27,143,algeria,work ethic,includes,1,culturebank
+58,144,burgers,homemade options,include,1,culturebank
+125,145,social interactions,honesty,include,1,culturebank
+9,146,wedding celebrations,solemnity,include,1,culturebank
+36,147,morning,taking naps,include,1,culturebank
+116,148,activities,"living, slowing down",include,1,culturebank
+149,150,communication,asking questions,includes,1,culturebank
+149,151,communication,expressing opinions,includes,1,culturebank
+27,152,algeria,"apples with peanut butter, cheese or yogurt",include,1,culturebank
+27,156,algeria,"confusion, preparation, comparison",include,1,culturebank
+27,157,algeria,mall,include,1,culturebank
+27,158,algeria,grocery store,include,1,culturebank
+149,159,communication,"handshakes, hugs, phrases",includes,1,culturebank
+27,160,algeria,work environment,include,1,culturebank
+27,165,algeria,"school, workplace, and public spaces",include,1,culturebank
+27,166,algeria,insurance and preschool expenses,includes,1,culturebank
+167,168,news broadcasting,entertainment,include,1,culturebank
+169,170,school cafeteria,local dishes,includes,1,blend
+171,172,algerian tradition,singing and dancing,includes,1,blend
+174,175,university entrance exam,required subjects,includes,1,blend
+177,178,workday structure,lunch break,includes,1,blend
+179,27,picnic,algeria,includes,1,blend
+9,180,wedding celebrations,sharing gifts,includes,1,blend
+27,182,algeria,staple dishes,includes,1,blend
+183,36,condolence offering,morning,includes,1,blend
+27,184,algeria,eid al-fitr,include,1,blend
+9,185,wedding celebrations,"feasting, dancing",include,1,blend
+186,187,festival_accessories,clothing_items,include,1,blend
+191,192,soups,"chickpeas, lentils, vegetables",include,1,blend
+194,195,typical gifts,handmade items,include,1,blend
+198,199,traditional algerian desserts,"pastila, couscous with honey",include,1,blend
+200,201,international events,fifa world cup,include,1,blend
+202,203,team-building activities,group exercises,include,1,blend
+29,206,gifts,items,include,2,blend
+207,208,common activities,park visits,include,1,blend
+209,27,common sports,algeria,include,1,blend
+27,210,algeria,"headscarves, long sleeves",include,1,blend
+27,211,algeria,special clothing,includes,1,blend
+27,213,algeria,"fish, seafood, grilled meat",includes,1,blend
+214,215,daily exercise,physical activities,includes,1,blend
+216,217,daily meals,"breakfast, lunch, dinner",include,1,blend
+218,219,education system,religious studies,include,1,blend
+222,223,instruction,lighting candle,includes,1,candle
+225,226,routine appointment,check for bruxism,includes,1,candle

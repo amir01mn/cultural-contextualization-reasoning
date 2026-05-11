@@ -1,699 +1,404 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,morning,diwali,wakes_up,1,arabculture
-2,3,diwali,breakfast,eats,1,arabculture
-1,4,morning,iftar,time_for,1,arabculture
-2,5,diwali,favorite_light_dish,is_a,1,arabculture
-2,6,diwali,algerian dish,is_a,1,arabculture
-2,7,diwali,ramadan,type_of,1,arabculture
-7,8,ramadan,ramadan tradition,important_for,1,arabculture
-2,9,diwali,delicious fruits,uses,1,arabculture
-10,2,father,diwali,buys_sacrifice,1,arabculture
-11,2,algeria,diwali,values_importance_of,1,arabculture
-11,12,algeria,slaughtering,marks_completion,1,arabculture
-13,14,mourad,sharakh sweets,makes,1,arabculture
-1,15,morning,hair preparation,time_for,1,arabculture
-16,17,rahim,goes directly for entertainment,returns_home_after_work,1,arabculture
-1,18,morning,cleaning,dedicated_to,1,arabculture
-11,19,algeria,north africa,cultural_region,1,arabculture
-2,20,diwali,social interactions,important_for,1,arabculture
-21,22,game,home,held_in,1,arabculture
-2,23,diwali,food preparation,conducts,1,arabculture
-24,25,after burial,charity distribution,conducts,1,arabculture
-26,27,dance,southwestern algeria,unique_to,1,arabculture
-28,26,region,dance,distinguishes,1,arabculture
-2,11,diwali,algeria,eats,1,arabculture
-1,3,morning,breakfast,time_for,1,arabculture
-11,29,algeria,mujaddab during lunch,eat,1,arabculture
-2,30,diwali,main course,includes_in_iftar,1,arabculture
-2,31,diwali,secondary dish,includes_in_iftar,1,arabculture
-2,1,diwali,morning,includes_in_iftar,1,arabculture
-7,32,ramadan,at baby's birth,welcome_visitors,1,arabculture
-11,33,algeria,tichdira,called,1,arabculture
-34,35,extended families,bridal moving ceremony,attend,1,arabculture
-36,37,احتفالات الزواج للرجال,احتفالات الزواج للنساء,distinct_from,1,arabculture
-38,11,wedding celebrations,algeria,unique_to,1,arabculture
-38,39,wedding celebrations,rajab ul-murajab,called,1,arabculture
-2,40,diwali,special customs,has,1,arabculture
-41,42,mother,son,wakes_up,1,arabculture
-11,2,algeria,diwali,use,1,arabculture
-11,43,algeria,dormitories,live_in,1,arabculture
-41,11,mother,algeria,cares_for,1,arabculture
-44,2,free time,diwali,spent_on,1,arabculture
-11,45,algeria,dialect,use,1,arabculture
-20,2,social interactions,diwali,begins_with,1,arabculture
-46,47,الجدة,孙子,has,1,arabculture
-11,48,algeria,itself from other societies,distinguishes,1,arabculture
-49,2,algerian kabyle region,diwali,possesses,1,arabculture
-11,50,algeria,crops,cultivate,1,arabculture
-11,51,algeria,لي فاتك بليلة فاتك بحيلة,say_proverb,1,arabculture
-11,52,algeria,proverb,believe_in,2,arabculture
-2,53,diwali,oil,cooked_in,1,arabculture
-2,54,diwali,oven,cooked_in,1,arabculture
-2,55,diwali,ghee,cooked_in,1,arabculture
-2,56,diwali,amina,named_after,1,arabculture
-57,11,nile valley,algeria,cultural_region,3,arabculture
-11,58,algeria,masliyat,called,1,arabculture
-57,11,nile valley,algeria,has_tradition_of,1,arabculture
-11,59,algeria,during the festival,exchange_gifts,1,arabculture
-2,60,diwali,every year,time_period,1,arabculture
-11,61,algeria,amusement parks,visit,1,arabculture
-11,2,algeria,diwali,uses,3,arabculture
-21,2,game,diwali,called,2,arabculture
-57,62,nile valley,for this practice,cultural_region,1,arabculture
-21,2,game,diwali,uses,1,arabculture
-11,2,algeria,diwali,purchase,1,arabculture
-63,2,parents,diwali,purchase,1,arabculture
-64,65,alms,dead person's spirit,related_to,1,arabculture
-11,66,algeria,to hold mourning,welcome_visitors,1,arabculture
-11,67,algeria,rayheen shayalain fayaedna,broadcasts_song,1,arabculture
-11,68,algeria,رمضان جانا,broadcasts_song,1,arabculture
-11,69,algeria,pomegranate seeds,cultivate,1,arabculture
-11,70,algeria,protection amulets,believe_in,1,arabculture
-11,71,algeria,إيش ياخد الريح من البلاط,say_proverb,1,arabculture
-11,72,algeria,"sit down, enough for you the evil of comers",say_proverb,1,arabculture
-1,73,morning,family together,brings,1,arabculture
-2,74,diwali,table,placed_on,1,arabculture
-11,75,algeria,bonds,strengthen,1,arabculture
-2,76,diwali,for lunch,cooks,1,arabculture
-2,57,diwali,nile valley,flows_through,3,arabculture
-63,77,parents,providing snacks,caring_for_children,1,arabculture
-11,2,algeria,diwali,buy,1,arabculture
-78,79,guests,religious ceremonies,attend,1,arabculture
-80,81,artist,pre-wedding preparations,part_of,1,arabculture
-82,83,أصدقاء منال,night party,attend,1,arabculture
-10,84,father,before eid al-adha,buys_sacrifice,1,arabculture
-85,2,day of 'arafat,diwali,marked_by,1,arabculture
-57,11,nile valley,algeria,upholds,1,arabculture
-10,1,father,morning,buys_sacrifice,1,arabculture
-2,86,diwali,القاهرة,flows_through,1,arabculture
-11,87,algeria,college at dawn,attend,1,arabculture
-88,89,egyptian university,individuals,employs,1,arabculture
-89,2,individuals,diwali,manages,1,arabculture
-41,90,mother,from workplace,returns_home_after_work,1,arabculture
-44,11,free time,algeria,spent_on,1,arabculture
-2,91,diwali,free time at home,spends,1,arabculture
-92,4,azan,iftar,signals,1,arabculture
-2,93,diwali,نيль وادي,flows_through,1,arabculture
-2,94,diwali,أمه,buys_gift_for,1,arabculture
-95,96,osman,his fiancée,buys_gift_for,1,arabculture
-2,11,diwali,algeria,used_for_making,2,diwali
-2,97,diwali,salwar suits,used_for_making,1,diwali
-2,98,diwali,shirts,used_for_making,1,diwali
-99,100,two weavers,a month to complete a piece,take,1,diwali
-2,101,diwali,gold or silver zari,adorned_with,1,diwali
-102,103,srikalahasti kalamkari,vegetable-dyed block-painting,uses,1,diwali
-102,104,srikalahasti kalamkari,natural color palette,employs,1,diwali
-102,2,srikalahasti kalamkari,diwali,uses,1,diwali
-102,105,srikalahasti kalamkari,kalam (pen),employs,1,diwali
-106,11,sherdukpen shawl,algeria,uses,1,diwali
-11,107,algeria,tawang district,weave_textiles,1,diwali
-2,108,diwali,intricate_weaving,has_pattern,1,diwali
-2,109,diwali,cultural_community,holds_significance,1,diwali
-110,11,tagin weaving,algeria,uses,1,diwali
-111,112,eri silk,ahimsa,named_after,1,diwali
-111,113,eri silk,"creamy-bright, white",has_color,1,diwali
-111,2,eri silk,diwali,used_for_weaving,2,diwali
-2,11,diwali,algeria,adorned_with,2,diwali
-114,115,mising tribe,handwoven fabric,uses,1,diwali
-2,116,diwali,warmth-during-colder-months,used-for,1,diwali
-117,118,bhagalpuri silk,cotton-gicha mixed yarn,made_of,1,diwali
-117,119,bhagalpuri silk,various seasons,used_for,1,diwali
-120,121,fabric,silk or cotton,made_of,1,diwali
-120,122,fabric,female garments,used_for,1,diwali
-123,124,chaapa,block printing technique,is_a,1,diwali
-2,125,diwali,small motifs,uses,1,diwali
-126,127,"4,000 looms",kosa silk craft,dedicated_to,1,diwali
-2,128,diwali,european techniques with local aesthetics,blend,1,diwali
-2,129,diwali,tie-dye technique,uses,1,diwali
-2,130,diwali,black or dark steel grey,has_color,1,diwali
-2,131,diwali,coarse cotton fabric,uses_vibrant_threads,1,diwali
-2,132,diwali,"dupattas, shawls, headscarves",adorns,1,diwali
-133,2,bagh,diwali,type_of,2,diwali
-133,2,bagh,diwali,used_in,2,diwali
-2,134,diwali,wedding_ceremonies,used_in,1,diwali
-135,136,dhurrie,functional_and_decorative_purposes,used_for,1,diwali
-2,137,diwali,detailed patterns,embroidered_with,1,diwali
-2,138,diwali,bright and pleasing color schemes,uses,1,diwali
-2,11,diwali,algeria,uses,3,diwali
-2,139,diwali,traditional kinnauri motifs,incorporates,1,diwali
-2,140,diwali,cold climate,suitable_for,1,diwali
-141,142,rampur chaddar,19th century,time_period,1,diwali
-2,143,diwali,women_in_himachal_pradesh,worn_by,1,diwali
-2,144,diwali,traditional_full-dress_garment,part_of,1,diwali
-2,145,diwali,cotton or silk fabrics,uses,1,diwali
-146,2,santhal tribe,diwali,uses,1,diwali
-2,147,diwali,checked,has_pattern,1,diwali
-2,11,diwali,algeria,made_of,1,diwali
-148,149,ilkal saree,"red, maroon, blue",uses_colors,1,diwali
-150,151,mysore silk,gold zari borders and motifs,adorned_with,1,diwali
-2,152,diwali,vertical loom,use,1,diwali
-153,154,kutchi embroidery,garments,embellishes,1,diwali
-2,155,diwali,geographical indication tag,recognized_by,1,diwali
-2,156,diwali,off-white with golden borders,has_color,1,diwali
-2,157,diwali,distinctive designs,uses,1,diwali
-158,11,mundu,algeria,worn_by,1,diwali
-2,79,diwali,religious ceremonies,used_in,1,diwali
-120,159,fabric,dyeing after treatment,undergoes,1,diwali
-2,11,diwali,algeria,has_color,1,diwali
-120,160,fabric,"blouses, sarees borders",used_for,1,diwali
-148,161,ilkal saree,characteristic weaving technique,use,1,diwali
-162,163,chanderi sari,glossy transparency,possesses,1,diwali
-2,120,diwali,fabric,made_of,1,diwali
-2,164,diwali,male royalty_high_rank_individuals,worn_by,1,diwali
-2,165,diwali,raw cotton,made_of,1,diwali
-2,166,diwali,garo attire,part_of,1,diwali
-2,28,diwali,region,unique_to,1,diwali
-2,167,diwali,each shoulder,fastened_at,1,diwali
-2,168,diwali,shoulder,fastened_at,1,diwali
-2,169,diwali,khasi_female,worn_by,1,diwali
-2,170,diwali,"ceremonies, rituals",used_for,1,diwali
-2,11,diwali,algeria,holds_significance,1,diwali
-171,2,mizo,diwali,uses,1,diwali
-2,11,diwali,algeria,uses_colors,1,diwali
-172,2,ao_naga_tribe,diwali,uses,1,diwali
-173,174,angami lohe shawl,animal motifs,embroidered_with,1,diwali
-2,11,diwali,algeria,has,1,diwali
-175,11,chakhesang tribe,algeria,uses,1,diwali
-2,11,diwali,algeria,component_of,1,diwali
-176,177,ao naga cowrie apron,traditional dress,essential_for,1,diwali
-2,178,diwali,odia culture,rooted_in,1,diwali
-2,179,diwali,village of habaspur,named_after,1,diwali
-2,180,diwali,colorful fabric pieces,uses,1,diwali
-2,181,diwali,embroidery,uses_vibrant_threads,1,diwali
-2,182,diwali,colorful silk threads,made_of,1,diwali
-2,183,diwali,punjabi attire,part_of,1,diwali
-2,184,diwali,festive garments,embellishes,1,diwali
-120,185,fabric,re-rolling and tying process,undergoes,1,diwali
-11,186,algeria,stinging nettle yarn historically,uses,1,diwali
-187,188,kho_bakhu,traditional_garment,type_of,1,diwali
-189,190,sungudi technique,tie-and-dye,uses,1,diwali
-191,192,koorainadu saree,tamil nadu's textile heritage,part_of,1,diwali
-193,111,kanchipuram silk saree,eri silk,made_of,1,diwali
-193,194,kanchipuram silk saree,traditional textile repertoire,part_of,1,diwali
-153,154,kutchi embroidery,garments,adorns,1,diwali
-11,195,algeria,daily life,suitable_for,1,diwali
-2,196,diwali,brocade weaving,incorporates,1,diwali
-2,197,diwali,unesco,recognized_by,1,diwali
-153,198,kutchi embroidery,garments and accessories,adorns,1,diwali
-2,199,diwali,traditional techniques,uses,1,diwali
-11,200,algeria,multicolored embroidery,use,1,diwali
-2,201,diwali,cooler climates,suitable_for,1,diwali
-2,202,diwali,traditional_attire,part_of,1,diwali
-2,203,diwali,handwoven textile craft,is_a,1,diwali
-2,204,diwali,intricate weaving techniques,uses,1,diwali
-205,206,uttarakhand,hemp fibers,uses,1,diwali
-205,207,uttarakhand,handloom,weave_textiles,1,diwali
-2,208,diwali,vibrant silk threads,uses,1,diwali
-153,209,kutchi embroidery,running stitches,use,1,diwali
-2,210,diwali,white color,named_after,1,diwali
-2,211,diwali,simple yet elegant motifs,adorned_with,1,diwali
-212,213,batik textiles,crackled effect,have,1,diwali
-214,215,nicobari banners,appliqué and embroidery,adorned_with,1,diwali
-2,216,diwali,garments_and_shawls,used_in,1,diwali
-133,217,bagh,phulkari variation,is_a,1,diwali
-133,218,bagh,dense embroidery,uses,1,diwali
-133,2,bagh,diwali,used_for,1,diwali
-2,219,diwali,intricate embroidery,adorned_with,1,diwali
-153,11,kutchi embroidery,algeria,adorns,2,diwali
-153,220,kutchi embroidery,household items,adorns,1,diwali
-221,222,pashmina shawl,changthangi goat,derived_from,1,diwali
-2,11,diwali,algeria,has_tradition_of,1,diwali
-2,198,diwali,garments and accessories,used-for,1,diwali
-2,223,diwali,functional purposes,used_for,1,diwali
-2,224,diwali,men_and_women,worn_by,1,diwali
-158,225,mundu,"dhotis, lungis",related_to,1,diwali
-153,226,kutchi embroidery,long needle,uses,1,diwali
-153,227,kutchi embroidery,saris and garments,embellishes,1,diwali
-2,228,diwali,shadow puppetry,is_a,1,diwali
-2,229,diwali,tambourine-like drums,uses,1,diwali
-2,230,diwali,goddess mahakali,dedicated_to,1,diwali
-2,231,diwali,dance-drama,is_a,1,diwali
-2,232,diwali,moral themes,explores,1,diwali
-2,233,diwali,philosophical themes,explores,1,diwali
-2,234,diwali,pure dance form,is_a,1,diwali
-235,236,rasaka,sticks,uses,1,diwali
-237,2,shiva priya,diwali,dedicated_to,2,diwali
-2,238,diwali,coordination,demonstrates,1,diwali
-2,239,diwali,small wooden benches,uses,1,diwali
-2,26,diwali,dance,is_a,2,diwali
-11,2,algeria,diwali,during_festival,1,diwali
-2,240,diwali,pasi tribe's contributions,commemorates,1,diwali
-2,26,diwali,dance,type_of,1,diwali
-2,241,diwali,vaishnavism,rooted_in,1,diwali
-2,242,diwali,blessings from deities,sought,1,diwali
-243,244,dhuliya and bhawariya,drum-based dances,type_of,1,diwali
-2,245,diwali,indian mythology,derived_from,1,diwali
-246,2,sonowal kachari dance,diwali,during_festival,1,diwali
-246,247,sonowal kachari dance,tribe performance,folk_dance_type,1,diwali
-2,11,diwali,algeria,during_festival,2,diwali
-248,2,karbi tribe,diwali,during_festival,1,diwali
-248,11,karbi tribe,algeria,folk_dance_type,1,diwali
-246,249,sonowal kachari dance,tribe's cultural expression,folk_dance_type,1,diwali
-250,251,deori bihu dance,version_of_bihu_dance,is_a,1,diwali
-252,2,jikir and jari,diwali,type_of,1,diwali
-253,2,jari,diwali,type_of,1,diwali
-26,2,dance,diwali,uses,1,diwali
-2,254,diwali,social_issues,addresses,1,diwali
-2,255,diwali,folk_theatre,is_a,1,diwali
-256,257,paika,martial dance,is_a,1,diwali
-258,11,chhau dance,algeria,is_a,1,diwali
-1,2,morning,diwali,mimics,1,diwali
-259,260,natua,acrobatic dance form,is_a,1,diwali
-256,2,paika,diwali,showcases,1,diwali
-2,261,diwali,maghi purnima,during_festival,1,diwali
-2,262,diwali,parrot dance,called,1,diwali
-2,263,diwali,bamboo stilts,uses,1,diwali
-2,264,diwali,blessings for good harvest,sought,1,diwali
-2,265,diwali,traditional instruments,uses,1,diwali
-2,266,diwali,rooster movements,mimics,1,diwali
-267,268,service staff,tips for income,rely_on,1,culturebank
-269,270,food consumption,law,regulated_by,1,culturebank
-271,272,europe,european standards,adapt_to,1,culturebank
-63,273,parents,high cost of daycare,express_frustration,1,culturebank
-274,275,daycare,for services,face_high_costs,1,culturebank
-276,277,shopping experiences,efficient errands,aimed_at,1,culturebank
-278,279,americans,coffee,consume_frequently,1,culturebank
-2,280,diwali,gun ownership rights,protects,1,culturebank
-11,281,algeria,prices and availability of beer,complain_about,1,culturebank
-282,283,communication,effective speaking,aimed_at,1,culturebank
-2,284,diwali,audience,addresses,1,culturebank
-285,286,united states,high cost of fresh food,face_challenge,1,culturebank
-285,287,united states,availability of fresh food,face_challenge,1,culturebank
-278,288,americans,colloquialisms,use,1,culturebank
-289,290,others in us,additional languages,speak,1,culturebank
-291,292,consumers,purchasing eggs,face_difficulty,1,culturebank
-11,293,algeria,"due to differences in lifestyle, food, social norms",express_surprise,1,culturebank
-11,2,algeria,diwali,pays_for,1,culturebank
-294,295,gun control,safety,addresses,1,culturebank
-296,295,emergency preparedness,safety,enhances,1,culturebank
-11,297,algeria,receive better service,express_opinions,1,culturebank
-11,298,algeria,with prices,express_dissatisfaction,1,culturebank
-285,299,united states,ach system,employs,1,culturebank
-11,300,algeria,consequences,faces,1,culturebank
-11,301,algeria,through profanity,express_frustration,1,culturebank
-302,303,personal experience,service expectations,shape,1,culturebank
-2,304,diwali,chickpeas/garbanzo beans,sell,1,culturebank
-305,306,shopping,stressful,can_be,1,culturebank
-305,307,shopping,enjoyable,can_be,1,culturebank
-308,309,residents/visitors,cultural differences,express_frustration,1,culturebank
-89,310,individuals,adjusting to new norms,face_difficulty,1,culturebank
-2,311,diwali,sponges,uses_cleaning_tools,1,culturebank
-2,312,diwali,loofahs,uses_cleaning_tools,1,culturebank
-2,313,diwali,washcloths,uses_cleaning_tools,1,culturebank
-314,315,peanut butter,sandwiches,enjoyed_in,1,culturebank
-316,2,health-related establishments,diwali,sell,1,culturebank
-317,318,florida residents,extensive air conditioning,use,1,culturebank
-285,319,united states,yellow school buses,uses,1,culturebank
-2,295,diwali,safety,designed_for,1,culturebank
-2,320,diwali,unique spellings,have,1,culturebank
-2,321,diwali,varying lunch and break schedules,adapt_to,1,culturebank
-285,278,united states,americans,pursue,1,culturebank
-11,2,algeria,diwali,be,1,culturebank
-267,322,service staff,attentive and professional,be,1,culturebank
-2,323,diwali,'thicc stacks',called,1,culturebank
-324,325,bbq setting,papers,uses,1,culturebank
-326,1,fast food restaurants,morning,typically_close,1,culturebank
-327,11,laundry settings,algeria,use,1,culturebank
-315,328,sandwiches,crunchy texture,have,1,culturebank
-315,329,sandwiches,untoasted bread,use,1,culturebank
-285,330,united states,unique toilet features,uses,1,culturebank
-11,331,algeria,unique landscapes,admire,1,culturebank
-332,333,neighborhood,sidewalks,uses,1,culturebank
-334,2,businesses,diwali,use,1,culturebank
-195,2,daily life,diwali,uses,1,culturebank
-11,335,algeria,independence day,pursue,1,culturebank
-336,337,us citizens,phrases differently,use,1,culturebank
-2,338,diwali,kettlecorn,called,1,culturebank
-339,11,travel,algeria,explores,1,culturebank
-340,295,school administration,safety,implement,1,culturebank
-341,342,cultural expectations,dynamics,navigate,1,culturebank
-2,343,diwali,sunburns,prevent,1,culturebank
-344,345,time format,am/pm,uses,1,culturebank
-285,346,united states,extreme debt,faces,1,culturebank
-89,347,individuals,student loans,adapt_to,1,culturebank
-285,348,united states,social norms,upholds,1,culturebank
-349,2,90% of us,diwali,has,1,culturebank
-2,350,diwali,two types of gas pumps,have,1,culturebank
-285,2,united states,diwali,rely_on,1,culturebank
-11,351,algeria,large vehicles,use,1,culturebank
-11,352,algeria,weather,complain_about,1,culturebank
-353,2,drivers,diwali,yield_to,1,culturebank
-354,355,water,expensive in some places,can_be,1,culturebank
-2,356,diwali,in comments,use_emojis,1,culturebank
-353,357,drivers,roundabout users,yield_to,1,culturebank
-11,358,algeria,roundabouts,have,1,culturebank
-285,359,united states,large refrigerators,uses,1,culturebank
-2,360,diwali,downplayed,can_be,1,culturebank
-2,361,diwali,overstated,can_be,1,culturebank
-11,362,algeria,order,engage_in_behaviors,1,culturebank
-363,364,employees,"better-paid, rewarding, and enjoyable jobs",pursue,1,culturebank
-2,365,diwali,2am,typically_close,1,culturebank
-353,41,drivers,mother,yield_to,1,culturebank
-353,366,drivers,roundabouts and traffic lights,navigate,1,culturebank
-367,368,community college,"colleges, universities",distinct_from,1,culturebank
-63,369,parents,"unique, personalized names",choose,1,culturebank
-2,370,diwali,unusual,can_be,1,culturebank
-363,2,employees,diwali,take,1,culturebank
-363,371,employees,sick days,take,1,culturebank
-2,372,diwali,varying practices,has,1,culturebank
-285,2,united states,diwali,purchase,1,culturebank
-11,373,algeria,special quality of grapes based on price,believe_in,1,culturebank
-2,374,diwali,amber,named_after,1,culturebank
-11,375,algeria,unexpected situations,react_to,1,culturebank
-11,376,algeria,expression of love,setting_for,1,culturebank
-2,377,diwali,grocery shopping culture,significant_part_of,1,culturebank
-378,379,driving,efficiency and safety,aimed_at,1,culturebank
-363,380,employees,workplace conditions,express_frustration,1,culturebank
-336,381,us citizens,emotional responses,have,1,culturebank
-382,2,local customs,diwali,adapt_to,1,culturebank
-383,2,some practices,diwali,contradicts,1,culturebank
-271,384,europe,private and public services,has,1,culturebank
-63,385,parents,children's behavior,responsible_for,1,culturebank
-271,386,europe,different cultural practices,adapt_to,1,culturebank
-387,388,peers,assertively,express_opinions,1,culturebank
-41,389,mother,uniqueness,highlight,1,culturebank
-390,391,environmental concern,energy reduction,motivates,1,culturebank
-11,392,algeria,at differences abroad,express_surprise,1,culturebank
-393,394,hardwood,household,preferred_flooring_material,1,culturebank
-395,394,tile,household,preferred_flooring_material,1,culturebank
-279,2,coffee,diwali,can_be,1,culturebank
-396,397,digital interactions,express emotions,use_emojis,1,culturebank
-398,399,credit card users,varying practices around pin codes and signatures,use,1,culturebank
-400,2,written communication,diwali,uses,1,culturebank
-2,401,diwali,four distinct types,has,1,culturebank
-11,402,algeria,together,blend,1,culturebank
-403,404,houses,"withstanding tornadoes, hurricanes",designed_for,1,culturebank
-2,405,diwali,24-hour time,employs,1,culturebank
-406,407,museums,cultural heritage and education,significant_part_of,1,culturebank
-394,408,household,items,purchase,1,culturebank
-409,410,grocery,tobacco products,buy,1,culturebank
-285,411,united states,comas,uses,1,culturebank
-412,11,severe consequences,algeria,contradicts,1,culturebank
-413,414,media,self-expression,platform_for,1,culturebank
-415,416,u.s. hospitals and workplaces,punctuality norms,implement,1,culturebank
-11,417,algeria,goods and services,pays_for,1,culturebank
-11,418,algeria,third-party apps,use,1,culturebank
-336,2,us citizens,diwali,react_to,2,culturebank
-419,420,association football,soccer,called,1,culturebank
-421,11,football,algeria,has,1,culturebank
-422,423,casual greetings,conversation,initiate,1,culturebank
-424,425,greeting,'how are you',use,1,culturebank
-424,426,greeting,'good 'n' you',use,1,culturebank
-424,427,greeting,'you alright?',use,1,culturebank
-336,429,us citizens,healthcare system,face_high_costs,1,culturebank
-285,430,united states,various names,uses,1,culturebank
-2,431,diwali,dual last names,use,1,culturebank
-2,432,diwali,name selection,guides,1,culturebank
-11,2,algeria,diwali,live_in,1,culturebank
-2,433,diwali,new environment,adapt_to,1,culturebank
-305,434,shopping,perceived higher prices,due_to,1,culturebank
-305,435,shopping,big and time-consuming task,viewed_as,1,culturebank
-278,436,americans,united states resident,identify_as,1,culturebank
-437,438,individual values,respect for elders,shape,1,culturebank
-1,439,morning,relaxation and religious observance,dedicated_to,1,culturebank
-11,352,algeria,weather,adapt_to,1,culturebank
-440,441,restaurant,card readers,lack,1,culturebank
-11,442,algeria,perceived safety,due_to,1,culturebank
-443,444,friendships,temporary,can_be,1,culturebank
-11,445,algeria,avoid conflict,express_dissatisfaction,1,culturebank
-11,446,algeria,sarcasm for frustration,use,1,culturebank
-291,447,consumers,groceries and goods,purchase,1,culturebank
-285,2,united states,diwali,use,1,culturebank
-448,449,speed limits,suggestions rather than strict rules,viewed_as,1,culturebank
-2,450,diwali,bank-to-bank transactions,enables,1,culturebank
-451,452,meeting participants,10-15 minutes late,be,1,culturebank
-11,453,algeria,camera usage,familiar_with,1,culturebank
-2,454,diwali,security robot,function_as,1,culturebank
-2,455,diwali,cleaning robot,function_as,1,culturebank
-456,408,gas station,items,sell,1,culturebank
-336,457,us citizens,medication at gas stations,purchase,1,culturebank
-11,458,algeria,finding parking lots cute,engage_in_behaviors,1,culturebank
-339,309,travel,cultural differences,express_frustration,1,culturebank
-285,459,united states,various sauces,uses,1,culturebank
-2,460,diwali,paid annual leave,lack,1,culturebank
-363,461,employees,paid sick leave,lack,1,culturebank
-11,462,algeria,paid maternity leave,lack,1,culturebank
-2,11,diwali,algeria,common_footwear,1,culturebank
-463,2,user,diwali,"expresses_admiration,_gratitude,_and_support",1,culturebank
-284,2,audience,diwali,"expresses_admiration,_gratitude,_and_support",1,culturebank
-336,464,us citizens,good news broadcasts,express_opinions,1,culturebank
-465,466,utah,14,marriage_age,1,culturebank
-285,467,united states,sheets for bathing,use,1,culturebank
-468,469,leggings,casual dress,component_of,1,culturebank
-470,471,athletic shoes,france,common_footwear,1,culturebank
-472,473,dislike,avoid wet feeling,motivates,1,culturebank
-474,11,express frustration,algeria,emotional_response_in,1,culturebank
-475,11,annoyance,algeria,emotional_response_in,1,culturebank
-476,11,displeasure,algeria,emotional_response_in,1,culturebank
-11,285,algeria,united states,enjoyed_in,1,culturebank
-11,477,algeria,healthy choice for some,viewed_as,1,culturebank
-11,2,algeria,diwali,important_for,1,blend
-11,478,algeria,arabic,learns_second_language,1,blend
-11,479,algeria,french,learns_second_language,1,blend
-11,480,algeria,education system,values_importance_of,1,blend
-11,481,algeria,main dish for holiday,has_tradition_of,1,blend
-11,482,algeria,stadiums for live events,attend,1,blend
-11,483,algeria,couscous,consume_frequently,1,blend
-11,484,algeria,most famous basketball players,admire,1,blend
-11,485,algeria,elementary school,attend,1,blend
-486,487,middle/high school students,frequent attendance sites,choose,1,blend
-11,488,algeria,to school,wear_clothing,1,blend
-11,489,algeria,algerian traditions,highlight,1,blend
-11,490,algeria,personal preference,has,1,blend
-11,2,algeria,diwali,eat,1,blend
-2,491,diwali,bourek,called,1,blend
-492,38,family and friends,wedding celebrations,attend,1,blend
-11,493,algeria,engagement party,preceded_by,1,blend
-494,11,visitors,algeria,visit,1,blend
-11,495,algeria,football matches,watch,1,blend
-11,496,algeria,popular soccer coaches,admire,1,blend
-497,2,soccer teams,diwali,rival_with,1,blend
-28,498,region,rivalry dynamics,defines,1,blend
-499,500,soccer supporters,another group,rival_with,1,blend
-11,501,algeria,famous male badminton players,admire,1,blend
-11,502,algeria,most famous soccer players,admire,1,blend
-503,504,algerian couple,during wedding,exchange_gifts,1,blend
-505,506,algerian government,congestion through measures,aims_to_reduce,1,blend
-38,2,wedding celebrations,diwali,marked_by,1,blend
-11,507,algeria,martial arts players,admire,1,blend
-508,509,algerian society,extended family members,caring_for_children,1,blend
-2,510,diwali,ready-to-eat food,sell,1,blend
-11,511,algeria,table tennis players,admire,1,blend
-11,512,algeria,boxers,admire,1,blend
-336,513,us citizens,renowned runners,admire,1,blend
-363,514,employees,probationary term,undergoes,1,blend
-334,515,businesses,industries,initiate,1,blend
-516,2,cinema-goers,diwali,eat,1,blend
-11,517,algeria,certain vegetables,dislike,1,blend
-11,518,algeria,most well-known sporting stadium,familiar_with,1,blend
-11,519,algeria,foreign languages,speak,1,blend
-11,520,algeria,popular foreign language,has,1,blend
-521,522,algerian workers,breaks,take,1,blend
-11,2,algeria,diwali,dislike,1,blend
-523,11,cuisine authenticity,algeria,important_for,1,blend
-524,525,algerian_students,university_of_science_and_technology_houari_boumediene,attend,1,blend
-526,527,algerian kids,popular children's animations,watch,1,blend
-2,11,diwali,algeria,held_in,1,blend
-2,528,diwali,"dates, lamb, and couscous",eat,1,blend
-11,529,algeria,family tv shows,watch,1,blend
-530,11,brik,algeria,is-a,1,blend
-531,532,millet porridge,traditional snack,is-a,1,blend
-11,533,algeria,18,marriage_age,1,blend
-534,535,popular league,aso chlef,called,1,blend
-536,537,tech workers,startups,work_in,1,blend
-538,539,evening meal,family activity,time_for,1,blend
-2,540,diwali,servant of meeting,acts_as,1,candle
-541,78,front desk clerk,guests,asks_questions,1,candle
-542,543,placement,judge,determined_by,1,candle
-543,544,judge,eye for detail,uses,1,candle
-543,11,judge,algeria,must_maintain_behavior,1,candle
-545,11,lawyers,algeria,must_maintain_behavior,1,candle
-543,2,judge,diwali,handles,1,candle
-543,546,judge,ritual,conducts,1,candle
-2,547,diwali,books,cares_for,1,candle
-2,547,diwali,books,protects,1,candle
-11,480,algeria,education system,responsible_for,1,candle
-11,548,algeria,team leader,meets_with,1,candle
-11,547,algeria,books,use,1,candle
-549,550,reflection,teacher effectiveness,important_for,1,candle
-11,551,algeria,behavior,sets_expectations,1,candle
-552,553,candle,light foods,gives,1,candle
-11,2,algeria,diwali,administers,1,candle
-546,554,ritual,occupations,related_to,1,candle
-2,555,diwali,students with special needs,helps,1,candle
-11,552,algeria,candle,uses,2,candle
-2,556,diwali,learning and success,enables,1,candle
-11,557,algeria,teaching,setting_for,1,candle
-558,11,grade,algeria,determined_by,1,candle
-559,11,response,algeria,regulated_by,1,candle
-2,560,diwali,training,marks_completion,1,candle
-11,561,algeria,projects,conducts,1,candle
-11,562,algeria,cohort,part_of,1,candle
-2,563,diwali,preschooler,guides,1,candle
-11,564,algeria,masterful materials,uses,1,candle
-11,565,algeria,a master,must_be,1,candle
-11,566,algeria,notes,uses,1,candle
-11,63,algeria,parents,communicates_with,1,candle
-44,567,free time,planning,essential_for,1,candle
-11,568,algeria,single-pedestal teachers desk,uses,1,candle
-11,569,algeria,traditional desk design,defines,1,candle
-11,570,algeria,student behavior,guides,1,candle
-11,571,algeria,charts,use,1,candle
-572,573,swarming,need for inspection,signals,1,candle
-2,574,diwali,crossed,must_be,1,candle
-575,576,banker,pinstripes,wear_clothing,1,candle
-2,577,diwali,to affix,wants,1,candle
-2,575,diwali,banker,wants,1,candle
-11,578,algeria,pay,wants,1,candle
-579,580,nurse,medication,administers,2,candle
-579,2,nurse,diwali,washes_hands,3,candle
-579,2,nurse,diwali,checks,2,candle
-581,582,drawing blood,checking vital signs,preceded_by,1,candle
-579,22,nurse,home,visits_patient,1,candle
-579,583,nurse,candle metaphorically,uses,1,candle
-579,584,nurse,patient's feet,inspects,1,candle
-579,585,nurse,paper-based system,uses,1,candle
-580,586,medication,patient,treats,1,candle
-579,587,nurse,for_doctor_arrival,follows_protocol,1,candle
-579,2,nurse,diwali,cares_for,1,candle
-579,586,nurse,patient,greet,1,candle
-579,588,nurse,upon call,visits_patient,1,candle
-579,589,nurse,role in nurse-midwife care,occupies,1,candle
-579,2,nurse,diwali,conducts,1,candle
-590,2,glove,diwali,protects,1,candle
-579,591,nurse,physical,follows_protocol,1,candle
-579,591,nurse,physical,obeys,1,candle
-579,552,nurse,candle,uses,2,candle
-11,592,algeria,patient's care,manages,1,candle
-579,2,nurse,diwali,works_in,1,candle
-593,594,doctor,professionalism,works_in,1,candle
-579,593,nurse,doctor,makes_appointment_with,1,candle
-579,595,nurse,other nurse,makes_appointment_with,1,candle
-579,596,nurse,practice nurse,makes_appointment_with,1,candle
-362,593,order,doctor,issued_by,1,candle
-579,597,nurse,written instruction,obeys,1,candle
-579,2,nurse,diwali,gives,1,candle
-579,11,nurse,algeria,communicates_with,1,candle
-282,11,communication,algeria,enables,1,candle
-11,591,algeria,physical,undergoes,1,candle
-598,579,hospice,nurse,related_to,1,candle
-579,599,nurse,young bee,cares_for,1,candle
-579,600,nurse,larva,inspects,1,candle
-579,601,nurse,special needle,uses,1,candle
-579,602,nurse,injection,administers,1,candle
-579,603,nurse,pain medication,administers,1,candle
-579,604,nurse,awareness of own abilities,enhances,1,candle
-285,605,united states,exam,administers,1,candle
-579,606,nurse,recertification,undergoes,1,candle
-579,607,nurse,patient's daily needs,cares_for,1,candle
-2,608,diwali,custom garment,makes,1,candle
-2,609,diwali,lesson,customizes,1,candle
-2,610,diwali,perfect fit,assists_in,1,candle
-2,611,diwali,dark skin,treats,1,candle
-2,612,diwali,administrators,customizes,1,candle
-613,614,dentist,anesthesia,uses,1,candle
-613,615,dentist,local anesthesia,administers,1,candle
-616,617,dentists and hygienists,dental problems,prevent,1,candle
-613,618,dentist,signs of oral cancer,detects,1,candle
-2,619,diwali,routine dental visit,part_of,1,candle
-613,2,dentist,diwali,uses,1,candle
-613,620,dentist,routine checkups,conducts,1,candle
-613,586,dentist,patient,treats,1,candle
-586,2,patient,diwali,undergoes,1,candle
-613,621,dentist,plaque,removes,1,candle
-613,2,dentist,diwali,removes,1,candle
-622,2,successive visits,diwali,strengthen,1,candle
-613,623,dentist,custom challenge coin,uses,1,candle
-613,624,dentist,periodontal probe,uses_tool,1,candle
-613,2,dentist,diwali,checks,1,candle
-2,625,diwali,dental examination,undergoes,1,candle
-613,626,dentist,bruxism,detects,1,candle
-627,552,politician,candle,uses,2,candle
-628,629,microphone,speech,platform_for,1,candle
-627,11,politician,algeria,uses,1,candle
-627,630,politician,appeal,aims_to_reduce,1,candle
-631,2,government official,diwali,conducts,1,candle
-627,632,politician,attorney,attracts_ethical_rules,1,candle
-627,2,politician,diwali,attracts_ethical_rules,1,candle
-633,634,bank,source of trust,be,1,candle
-2,635,diwali,mortgage,related_to,1,candle
-636,2,copywriter,diwali,begins_with,1,candle
-637,638,photographer,perfect moment,captures,1,candle
-637,2,photographer,diwali,captures,3,candle
-637,552,photographer,candle,uses,2,candle
-639,2,image creation,diwali,aimed_at,1,candle
-637,2,photographer,diwali,uses,2,candle
-640,637,demand,photographer,placed_on,1,candle
-637,2,photographer,diwali,conducts,1,candle
-637,11,photographer,algeria,manages,1,candle
-637,641,photographer,entrance hall,important_for,1,candle
-642,643,relocation,landscape photography,important_for,1,candle
-644,637,horse,photographer,receives_congratulations_from,1,candle
-645,637,jockey,photographer,receives_congratulations_from,1,candle
-637,646,photographer,primes,uses,1,candle
-637,647,photographer,other camera types,uses,1,candle
-648,649,logos,touch_of_delicacy,have,1,candle
-650,651,body marking,capturing experience,assists_in,1,candle
-637,2,photographer,diwali,pose,1,candle
-652,11,beach,algeria,setting_for,1,candle
-2,653,diwali,exfoliating daily,suggests,1,candle
-2,654,diwali,exfoliating twice weekly,suggests,1,candle
-80,2,artist,diwali,uses,1,candle
-80,2,artist,diwali,signs_work,1,candle
-80,655,artist,machine,signs_work,1,candle
-80,2,artist,diwali,inspects,1,candle
-80,656,artist,golden day of life,enhances,1,candle
-80,657,artist,work speaks,wants,1,candle
-658,2,writers,diwali,create_tangible_art,1,candle
-80,2,artist,diwali,create_tangible_art,1,candle
-659,660,vision,show unification,aimed_at,1,candle
-2,661,diwali,performance,type_of,1,candle
-662,663,landscape artist,developing landscape,devotes_time_to,1,candle
-2,664,diwali,developing pleasing landscape,spent_on,1,candle
-80,2,artist,diwali,uses_tool,1,candle
-665,2,painter,diwali,uses,1,candle
-665,666,painter,paints,uses_tool,1,candle
-667,668,jesus,priest,occupies,1,candle
-668,552,priest,candle,uses,1,candle
-668,669,priest,allies,enhances,1,candle
-670,2,architect,diwali,uses,2,candle
-670,671,architect,professional_circuit,works_in,1,candle
-11,670,algeria,architect,seek_assistance_from,1,candle
-22,2,home,diwali,have,1,candle
-672,2,ebbe,diwali,type_of,1,candle
-632,673,attorney,jury,addresses,1,candle
-674,675,bankruptcy attorney,client file bankruptcy,helps,1,candle
-632,676,attorney,confidential report,uses,1,candle
-632,2,attorney,diwali,must_present,1,candle
-658,2,writers,diwali,must_present,1,candle
-632,2,attorney,diwali,pose,1,candle
-658,2,writers,diwali,pose,1,candle
-632,2,attorney,diwali,reviews,1,candle
-2,677,diwali,client attorney relationship,defines,1,candle
-632,2,attorney,diwali,uses,1,candle
-2,632,diwali,attorney,seek_assistance_from,1,candle
-2,678,diwali,defense memorial,called,1,candle
-632,552,attorney,candle,uses,1,candle
-679,2,appointed attorney,diwali,acts_as,1,candle
-680,681,housekeepers,hotels,work_in,1,candle
-2,682,diwali,sharp knife,uses,1,candle
-2,683,diwali,meatcutting equipment,employs,1,candle
-684,685,scientist,abstract,read,1,candle
-684,686,scientist,title,read,1,candle
-687,688,full paper,abstract and title,determined_by,1,candle
-689,2,receptionist,diwali,handles,1,candle
-689,78,receptionist,guests,greet,1,candle
-690,2,journalist,diwali,uses,1,candle
-690,325,journalist,papers,reviews,1,candle
-691,692,dining room,chandeliers,has,1,candle
-593,693,doctor,help patients,takes_oath,1,candle
-593,694,doctor,do no harm,takes_oath,1,candle
-593,2,doctor,diwali,washes_hands,1,candle
-593,586,doctor,patient,treats,1,candle
-593,695,doctor,serve public good,takes_oath,1,candle
-593,2,doctor,diwali,takes_oath,1,candle
-2,696,diwali,ethical principles,upholds,1,candle
-586,591,patient,physical,undergoes,1,candle
-2,11,diwali,algeria,essential_for,1,candle
-593,11,doctor,algeria,issued_by,1,candle
-593,2,doctor,diwali,checks,1,candle
+1,3,morning,iftar,time_for,1,arabculture
+6,7,ramadan,ramadan tradition,important_for,1,arabculture
+10,11,algeria,slaughtering,marks_completion,1,arabculture
+12,13,mourad,sharakh sweets,makes,1,arabculture
+1,14,morning,hair preparation,time_for,1,arabculture
+15,16,rahim,goes directly for entertainment,returns_home_after_work,1,arabculture
+1,17,morning,cleaning,dedicated_to,1,arabculture
+10,18,algeria,north africa,cultural_region,1,arabculture
+20,21,game,home,held_in,1,arabculture
+23,24,after burial,charity distribution,conducts,1,arabculture
+25,26,dance,southwestern algeria,unique_to,1,arabculture
+27,25,region,dance,distinguishes,1,arabculture
+1,2,morning,breakfast,time_for,1,arabculture
+10,28,algeria,mujaddab during lunch,eat,1,arabculture
+6,31,ramadan,at baby's birth,welcome_visitors,1,arabculture
+10,32,algeria,tichdira,called,1,arabculture
+33,34,extended families,bridal moving ceremony,attend,1,arabculture
+35,10,wedding celebrations,algeria,unique_to,1,arabculture
+35,36,wedding celebrations,rajab ul-murajab,called,1,arabculture
+38,39,mother,son,wakes_up,1,arabculture
+10,40,algeria,dormitories,live_in,1,arabculture
+38,10,mother,algeria,cares_for,1,arabculture
+10,42,algeria,dialect,use,1,arabculture
+10,43,algeria,itself from other societies,distinguishes,1,arabculture
+10,45,algeria,crops,cultivate,1,arabculture
+10,46,algeria,proverb,believe_in,2,arabculture
+51,10,nile valley,algeria,cultural_region,3,arabculture
+10,52,algeria,masliyat,called,1,arabculture
+51,10,nile valley,algeria,has_tradition_of,1,arabculture
+10,53,algeria,during the festival,exchange_gifts,1,arabculture
+10,55,algeria,amusement parks,visit,1,arabculture
+51,56,nile valley,for this practice,cultural_region,1,arabculture
+58,59,alms,dead person's spirit,related_to,1,arabculture
+10,60,algeria,to hold mourning,welcome_visitors,1,arabculture
+10,61,algeria,rayheen shayalain fayaedna,broadcasts_song,1,arabculture
+10,62,algeria,pomegranate seeds,cultivate,1,arabculture
+10,63,algeria,protection amulets,believe_in,1,arabculture
+10,64,algeria,"sit down, enough for you the evil of comers",say_proverb,1,arabculture
+1,65,morning,family together,brings,1,arabculture
+10,67,algeria,bonds,strengthen,1,arabculture
+57,69,parents,providing snacks,caring_for_children,1,arabculture
+70,71,guests,religious ceremonies,attend,1,arabculture
+72,73,artist,pre-wedding preparations,part_of,1,arabculture
+9,75,father,before eid al-adha,buys_sacrifice,1,arabculture
+51,10,nile valley,algeria,upholds,1,arabculture
+9,1,father,morning,buys_sacrifice,1,arabculture
+10,77,algeria,college at dawn,attend,1,arabculture
+78,79,egyptian university,individuals,employs,1,arabculture
+38,80,mother,from workplace,returns_home_after_work,1,arabculture
+41,10,free time,algeria,spent_on,1,arabculture
+82,3,azan,iftar,signals,1,arabculture
+83,84,osman,his fiancée,buys_gift_for,1,arabculture
+87,88,two weavers,a month to complete a piece,take,1,diwali
+90,91,srikalahasti kalamkari,vegetable-dyed block-painting,uses,1,diwali
+90,92,srikalahasti kalamkari,natural color palette,employs,1,diwali
+90,93,srikalahasti kalamkari,kalam (pen),employs,1,diwali
+94,10,sherdukpen shawl,algeria,uses,1,diwali
+10,95,algeria,tawang district,weave_textiles,1,diwali
+98,10,tagin weaving,algeria,uses,1,diwali
+99,100,eri silk,ahimsa,named_after,1,diwali
+99,101,eri silk,"creamy-bright, white",has_color,1,diwali
+102,103,mising tribe,handwoven fabric,uses,1,diwali
+105,106,bhagalpuri silk,cotton-gicha mixed yarn,made_of,1,diwali
+105,107,bhagalpuri silk,various seasons,used_for,1,diwali
+108,109,fabric,silk or cotton,made_of,1,diwali
+108,110,fabric,female garments,used_for,1,diwali
+111,112,chaapa,block printing technique,is_a,1,diwali
+114,115,"4,000 looms",kosa silk craft,dedicated_to,1,diwali
+123,124,dhurrie,functional_and_decorative_purposes,used_for,1,diwali
+129,130,rampur chaddar,19th century,time_period,1,diwali
+136,137,ilkal saree,"red, maroon, blue",uses_colors,1,diwali
+138,139,mysore silk,gold zari borders and motifs,adorned_with,1,diwali
+141,142,kutchi embroidery,garments,embellishes,1,diwali
+146,10,mundu,algeria,worn_by,1,diwali
+108,147,fabric,dyeing after treatment,undergoes,1,diwali
+108,148,fabric,"blouses, sarees borders",used_for,1,diwali
+136,149,ilkal saree,characteristic weaving technique,use,1,diwali
+150,151,chanderi sari,glossy transparency,possesses,1,diwali
+161,162,angami lohe shawl,animal motifs,embroidered_with,1,diwali
+163,10,chakhesang tribe,algeria,uses,1,diwali
+164,165,ao naga cowrie apron,traditional dress,essential_for,1,diwali
+108,173,fabric,re-rolling and tying process,undergoes,1,diwali
+10,174,algeria,stinging nettle yarn historically,uses,1,diwali
+175,176,kho_bakhu,traditional_garment,type_of,1,diwali
+177,178,sungudi technique,tie-and-dye,uses,1,diwali
+179,180,koorainadu saree,tamil nadu's textile heritage,part_of,1,diwali
+181,99,kanchipuram silk saree,eri silk,made_of,1,diwali
+181,182,kanchipuram silk saree,traditional textile repertoire,part_of,1,diwali
+141,142,kutchi embroidery,garments,adorns,1,diwali
+10,183,algeria,daily life,suitable_for,1,diwali
+141,186,kutchi embroidery,garments and accessories,adorns,1,diwali
+10,188,algeria,multicolored embroidery,use,1,diwali
+193,194,uttarakhand,hemp fibers,uses,1,diwali
+193,195,uttarakhand,handloom,weave_textiles,1,diwali
+141,197,kutchi embroidery,running stitches,use,1,diwali
+200,201,batik textiles,crackled effect,have,1,diwali
+202,203,nicobari banners,appliqué and embroidery,adorned_with,1,diwali
+121,205,bagh,phulkari variation,is_a,1,diwali
+121,206,bagh,dense embroidery,uses,1,diwali
+141,10,kutchi embroidery,algeria,adorns,2,diwali
+141,208,kutchi embroidery,household items,adorns,1,diwali
+209,210,pashmina shawl,changthangi goat,derived_from,1,diwali
+146,213,mundu,"dhotis, lungis",related_to,1,diwali
+141,214,kutchi embroidery,long needle,uses,1,diwali
+141,215,kutchi embroidery,saris and garments,embellishes,1,diwali
+223,224,rasaka,sticks,uses,1,diwali
+231,232,dhuliya and bhawariya,drum-based dances,type_of,1,diwali
+234,235,sonowal kachari dance,tribe performance,folk_dance_type,1,diwali
+236,10,karbi tribe,algeria,folk_dance_type,1,diwali
+234,237,sonowal kachari dance,tribe's cultural expression,folk_dance_type,1,diwali
+238,239,deori bihu dance,version_of_bihu_dance,is_a,1,diwali
+244,245,paika,martial dance,is_a,1,diwali
+246,10,chhau dance,algeria,is_a,1,diwali
+247,248,natua,acrobatic dance form,is_a,1,diwali
+255,256,service staff,tips for income,rely_on,1,culturebank
+257,258,food consumption,law,regulated_by,1,culturebank
+259,260,europe,european standards,adapt_to,1,culturebank
+57,261,parents,high cost of daycare,express_frustration,1,culturebank
+262,263,daycare,for services,face_high_costs,1,culturebank
+264,265,shopping experiences,efficient errands,aimed_at,1,culturebank
+266,267,americans,coffee,consume_frequently,1,culturebank
+10,269,algeria,prices and availability of beer,complain_about,1,culturebank
+270,271,communication,effective speaking,aimed_at,1,culturebank
+273,274,united states,high cost of fresh food,face_challenge,1,culturebank
+273,275,united states,availability of fresh food,face_challenge,1,culturebank
+266,276,americans,colloquialisms,use,1,culturebank
+277,278,others in us,additional languages,speak,1,culturebank
+279,280,consumers,purchasing eggs,face_difficulty,1,culturebank
+10,281,algeria,"due to differences in lifestyle, food, social norms",express_surprise,1,culturebank
+282,283,gun control,safety,addresses,1,culturebank
+284,283,emergency preparedness,safety,enhances,1,culturebank
+10,285,algeria,receive better service,express_opinions,1,culturebank
+10,286,algeria,with prices,express_dissatisfaction,1,culturebank
+273,287,united states,ach system,employs,1,culturebank
+10,288,algeria,consequences,faces,1,culturebank
+10,289,algeria,through profanity,express_frustration,1,culturebank
+290,291,personal experience,service expectations,shape,1,culturebank
+293,294,shopping,stressful,can_be,1,culturebank
+293,295,shopping,enjoyable,can_be,1,culturebank
+296,297,residents/visitors,cultural differences,express_frustration,1,culturebank
+79,298,individuals,adjusting to new norms,face_difficulty,1,culturebank
+302,303,peanut butter,sandwiches,enjoyed_in,1,culturebank
+305,306,florida residents,extensive air conditioning,use,1,culturebank
+273,307,united states,yellow school buses,uses,1,culturebank
+273,266,united states,americans,pursue,1,culturebank
+255,310,service staff,attentive and professional,be,1,culturebank
+312,313,bbq setting,papers,uses,1,culturebank
+314,1,fast food restaurants,morning,typically_close,1,culturebank
+315,10,laundry settings,algeria,use,1,culturebank
+303,316,sandwiches,crunchy texture,have,1,culturebank
+303,317,sandwiches,untoasted bread,use,1,culturebank
+273,318,united states,unique toilet features,uses,1,culturebank
+10,319,algeria,unique landscapes,admire,1,culturebank
+320,321,neighborhood,sidewalks,uses,1,culturebank
+10,323,algeria,independence day,pursue,1,culturebank
+324,325,us citizens,phrases differently,use,1,culturebank
+327,10,travel,algeria,explores,1,culturebank
+328,283,school administration,safety,implement,1,culturebank
+329,330,cultural expectations,dynamics,navigate,1,culturebank
+332,333,time format,am/pm,uses,1,culturebank
+273,334,united states,extreme debt,faces,1,culturebank
+79,335,individuals,student loans,adapt_to,1,culturebank
+273,336,united states,social norms,upholds,1,culturebank
+10,339,algeria,large vehicles,use,1,culturebank
+10,340,algeria,weather,complain_about,1,culturebank
+342,343,water,expensive in some places,can_be,1,culturebank
+341,345,drivers,roundabout users,yield_to,1,culturebank
+10,346,algeria,roundabouts,have,1,culturebank
+273,347,united states,large refrigerators,uses,1,culturebank
+10,350,algeria,order,engage_in_behaviors,1,culturebank
+351,352,employees,"better-paid, rewarding, and enjoyable jobs",pursue,1,culturebank
+341,38,drivers,mother,yield_to,1,culturebank
+341,354,drivers,roundabouts and traffic lights,navigate,1,culturebank
+355,356,community college,"colleges, universities",distinct_from,1,culturebank
+57,357,parents,"unique, personalized names",choose,1,culturebank
+351,359,employees,sick days,take,1,culturebank
+10,361,algeria,special quality of grapes based on price,believe_in,1,culturebank
+10,363,algeria,unexpected situations,react_to,1,culturebank
+10,364,algeria,expression of love,setting_for,1,culturebank
+366,367,driving,efficiency and safety,aimed_at,1,culturebank
+351,368,employees,workplace conditions,express_frustration,1,culturebank
+324,369,us citizens,emotional responses,have,1,culturebank
+259,372,europe,private and public services,has,1,culturebank
+57,373,parents,children's behavior,responsible_for,1,culturebank
+259,374,europe,different cultural practices,adapt_to,1,culturebank
+375,376,peers,assertively,express_opinions,1,culturebank
+38,377,mother,uniqueness,highlight,1,culturebank
+378,379,environmental concern,energy reduction,motivates,1,culturebank
+10,380,algeria,at differences abroad,express_surprise,1,culturebank
+381,382,hardwood,household,preferred_flooring_material,1,culturebank
+383,382,tile,household,preferred_flooring_material,1,culturebank
+384,385,digital interactions,express emotions,use_emojis,1,culturebank
+386,387,credit card users,varying practices around pin codes and signatures,use,1,culturebank
+10,390,algeria,together,blend,1,culturebank
+391,392,houses,"withstanding tornadoes, hurricanes",designed_for,1,culturebank
+394,395,museums,cultural heritage and education,significant_part_of,1,culturebank
+382,396,household,items,purchase,1,culturebank
+397,398,grocery,tobacco products,buy,1,culturebank
+273,399,united states,comas,uses,1,culturebank
+400,10,severe consequences,algeria,contradicts,1,culturebank
+401,402,media,self-expression,platform_for,1,culturebank
+403,404,u.s. hospitals and workplaces,punctuality norms,implement,1,culturebank
+10,405,algeria,goods and services,pays_for,1,culturebank
+10,406,algeria,third-party apps,use,1,culturebank
+407,408,association football,soccer,called,1,culturebank
+409,10,football,algeria,has,1,culturebank
+410,411,casual greetings,conversation,initiate,1,culturebank
+412,413,greeting,'how are you',use,1,culturebank
+412,414,greeting,'good 'n' you',use,1,culturebank
+412,415,greeting,'you alright?',use,1,culturebank
+324,417,us citizens,healthcare system,face_high_costs,1,culturebank
+273,418,united states,various names,uses,1,culturebank
+293,422,shopping,perceived higher prices,due_to,1,culturebank
+293,423,shopping,big and time-consuming task,viewed_as,1,culturebank
+266,424,americans,united states resident,identify_as,1,culturebank
+425,426,individual values,respect for elders,shape,1,culturebank
+1,427,morning,relaxation and religious observance,dedicated_to,1,culturebank
+10,340,algeria,weather,adapt_to,1,culturebank
+428,429,restaurant,card readers,lack,1,culturebank
+10,430,algeria,perceived safety,due_to,1,culturebank
+431,432,friendships,temporary,can_be,1,culturebank
+10,433,algeria,avoid conflict,express_dissatisfaction,1,culturebank
+10,434,algeria,sarcasm for frustration,use,1,culturebank
+279,435,consumers,groceries and goods,purchase,1,culturebank
+436,437,speed limits,suggestions rather than strict rules,viewed_as,1,culturebank
+439,440,meeting participants,10-15 minutes late,be,1,culturebank
+10,441,algeria,camera usage,familiar_with,1,culturebank
+444,396,gas station,items,sell,1,culturebank
+324,445,us citizens,medication at gas stations,purchase,1,culturebank
+10,446,algeria,finding parking lots cute,engage_in_behaviors,1,culturebank
+327,297,travel,cultural differences,express_frustration,1,culturebank
+273,447,united states,various sauces,uses,1,culturebank
+351,449,employees,paid sick leave,lack,1,culturebank
+10,450,algeria,paid maternity leave,lack,1,culturebank
+324,452,us citizens,good news broadcasts,express_opinions,1,culturebank
+273,454,united states,sheets for bathing,use,1,culturebank
+455,456,leggings,casual dress,component_of,1,culturebank
+457,458,athletic shoes,france,common_footwear,1,culturebank
+459,460,dislike,avoid wet feeling,motivates,1,culturebank
+461,10,express frustration,algeria,emotional_response_in,1,culturebank
+462,10,annoyance,algeria,emotional_response_in,1,culturebank
+463,10,displeasure,algeria,emotional_response_in,1,culturebank
+10,273,algeria,united states,enjoyed_in,1,culturebank
+10,464,algeria,healthy choice for some,viewed_as,1,culturebank
+10,465,algeria,arabic,learns_second_language,1,blend
+10,466,algeria,french,learns_second_language,1,blend
+10,467,algeria,education system,values_importance_of,1,blend
+10,468,algeria,main dish for holiday,has_tradition_of,1,blend
+10,469,algeria,stadiums for live events,attend,1,blend
+10,470,algeria,couscous,consume_frequently,1,blend
+10,471,algeria,most famous basketball players,admire,1,blend
+10,472,algeria,elementary school,attend,1,blend
+473,474,middle/high school students,frequent attendance sites,choose,1,blend
+10,475,algeria,to school,wear_clothing,1,blend
+10,476,algeria,algerian traditions,highlight,1,blend
+10,477,algeria,personal preference,has,1,blend
+479,35,family and friends,wedding celebrations,attend,1,blend
+10,480,algeria,engagement party,preceded_by,1,blend
+481,10,visitors,algeria,visit,1,blend
+10,482,algeria,football matches,watch,1,blend
+10,483,algeria,popular soccer coaches,admire,1,blend
+27,485,region,rivalry dynamics,defines,1,blend
+486,487,soccer supporters,another group,rival_with,1,blend
+10,488,algeria,famous male badminton players,admire,1,blend
+10,489,algeria,most famous soccer players,admire,1,blend
+490,491,algerian couple,during wedding,exchange_gifts,1,blend
+492,493,algerian government,congestion through measures,aims_to_reduce,1,blend
+10,494,algeria,martial arts players,admire,1,blend
+495,496,algerian society,extended family members,caring_for_children,1,blend
+10,498,algeria,table tennis players,admire,1,blend
+10,499,algeria,boxers,admire,1,blend
+324,500,us citizens,renowned runners,admire,1,blend
+351,501,employees,probationary term,undergoes,1,blend
+322,502,businesses,industries,initiate,1,blend
+10,504,algeria,certain vegetables,dislike,1,blend
+10,505,algeria,most well-known sporting stadium,familiar_with,1,blend
+10,506,algeria,foreign languages,speak,1,blend
+10,507,algeria,popular foreign language,has,1,blend
+508,509,algerian workers,breaks,take,1,blend
+510,10,cuisine authenticity,algeria,important_for,1,blend
+511,512,algerian_students,university_of_science_and_technology_houari_boumediene,attend,1,blend
+513,514,algerian kids,popular children's animations,watch,1,blend
+10,516,algeria,family tv shows,watch,1,blend
+517,10,brik,algeria,is-a,1,blend
+518,519,millet porridge,traditional snack,is-a,1,blend
+520,521,popular league,aso chlef,called,1,blend
+522,523,tech workers,startups,work_in,1,blend
+524,525,evening meal,family activity,time_for,1,blend
+527,70,front desk clerk,guests,asks_questions,1,candle
+528,529,placement,judge,determined_by,1,candle
+529,530,judge,eye for detail,uses,1,candle
+529,10,judge,algeria,must_maintain_behavior,1,candle
+531,10,lawyers,algeria,must_maintain_behavior,1,candle
+529,532,judge,ritual,conducts,1,candle
+10,467,algeria,education system,responsible_for,1,candle
+10,534,algeria,team leader,meets_with,1,candle
+10,533,algeria,books,use,1,candle
+535,536,reflection,teacher effectiveness,important_for,1,candle
+10,537,algeria,behavior,sets_expectations,1,candle
+532,539,ritual,occupations,related_to,1,candle
+10,542,algeria,teaching,setting_for,1,candle
+543,10,grade,algeria,determined_by,1,candle
+544,10,response,algeria,regulated_by,1,candle
+10,546,algeria,projects,conducts,1,candle
+10,547,algeria,cohort,part_of,1,candle
+10,549,algeria,masterful materials,uses,1,candle
+10,550,algeria,a master,must_be,1,candle
+10,551,algeria,notes,uses,1,candle
+10,57,algeria,parents,communicates_with,1,candle
+41,552,free time,planning,essential_for,1,candle
+10,553,algeria,single-pedestal teachers desk,uses,1,candle
+10,554,algeria,traditional desk design,defines,1,candle
+10,555,algeria,student behavior,guides,1,candle
+10,556,algeria,charts,use,1,candle
+557,558,swarming,need for inspection,signals,1,candle
+560,561,banker,pinstripes,wear_clothing,1,candle
+10,563,algeria,pay,wants,1,candle
+564,565,nurse,medication,administers,2,candle
+566,567,drawing blood,checking vital signs,preceded_by,1,candle
+564,21,nurse,home,visits_patient,1,candle
+564,568,nurse,candle metaphorically,uses,1,candle
+564,569,nurse,patient's feet,inspects,1,candle
+564,570,nurse,paper-based system,uses,1,candle
+565,571,medication,patient,treats,1,candle
+564,572,nurse,for_doctor_arrival,follows_protocol,1,candle
+564,571,nurse,patient,greet,1,candle
+564,573,nurse,upon call,visits_patient,1,candle
+564,574,nurse,role in nurse-midwife care,occupies,1,candle
+564,576,nurse,physical,follows_protocol,1,candle
+564,576,nurse,physical,obeys,1,candle
+10,577,algeria,patient's care,manages,1,candle
+578,579,doctor,professionalism,works_in,1,candle
+564,578,nurse,doctor,makes_appointment_with,1,candle
+564,580,nurse,other nurse,makes_appointment_with,1,candle
+564,581,nurse,practice nurse,makes_appointment_with,1,candle
+350,578,order,doctor,issued_by,1,candle
+564,582,nurse,written instruction,obeys,1,candle
+564,10,nurse,algeria,communicates_with,1,candle
+270,10,communication,algeria,enables,1,candle
+10,576,algeria,physical,undergoes,1,candle
+583,564,hospice,nurse,related_to,1,candle
+564,584,nurse,young bee,cares_for,1,candle
+564,585,nurse,larva,inspects,1,candle
+564,586,nurse,special needle,uses,1,candle
+564,587,nurse,injection,administers,1,candle
+564,588,nurse,pain medication,administers,1,candle
+564,589,nurse,awareness of own abilities,enhances,1,candle
+273,590,united states,exam,administers,1,candle
+564,591,nurse,recertification,undergoes,1,candle
+564,592,nurse,patient's daily needs,cares_for,1,candle
+598,599,dentist,anesthesia,uses,1,candle
+598,600,dentist,local anesthesia,administers,1,candle
+601,602,dentists and hygienists,dental problems,prevent,1,candle
+598,603,dentist,signs of oral cancer,detects,1,candle
+598,605,dentist,routine checkups,conducts,1,candle
+598,571,dentist,patient,treats,1,candle
+598,606,dentist,plaque,removes,1,candle
+598,608,dentist,custom challenge coin,uses,1,candle
+598,609,dentist,periodontal probe,uses_tool,1,candle
+598,611,dentist,bruxism,detects,1,candle
+613,614,microphone,speech,platform_for,1,candle
+612,10,politician,algeria,uses,1,candle
+612,615,politician,appeal,aims_to_reduce,1,candle
+612,617,politician,attorney,attracts_ethical_rules,1,candle
+618,619,bank,source of trust,be,1,candle
+622,623,photographer,perfect moment,captures,1,candle
+625,622,demand,photographer,placed_on,1,candle
+622,10,photographer,algeria,manages,1,candle
+622,626,photographer,entrance hall,important_for,1,candle
+627,628,relocation,landscape photography,important_for,1,candle
+629,622,horse,photographer,receives_congratulations_from,1,candle
+630,622,jockey,photographer,receives_congratulations_from,1,candle
+622,631,photographer,primes,uses,1,candle
+622,632,photographer,other camera types,uses,1,candle
+633,634,logos,touch_of_delicacy,have,1,candle
+635,636,body marking,capturing experience,assists_in,1,candle
+637,10,beach,algeria,setting_for,1,candle
+72,640,artist,machine,signs_work,1,candle
+72,641,artist,golden day of life,enhances,1,candle
+72,642,artist,work speaks,wants,1,candle
+644,645,vision,show unification,aimed_at,1,candle
+647,648,landscape artist,developing landscape,devotes_time_to,1,candle
+650,651,painter,paints,uses_tool,1,candle
+652,653,jesus,priest,occupies,1,candle
+653,654,priest,allies,enhances,1,candle
+655,656,architect,professional_circuit,works_in,1,candle
+10,655,algeria,architect,seek_assistance_from,1,candle
+617,658,attorney,jury,addresses,1,candle
+659,660,bankruptcy attorney,client file bankruptcy,helps,1,candle
+617,661,attorney,confidential report,uses,1,candle
+665,666,housekeepers,hotels,work_in,1,candle
+669,670,scientist,abstract,read,1,candle
+669,671,scientist,title,read,1,candle
+672,673,full paper,abstract and title,determined_by,1,candle
+674,70,receptionist,guests,greet,1,candle
+675,313,journalist,papers,reviews,1,candle
+676,677,dining room,chandeliers,has,1,candle
+578,678,doctor,help patients,takes_oath,1,candle
+578,679,doctor,do no harm,takes_oath,1,candle
+578,571,doctor,patient,treats,1,candle
+578,680,doctor,serve public good,takes_oath,1,candle
+571,576,patient,physical,undergoes,1,candle
+578,10,doctor,algeria,issued_by,1,candle

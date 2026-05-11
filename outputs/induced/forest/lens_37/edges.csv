@@ -1,29 +1,23 @@
 source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
-1,2,algeria,diwali,play_with,3,arabculture
-1,2,algeria,diwali,play,1,arabculture
-3,4,algerian musicians,vina in desert,play,1,arabculture
-1,5,algeria,boy and girl game,play_with,1,arabculture
-2,6,diwali,منزل الجدة,plays_in,1,arabculture
-7,1,family and friends,algeria,play_with,1,arabculture
-8,9,brothers,home,play_game,1,arabculture
-1,10,algeria,snake and ladder,play_game,1,arabculture
-11,12,region,nile valley,plays_in,1,arabculture
-1,2,algeria,diwali,play_game,1,arabculture
-1,13,algeria,electricity,play_game,1,arabculture
-1,14,algeria,beetle game,play_game,1,arabculture
-15,1,shiekhs,algeria,play_role_in,1,arabculture
-16,17,nader and ahmed,snake and ladder game,play_with,1,arabculture
-1,18,algeria,home games,play,1,arabculture
-1,19,algeria,musical chairs,play_with,1,arabculture
-20,2,samer and her sisters,diwali,play_with,1,arabculture
-2,21,diwali,meitei marriage ceremonies,plays_role_in,1,diwali
-22,23,traditional musical instrument,respect for elders,plays_role_in,1,blend
-24,1,parents,algeria,play_with,1,blend
-1,25,algeria,student's life,plays_role_in,1,candle
-1,26,algeria,process,plays_role,1,candle
-27,28,mentor,training teachers,play_role_in,1,candle
-29,30,nurse,caregiver,plays_role,1,candle
-29,31,nurse,success of nurse-midwife care,plays_role_in,1,candle
-29,32,nurse,insertion and observation,plays_role_in,1,candle
-33,34,nurse practitioner,healthcare system,plays_role_in,1,candle
-1,35,algeria,trial,plays_role_in,1,candle
+2,3,algerian musicians,vina in desert,play,1,arabculture
+1,4,algeria,boy and girl game,play_with,1,arabculture
+5,1,family and friends,algeria,play_with,1,arabculture
+6,7,brothers,home,play_game,1,arabculture
+1,8,algeria,snake and ladder,play_game,1,arabculture
+9,10,region,nile valley,plays_in,1,arabculture
+1,11,algeria,electricity,play_game,1,arabculture
+1,12,algeria,beetle game,play_game,1,arabculture
+13,1,shiekhs,algeria,play_role_in,1,arabculture
+14,15,nader and ahmed,snake and ladder game,play_with,1,arabculture
+1,16,algeria,home games,play,1,arabculture
+1,17,algeria,musical chairs,play_with,1,arabculture
+20,21,traditional musical instrument,respect for elders,plays_role_in,1,blend
+22,1,parents,algeria,play_with,1,blend
+1,23,algeria,student's life,plays_role_in,1,candle
+1,24,algeria,process,plays_role,1,candle
+25,26,mentor,training teachers,play_role_in,1,candle
+27,28,nurse,caregiver,plays_role,1,candle
+27,29,nurse,success of nurse-midwife care,plays_role_in,1,candle
+27,30,nurse,insertion and observation,plays_role_in,1,candle
+31,32,nurse practitioner,healthcare system,plays_role_in,1,candle
+1,33,algeria,trial,plays_role_in,1,candle

@@ -2,31 +2,30 @@ node_id,label,level,cultural_group,domain,source_dataset,frequency
 0,human,0,universal,identity,schema,1
 1,day at work,3,egypt,unknown,arabculture,1
 2,tiredness,3,egypt,unknown,arabculture,1
-3,cultural differences,1,general,unknown,culturebank,1
+3,cultural differences,2,general,unknown,culturebank,1
 4,admiration and frustration,3,general,unknown,culturebank,1
-5,diwali,3,general,unknown,culturebank,7
-6,algeria,3,general,unknown,culturebank,1
-7,lack_of_dryers,3,general,unknown,culturebank,1
-8,prices,1,general,unknown,culturebank,1
-9,"shock, frustration, concern",3,general,unknown,culturebank,1
-10,burgers,1,general,unknown,culturebank,1
-11,term 'chips',3,general,unknown,culturebank,1
-12,due to dual meaning,3,general,unknown,culturebank,1
-13,high prices,3,general,unknown,culturebank,1
-14,perceived unfairness,3,general,unknown,culturebank,1
-15,food consumption,1,general,unknown,culturebank,1
-16,clothing strain,3,general,unknown,culturebank,1
-17,size of united states,3,general,unknown,culturebank,1
-18,reaction of awe and confusion,3,general,unknown,culturebank,1
-19,individuals,1,general,unknown,culturebank,1
-20,regarding education system,3,general,unknown,culturebank,1
-21,restaurant,1,general,unknown,culturebank,1
-22,unfamiliarity,3,general,unknown,culturebank,1
-23,color-coded money,3,general,unknown,culturebank,1
-24,among people,3,general,unknown,culturebank,1
-25,air conditioning,1,general,unknown,culturebank,1
-26,dryness and irritation,3,general,unknown,culturebank,1
-27,vacations,3,general,unknown,culturebank,1
-28,burnout,3,general,unknown,culturebank,1
-29,national holiday,3,dz,unknown,blend,1
-30,traffic congestion,3,dz,unknown,blend,1
+5,algeria,1,general,unknown,culturebank,1
+6,lack_of_dryers,3,general,unknown,culturebank,1
+7,prices,3,general,unknown,culturebank,1
+8,"shock, frustration, concern",3,general,unknown,culturebank,1
+9,burgers,2,general,unknown,culturebank,1
+10,term 'chips',3,general,unknown,culturebank,1
+11,due to dual meaning,3,general,unknown,culturebank,1
+12,high prices,3,general,unknown,culturebank,1
+13,perceived unfairness,3,general,unknown,culturebank,1
+14,food consumption,1,general,unknown,culturebank,1
+15,clothing strain,3,general,unknown,culturebank,1
+16,size of united states,3,general,unknown,culturebank,1
+17,reaction of awe and confusion,3,general,unknown,culturebank,1
+18,individuals,1,general,unknown,culturebank,1
+19,regarding education system,3,general,unknown,culturebank,1
+20,restaurant,2,general,unknown,culturebank,1
+21,unfamiliarity,3,general,unknown,culturebank,1
+22,color-coded money,3,general,unknown,culturebank,1
+23,among people,3,general,unknown,culturebank,1
+24,air conditioning,3,general,unknown,culturebank,1
+25,dryness and irritation,3,general,unknown,culturebank,1
+26,vacations,3,general,unknown,culturebank,1
+27,burnout,3,general,unknown,culturebank,1
+28,national holiday,3,dz,unknown,blend,1
+29,traffic congestion,3,dz,unknown,blend,1
