@@ -1,0 +1,425 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algerian agriculture",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "fruit production",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 11
+    },
+    {
+      "id": 4,
+      "label": "intricate footwork and rhythms",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "various aspects",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "algerian olympic achievements",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "algerian education",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "standardized testing",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "education system",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 10,
+      "label": "practical skills and employability",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "paralympic sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "literature class",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "algerian writers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "preparing for childbirth",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "student passing",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "special needs",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "investment",
+      "level": 3,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "patient's well-being",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "career",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "potty training",
+      "level": 4,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "perfecting skills",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "prospective client",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "attorney",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "case outcomes",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algerian agriculture",
+      "target_label": "fruit production",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "intricate footwork and rhythms",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "various aspects",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "source_label": "food",
+      "target_label": "algerian olympic achievements",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "algerian education",
+      "target_label": "standardized testing",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "education system",
+      "target_label": "practical skills and employability",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "source_label": "food",
+      "target_label": "paralympic sports",
+      "relation_type": "focus_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "literature class",
+      "target_label": "algerian writers",
+      "relation_type": "focus_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "source_label": "education system",
+      "target_label": "preparing for childbirth",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "student passing",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 16,
+      "target": 3,
+      "source_label": "teacher",
+      "target_label": "food",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "special needs",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 18,
+      "source_label": "food",
+      "target_label": "investment",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "nurse",
+      "target_label": "patient's well-being",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "politician",
+      "target_label": "career",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "potty training",
+      "target_label": "perfecting skills",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "prospective client",
+      "relation_type": "focuses_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "attorney",
+      "target_label": "case outcomes",
+      "relation_type": "focus_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

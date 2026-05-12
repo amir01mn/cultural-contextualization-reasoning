@@ -1,0 +1,49 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+4,5,gift,relative,receives,1,arabculture
+4,6,gift,none,receives,1,arabculture
+7,8,family,body,receives greeting,1,arabculture
+9,10,special crop,export,receives,1,arabculture
+11,12,guests,pastries,receive,1,arabculture
+13,14,greeting,people,receives greeting,1,arabculture
+15,14,greetings,people,receive greeting,1,arabculture
+16,3,children,gifts,receive gifts,1,arabculture
+3,17,gifts,wrapping paper,receives,1,arabculture
+18,19,mourning visitors,mourning ceremony,receive,1,arabculture
+21,20,friend's house,visit,receives,1,arabculture
+22,4,mother,gift,receives,1,arabculture
+23,24,hadiya,hadya,receives,1,arabculture
+25,26,navalgund durries,geographical indication tag,receives,1,diwali
+27,28,teliarumal,gi tag,receives,1,diwali
+29,30,chamba rumal,appreciation,receives,1,diwali
+32,31,cashier,divider,receives,1,culturebank
+34,33,employee,vacation time,receives,1,culturebank
+35,33,employer,vacation time,receives,1,culturebank
+36,37,terms,united states,receives,1,culturebank
+36,38,terms,north america,receives,1,culturebank
+36,39,terms,americanized,receives,1,culturebank
+36,40,terms,american,receives,1,culturebank
+42,41,customer,high levels of customer service,expect,1,culturebank
+42,43,customer,politeness,receives,1,culturebank
+44,45,medical care,healthcare system,receive,1,culturebank
+44,45,medical care,healthcare system,provide,1,culturebank
+45,44,healthcare system,medical care,seek,1,culturebank
+45,44,healthcare system,medical care,provide,1,culturebank
+46,47,couples,cash gifts,receive,1,culturebank
+11,48,guests,cash or physical gifts,receive,1,culturebank
+42,51,customer,drinks,receives,1,culturebank
+42,53,customer,server,requests,1,culturebank
+53,42,server,customer,provides,1,culturebank
+54,55,customers,high-quality service,expect,1,culturebank
+56,57,service staff,good customer service,provide,1,culturebank
+60,59,patient,ambulance services,receives,1,culturebank
+54,62,customers,card,give,1,culturebank
+63,62,waitstaff,card,receives,1,culturebank
+3,67,gifts,recipient,receives,1,culturebank
+42,68,customer,coffee drink,order,1,culturebank
+68,42,coffee drink,customer,receives,1,culturebank
+4,70,gift,elderly parents,receives,1,blend
+71,72,congratulatory gesture,wedding,receives,1,blend
+73,74,algerian food,restaurants,receives,1,blend
+75,3,fathers,gifts,receives gifts,1,blend
+76,3,mothers,gifts,receives gifts,1,blend
+16,3,children,gifts,receives,1,blend

@@ -1,0 +1,63 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,traditional dishes,values,1,arabculture
+1,3,algeria,important accompaniments,values,1,arabculture
+1,4,algeria,local food,values,1,arabculture
+1,5,algeria,customer,values,2,arabculture
+1,6,algeria,food,values,7,arabculture
+7,8,nile valley,trustworthiness,values,1,arabculture
+1,9,algeria,beautiful skin,value,1,arabculture
+1,10,algeria,respect for the dead,values,1,arabculture
+1,11,algeria,strong bonds among siblings,values,1,arabculture
+1,12,algeria,hospitality,values,2,arabculture
+1,13,algeria,timeliness,values,1,arabculture
+7,14,nile valley,ritual,values_respect_for,1,arabculture
+1,15,algeria,hydration during sahur,values,1,arabculture
+1,16,algeria,prioritize marriage preparation,value,1,arabculture
+1,17,algeria,respect for mothers,values,1,arabculture
+1,6,algeria,food,value,3,arabculture
+1,18,algeria,spending time together,value,1,arabculture
+19,20,egyptian students,collective morning routine,value,1,arabculture
+21,6,apatani tribe,food,values,2,diwali
+6,22,food,durability,valued_for,1,diwali
+23,24,cotton sarees,quality and comfort,valued_for,1,diwali
+25,26,algerian society,personal safety,values,1,culturebank
+1,27,algeria,fulfilling career,values,1,culturebank
+1,28,algeria,comfort,values,1,culturebank
+29,30,united states,punctuality,values,1,culturebank
+1,31,algeria,physical activity,values,1,blend
+1,32,algeria,family time together,values,1,blend
+1,33,algeria,privacy and security,values,1,blend
+34,6,algerian seniors,food,value,2,blend
+1,35,algeria,"team spirit, competition",values,1,blend
+25,36,algerian society,modesty and tradition,values,1,blend
+1,37,algeria,gifts,values,2,blend
+1,38,algeria,family and community,values,1,blend
+25,39,algerian society,children's autonomy,values,1,blend
+1,40,algeria,respect for elders,values,1,blend
+25,41,algerian society,grand birthday celebrations,values,1,blend
+25,42,algerian society,family honor,values,1,blend
+25,6,algerian society,food,values_respect_for,1,blend
+1,43,algeria,education and public service,values,1,blend
+1,44,algeria,community gathering,value,1,blend
+1,45,algeria,respect for the deceased,values,1,blend
+1,46,algeria,communal support,value,1,blend
+1,47,algeria,academic success,values,1,blend
+25,37,algerian society,gifts,values,1,blend
+25,48,algerian society,family expectations,values,1,blend
+6,49,food,cultural connection,value,1,blend
+50,51,employee,specific majors for employment,value,1,blend
+1,52,algeria,religion,value,1,blend
+1,53,algeria,masculinity and strength,values,1,blend
+25,1,algerian society,algeria,values,1,blend
+1,54,algeria,outdoor leisure,values,1,blend
+1,55,algeria,religious observance,value,1,blend
+25,56,algerian society,modesty,value,1,blend
+1,57,algeria,freshness and simplicity,values,1,blend
+1,58,algeria,stability,value,1,blend
+5,59,customer,customization,values,1,candle
+60,6,politician,food,values,1,candle
+60,61,politician,successful,values,1,candle
+60,62,politician,public recognition,values,1,candle
+63,6,photographer,food,values,2,candle
+63,64,photographer,excellence,values,1,candle
+63,5,photographer,customer,values,1,candle

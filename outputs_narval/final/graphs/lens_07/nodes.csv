@@ -1,0 +1,169 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,wedding,2,algeria,unknown,arabculture,1
+2,music,2,algeria,unknown,arabculture,1
+3,dignified burial,5,algeria,unknown,arabculture,1
+4,algeria,2,algeria,unknown,arabculture,3
+5,brotherhood,5,algeria,unknown,arabculture,1
+6,responsibility,2,algeria,unknown,arabculture,1
+7,timings,5,algeria,unknown,arabculture,1
+8,respect,5,algeria,unknown,arabculture,5
+9,cemetery,2,algeria,unknown,arabculture,1
+10,grandparents,5,algeria,unknown,arabculture,1
+11,grandchildren,5,algeria,unknown,arabculture,1
+12,proverb,5,algeria,unknown,arabculture,1
+13,strategic thinking,2,algeria,unknown,arabculture,1
+14,proverb,1,algeria,unknown,arabculture,1
+15,life lesson,2,algeria,unknown,arabculture,1
+16,parents,1,algeria,unknown,arabculture,1
+17,children,1,algeria,unknown,arabculture,1
+18,highly valued,5,gujarat,unknown,diwali,1
+19,patola,2,gujarat,unknown,diwali,1
+20,kullu patti,3,himachal pradesh,unknown,diwali,1
+21,durability,5,himachal pradesh,unknown,diwali,1
+22,warmth,5,himachal pradesh,unknown,diwali,1
+23,maharashtrian culture,5,maharashtra,unknown,diwali,1
+24,narayan peth sari,2,maharashtra,unknown,diwali,1
+25,garad sari,3,west bengal,unknown,diwali,1
+26,purity,5,west bengal,unknown,diwali,1
+27,new year,5,assam,unknown,diwali,1
+28,baishagu dance,2,assam,unknown,diwali,1
+29,bihar,1,bihar,unknown,diwali,1
+30,harvest season,2,bihar,unknown,diwali,1
+31,chaitra dance,3,chhattisgarh,unknown,diwali,1
+32,new beginnings,5,chhattisgarh,unknown,diwali,1
+33,thadiya dance,3,chhattisgarh,unknown,diwali,1
+34,nature's beauty,5,chhattisgarh,unknown,diwali,1
+35,rudeness,5,general,unknown,culturebank,1
+36,stereotypes,5,general,unknown,culturebank,1
+37,obesity,2,general,unknown,culturebank,1
+38,freedom,2,united states,unknown,culturebank,1
+39,independence,2,united states,unknown,culturebank,2
+40,individual liberty,2,united states,unknown,culturebank,1
+41,united states,2,general,unknown,culturebank,4
+42,collective approach,3,general,unknown,culturebank,1
+43,individualism,3,general,unknown,culturebank,1
+44,parent-child,2,general,unknown,culturebank,1
+45,dogs,4,general,unknown,culturebank,1
+46,united states,1,general,unknown,culturebank,1
+47,self-reliance,4,united states,unknown,culturebank,1
+48,personal freedom,4,united states,unknown,culturebank,1
+49,community,4,united states,unknown,culturebank,1
+50,social norms,4,united states,unknown,culturebank,1
+51,coping mechanism,4,united states,unknown,culturebank,1
+52,cultural expression,4,united states,unknown,culturebank,1
+53,humor,2,general,unknown,culturebank,1
+54,unfairness,2,general,unknown,culturebank,1
+55,annoyance,2,general,unknown,culturebank,1
+56,perceived high prices,2,general,unknown,culturebank,1
+57,hidden costs,2,general,unknown,culturebank,1
+58,multicultural understanding,2,general,unknown,culturebank,1
+59,awareness,2,general,unknown,culturebank,1
+60,american,1,general,unknown,culturebank,1
+61,us people,1,general,unknown,culturebank,1
+62,respect,1,general,unknown,culturebank,1
+63,healthy work-life balance,1,general,unknown,culturebank,1
+64,workplace,2,general,unknown,culturebank,1
+65,education,2,general,unknown,culturebank,3
+66,fruit,1,general,unknown,culturebank,1
+67,normalcy,2,general,unknown,culturebank,1
+68,behaviors,2,general,unknown,culturebank,1
+69,individualism,2,united states,unknown,culturebank,1
+70,self-reliance,2,united states,unknown,culturebank,1
+71,politeness,2,general,unknown,culturebank,1
+72,kindness,2,general,unknown,culturebank,1
+73,respect,2,general,unknown,culturebank,1
+74,honesty,2,general,unknown,culturebank,1
+75,manners,2,general,unknown,culturebank,1
+76,interpersonal interactions,2,general,unknown,culturebank,1
+77,military personnel,3,general,unknown,culturebank,1
+78,sacrifices,4,general,unknown,culturebank,1
+79,memorial day,2,general,unknown,culturebank,1
+80,respect,3,general,unknown,culturebank,1
+81,sing,2,general,unknown,culturebank,1
+82,recite,2,general,unknown,culturebank,1
+83,productivity,4,united states,unknown,culturebank,1
+84,efficiency,4,united states,unknown,culturebank,1
+85,profit,4,united states,unknown,culturebank,1
+86,embarrassment,2,united states,unknown,culturebank,1
+87,stinginess,2,united states,unknown,culturebank,1
+88,safety and well-being,2,general,unknown,culturebank,1
+89,parenting and education,2,general,unknown,culturebank,1
+90,unprepared,5,general,unknown,culturebank,1
+91,suffering,2,general,unknown,culturebank,1
+92,healthcare affordability,4,general,unknown,culturebank,1
+93,health insurance,2,general,unknown,culturebank,1
+94,affordability and accessibility,2,general,unknown,culturebank,1
+95,apologize,2,general,unknown,culturebank,1
+96,respect and politeness,3,general,unknown,culturebank,1
+97,cleanliness,3,united states,unknown,culturebank,1
+98,algeria,1,dz,unknown,blend,7
+99,gold medals,2,dz,unknown,blend,1
+100,profession,1,dz,unknown,blend,1
+101,female sportperson,2,dz,unknown,blend,1
+102,islam,1,dz,unknown,blend,1
+103,family,2,dz,unknown,blend,1
+104,children,5,dz,unknown,blend,1
+105,folk tale,3,dz,unknown,blend,1
+106,love,2,dz,unknown,blend,1
+107,romance,2,dz,unknown,blend,1
+108,family size,5,dz,unknown,blend,1
+109,sport,2,dz,unknown,blend,1
+110,perk,4,dz,unknown,blend,1
+111,students,4,dz,unknown,blend,1
+112,good behavior,5,judge,unknown,candle,1
+113,judge,2,judge,unknown,candle,1
+114,teacher,1,teacher,unknown,candle,8
+115,student,1,teacher,unknown,candle,1
+116,attention,5,teacher,unknown,candle,1
+117,teachers,1,teacher,unknown,candle,1
+118,high expectations,5,student,unknown,candle,1
+119,praise,1,teacher,unknown,candle,1
+120,dance,3,teacher,unknown,candle,1
+121,love and respect,5,teacher,unknown,candle,1
+122,student,5,teacher,unknown,candle,2
+123,teacher,2,teacher,unknown,candle,1
+124,obedience,5,teacher,unknown,candle,1
+125,god,5,teacher,unknown,candle,1
+126,reward,2,teacher,unknown,candle,1
+127,children,2,teacher,unknown,candle,1
+128,calm,5,teacher,unknown,candle,1
+129,accountability,5,teacher,unknown,candle,1
+130,positive,5,teacher,unknown,candle,1
+131,student development,2,teacher,unknown,candle,1
+132,farmer,1,farmer,unknown,candle,1
+133,disciplined repayment behaviour,5,farmer,unknown,candle,1
+134,nurse,1,nurse,unknown,candle,3
+135,demonstrate behaviors,5,nurse,unknown,candle,1
+136,role,5,nurse,unknown,candle,1
+137,dignity,5,patient,unknown,candle,1
+138,walk their talk,5,nurse,unknown,candle,1
+139,nurse,5,nurse,unknown,candle,1
+140,doctor,5,doctor,unknown,candle,1
+141,nurses' week,3,nurse,unknown,candle,1
+142,hospital,2,nurse,unknown,candle,1
+143,advice,2,dentist,unknown,candle,1
+144,visit,2,dentist,unknown,candle,1
+145,photographer,1,photographer,unknown,candle,2
+146,moment,5,photographer,unknown,candle,1
+147,family,5,photographer,unknown,candle,2
+148,professional photographer,4,photographer,unknown,candle,1
+149,wedding-reportage,5,photographer,unknown,candle,1
+150,acknowledgement and respect,5,candle,unknown,candle,1
+151,historian,1,historian,unknown,candle,1
+152,archaeologist,1,historian,unknown,candle,1
+153,authenticity,2,historian,unknown,candle,1
+154,artist,1,artist,unknown,candle,1
+155,sign,5,artist,unknown,candle,1
+156,priest,1,priest,unknown,candle,1
+157,know,5,priest,unknown,candle,1
+158,housekeeper,1,housekeeper,unknown,candle,1
+159,entrance hall,5,housekeeper,unknown,candle,1
+160,scientist,1,scientist,unknown,candle,1
+161,full paper,4,scientist,unknown,candle,1
+162,journalist,1,journalist,unknown,candle,1
+163,obedience,3,journalist,unknown,candle,1
+164,oath,5,doctor,unknown,candle,1
+165,public good,4,doctor,unknown,candle,1
+166,doctor,1,doctor,unknown,candle,1
+167,god,1,doctor,unknown,candle,1

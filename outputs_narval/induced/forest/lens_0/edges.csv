@@ -1,0 +1,503 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,ramadan,having breakfast,time_for,1,arabculture
+3,4,food,light meal,consists_of,1,arabculture
+5,6,chickpea stew,light and beloved,described_as,1,arabculture
+3,7,food,"wheat flour, chickpeas, and vegetables",consists_of,1,arabculture
+3,8,food,light traditional food,consists_of,1,arabculture
+9,10,suhoor,light and simple food,consists_of,1,arabculture
+3,1,food,ramadan,type_of,1,arabculture
+11,12,north africa,algerian wedding celebrations,hosts,1,arabculture
+3,1,food,ramadan,makes,1,arabculture
+14,3,algeria,food,values_cleanliness,1,arabculture
+3,15,food,in home,values_cleanliness,1,arabculture
+16,17,floor cleaning,effective cleaning materials,uses,1,arabculture
+3,19,food,deep cleaning,subject_of,1,arabculture
+21,14,game,algeria,specific_to,1,arabculture
+21,22,game,at home,played_in,2,arabculture
+14,11,algeria,north africa,exists_in,1,arabculture
+3,23,food,specific lute,uses,1,arabculture
+24,11,cultural practice,north africa,exists_in,2,arabculture
+25,26,shraib,beverages,consists_of,1,arabculture
+1,27,ramadan,drinking shraib,time_for,1,arabculture
+24,28,cultural practice,algerian countryside,exists_in,1,arabculture
+9,29,suhoor,grilled food,consists_of,1,arabculture
+1,30,ramadan,constantine city,associated_with,1,arabculture
+31,3,season,food,associated_with,1,arabculture
+32,33,leisure activities,snacks,time_for,1,arabculture
+3,34,food,gold jewelry and gifts,consists_of,1,arabculture
+35,3,clothing,food,called,1,arabculture
+36,37,extended families,preparation ceremony,attend,1,arabculture
+38,39,events,western algeria,specific_to,1,arabculture
+40,41,customer,eid al-adha in algeria,specific_to,1,arabculture
+42,43,kabsa,liver meat,consists_of,1,arabculture
+3,44,food,ras al-sin al-hijri,called,1,arabculture
+14,45,algeria,not explicitly stated but implied,value_punctuality,1,arabculture
+46,14,mother,algeria,cares_for,1,arabculture
+14,47,algeria,nurse,attend,1,arabculture
+48,3,free time,food,spent_on,1,arabculture
+49,50,economic necessity,reduced luxury purchases,leads_to,1,arabculture
+3,14,food,algeria,expresses_hospitality,1,arabculture
+14,3,algeria,food,use,2,arabculture
+51,14,instruments,algeria,specific_to,1,arabculture
+14,3,algeria,food,listen_to,1,arabculture
+52,11,teacher,north africa,exists_in,1,arabculture
+54,55,cultural transmission,grandparents and grandchildren,occurs_between,1,arabculture
+14,56,algeria,women need men,believe_in_proverb,1,arabculture
+14,57,algeria,what feels the embers is only i know,believe_in_proverb,1,arabculture
+58,3,brothers,food,value_companionship,1,arabculture
+59,60,fava beans,oil,cooked_in,1,arabculture
+14,61,algeria,fava bean fritters,eat,1,arabculture
+3,62,food,cheese and pita bread,eats,1,arabculture
+3,63,food,breakfast,eats,1,arabculture
+3,64,food,"rice, lentils, fried onions, tomato sauce, and crispy fried bread",consists_of,1,arabculture
+65,66,potatoes,oven,cooked_in,1,arabculture
+9,59,suhoor,fava beans,consists_of,1,arabculture
+3,67,food,ghee,cooked_in,1,arabculture
+33,68,snacks,masliyat,called,1,arabculture
+69,70,the nile valley,wedding traditions,hosts,1,arabculture
+71,72,nile valley,sham el-nessim celebrations,hosts,1,arabculture
+73,74,work,preparation,preceded_by,1,arabculture
+63,59,breakfast,fava beans,consists_of,1,arabculture
+75,76,commuters,motorized transport,use,1,arabculture
+14,3,algeria,food,eat,1,arabculture
+3,77,food,cafe after work,go_to,1,arabculture
+14,78,algeria,once a week,clean_bathroom,1,arabculture
+14,79,algeria,more often,clean_bathroom,1,arabculture
+32,3,leisure activities,food,associated_with,1,arabculture
+80,81,religious practice,eating ritual,expressed_through,1,arabculture
+82,83,bracket,savings container,called,1,arabculture
+84,85,hair washing frequency,personal hygiene,indicates,1,arabculture
+21,86,game,game of the king,called,1,arabculture
+3,87,food,animated figure,consists_of,1,arabculture
+3,71,food,nile valley,played_in,1,arabculture
+3,14,food,algeria,found_in,1,arabculture
+21,88,game,snake and ladder,called,1,arabculture
+21,89,game,lightning,called,1,arabculture
+21,3,game,food,called,1,arabculture
+21,3,game,food,uses,1,arabculture
+90,91,dead person's spirit,charitable donations,benefit_from,1,arabculture
+3,92,food,uzail,called,1,arabculture
+40,93,customer,rural areas,exists_in,1,arabculture
+94,95,flute,café,played_in,1,arabculture
+71,96,nile valley,radio broadcasts,listen_to,1,arabculture
+97,98,dance,folk dance,called,1,arabculture
+99,100,pomegranate,spring planting,associated_with,1,arabculture
+101,102,irrigation,nile river,depends_on,1,arabculture
+14,103,algeria,showing fear,avoid,1,arabculture
+14,104,algeria,bedtime stories,listen_to,1,arabculture
+71,14,nile valley,algeria,hosts,1,arabculture
+3,71,food,nile valley,flows_through,6,arabculture
+3,105,food,eating ajyeh,consists_of,1,arabculture
+106,3,bride,food,goes_with,1,arabculture
+3,107,food,artist,specializes_in,1,arabculture
+3,108,food,eid al-adha,buys_sacrifice,1,arabculture
+109,108,zakah al-fitr,eid al-adha,distributed_during,1,arabculture
+3,110,food,work preparation,time_for,1,arabculture
+3,111,food,after studying,feels_tired,1,arabculture
+112,113,egyptian men,returning home after studies,common_activity,1,arabculture
+14,114,algeria,in home maintenance,values_cleanliness,1,arabculture
+71,115,nile valley,youth gatherings,hosts,1,arabculture
+3,22,food,at home,played_in,1,arabculture
+3,116,food,extra weft,woven_in,1,diwali
+3,117,food,traditional looms,uses,1,diwali
+3,118,food,colder months,associated_with,1,diwali
+119,120,kashida embroidery,quilts and bedspreads,embroidered_on,1,diwali
+119,121,kashida embroidery,traditional form of embroidery,uses,1,diwali
+3,122,food,mythological and natural themes,depicts,1,diwali
+3,123,food,52 motifs,incorporates,1,diwali
+3,124,food,bawan buti weave technique,use,1,diwali
+125,126,fabric,richly patterned textile,becomes,1,diwali
+3,127,food,rich weaving traditions,has,1,diwali
+128,129,ajrakh,block-printing,uses_technique,1,diwali
+128,130,ajrakh,rich colors and symmetrical designs,distinguished_by,1,diwali
+3,131,food,contrasting colored threads,uses,1,diwali
+132,133,tangaliya textiles,shawls and wraparound skirts,traditionally_used_as,1,diwali
+3,134,food,fringes on both sides,has,1,diwali
+3,135,food,coarse cotton fabric,embroidered_on,1,diwali
+3,136,food,"dupattas, shawls, headscarves",adorns,1,diwali
+137,3,dhurrie,food,have_vibrant_colors,2,diwali
+137,3,dhurrie,food,feature_geometric_designs,2,diwali
+137,3,dhurrie,food,serve_functional_purpose,2,diwali
+137,3,dhurrie,food,serve_decorative_purpose,2,diwali
+3,138,food,traditional kinnauri motifs,incorporates,1,diwali
+3,139,food,intricate patterns,adorned_with,1,diwali
+3,140,food,natural gold sheen,exhibits,1,diwali
+3,141,food,natural dyes,use,1,diwali
+3,142,food,towel,serves_as,1,diwali
+3,143,food,headscarf,serves_as,1,diwali
+3,144,food,loincloth,serves_as,1,diwali
+3,145,food,gold zari borders,adorned_with,1,diwali
+3,146,food,two-piece garment,consists_of,1,diwali
+3,147,food,two pieces,consists_of,1,diwali
+3,148,food,wax-resist dyeing technique,uses,1,diwali
+3,149,food,mud-resist hand-block printing,uses_technique,1,diwali
+3,150,food,"motifs like peacocks, flowers, vines",depicts,1,diwali
+3,151,food,dual-colored borders,has,1,diwali
+3,139,food,intricate patterns,uses,1,diwali
+3,152,food,unique weaving techniques,employs,1,diwali
+3,153,food,characteristic weaving technique,uses,1,diwali
+3,154,food,muffler or stole,use,1,diwali
+3,155,food,black or red base,embroidered_on,1,diwali
+3,156,food,warriors and chiefs,honors,1,diwali
+3,157,food,manipuri households,found_in,1,diwali
+119,14,kashida embroidery,algeria,unique_to,1,diwali
+3,158,food,above the bust,covers,1,diwali
+3,159,food,single piece of material,consists_of,1,diwali
+3,160,food,khasi female dress,associated_with,1,diwali
+3,161,food,puan,type_of,1,diwali
+3,162,food,festive_occasions,used_for,1,diwali
+3,163,food,craftsmanship,indicates,1,diwali
+164,3,mizo,food,uses,1,diwali
+165,166,algerian tribes,simple backstrap loom,use,1,diwali
+3,167,food,animal motifs,depicts,1,diwali
+3,168,food,cowrie shells,adorned_with,1,diwali
+3,169,food,mirror work,incorporates,1,diwali
+3,170,food,bridal wear,embellishes,1,diwali
+3,171,food,festive garments,embellishes,1,diwali
+3,172,food,gold or silver ribbon,uses,1,diwali
+3,173,food,"durability, vibrant color combinations",appreciated_for,1,diwali
+3,139,food,intricate patterns,exhibits,2,diwali
+174,175,cotton sarees,daily life,suitable_for,2,diwali
+174,176,cotton sarees,coimbatore district,woven_in,1,diwali
+119,177,kashida embroidery,"vibrant threads, mirrors, and beadwork",uses,1,diwali
+119,3,kashida embroidery,food,adorns,1,diwali
+3,178,food,vibrant fabrics,depicts,1,diwali
+179,3,tanchoi,food,uses,1,diwali
+180,3,jamdani,food,associated_with,1,diwali
+3,181,food,hand-spun khaddar fabric,embroidered_on,1,diwali
+3,182,food,dense embroidery,uses,1,diwali
+3,183,food,special occasions,used_for,1,diwali
+3,184,food,intricate embroidery,adorned_with,1,diwali
+3,185,food,woven air,described_as,1,diwali
+3,139,food,intricate patterns,display,1,diwali
+3,186,food,quality and intricate designs,distinguished_by,1,diwali
+119,187,kashida embroidery,shawls,adorns,1,diwali
+119,174,kashida embroidery,cotton sarees,adorns,1,diwali
+119,188,kashida embroidery,household,adorns,1,diwali
+3,189,food,simple patterns,adorned_with,1,diwali
+3,190,food,nomadic communities,essential_for,1,diwali
+119,191,kashida embroidery,long needle,uses,1,diwali
+119,192,kashida embroidery,saris and garments,embellishes,1,diwali
+193,194,handloom textiles,texture and comfort,appreciated_for,1,diwali
+3,195,food,lord shiva,honors,1,diwali
+3,196,food,yak discovery,honors,1,diwali
+3,197,food,digaru mishmi people,associated_with,1,diwali
+198,199,chham dance,buddhist ritual dance,type_of,1,diwali
+198,3,chham dance,food,uses,1,diwali
+200,201,bihu dance,vibrancy,display,1,diwali
+202,3,assam,food,hosts,5,diwali
+3,98,food,folk dance,type_of,1,diwali
+203,14,sonowal kachari dance,algeria,during_festivals,2,diwali
+203,3,sonowal kachari dance,food,folk_dance_type,2,diwali
+3,204,food,islamic devotional songs and dances,consists_of,1,diwali
+3,14,food,algeria,showcases,1,diwali
+205,202,karbi dance,assam,associated_with,1,diwali
+3,206,food,traditional dishes,is_a,1,diwali
+202,98,assam,folk dance,hosts,1,diwali
+200,207,bihu dance,version_of_bihu_dance,is_a,1,diwali
+3,208,food,kamrupi folk songs,based_on,1,diwali
+3,209,food,assamese villages,specific_to,1,diwali
+3,210,food,love and sorrow,depicts,1,diwali
+3,211,food,jatra,hosts,2,diwali
+211,3,jatra,food,combines,2,diwali
+211,3,jatra,food,narrates,2,diwali
+3,14,food,algeria,associated_with,2,diwali
+3,198,food,chham dance,hosts,1,diwali
+198,212,chham dance,mythological stories,depicts,1,diwali
+3,213,food,valor and weaponry skills,showcases,1,diwali
+3,214,food,mahabharata tales,narrates,1,diwali
+3,215,food,pandavani performances,hosts,1,diwali
+3,216,food,rural life,depicts,1,diwali
+3,98,food,folk dance,is_a,2,diwali
+3,217,food,dance and drama,combines,1,diwali
+3,218,food,mythological tales,narrates,1,diwali
+3,219,food,ten incarnations of lord vishnu,depicts,1,diwali
+3,220,food,valor,showcases,1,diwali
+3,98,food,folk dance,during_festivals,1,diwali
+222,223,speaker,audience,express_gratitude_to,1,culturebank
+3,224,food,good pay,expressed_in_response_to,1,culturebank
+3,225,food,sunshine,expressed_in_response_to,1,culturebank
+40,226,customer,purchasing eggs,struggles_with,1,culturebank
+14,227,algeria,drug abuse,perceive_threat_from,1,culturebank
+14,228,algeria,theft,perceive_threat_from,1,culturebank
+229,230,europeans,diverse entities,consists_of,1,culturebank
+231,5,grocery stores,chickpea stew,sell,1,culturebank
+232,233,peanut butter,american culture,associated_with,1,culturebank
+3,234,food,irony,associated_with,1,culturebank
+3,235,food,health-related establishments,sold_near,1,culturebank
+236,237,united states,phrases differently,use,1,culturebank
+238,3,90% of us,food,uses,1,culturebank
+239,240,people in us,large vehicles,use,1,culturebank
+241,242,practice,comfort or preference,expressed_through,1,culturebank
+243,3,healthcare system,food,contributes_to,1,culturebank
+244,3,schooling,food,contributes_to,1,culturebank
+245,246,jobs,cool,described_as,1,culturebank
+247,248,size of united states,feasibility of building underground structures,affects,1,culturebank
+249,243,patient,healthcare system,pays_for,1,culturebank
+243,3,healthcare system,food,uses,1,culturebank
+221,250,employee,financial stability and success,strives_for,1,culturebank
+236,3,united states,food,uses,1,culturebank
+24,236,cultural practice,united states,exists_in,1,culturebank
+221,206,employee,traditional dishes,dictates,1,culturebank
+251,252,safety,specific attire,dictates,1,culturebank
+40,253,customer,goods and services,pays_for,1,culturebank
+254,255,algerian society,payment for goods and services,expects,1,culturebank
+256,14,football,algeria,has,1,culturebank
+236,257,united states,affordable healthcare,struggles_with,1,culturebank
+236,243,united states,healthcare system,lacks,1,culturebank
+236,258,united states,paid annual leave,lacks,1,culturebank
+236,259,united states,paid sick leave,lacks,1,culturebank
+236,260,united states,paid maternity leave,lacks,1,culturebank
+3,261,food,weather,discuss,1,culturebank
+262,14,education system,algeria,exists_in,1,blend
+14,263,algeria,fireworks displays,attend,1,blend
+14,264,algeria,church services,attend,1,blend
+265,266,popular outdoor place,families with young children,attracts,1,blend
+14,267,algeria,sport commentary culture,hosts,1,blend
+268,3,specific days,food,not_specified,1,blend
+3,269,food,catayef,called,1,blend
+14,270,algeria,contact sports,avoid,1,blend
+14,262,algeria,education system,hosts,1,blend
+271,272,algerian upper class,gifts,associated_with,1,blend
+273,274,specific decorations,major festival,associated_with,1,blend
+14,206,algeria,traditional dishes,prefer_watching,1,blend
+3,256,food,football,prefer_watching,1,blend
+14,275,algeria,national football league,hosts,1,blend
+276,3,bread,food,called,1,blend
+14,277,algeria,public speeches,attend,1,blend
+14,278,algeria,national flags,display,1,blend
+14,3,algeria,food,preceded_by,1,blend
+14,279,algeria,on graduation ceremony,wear_traditional_attire,1,blend
+14,280,algeria,hot beverages,consume_during_cold_weather,1,blend
+281,282,fruit,ramadan in algeria,associated_with,1,blend
+14,283,algeria,martial art sports,famous_for,1,blend
+107,272,artist,gifts,expressed_through,1,blend
+14,284,algeria,famous rivalries,hosts,1,blend
+285,286,intense rivalry,fan behavior,expressed_through,1,blend
+14,287,algeria,government-supported sport,hosts,1,blend
+3,288,food,lamb,commonly_consumed,1,blend
+14,3,algeria,food,hosts,3,blend
+3,289,food,athletes,train,1,blend
+14,33,algeria,snacks,eat,1,blend
+14,47,algeria,nurse,hosts,1,blend
+14,290,algeria,major winter sports infrastructure,lacks,1,blend
+14,291,algeria,national athletes,identify_with,1,blend
+292,293,e-sports games,most popular sports in algeria,are,1,blend
+14,294,algeria,08:00,start_work_at,1,blend
+295,296,government employees,09:00,start_work_at,1,blend
+14,297,algeria,tourists/visitors fruit,offer,1,blend
+281,298,fruit,guests,commonly_offered,1,blend
+299,300,fruit type,specifically,not_specified,1,blend
+24,301,cultural practice,offering fruit,expresses_hospitality,1,blend
+3,302,food,charity in algeria,commonly_offered,1,blend
+3,303,food,phyllo dough filled with meat or cheese,consists_of,1,blend
+3,304,food,postpartum care,associated_with,1,blend
+74,24,preparation,cultural practice,indicates,1,blend
+305,306,examination,bac,called,1,blend
+14,307,algeria,exam,conducts,1,blend
+14,308,algeria,most famous religious holiday,hosts,1,blend
+14,309,algeria,during traditional festivals,wear_clothing,1,blend
+14,310,algeria,martial arts competitions,hosts,1,blend
+3,311,food,public vote,measured_by,1,blend
+3,14,food,algeria,commonly_consumed,1,blend
+3,312,food,fried pastry filled with potatoes and eggs,consists_of,1,blend
+14,313,algeria,indispensable seasoning,uses,1,blend
+314,3,seasoning,food,essential_for,1,blend
+14,315,algeria,stew,consume_during_cold_weather,1,blend
+14,316,algeria,track and field events,prefer_watching,1,blend
+14,317,algeria,competitive sports events,hosts,1,blend
+223,318,audience,rhythmic gymnastics,prefer_watching,1,blend
+14,319,algeria,gymnastics competitions,hosts,1,blend
+3,320,food,viewership,measured_by,1,blend
+321,33,cinema-goers,snacks,eat,1,blend
+14,322,algeria,certain vegetables,dislike,1,blend
+14,323,algeria,most well known sporting stadium,hosts,1,blend
+324,325,algerian paralympians,representing algeria,famous_for,1,blend
+326,327,in public,local entrepreneurs,identify_with,1,blend
+14,328,algeria,festivals with traditional drinks,hosts,1,blend
+3,14,food,algeria,played_in,1,blend
+3,329,food,attendance and media coverage,measured_by,1,blend
+330,331,common food,easter in algeria,associated_with,1,blend
+40,332,customer,algerian funeral rituals,pertains_to,1,blend
+24,14,cultural practice,algeria,exists_in,1,blend
+14,3,algeria,food,dislike,1,blend
+333,334,algerian restaurants,local flavors,offer,1,blend
+3,335,food,family bonding,expressed_through,1,blend
+336,14,side jobs,algeria,common_activity,1,blend
+1,3,ramadan,food,affects,1,blend
+337,338,algerian elementary schools,popular after school curricular,offer,1,blend
+14,339,algeria,popular card game,hosts,1,blend
+3,14,food,algeria,cultural_group,1,blend
+33,47,snacks,nurse,sold_near,1,blend
+3,340,food,milk for strength,drink,1,blend
+47,341,nurse,extracurricular music programs,offer,1,blend
+342,3,people in mountainous areas,food,main_occupation,1,blend
+343,344,people in coastal areas,fishing,main_occupation,1,blend
+345,14,algerian brides,algeria,wear_traditional_attire,1,blend
+346,272,university students,gifts,famous_for,1,blend
+14,3,algeria,food,value_companionship,1,blend
+3,347,food,most popular women's sports team,measured_by,1,blend
+14,348,algeria,most popular tournament,hosts,1,blend
+349,3,algerian employers,food,offer,1,blend
+346,350,university students,higher education,goal_of,1,blend
+346,351,university students,universities in algeria,attend,1,blend
+3,298,food,guests,asks_questions,1,candle
+352,3,world,food,hosts,1,candle
+353,354,rating,judges' scores,depends_on,1,candle
+355,3,judge,food,evaluates,1,candle
+355,356,judge,ritual,conducts,1,candle
+3,357,food,student presence,indicates,1,candle
+52,358,teacher,census-like method,uses,1,candle
+52,14,teacher,algeria,expects,1,candle
+52,359,teacher,initial testing,conducts,1,candle
+360,361,testing,identified children,targets,1,candle
+14,362,algeria,tested,are,1,candle
+52,14,teacher,algeria,sets_expectations_for,1,candle
+52,363,teacher,team leader,meets_with,1,candle
+14,52,algeria,teacher,show_respect_to,2,candle
+14,3,algeria,food,display,1,candle
+3,364,food,following instructions and obedience,expressed_through,1,candle
+52,14,teacher,algeria,teaches,2,candle
+52,3,teacher,food,uses,1,candle
+52,365,teacher,behavior in school,sets_expectations_for,1,candle
+3,366,food,student's skills,evaluates,1,candle
+52,367,teacher,ritual of testing,conducts,1,candle
+52,368,teacher,candle metaphorically,uses,1,candle
+3,369,food,students with special needs,helps,1,candle
+3,370,food,small setting,uses,1,candle
+3,371,food,modeling and feedback,expressed_through,1,candle
+372,373,mentor,new teachers,train,1,candle
+52,374,teacher,student performance,evaluates,1,candle
+3,375,food,learning and success,enables,1,candle
+52,14,teacher,algeria,assist,1,candle
+14,3,algeria,food,benefit_from,1,candle
+52,376,teacher,notes,uses,1,candle
+52,14,teacher,algeria,communicates_with,2,candle
+377,378,time,effective teaching,essential_for,1,candle
+52,379,teacher,according to expectations,evaluates,1,candle
+380,3,mark,food,indicates,1,candle
+52,381,teacher,traditional single-pedestal desk,uses,1,candle
+52,382,teacher,charts,use,1,candle
+52,307,teacher,exam,designs,1,candle
+383,384,marking,teacher's job,essential_for,1,candle
+385,386,swarming,potential division,indicates,1,candle
+387,3,application,food,for,1,candle
+388,389,farm,farmers' work,destination,1,candle
+3,390,food,investment details,documents,1,candle
+14,391,algeria,lawyers,occupational_group,1,candle
+14,392,algeria,pinstripes,wear_clothing,1,candle
+40,3,customer,food,wants,1,candle
+47,393,nurse,medication,administers,2,candle
+47,394,nurse,start iv,knows_how_to,1,candle
+47,46,nurse,mother,cares_for,1,candle
+47,395,nurse,paper-based system,uses,1,candle
+47,3,nurse,food,cares_for,1,candle
+47,249,nurse,patient,greet,1,candle
+47,3,nurse,food,uses,1,candle
+47,397,nurse,patient's vital signs,checks,1,candle
+47,398,nurse,candle (metaphorically),uses,1,candle
+47,399,nurse,doctor,makes_appointment_with,1,candle
+47,400,nurse,practice nurse,makes_appointment_with,1,candle
+47,14,nurse,algeria,communicates_with,1,candle
+47,249,nurse,patient,cares_for,1,candle
+47,401,nurse,patient condition,documents,1,candle
+47,249,nurse,patient,asks_questions,1,candle
+3,402,food,nursing occupation,associated_with,1,candle
+47,403,nurse,special needle,uses,1,candle
+47,404,nurse,injections,administers,1,candle
+47,405,nurse,pain medication,administers,1,candle
+47,3,nurse,food,improves_skill,2,candle
+47,406,nurse,speaking,improves_skill,1,candle
+407,408,reviews,nurse performance,evaluates,1,candle
+47,409,nurse,patient's daily needs,cares_for,1,candle
+410,411,essays,tailor-made,are,1,candle
+412,35,tailor,clothing,makes,1,candle
+14,413,algeria,effective learning,benefit_from,1,candle
+412,3,tailor,food,uses_tool,1,candle
+3,414,food,individual guidance,offer,1,candle
+412,3,tailor,food,makes,1,candle
+3,415,food,dark skin,treats,1,candle
+416,40,programs,customer,specific_to,1,candle
+14,3,algeria,food,strives_for,1,candle
+14,3,algeria,food,uses,1,candle
+14,3,algeria,food,applies,1,candle
+14,3,algeria,food,checks,1,candle
+21,417,game,winning votes,aimed_at,1,candle
+418,326,politician,in public,uses,1,candle
+326,419,in public,promoting ideas,for,1,candle
+418,3,politician,food,uses,1,candle
+3,420,food,politician's performance,captures,1,candle
+3,421,food,new ritual,enables,1,candle
+418,422,politician,windmills,targets,1,candle
+3,423,food,monetization,leads_to,1,candle
+14,424,algeria,political career,depends_on,1,candle
+418,3,politician,food,shapes_public_opinion,1,candle
+425,3,government,food,shapes_public_opinion,1,candle
+426,3,public kin official,food,shapes_public_opinion,1,candle
+427,428,photographer,get the shot predictably,knows_how_to,1,candle
+427,429,photographer,directing shots,specializes_in,1,candle
+427,430,photographer,perfect moment,captures,1,candle
+427,431,photographer,cultural knowledge,uses,1,candle
+427,3,photographer,food,captures,1,candle
+432,433,process,great photographer,leads_to,1,candle
+427,434,photographer,certain occupations,pertains_to,1,candle
+435,14,photographers,algeria,remain_stationary,1,candle
+436,14,videographers,algeria,remain_stationary,1,candle
+427,437,photographer,wedding photography,specializes_in,1,candle
+427,438,photographer,specific location,chooses,1,candle
+427,439,photographer,golden hour for photography,chooses,1,candle
+3,440,food,some photographers,are_preferred_by,1,candle
+3,441,food,other photographers,are_preferred_by,1,candle
+3,442,food,exfoliating daily,suggest,1,candle
+3,443,food,exfoliating twice weekly,suggest,1,candle
+107,3,artist,food,uses,1,candle
+356,3,ritual,food,associated_with,1,candle
+107,444,artist,work speaks to audience,wants,1,candle
+445,446,writers,through writing,create_tangible_art,1,candle
+447,448,musicians,through music,create_tangible_art,1,candle
+107,449,artist,through visual arts,create_tangible_art,1,candle
+107,3,artist,food,uses_tool,1,candle
+450,451,painter,tape,uses,1,candle
+450,3,painter,food,applies,1,candle
+450,452,painter,warranty,associated_with,1,candle
+450,3,painter,food,uses_tool,1,candle
+3,453,food,outlets,covers,1,candle
+454,3,priest,food,specializes_in,1,candle
+454,455,priest,usher,occupational_group,1,candle
+456,457,robes,brightest,are,1,candle
+454,458,priest,best robes,chooses,1,candle
+427,3,photographer,food,uses,1,candle
+3,460,food,legally binding,becomes,1,candle
+3,461,food,agreement legally binding,makes,1,candle
+3,462,food,attorney and client,occurs_between,1,candle
+459,3,attorney,food,uses,3,candle
+459,463,attorney,information,must_present,1,candle
+445,3,writers,food,must_present,1,candle
+459,3,attorney,food,pose,1,candle
+445,3,writers,food,pose,1,candle
+459,3,attorney,food,reviews,1,candle
+459,3,attorney,food,assist,1,candle
+459,3,attorney,food,adheres_to,1,candle
+3,464,food,meatcutting equipment,employs,1,candle
+465,466,rocket,scientific expertise,associated_with,1,candle
+467,468,scientist,invisible primary,discuss,1,candle
+469,298,receptionist,guests,greet,1,candle
+469,249,receptionist,patient,greet,1,candle
+470,3,journalist,food,attend,1,candle
+470,471,journalist,paper,reviews,1,candle
+470,3,journalist,food,submit,1,candle
+470,472,journalist,quality that is top,submit,1,candle
+3,473,food,restaurant,keeps_neat,1,candle
+474,473,pad cover,restaurant,keeps_neat,1,candle
+399,249,doctor,patient,takes_oath,1,candle
+399,475,doctor,do no harm,takes_oath,1,candle
+399,3,doctor,food,should_wash_hands,1,candle
+47,3,nurse,food,should_wash_hands,1,candle
+399,249,doctor,patient,treats,1,candle
+249,476,patient,treatment,undergoes,1,candle
+399,477,doctor,serve public good,takes_oath,1,candle
+399,249,doctor,patient,asks_questions,1,candle
+249,478,patient,physical exam,undergoes,1,candle
+3,399,food,doctor,essential_for,1,candle
+3,479,food,doctor to provide best care,enables,1,candle
+399,3,doctor,food,checks,1,candle

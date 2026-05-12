@@ -1,0 +1,200 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 11
+    },
+    {
+      "id": 2,
+      "label": "egyptian cultural group",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 4,
+      "label": "assam",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 5,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "bihar's culture",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "chhattisgarh culture",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "tailor",
+      "level": 1,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "carpenters",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "dentist cultural group",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "egyptian cultural group",
+      "relation_type": "belong_to",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "belongs_to",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "assam",
+      "relation_type": "belongs_to",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "source_label": "nile valley",
+      "target_label": "assam",
+      "relation_type": "belongs_to",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "food",
+      "target_label": "bihar's culture",
+      "relation_type": "belongs_to",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "chhattisgarh culture",
+      "relation_type": "belongs_to",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "belong_to",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "tailor",
+      "relation_type": "belong_to",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "food",
+      "target_label": "carpenters",
+      "relation_type": "belong_to",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "dentist cultural group",
+      "relation_type": "belongs_to",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

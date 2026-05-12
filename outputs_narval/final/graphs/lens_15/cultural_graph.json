@@ -1,0 +1,4412 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "families",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "family members",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "assemble family members",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "chad",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "iftar",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 7,
+      "label": "light meal",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 8,
+      "label": "algerians",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 9,
+      "label": "mahr",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "arabic music",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "morning routine",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "am salma",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "cleaning service",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "hamza",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "loan",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "beautiful wrapping",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "ahmed",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 18,
+      "label": "game",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "smir",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "drinking coffee",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "fresh fruit",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "workers",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "relaxation after work",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "smir el-qursh",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "avoid riba when borrowing",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "giving gifts",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "friend",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "people",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 29,
+      "label": "restaurants",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "egypt",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "mohamed",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "chayam",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "with family",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "pajamas",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "public",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 36,
+      "label": "general",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 8
+    },
+    {
+      "id": 37,
+      "label": "early dinners",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 9
+    },
+    {
+      "id": 39,
+      "label": "home-like settings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "strip malls",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "regular malls",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "general",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 24
+    },
+    {
+      "id": 43,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 23
+    },
+    {
+      "id": 44,
+      "label": "ice in beverages",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "milk",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "beer",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "tampons",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "pads",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 49,
+      "label": "us system",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "alternatives",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "bread",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "fresh or high-quality bread",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "real bread",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "shopping",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "aldi",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "driving",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "walking",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "flavorful food",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "peeling fruit",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "eating fruit with the peel",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "some individuals",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "chickpeas",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "garbanzo beans",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "adjusting",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "expressing frustration",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "using various cleaning tools",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "hands",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "dryers",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 69,
+      "label": "united states",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 70,
+      "label": "air conditioning",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "natural ventilation",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "fanta",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "united states",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 74,
+      "label": "school lunches",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "home-packed ones",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "microwave usage",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "non-metric system",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "milder",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "yellow mustard",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "hot dogs",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "public transportation",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "driving",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "faster preparation methods",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "line-drying",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "save money, socialize, or express personal choice",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "reusable dishes",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "disposable plates",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "warm, freshly made sandwiches",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "cold sandwiches",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "practical measurements for humans",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "imperial system",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "metric system",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "small talk",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "conversations",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "leggings",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "sweats",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "comfort and style",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "real bread over toast",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "parents",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "walking or cycling to school",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "smaller sugar portions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "high expectations",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "discipline",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "parent-child",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "canned whipped cream",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "uncanned whipped cream",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "american food",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "french food culture",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "unique date format",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "am/pm",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "washing dishes",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "running water",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "dishwasher",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "washing up bowls",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "washing dishes under running water",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "using a dishwasher",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "cash",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "cards",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "early sleep",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "carbonated beverages",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "self-service gas pumps",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "gas pump attendants",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "men",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "engagement rings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "more options in school activities",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "ice cream",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "nail care",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 128,
+      "label": "diy",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "professional services",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "chinese food",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "egg fu young",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "orange chicken",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "better-paid jobs",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "rewarding jobs",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "enjoyable jobs",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "butter",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "high costs",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "affordability",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "cash gifts",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "physical gifts",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "couples",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "guests",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "naming children with unique, personalized, and sometimes unusual names",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "tradition",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "personal choice",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 146,
+      "label": "candy",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "balanced diets",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 148,
+      "label": "fresh strawberries",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "canned strawberries",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "diy and professional services",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 151,
+      "label": "rules that align with their beliefs",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 152,
+      "label": "personal space",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "sitting next to strangers",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 154,
+      "label": "motorized shopping carts",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "baskets",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "large portion sizes",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 157,
+      "label": "big gulp",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 158,
+      "label": "fast food",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 159,
+      "label": "healthier options",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 160,
+      "label": "fruit",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 161,
+      "label": "stocking up on sundays",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 162,
+      "label": "financial stability",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 163,
+      "label": "husbands",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 164,
+      "label": "wifes",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 165,
+      "label": "partners or spouses",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 166,
+      "label": "income",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 167,
+      "label": "household finances",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 168,
+      "label": "hanging clothes",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 169,
+      "label": "hardwood",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 170,
+      "label": "tile",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 171,
+      "label": "carpet",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 172,
+      "label": "floors",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 173,
+      "label": "bathrooms",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 174,
+      "label": "coffee",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 175,
+      "label": "espresso",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 176,
+      "label": "credit card use",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 177,
+      "label": "cursive writing",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 178,
+      "label": "self-bagging",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 179,
+      "label": "waiting in line",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 180,
+      "label": "unwritten rules",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 181,
+      "label": "specific products",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 182,
+      "label": "carbonated water",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 183,
+      "label": "sparkling water",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 184,
+      "label": "mobile app",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 185,
+      "label": "bank account",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 186,
+      "label": "association football",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 187,
+      "label": "american football",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 188,
+      "label": "eating with hands",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 189,
+      "label": "finger foods",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 190,
+      "label": "living",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 191,
+      "label": "moving",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 192,
+      "label": "spending time",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 193,
+      "label": "germany",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 194,
+      "label": "bulk shopping",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 195,
+      "label": "shopping habits",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 196,
+      "label": "frequent shopping",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 197,
+      "label": "solo travel",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 198,
+      "label": "group travel",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 199,
+      "label": "united states",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 200,
+      "label": "doggy bags",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 201,
+      "label": "card payment",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 202,
+      "label": "customers",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 203,
+      "label": "ketchup",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 204,
+      "label": "mobile payment apps",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 205,
+      "label": "healthy snacks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 206,
+      "label": "walking on the left side",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 207,
+      "label": "schools",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 208,
+      "label": "practice",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 209,
+      "label": "target",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 210,
+      "label": "capsicum",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 211,
+      "label": "bell peppers",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 212,
+      "label": "dishwashers",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 213,
+      "label": "dishcloth",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 214,
+      "label": "impulse buying",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 215,
+      "label": "discounts",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 216,
+      "label": "exclusive savings",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 217,
+      "label": "spending habits",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 218,
+      "label": "personal information",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 219,
+      "label": "home-packed lunches",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 220,
+      "label": "convenience",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 221,
+      "label": "coca-cola",
+      "level": 4,
+      "cultural_group": "drink",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 222,
+      "label": "diet coke",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 223,
+      "label": "zero coke",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 224,
+      "label": "frozen coke",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 225,
+      "label": "daily life",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 226,
+      "label": "socks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 227,
+      "label": "rice",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 228,
+      "label": "high-quality and bulk purchases",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 229,
+      "label": "produce",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 230,
+      "label": "locally grown and non-steroided produce",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 231,
+      "label": "dating",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 232,
+      "label": "marriage",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 233,
+      "label": "date for extended periods, often 5-10 years",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 234,
+      "label": "cars",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 235,
+      "label": "expensive models",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 236,
+      "label": "warm destinations",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 237,
+      "label": "destinations",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 238,
+      "label": "fox news",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 239,
+      "label": "bathtubs",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 240,
+      "label": "showering in tubs",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 241,
+      "label": "sweetness",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 242,
+      "label": "health",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 243,
+      "label": "muffins",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 244,
+      "label": "oreos",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 245,
+      "label": "certain snack foods",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 246,
+      "label": "young people",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 247,
+      "label": "algeria",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 248,
+      "label": "company dinners",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 249,
+      "label": "people in algeria",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 250,
+      "label": "females",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 251,
+      "label": "occupation",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 252,
+      "label": "males",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 253,
+      "label": "algeria",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 254,
+      "label": "alcoholic beverage",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 255,
+      "label": "men",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 256,
+      "label": "women",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 257,
+      "label": "alcoholic beverage",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 258,
+      "label": "sailor",
+      "level": 1,
+      "cultural_group": "sailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 259,
+      "label": "tie",
+      "level": 5,
+      "cultural_group": "sailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 260,
+      "label": "judge",
+      "level": 1,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 261,
+      "label": "dog show",
+      "level": 2,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 262,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 263,
+      "label": "mentor",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 264,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 265,
+      "label": "doctor",
+      "level": 1,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 266,
+      "label": "tailor",
+      "level": 1,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 267,
+      "label": "tailoring the learning to the children's individual needs",
+      "level": 2,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 268,
+      "label": "carpenters",
+      "level": 5,
+      "cultural_group": "carpenter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 269,
+      "label": "tailors",
+      "level": 5,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 270,
+      "label": "robust chisels",
+      "level": 2,
+      "cultural_group": "carpenter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 271,
+      "label": "sharpest scissors",
+      "level": 2,
+      "cultural_group": "carpenter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 272,
+      "label": "merchant",
+      "level": 1,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 273,
+      "label": "special account",
+      "level": 4,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 274,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 4
+    },
+    {
+      "id": 275,
+      "label": "physical spot",
+      "level": 2,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 276,
+      "label": "timeline for when they expect payment",
+      "level": 2,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 277,
+      "label": "logo",
+      "level": 5,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 278,
+      "label": "delicacy",
+      "level": 2,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 279,
+      "label": "event",
+      "level": 2,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 280,
+      "label": "good tattoo artist",
+      "level": 4,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 281,
+      "label": "perfectly",
+      "level": 5,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 282,
+      "label": "architect",
+      "level": 1,
+      "cultural_group": "occupations",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 283,
+      "label": "design",
+      "level": 5,
+      "cultural_group": "occupations",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 284,
+      "label": "architect",
+      "level": 2,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 285,
+      "label": "attorney",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 286,
+      "label": "pay off letter",
+      "level": 2,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 287,
+      "label": "journalist",
+      "level": 1,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 288,
+      "label": "gently",
+      "level": 5,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 289,
+      "label": "waiter",
+      "level": 1,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 290,
+      "label": "tipping",
+      "level": 2,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "families",
+      "target_label": "assemble family members",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "chad",
+      "target_label": "iftar",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "algeria",
+      "target_label": "light meal",
+      "relation_type": "prefer",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "algerians",
+      "target_label": "mahr",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "arabic music",
+      "target_label": "morning routine",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 11,
+      "target": 10,
+      "source_label": "morning routine",
+      "target_label": "arabic music",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "am salma",
+      "target_label": "cleaning service",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "hamza",
+      "target_label": "loan",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 16,
+      "source_label": "algeria",
+      "target_label": "beautiful wrapping",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "ahmed",
+      "target_label": "game",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "smir",
+      "target_label": "drinking coffee",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 21,
+      "source_label": "algerians",
+      "target_label": "fresh fruit",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "workers",
+      "target_label": "relaxation after work",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "smir el-qursh",
+      "target_label": "avoid riba when borrowing",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 26,
+      "source_label": "algerians",
+      "target_label": "giving gifts",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 17,
+      "target": 27,
+      "source_label": "ahmed",
+      "target_label": "friend",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "source_label": "people",
+      "target_label": "restaurants",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "mohamed",
+      "target_label": "chayam",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 31,
+      "target": 33,
+      "source_label": "mohamed",
+      "target_label": "with family",
+      "relation_type": "chayam with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "source_label": "pajamas",
+      "target_label": "public",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "source_label": "general",
+      "target_label": "early dinners",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "source_label": "united states",
+      "target_label": "home-like settings",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 40,
+      "target": 36,
+      "source_label": "strip malls",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 44,
+      "source_label": "united states",
+      "target_label": "ice in beverages",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 45,
+      "source_label": "united states",
+      "target_label": "milk",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 46,
+      "source_label": "general",
+      "target_label": "beer",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "source_label": "tampons",
+      "target_label": "pads",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "source_label": "us system",
+      "target_label": "alternatives",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "source_label": "bread",
+      "target_label": "fresh or high-quality bread",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 51,
+      "target": 53,
+      "source_label": "bread",
+      "target_label": "real bread",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "source_label": "shopping",
+      "target_label": "aldi",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 56,
+      "source_label": "united states",
+      "target_label": "driving",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 57,
+      "source_label": "united states",
+      "target_label": "walking",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 58,
+      "source_label": "general",
+      "target_label": "flavorful food",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 59,
+      "target": 36,
+      "source_label": "peeling fruit",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "source_label": "eating fruit with the peel",
+      "target_label": "some individuals",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 62,
+      "target": 36,
+      "source_label": "chickpeas",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "source_label": "adjusting",
+      "target_label": "expressing frustration",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "source_label": "using various cleaning tools",
+      "target_label": "hands",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 68,
+      "target": 38,
+      "source_label": "dryers",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 70,
+      "target": 36,
+      "source_label": "air conditioning",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 71,
+      "target": 36,
+      "source_label": "natural ventilation",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 72,
+      "target": 38,
+      "source_label": "fanta",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "source_label": "school lunches",
+      "target_label": "home-packed ones",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 76,
+      "source_label": "general",
+      "target_label": "microwave usage",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 77,
+      "source_label": "united states",
+      "target_label": "non-metric system",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "source_label": "milder",
+      "target_label": "yellow mustard",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "source_label": "yellow mustard",
+      "target_label": "hot dogs",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 81,
+      "target": 36,
+      "source_label": "public transportation",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 83,
+      "source_label": "general",
+      "target_label": "faster preparation methods",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 68,
+      "target": 36,
+      "source_label": "dryers",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 84,
+      "target": 36,
+      "source_label": "line-drying",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 85,
+      "source_label": "united states",
+      "target_label": "save money, socialize, or express personal choice",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 86,
+      "target": 87,
+      "source_label": "reusable dishes",
+      "target_label": "disposable plates",
+      "relation_type": "preferred over",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 88,
+      "target": 36,
+      "source_label": "warm, freshly made sandwiches",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 89,
+      "target": 36,
+      "source_label": "cold sandwiches",
+      "target_label": "general",
+      "relation_type": "dislike",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 90,
+      "source_label": "united states",
+      "target_label": "practical measurements for humans",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 91,
+      "source_label": "united states",
+      "target_label": "imperial system",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 92,
+      "source_label": "united states",
+      "target_label": "metric system",
+      "relation_type": "occasionally use",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 93,
+      "target": 94,
+      "source_label": "small talk",
+      "target_label": "conversations",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 95,
+      "target": 97,
+      "source_label": "leggings",
+      "target_label": "comfort and style",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "source_label": "sweats",
+      "target_label": "comfort and style",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 98,
+      "source_label": "united states",
+      "target_label": "real bread over toast",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 99,
+      "target": 100,
+      "source_label": "parents",
+      "target_label": "walking or cycling to school",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 101,
+      "source_label": "united states",
+      "target_label": "smaller sugar portions",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 102,
+      "target": 104,
+      "source_label": "high expectations",
+      "target_label": "parent-child",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 103,
+      "target": 104,
+      "source_label": "discipline",
+      "target_label": "parent-child",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 105,
+      "target": 38,
+      "source_label": "canned whipped cream",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 106,
+      "target": 38,
+      "source_label": "uncanned whipped cream",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 107,
+      "target": 36,
+      "source_label": "american food",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 108,
+      "source_label": "general",
+      "target_label": "french food culture",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 109,
+      "target": 36,
+      "source_label": "unique date format",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 110,
+      "target": 36,
+      "source_label": "am/pm",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 111,
+      "target": 115,
+      "source_label": "washing dishes",
+      "target_label": "washing dishes under running water",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 111,
+      "target": 116,
+      "source_label": "washing dishes",
+      "target_label": "using a dishwasher",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 111,
+      "target": 114,
+      "source_label": "washing dishes",
+      "target_label": "washing up bowls",
+      "relation_type": "occasionally use",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 117,
+      "target": 36,
+      "source_label": "cash",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 118,
+      "target": 36,
+      "source_label": "cards",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 119,
+      "source_label": "general",
+      "target_label": "early sleep",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 120,
+      "source_label": "united states",
+      "target_label": "carbonated beverages",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 121,
+      "target": 36,
+      "source_label": "self-service gas pumps",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 122,
+      "target": 36,
+      "source_label": "gas pump attendants",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 123,
+      "target": 124,
+      "source_label": "men",
+      "target_label": "engagement rings",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 125,
+      "source_label": "general",
+      "target_label": "more options in school activities",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 126,
+      "source_label": "united states",
+      "target_label": "ice cream",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 127,
+      "target": 128,
+      "source_label": "nail care",
+      "target_label": "diy",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 127,
+      "target": 129,
+      "source_label": "nail care",
+      "target_label": "professional services",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 130,
+      "target": 36,
+      "source_label": "chinese food",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 133,
+      "target": 36,
+      "source_label": "better-paid jobs",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 134,
+      "target": 36,
+      "source_label": "rewarding jobs",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 135,
+      "target": 36,
+      "source_label": "enjoyable jobs",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 136,
+      "target": 38,
+      "source_label": "butter",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 138,
+      "target": 137,
+      "source_label": "affordability",
+      "target_label": "high costs",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 139,
+      "target": 141,
+      "source_label": "cash gifts",
+      "target_label": "couples",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 140,
+      "target": 142,
+      "source_label": "physical gifts",
+      "target_label": "guests",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 143,
+      "source_label": "united states",
+      "target_label": "naming children with unique, personalized, and sometimes unusual names",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 146,
+      "target": 144,
+      "source_label": "candy",
+      "target_label": "tradition",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 146,
+      "target": 145,
+      "source_label": "candy",
+      "target_label": "personal choice",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 147,
+      "source_label": "general",
+      "target_label": "balanced diets",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 148,
+      "target": 36,
+      "source_label": "fresh strawberries",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 149,
+      "target": 36,
+      "source_label": "canned strawberries",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 150,
+      "source_label": "united states",
+      "target_label": "diy and professional services",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 151,
+      "source_label": "united states",
+      "target_label": "rules that align with their beliefs",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 152,
+      "target": 36,
+      "source_label": "personal space",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 153,
+      "target": 36,
+      "source_label": "sitting next to strangers",
+      "target_label": "general",
+      "relation_type": "prefer not",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 154,
+      "target": 36,
+      "source_label": "motorized shopping carts",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 155,
+      "target": 36,
+      "source_label": "baskets",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 156,
+      "target": 38,
+      "source_label": "large portion sizes",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 157,
+      "target": 38,
+      "source_label": "big gulp",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 158,
+      "target": 36,
+      "source_label": "fast food",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 159,
+      "target": 36,
+      "source_label": "healthier options",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 160,
+      "source_label": "united states",
+      "target_label": "fruit",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 162,
+      "target": 165,
+      "source_label": "financial stability",
+      "target_label": "partners or spouses",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 163,
+      "target": 166,
+      "source_label": "husbands",
+      "target_label": "income",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 164,
+      "target": 167,
+      "source_label": "wifes",
+      "target_label": "household finances",
+      "relation_type": "handle",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 168,
+      "source_label": "united states",
+      "target_label": "hanging clothes",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 169,
+      "target": 172,
+      "source_label": "hardwood",
+      "target_label": "floors",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 170,
+      "target": 172,
+      "source_label": "tile",
+      "target_label": "floors",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 171,
+      "target": 173,
+      "source_label": "carpet",
+      "target_label": "bathrooms",
+      "relation_type": "avoid",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 174,
+      "source_label": "united states",
+      "target_label": "coffee",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 174,
+      "target": 175,
+      "source_label": "coffee",
+      "target_label": "espresso",
+      "relation_type": "is not always perceived as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 176,
+      "source_label": "united states",
+      "target_label": "credit card use",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 177,
+      "source_label": "united states",
+      "target_label": "cursive writing",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 178,
+      "target": 36,
+      "source_label": "self-bagging",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 179,
+      "target": 36,
+      "source_label": "waiting in line",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 180,
+      "target": 181,
+      "source_label": "unwritten rules",
+      "target_label": "specific products",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 182,
+      "source_label": "united states",
+      "target_label": "carbonated water",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 183,
+      "source_label": "united states",
+      "target_label": "sparkling water",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 184,
+      "source_label": "united states",
+      "target_label": "mobile app",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 185,
+      "source_label": "united states",
+      "target_label": "bank account",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 186,
+      "source_label": "united states",
+      "target_label": "association football",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 187,
+      "source_label": "united states",
+      "target_label": "american football",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 188,
+      "target": 189,
+      "source_label": "eating with hands",
+      "target_label": "finger foods",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 190,
+      "target": 193,
+      "source_label": "living",
+      "target_label": "germany",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 191,
+      "target": 193,
+      "source_label": "moving",
+      "target_label": "germany",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 192,
+      "target": 193,
+      "source_label": "spending time",
+      "target_label": "germany",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 194,
+      "target": 195,
+      "source_label": "bulk shopping",
+      "target_label": "shopping habits",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 196,
+      "target": 195,
+      "source_label": "frequent shopping",
+      "target_label": "shopping habits",
+      "relation_type": "prefer not",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 197,
+      "target": 36,
+      "source_label": "solo travel",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 200,
+      "source_label": "united states",
+      "target_label": "doggy bags",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 202,
+      "target": 201,
+      "source_label": "customers",
+      "target_label": "card payment",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 204,
+      "source_label": "united states",
+      "target_label": "mobile payment apps",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 205,
+      "source_label": "general",
+      "target_label": "healthy snacks",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 206,
+      "source_label": "united states",
+      "target_label": "walking on the left side",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 207,
+      "target": 208,
+      "source_label": "schools",
+      "target_label": "practice",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 209,
+      "source_label": "united states",
+      "target_label": "target",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 210,
+      "target": 211,
+      "source_label": "capsicum",
+      "target_label": "bell peppers",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 212,
+      "target": 36,
+      "source_label": "dishwashers",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 213,
+      "target": 36,
+      "source_label": "dishcloth",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 214,
+      "target": 217,
+      "source_label": "impulse buying",
+      "target_label": "spending habits",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 215,
+      "target": 217,
+      "source_label": "discounts",
+      "target_label": "spending habits",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 216,
+      "target": 218,
+      "source_label": "exclusive savings",
+      "target_label": "personal information",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 219,
+      "target": 36,
+      "source_label": "home-packed lunches",
+      "target_label": "general",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 221,
+      "source_label": "united states",
+      "target_label": "coca-cola",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 221,
+      "target": 222,
+      "source_label": "coca-cola",
+      "target_label": "diet coke",
+      "relation_type": "comes in forms",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 221,
+      "target": 223,
+      "source_label": "coca-cola",
+      "target_label": "zero coke",
+      "relation_type": "comes in forms",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 221,
+      "target": 224,
+      "source_label": "coca-cola",
+      "target_label": "frozen coke",
+      "relation_type": "comes in forms",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 226,
+      "target": 225,
+      "source_label": "socks",
+      "target_label": "daily life",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 227,
+      "target": 38,
+      "source_label": "rice",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 228,
+      "source_label": "general",
+      "target_label": "high-quality and bulk purchases",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 229,
+      "target": 230,
+      "source_label": "produce",
+      "target_label": "locally grown and non-steroided produce",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 231,
+      "target": 232,
+      "source_label": "dating",
+      "target_label": "marriage",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 231,
+      "target": 233,
+      "source_label": "dating",
+      "target_label": "date for extended periods, often 5-10 years",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 234,
+      "target": 235,
+      "source_label": "cars",
+      "target_label": "expensive models",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 234,
+      "source_label": "united states",
+      "target_label": "cars",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 236,
+      "target": 237,
+      "source_label": "warm destinations",
+      "target_label": "destinations",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 238,
+      "source_label": "united states",
+      "target_label": "fox news",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 239,
+      "target": 38,
+      "source_label": "bathtubs",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 240,
+      "target": 38,
+      "source_label": "showering in tubs",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 243,
+      "target": 241,
+      "source_label": "muffins",
+      "target_label": "sweetness",
+      "relation_type": "preferences vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 243,
+      "target": 242,
+      "source_label": "muffins",
+      "target_label": "health",
+      "relation_type": "preferences vary by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 244,
+      "target": 38,
+      "source_label": "oreos",
+      "target_label": "united states",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 48,
+      "target": 35,
+      "source_label": "pads",
+      "target_label": "public",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 245,
+      "source_label": "general",
+      "target_label": "certain snack foods",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 246,
+      "target": 6,
+      "source_label": "young people",
+      "target_label": "algeria",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 249,
+      "target": 248,
+      "source_label": "people in algeria",
+      "target_label": "company dinners",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 250,
+      "target": 251,
+      "source_label": "females",
+      "target_label": "occupation",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 252,
+      "target": 251,
+      "source_label": "males",
+      "target_label": "occupation",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 254,
+      "target": 123,
+      "source_label": "alcoholic beverage",
+      "target_label": "men",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 256,
+      "target": 254,
+      "source_label": "women",
+      "target_label": "alcoholic beverage",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 258,
+      "target": 259,
+      "source_label": "sailor",
+      "target_label": "tie",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 260,
+      "target": 261,
+      "source_label": "judge",
+      "target_label": "dog show",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 262,
+      "target": 263,
+      "source_label": "teacher",
+      "target_label": "mentor",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 264,
+      "target": 265,
+      "source_label": "nurse",
+      "target_label": "doctor",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 266,
+      "target": 267,
+      "source_label": "tailor",
+      "target_label": "tailoring the learning to the children's individual needs",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 268,
+      "target": 270,
+      "source_label": "carpenters",
+      "target_label": "robust chisels",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 269,
+      "target": 271,
+      "source_label": "tailors",
+      "target_label": "sharpest scissors",
+      "relation_type": "seek",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 272,
+      "target": 273,
+      "source_label": "merchant",
+      "target_label": "special account",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 274,
+      "target": 275,
+      "source_label": "photographer",
+      "target_label": "physical spot",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 274,
+      "target": 276,
+      "source_label": "photographer",
+      "target_label": "timeline for when they expect payment",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 277,
+      "target": 278,
+      "source_label": "logo",
+      "target_label": "delicacy",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 274,
+      "target": 279,
+      "source_label": "photographer",
+      "target_label": "event",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 280,
+      "target": 281,
+      "source_label": "good tattoo artist",
+      "target_label": "perfectly",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 282,
+      "target": 283,
+      "source_label": "architect",
+      "target_label": "design",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 28,
+      "target": 282,
+      "source_label": "people",
+      "target_label": "architect",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 285,
+      "target": 286,
+      "source_label": "attorney",
+      "target_label": "pay off letter",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 287,
+      "target": 288,
+      "source_label": "journalist",
+      "target_label": "gently",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 289,
+      "target": 290,
+      "source_label": "waiter",
+      "target_label": "tipping",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+[
+  {
+    "lens_id": 0,
+    "lens_name": "uses",
+    "constituent_lenses": [
+      "uses",
+      "used for"
+    ],
+    "nodes": 941,
+    "edges": 666,
+    "output_dir": "outputs/final/graphs/lens_00"
+  },
+  {
+    "lens_id": 1,
+    "lens_name": "performs",
+    "constituent_lenses": [
+      "performs"
+    ],
+    "nodes": 726,
+    "edges": 466,
+    "output_dir": "outputs/final/graphs/lens_01"
+  },
+  {
+    "lens_id": 2,
+    "lens_name": "includes",
+    "constituent_lenses": [
+      "includes"
+    ],
+    "nodes": 43,
+    "edges": 25,
+    "output_dir": "outputs/final/graphs/lens_02"
+  },
+  {
+    "lens_id": 3,
+    "lens_name": "participate in",
+    "constituent_lenses": [
+      "participate in",
+      "part of"
+    ],
+    "nodes": 119,
+    "edges": 67,
+    "output_dir": "outputs/final/graphs/lens_03"
+  },
+  {
+    "lens_id": 4,
+    "lens_name": "practices",
+    "constituent_lenses": [
+      "practices"
+    ],
+    "nodes": 53,
+    "edges": 26,
+    "output_dir": "outputs/final/graphs/lens_04"
+  },
+  {
+    "lens_id": 5,
+    "lens_name": "features",
+    "constituent_lenses": [
+      "features"
+    ],
+    "nodes": 81,
+    "edges": 55,
+    "output_dir": "outputs/final/graphs/lens_05"
+  },
+  {
+    "lens_id": 6,
+    "lens_name": "involves",
+    "constituent_lenses": [
+      "involves"
+    ],
+    "nodes": 28,
+    "edges": 15,
+    "output_dir": "outputs/final/graphs/lens_06"
+  },
+  {
+    "lens_id": 7,
+    "lens_name": "values",
+    "constituent_lenses": [
+      "values"
+    ],
+    "nodes": 168,
+    "edges": 108,
+    "output_dir": "outputs/final/graphs/lens_07"
+  },
+  {
+    "lens_id": 8,
+    "lens_name": "symbolizes",
+    "constituent_lenses": [
+      "symbolizes"
+    ],
+    "nodes": 68,
+    "edges": 36,
+    "output_dir": "outputs/final/graphs/lens_08"
+  },
+  {
+    "lens_id": 9,
+    "lens_name": "enjoy",
+    "constituent_lenses": [
+      "enjoy"
+    ],
+    "nodes": 192,
+    "edges": 126,
+    "output_dir": "outputs/final/graphs/lens_09"
+  },
+  {
+    "lens_id": 10,
+    "lens_name": "originates from",
+    "constituent_lenses": [
+      "originates from"
+    ],
+    "nodes": 395,
+    "edges": 274,
+    "output_dir": "outputs/final/graphs/lens_10"
+  },
+  {
+    "lens_id": 11,
+    "lens_name": "reflects",
+    "constituent_lenses": [
+      "reflects"
+    ],
+    "nodes": 366,
+    "edges": 202,
+    "output_dir": "outputs/final/graphs/lens_11"
+  },
+  {
+    "lens_id": 12,
+    "lens_name": "expresses",
+    "constituent_lenses": [
+      "expresses"
+    ],
+    "nodes": 188,
+    "edges": 140,
+    "output_dir": "outputs/final/graphs/lens_12"
+  },
+  {
+    "lens_id": 13,
+    "lens_name": "characterized by",
+    "constituent_lenses": [
+      "characterized by"
+    ],
+    "nodes": 362,
+    "edges": 240,
+    "output_dir": "outputs/final/graphs/lens_13"
+  },
+  {
+    "lens_id": 14,
+    "lens_name": "prepares",
+    "constituent_lenses": [
+      "prepares"
+    ],
+    "nodes": 564,
+    "edges": 314,
+    "output_dir": "outputs/final/graphs/lens_14"
+  },
+  {
+    "lens_id": 15,
+    "lens_name": "prefer",
+    "constituent_lenses": [
+      "prefer"
+    ],
+    "nodes": 291,
+    "edges": 198,
+    "output_dir": "outputs/final/graphs/lens_15"
+  },
+  {
+    "lens_id": 16,
+    "lens_name": "varies by",
+    "constituent_lenses": [
+      "varies by"
+    ],
+    "nodes": 413,
+    "edges": 263,
+    "output_dir": "outputs/final/graphs/lens_16"
+  },
+  {
+    "lens_id": 17,
+    "lens_name": "made from",
+    "constituent_lenses": [
+      "made from"
+    ],
+    "nodes": 157,
+    "edges": 93,
+    "output_dir": "outputs/final/graphs/lens_17"
+  },
+  {
+    "lens_id": 18,
+    "lens_name": "receives",
+    "constituent_lenses": [
+      "receives"
+    ],
+    "nodes": 77,
+    "edges": 48,
+    "output_dir": "outputs/final/graphs/lens_18"
+  },
+  {
+    "lens_id": 19,
+    "lens_name": "is",
+    "constituent_lenses": [
+      "is"
+    ],
+    "nodes": 1263,
+    "edges": 802,
+    "output_dir": "outputs/final/graphs/lens_19"
+  }
+]

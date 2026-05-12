@@ -1,0 +1,52 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,74
+2,constantine,3,algeria,unknown,arabculture,1
+3,algeria,1,algeria,unknown,arabculture,2
+4,north africa,1,algeria,unknown,arabculture,1
+5,nile valley,1,egypt,unknown,arabculture,2
+6,pochampally,3,andhra pradesh,unknown,diwali,1
+7,mangalagiri town,3,andhra pradesh,unknown,diwali,1
+8,venkatagiri town,3,andhra pradesh,unknown,diwali,1
+9,uppada village,3,andhra pradesh,unknown,diwali,1
+10,kashida embroidery,1,bihar,unknown,diwali,2
+11,muzaffarpur,3,bihar,unknown,diwali,1
+12,portuguese colonial period,3,goa,unknown,diwali,1
+13,himachal pradesh,3,himachal pradesh,unknown,diwali,1
+14,kinnaur district,3,himachal pradesh,unknown,diwali,1
+15,kharsawan-kuchai region,3,jharkhand,unknown,diwali,1
+16,bhagalpur region,3,jharkhand,unknown,diwali,1
+17,mysore,3,karnataka,unknown,diwali,1
+18,karnataka,3,karnataka,unknown,diwali,1
+19,"guledgudda, bagalkot district",3,karnataka,unknown,diwali,1
+20,bhairavgarh,3,madhya pradesh,unknown,diwali,1
+21,"paithan, aurangabad",3,maharashtra,unknown,diwali,1
+22,aurangabad,3,maharashtra,unknown,diwali,1
+23,kolhapur,3,maharashtra,unknown,diwali,1
+24,berhampur,3,odisha,unknown,diwali,1
+25,sanganer,3,rajasthan,unknown,diwali,1
+26,ajrakh,3,rajasthan,unknown,diwali,1
+27,sindh region,3,rajasthan,unknown,diwali,1
+28,madurai,3,tamil nadu,unknown,diwali,1
+29,chettinad region,3,tamil nadu,unknown,diwali,1
+30,"arani, tamil nadu",3,tamil nadu,unknown,diwali,1
+31,bhavani,3,tamil nadu,unknown,diwali,1
+32,cotton sarees,2,tamil nadu,unknown,diwali,2
+33,coimbatore region,3,tamil nadu,unknown,diwali,1
+34,jamdani,2,uttar pradesh,unknown,diwali,2
+35,tanchoi,4,uttar pradesh,unknown,diwali,1
+36,varanasi,3,uttar pradesh,unknown,diwali,1
+37,west bengal,3,west bengal,unknown,diwali,1
+38,mughal-era delhi,3,delhi,unknown,diwali,1
+39,sambha region,3,jammu and kashmir,unknown,diwali,1
+40,andhra ikshvakus' courts,3,andhra pradesh,unknown,diwali,1
+41,assam,1,assam,unknown,diwali,3
+42,islamic tradition,3,assam,unknown,diwali,1
+43,sonowal kachari dance,3,assam,unknown,diwali,1
+44,chham dance,3,bihar,unknown,diwali,1
+45,tribal martial tradition,3,bihar,unknown,diwali,1
+46,term 'chickpeas',3,general,unknown,culturebank,1
+47,hispanic language,3,general,unknown,culturebank,1
+48,soccer,3,general,unknown,culturebank,1
+49,british colonizers,3,general,unknown,culturebank,1
+50,couscous,2,dz,unknown,blend,1

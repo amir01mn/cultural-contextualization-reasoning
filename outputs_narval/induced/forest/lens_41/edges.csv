@@ -1,0 +1,12 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,tech workers,algeria,work_in,1,blend
+3,4,unit clerk,hospitality,works_in,1,candle
+3,5,unit clerk,front desk,works_at,1,candle
+6,7,food,certain occupations,works_in,1,candle
+8,2,teacher,algeria,work_with,1,candle
+9,10,nurse,doctor,works_with,1,candle
+9,11,nurse,large open space,works_in,1,candle
+12,13,carpenters,established home,works_at,1,candle
+2,14,algeria,hygiene,work_with,1,candle
+15,6,photographer,food,works_with,1,candle
+15,16,photographer,professional circuit,works_in,1,candle

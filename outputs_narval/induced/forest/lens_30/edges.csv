@@ -1,0 +1,19 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,north africa,common_culinary_traditions,shares,1,arabculture
+4,5,brothers,special relationship,share,1,arabculture
+6,7,north african cultures,sibling care,share,1,arabculture
+8,9,north africans,suhour tradition,share,1,arabculture
+10,11,algeria,meal time tradition,share,1,arabculture
+10,12,algeria,ramadan,shares,1,arabculture
+10,13,algeria,meal during iftar,share,1,arabculture
+10,14,algeria,customer,shares,1,arabculture
+15,16,nile valley,cultural practice of wedding feasts,shares,1,arabculture
+3,17,food,coffee with colleagues,share,1,arabculture
+18,19,siblings,responsibility,share,1,arabculture
+10,20,algeria,meal together,shares,1,arabculture
+10,21,algeria,recipe for ajyeh,share,1,arabculture
+10,3,algeria,food,shares,1,arabculture
+10,22,algeria,breakfast at university,share,1,arabculture
+10,23,algeria,value of family togetherness during meals,share,1,arabculture
+24,25,dz culture,folk tale tradition,shares,1,blend
+3,26,food,information,share,1,candle

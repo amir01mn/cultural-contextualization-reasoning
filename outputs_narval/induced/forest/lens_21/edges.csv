@@ -1,0 +1,28 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,3,tadbir,cultural celebration,is_a,1,arabculture
+4,5,sham al-nisim,non-religious egyptian holiday,is,1,arabculture
+6,7,snake and ladder,board game,is_a,1,arabculture
+8,9,food,egyptian woman,is,1,arabculture
+10,11,khadi,hand-spun and hand-woven fabric,is,1,diwali
+8,12,food,classical dance,is_a,1,diwali
+8,13,food,pure dance form,is_a,1,diwali
+8,14,food,folk dance,is_a,3,diwali
+8,15,food,folk theatre,is_a_form_of,1,diwali
+8,16,food,portuguese-influenced dance,is,1,diwali
+17,18,transportation method,car,is,1,culturebank
+19,20,popular afterschool sport,football,is,1,blend
+21,22,sport commentator,most popular in algeria,is,1,blend
+22,8,most popular in algeria,food,is,1,blend
+23,24,lunch time,ideal for sports,is,1,blend
+25,26,grade level,9th grade,is,1,blend
+22,27,most popular in algeria,brik (fried pastry filled with cheese or egg),is,1,blend
+28,8,popular sport,food,is,1,blend
+29,30,popular vegetable,carrot,is,1,blend
+31,22,sportperson,most popular in algeria,is,1,blend
+8,32,food,special tool,is,1,candle
+33,34,clothing,tailor-made,is,1,candle
+35,36,photographer,reputable,is,1,candle
+8,37,food,artist,is_a,1,candle
+8,38,food,handwriting,is,1,candle
+39,40,process,ramadan,is,1,candle
+8,41,food,quiet,is,1,candle

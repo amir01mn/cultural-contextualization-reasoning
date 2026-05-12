@@ -1,0 +1,147 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,household,2,algeria,unknown,arabculture,1
+2,cleaning and organizing,3,algeria,unknown,arabculture,1
+3,music of sahara,3,algeria,unknown,arabculture,1
+4,food,1,algeria,unknown,arabculture,109
+5,mahjub,3,algeria,unknown,arabculture,1
+6,olives,3,algeria,unknown,arabculture,1
+7,side dish,3,algeria,unknown,arabculture,1
+8,bread,5,algeria,unknown,arabculture,1
+9,drinks,3,algeria,unknown,arabculture,1
+10,ramadan,1,algeria,unknown,arabculture,9
+11,changing dishes,3,algeria,unknown,arabculture,1
+12,cake,3,algeria,unknown,arabculture,1
+13,additions,3,algeria,unknown,arabculture,1
+14,gold set,3,algeria,unknown,arabculture,1
+15,algeria,1,algeria,unknown,arabculture,15
+16,algerian preparations,3,algeria,unknown,arabculture,1
+17,welcoming eid al-adha,3,algeria,unknown,arabculture,1
+18,customer,1,algeria,unknown,arabculture,3
+19,unspecified customs,3,algeria,unknown,arabculture,1
+20,non-religious festivals,3,algeria,unknown,arabculture,1
+21,ritual,1,algeria,unknown,arabculture,2
+22,breakfast,2,egypt,unknown,arabculture,2
+23,strawberries,3,egypt,unknown,arabculture,1
+24,fava beans,2,egypt,unknown,arabculture,2
+25,ahmed's meal,3,egypt,unknown,arabculture,1
+26,grilled meat dishes,3,egypt,unknown,arabculture,1
+27,grilled fish,3,egypt,unknown,arabculture,1
+28,chicken and soup,3,egypt,unknown,arabculture,1
+29,lentil soup and bread,3,egypt,unknown,arabculture,1
+30,suhoor,3,egypt,unknown,arabculture,2
+31,egyptian wedding,3,egypt,unknown,arabculture,1
+32,special car,5,egypt,unknown,arabculture,1
+33,preparation,2,egypt,unknown,arabculture,1
+34,cleaning homes,3,egypt,unknown,arabculture,1
+35,religious festival,3,egypt,unknown,arabculture,1
+36,prayer performance,3,egypt,unknown,arabculture,1
+37,festival days,3,egypt,unknown,arabculture,1
+38,travel to work/study,3,egypt,unknown,arabculture,1
+39,household routine,3,egypt,unknown,arabculture,1
+40,polishing furniture,3,egypt,unknown,arabculture,1
+41,family breakfast,3,egypt,unknown,arabculture,1
+42,shakshuka,3,egypt,unknown,arabculture,1
+43,boiled eggs,3,egypt,unknown,arabculture,1
+44,khubz al-kahk,3,egypt,unknown,arabculture,1
+45,biscuits,3,egypt,unknown,arabculture,1
+46,egyptian feast,3,egypt,unknown,arabculture,1
+47,special dishes for eid al-adha,3,egypt,unknown,arabculture,1
+48,preparing for work,3,egypt,unknown,arabculture,1
+49,gold and silver zari,3,andhra pradesh,unknown,diwali,1
+50,motifs,3,jharkhand,unknown,diwali,1
+51,"flowers, animals, geometric shapes",3,jharkhand,unknown,diwali,1
+52,floral and geometric designs,4,madhya pradesh,unknown,diwali,4
+53,elaborate pallu designs,3,maharashtra,unknown,diwali,1
+54,intricate patterns,1,maharashtra,unknown,diwali,1
+55,traditional designs,3,maharashtra,unknown,diwali,1
+56,jamdani,2,punjab,unknown,diwali,5
+57,elaborate embroidery,3,punjab,unknown,diwali,1
+58,nature-inspired motifs,3,tripura,unknown,diwali,1
+59,handloom textiles,2,uttarakhand,unknown,diwali,1
+60,"mats, ropes, fabrics",3,uttarakhand,unknown,diwali,1
+61,ropes,3,uttarakhand,unknown,diwali,1
+62,rustic fabrics,3,uttarakhand,unknown,diwali,1
+63,devotional songs,3,assam,unknown,diwali,1
+64,assam,1,assam,unknown,diwali,2
+65,settings,4,general,unknown,culturebank,4
+66,"united states, international schools, uk",3,general,unknown,culturebank,1
+67,"driving, public spaces, outdoor activities",3,general,unknown,culturebank,1
+68,discipline methods,3,general,unknown,culturebank,1
+69,spanking,3,general,unknown,culturebank,1
+70,underground structures,3,general,unknown,culturebank,1
+71,tunnels and utilities,3,general,unknown,culturebank,1
+72,healthcare system,2,general,unknown,culturebank,1
+73,visiting doctors,3,general,unknown,culturebank,1
+74,"usa, australia, other countries",3,general,unknown,culturebank,1
+75,broadcast content,3,general,unknown,culturebank,1
+76,product mentions,3,general,unknown,culturebank,1
+77,gifts,1,general,unknown,culturebank,14
+78,flower,3,general,unknown,culturebank,1
+79,gift cards,3,general,unknown,culturebank,1
+80,daily life,3,general,unknown,culturebank,1
+81,public and social,3,general,unknown,culturebank,1
+82,snacks,2,dz,unknown,blend,2
+83,education system,2,dz,unknown,blend,1
+84,afterschool activities,3,dz,unknown,blend,1
+85,stuffed pigeon,3,dz,unknown,blend,1
+86,local delicacies,3,dz,unknown,blend,1
+87,traditional dishes,1,dz,unknown,blend,6
+88,"couscous, lamb, pastries",3,dz,unknown,blend,1
+89,football,2,dz,unknown,blend,3
+90,company get-together,3,dz,unknown,blend,1
+91,couscous,2,dz,unknown,blend,2
+92,"playgrounds, parks",3,dz,unknown,blend,1
+93,eid al-fitr and eid al-adha,3,dz,unknown,blend,1
+94,"money, sweets, fruits",3,dz,unknown,blend,1
+95,socializing with peers,3,dz,unknown,blend,1
+96,university students,1,dz,unknown,blend,1
+97,required subjects,3,dz,unknown,blend,1
+98,"knife, fork, spoon",3,dz,unknown,blend,1
+99,bourekas,3,dz,unknown,blend,1
+100,kebabs,3,dz,unknown,blend,1
+101,mzid,3,dz,unknown,blend,1
+102,certain occupations,3,dz,unknown,blend,3
+103,"teaching, nursing, and administrative roles",3,dz,unknown,blend,1
+104,picnic,3,dz,unknown,blend,1
+105,foot volleyball,3,dz,unknown,blend,1
+106,physical education classes,3,dz,unknown,blend,1
+107,common sports for girls,3,dz,unknown,blend,1
+108,chakchouka,3,dz,unknown,blend,1
+109,track and field events,4,dz,unknown,blend,2
+110,condolence offering,3,dz,unknown,blend,1
+111,indispensable ingredients,3,dz,unknown,blend,1
+112,harira soup,3,dz,unknown,blend,1
+113,"couscous, tagine, pastilla",3,dz,unknown,blend,1
+114,green tea,3,dz,unknown,blend,1
+115,"brik, msemen, and mint tea",3,dz,unknown,blend,1
+116,"couscous, grilled meats, stews",3,dz,unknown,blend,1
+117,chickpea broth,3,dz,unknown,blend,1
+118,"long jump, high jump, sprinting",3,dz,unknown,blend,1
+119,university curriculum,3,dz,unknown,blend,1
+120,compulsory courses,3,dz,unknown,blend,1
+121,during holidays,3,dz,unknown,blend,1
+122,"visiting temples, churches",3,dz,unknown,blend,1
+123,useful items,3,dz,unknown,blend,1
+124,algerian literature,3,dz,unknown,blend,1
+125,local writers,3,dz,unknown,blend,1
+126,stewed vegetables,3,dz,unknown,blend,1
+127,"cars, trucks, and action figures",3,dz,unknown,blend,1
+128,cultural games,3,dz,unknown,blend,1
+129,edible souvenirs,3,dz,unknown,blend,1
+130,"dates, milk, and honey",3,dz,unknown,blend,1
+131,clothing,3,dz,unknown,blend,1
+132,"grains, vegetables, meat",3,dz,unknown,blend,1
+133,"clothing, toys, sweets",3,dz,unknown,blend,1
+134,physical activities,3,dz,unknown,blend,1
+135,daily meals,3,dz,unknown,blend,1
+136,"breakfast, lunch, dinner",3,dz,unknown,blend,1
+137,staple foods,3,dz,unknown,blend,1
+138,family gatherings,3,dz,unknown,blend,1
+139,dinner and conversation,3,dz,unknown,blend,1
+140,role playing,3,teacher,unknown,candle,1
+141,equipment,3,nurse,unknown,candle,1
+142,writers,5,artist,unknown,candle,1
+143,new homes,3,architect,unknown,candle,1
+144,journalist,2,journalist,unknown,candle,1
+145,students and businessmen,3,journalist,unknown,candle,1

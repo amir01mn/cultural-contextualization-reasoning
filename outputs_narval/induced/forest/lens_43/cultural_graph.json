@@ -1,0 +1,308 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 2,
+      "label": "religious and national occasions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "nile valley youth",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "academic attendance",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "healthcare sector",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "government",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "one sport",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "economic stability through education",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "work life balance",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "moderate",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 13,
+      "label": "client interests",
+      "level": 3,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "callers' safety",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "electoral victory",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "professional direct mail copywriters",
+      "level": 3,
+      "cultural_group": "copywriter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "profit",
+      "level": 3,
+      "cultural_group": "copywriter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "religious and national occasions",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "nile valley youth",
+      "target_label": "academic attendance",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "healthcare sector",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "government",
+      "target_label": "one sport",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "customer",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "algeria",
+      "target_label": "economic stability through education",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "work life balance",
+      "target_label": "moderate",
+      "relation_type": "prioritize",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "food",
+      "target_label": "client interests",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "nurse",
+      "target_label": "callers' safety",
+      "relation_type": "prioritize",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "politician",
+      "target_label": "electoral victory",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "professional direct mail copywriters",
+      "target_label": "profit",
+      "relation_type": "prioritize",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 20,
+      "target": 12,
+      "source_label": "photographer",
+      "target_label": "food",
+      "relation_type": "prioritizes",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

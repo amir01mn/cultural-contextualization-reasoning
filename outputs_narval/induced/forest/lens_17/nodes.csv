@@ -1,0 +1,45 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,47
+2,cotton sarees,2,andhra pradesh,unknown,diwali,1
+3,salwar suits,3,andhra pradesh,unknown,diwali,1
+4,shirts,3,andhra pradesh,unknown,diwali,1
+5,sarees and salwar suits,3,andhra pradesh,unknown,diwali,1
+6,showing respect,3,assam,unknown,diwali,1
+7,providing warmth,3,assam,unknown,diwali,1
+8,decorative items,3,bihar,unknown,diwali,1
+9,female garments,3,bihar,unknown,diwali,1
+10,handloom textiles,2,goa,unknown,diwali,2
+11,traditional garments,3,goa,unknown,diwali,1
+12,household,2,goa,unknown,diwali,1
+13,gongadi blankets,3,gujarat,unknown,diwali,1
+14,bedcover or blanket,3,haryana,unknown,diwali,1
+15,blouse material,3,karnataka,unknown,diwali,1
+16,festivals like onam and vishu,3,kerala,unknown,diwali,1
+17,algeria,1,kerala,unknown,diwali,1
+18,luxury items,3,maharashtra,unknown,diwali,1
+19,royalty,3,manipur,unknown,diwali,1
+20,important ceremonies and rituals,3,mizoram,unknown,diwali,1
+21,hmaram,3,mizoram,unknown,diwali,1
+22,cultural ceremonies,3,mizoram,unknown,diwali,1
+23,adorning deities,3,odisha,unknown,diwali,1
+24,marriages and festivals,3,tamil nadu,unknown,diwali,1
+25,lower garment,3,tripura,unknown,diwali,1
+26,garments and shawls,3,chandigarh,unknown,diwali,1
+27,rugs or bedspreads,3,jammu and kashmir,unknown,diwali,1
+28,decorative purposes,3,ladakh,unknown,diwali,1
+29,functional purposes,3,ladakh,unknown,diwali,1
+30,peanut butter,3,general,unknown,culturebank,3
+31,baking,3,general,unknown,culturebank,1
+32,spreading,3,general,unknown,culturebank,1
+33,condiment,3,general,unknown,culturebank,1
+34,polite phrase,3,general,unknown,culturebank,1
+35,during lecture,3,teacher,unknown,candle,1
+36,promotion,3,politician,unknown,candle,1
+37,brushes,3,painter,unknown,candle,1
+38,creating art,3,painter,unknown,candle,1
+39,painting process,3,painter,unknown,candle,1
+40,here,3,attorney,unknown,candle,1
+41,ritual,1,scientist,unknown,candle,1
+42,numbers,3,scientist,unknown,candle,1
+43,quantitative analysis,3,scientist,unknown,candle,1

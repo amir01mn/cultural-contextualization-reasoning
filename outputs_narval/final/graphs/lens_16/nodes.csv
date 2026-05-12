@@ -1,0 +1,414 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,traditions,4,algeria,unknown,arabculture,1
+2,region,2,algeria,unknown,arabculture,11
+3,communication methods,2,algeria,unknown,arabculture,1
+4,men,2,algeria,unknown,arabculture,1
+5,women,2,algeria,unknown,arabculture,1
+6,sons,5,algeria,unknown,arabculture,1
+7,school holidays,4,algeria,unknown,arabculture,1
+8,timings,5,algeria,unknown,arabculture,1
+9,algeria,2,algeria,unknown,arabculture,1
+10,playing,2,algeria,unknown,arabculture,1
+11,north africa,5,algeria,unknown,arabculture,1
+12,north africa,2,algeria,unknown,arabculture,1
+13,habits,5,algeria,unknown,arabculture,1
+14,grandparents,5,algeria,unknown,arabculture,1
+15,grandchildren,5,algeria,unknown,arabculture,1
+16,right side,5,egypt,unknown,arabculture,1
+17,jitzman,2,egypt,unknown,arabculture,1
+18,uppada silk,5,andhra pradesh,unknown,diwali,1
+19,weaving process,2,andhra pradesh,unknown,diwali,1
+20,alacha fabric,4,bihar,unknown,diwali,1
+21,bandhani,3,gujarat,unknown,diwali,2
+22,cities,5,gujarat,unknown,diwali,2
+23,textiles,5,gujarat,unknown,diwali,1
+24,gujarat,1,gujarat,unknown,diwali,1
+25,rampur chaddar,5,himachal pradesh,unknown,diwali,1
+26,himachal pradesh,1,himachal pradesh,unknown,diwali,1
+27,luanchari,3,himachal pradesh,unknown,diwali,1
+28,gaddi community,4,himachal pradesh,unknown,diwali,1
+29,navalgund durries,3,karnataka,unknown,diwali,1
+30,karnataka,1,karnataka,unknown,diwali,1
+31,patteda anchu saree,3,karnataka,unknown,diwali,1
+32,district,4,karnataka,unknown,diwali,1
+33,maheshwari saree,3,madhya pradesh,unknown,diwali,1
+34,cotton,4,madhya pradesh,unknown,diwali,1
+35,silk,4,madhya pradesh,unknown,diwali,1
+36,khun fabric,3,maharashtra,unknown,diwali,1
+37,rural maharashtra,2,maharashtra,unknown,diwali,1
+38,ilkal sari,3,maharashtra,unknown,diwali,1
+39,maharashtra,5,maharashtra,unknown,diwali,2
+40,chanderi sari,3,maharashtra,unknown,diwali,1
+41,parandi,5,punjab,unknown,diwali,1
+42,regions,5,rajasthan,unknown,diwali,1
+43,leheriya,3,rajasthan,unknown,diwali,1
+44,region,5,rajasthan,unknown,diwali,1
+45,kota doria,5,rajasthan,unknown,diwali,1
+46,cotton and silk,2,rajasthan,unknown,diwali,1
+47,ajrakh,3,rajasthan,unknown,diwali,1
+48,sindh region,4,sindh,unknown,diwali,1
+49,parts of rajasthan,4,rajasthan,unknown,diwali,1
+50,kodalikaruppur saree,3,tamil nadu,unknown,diwali,1
+51,tamil nadu,1,tamil nadu,unknown,diwali,2
+52,kodambakkam saree,3,tamil nadu,unknown,diwali,1
+53,narayanpet sarees,5,telangana,unknown,diwali,1
+54,silk,5,telangana,unknown,diwali,1
+55,cotton,5,telangana,unknown,diwali,1
+56,risa,3,tripura,unknown,diwali,1
+57,tripura,2,tripura,unknown,diwali,1
+58,woolen weaving,4,uttarakhand,unknown,diwali,1
+59,border areas,2,uttarakhand,unknown,diwali,1
+60,phool patti ka kaam,3,uttar pradesh,unknown,diwali,1
+61,regions like aligarh and rampur,5,uttar pradesh,unknown,diwali,1
+62,jamdani,5,uttar pradesh,unknown,diwali,1
+63,bengal,3,uttar pradesh,unknown,diwali,1
+64,tangail sari,3,west bengal,unknown,diwali,1
+65,shantipur,4,west bengal,unknown,diwali,1
+66,phulia,4,west bengal,unknown,diwali,1
+67,khes,3,chandigarh,unknown,diwali,1
+68,punjab region,4,chandigarh,unknown,diwali,1
+69,salwar kameez,5,chandigarh,unknown,diwali,1
+70,chandigarh,1,chandigarh,unknown,diwali,1
+71,tsul,5,ladakh,unknown,diwali,1
+72,mundu,3,lakshadweep,unknown,diwali,1
+73,palampore prints,5,puducherry,unknown,diwali,1
+74,contemporary designs,2,puducherry,unknown,diwali,1
+75,burrakatha,3,andhra pradesh,unknown,diwali,1
+76,jangam katha,2,andhra pradesh,unknown,diwali,1
+77,perani,3,andhra pradesh,unknown,diwali,1
+78,temples,4,andhra pradesh,unknown,diwali,1
+79,hurkan dance,3,arunachal pradesh,unknown,diwali,1
+80,festivals,2,arunachal pradesh,unknown,diwali,1
+81,domkach,3,bihar,unknown,diwali,1
+82,mithila,4,bihar,unknown,diwali,1
+83,bhojpur,4,bihar,unknown,diwali,1
+84,launda naach,3,bihar,unknown,diwali,1
+85,weddings,4,bihar,unknown,diwali,1
+86,saila dance,3,chhattisgarh,unknown,diwali,1
+87,chhattisgarh,5,chhattisgarh,unknown,diwali,1
+88,parab dance,3,chhattisgarh,unknown,diwali,1
+89,tribal communities,2,chhattisgarh,unknown,diwali,1
+90,rural women,5,chhattisgarh,unknown,diwali,1
+91,tapadi dance,2,chhattisgarh,unknown,diwali,1
+92,nach madai,3,chhattisgarh,unknown,diwali,1
+93,rural fairs,2,chhattisgarh,unknown,diwali,1
+94,yadav nacha,3,chhattisgarh,unknown,diwali,1
+95,chhattisgarh,1,chhattisgarh,unknown,diwali,1
+96,tipping,2,united states,unknown,culturebank,1
+97,wage,2,minimum,unknown,culturebank,1
+98,agricultural areas,5,general,unknown,culturebank,1
+99,shoes,2,general,unknown,culturebank,1
+100,comfort and practicality,4,general,unknown,culturebank,1
+101,public,2,general,unknown,culturebank,1
+102,dinner time,4,general,unknown,culturebank,1
+103,cost of daycare,4,general,unknown,culturebank,1
+104,united states,2,general,unknown,culturebank,9
+105,united states,1,general,unknown,culturebank,6
+106,necessity and impact on drink quantity,2,general,unknown,culturebank,1
+107,accent,5,general,unknown,culturebank,1
+108,settings,2,general,unknown,culturebank,6
+109,potty training,4,general,unknown,culturebank,2
+110,age,2,general,unknown,culturebank,1
+111,approaches and pressures,2,general,unknown,culturebank,1
+112,colloquialisms,5,general,unknown,culturebank,1
+113,energetic behavior,5,general,unknown,culturebank,1
+114,additional languages,5,general,unknown,culturebank,1
+115,alcohol,5,general,unknown,culturebank,1
+116,state,5,general,unknown,culturebank,3
+117,bread,4,united states,unknown,culturebank,1
+118,sugar,4,united states,unknown,culturebank,1
+119,electricity bills,4,general,unknown,culturebank,1
+120,driving habits,4,general,unknown,culturebank,3
+121,differences,2,general,unknown,culturebank,1
+122,dangerous areas,4,general,unknown,culturebank,1
+123,ghettos,4,general,unknown,culturebank,1
+124,breakfast,4,general,unknown,culturebank,1
+125,safety levels,5,general,unknown,culturebank,1
+126,states,5,general,unknown,culturebank,1
+127,communication,2,general,unknown,culturebank,1
+128,language,2,general,unknown,culturebank,1
+129,formal,2,general,unknown,culturebank,2
+130,informal,2,general,unknown,culturebank,2
+131,online,2,general,unknown,culturebank,1
+132,new york,2,general,unknown,culturebank,1
+133,showering daily,4,general,unknown,culturebank,1
+134,showering less frequently,4,general,unknown,culturebank,1
+135,health considerations,2,general,unknown,culturebank,1
+136,europe,2,general,unknown,culturebank,1
+137,country,2,general,unknown,culturebank,2
+138,urgency,5,general,unknown,culturebank,1
+139,customer,3,general,unknown,culturebank,1
+140,smoking,4,united states,unknown,culturebank,1
+141,california,5,united states,unknown,culturebank,1
+142,living experiences,2,general,unknown,culturebank,1
+143,states,2,general,unknown,culturebank,3
+144,countries,2,general,unknown,culturebank,2
+145,walkability,4,united states,unknown,culturebank,1
+146,distance,4,united states,unknown,culturebank,1
+147,peeling fruit,4,general,unknown,culturebank,1
+148,eating fruit with the peel,4,general,unknown,culturebank,1
+149,some consider it unnecessary or strange,2,general,unknown,culturebank,1
+150,practices,4,general,unknown,culturebank,2
+151,sales tax,4,general,unknown,culturebank,1
+152,county,5,general,unknown,culturebank,1
+153,preference,2,general,unknown,culturebank,2
+154,natural light,2,general,unknown,culturebank,1
+155,window treatments,2,general,unknown,culturebank,1
+156,regions,2,general,unknown,culturebank,3
+157,voltage,5,general,unknown,culturebank,1
+158,unfamiliarity,5,general,unknown,culturebank,1
+159,voltage differences,2,general,unknown,culturebank,1
+160,dryers,1,general,unknown,culturebank,1
+161,europe,5,general,unknown,culturebank,2
+162,small talk,2,general,unknown,culturebank,1
+163,settings,4,general,unknown,culturebank,1
+164,microwave,4,general,unknown,culturebank,1
+165,public transportation,2,general,unknown,culturebank,1
+166,northeast,5,general,unknown,culturebank,1
+167,bay area,5,general,unknown,culturebank,1
+168,chicago,5,general,unknown,culturebank,1
+169,american dream,2,general,unknown,culturebank,1
+170,cereal,4,general,unknown,culturebank,1
+171,starbucks,4,general,unknown,culturebank,1
+172,"cost, considering it a dessert or social meeting place",2,general,unknown,culturebank,1
+173,social and public settings,2,general,unknown,culturebank,1
+174,napkins,2,general,unknown,culturebank,1
+175,cursive writing,4,general,unknown,culturebank,2
+176,schools,2,general,unknown,culturebank,1
+177,dining setting,2,general,unknown,culturebank,1
+178,occasion,2,general,unknown,culturebank,1
+179,sandwiches,4,general,unknown,culturebank,1
+180,specific sandwich types,2,general,unknown,culturebank,1
+181,sidewalk etiquette,3,general,unknown,culturebank,1
+182,availability,3,general,unknown,culturebank,1
+183,metric system,4,businesses,unknown,culturebank,1
+184,imperial units,4,businesses,unknown,culturebank,1
+185,businesses,2,general,unknown,culturebank,1
+186,pharmacies,1,general,unknown,culturebank,1
+187,supermarkets,1,general,unknown,culturebank,1
+188,behaviors,2,general,unknown,culturebank,2
+189,conversations,2,general,unknown,culturebank,1
+190,opinions,2,general,unknown,culturebank,2
+191,food,1,general,unknown,culturebank,1
+192,university,2,general,unknown,culturebank,1
+193,shower frequency,4,general,unknown,culturebank,1
+194,season and personal preference,2,general,unknown,culturebank,1
+195,region,4,general,unknown,culturebank,1
+196,individual preferences,4,general,unknown,culturebank,1
+197,activities,2,general,unknown,culturebank,1
+198,children's participation,4,general,unknown,culturebank,1
+199,formal roles,2,general,unknown,culturebank,1
+200,school schedule,4,general,unknown,culturebank,1
+201,starting time,2,general,unknown,culturebank,1
+202,ending time,2,general,unknown,culturebank,1
+203,lunch break,2,general,unknown,culturebank,1
+204,durations,4,general,unknown,culturebank,1
+205,formats,4,general,unknown,culturebank,1
+206,breaks,2,general,unknown,culturebank,1
+207,4th of july,5,general,unknown,culturebank,1
+208,unique date format,2,general,unknown,culturebank,1
+209,am/pm,2,general,unknown,culturebank,1
+210,sleep schedule,2,general,unknown,culturebank,1
+211,age,3,general,unknown,culturebank,1
+212,work schedule,3,general,unknown,culturebank,1
+213,brands and flavors,2,general,unknown,culturebank,1
+214,self-service gas pumps,4,general,unknown,culturebank,1
+215,gas pump attendants,4,general,unknown,culturebank,1
+216,state,2,general,unknown,culturebank,1
+217,funeral ceremonies,4,general,unknown,culturebank,1
+218,wine prices,4,general,unknown,culturebank,1
+219,state and region,2,general,unknown,culturebank,1
+220,clothing style,2,general,unknown,culturebank,1
+221,local norms,2,general,unknown,culturebank,1
+222,flavors,4,general,unknown,culturebank,1
+223,work-life balance,4,general,unknown,culturebank,1
+224,spending habits,4,general,unknown,culturebank,1
+225,gas prices,3,general,unknown,culturebank,1
+226,barefoot activities,3,general,unknown,culturebank,1
+227,plastic bag,5,general,unknown,culturebank,1
+228,chinese food,4,general,unknown,culturebank,1
+229,sweet,5,general,unknown,culturebank,1
+230,less spicy,5,general,unknown,culturebank,1
+231,americanized versions,5,general,unknown,culturebank,1
+232,ordering,2,general,unknown,culturebank,1
+233,serving,2,general,unknown,culturebank,1
+234,expressing preferences,2,general,unknown,culturebank,1
+235,lighting,5,general,unknown,culturebank,1
+236,location,5,general,unknown,culturebank,2
+237,traffic conditions,5,general,unknown,culturebank,1
+238,discipline,2,general,unknown,culturebank,1
+239,spanking,2,general,unknown,culturebank,1
+240,community colleges,4,general,unknown,culturebank,1
+241,colleges,4,general,unknown,culturebank,1
+242,universities,4,general,unknown,culturebank,1
+243,maternity leave policies,4,united states,unknown,culturebank,1
+244,candy,1,general,unknown,culturebank,1
+245,days,2,general,unknown,culturebank,1
+246,sick leave policy,4,general,unknown,culturebank,1
+247,practice,4,united states,unknown,culturebank,2
+248,gender,2,general,unknown,culturebank,1
+249,beliefs about healing,2,general,unknown,culturebank,1
+250,child to mother to family members to mother,2,general,unknown,culturebank,1
+251,payment timing,4,general,unknown,culturebank,1
+252,pricing and quality,4,general,unknown,culturebank,1
+253,nail care,2,general,unknown,culturebank,1
+254,intermission,2,general,unknown,culturebank,1
+255,modern theater,5,general,unknown,culturebank,1
+256,trash cans,4,general,unknown,culturebank,1
+257,location,2,general,unknown,culturebank,1
+258,perceptions,2,general,unknown,culturebank,2
+259,life,3,general,unknown,culturebank,1
+260,culture,3,general,unknown,culturebank,1
+261,reputation,3,general,unknown,culturebank,1
+262,affordability,5,general,unknown,culturebank,1
+263,accessibility,5,general,unknown,culturebank,1
+264,healthcare system,2,general,unknown,culturebank,1
+265,safety reasons,2,general,unknown,culturebank,1
+266,carts,4,general,unknown,culturebank,1
+267,wonky wheels,2,general,unknown,culturebank,1
+268,american,1,general,unknown,culturebank,1
+269,state,1,general,unknown,culturebank,1
+270,ancestry,1,general,unknown,culturebank,1
+271,empathy,3,general,unknown,culturebank,1
+272,admiration,3,general,unknown,culturebank,1
+273,support,3,general,unknown,culturebank,1
+274,new drivers,5,general,unknown,culturebank,1
+275,some confusion and learning curve,2,general,unknown,culturebank,1
+276,quality,5,general,unknown,culturebank,1
+277,availability,5,general,unknown,culturebank,1
+278,healthier options,2,general,unknown,culturebank,1
+279,general,2,general,unknown,culturebank,1
+280,immigrants,2,general,unknown,culturebank,1
+281,american customs,2,general,unknown,culturebank,1
+282,cost and feasibility,2,general,unknown,culturebank,1
+283,putting dogs in the back of trucks,3,general,unknown,culturebank,1
+284,safety,4,general,unknown,culturebank,1
+285,legality,4,general,unknown,culturebank,1
+286,states,1,general,unknown,culturebank,1
+287,charge for bags or offer incentives for reusable bags,2,general,unknown,culturebank,1
+288,approaches,2,general,unknown,culturebank,1
+289,societal expectations,3,general,unknown,culturebank,1
+290,personal beliefs,3,general,unknown,culturebank,1
+291,america,2,general,unknown,culturebank,1
+292,emojis,4,general,unknown,culturebank,1
+293,slang,4,general,unknown,culturebank,1
+294,profanity,4,general,unknown,culturebank,1
+295,"to express emotions, enthusiasm, or displeasure",2,general,unknown,culturebank,1
+296,pin codes,4,general,unknown,culturebank,1
+297,signatures,4,general,unknown,culturebank,1
+298,usage,2,general,unknown,culturebank,1
+299,building types,2,general,unknown,culturebank,1
+300,age and area,2,general,unknown,culturebank,1
+301,moving frequently,4,general,unknown,culturebank,1
+302,employment,2,general,unknown,culturebank,1
+303,tribal,3,united states,unknown,culturebank,1
+304,communal,3,united states,unknown,culturebank,1
+305,tribal traditions,2,general,unknown,culturebank,1
+306,communal traditions,2,general,unknown,culturebank,1
+307,cultural differences,3,general,unknown,culturebank,1
+308,cultural quirks,3,general,unknown,culturebank,1
+309,requirements,4,united states,unknown,culturebank,1
+310,restrictions,4,united states,unknown,culturebank,1
+311,rules,4,general,unknown,culturebank,1
+312,states,4,general,unknown,culturebank,1
+313,tuna salad,4,united states,unknown,culturebank,2
+314,safety,5,general,unknown,culturebank,1
+315,travel,2,general,unknown,culturebank,1
+316,location,4,united states,unknown,culturebank,1
+317,time of year,4,united states,unknown,culturebank,1
+318,large meal portions,2,general,unknown,culturebank,1
+319,meal deals,2,general,unknown,culturebank,1
+320,efficient eating habits,2,general,unknown,culturebank,1
+321,doggy bags,5,general,unknown,culturebank,1
+322,other countries,5,general,unknown,culturebank,1
+323,theft,2,general,unknown,culturebank,1
+324,money,2,general,unknown,culturebank,1
+325,food,2,general,unknown,culturebank,1
+326,attitudes,2,general,unknown,culturebank,1
+327,punishment,2,general,unknown,culturebank,1
+328,dining,2,general,unknown,culturebank,1
+329,grocery shopping,2,general,unknown,culturebank,1
+330,ketchup,3,general,unknown,culturebank,1
+331,social media,2,general,unknown,culturebank,1
+332,speed limits,2,general,unknown,culturebank,1
+333,speed cameras,2,general,unknown,culturebank,1
+334,adhere to speed limits with varying levels of strictness,2,general,unknown,culturebank,1
+335,door,1,united states,unknown,culturebank,1
+336,films,1,united states,unknown,culturebank,1
+337,cultural differences,2,general,unknown,culturebank,1
+338,germany,5,general,unknown,culturebank,1
+339,halloween,2,general,unknown,culturebank,1
+340,neighbor to neighbor to parent to child,2,general,unknown,culturebank,1
+341,reactions,4,general,unknown,culturebank,1
+342,fear,2,general,unknown,culturebank,1
+343,curiosity,2,general,unknown,culturebank,1
+344,greetings,2,general,unknown,culturebank,1
+345,fear-based parenting,4,general,unknown,culturebank,1
+346,concern for kidnapping,4,general,unknown,culturebank,1
+347,parenting and education,2,general,unknown,culturebank,1
+348,prices,5,general,unknown,culturebank,1
+349,service provider,5,general,unknown,culturebank,1
+350,fear of using public restrooms,5,general,unknown,culturebank,1
+351,public restrooms,2,general,unknown,culturebank,3
+352,passing out drunk,5,general,unknown,culturebank,1
+353,concerns about cleanliness,5,general,unknown,culturebank,1
+354,cost,2,general,unknown,culturebank,1
+355,parking lot,1,general,unknown,culturebank,1
+356,toilet paper,1,general,unknown,culturebank,1
+357,cost and quality,2,general,unknown,culturebank,1
+358,stop signs,1,general,unknown,culturebank,1
+359,living with parents,4,united states,unknown,culturebank,1
+360,living off parents,4,united states,unknown,culturebank,1
+361,gun ownership,4,general,unknown,culturebank,1
+362,legal age,4,general,unknown,culturebank,1
+363,naps,2,general,unknown,culturebank,1
+364,school,2,general,unknown,culturebank,2
+365,workplace,2,general,unknown,culturebank,1
+366,public spaces,2,general,unknown,culturebank,1
+367,young children,2,general,unknown,culturebank,1
+368,greeting,2,general,unknown,culturebank,1
+369,awkwardness,2,general,unknown,culturebank,1
+370,taxation rates,4,united states,unknown,culturebank,1
+371,taxation exemptions,4,united states,unknown,culturebank,1
+372,food items,4,united states,unknown,culturebank,1
+373,regulations,2,general,unknown,culturebank,1
+374,cultural norms,2,general,unknown,culturebank,1
+375,scattering,3,general,unknown,culturebank,1
+376,burial,3,general,unknown,culturebank,1
+377,legal age,5,united states,unknown,culturebank,1
+378,age,5,united states,unknown,culturebank,1
+379,people,2,general,unknown,culturebank,1
+380,sweetness,4,general,unknown,culturebank,1
+381,health,4,general,unknown,culturebank,1
+382,preferences,2,general,unknown,culturebank,1
+383,snacks,4,general,unknown,culturebank,1
+384,algerian food,5,dz,unknown,blend,1
+385,country,1,dz,unknown,blend,1
+386,sport,2,dz,unknown,blend,1
+387,algeria,1,dz,unknown,blend,1
+388,algerian food,1,dz,unknown,blend,1
+389,world,1,dz,unknown,blend,1
+390,walk,4,teacher,unknown,candle,1
+391,teacher,1,teacher,unknown,candle,1
+392,time,5,electrician,unknown,candle,1
+393,electrician,2,electrician,unknown,candle,1
+394,nurse,1,nurse,unknown,candle,2
+395,drawing blood,4,nurse,unknown,candle,1
+396,bed,5,bed,unknown,candle,1
+397,nurse,2,nurse,unknown,candle,1
+398,scissors,5,tailor,unknown,candle,1
+399,chisels,5,carpenter,unknown,candle,1
+400,tailor,2,tailor,unknown,candle,1
+401,carpenter,2,tailor,unknown,candle,1
+402,artist,1,artist,unknown,candle,1
+403,performance,4,artist,unknown,candle,1
+404,professional dog walker,4,dog walker,unknown,candle,1
+405,one dog at a time,4,dog walker,unknown,candle,1
+406,a few dogs together,4,dog walker,unknown,candle,1
+407,project,4,architect,unknown,candle,1
+408,house,2,architect,unknown,candle,1
+409,attorney,1,occupation,unknown,candle,1
+410,death,5,ritual,unknown,candle,1
+411,order,2,communication,unknown,candle,1
+412,doctor,1,occupation,unknown,candle,1

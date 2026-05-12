@@ -1,0 +1,127 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algerians,providing fruits when visiting a patient,enjoy,1,arabculture
+3,4,children,performing their favorite traditions,enjoy,1,arabculture
+5,6,maa'ayidah,family and acquaintances,enjoy,1,arabculture
+7,8,banat,thigh meat,enjoy,1,arabculture
+1,10,algerians,mokalat al-tawaleel lil-salam,enjoy,1,arabculture
+3,11,children,avoiding provocations without talking,enjoy,1,arabculture
+12,14,child,game,enjoys playing,1,arabculture
+15,16,women,visiting the grave,enjoy visiting the grave,1,arabculture
+17,18,a song,family,enjoy,1,arabculture
+19,20,parents,outings,enjoy,1,arabculture
+3,20,children,outings,enjoy,1,arabculture
+21,22,algeria,proverb,enjoy,1,arabculture
+24,25,sons,meeting,enjoy,1,arabculture
+3,27,children,breakfast,enjoy,1,arabculture
+27,28,breakfast,milk with chocolate,includes,1,arabculture
+21,29,algeria,kuskus,enjoys eating,1,arabculture
+30,31,saher,mashwi,enjoy eating,1,arabculture
+33,34,adults,making children happy,enjoy,1,arabculture
+1,35,algerians,celebrating mawlid al-nabi,enjoy,1,arabculture
+36,37,girls,spending time together,enjoy,1,arabculture
+15,39,women,daughters,enjoy,1,arabculture
+3,40,children,street,enjoy playing,1,arabculture
+7,42,banat,meeting together,enjoy,1,arabculture
+15,44,women,television,enjoy watching,1,arabculture
+1,45,algerians,adherence to eating etiquette,enjoy,1,arabculture
+1,46,algerians,eating,enjoy,1,arabculture
+1,47,algerians,giving gifts,enjoy,1,arabculture
+3,48,children,playing sports,enjoy,1,arabculture
+19,49,parents,optimal conditions for children,enjoy providing,1,arabculture
+22,21,proverb,algeria,enjoy,2,arabculture
+21,52,algeria,good deeds,values,1,arabculture
+53,54,egypt,baticha,enjoy,1,arabculture
+55,56,youth,valentine's day,enjoy,1,arabculture
+57,58,salam alaikum,entering transportation or a house or place,enjoy saying,1,arabculture
+59,60,communication,interaction,enjoy,1,arabculture
+61,62,bint,looking at her mouth,enjoy,1,arabculture
+22,53,proverb,egypt,enjoy,1,arabculture
+64,65,siblings,sharing,enjoy,1,arabculture
+19,3,parents,children,read to,1,arabculture
+66,67,ahmed,egyptian breakfast,enjoys eating,1,arabculture
+53,68,egypt,jamees,enjoy,1,arabculture
+69,70,joafa,mohamed,enjoy,1,arabculture
+71,72,sham al-nisim,watching lumbi,enjoy,1,arabculture
+18,73,family,sixth of october,enjoy,1,arabculture
+53,74,egypt,afтар,enjoy,1,arabculture
+53,75,egypt,returning home after work/study,enjoy,1,arabculture
+76,77,mohamed and his friends,playing,enjoy,1,arabculture
+78,79,coffee,general,enjoy,1,culturebank
+79,81,general,prices and availability,complain about,1,culturebank
+82,84,audience,gratitude,enjoy expressing gratitude,1,culturebank
+83,84,employer,gratitude,enjoy expressing gratitude,1,culturebank
+27,85,breakfast,a variety of breakfast options,enjoy,1,culturebank
+86,89,friendliness,display,enjoy,1,culturebank
+87,89,kindness,display,enjoy,1,culturebank
+88,89,openness,display,enjoy,1,culturebank
+90,91,customer,service staff,receive better service,1,culturebank
+90,92,customer,dissatisfaction,express,1,culturebank
+90,93,customer,frustration,express,1,culturebank
+90,94,customer,behavior,demand,1,culturebank
+96,97,united states,peanut butter,enjoy,1,culturebank
+9,98,greetings,smile,enjoy,1,culturebank
+9,99,greetings,eye contact,enjoy,1,culturebank
+100,101,people,chicken burger,enjoy,1,culturebank
+96,102,united states,athleisure wear,enjoy,1,culturebank
+79,103,general,crunchy and sweet breakfast,enjoy,1,culturebank
+104,105,iced coffee,morning,enjoy,1,culturebank
+79,106,general,american candy,expressing surprise at the availability and prices,1,culturebank
+107,96,pizza,united states,enjoy,1,culturebank
+108,109,customers,free water,enjoy,1,culturebank
+110,111,comments,"positive comments, compliments, and sarcasm","express gratitude, appreciation, and opinions through",1,culturebank
+100,113,people,wine consumption,enjoy,1,culturebank
+114,96,ice cream,united states,enjoy,1,culturebank
+108,46,customers,eating,enjoy,1,culturebank
+116,117,staff,serving,enjoy,1,culturebank
+118,119,parties,leisure activities,enjoy,1,culturebank
+119,118,leisure activities,parties,enjoy,1,culturebank
+3,120,children,grapes,enjoy eating,1,culturebank
+121,122,intermission,breaks and socializing,enjoy,1,culturebank
+96,123,united states,pancakes,enjoy,1,culturebank
+79,124,general,burgers,enjoy,1,culturebank
+108,125,customers,order eggs in various ways,enjoy,1,culturebank
+126,79,chicken and waffles,general,enjoy,1,culturebank
+127,128,employees,during off work hours,expect not to be contacted,1,culturebank
+79,129,general,maintaining cleanliness and manners,enjoy,1,culturebank
+130,132,missing home,germany,express homesickness,1,culturebank
+131,132,enjoying germany,germany,enjoy,1,culturebank
+133,136,hiking,nature,enjoy,1,culturebank
+134,136,camping,nature,enjoy,1,culturebank
+135,136,picking berries,nature,enjoy,1,culturebank
+137,138,expressing emotions,a wide range of emotions,express,1,culturebank
+139,140,embarrassment,bodily functions and lifestyle,related to,1,culturebank
+141,142,gift-giving,recipient,enjoy,1,culturebank
+96,143,united states,various sauces,enjoy,1,culturebank
+96,144,united states,sunflower seeds,enjoy consuming,1,culturebank
+145,96,pumpkin spice,united states,enjoy,1,culturebank
+146,96,latte,united states,enjoy,1,culturebank
+147,96,frappe,united states,enjoy,1,culturebank
+149,150,greeting,hugging,enjoy,1,culturebank
+153,152,coffee shop,socializing,enjoy,1,culturebank
+96,154,united states,good news broadcasts,enjoy,1,culturebank
+155,79,snacks,general,enjoy,1,culturebank
+21,100,algeria,people,enjoy,1,blend
+15,156,women,sports,enjoy playing,1,blend
+15,156,women,sports,enjoy watching,1,blend
+157,158,females,leisure activity,enjoy,1,blend
+159,160,people from algeria,cafe beverage,enjoy,1,blend
+161,156,male students,sports,enjoy,1,blend
+21,164,algeria,sports event,enjoy,1,blend
+21,165,algeria,food,enjoy,1,blend
+159,167,people from algeria,new year's day,enjoy,1,blend
+15,168,women,sport,enjoy watching,1,blend
+21,169,algeria,beverage,enjoy,1,blend
+170,165,elderly,food,enjoy,1,blend
+3,165,children,food,dislike,1,blend
+100,172,people,christmas day,enjoy,1,blend
+173,175,teacher,giving tests,enjoy,1,candle
+176,177,students,listen,enjoy,1,candle
+3,177,children,listen,enjoy,1,candle
+179,176,teachers,students,enjoy,1,candle
+173,180,teacher,greet,enjoy,1,candle
+181,182,reviews,attestation,enjoy,1,candle
+183,184,nurse,patient,greet,1,candle
+185,186,politician,cutting ribbon,enjoy,1,candle
+187,188,architect,something permanent,strive to leave behind,1,candle
+189,190,receptionist,guest,greet,1,candle
+191,184,medical receptionist,patient,greet,1,candle

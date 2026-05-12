@@ -1,0 +1,28 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algeria,1,algeria,unknown,arabculture,6
+2,teamwork,3,algeria,unknown,arabculture,1
+3,food,1,algeria,unknown,arabculture,11
+4,fruit harvest,3,algeria,unknown,arabculture,1
+5,local agriculture,3,algeria,unknown,arabculture,1
+6,game,2,algeria,unknown,arabculture,1
+7,spending time at home,3,algeria,unknown,arabculture,1
+8,social bonding,3,egypt,unknown,arabculture,1
+9,productivity conditioning,3,general,unknown,culturebank,1
+10,thriftiness,3,general,unknown,culturebank,1
+11,public broadcasting,3,general,unknown,culturebank,1
+12,specific brands,3,general,unknown,culturebank,1
+13,education system,2,dz,unknown,blend,2
+14,preparation for exams,3,dz,unknown,blend,1
+15,university students,1,dz,unknown,blend,1
+16,cultural awareness,3,dz,unknown,blend,1
+17,cohesion,3,dz,unknown,blend,1
+18,football,2,dz,unknown,blend,1
+19,"team spirit, physical fitness",3,dz,unknown,blend,1
+20,holiday,3,dz,unknown,blend,1
+21,access to knowledge,3,librarian,unknown,candle,1
+22,high expectations,3,teacher,unknown,candle,1
+23,student achievement,3,teacher,unknown,candle,1
+24,oral health,3,dentist,unknown,candle,1
+25,politician,1,politician,unknown,candle,1
+26,positions,3,politician,unknown,candle,1

@@ -1,0 +1,1010 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 13
+    },
+    {
+      "id": 2,
+      "label": "north african culinary traditions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 43
+    },
+    {
+      "id": 5,
+      "label": "light meal",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "cultural preference",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "cultural practice",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 8,
+      "label": "community involvement in marriage",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "clothing",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 10,
+      "label": "algerian heritage",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "religious traditions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "tv watching",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "leisure activity",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "cultural life",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "local_culture",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "dance",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "leisure activities",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "nile valley culture",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "disciplined aesthetic",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "handloom textiles",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "coastal heritage",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "unique embroidery styles of himachal pradesh",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "utilitarianism",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "cultural tapestry of madhya pradesh",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "cultural heritage of maharashtra",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 28,
+      "label": "rich textile heritage",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "craftsmanship",
+      "level": 5,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 30,
+      "label": "traditional weaving techniques",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "gongadi blankets",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "pastoral lifestyle",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "weaving tradition",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "eco-consciousness",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "cotton weaving",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "dexterity and hard work",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "jamdani",
+      "level": 2,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "regional traditions",
+      "level": 3,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "textile traditions",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "folk dance",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "local life",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "folk theatre tradition",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "snacks",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "cultural diversity",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "work",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 47,
+      "label": "cultural values of hospitality, community",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "funeral customs",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "berber culinary tradition",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "hospitality and social gatherings",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "arab culture",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "close family ties",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "tv show",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "social events",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "expectations",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "essays",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "tailor-made quality",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "tailor-made",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "campaign",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "intended governance",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "north african culinary traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "ramadan",
+      "target_label": "food",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "light meal",
+      "target_label": "cultural preference",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "cultural practice",
+      "target_label": "community involvement in marriage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "clothing",
+      "target_label": "algerian heritage",
+      "relation_type": "reflects_culture",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "religious traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "tv watching",
+      "target_label": "leisure activity",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "source_label": "cultural practice",
+      "target_label": "food",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 14,
+      "source_label": "food",
+      "target_label": "cultural life",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "local_culture",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 16,
+      "target": 1,
+      "source_label": "dance",
+      "target_label": "algeria",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "source_label": "nile valley",
+      "target_label": "algeria",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 7,
+      "source_label": "leisure activities",
+      "target_label": "cultural practice",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 19,
+      "source_label": "food",
+      "target_label": "nile valley culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "reflects",
+      "weight": 5,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 20,
+      "source_label": "food",
+      "target_label": "disciplined aesthetic",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "handloom textiles",
+      "target_label": "coastal heritage",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 23,
+      "source_label": "food",
+      "target_label": "unique embroidery styles of himachal pradesh",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 24,
+      "source_label": "food",
+      "target_label": "utilitarianism",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "cultural tapestry of madhya pradesh",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 26,
+      "source_label": "food",
+      "target_label": "cultural heritage of maharashtra",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 27,
+      "source_label": "food",
+      "target_label": "traditional dishes",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 28,
+      "source_label": "food",
+      "target_label": "rich textile heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 29,
+      "source_label": "food",
+      "target_label": "craftsmanship",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 30,
+      "source_label": "food",
+      "target_label": "traditional weaving techniques",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "gongadi blankets",
+      "target_label": "pastoral lifestyle",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "weaving tradition",
+      "target_label": "eco-consciousness",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "cotton weaving",
+      "target_label": "dexterity and hard work",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "source_label": "jamdani",
+      "target_label": "regional traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 39,
+      "source_label": "food",
+      "target_label": "textile traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 40,
+      "target": 4,
+      "source_label": "folk dance",
+      "target_label": "food",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 41,
+      "source_label": "food",
+      "target_label": "customer",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 42,
+      "source_label": "food",
+      "target_label": "local life",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 43,
+      "source_label": "food",
+      "target_label": "folk theatre tradition",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 44,
+      "target": 1,
+      "source_label": "snacks",
+      "target_label": "algeria",
+      "relation_type": "reflects_culture",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 45,
+      "source_label": "food",
+      "target_label": "cultural diversity",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "source_label": "work",
+      "target_label": "cultural values of hospitality, community",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 27,
+      "target": 4,
+      "source_label": "traditional dishes",
+      "target_label": "food",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 48,
+      "target": 1,
+      "source_label": "funeral customs",
+      "target_label": "algeria",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 49,
+      "source_label": "food",
+      "target_label": "berber culinary tradition",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 7,
+      "target": 50,
+      "source_label": "cultural practice",
+      "target_label": "hospitality and social gatherings",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 51,
+      "source_label": "food",
+      "target_label": "arab culture",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 9,
+      "target": 4,
+      "source_label": "clothing",
+      "target_label": "food",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 52,
+      "source_label": "algeria",
+      "target_label": "close family ties",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 53,
+      "target": 1,
+      "source_label": "tv show",
+      "target_label": "algeria",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 54,
+      "target": 7,
+      "source_label": "social events",
+      "target_label": "cultural practice",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 46,
+      "target": 55,
+      "source_label": "work",
+      "target_label": "expectations",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "source_label": "essays",
+      "target_label": "tailor-made quality",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 58,
+      "target": 29,
+      "source_label": "tailor-made",
+      "target_label": "craftsmanship",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "source_label": "campaign",
+      "target_label": "intended governance",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

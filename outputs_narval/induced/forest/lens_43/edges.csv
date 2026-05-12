@@ -1,0 +1,13 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,religious and national occasions,prioritizes,1,arabculture
+3,4,nile valley youth,academic attendance,prioritizes,1,arabculture
+1,5,algeria,healthcare sector,prioritizes,1,blend
+6,7,government,one sport,prioritizes,1,blend
+1,8,algeria,customer,prioritizes,1,blend
+1,9,algeria,economic stability through education,prioritizes,1,blend
+10,11,work life balance,moderate,prioritize,1,blend
+12,13,food,client interests,prioritizes,1,candle
+14,15,nurse,callers' safety,prioritize,1,candle
+16,17,politician,electoral victory,prioritizes,1,candle
+18,19,professional direct mail copywriters,profit,prioritize,1,candle
+20,12,photographer,food,prioritizes,1,candle

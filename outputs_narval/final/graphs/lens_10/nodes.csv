@@ -1,0 +1,396 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,sahur,4,algeria,unknown,arabculture,1
+2,time,2,algeria,unknown,arabculture,1
+3,mshousha,5,algeria,unknown,arabculture,1
+4,liyla,5,algeria,unknown,arabculture,1
+5,algeria,2,algeria,unknown,arabculture,20
+6,providing fruits when visiting a patient,5,algeria,unknown,arabculture,1
+7,mahr,5,algeria,unknown,arabculture,3
+8,ramadan,5,algeria,unknown,arabculture,1
+9,shopping,4,algeria,unknown,arabculture,1
+10,maa'ayidah,5,algeria,unknown,arabculture,1
+11,aid el-adha,4,algeria,unknown,arabculture,1
+12,algeria,1,algeria,unknown,arabculture,157
+13,day of arafat,4,algeria,unknown,arabculture,2
+14,companies and institutions,4,algeria,unknown,arabculture,1
+15,dying,1,algeria,unknown,arabculture,1
+16,burial,1,algeria,unknown,arabculture,1
+17,dividing the remaining assets of the deceased after forty days,2,algeria,unknown,arabculture,1
+18,algerian traditional music instruments,5,algeria,unknown,arabculture,1
+19,a song,3,algeria,unknown,arabculture,1
+20,southern algeria,3,algeria,unknown,arabculture,1
+21,special crop,2,algeria,unknown,arabculture,1
+22,sikka,3,algeria,unknown,arabculture,1
+23,fruit harvest festival,4,algeria,unknown,arabculture,1
+24,dates,1,algeria,unknown,arabculture,1
+25,duba,5,algeria,unknown,arabculture,1
+26,customs,2,algeria,unknown,arabculture,3
+27,habits,2,algeria,unknown,arabculture,1
+28,customs and traditions,2,algeria,unknown,arabculture,2
+29,morning routine,2,algeria,unknown,arabculture,1
+30,mother,3,algeria,unknown,arabculture,1
+31,laws for studying,2,algeria,unknown,arabculture,1
+32,spending time together,4,algeria,unknown,arabculture,1
+33,after school,2,algeria,unknown,arabculture,1
+34,helping,4,algeria,unknown,arabculture,1
+35,behavior,2,algeria,unknown,arabculture,1
+36,street games,3,algeria,unknown,arabculture,1
+37,islamic religion,1,algeria,unknown,arabculture,1
+38,burial,5,algeria,unknown,arabculture,1
+39,procedures before burial,2,algeria,unknown,arabculture,1
+40,treatment of body,2,algeria,unknown,arabculture,1
+41,algerian society,1,algeria,unknown,arabculture,1
+42,songs,2,algeria,unknown,arabculture,1
+43,planting allowed plants,2,algeria,unknown,arabculture,1
+44,proverb,5,algeria,unknown,arabculture,1
+45,ahl al-`arusa,5,egypt,unknown,arabculture,1
+46,egypt,2,egypt,unknown,arabculture,5
+47,zakat al-fitr,4,egypt,unknown,arabculture,1
+48,islam,4,egypt,unknown,arabculture,1
+49,eid al-adha,4,egypt,unknown,arabculture,1
+50,shawerma,1,egypt,unknown,arabculture,1
+51,kafn,5,egypt,unknown,arabculture,1
+52,ahl,5,egypt,unknown,arabculture,1
+53,ahl,1,egypt,unknown,arabculture,1
+54,jitzman,5,egypt,unknown,arabculture,1
+55,qubur,5,egypt,unknown,arabculture,1
+56,egypt,1,egypt,unknown,arabculture,3
+57,islamic sharia,3,egypt,unknown,arabculture,1
+58,inheritance,2,egypt,unknown,arabculture,1
+59,spring,4,egypt,unknown,arabculture,1
+60,cotton,4,egypt,unknown,arabculture,1
+61,nile valley,5,egypt,unknown,arabculture,1
+62,proverb,2,egypt,unknown,arabculture,1
+63,pilgrim animal,5,egypt,unknown,arabculture,1
+64,eid al-adha,3,egypt,unknown,arabculture,1
+65,manufacture,2,egypt,unknown,arabculture,1
+66,mangalagiri cotton,5,andhra pradesh,unknown,diwali,1
+67,mangalagiri town,5,andhra pradesh,unknown,diwali,1
+68,uppada silk,5,andhra pradesh,unknown,diwali,1
+69,uppada village,2,andhra pradesh,unknown,diwali,1
+70,kalamkari,3,andhra pradesh,unknown,diwali,1
+71,andhra pradesh,2,andhra pradesh,unknown,diwali,1
+72,dharmavaram silk,4,andhra pradesh,unknown,diwali,1
+73,dharmavaram,2,andhra pradesh,unknown,diwali,1
+74,srikalahasti kalamkari,3,andhra pradesh,unknown,diwali,1
+75,srikalahasti,2,andhra pradesh,unknown,diwali,1
+76,muga silk,5,assam,unknown,diwali,1
+77,assam,1,assam,unknown,diwali,2
+78,eri silk,3,assam,unknown,diwali,1
+79,assam,2,assam,unknown,diwali,3
+80,gamosa,3,assam,unknown,diwali,1
+81,lasingphee,3,assam,unknown,diwali,1
+82,bhagalpuri silk,5,bihar,unknown,diwali,1
+83,bhagalpur,5,bihar,unknown,diwali,1
+84,madhubani painting on textiles,3,bihar,unknown,diwali,1
+85,mithila region,4,bihar,unknown,diwali,1
+86,aal-dyed handloom fabrics,5,chhattisgarh,unknown,diwali,1
+87,bastar region,5,chhattisgarh,unknown,diwali,1
+88,goan crochet and embroidery,3,goa,unknown,diwali,1
+89,portugal,2,goa,unknown,diwali,1
+90,chamba rumal,3,himachal pradesh,unknown,diwali,2
+91,chamba region,4,himachal pradesh,unknown,diwali,2
+92,rampur chaddar,5,himachal pradesh,unknown,diwali,1
+93,rampur,4,himachal pradesh,unknown,diwali,1
+94,kuchai silk,3,jharkhand,unknown,diwali,1
+95,kharsawan-kuchai region,2,jharkhand,unknown,diwali,1
+96,bhagalpuri silk,4,jharkhand,unknown,diwali,1
+97,bihar and jharkhand,5,jharkhand,unknown,diwali,1
+98,ilkal saree,3,karnataka,unknown,diwali,1
+99,ilkal,4,karnataka,unknown,diwali,1
+100,mysore silk sarees,3,karnataka,unknown,diwali,1
+101,mysore,5,karnataka,unknown,diwali,1
+102,molakalmuru saree,5,karnataka,unknown,diwali,2
+103,molakalmuru,4,karnataka,unknown,diwali,1
+104,chitradurga district,4,karnataka,unknown,diwali,1
+105,navalgund durries,3,karnataka,unknown,diwali,1
+106,dharwad district,5,karnataka,unknown,diwali,1
+107,guledgudda khana,5,karnataka,unknown,diwali,1
+108,guledgudda,3,karnataka,unknown,diwali,1
+109,balaramapuram handloom,3,kerala,unknown,diwali,1
+110,balaramapuram region,2,kerala,unknown,diwali,1
+111,chendamangalam saree,3,kerala,unknown,diwali,1
+112,chendamangalam,2,kerala,unknown,diwali,1
+113,kuthampully saree,3,devanga chettiar,unknown,diwali,1
+114,kerala,1,kerala,unknown,diwali,1
+115,kavani,3,malayali,unknown,diwali,1
+116,kerala,2,kerala,unknown,diwali,1
+117,thiruvananthapuram saree,5,kerala,unknown,diwali,1
+118,thiruvananthapuram,2,kerala,unknown,diwali,1
+119,chanderi saree,3,madhya pradesh,unknown,diwali,1
+120,chanderi,4,madhya pradesh,unknown,diwali,1
+121,tussar silk,5,madhya pradesh,unknown,diwali,1
+122,chhindwara,2,madhya pradesh,unknown,diwali,1
+123,nandana print,3,madhya pradesh,unknown,diwali,1
+124,malwa region,4,madhya pradesh,unknown,diwali,1
+125,paithani saree,5,maharashtra,unknown,diwali,1
+126,paithan,4,maharashtra,unknown,diwali,1
+127,solapur chaddar,5,maharashtra,unknown,diwali,1
+128,solapur,4,maharashtra,unknown,diwali,1
+129,narayan peth sari,3,maharashtra,unknown,diwali,1
+130,narayan peth,4,maharashtra,unknown,diwali,1
+131,ilkal sari,3,maharashtra,unknown,diwali,1
+132,karnataka,3,maharashtra,unknown,diwali,1
+133,chanderi sari,3,maharashtra,unknown,diwali,1
+134,madhya pradesh,5,maharashtra,unknown,diwali,1
+135,wangkhei phee,3,manipur,unknown,diwali,1
+136,manipur,1,manipur,unknown,diwali,1
+137,bomkai saree,3,odisha,unknown,diwali,1
+138,sonepuri saree,3,odisha,unknown,diwali,1
+139,sonepur district,5,odisha,unknown,diwali,1
+140,berhampuri patta,3,odisha,unknown,diwali,1
+141,berhampur,4,odisha,unknown,diwali,1
+142,kotpad handloom,5,odisha,unknown,diwali,1
+143,tribal regions,4,odisha,unknown,diwali,1
+144,habaspuri saree,3,odisha,unknown,diwali,1
+145,kalahandi district,4,odisha,unknown,diwali,1
+146,pipili appliqué work,3,odisha,unknown,diwali,1
+147,pipili,4,odisha,unknown,diwali,1
+148,salwar kameez,3,punjab,unknown,diwali,1
+149,punjab,2,punjab,unknown,diwali,1
+150,sanganeri block print,3,rajasthan,unknown,diwali,1
+151,sanganer,4,rajasthan,unknown,diwali,1
+152,madurai sungudi,5,tamil nadu,unknown,diwali,1
+153,madurai,2,tamil nadu,unknown,diwali,1
+154,chettnad kandangi saree,3,tamil nadu,unknown,diwali,1
+155,chettnad region,2,tamil nadu,unknown,diwali,1
+156,salem silk dhoti,5,tamil nadu,unknown,diwali,1
+157,salem region,2,tamil nadu,unknown,diwali,1
+158,kumbakonam silk saree,3,tamil nadu,unknown,diwali,1
+159,kumbakonam,2,tamil nadu,unknown,diwali,1
+160,bhavani jamakkalam,5,tamil nadu,unknown,diwali,1
+161,bhavani,2,tamil nadu,unknown,diwali,1
+162,pochampally ikat,3,telangana,unknown,diwali,1
+163,bhoodan pochampally,4,telangana,unknown,diwali,1
+164,siddipet gollabhama sarees,5,telangana,unknown,diwali,1
+165,siddipet,2,telangana,unknown,diwali,1
+166,gongadi blanket,4,kuruma community,unknown,diwali,1
+167,telangana,1,telangana,unknown,diwali,1
+168,kuruma community,2,telangana,unknown,diwali,1
+169,woolen weaving,4,uttarakhand,unknown,diwali,1
+170,uttarakhand,1,uttarakhand,unknown,diwali,1
+171,banarasi sari,5,uttar pradesh,unknown,diwali,1
+172,varanasi,4,uttar pradesh,unknown,diwali,1
+173,baluchari sari,5,west bengal,unknown,diwali,1
+174,baluchar in murshidabad,2,west bengal,unknown,diwali,1
+175,tangail sari,3,west bengal,unknown,diwali,1
+176,tangail,4,west bengal,unknown,diwali,1
+177,punjab region,3,chandigarh,unknown,diwali,1
+178,salwar kameez,5,chandigarh,unknown,diwali,1
+179,kani shawl,5,jammu and kashmir,unknown,diwali,1
+180,kanihama area,2,jammu and kashmir,unknown,diwali,1
+181,sambha calico prints,4,jammu and kashmir,unknown,diwali,1
+182,sambha region,2,jammu and kashmir,unknown,diwali,1
+183,pashmina wool,5,ladakh,unknown,diwali,1
+184,changthangi goat,5,ladakh,unknown,diwali,1
+185,tsul,5,ladakh,unknown,diwali,1
+186,ladakh,2,ladakh,unknown,diwali,1
+187,kachi,3,lakshadweep,unknown,diwali,1
+188,lakshadweep,2,lakshadweep,unknown,diwali,2
+189,mundu,3,lakshadweep,unknown,diwali,1
+190,pondicherry handloom fabrics,5,puducherry,unknown,diwali,1
+191,puducherry,1,puducherry,unknown,diwali,1
+192,khadi textiles,3,puducherry,unknown,diwali,1
+193,puducherry,2,puducherry,unknown,diwali,1
+194,palampore prints,5,puducherry,unknown,diwali,1
+195,india,5,puducherry,unknown,diwali,1
+196,prenkhana,3,andhra pradesh,unknown,diwali,1
+197,andhra pradesh,1,andhra pradesh,unknown,diwali,1
+198,kherai dance,3,tiwa tribe,unknown,diwali,1
+199,zikirs,3,assam,unknown,diwali,1
+200,muslim saint azan fakir,5,assam,unknown,diwali,1
+201,grocery store,5,general,unknown,culturebank,1
+202,alcohol,5,general,unknown,culturebank,1
+203,smoking,4,united states,unknown,culturebank,1
+204,united states,2,general,unknown,culturebank,5
+205,peanut butter,1,general,unknown,culturebank,1
+206,air conditioning,4,general,unknown,culturebank,1
+207,tea,5,general,unknown,culturebank,1
+208,british culture,5,general,unknown,culturebank,1
+209,umbrella,1,general,unknown,culturebank,1
+210,latin word 'umbra',2,general,unknown,culturebank,1
+211,large refrigerators,4,united states,unknown,culturebank,1
+212,fridges,4,united states,unknown,culturebank,1
+213,homelessness,1,general,unknown,culturebank,1
+214,free water,5,general,unknown,culturebank,1
+215,legal requirements,2,general,unknown,culturebank,1
+216,restrictions on ac use,4,general,unknown,culturebank,1
+217,historically,2,general,unknown,culturebank,1
+218,term soccer,3,general,unknown,culturebank,1
+219,british colonizers,2,general,unknown,culturebank,1
+220,trucks,4,united states,unknown,culturebank,1
+221,rural areas,2,united states,unknown,culturebank,1
+222,fruit,1,dz,unknown,blend,3
+223,preschool,4,dz,unknown,blend,1
+224,thanksgiving,4,dz,unknown,blend,1
+225,team sport,2,dz,unknown,blend,1
+226,ingredient,1,food,unknown,blend,1
+227,hot drink,4,dz,unknown,blend,1
+228,new year's eve,2,dz,unknown,blend,1
+229,elderly,1,dz,unknown,blend,1
+230,maternity leave,1,dz,unknown,blend,1
+231,paternity leave,4,dz,unknown,blend,1
+232,family vacation,2,dz,unknown,blend,1
+233,olympics,2,dz,unknown,blend,1
+234,average family size,2,dz,unknown,blend,1
+235,students,1,dz,unknown,blend,1
+236,lunch break,4,dz,unknown,blend,1
+237,mother,1,dz,unknown,blend,1
+238,salary,1,dz,unknown,blend,1
+239,family-related holidays,2,dz,unknown,blend,1
+240,children's independence,4,dz,unknown,blend,1
+241,child birth,4,dz,unknown,blend,1
+242,birthday,2,dz,unknown,blend,1
+243,private education,4,dz,unknown,blend,1
+244,elementary school,2,dz,unknown,blend,1
+245,region,2,dz,unknown,blend,2
+246,water sport,2,dz,unknown,blend,1
+247,agriculture,1,dz,unknown,blend,1
+248,summer vacations,4,dz,unknown,blend,2
+249,elementary schools,4,dz,unknown,blend,1
+250,universities,4,dz,unknown,blend,1
+251,age,1,general,unknown,blend,2
+252,alcohol,1,dz,unknown,blend,2
+253,dinner at a restaurant,2,dz,unknown,blend,1
+254,seafood,1,dz,unknown,blend,1
+255,festival,2,dz,unknown,blend,1
+256,break duration,2,dz,unknown,blend,1
+257,education,2,dz,unknown,blend,1
+258,algerian food,5,dz,unknown,blend,1
+259,algerian food,1,dz,unknown,blend,3
+260,food,1,dz,unknown,blend,8
+261,bread,1,dz,unknown,blend,1
+262,national holiday,2,dz,unknown,blend,2
+263,house,1,dz,unknown,blend,1
+264,family member dies,2,dz,unknown,blend,1
+265,pregnancy celebration or ceremony,2,dz,unknown,blend,1
+266,wedding,4,dz,unknown,blend,1
+267,days before ramadan,4,dz,unknown,blend,1
+268,religious site,1,dz,unknown,blend,1
+269,women,1,dz,unknown,blend,1
+270,clothes,2,dz,unknown,blend,1
+271,cold weather drink,5,dz,unknown,blend,1
+272,ramadan,4,dz,unknown,blend,1
+273,government,4,dz,unknown,blend,1
+274,meat,1,dz,unknown,blend,1
+275,side dish,4,food,unknown,blend,1
+276,nourishing food,4,food,unknown,blend,1
+277,algeria,5,dz,unknown,blend,1
+278,wedding gift,4,dz,unknown,blend,1
+279,traffic congestion,2,dz,unknown,blend,1
+280,destination,2,dz,unknown,blend,1
+281,secure job,4,dz,unknown,blend,1
+282,industry,1,dz,unknown,blend,1
+283,dish,1,food,unknown,blend,1
+284,meals,1,dz,unknown,blend,1
+285,festive meal,4,food,unknown,blend,1
+286,traditional food,1,dz,unknown,blend,1
+287,dipping sauce,4,dz,unknown,blend,1
+288,christian fasting,4,dz,unknown,blend,1
+289,elementary school student,4,dz,unknown,blend,1
+290,desert,4,dz,unknown,blend,1
+291,religious holiday,2,dz,unknown,blend,1
+292,wedding,1,dz,unknown,blend,1
+293,wheat-based food,4,dz,unknown,blend,1
+294,drink,1,dz,unknown,blend,2
+295,fish,4,dz,unknown,blend,1
+296,traditional games,2,dz,unknown,blend,1
+297,festival accessories,2,dz,unknown,blend,1
+298,seafood,5,dz,unknown,blend,1
+299,skiing destination,4,dz,unknown,blend,1
+300,spicy dish,4,dz,unknown,blend,1
+301,seasoning,1,dz,unknown,blend,1
+302,cold weather,4,dz,unknown,blend,1
+303,alcohol brand,4,dz,unknown,blend,1
+304,job,2,dz,unknown,blend,2
+305,probation period,4,dz,unknown,blend,1
+306,industries,2,dz,unknown,blend,2
+307,family trip,2,dz,unknown,blend,1
+308,accommodation,2,dz,unknown,blend,1
+309,middle school,4,dz,unknown,blend,1
+310,holidays,2,dz,unknown,blend,1
+311,chip/crisp,1,food,unknown,blend,1
+312,chocolate,1,dz,unknown,blend,1
+313,cheese,1,dz,unknown,blend,1
+314,vegetable,1,dz,unknown,blend,2
+315,food court,2,dz,unknown,blend,1
+316,family name,1,dz,unknown,blend,1
+317,family,2,dz,unknown,blend,2
+318,country,1,dz,unknown,blend,1
+319,theatrical performance,2,dz,unknown,blend,1
+320,alcoholic drink,2,dz,unknown,blend,1
+321,morning drink,1,dz,unknown,blend,1
+322,traditional dessert,4,dz,unknown,blend,1
+323,racket sport,2,dz,unknown,blend,1
+324,sporting event,2,dz,unknown,blend,1
+325,funeral,2,dz,unknown,blend,1
+326,wedding,2,dz,unknown,blend,2
+327,wedding venue,2,dz,unknown,blend,1
+328,coffee shop brand,4,dz,unknown,blend,1
+329,restaurants,2,dz,unknown,blend,1
+330,mining,4,dz,unknown,blend,1
+331,oil,1,dz,unknown,blend,2
+332,prenatal education activity,4,dz,unknown,blend,1
+333,university students,2,dz,unknown,blend,1
+334,side job,2,dz,unknown,blend,1
+335,edible souvenir,1,dz,unknown,blend,1
+336,stew,4,dz,unknown,blend,1
+337,spice/herb,1,dz,unknown,blend,1
+338,work schedule,4,dz,unknown,blend,1
+339,month of ramadan,4,dz,unknown,blend,1
+340,elementary schools,2,dz,unknown,blend,1
+341,edible insect,1,dz,unknown,blend,1
+342,agricultural product,1,dz,unknown,blend,1
+343,sweets,1,dz,unknown,blend,1
+344,independence day,2,dz,unknown,blend,1
+345,non-alcoholic drink,2,dz,unknown,blend,1
+346,mountainous areas,4,dz,unknown,blend,1
+347,coastal areas,4,dz,unknown,blend,1
+348,farmers,4,dz,unknown,blend,1
+349,christmas day,2,dz,unknown,blend,1
+350,christmas song,2,dz,unknown,blend,1
+351,job seeker,2,dz,unknown,blend,1
+352,fast food chain,4,dz,unknown,blend,1
+353,family pet,4,dz,unknown,blend,1
+354,tv show,2,dz,unknown,blend,1
+355,takeaway food,4,dz,unknown,blend,1
+356,daily exercise,2,dz,unknown,blend,1
+357,rivalry,2,dz,unknown,blend,1
+358,sport,2,dz,unknown,blend,1
+359,tv program,2,dz,unknown,blend,1
+360,fireworks,2,dz,unknown,blend,1
+361,professional sports league,2,dz,unknown,blend,1
+362,tournament,2,dz,unknown,blend,1
+363,family holiday,2,dz,unknown,blend,1
+364,cheque,5,banker,unknown,candle,1
+365,banker,1,banker,unknown,candle,1
+366,doctor,1,nurse,unknown,candle,1
+367,order,5,nurse,unknown,candle,1
+368,politician,1,politician,unknown,candle,1
+369,party,5,politician,unknown,candle,1
+370,politician,5,politician,unknown,candle,1
+371,government official,5,politician,unknown,candle,1
+372,public kin official,5,politician,unknown,candle,1
+373,polling,2,politician,unknown,candle,1
+374,public opinion,2,politician,unknown,candle,1
+375,bank,5,merchant,unknown,candle,1
+376,banker,4,merchant,unknown,candle,1
+377,merchant,2,merchant,unknown,candle,1
+378,merchant,1,merchant,unknown,candle,3
+379,loan,5,merchant,unknown,candle,1
+380,agreement,3,merchant,unknown,candle,1
+381,account,2,merchant,unknown,candle,1
+382,account book,4,merchant,unknown,candle,1
+383,business,4,merchant,unknown,candle,1
+384,photographer,3,photographer,unknown,candle,1
+385,wedding,5,photographer,unknown,candle,1
+386,licensed architect,4,architect,unknown,candle,1
+387,engineer,4,architect,unknown,candle,1
+388,plans,2,architect,unknown,candle,1
+389,architect,1,occupations,unknown,candle,1
+390,church plans,4,rituals,unknown,candle,1
+391,state,2,architect,unknown,candle,1
+392,ebbe drains,5,architect,unknown,candle,1
+393,architects,4,architect,unknown,candle,1
+394,homeowners,2,architect,unknown,candle,1

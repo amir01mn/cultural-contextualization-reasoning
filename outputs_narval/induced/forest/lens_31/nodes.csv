@@ -1,0 +1,29 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algerian agriculture,3,algeria,unknown,arabculture,1
+2,fruit production,3,algeria,unknown,arabculture,1
+3,food,1,andhra pradesh,unknown,diwali,11
+4,intricate footwork and rhythms,3,andhra pradesh,unknown,diwali,1
+5,various aspects,3,chhattisgarh,unknown,diwali,1
+6,algerian olympic achievements,3,dz,unknown,blend,1
+7,algerian education,3,dz,unknown,blend,1
+8,standardized testing,3,dz,unknown,blend,1
+9,education system,2,dz,unknown,blend,2
+10,practical skills and employability,3,dz,unknown,blend,1
+11,paralympic sports,3,dz,unknown,blend,1
+12,literature class,3,dz,unknown,blend,1
+13,algerian writers,3,dz,unknown,blend,1
+14,preparing for childbirth,3,dz,unknown,blend,1
+15,student passing,3,teacher,unknown,candle,1
+16,teacher,1,teacher,unknown,candle,1
+17,special needs,3,teacher,unknown,candle,1
+18,investment,3,banker,unknown,candle,1
+19,nurse,1,nurse,unknown,candle,1
+20,patient's well-being,3,nurse,unknown,candle,1
+21,politician,1,politician,unknown,candle,1
+22,career,3,politician,unknown,candle,1
+23,potty training,4,artist,unknown,candle,1
+24,perfecting skills,3,artist,unknown,candle,1
+25,prospective client,3,attorney,unknown,candle,1
+26,attorney,1,attorney,unknown,candle,1
+27,case outcomes,3,attorney,unknown,candle,1

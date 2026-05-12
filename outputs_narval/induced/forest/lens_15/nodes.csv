@@ -1,0 +1,35 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,zinb,3,algeria,unknown,arabculture,1
+2,food,1,algeria,unknown,arabculture,42
+3,mothers in algeria,3,algeria,unknown,arabculture,1
+4,chickpea stew,3,algeria,unknown,arabculture,1
+5,algeria,1,algeria,unknown,arabculture,6
+6,eid al-adha,1,algeria,unknown,arabculture,2
+7,harissa-stuffed olives tagine,3,algeria,unknown,arabculture,1
+8,ramadan,1,algeria,unknown,arabculture,2
+9,smir,3,algeria,unknown,arabculture,1
+10,mother,1,algeria,unknown,arabculture,3
+11,nurse,1,algeria,unknown,arabculture,1
+12,fava beans,2,egypt,unknown,arabculture,3
+13,henaa,3,egypt,unknown,arabculture,1
+14,potatoes with chicken and soup,3,egypt,unknown,arabculture,1
+15,hareesa with lentils and bread,3,egypt,unknown,arabculture,1
+16,fava beans for family breakfast,3,egypt,unknown,arabculture,1
+17,rawa,3,egypt,unknown,arabculture,1
+18,hala,3,egypt,unknown,arabculture,1
+19,mudh mertha,3,egypt,unknown,arabculture,1
+20,abir al-ajyeh,3,egypt,unknown,arabculture,1
+21,shaima,3,egypt,unknown,arabculture,1
+22,distribute zakah al-fitr,3,egypt,unknown,arabculture,1
+23,distributing meat,3,egypt,unknown,arabculture,1
+24,lamb,5,egypt,unknown,arabculture,1
+25,sham al-nisim,2,egypt,unknown,arabculture,1
+26,work,1,egypt,unknown,arabculture,2
+27,youth gathering,3,egypt,unknown,arabculture,1
+28,preschool teacher,4,teacher,unknown,candle,2
+29,photographer,1,photographer,unknown,candle,1
+30,painter,3,painter,unknown,candle,2
+31,immigration attorney,3,attorney,unknown,candle,1
+32,appropriated documents,3,attorney,unknown,candle,1
+33,scientist,2,scientist,unknown,candle,1

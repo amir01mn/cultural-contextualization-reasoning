@@ -1,0 +1,33 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,21
+2,algeria,1,algeria,unknown,arabculture,9
+3,necessary needs,3,algeria,unknown,arabculture,1
+4,public transportation,3,egypt,unknown,arabculture,1
+5,houses,3,egypt,unknown,arabculture,1
+6,places,3,egypt,unknown,arabculture,1
+7,relatives,3,egypt,unknown,arabculture,1
+8,sweet treat,3,egypt,unknown,arabculture,1
+9,fiancée,3,egypt,unknown,arabculture,1
+10,gifts,1,egypt,unknown,arabculture,4
+11,elderly parents,3,dz,unknown,blend,1
+12,during lunar new year,3,dz,unknown,blend,1
+13,most support,3,dz,unknown,blend,1
+14,guests,2,dz,unknown,blend,1
+15,fathers,3,dz,unknown,blend,1
+16,father's day,3,dz,unknown,blend,1
+17,mother,1,dz,unknown,blend,2
+18,birthday gifts,3,dz,unknown,blend,1
+19,during eid in algeria,3,dz,unknown,blend,1
+20,teacher,1,teacher,unknown,candle,1
+21,patient,1,nurse,unknown,candle,4
+22,nurse,1,nurse,unknown,candle,4
+23,information,4,nurse,unknown,candle,1
+24,person or group,3,tailor,unknown,candle,1
+25,tailor-made clothing,3,tailor,unknown,candle,1
+26,horse,3,photographer,unknown,candle,1
+27,jockey,3,photographer,unknown,candle,1
+28,painter,3,painter,unknown,candle,2
+29,attorney,1,attorney,unknown,candle,1
+30,reader,3,journalist,unknown,candle,1
+31,doctors and nurses,3,doctor,unknown,candle,1

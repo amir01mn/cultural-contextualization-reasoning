@@ -1,0 +1,5123 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "culture",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 2,
+      "label": "dignified burial",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "algerian culture",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "visiting the grave",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "mourning rituals",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "a song",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "dance",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "reading stories before sleep",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "cultural practice",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "venkatagiri cotton",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "textiles",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 12,
+      "label": "apatani jacket and scarf",
+      "level": 3,
+      "cultural_group": "apatani tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "disciplined aesthetic",
+      "level": 4,
+      "cultural_group": "apatani tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "tangsa lungis",
+      "level": 3,
+      "cultural_group": "tangsa community",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "tribal identity",
+      "level": 5,
+      "cultural_group": "tangsa community",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "craftsmanship",
+      "level": 5,
+      "cultural_group": "tangsa community",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 17,
+      "label": "nyishi textile",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "cultural heritage",
+      "level": 2,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 5
+    },
+    {
+      "id": 19,
+      "label": "gamosa",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "assamese culture",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "riha",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "religious and cultural ceremonies",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "dhokona",
+      "level": 5,
+      "cultural_group": "rabha tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "rich cultural heritage",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 25,
+      "label": "altar cloths",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "liturgical vestments",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "goa's christian heritage",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "coastal heritage",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "cultural diversity",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "vibrant colors",
+      "level": 5,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "intricate patterns",
+      "level": 5,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 32,
+      "label": "motifs",
+      "level": 5,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "patola",
+      "level": 2,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "phulkari",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 35,
+      "label": "chope",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "cotton shawls",
+      "level": 4,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "weaving traditions",
+      "level": 2,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "thapada",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "embroidery styles",
+      "level": 5,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "kinnauri shawl",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 41,
+      "label": "intricate designs",
+      "level": 5,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "rich cultural heritage",
+      "level": 5,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "chamba shawl",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "weaving excellence",
+      "level": 2,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "balaramapuram handloom",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "traditional aesthetic of kerala's weaving heritage",
+      "level": 2,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "kasaragod saree",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "weaving techniques",
+      "level": 5,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "chanderi saree",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "royal influences",
+      "level": 5,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "batik print",
+      "level": 4,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "cultural tapestry of madhya pradesh",
+      "level": 2,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "nandana print",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "local folklore",
+      "level": 5,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "himroo fabric",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "solapur chaddar",
+      "level": 5,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "textiles",
+      "level": 4,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "kolhapuri sari",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "maharashtra",
+      "level": 1,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "phanek",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "cultural identity of the meitei community",
+      "level": 2,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "leirum phee",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "meitei marriage ceremonies",
+      "level": 4,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "samserla",
+      "level": 5,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "traditional attire",
+      "level": 4,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "pawndum",
+      "level": 5,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "cultural significance",
+      "level": 5,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "ngotekherh",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "cultural significance",
+      "level": 4,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "hmaram",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "heritage",
+      "level": 2,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "tsüngkotepsü",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "patterns",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "shawl",
+      "level": 5,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "bomkai saree",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "region's rich heritage",
+      "level": 5,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "kotpad handloom",
+      "level": 5,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "tribal culture",
+      "level": 4,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "chola",
+      "level": 3,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "simplicity and elegance",
+      "level": 5,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "parandi",
+      "level": 5,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "vibrant and decorative crafts",
+      "level": 2,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "ajrakh",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "block printing",
+      "level": 4,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "rich textile heritage",
+      "level": 2,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "tibetan influences",
+      "level": 3,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "bhutia woolen weaves",
+      "level": 2,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "arani silk saree",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "skilled craftsmanship",
+      "level": 5,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "thirubuvanam silk saree",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "traditional weaving techniques",
+      "level": 4,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "toda embroidery",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "siddipet gollabhama sarees",
+      "level": 5,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "rural ethos",
+      "level": 5,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "gongadi blanket",
+      "level": 4,
+      "cultural_group": "kuruma community",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "pastoral lifestyle",
+      "level": 2,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "pichhora",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "religious ceremonies",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 99,
+      "label": "weddings",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "festivals",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 101,
+      "label": "cotton weaving",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "kullu shawls",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 103,
+      "label": "tradition",
+      "level": 5,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "contemporary fashion",
+      "level": 5,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "chikankari",
+      "level": 3,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "mughal artistic influences",
+      "level": 5,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "jamdani",
+      "level": 5,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "regional weaving traditions",
+      "level": 5,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "baluchari sari",
+      "level": 5,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "mythological scenes",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "kantha embroidery",
+      "level": 3,
+      "cultural_group": "rural women in west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "artisans' surroundings",
+      "level": 5,
+      "cultural_group": "rural women in west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "imagination",
+      "level": 5,
+      "cultural_group": "rural women in west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "rural women in west bengal",
+      "level": 2,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "traditional weaving",
+      "level": 4,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "cultural significance",
+      "level": 2,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "khes",
+      "level": 3,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "utilitarian yet artistic weaving practices",
+      "level": 5,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "chikankari embroidery",
+      "level": 3,
+      "cultural_group": "delhi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "aesthetic sensibilities",
+      "level": 5,
+      "cultural_group": "delhi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "namda",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "textile traditions",
+      "level": 4,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "pashmina wool",
+      "level": 5,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "region's rich weaving traditions",
+      "level": 2,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "coir weaving",
+      "level": 4,
+      "cultural_group": "lakshadweep",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "resourcefulness",
+      "level": 5,
+      "cultural_group": "lakshadweep",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "pondicherry handloom fabrics",
+      "level": 5,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "weaving traditions",
+      "level": 5,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "palampore prints",
+      "level": 5,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "rich history in textile trade",
+      "level": 2,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "tappeta gullu",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "rain god",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "veeranatyam",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "religious significance",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "bhagavata mela",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "religious festivals",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 137,
+      "label": "kalapam",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "moral and philosophical themes",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "danda rasaka",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 140,
+      "label": "martial traditions",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "martial readiness",
+      "level": 5,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "community defense",
+      "level": 5,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "gondali",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "ritualistic dance",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "aji lhamu",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 146,
+      "label": "tibetan ramayana",
+      "level": 4,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "wancho dance",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 148,
+      "label": "oriah festival",
+      "level": 4,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "hiirii khaniing",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "rituals and festivals",
+      "level": 2,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 151,
+      "label": "rikham pada",
+      "level": 3,
+      "cultural_group": "nishi tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 152,
+      "label": "community bonding",
+      "level": 4,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "cultural heritage",
+      "level": 4,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 154,
+      "label": "bihu dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "rongali bihu festival",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "bhortal nritya",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 157,
+      "label": "cymbals",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 158,
+      "label": "chakhela dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 159,
+      "label": "wangala dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 160,
+      "label": "post-harvest season",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 161,
+      "label": "hojagiri dance",
+      "level": 3,
+      "cultural_group": "reang community",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 162,
+      "label": "skill and grace",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 163,
+      "label": "traditional drum-based dances",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 164,
+      "label": "cultural events",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 165,
+      "label": "apsara-sabah",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 166,
+      "label": "celestial beings",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 167,
+      "label": "chomangkan festival",
+      "level": 4,
+      "cultural_group": "karbi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 168,
+      "label": "banjar kekan",
+      "level": 3,
+      "cultural_group": "karbi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 169,
+      "label": "barpeta's bhortal nritya",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 170,
+      "label": "cymbals",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 171,
+      "label": "barpeta's cultural heritage",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 172,
+      "label": "dhuliya dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 173,
+      "label": "cultural and religious events",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 174,
+      "label": "tea folk dances",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 175,
+      "label": "chomangkan dance",
+      "level": 3,
+      "cultural_group": "karbi tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 176,
+      "label": "life and death",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 177,
+      "label": "deori bihu dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 178,
+      "label": "harvest season",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 179,
+      "label": "tiwa damahi dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 180,
+      "label": "end of harvest",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 181,
+      "label": "putola nach",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 182,
+      "label": "mythological stories",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 183,
+      "label": "kalaigaon dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 184,
+      "label": "local traditions",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 185,
+      "label": "goalparia dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 186,
+      "label": "regional culture",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 187,
+      "label": "dhuliya bhaona",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 188,
+      "label": "rongker dance",
+      "level": 3,
+      "cultural_group": "karbi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 189,
+      "label": "village welfare",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 190,
+      "label": "baishagu dance",
+      "level": 3,
+      "cultural_group": "bodo",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 191,
+      "label": "new year",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 192,
+      "label": "farkanti dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 193,
+      "label": "depicting hunting and war victories",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 194,
+      "label": "nagara naam",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 195,
+      "label": "religious gatherings",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 196,
+      "label": "moridhol dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 197,
+      "label": "rhythmic patterns",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 198,
+      "label": "kamrupi lokgeet dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 199,
+      "label": "local life",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 200,
+      "label": "jhumar",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 201,
+      "label": "joy and nature",
+      "level": 2,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 202,
+      "label": "natua",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 203,
+      "label": "festivals",
+      "level": 2,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 204,
+      "label": "dhobi naach",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 205,
+      "label": "gond naach",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 206,
+      "label": "bidapad naach",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 207,
+      "label": "kishan nritya",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 208,
+      "label": "maao-pata dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 209,
+      "label": "religious ceremony",
+      "level": 2,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 210,
+      "label": "relo dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 211,
+      "label": "local traditions",
+      "level": 2,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 212,
+      "label": "phag dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 213,
+      "label": "joy",
+      "level": 2,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 214,
+      "label": "jharpat dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 215,
+      "label": "rains",
+      "level": 4,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 216,
+      "label": "mandri dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 217,
+      "label": "murga nacha",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 218,
+      "label": "vasdeva dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 219,
+      "label": "mythological tales",
+      "level": 2,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 220,
+      "label": "fugdi",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 221,
+      "label": "dhalo",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 222,
+      "label": "shigmo",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 223,
+      "label": "goan culture",
+      "level": 5,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 224,
+      "label": "kunbi",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 225,
+      "label": "tribal folk dance",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 226,
+      "label": "tiatr",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 227,
+      "label": "social issues",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 228,
+      "label": "musall khel",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 229,
+      "label": "hindu king",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 230,
+      "label": "dhangar dance",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 231,
+      "label": "folk god bira deva",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 232,
+      "label": "folk dance",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 233,
+      "label": "culture",
+      "level": 1,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 234,
+      "label": "american flag",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 235,
+      "label": "patriotism",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 236,
+      "label": "gratitude",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 237,
+      "label": "settings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 238,
+      "label": "paris syndrome",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 239,
+      "label": "cultural differences",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 240,
+      "label": "culture shock",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 241,
+      "label": "frustration",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 242,
+      "label": "difficulty adjusting to new cultural norms",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 243,
+      "label": "forgetting cultural differences",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 244,
+      "label": "pledge of allegiance",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 245,
+      "label": "greetings",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 246,
+      "label": "social norms and etiquette",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 247,
+      "label": "amusement",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 248,
+      "label": "communication",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 249,
+      "label": "fit in",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 250,
+      "label": "evolving playground design",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 251,
+      "label": "changing perceptions of risk and safety",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 252,
+      "label": "environmentally unfriendly",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 253,
+      "label": "various methods for waste disposal",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 254,
+      "label": "water pressure and toilet design",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 255,
+      "label": "perception",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 256,
+      "label": "natural beauty",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 257,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 258,
+      "label": "workplace",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 259,
+      "label": "expressions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 260,
+      "label": "cash",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 261,
+      "label": "convenience",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 262,
+      "label": "traceability",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 263,
+      "label": "cold weather",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 264,
+      "label": "winter",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 265,
+      "label": "discomfort and complain",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 266,
+      "label": "water",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 267,
+      "label": "homelessness",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 268,
+      "label": "societal issue",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 269,
+      "label": "expressions of emotion",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 270,
+      "label": "romantic relationships",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 271,
+      "label": "shopping hours",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 272,
+      "label": "store closures",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 273,
+      "label": "differences in shopping hours and store closures on sundays",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 274,
+      "label": "holidays",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 275,
+      "label": "relaxation and enjoyment",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 276,
+      "label": "misconceptions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 277,
+      "label": "ignorance",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 278,
+      "label": "lack of multicultural understanding",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 279,
+      "label": "mother's day",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 280,
+      "label": "express love, gratitude, and make up for mistakes",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 281,
+      "label": "distinction",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 282,
+      "label": "race",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 283,
+      "label": "ethnicity",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 284,
+      "label": "nationality",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 285,
+      "label": "different cultural practices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 286,
+      "label": "shopping and business hours",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 287,
+      "label": "normalcy",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 288,
+      "label": "behaviors",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 289,
+      "label": "personal freedom",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 290,
+      "label": "autonomy",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 291,
+      "label": "gun violence",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 292,
+      "label": "higher crime rates",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 293,
+      "label": "perception of higher crime rates",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 294,
+      "label": "impact on safety and healthcare",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 295,
+      "label": "apologizing",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 296,
+      "label": "social interactions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 297,
+      "label": "respect",
+      "level": 5,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 298,
+      "label": "united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 299,
+      "label": "open and legal use",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 300,
+      "label": "relaxed attitude",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 301,
+      "label": "different names for things",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 302,
+      "label": "investing in fans",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 303,
+      "label": "following a summer schedule",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 304,
+      "label": "summer",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 305,
+      "label": "gucci belts",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 306,
+      "label": "societal issues",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 307,
+      "label": "safety",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 308,
+      "label": "boy scouts",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 309,
+      "label": "girl scouts",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 310,
+      "label": "nature",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 311,
+      "label": "nodding head",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 312,
+      "label": "customer service interactions and social situations",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 313,
+      "label": "confusion",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 314,
+      "label": "capitalist society",
+      "level": 5,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 315,
+      "label": "pursuit of happiness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 316,
+      "label": "struggles",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 317,
+      "label": "perception of happiness and struggles",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 318,
+      "label": "halloween",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 319,
+      "label": "express gratitude and ensure safety",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 320,
+      "label": "informal communication",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 321,
+      "label": "societal and economic challenges",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 322,
+      "label": "struggle",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 323,
+      "label": "sweet drinks",
+      "level": 4,
+      "cultural_group": "drink",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 324,
+      "label": "apologies",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 325,
+      "label": "politeness",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 326,
+      "label": "greeting",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 327,
+      "label": "social norms",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 328,
+      "label": "trucks",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 329,
+      "label": "cultural symbol",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 330,
+      "label": "naming practices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 331,
+      "label": "air conditioning",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 332,
+      "label": "france",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 333,
+      "label": "architecture",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 334,
+      "label": "cost-effective architecture",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 335,
+      "label": "perception of beauty and ugliness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 336,
+      "label": "trucks",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 337,
+      "label": "god",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 338,
+      "label": "guns",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 339,
+      "label": "obesity",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 340,
+      "label": "stereotypes",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 341,
+      "label": "sports",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 342,
+      "label": "covid-19 pandemic",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 343,
+      "label": "reflection",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 344,
+      "label": "engagement",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 345,
+      "label": "guidance",
+      "level": 4,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 346,
+      "label": "support",
+      "level": 4,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 347,
+      "label": "teacher",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 348,
+      "label": "classroom discipline",
+      "level": 4,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 349,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 350,
+      "label": "banker",
+      "level": 1,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 351,
+      "label": "rituals",
+      "level": 2,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 352,
+      "label": "nurses' week",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 353,
+      "label": "national celebration",
+      "level": 2,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 354,
+      "label": "performance review",
+      "level": 4,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 355,
+      "label": "campaign",
+      "level": 4,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 356,
+      "label": "govern",
+      "level": 4,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 357,
+      "label": "cutting ribbon",
+      "level": 5,
+      "cultural_group": "rituals",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 358,
+      "label": "announcing new deals and consolidating power",
+      "level": 2,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 359,
+      "label": "family portraits",
+      "level": 4,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 360,
+      "label": "professional photographer",
+      "level": 4,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 361,
+      "label": "ceremony",
+      "level": 5,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 362,
+      "label": "stationary",
+      "level": 2,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 363,
+      "label": "repeatedly confirmed",
+      "level": 2,
+      "cultural_group": "historian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 364,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 365,
+      "label": "performance",
+      "level": 4,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "dignified burial",
+      "target_label": "algerian culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "visiting the grave",
+      "target_label": "mourning rituals",
+      "relation_type": "reflects mourning rituals",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "source_label": "dance",
+      "target_label": "culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "reading stories before sleep",
+      "target_label": "cultural practice",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "venkatagiri cotton",
+      "target_label": "textiles",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "apatani jacket and scarf",
+      "target_label": "disciplined aesthetic",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "tangsa lungis",
+      "target_label": "tribal identity",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "source_label": "tangsa lungis",
+      "target_label": "craftsmanship",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "nyishi textile",
+      "target_label": "cultural heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "gamosa",
+      "target_label": "assamese culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "riha",
+      "target_label": "religious and cultural ceremonies",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "dhokona",
+      "target_label": "rich cultural heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 25,
+      "target": 27,
+      "source_label": "altar cloths",
+      "target_label": "goa's christian heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "liturgical vestments",
+      "target_label": "goa's christian heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 11,
+      "target": 28,
+      "source_label": "textiles",
+      "target_label": "coastal heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 11,
+      "target": 29,
+      "source_label": "textiles",
+      "target_label": "cultural diversity",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 33,
+      "target": 30,
+      "source_label": "patola",
+      "target_label": "vibrant colors",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 33,
+      "target": 31,
+      "source_label": "patola",
+      "target_label": "intricate patterns",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 33,
+      "target": 32,
+      "source_label": "patola",
+      "target_label": "motifs",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 34,
+      "target": 18,
+      "source_label": "phulkari",
+      "target_label": "cultural heritage",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "source_label": "cotton shawls",
+      "target_label": "weaving traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "source_label": "thapada",
+      "target_label": "embroidery styles",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "source_label": "kinnauri shawl",
+      "target_label": "intricate designs",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 40,
+      "target": 24,
+      "source_label": "kinnauri shawl",
+      "target_label": "rich cultural heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "source_label": "chamba shawl",
+      "target_label": "weaving excellence",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "balaramapuram handloom",
+      "target_label": "traditional aesthetic of kerala's weaving heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "source_label": "kasaragod saree",
+      "target_label": "weaving techniques",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "source_label": "chanderi saree",
+      "target_label": "royal influences",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "source_label": "batik print",
+      "target_label": "cultural tapestry of madhya pradesh",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "source_label": "nandana print",
+      "target_label": "local folklore",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 56,
+      "target": 11,
+      "source_label": "solapur chaddar",
+      "target_label": "textiles",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 58,
+      "target": 59,
+      "source_label": "kolhapuri sari",
+      "target_label": "maharashtra",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "source_label": "phanek",
+      "target_label": "cultural identity of the meitei community",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "source_label": "leirum phee",
+      "target_label": "meitei marriage ceremonies",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "source_label": "samserla",
+      "target_label": "traditional attire",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "source_label": "pawndum",
+      "target_label": "cultural significance",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 68,
+      "target": 67,
+      "source_label": "ngotekherh",
+      "target_label": "cultural significance",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 70,
+      "target": 71,
+      "source_label": "hmaram",
+      "target_label": "heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 72,
+      "target": 1,
+      "source_label": "tsüngkotepsü",
+      "target_label": "culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 74,
+      "target": 73,
+      "source_label": "shawl",
+      "target_label": "patterns",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "source_label": "bomkai saree",
+      "target_label": "region's rich heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 77,
+      "target": 78,
+      "source_label": "kotpad handloom",
+      "target_label": "tribal culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "source_label": "chola",
+      "target_label": "simplicity and elegance",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 81,
+      "target": 82,
+      "source_label": "parandi",
+      "target_label": "vibrant and decorative crafts",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 83,
+      "target": 85,
+      "source_label": "ajrakh",
+      "target_label": "rich textile heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 86,
+      "target": 87,
+      "source_label": "tibetan influences",
+      "target_label": "bhutia woolen weaves",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 88,
+      "target": 89,
+      "source_label": "arani silk saree",
+      "target_label": "skilled craftsmanship",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 90,
+      "target": 91,
+      "source_label": "thirubuvanam silk saree",
+      "target_label": "traditional weaving techniques",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 92,
+      "target": 1,
+      "source_label": "toda embroidery",
+      "target_label": "culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 93,
+      "target": 94,
+      "source_label": "siddipet gollabhama sarees",
+      "target_label": "rural ethos",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 95,
+      "target": 96,
+      "source_label": "gongadi blanket",
+      "target_label": "pastoral lifestyle",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 97,
+      "target": 98,
+      "source_label": "pichhora",
+      "target_label": "religious ceremonies",
+      "relation_type": "worn during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 97,
+      "target": 99,
+      "source_label": "pichhora",
+      "target_label": "weddings",
+      "relation_type": "worn during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 97,
+      "target": 100,
+      "source_label": "pichhora",
+      "target_label": "festivals",
+      "relation_type": "worn during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 31,
+      "target": 101,
+      "source_label": "intricate patterns",
+      "target_label": "cotton weaving",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "source_label": "kullu shawls",
+      "target_label": "tradition",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 102,
+      "target": 104,
+      "source_label": "kullu shawls",
+      "target_label": "contemporary fashion",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "source_label": "chikankari",
+      "target_label": "mughal artistic influences",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "source_label": "jamdani",
+      "target_label": "regional weaving traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 109,
+      "target": 110,
+      "source_label": "baluchari sari",
+      "target_label": "mythological scenes",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 111,
+      "target": 114,
+      "source_label": "kantha embroidery",
+      "target_label": "rural women in west bengal",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 115,
+      "target": 1,
+      "source_label": "traditional weaving",
+      "target_label": "culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 34,
+      "target": 67,
+      "source_label": "phulkari",
+      "target_label": "cultural significance",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 117,
+      "target": 118,
+      "source_label": "khes",
+      "target_label": "utilitarian yet artistic weaving practices",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 119,
+      "target": 120,
+      "source_label": "chikankari embroidery",
+      "target_label": "aesthetic sensibilities",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "source_label": "namda",
+      "target_label": "textile traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 123,
+      "target": 124,
+      "source_label": "pashmina wool",
+      "target_label": "region's rich weaving traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 125,
+      "target": 126,
+      "source_label": "coir weaving",
+      "target_label": "resourcefulness",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 125,
+      "target": 16,
+      "source_label": "coir weaving",
+      "target_label": "craftsmanship",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 127,
+      "target": 37,
+      "source_label": "pondicherry handloom fabrics",
+      "target_label": "weaving traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 129,
+      "target": 130,
+      "source_label": "palampore prints",
+      "target_label": "rich history in textile trade",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 131,
+      "target": 132,
+      "source_label": "tappeta gullu",
+      "target_label": "rain god",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 133,
+      "target": 134,
+      "source_label": "veeranatyam",
+      "target_label": "religious significance",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 135,
+      "target": 136,
+      "source_label": "bhagavata mela",
+      "target_label": "religious festivals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 137,
+      "target": 138,
+      "source_label": "kalapam",
+      "target_label": "moral and philosophical themes",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 139,
+      "target": 140,
+      "source_label": "danda rasaka",
+      "target_label": "martial traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 139,
+      "target": 141,
+      "source_label": "danda rasaka",
+      "target_label": "martial readiness",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 139,
+      "target": 142,
+      "source_label": "danda rasaka",
+      "target_label": "community defense",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 143,
+      "target": 144,
+      "source_label": "gondali",
+      "target_label": "ritualistic dance",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 145,
+      "target": 146,
+      "source_label": "aji lhamu",
+      "target_label": "tibetan ramayana",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 147,
+      "target": 148,
+      "source_label": "wancho dance",
+      "target_label": "oriah festival",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 149,
+      "target": 150,
+      "source_label": "hiirii khaniing",
+      "target_label": "rituals and festivals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 151,
+      "target": 152,
+      "source_label": "rikham pada",
+      "target_label": "community bonding",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 151,
+      "target": 18,
+      "source_label": "rikham pada",
+      "target_label": "cultural heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 154,
+      "target": 155,
+      "source_label": "bihu dance",
+      "target_label": "rongali bihu festival",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 156,
+      "target": 24,
+      "source_label": "bhortal nritya",
+      "target_label": "rich cultural heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 158,
+      "target": 100,
+      "source_label": "chakhela dance",
+      "target_label": "festivals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 159,
+      "target": 160,
+      "source_label": "wangala dance",
+      "target_label": "post-harvest season",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 161,
+      "target": 162,
+      "source_label": "hojagiri dance",
+      "target_label": "skill and grace",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 163,
+      "target": 164,
+      "source_label": "traditional drum-based dances",
+      "target_label": "cultural events",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 165,
+      "target": 166,
+      "source_label": "apsara-sabah",
+      "target_label": "celestial beings",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 168,
+      "target": 167,
+      "source_label": "banjar kekan",
+      "target_label": "chomangkan festival",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 169,
+      "target": 171,
+      "source_label": "barpeta's bhortal nritya",
+      "target_label": "barpeta's cultural heritage",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 172,
+      "target": 173,
+      "source_label": "dhuliya dance",
+      "target_label": "cultural and religious events",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 174,
+      "target": 18,
+      "source_label": "tea folk dances",
+      "target_label": "cultural heritage",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 175,
+      "target": 176,
+      "source_label": "chomangkan dance",
+      "target_label": "life and death",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 177,
+      "target": 178,
+      "source_label": "deori bihu dance",
+      "target_label": "harvest season",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 179,
+      "target": 180,
+      "source_label": "tiwa damahi dance",
+      "target_label": "end of harvest",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 181,
+      "target": 182,
+      "source_label": "putola nach",
+      "target_label": "mythological stories",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 183,
+      "target": 184,
+      "source_label": "kalaigaon dance",
+      "target_label": "local traditions",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 185,
+      "target": 186,
+      "source_label": "goalparia dance",
+      "target_label": "regional culture",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 187,
+      "target": 136,
+      "source_label": "dhuliya bhaona",
+      "target_label": "religious festivals",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 188,
+      "target": 189,
+      "source_label": "rongker dance",
+      "target_label": "village welfare",
+      "relation_type": "reflects",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 190,
+      "target": 191,
+      "source_label": "baishagu dance",
+      "target_label": "new year",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 192,
+      "target": 193,
+      "source_label": "farkanti dance",
+      "target_label": "depicting hunting and war victories",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 194,
+      "target": 195,
+      "source_label": "nagara naam",
+      "target_label": "religious gatherings",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 196,
+      "target": 197,
+      "source_label": "moridhol dance",
+      "target_label": "rhythmic patterns",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 198,
+      "target": 199,
+      "source_label": "kamrupi lokgeet dance",
+      "target_label": "local life",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 200,
+      "target": 201,
+      "source_label": "jhumar",
+      "target_label": "joy and nature",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 202,
+      "target": 100,
+      "source_label": "natua",
+      "target_label": "festivals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 205,
+      "target": 150,
+      "source_label": "gond naach",
+      "target_label": "rituals and festivals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 206,
+      "target": 98,
+      "source_label": "bidapad naach",
+      "target_label": "religious ceremonies",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 207,
+      "target": 178,
+      "source_label": "kishan nritya",
+      "target_label": "harvest season",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 208,
+      "target": 209,
+      "source_label": "maao-pata dance",
+      "target_label": "religious ceremony",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 210,
+      "target": 184,
+      "source_label": "relo dance",
+      "target_label": "local traditions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 212,
+      "target": 213,
+      "source_label": "phag dance",
+      "target_label": "joy",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 214,
+      "target": 215,
+      "source_label": "jharpat dance",
+      "target_label": "rains",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 216,
+      "target": 18,
+      "source_label": "mandri dance",
+      "target_label": "cultural heritage",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 217,
+      "target": 100,
+      "source_label": "murga nacha",
+      "target_label": "festivals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 218,
+      "target": 219,
+      "source_label": "vasdeva dance",
+      "target_label": "mythological tales",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 220,
+      "target": 100,
+      "source_label": "fugdi",
+      "target_label": "festivals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 221,
+      "target": 100,
+      "source_label": "dhalo",
+      "target_label": "festivals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 222,
+      "target": 223,
+      "source_label": "shigmo",
+      "target_label": "goan culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 225,
+      "target": 224,
+      "source_label": "tribal folk dance",
+      "target_label": "kunbi",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 226,
+      "target": 227,
+      "source_label": "tiatr",
+      "target_label": "social issues",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 228,
+      "target": 229,
+      "source_label": "musall khel",
+      "target_label": "hindu king",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 230,
+      "target": 231,
+      "source_label": "dhangar dance",
+      "target_label": "folk god bira deva",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 232,
+      "target": 1,
+      "source_label": "folk dance",
+      "target_label": "culture",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 234,
+      "target": 235,
+      "source_label": "american flag",
+      "target_label": "patriotism",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 236,
+      "target": 237,
+      "source_label": "gratitude",
+      "target_label": "settings",
+      "relation_type": "reflects culture",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 238,
+      "target": 239,
+      "source_label": "paris syndrome",
+      "target_label": "cultural differences",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 240,
+      "target": 242,
+      "source_label": "culture shock",
+      "target_label": "difficulty adjusting to new cultural norms",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 241,
+      "target": 243,
+      "source_label": "frustration",
+      "target_label": "forgetting cultural differences",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 244,
+      "target": 235,
+      "source_label": "pledge of allegiance",
+      "target_label": "patriotism",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 245,
+      "target": 246,
+      "source_label": "greetings",
+      "target_label": "social norms and etiquette",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 237,
+      "target": 247,
+      "source_label": "settings",
+      "target_label": "amusement",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 237,
+      "target": 248,
+      "source_label": "settings",
+      "target_label": "communication",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 237,
+      "target": 249,
+      "source_label": "settings",
+      "target_label": "fit in",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 250,
+      "target": 251,
+      "source_label": "evolving playground design",
+      "target_label": "changing perceptions of risk and safety",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 253,
+      "target": 252,
+      "source_label": "various methods for waste disposal",
+      "target_label": "environmentally unfriendly",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 254,
+      "target": 255,
+      "source_label": "water pressure and toilet design",
+      "target_label": "perception",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 256,
+      "target": 257,
+      "source_label": "natural beauty",
+      "target_label": "united states",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 259,
+      "target": 258,
+      "source_label": "expressions",
+      "target_label": "workplace",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 260,
+      "target": 261,
+      "source_label": "cash",
+      "target_label": "convenience",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 260,
+      "target": 262,
+      "source_label": "cash",
+      "target_label": "traceability",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 263,
+      "target": 265,
+      "source_label": "cold weather",
+      "target_label": "discomfort and complain",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 267,
+      "target": 268,
+      "source_label": "homelessness",
+      "target_label": "societal issue",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 269,
+      "target": 270,
+      "source_label": "expressions of emotion",
+      "target_label": "romantic relationships",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 271,
+      "target": 273,
+      "source_label": "shopping hours",
+      "target_label": "differences in shopping hours and store closures on sundays",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 272,
+      "target": 273,
+      "source_label": "store closures",
+      "target_label": "differences in shopping hours and store closures on sundays",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 274,
+      "target": 275,
+      "source_label": "holidays",
+      "target_label": "relaxation and enjoyment",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 276,
+      "target": 278,
+      "source_label": "misconceptions",
+      "target_label": "lack of multicultural understanding",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 277,
+      "target": 278,
+      "source_label": "ignorance",
+      "target_label": "lack of multicultural understanding",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 279,
+      "target": 280,
+      "source_label": "mother's day",
+      "target_label": "express love, gratitude, and make up for mistakes",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 281,
+      "target": 282,
+      "source_label": "distinction",
+      "target_label": "race",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 281,
+      "target": 283,
+      "source_label": "distinction",
+      "target_label": "ethnicity",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 281,
+      "target": 284,
+      "source_label": "distinction",
+      "target_label": "nationality",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 287,
+      "target": 288,
+      "source_label": "normalcy",
+      "target_label": "behaviors",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 289,
+      "target": 290,
+      "source_label": "personal freedom",
+      "target_label": "autonomy",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 291,
+      "target": 293,
+      "source_label": "gun violence",
+      "target_label": "perception of higher crime rates",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 292,
+      "target": 294,
+      "source_label": "higher crime rates",
+      "target_label": "impact on safety and healthcare",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 295,
+      "target": 296,
+      "source_label": "apologizing",
+      "target_label": "social interactions",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 297,
+      "target": 257,
+      "source_label": "respect",
+      "target_label": "united states",
+      "relation_type": "reflects culture",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 299,
+      "target": 300,
+      "source_label": "open and legal use",
+      "target_label": "relaxed attitude",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 304,
+      "target": 301,
+      "source_label": "summer",
+      "target_label": "different names for things",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 304,
+      "target": 302,
+      "source_label": "summer",
+      "target_label": "investing in fans",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 304,
+      "target": 303,
+      "source_label": "summer",
+      "target_label": "following a summer schedule",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 305,
+      "target": 306,
+      "source_label": "gucci belts",
+      "target_label": "societal issues",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 308,
+      "target": 310,
+      "source_label": "boy scouts",
+      "target_label": "nature",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 309,
+      "target": 310,
+      "source_label": "girl scouts",
+      "target_label": "nature",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 311,
+      "target": 312,
+      "source_label": "nodding head",
+      "target_label": "customer service interactions and social situations",
+      "relation_type": "reflects culture",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 313,
+      "target": 237,
+      "source_label": "confusion",
+      "target_label": "settings",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 314,
+      "target": 257,
+      "source_label": "capitalist society",
+      "target_label": "united states",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 315,
+      "target": 317,
+      "source_label": "pursuit of happiness",
+      "target_label": "perception of happiness and struggles",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 318,
+      "target": 319,
+      "source_label": "halloween",
+      "target_label": "express gratitude and ensure safety",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 245,
+      "target": 320,
+      "source_label": "greetings",
+      "target_label": "informal communication",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 321,
+      "target": 322,
+      "source_label": "societal and economic challenges",
+      "target_label": "struggle",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 257,
+      "target": 323,
+      "source_label": "united states",
+      "target_label": "sweet drinks",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 324,
+      "target": 325,
+      "source_label": "apologies",
+      "target_label": "politeness",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 326,
+      "target": 327,
+      "source_label": "greeting",
+      "target_label": "social norms",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 328,
+      "target": 329,
+      "source_label": "trucks",
+      "target_label": "cultural symbol",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 330,
+      "target": 257,
+      "source_label": "naming practices",
+      "target_label": "united states",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 331,
+      "target": 332,
+      "source_label": "air conditioning",
+      "target_label": "france",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 334,
+      "target": 335,
+      "source_label": "cost-effective architecture",
+      "target_label": "perception of beauty and ugliness",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 340,
+      "target": 328,
+      "source_label": "stereotypes",
+      "target_label": "trucks",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 340,
+      "target": 337,
+      "source_label": "stereotypes",
+      "target_label": "god",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 340,
+      "target": 338,
+      "source_label": "stereotypes",
+      "target_label": "guns",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 340,
+      "target": 339,
+      "source_label": "stereotypes",
+      "target_label": "obesity",
+      "relation_type": "reflect",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 341,
+      "target": 342,
+      "source_label": "sports",
+      "target_label": "covid-19 pandemic",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 343,
+      "target": 344,
+      "source_label": "reflection",
+      "target_label": "engagement",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 347,
+      "target": 345,
+      "source_label": "teacher",
+      "target_label": "guidance",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 347,
+      "target": 346,
+      "source_label": "teacher",
+      "target_label": "support",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 347,
+      "target": 348,
+      "source_label": "teacher",
+      "target_label": "classroom discipline",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 350,
+      "target": 351,
+      "source_label": "banker",
+      "target_label": "rituals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 352,
+      "target": 353,
+      "source_label": "nurses' week",
+      "target_label": "national celebration",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 354,
+      "target": 351,
+      "source_label": "performance review",
+      "target_label": "rituals",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 355,
+      "target": 356,
+      "source_label": "campaign",
+      "target_label": "govern",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 356,
+      "target": 355,
+      "source_label": "govern",
+      "target_label": "campaign",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 357,
+      "target": 358,
+      "source_label": "cutting ribbon",
+      "target_label": "announcing new deals and consolidating power",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 359,
+      "target": 360,
+      "source_label": "family portraits",
+      "target_label": "professional photographer",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 361,
+      "target": 362,
+      "source_label": "ceremony",
+      "target_label": "stationary",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 364,
+      "target": 365,
+      "source_label": "artist",
+      "target_label": "performance",
+      "relation_type": "reflects",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

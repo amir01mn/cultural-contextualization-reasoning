@@ -1,0 +1,19 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,food,algeria,popular_among,4,arabculture
+1,3,food,rural areas in chhattisgarh,popular_among,1,diwali
+1,4,food,rural fairs,popular_in,1,diwali
+5,6,snacks,algerian visitors,popular_among,1,blend
+1,7,food,people from other countries,popular_among,1,blend
+1,2,food,algeria,popular_sport,2,blend
+8,2,soccer,algeria,popular_sport,2,blend
+1,2,food,algeria,popular_in,4,blend
+1,9,food,coastal regions,popular_in,1,blend
+10,2,most famous sports-related movie,algeria,popular_among,1,blend
+11,2,table tennis,algeria,popular_sport,1,blend
+12,2,track and field,algeria,popular_sport,1,blend
+13,2,track and field events,algeria,popular_in,1,blend
+1,14,food,expatriates,popular_among,1,blend
+15,2,ramadan,algeria,popular_in,1,blend
+16,2,christmas song,algeria,popular_in,1,blend
+8,2,soccer,algeria,popular_among,1,blend
+17,2,sports teams,algeria,popular_among,1,blend

@@ -1,0 +1,8 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,nile valley,algeria,cultural_region_of,5,arabculture
+1,2,nile valley,algeria,cultural_region,4,arabculture
+1,3,nile valley,egyptian customs,cultural_region_of,1,arabculture
+1,4,nile valley,egyptian sweets tradition,cultural_region_of,1,arabculture
+1,5,nile valley,egyptian traditions,cultural_region_of,1,arabculture
+1,6,nile valley,egyptian work culture,cultural_region_of,1,arabculture
+8,9,thengal kachari dance,assam,cultural_expression_of,2,diwali

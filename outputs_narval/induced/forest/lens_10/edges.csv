@@ -1,0 +1,44 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,food,constantine,originates_from,1,arabculture
+3,4,algeria,north africa,originates_from,1,arabculture
+1,5,food,nile valley,originates_from,1,arabculture
+5,1,nile valley,food,originates,1,arabculture
+1,6,food,pochampally,originates_from,1,diwali
+1,7,food,mangalagiri town,originates_from,1,diwali
+1,8,food,venkatagiri town,originates_from,1,diwali
+1,9,food,uppada village,originates_from,1,diwali
+10,11,kashida embroidery,muzaffarpur,originates_from,1,diwali
+1,12,food,portuguese colonial period,originated_from,1,diwali
+1,13,food,himachal pradesh,originates_from,1,diwali
+1,14,food,kinnaur district,originates_from,1,diwali
+1,15,food,kharsawan-kuchai region,originates_from,1,diwali
+1,16,food,bhagalpur region,originates_from,1,diwali
+1,17,food,mysore,originates_from,1,diwali
+10,18,kashida embroidery,karnataka,originates_from,1,diwali
+1,19,food,"guledgudda, bagalkot district",originates_from,1,diwali
+1,20,food,bhairavgarh,originates_from,1,diwali
+1,21,food,"paithan, aurangabad",originates_from,1,diwali
+1,22,food,aurangabad,originates_from,1,diwali
+1,23,food,kolhapur,originates_from,1,diwali
+1,24,food,berhampur,originates_from,1,diwali
+1,25,food,sanganer,originates_from,1,diwali
+26,27,ajrakh,sindh region,originates_from,1,diwali
+28,1,madurai,food,originates,1,diwali
+1,29,food,chettinad region,originates_from,1,diwali
+1,30,food,"arani, tamil nadu",originates_from,1,diwali
+1,31,food,bhavani,originates_from,1,diwali
+32,33,cotton sarees,coimbatore region,originates_from,1,diwali
+32,1,cotton sarees,food,originates_from,1,diwali
+34,1,jamdani,food,originates_from,1,diwali
+35,36,tanchoi,varanasi,originates_from,1,diwali
+34,37,jamdani,west bengal,originates_from,1,diwali
+1,38,food,mughal-era delhi,originated_in,1,diwali
+1,39,food,sambha region,originated_from,1,diwali
+1,40,food,andhra ikshvakus' courts,originates_from,1,diwali
+1,41,food,assam,originates_from,2,diwali
+1,42,food,islamic tradition,originated_from,1,diwali
+43,41,sonowal kachari dance,assam,originates_from,1,diwali
+44,45,chham dance,tribal martial tradition,originates_from,1,diwali
+46,47,term 'chickpeas',hispanic language,originated_from,1,culturebank
+48,49,soccer,british colonizers,originated_from,1,culturebank
+50,3,couscous,algeria,originated_from,1,blend

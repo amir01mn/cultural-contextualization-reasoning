@@ -1,0 +1,22 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,food,traditional savings method,represents,1,arabculture
+1,3,food,confluence of ganga and yamuna,represents,1,diwali
+4,5,hmaram,rich heritage of hmar community,represents,1,diwali
+1,6,food,textile heritage,represents,1,diwali
+1,7,food,textile diversity of tamil nadu,represents,1,diwali
+1,8,food,algeria,represents,1,diwali
+9,8,basketball player,algeria,represent,1,blend
+10,1,traditional symbols,food,represent,1,blend
+11,8,swimmer,algeria,represents,1,blend
+12,8,popular female sportperson,algeria,represents,1,blend
+13,8,boxer,algeria,represent,1,blend
+14,15,gifts,university students,represent,1,blend
+17,1,chart,food,represent,1,candle
+18,19,physical exam,customer,represents,1,candle
+20,1,photographer,food,represent,1,candle
+21,22,priest,beauty,represent,1,candle
+21,23,priest,splendor,represent,1,candle
+21,24,priest,jesus,represents,1,candle
+1,25,food,detailed plan,represents,1,candle
+26,1,attorney,food,represents,1,candle
+27,28,stethoscope,medical profession,represents,1,candle

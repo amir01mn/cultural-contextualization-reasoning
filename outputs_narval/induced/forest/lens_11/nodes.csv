@@ -1,0 +1,62 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algeria,1,algeria,unknown,arabculture,13
+2,north african culinary traditions,3,algeria,unknown,arabculture,1
+3,ramadan,1,algeria,unknown,arabculture,1
+4,food,1,algeria,unknown,arabculture,43
+5,light meal,5,algeria,unknown,arabculture,1
+6,cultural preference,3,algeria,unknown,arabculture,1
+7,cultural practice,1,algeria,unknown,arabculture,5
+8,community involvement in marriage,3,algeria,unknown,arabculture,1
+9,clothing,3,algeria,unknown,arabculture,2
+10,algerian heritage,3,algeria,unknown,arabculture,1
+11,religious traditions,3,algeria,unknown,arabculture,1
+12,tv watching,3,algeria,unknown,arabculture,1
+13,leisure activity,3,algeria,unknown,arabculture,1
+14,cultural life,3,algeria,unknown,arabculture,1
+15,local_culture,3,algeria,unknown,arabculture,1
+16,dance,2,algeria,unknown,arabculture,1
+17,nile valley,1,egypt,unknown,arabculture,1
+18,leisure activities,1,egypt,unknown,arabculture,1
+19,nile valley culture,3,egypt,unknown,arabculture,1
+20,disciplined aesthetic,3,arunachal pradesh,unknown,diwali,1
+21,handloom textiles,2,goa,unknown,diwali,1
+22,coastal heritage,3,goa,unknown,diwali,1
+23,unique embroidery styles of himachal pradesh,3,himachal pradesh,unknown,diwali,1
+24,utilitarianism,3,jharkhand,unknown,diwali,1
+25,cultural tapestry of madhya pradesh,3,madhya pradesh,unknown,diwali,1
+26,cultural heritage of maharashtra,3,maharashtra,unknown,diwali,1
+27,traditional dishes,1,meghalaya,unknown,diwali,2
+28,rich textile heritage,3,rajasthan,unknown,diwali,1
+29,craftsmanship,5,tamil nadu,unknown,diwali,2
+30,traditional weaving techniques,3,tamil nadu,unknown,diwali,1
+31,gongadi blankets,3,telangana,unknown,diwali,1
+32,pastoral lifestyle,3,telangana,unknown,diwali,1
+33,weaving tradition,3,uttarakhand,unknown,diwali,1
+34,eco-consciousness,3,uttarakhand,unknown,diwali,1
+35,cotton weaving,3,uttarakhand,unknown,diwali,1
+36,dexterity and hard work,3,uttarakhand,unknown,diwali,1
+37,jamdani,2,uttar pradesh,unknown,diwali,1
+38,regional traditions,3,uttar pradesh,unknown,diwali,1
+39,textile traditions,3,jammu and kashmir,unknown,diwali,1
+40,folk dance,2,assam,unknown,diwali,1
+41,customer,1,assam,unknown,diwali,1
+42,local life,3,assam,unknown,diwali,1
+43,folk theatre tradition,3,chhattisgarh,unknown,diwali,1
+44,snacks,2,dz,unknown,blend,1
+45,cultural diversity,3,dz,unknown,blend,1
+46,work,1,dz,unknown,blend,2
+47,"cultural values of hospitality, community",3,dz,unknown,blend,1
+48,funeral customs,3,dz,unknown,blend,1
+49,berber culinary tradition,3,dz,unknown,blend,1
+50,hospitality and social gatherings,3,dz,unknown,blend,1
+51,arab culture,3,dz,unknown,blend,1
+52,close family ties,3,dz,unknown,blend,1
+53,tv show,3,dz,unknown,blend,1
+54,social events,3,dz,unknown,blend,1
+55,expectations,3,teacher,unknown,candle,1
+56,essays,4,tailor,unknown,candle,1
+57,tailor-made quality,3,tailor,unknown,candle,1
+58,tailor-made,4,tailor,unknown,candle,1
+59,campaign,3,politician,unknown,candle,1
+60,intended governance,3,politician,unknown,candle,1

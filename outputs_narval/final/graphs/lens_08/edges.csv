@@ -1,0 +1,37 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,gale,elements of nature,symbolizes,1,diwali
+1,3,gale,tribal folklore,symbolizes,1,diwali
+4,5,sherdukpen shawl,heritage,symbolizes,1,diwali
+6,7,muga silk,assamese pride,symbolizes,1,diwali
+8,9,gamosa,assamese culture,symbolizes,1,diwali
+10,11,intricate designs,religious art and textile craftsmanship,symbolizes,1,diwali
+12,13,kullu cap,rich cultural identity,symbolizes,1,diwali
+14,15,triangular motifs,teeth of the pakhangba serpent,symbolizes,1,diwali
+16,17,tawlhlohpuan,strength,symbolizes,1,diwali
+18,20,cowrie shells,accomplishments and status,symbolizes,1,diwali
+21,22,pichhora,cultural and religious significance,symbolizes,1,diwali
+23,24,danda rasaka,martial traditions,symbolizes,1,diwali
+23,25,danda rasaka,stick dance,symbolizes,1,diwali
+26,27,lion and peacock dance,harmony,symbolizes,1,diwali
+26,28,lion and peacock dance,prosperity,symbolizes,1,diwali
+29,30,wancho dance,unity,symbolizes,1,diwali
+31,30,manau dance,unity,symbolizes,2,diwali
+31,33,manau dance,cultural identity,symbolizes,2,diwali
+34,35,banjar kekan,community bonding,symbolizes,1,diwali
+36,28,karma,prosperity,symbolizes,1,diwali
+37,38,jumari,marital happiness,symbolizes,1,diwali
+40,39,karma dance,fertility,symbolizes,1,diwali
+41,42,danda nacha,devotion,symbolizes,1,diwali
+43,44,goff,discipline,symbolizes,1,diwali
+45,46,cigarettes,irony,symbolizes,1,culturebank
+47,48,ice tea,british culture,symbolizes,1,culturebank
+49,51,engagement ring,ownership,symbolizes,1,culturebank
+50,52,wedding ring,commitment,symbolizes,1,culturebank
+53,54,ring,belonging,symbolizes,1,culturebank
+53,55,ring,taken status,symbolizes,1,culturebank
+56,57,gucci belts,wealth and status,symbolizes,1,culturebank
+59,58,decorations,festival,symbolizes,1,blend
+60,61,algerian food,new year,symbolizes,1,blend
+62,63,symbol of condolence,funeral,symbolizes,1,blend
+65,64,symbol,new year's eve,symbolizes,1,blend
+67,66,white,priest,symbolizes,1,candle

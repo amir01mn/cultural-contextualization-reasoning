@@ -1,0 +1,19 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,15
+2,algeria,1,algeria,unknown,arabculture,20
+3,rural areas in chhattisgarh,3,chhattisgarh,unknown,diwali,1
+4,rural fairs,3,chhattisgarh,unknown,diwali,1
+5,snacks,2,dz,unknown,blend,1
+6,algerian visitors,3,dz,unknown,blend,1
+7,people from other countries,3,dz,unknown,blend,1
+8,soccer,3,dz,unknown,blend,3
+9,coastal regions,3,dz,unknown,blend,1
+10,most famous sports-related movie,3,dz,unknown,blend,1
+11,table tennis,3,dz,unknown,blend,1
+12,track and field,3,dz,unknown,blend,1
+13,track and field events,4,dz,unknown,blend,1
+14,expatriates,3,dz,unknown,blend,1
+15,ramadan,1,dz,unknown,blend,1
+16,christmas song,3,dz,unknown,blend,1
+17,sports teams,3,dz,unknown,blend,1

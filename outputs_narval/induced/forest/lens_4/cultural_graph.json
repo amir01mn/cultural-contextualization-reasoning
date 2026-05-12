@@ -1,0 +1,1514 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 21
+    },
+    {
+      "id": 2,
+      "label": "special local dish",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "algerian weddings",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "nighttime festivities",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "various customs and traditions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 63
+    },
+    {
+      "id": 7,
+      "label": "algiers",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "traditional meals",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "abundant food",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "festivities",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "folk dancing",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "festive events",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "intricate patterns",
+      "level": 1,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 12
+    },
+    {
+      "id": 16,
+      "label": "intricate designs",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 5
+    },
+    {
+      "id": 17,
+      "label": "jamdani work",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "simple straight lines and stripes",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "straight lines and geometric patterns",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "distinctive patterns",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 21,
+      "label": "handloom textiles",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 22,
+      "label": "checks in red or green",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "intricate floral patterns",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "geometric patterns",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "wider patterns and decorations",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "simple yet elegant patterns",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "minimalist design",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "white or cream base with golden border",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "traditional and contemporary designs",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "intricate zari work",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "satin finish with bright stripes or patterns",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "plain weaving",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "distinctive red borders",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "intricate motifs",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "symmetrical designs",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "elaborate_designs",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "hmaram",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "tribal patterns and colors",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "'phoda kumbha' design",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "jamdani",
+      "level": 2,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 41,
+      "label": "floral motifs",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "distinctive dotted patterns",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "bold checks, stripes, contrasting hues",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "rich colors, intricate designs",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "cotton sarees",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 46,
+      "label": "simple designs",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "self-designed jacquard pattern",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "intricate weaving techniques",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "geometric and floral motifs",
+      "level": 3,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "traditional kashmiri motifs",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "floral and geometric designs",
+      "level": 4,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "vibrant music",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "shopping malls",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "common snacks",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "popular indoor activity for families",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "football",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "handball",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "basketball",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "giving flowers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "university students",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "cultural events",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "national television",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "popular sports in algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "gender-specific sports in education",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "middle-aged sports enthusiasts",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "couscous",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "use of legumes",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "meat consumption",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "interest in extreme sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "various events",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "family dinners",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "local fruits",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "retired men's leisure activities",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "quick meal options",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "dz cuisine",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "various cheeses",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "food court",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "various algerian cuisines",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "collective prayer spaces",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "parks for seniors",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "professional sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "fireworks display",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "weekend family meals",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "judge",
+      "level": 2,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "tailor-made",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "dining room",
+      "level": 3,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "hanging chandeliers",
+      "level": 3,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "special local dish",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "algerian weddings",
+      "target_label": "nighttime festivities",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "various customs and traditions",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "algiers",
+      "target_label": "traditional dishes",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "nile valley",
+      "target_label": "traditional meals",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "abundant food",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "festivities",
+      "target_label": "folk dancing",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "festive events",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "intricate patterns",
+      "relation_type": "features",
+      "weight": 6,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "intricate designs",
+      "relation_type": "features",
+      "weight": 4,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "jamdani work",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 18,
+      "source_label": "food",
+      "target_label": "simple straight lines and stripes",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 19,
+      "source_label": "food",
+      "target_label": "straight lines and geometric patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 20,
+      "source_label": "food",
+      "target_label": "distinctive patterns",
+      "relation_type": "features",
+      "weight": 3,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 6,
+      "source_label": "handloom textiles",
+      "target_label": "food",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "checks in red or green",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 23,
+      "source_label": "food",
+      "target_label": "intricate floral patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 24,
+      "source_label": "food",
+      "target_label": "geometric patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "intricate patterns",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "wider patterns and decorations",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 26,
+      "source_label": "food",
+      "target_label": "simple yet elegant patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 27,
+      "source_label": "food",
+      "target_label": "minimalist design",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 28,
+      "source_label": "food",
+      "target_label": "white or cream base with golden border",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 29,
+      "source_label": "food",
+      "target_label": "traditional and contemporary designs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 30,
+      "source_label": "food",
+      "target_label": "intricate zari work",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 31,
+      "source_label": "food",
+      "target_label": "satin finish with bright stripes or patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 32,
+      "source_label": "food",
+      "target_label": "plain weaving",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 33,
+      "source_label": "food",
+      "target_label": "distinctive red borders",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 34,
+      "source_label": "food",
+      "target_label": "intricate motifs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 35,
+      "source_label": "food",
+      "target_label": "symmetrical designs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 36,
+      "source_label": "food",
+      "target_label": "elaborate_designs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 37,
+      "target": 20,
+      "source_label": "hmaram",
+      "target_label": "distinctive patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 38,
+      "source_label": "handloom textiles",
+      "target_label": "tribal patterns and colors",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 39,
+      "source_label": "food",
+      "target_label": "'phoda kumbha' design",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 40,
+      "target": 15,
+      "source_label": "jamdani",
+      "target_label": "intricate patterns",
+      "relation_type": "features",
+      "weight": 3,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 15,
+      "target": 41,
+      "source_label": "intricate patterns",
+      "target_label": "floral motifs",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 42,
+      "source_label": "food",
+      "target_label": "distinctive dotted patterns",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 43,
+      "source_label": "food",
+      "target_label": "bold checks, stripes, contrasting hues",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 44,
+      "source_label": "food",
+      "target_label": "rich colors, intricate designs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "cotton sarees",
+      "target_label": "simple designs",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 45,
+      "target": 15,
+      "source_label": "cotton sarees",
+      "target_label": "intricate patterns",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 45,
+      "target": 47,
+      "source_label": "cotton sarees",
+      "target_label": "self-designed jacquard pattern",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 48,
+      "source_label": "food",
+      "target_label": "intricate weaving techniques",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 49,
+      "source_label": "food",
+      "target_label": "geometric and floral motifs",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 50,
+      "source_label": "food",
+      "target_label": "traditional kashmiri motifs",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 51,
+      "source_label": "food",
+      "target_label": "floral and geometric designs",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "intricate designs",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 52,
+      "source_label": "food",
+      "target_label": "vibrant music",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "source_label": "shopping malls",
+      "target_label": "common snacks",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 55,
+      "source_label": "algeria",
+      "target_label": "popular indoor activity for families",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 56,
+      "source_label": "algeria",
+      "target_label": "football",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 57,
+      "source_label": "algeria",
+      "target_label": "handball",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 58,
+      "source_label": "algeria",
+      "target_label": "basketball",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "features",
+      "weight": 3,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 59,
+      "source_label": "food",
+      "target_label": "giving flowers",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "source_label": "university students",
+      "target_label": "cultural events",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "source_label": "national television",
+      "target_label": "popular sports in algeria",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 64,
+      "source_label": "algeria",
+      "target_label": "gender-specific sports in education",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 65,
+      "target": 6,
+      "source_label": "nurse",
+      "target_label": "food",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 66,
+      "source_label": "algeria",
+      "target_label": "middle-aged sports enthusiasts",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 67,
+      "source_label": "algeria",
+      "target_label": "couscous",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 68,
+      "source_label": "algeria",
+      "target_label": "use of legumes",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 69,
+      "source_label": "food",
+      "target_label": "meat consumption",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 70,
+      "source_label": "algeria",
+      "target_label": "interest in extreme sports",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 71,
+      "source_label": "food",
+      "target_label": "various events",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 72,
+      "target": 73,
+      "source_label": "family dinners",
+      "target_label": "local fruits",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 74,
+      "source_label": "algeria",
+      "target_label": "retired men's leisure activities",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 75,
+      "source_label": "algeria",
+      "target_label": "quick meal options",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 76,
+      "target": 77,
+      "source_label": "dz cuisine",
+      "target_label": "various cheeses",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "source_label": "food court",
+      "target_label": "various algerian cuisines",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 80,
+      "source_label": "algeria",
+      "target_label": "collective prayer spaces",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 81,
+      "source_label": "algeria",
+      "target_label": "parks for seniors",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 82,
+      "source_label": "algeria",
+      "target_label": "professional sports",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 83,
+      "source_label": "food",
+      "target_label": "fireworks display",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 84,
+      "target": 6,
+      "source_label": "weekend family meals",
+      "target_label": "food",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 85,
+      "source_label": "food",
+      "target_label": "judge",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 6,
+      "target": 86,
+      "source_label": "food",
+      "target_label": "tailor-made",
+      "relation_type": "feature",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 87,
+      "target": 88,
+      "source_label": "dining room",
+      "target_label": "hanging chandeliers",
+      "relation_type": "features",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

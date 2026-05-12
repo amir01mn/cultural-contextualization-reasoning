@@ -1,0 +1,230 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,chickpea stew,food,served_for,1,arabculture
+3,4,ramadan,north africa,celebrated_in,1,arabculture
+2,5,food,algeria,observed_by,2,arabculture
+5,6,algeria,local delicacy,serves,1,arabculture
+3,7,ramadan,eid al-adha,celebrates,1,arabculture
+2,4,food,north africa,celebrated_in,1,arabculture
+8,9,ritual,at home,occur_in,1,arabculture
+10,11,nile valley,dignified ceremony,performs,1,arabculture
+12,4,cultural practice,north africa,performed_in,1,arabculture
+5,13,algeria,the night of tadbir,occurs_on,1,arabculture
+5,14,algeria,customer,observe,1,arabculture
+12,4,cultural practice,north africa,occurs_in,1,arabculture
+2,15,food,cake with additions,serves,1,arabculture
+2,16,food,some foods,served_with,1,arabculture
+7,5,eid al-adha,algeria,celebrated_by,6,arabculture
+5,17,algeria,in eid al-fitr,observe_traditions,1,arabculture
+5,7,algeria,eid al-adha,observe_traditions,1,arabculture
+7,4,eid al-adha,north africa,celebrated_in,1,arabculture
+5,18,algeria,mawlid al-nabi,celebrate,1,arabculture
+18,5,mawlid al-nabi,algeria,observed_by,1,arabculture
+5,2,algeria,food,celebrate,7,arabculture
+2,4,food,north africa,occur_in,1,arabculture
+5,7,algeria,eid al-adha,celebrate,1,arabculture
+14,19,customer,first muharram,occur_on,1,arabculture
+2,20,food,january 1st,occurs_on,1,arabculture
+14,2,customer,food,occur_during,1,arabculture
+2,21,food,annually,occur,1,arabculture
+2,22,food,annually on may 8,occur,1,arabculture
+23,5,action,algeria,performed_by,1,arabculture
+5,24,algeria,leisure activities,preserves,1,arabculture
+25,26,music instruments,festivals and events,used_during,1,arabculture
+27,28,algorithms musical instruments,some celebrations,used_during,1,arabculture
+5,29,algeria,musical instruments,celebrate_with,1,arabculture
+5,30,algeria,dance,perform,1,arabculture
+8,5,ritual,algeria,occur,1,arabculture
+30,4,dance,north africa,performed_in,1,arabculture
+31,2,cultivation,food,occurs,1,arabculture
+32,33,fava beans,breakfast,served_at,1,arabculture
+34,3,roasted chicken,ramadan,served_for,1,arabculture
+2,10,food,nile valley,served_in,1,arabculture
+35,2,qatayef,food,served_with,1,arabculture
+36,37,potato chips,playtime,served_during,1,arabculture
+2,38,food,solo dance,perform,1,arabculture
+30,39,dance,twice initially,occur,1,arabculture
+5,40,algeria,prayer after dawn,perform,1,arabculture
+41,10,university students,nile valley,observed_in,1,arabculture
+41,10,university students,nile valley,celebrated_in,1,arabculture
+42,5,sham al-nisim,algeria,celebrated_by,3,arabculture
+5,43,algeria,fisk and rinega on sham el-nessim,celebrate_with,1,arabculture
+5,2,algeria,food,celebrate_with,5,arabculture
+8,10,ritual,nile valley,performed_in,1,arabculture
+42,10,sham al-nisim,nile valley,occur_in,1,arabculture
+5,3,algeria,ramadan,celebrate,1,arabculture
+5,44,algeria,tahtheeb dance,perform,1,arabculture
+2,45,food,mawalid and gatherings,occur_at,1,arabculture
+46,47,cotton harvest,autumn,occurs_during,1,arabculture
+48,2,young siblings,food,perform,1,arabculture
+32,2,fava beans,food,served_for,1,arabculture
+50,2,samaah al-raqiq,food,performs,1,arabculture
+2,51,food,iftar dish,serves_as,1,arabculture
+2,52,food,suhour table,served_on,1,arabculture
+2,53,food,ramadan dawn fasting,eaten_during,1,arabculture
+7,10,eid al-adha,nile valley,celebrated_in,2,arabculture
+2,54,food,religion,observes,1,arabculture
+55,2,eid al-adha sacrifice,food,performed_by,1,arabculture
+2,56,food,sunday morning,celebrated_on,1,arabculture
+7,10,eid al-adha,nile valley,celebrated_by,1,arabculture
+2,10,food,nile valley,celebrated_by,2,arabculture
+42,10,sham al-nisim,nile valley,celebrated_by,1,arabculture
+42,10,sham al-nisim,nile valley,celebrated_in,1,arabculture
+2,10,food,nile valley,observed_in,1,arabculture
+2,57,food,getting ready,performs,1,arabculture
+2,58,food,household,performs,1,arabculture
+59,10,food gathering,nile valley,occurs_in,1,arabculture
+3,60,ramadan,nile valley region,observed_in,1,arabculture
+2,61,food,fabric for garments and accessories,serves_as,1,diwali
+2,5,food,algeria,performed_during,10,diwali
+2,62,food,religious festivals,performed_during,1,diwali
+2,63,food,bonalu festival,performed_during,1,diwali
+2,64,food,monpa community,performed_by,1,diwali
+65,2,apatani tribe,food,performs,1,diwali
+2,41,food,university students,celebrates,1,diwali
+2,66,food,festivals and gatherings,performed_during,1,diwali
+2,67,food,nocte people,performed_by,1,diwali
+2,5,food,algeria,celebrates,3,diwali
+2,41,food,university students,performed_during,4,diwali
+68,2,wancho people,food,perform,1,diwali
+41,5,university students,algeria,celebrates,1,diwali
+2,69,food,bihu dance,perform,1,diwali
+69,70,bihu dance,assamese new year,celebrate,1,diwali
+69,71,bihu dance,rongali bihu festival,occur_during,1,diwali
+5,2,algeria,food,perform,3,diwali
+2,72,food,bwisagu festival,celebrated_during,1,diwali
+2,73,food,sowing festival,celebrated_during,1,diwali
+2,5,food,algeria,performed_by,2,diwali
+74,75,rabha dance,community celebrations,during,1,diwali
+76,2,garo tribe,food,performs,1,diwali
+2,77,food,post-harvest season,celebrates,1,diwali
+78,2,karbi people,food,perform,1,diwali
+79,2,assam,food,performs,2,diwali
+80,10,thengal kachari dance,nile valley,during,2,diwali
+2,10,food,nile valley,celebrates,1,diwali
+82,41,karbi dance,university students,during,1,diwali
+82,2,karbi dance,food,performs,1,diwali
+2,8,food,ritual,during,1,diwali
+2,83,food,springtime,celebrates,1,diwali
+2,84,food,various communities,performed_by,1,diwali
+2,85,food,arrival of spring,occurs_during,1,diwali
+86,2,folk dance,food,performed_by,1,diwali
+10,69,nile valley,bihu dance,performs,1,diwali
+69,87,bihu dance,harvest season,celebrates,1,diwali
+88,2,assamese villagers,food,perform,1,diwali
+2,89,food,religious rituals,performed_during,1,diwali
+2,90,food,couples,performed_by,1,diwali
+2,91,food,holi celebrations,performed_during,1,diwali
+2,92,food,people in bihar,celebrated_by,1,diwali
+2,93,food,boatmen community,performed_by,1,diwali
+2,5,food,algeria,celebrated_during,1,diwali
+2,94,food,rituals and festivals,performed_during,1,diwali
+2,3,food,ramadan,celebrates_with,1,diwali
+3,2,ramadan,food,performed_during,1,diwali
+2,5,food,algeria,performed_at,1,diwali
+10,2,nile valley,food,performs_during,1,diwali
+2,10,food,nile valley,performed_by,1,diwali
+2,95,food,goura marriage celebrations,performed_during,1,diwali
+96,2,abhujmaria tribe,food,performs,1,diwali
+97,2,muria tribe,food,performs,1,diwali
+2,10,food,nile valley,performed_during,1,diwali
+2,98,food,teacher,performed_with,1,diwali
+2,30,food,dance,performs,1,diwali
+30,2,dance,food,celebrated_during,1,diwali
+2,99,food,folk traditions,preserves,1,diwali
+2,100,food,nature's beauty,celebrates,1,diwali
+2,101,food,phagun month,performed_during,1,diwali
+2,102,food,navratri,celebrated_during,1,diwali
+2,103,food,rain,celebrates,1,diwali
+104,2,vasdeva community,food,performs,1,diwali
+2,5,food,algeria,during,1,diwali
+2,41,food,university students,celebrates_with,1,diwali
+105,106,store closures,sundays,occur_on,1,culturebank
+107,2,united states,food,celebrates,1,culturebank
+108,109,leftovers,meal ingredients for multiple days,serve_as,1,culturebank
+2,110,food,parties,performed_in,1,culturebank
+2,111,food,nurse,performed_in,1,culturebank
+2,112,food,various public and social settings,occur_in,1,culturebank
+2,113,food,beer in algeria,served_with,1,blend
+5,114,algeria,new year's day,celebrate,1,blend
+2,5,food,algeria,observed_in,1,blend
+5,2,algeria,food,celebrates,5,blend
+115,116,catayef,sugar and lemon,served_with,1,blend
+5,2,algeria,food,celebrate_on,3,blend
+117,2,company dinners,food,occur_on,1,blend
+41,5,university students,algeria,occur_in,1,blend
+24,5,leisure activities,algeria,occur_in,1,blend
+5,118,algeria,independence day activities,celebrate_with,1,blend
+2,5,food,algeria,performed_in,1,blend
+119,5,lunar new year,algeria,celebrated_in,1,blend
+120,121,couscous,hangover cure food,serves_as,1,blend
+5,122,algeria,(lunar) new year holiday,observe,1,blend
+2,5,food,algeria,celebrated_by,1,blend
+2,123,food,meal option,serves_as,1,blend
+124,125,algerian food court,common dining area,serves_as,1,blend
+5,126,algeria,famous families,celebrate,1,blend
+2,5,food,algeria,celebrated_in,2,blend
+3,127,ramadan,algerian funerals,served_during,1,blend
+5,128,algeria,restaurants overseas,served_in,1,blend
+129,130,prayer,communal settings,occurs_in,1,blend
+5,2,algeria,food,observes,3,blend
+54,5,religion,algeria,observed_by,1,blend
+5,131,algeria,birthdays,celebrates,1,blend
+2,5,food,algeria,served_at,1,blend
+2,132,food,couples and singles,observed_by,1,blend
+133,134,fireworks display,certain foods,celebrated_on,1,blend
+2,135,food,longest night of the year celebration,eaten_during,1,blend
+2,111,food,nurse,occur_at,1,blend
+136,2,classroom teacher,food,performs,1,candle
+5,98,algeria,teacher,performs_for,1,candle
+5,137,algeria,other group,performs_for,1,candle
+98,138,teacher,escorting bus,performs_ritual,1,candle
+139,140,note,communication tool,serves_as,1,candle
+2,141,food,pitching,performs,1,candle
+142,111,pre-operative care,nurse,performed_by,1,candle
+143,9,visit,at home,occurs_at,1,candle
+111,144,nurse,before shift,performs_ritual,1,candle
+111,145,nurse,starting iv,performs,1,candle
+111,2,nurse,food,performs_ritual,1,candle
+2,146,food,responsibility,perform,1,candle
+111,147,nurse,greetings,perform_ritual,1,candle
+111,148,nurse,routine patient care,performs,1,candle
+2,111,food,nurse,performed_by,1,candle
+111,149,nurse,checking patient's health,performs_ritual,1,candle
+111,150,nurse,setting gadgets,performs_ritual,1,candle
+111,8,nurse,ritual,performs,1,candle
+111,8,nurse,ritual,perform,1,candle
+111,2,nurse,food,celebrate,1,candle
+111,151,nurse,routine checks,performs,1,candle
+152,153,tailor,marking garment,performs_ritual,1,candle
+5,2,algeria,food,performs,1,candle
+5,154,algeria,cleaning,performs,1,candle
+5,155,algeria,filling,performs,1,candle
+5,156,algeria,dry socket irrigation,performs,1,candle
+5,157,algeria,regular checkup,performs_during,1,candle
+158,159,politician,redistricting,performs_ritual,1,candle
+160,2,artist,food,performs_ritual,1,candle
+8,160,ritual,artist,performed_by,1,candle
+3,160,ramadan,artist,performed_by,1,candle
+160,2,artist,food,perform,1,candle
+161,162,dog walker,regular walks,performs,1,candle
+163,8,priest,ritual,performs,2,candle
+163,2,priest,food,performs,1,candle
+2,164,food,legacy,serve_as,1,candle
+165,166,attorney,signing document,performs_ritual,1,candle
+165,167,attorney,getting pay off letter,performs_ritual,1,candle
+165,168,attorney,closing date,occurs_on,1,candle
+165,169,attorney,notarization,performs,1,candle
+2,170,food,payment guarantee,serves_as,1,candle
+165,2,attorney,food,performs,1,candle
+171,172,scientist,sacrifice pigs,perform_ritual,1,candle
+173,171,experiment,scientist,performed_by,1,candle
+171,174,scientist,putting numbers on board,performs_ritual,1,candle
+175,176,opening paragraph,hook,serves_as,1,candle
+2,177,food,dishes tableside,serves,1,candle
+2,178,food,tableside service,performs,1,candle
+2,179,food,tables,serves,1,candle
+2,180,food,serving in tandem,performs,1,candle
+181,182,doctor,patient care,perform,1,candle
+181,183,doctor,health assessment,performs_ritual,1,candle
+181,184,doctor,physical exam,performs,1,candle
+181,185,doctor,routine visit,performs_during,1,candle

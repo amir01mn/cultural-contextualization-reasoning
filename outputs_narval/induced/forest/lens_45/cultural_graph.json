@@ -1,0 +1,236 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 2,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 3,
+      "label": "special songs",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "through generations",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 5,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 6,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "family tradition",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "preparing hareesa",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "proverbs",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "tradition of eating jamees",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "game",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "special songs",
+      "target_label": "through generations",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 4,
+      "source_label": "customer",
+      "target_label": "through generations",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "source_label": "teacher",
+      "target_label": "food",
+      "relation_type": "pass_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "family tradition",
+      "target_label": "preparing hareesa",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "through generations",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "nile valley",
+      "target_label": "proverbs",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "tradition of eating jamees",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 5,
+      "source_label": "game",
+      "target_label": "customer",
+      "relation_type": "pass_down",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "customer",
+      "relation_type": "passes_down",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "food",
+      "target_label": "ritual",
+      "relation_type": "passed_down",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

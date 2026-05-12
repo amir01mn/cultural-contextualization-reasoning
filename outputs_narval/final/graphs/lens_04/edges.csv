@@ -1,0 +1,27 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,monpa woolen weave,traditional looms,practices,1,diwali
+3,4,tangaliya,weaving technique,practices,1,diwali
+5,7,kasuti embroidery,karnataka,practices,1,diwali
+8,9,lambani embroidery,lambani or banjara community,practices,1,diwali
+10,11,tribes,ryndia,traditionally woven,1,diwali
+12,13,dhurrie,pakistan,practiced in,1,diwali
+14,15,risa,traditional ceremonies,part of,1,diwali
+16,20,kantha embroidery,rural women in west bengal,practices,1,diwali
+21,22,traditional weaving,nicobarese people,practices,1,diwali
+23,24,chindu bhagavatham,mythological stories,practices,1,diwali
+25,26,jhumur dance,tea garden communities,practices,1,diwali
+27,28,garja dance,assam,practiced in,1,diwali
+29,30,kaksar dance,abhujmaria tribe,practiced in,1,diwali
+31,32,complex taxation practices,"federal, state, county, and establishment taxes",includes,1,culturebank
+33,34,thriftiness,general,practices,1,culturebank
+35,38,large meal portions,united states,practices,1,culturebank
+36,38,meal deals,united states,practices,1,culturebank
+37,38,efficient eating habits,united states,practices,1,culturebank
+39,41,health insurance,paying for insurance,practices,1,culturebank
+39,42,health insurance,having insurance through jobs,practices,1,culturebank
+39,40,health insurance,jobs,is linked to,1,culturebank
+43,44,team-building activities,companies,practiced in,1,blend
+45,47,nurse,profession,practices,1,candle
+46,47,doctor,profession,practices,1,candle
+49,50,artist,pencil,practices,1,candle
+51,52,architect,window well,practices,1,candle

@@ -1,0 +1,42 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,wedding celebration location,sharing joy,symbolizes,1,arabculture
+3,4,wedding clothes,bride's effort,symbolize,1,arabculture
+5,6,white dress,bride,symbolizes_purity,1,arabculture
+7,8,food,algeria,symbolizes,2,arabculture
+7,9,food,eid celebration,symbolizes,1,arabculture
+7,10,food,first food of iftar,symbolize,1,arabculture
+7,11,food,wealth and generosity,symbolizes,1,arabculture
+7,12,food,good fortune,symbolizes,1,arabculture
+13,14,special car,wealth and status,symbolizes,1,arabculture
+15,16,newabayas,"purity, new beginnings",symbolize,1,arabculture
+17,18,eggs,new life,symbol_of,1,arabculture
+19,20,preparation,hospitality,symbolizes,1,arabculture
+21,22,right hand,nile valley custom,symbolizes_purity,1,arabculture
+23,24,gifts,love and care,symbolize,1,arabculture
+25,26,fava beans,healthy start,symbolizes,1,arabculture
+27,7,suhoor,food,symbolizes,1,arabculture
+29,30,incense,sacredness and purification,symbolizes,1,arabculture
+7,31,food,spring celebration,symbol_of,1,arabculture
+32,33,snake and ladder,good vs evil,symbolizes,1,arabculture
+7,34,food,assamese culture,symbol_of,1,diwali
+7,35,food,cultural importance,symbolizes,1,diwali
+7,36,food,pakhangba serpent's teeth,symbolizes,1,diwali
+7,37,food,valor and prosperity,symbolizes,1,diwali
+7,38,food,harmony and prosperity,symbolizes,1,diwali
+7,39,food,unity and joy,symbolizes,1,diwali
+7,40,food,nile valley,symbolizes,2,diwali
+41,42,pen license,maturity,symbolize,1,culturebank
+7,43,food,generosity,symbolizes,1,culturebank
+44,45,first salary,beginning of career,symbolize,1,blend
+46,47,couscous,"hospitality, unity",symbolizes,1,blend
+7,48,food,"moderation, sustenance",symbolize,1,blend
+49,7,football,food,symbolizes,2,blend
+50,20,mint tea,hospitality,symbolizes,1,blend
+51,7,spicy dish,food,symbolizes,1,blend
+7,8,food,algeria,symbolize,1,blend
+7,52,food,national identity,symbolizes,1,blend
+54,55,wigs,judicial role,symbolize,1,candle
+60,61,challenge coin,routine task,symbolizes,1,candle
+7,63,food,wealth,symbolize,1,candle
+65,66,document,power transfer,symbolizes,1,candle
+7,68,food,customer,symbolizes,1,candle

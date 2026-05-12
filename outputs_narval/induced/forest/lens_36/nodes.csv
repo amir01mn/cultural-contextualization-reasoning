@@ -1,0 +1,13 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,5
+2,north africa,1,algeria,unknown,arabculture,4
+3,algeria,1,algeria,unknown,arabculture,11
+4,game,2,egypt,unknown,arabculture,1
+5,nile valley,1,egypt,unknown,arabculture,5
+6,amusement parks,5,dz,unknown,blend,1
+7,restaurant,3,dz,unknown,blend,1
+8,sporting stadium,3,dz,unknown,blend,1
+9,university students,1,dz,unknown,blend,1
+10,clubs and restaurants,3,banker,unknown,candle,1
+11,oral cavity,3,dentist,unknown,candle,1

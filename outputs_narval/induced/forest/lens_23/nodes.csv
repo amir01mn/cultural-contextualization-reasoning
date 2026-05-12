@@ -1,0 +1,31 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,15
+2,unique cultivation,3,algeria,unknown,arabculture,1
+3,agricultural products,3,algeria,unknown,arabculture,1
+4,algeria,1,algeria,unknown,arabculture,7
+5,traditional dishes,1,algeria,unknown,arabculture,1
+6,nile valley,1,egypt,unknown,arabculture,1
+7,this custom,3,egypt,unknown,arabculture,1
+8,weaving traditions,3,arunachal pradesh,unknown,diwali,1
+9,durability,4,himachal pradesh,unknown,diwali,2
+10,purity of silk,3,karnataka,unknown,diwali,1
+11,coimbatore,3,tamil nadu,unknown,diwali,1
+12,cotton sarees,2,tamil nadu,unknown,diwali,1
+13,durability and vibrant colors,3,tamil nadu,unknown,diwali,1
+14,tanchoi,4,uttar pradesh,unknown,diwali,1
+15,elaborate designs,3,uttar pradesh,unknown,diwali,1
+16,gabba textiles,3,jammu and kashmir,unknown,diwali,1
+17,intricate patterns,1,jammu and kashmir,unknown,diwali,1
+18,parrot dance,3,chhattisgarh,unknown,diwali,1
+19,chickpea stew,3,general,unknown,culturebank,1
+20,garbanzo beans,3,general,unknown,culturebank,1
+21,cultural cuisine,3,dz,unknown,blend,1
+22,famous rivalry,3,dz,unknown,blend,1
+23,algerian soccer fans,3,dz,unknown,blend,1
+24,most famous spicy dish,3,dz,unknown,blend,1
+25,spicy and flavorful dishes,3,dz,unknown,blend,1
+26,most famous family,3,dz,unknown,blend,1
+27,name not specified,3,dz,unknown,blend,1
+28,famous edible souvenirs,3,dz,unknown,blend,1
+29,family gatherings,3,dz,unknown,blend,1

@@ -1,0 +1,263 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 10
+    },
+    {
+      "id": 2,
+      "label": "most famous basketball player",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "popular soccer coach",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "famous male badminton players",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "most famous soccer players",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "in public",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "popular winter sports player",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "famous swimmers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "algerian society",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "female sportpersons",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "popular martial arts player",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "famous table tennis players",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "most famous boxer",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "famous track and field athletes",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "popular sportperson",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "most famous basketball player",
+      "relation_type": "admire",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "popular soccer coach",
+      "relation_type": "admire",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "famous male badminton players",
+      "relation_type": "admire",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "most famous soccer players",
+      "relation_type": "admire",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "in public",
+      "target_label": "popular winter sports player",
+      "relation_type": "admires",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "famous swimmers",
+      "relation_type": "admires",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "algerian society",
+      "target_label": "female sportpersons",
+      "relation_type": "admires",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "popular martial arts player",
+      "relation_type": "admire",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "source_label": "algeria",
+      "target_label": "famous table tennis players",
+      "relation_type": "admire",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "algeria",
+      "target_label": "most famous boxer",
+      "relation_type": "admire",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "famous track and field athletes",
+      "relation_type": "admire",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "algeria",
+      "target_label": "popular sportperson",
+      "relation_type": "admire",
+      "weight": 1,
+      "source_dataset": "blend"
+    }
+  ]
+}

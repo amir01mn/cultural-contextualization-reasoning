@@ -1,0 +1,22 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algeria,1,algeria,unknown,arabculture,4
+2,religious and national occasions,3,algeria,unknown,arabculture,1
+3,nile valley youth,3,egypt,unknown,arabculture,1
+4,academic attendance,3,egypt,unknown,arabculture,1
+5,healthcare sector,3,dz,unknown,blend,1
+6,government,4,dz,unknown,blend,1
+7,one sport,3,dz,unknown,blend,1
+8,customer,1,dz,unknown,blend,1
+9,economic stability through education,3,dz,unknown,blend,1
+10,work life balance,3,dz,unknown,blend,1
+11,moderate,3,dz,unknown,blend,1
+12,food,1,banker,unknown,candle,2
+13,client interests,3,banker,unknown,candle,1
+14,nurse,1,nurse,unknown,candle,1
+15,callers' safety,3,nurse,unknown,candle,1
+16,politician,1,politician,unknown,candle,1
+17,electoral victory,3,politician,unknown,candle,1
+18,professional direct mail copywriters,3,copywriter,unknown,candle,1
+19,profit,3,copywriter,unknown,candle,1
+20,photographer,1,photographer,unknown,candle,1

@@ -1,0 +1,57 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,54
+2,cleaning,3,algeria,unknown,arabculture,1
+3,hygiene,4,algeria,unknown,arabculture,1
+4,gifting,3,algeria,unknown,arabculture,1
+5,to family,3,algeria,unknown,arabculture,1
+6,ritual,1,algeria,unknown,arabculture,1
+7,respect for deceased,3,algeria,unknown,arabculture,1
+8,seeking help,3,algeria,unknown,arabculture,1
+9,brothers,2,algeria,unknown,arabculture,1
+10,algeria,1,algeria,unknown,arabculture,5
+11,in national independence,3,algeria,unknown,arabculture,1
+12,responsibility,4,algeria,unknown,arabculture,1
+13,greetings,3,algeria,unknown,arabculture,1
+14,salutation,3,algeria,unknown,arabculture,1
+15,dance,2,algeria,unknown,arabculture,1
+16,algerian brothers,3,algeria,unknown,arabculture,1
+17,companionship,3,algeria,unknown,arabculture,1
+18,hospitality value,3,egypt,unknown,arabculture,1
+19,book writing,3,egypt,unknown,arabculture,1
+20,cultural importance of marriage,3,egypt,unknown,arabculture,1
+21,romantic feelings,3,egypt,unknown,arabculture,1
+22,fear of death,3,egypt,unknown,arabculture,1
+23,meeting,3,egypt,unknown,arabculture,1
+24,friendship,3,egypt,unknown,arabculture,1
+25,complex designs,3,arunachal pradesh,unknown,diwali,1
+26,kashida embroidery,1,telangana,unknown,diwali,1
+27,cultural richness,3,telangana,unknown,diwali,1
+28,devotion,3,andhra pradesh,unknown,diwali,1
+29,chham dance,3,arunachal pradesh,unknown,diwali,1
+30,folk dance,2,assam,unknown,diwali,1
+31,emotional,5,bihar,unknown,diwali,1
+32,europeans,3,general,unknown,culturebank,1
+33,differences in shopping hours,3,general,unknown,culturebank,1
+34,love and gratitude,3,general,unknown,culturebank,1
+35,german consumers,4,general,unknown,culturebank,1
+36,long lines,3,general,unknown,culturebank,1
+37,joy and happiness,3,dz,unknown,blend,1
+38,football,2,dz,unknown,blend,1
+39,remote communication,3,dz,unknown,blend,1
+40,emotional bond,3,dz,unknown,blend,1
+41,traditional drinks,3,dz,unknown,blend,1
+42,camel,5,dz,unknown,blend,1
+43,love and romance,3,dz,unknown,blend,1
+44,teacher,1,dz,unknown,blend,1
+45,algerian viewers,3,dz,unknown,blend,1
+46,in national team,3,dz,unknown,blend,1
+47,creativity,3,teacher,unknown,candle,1
+48,photographer,1,photographer,unknown,candle,1
+49,professional skill,3,photographer,unknown,candle,1
+50,attorney,1,attorney,unknown,candle,1
+51,values of justice,3,attorney,unknown,candle,1
+52,acknowledgment,3,scientist,unknown,candle,1
+53,value of harm prevention,3,doctor,unknown,candle,1
+54,stethoscope,5,doctor,unknown,candle,1
+55,professional identity,3,doctor,unknown,candle,1

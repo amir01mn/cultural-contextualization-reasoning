@@ -1,0 +1,299 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 15
+    },
+    {
+      "id": 2,
+      "label": "compulsory school symbol",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "santhal tribe",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "malayali brides",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "meitei women",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "garo women",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "ao naga men",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "tribal women",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "traditional festival accessories",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "school teachers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 13,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 14,
+      "label": "priest",
+      "level": 2,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 15,
+      "label": "white clothing",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "brightest robes",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "tuxedo",
+      "level": 3,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "compulsory school symbol",
+      "relation_type": "wears",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "source_label": "santhal tribe",
+      "target_label": "food",
+      "relation_type": "wears",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "source_label": "malayali brides",
+      "target_label": "food",
+      "relation_type": "wear",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "meitei women",
+      "target_label": "food",
+      "relation_type": "wear",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "source_label": "garo women",
+      "target_label": "food",
+      "relation_type": "wear",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "source_label": "ao naga men",
+      "target_label": "food",
+      "relation_type": "wear",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "source_label": "tribal women",
+      "target_label": "food",
+      "relation_type": "wear",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "traditional festival accessories",
+      "relation_type": "wear",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "source_label": "school teachers",
+      "target_label": "food",
+      "relation_type": "wear",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 12,
+      "target": 1,
+      "source_label": "nurse",
+      "target_label": "food",
+      "relation_type": "wears",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 13,
+      "target": 1,
+      "source_label": "photographer",
+      "target_label": "food",
+      "relation_type": "swears_by",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "priest",
+      "target_label": "white clothing",
+      "relation_type": "wear",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "source_label": "priest",
+      "target_label": "brightest robes",
+      "relation_type": "wears",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "tuxedo",
+      "relation_type": "wears",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

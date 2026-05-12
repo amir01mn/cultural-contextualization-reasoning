@@ -1,0 +1,70 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algerian meal preparation,3,algeria,unknown,arabculture,1
+2,food,1,algeria,unknown,arabculture,25
+3,nile valley,1,algeria,unknown,arabculture,8
+4,mourning,3,algeria,unknown,arabculture,1
+5,algeria,1,algeria,unknown,arabculture,33
+6,preparing for bride's move,3,algeria,unknown,arabculture,1
+7,bride,2,algeria,unknown,arabculture,1
+8,special customs,3,algeria,unknown,arabculture,1
+9,ritual,1,algeria,unknown,arabculture,1
+10,ramadan fasting and breaking it,3,egypt,unknown,arabculture,1
+11,guests,2,egypt,unknown,arabculture,2
+12,eating at weddings,3,egypt,unknown,arabculture,1
+13,home cleaning for eid,3,egypt,unknown,arabculture,1
+14,religious celebrations,3,egypt,unknown,arabculture,1
+15,sharing meal,3,egypt,unknown,arabculture,1
+16,coffin carrying,3,egypt,unknown,arabculture,1
+17,distributing alms,3,egypt,unknown,arabculture,1
+18,family gatherings,3,egypt,unknown,arabculture,3
+19,music and dancing,3,egypt,unknown,arabculture,1
+20,shaima's family,3,egypt,unknown,arabculture,1
+21,preparation,2,egypt,unknown,arabculture,1
+22,lamb sacrifice during sham al-nisim,3,egypt,unknown,arabculture,1
+23,nighttime social event,3,egypt,unknown,arabculture,1
+24,traditional dishes,1,chhattisgarh,unknown,diwali,1
+25,school tradition,3,general,unknown,culturebank,1
+26,afterschool sports,3,dz,unknown,blend,1
+27,halloween activities,3,dz,unknown,blend,1
+28,algerian seniors,3,dz,unknown,blend,1
+29,boules,3,dz,unknown,blend,1
+30,local tournaments,3,dz,unknown,blend,1
+31,hand knitting,3,dz,unknown,blend,1
+32,university students,1,dz,unknown,blend,1
+33,gifts,1,dz,unknown,blend,2
+34,group study sessions,3,dz,unknown,blend,1
+35,limited sports,3,dz,unknown,blend,1
+36,age group,3,dz,unknown,blend,1
+37,leisure activities,1,dz,unknown,blend,2
+38,parades and festivals,3,dz,unknown,blend,1
+39,school sports activities,3,dz,unknown,blend,1
+40,foot volleyball matches,3,dz,unknown,blend,1
+41,girls,3,dz,unknown,blend,1
+42,physical education sports,3,dz,unknown,blend,1
+43,international football competitions,3,dz,unknown,blend,1
+44,various sports,3,dz,unknown,blend,1
+45,swimming competitions,3,dz,unknown,blend,1
+46,retired women,4,dz,unknown,blend,2
+47,paralympic games,3,dz,unknown,blend,1
+48,international sporting events,3,dz,unknown,blend,1
+49,camel,5,dz,unknown,blend,1
+50,education system,2,dz,unknown,blend,1
+51,water sports,3,dz,unknown,blend,1
+52,after school curricular,3,dz,unknown,blend,1
+53,national celebrations,3,dz,unknown,blend,1
+54,music activities,3,dz,unknown,blend,1
+55,popular tournaments,3,dz,unknown,blend,1
+56,athletes,4,dz,unknown,blend,1
+57,international competitions,3,dz,unknown,blend,1
+58,family activity on weekend,3,dz,unknown,blend,1
+59,homework sessions,3,dz,unknown,blend,1
+60,teacher,1,teacher,unknown,candle,2
+61,assessment meetings,3,teacher,unknown,candle,1
+62,university lab session,3,teacher,unknown,candle,1
+63,tailor,1,tailor,unknown,candle,1
+64,politician,1,politician,unknown,candle,1
+65,ritual of corruption,3,politician,unknown,candle,1
+66,photography session,3,photographer,unknown,candle,1
+67,attorney,1,attorney,unknown,candle,3
+68,hearings and trials,3,attorney,unknown,candle,1

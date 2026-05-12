@@ -1,0 +1,353 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 9
+    },
+    {
+      "id": 2,
+      "label": "light traditional pre-dawn meal",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 4,
+      "label": "community support",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "social norm",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "staying",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "healthy breakfast habits",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "leisure activities",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "spending",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "quick response",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "working through lunch",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "waiting in line",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "wearing a jacket",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "multigenerational households",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "modest dress",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "boys to play with vehicles",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "passing down traditions",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "student engagement",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "nurses' adherence",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "regular dental visits",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "light traditional pre-dawn meal",
+      "relation_type": "encourages",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "community support",
+      "relation_type": "encourages",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "social norm",
+      "target_label": "staying",
+      "relation_type": "encourages",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "algeria",
+      "target_label": "healthy breakfast habits",
+      "relation_type": "encourage",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "leisure activities",
+      "target_label": "spending",
+      "relation_type": "encourages",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "quick response",
+      "relation_type": "encourages",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "working through lunch",
+      "relation_type": "encourages",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "source_label": "food",
+      "target_label": "waiting in line",
+      "relation_type": "encourage",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "algeria",
+      "target_label": "wearing a jacket",
+      "relation_type": "encourage",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "multigenerational households",
+      "relation_type": "encourage",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "algeria",
+      "target_label": "modest dress",
+      "relation_type": "encourages",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "algeria",
+      "target_label": "boys to play with vehicles",
+      "relation_type": "encourage",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "algeria",
+      "target_label": "passing down traditions",
+      "relation_type": "encourage",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "teacher",
+      "target_label": "student engagement",
+      "relation_type": "encourages",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 20,
+      "source_label": "food",
+      "target_label": "nurses' adherence",
+      "relation_type": "encourage",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 21,
+      "source_label": "algeria",
+      "target_label": "regular dental visits",
+      "relation_type": "encourages",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

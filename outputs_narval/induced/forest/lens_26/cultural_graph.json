@@ -1,0 +1,443 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "quran",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "during mourning",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 14
+    },
+    {
+      "id": 4,
+      "label": "counsel",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "comfortable cotton backing",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "cotton sarees",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "subtle elegance",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "employee",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "sick leave and annual leave",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "efficient checkout experience",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "movie theaters",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "gongadi blankets",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "personal information",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "seclusion",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "nutritional comfort",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "work",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "income for students",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 21,
+      "label": "patient",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 22,
+      "label": "medical care",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "glove",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "mentoring sessions",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "tailor made support",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "perfect light",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "parish",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "priest",
+      "level": 2,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "doctor",
+      "level": 1,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "quran",
+      "target_label": "during mourning",
+      "relation_type": "provide_comfort",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "counsel",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "source_label": "food",
+      "target_label": "comfortable cotton backing",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "cotton sarees",
+      "target_label": "subtle elegance",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "employee",
+      "target_label": "sick leave and annual leave",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "source_label": "food",
+      "target_label": "efficient checkout experience",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "movie theaters",
+      "target_label": "gongadi blankets",
+      "relation_type": "provide_comfort",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "customer",
+      "target_label": "personal information",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "seclusion",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "nutritional comfort",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "work",
+      "target_label": "income for students",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "nurse",
+      "target_label": "patient",
+      "relation_type": "provides_care",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 20,
+      "target": 22,
+      "source_label": "nurse",
+      "target_label": "medical care",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 23,
+      "target": 3,
+      "source_label": "glove",
+      "target_label": "food",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "mentoring sessions",
+      "target_label": "tailor made support",
+      "relation_type": "provide",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 26,
+      "source_label": "food",
+      "target_label": "perfect light",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "parish",
+      "target_label": "priest",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 29,
+      "target": 3,
+      "source_label": "doctor",
+      "target_label": "food",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

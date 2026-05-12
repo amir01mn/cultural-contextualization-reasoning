@@ -1,0 +1,51 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,north african culinary traditions,reflects,1,arabculture
+3,4,ramadan,food,reflects,1,arabculture
+5,6,light meal,cultural preference,reflect,1,arabculture
+7,8,cultural practice,community involvement in marriage,reflects,1,arabculture
+9,10,clothing,algerian heritage,reflects_culture,1,arabculture
+1,11,algeria,religious traditions,reflects,1,arabculture
+12,13,tv watching,leisure activity,reflects,1,arabculture
+7,4,cultural practice,food,reflects,1,arabculture
+4,14,food,cultural life,reflects,1,arabculture
+4,15,food,local_culture,reflect,1,arabculture
+16,1,dance,algeria,reflect,1,arabculture
+17,1,nile valley,algeria,reflects,1,arabculture
+18,7,leisure activities,cultural practice,reflects,1,arabculture
+4,19,food,nile valley culture,reflects,1,arabculture
+1,4,algeria,food,reflects,5,arabculture
+4,20,food,disciplined aesthetic,reflects,1,diwali
+21,22,handloom textiles,coastal heritage,reflect,1,diwali
+4,23,food,unique embroidery styles of himachal pradesh,reflects,1,diwali
+4,24,food,utilitarianism,reflects,1,diwali
+4,25,food,cultural tapestry of madhya pradesh,reflects,1,diwali
+4,26,food,cultural heritage of maharashtra,reflects,1,diwali
+4,27,food,traditional dishes,reflects,1,diwali
+4,28,food,rich textile heritage,reflects,1,diwali
+4,29,food,craftsmanship,reflects,1,diwali
+4,30,food,traditional weaving techniques,reflects,1,diwali
+31,32,gongadi blankets,pastoral lifestyle,reflects,1,diwali
+33,34,weaving tradition,eco-consciousness,reflects,1,diwali
+35,36,cotton weaving,dexterity and hard work,reflect,1,diwali
+37,38,jamdani,regional traditions,reflects,1,diwali
+4,39,food,textile traditions,reflects,1,diwali
+40,4,folk dance,food,reflect,1,diwali
+4,41,food,customer,reflects,1,diwali
+4,42,food,local life,reflects,1,diwali
+4,43,food,folk theatre tradition,reflects,1,diwali
+44,1,snacks,algeria,reflects_culture,1,blend
+4,45,food,cultural diversity,reflects,1,blend
+46,47,work,"cultural values of hospitality, community",reflects,1,blend
+27,4,traditional dishes,food,reflects,1,blend
+48,1,funeral customs,algeria,reflect,1,blend
+4,49,food,berber culinary tradition,reflects,1,blend
+7,50,cultural practice,hospitality and social gatherings,reflects,1,blend
+4,51,food,arab culture,reflect,1,blend
+9,4,clothing,food,reflect,1,blend
+1,52,algeria,close family ties,reflects,1,blend
+53,1,tv show,algeria,reflect,1,blend
+54,7,social events,cultural practice,reflect,1,blend
+46,55,work,expectations,reflects,1,candle
+56,57,essays,tailor-made quality,reflect,1,candle
+58,29,tailor-made,craftsmanship,reflect,1,candle
+59,60,campaign,intended governance,reflects,1,candle

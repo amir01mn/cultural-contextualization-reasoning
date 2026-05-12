@@ -1,0 +1,29 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,zinb,food,prepares,1,arabculture
+3,4,mothers in algeria,chickpea stew,prepares,1,arabculture
+5,6,algeria,eid al-adha,prepares_for,1,arabculture
+2,7,food,harissa-stuffed olives tagine,prepares,1,arabculture
+5,8,algeria,ramadan,prepare,1,arabculture
+9,6,smir,eid al-adha,prepares_for,1,arabculture
+10,11,mother,nurse,prepares_for,1,arabculture
+2,12,food,fava beans,prepares,1,arabculture
+2,12,food,fava beans,prepares_for_iftar,1,arabculture
+13,2,henaa,food,prepares_for_iftar,1,arabculture
+10,14,mother,potatoes with chicken and soup,prepares,1,arabculture
+2,15,food,hareesa with lentils and bread,prepares,1,arabculture
+10,2,mother,food,prepare,1,arabculture
+2,16,food,fava beans for family breakfast,prepares,1,arabculture
+17,12,rawa,fava beans,prepares,1,arabculture
+18,2,hala,food,prepares,1,arabculture
+19,2,mudh mertha,food,prepares_for_iftar,1,arabculture
+20,2,abir al-ajyeh,food,prepares_for,1,arabculture
+21,5,shaima,algeria,prepares_for,1,arabculture
+2,22,food,distribute zakah al-fitr,prepares_for,1,arabculture
+24,25,lamb,sham al-nisim,prepared_for,1,arabculture
+5,26,algeria,work,prepares_for,1,arabculture
+2,27,food,youth gathering,prepares_for,1,arabculture
+5,8,algeria,ramadan,prepare_for,1,blend
+29,5,photographer,algeria,prepares_for,1,candle
+30,2,painter,food,prepares,2,candle
+31,32,immigration attorney,appropriated documents,prepares,1,candle
+33,26,scientist,work,prepare_for,1,candle

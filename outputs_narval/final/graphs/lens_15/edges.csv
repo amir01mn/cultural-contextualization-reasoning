@@ -1,0 +1,199 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,3,families,assemble family members,prefer,1,arabculture
+4,5,chad,iftar,prefer,1,arabculture
+6,7,algeria,light meal,prefer,2,arabculture
+8,9,algerians,mahr,prefer,1,arabculture
+10,11,arabic music,morning routine,prefer,1,arabculture
+11,10,morning routine,arabic music,includes,1,arabculture
+12,13,am salma,cleaning service,prefers,1,arabculture
+14,15,hamza,loan,prefers,1,arabculture
+6,16,algeria,beautiful wrapping,prefers,1,arabculture
+17,18,ahmed,game,prefers,1,arabculture
+19,20,smir,drinking coffee,prefers,1,arabculture
+8,21,algerians,fresh fruit,prefer,1,arabculture
+22,23,workers,relaxation after work,prefer,1,arabculture
+24,25,smir el-qursh,avoid riba when borrowing,prefers,1,arabculture
+8,26,algerians,giving gifts,prefer,1,arabculture
+17,27,ahmed,friend,prefers,1,arabculture
+28,29,people,restaurants,prefer,1,arabculture
+31,32,mohamed,chayam,prefer,1,arabculture
+31,33,mohamed,with family,chayam with,1,arabculture
+34,35,pajamas,public,prefer,1,culturebank
+36,37,general,early dinners,prefer,1,culturebank
+38,39,united states,home-like settings,prefers,1,culturebank
+40,36,strip malls,general,prefer,1,culturebank
+38,44,united states,ice in beverages,prefer,1,culturebank
+38,45,united states,milk,prefer,1,culturebank
+36,46,general,beer,prefer,1,culturebank
+47,48,tampons,pads,prefer,1,culturebank
+49,50,us system,alternatives,prefer,1,culturebank
+51,52,bread,fresh or high-quality bread,prefer,1,culturebank
+51,53,bread,real bread,prefer,1,culturebank
+54,55,shopping,aldi,prefer,1,culturebank
+38,56,united states,driving,prefer,1,culturebank
+38,57,united states,walking,prefer,1,culturebank
+36,58,general,flavorful food,prefer,1,culturebank
+59,36,peeling fruit,general,prefer,1,culturebank
+60,61,eating fruit with the peel,some individuals,prefer,1,culturebank
+62,36,chickpeas,general,prefer,1,culturebank
+64,65,adjusting,expressing frustration,prefer,1,culturebank
+66,67,using various cleaning tools,hands,prefer,1,culturebank
+68,38,dryers,united states,prefer,1,culturebank
+70,36,air conditioning,general,prefer,1,culturebank
+71,36,natural ventilation,general,prefer,1,culturebank
+72,38,fanta,united states,prefer,1,culturebank
+74,75,school lunches,home-packed ones,prefer,1,culturebank
+36,76,general,microwave usage,prefer,1,culturebank
+38,77,united states,non-metric system,prefer,1,culturebank
+78,79,milder,yellow mustard,prefer,1,culturebank
+79,80,yellow mustard,hot dogs,prefer,1,culturebank
+81,36,public transportation,general,prefer,1,culturebank
+36,83,general,faster preparation methods,prefer,1,culturebank
+68,36,dryers,general,prefer,1,culturebank
+84,36,line-drying,general,prefer,1,culturebank
+38,85,united states,"save money, socialize, or express personal choice",prefer,1,culturebank
+86,87,reusable dishes,disposable plates,preferred over,1,culturebank
+88,36,"warm, freshly made sandwiches",general,prefer,1,culturebank
+89,36,cold sandwiches,general,dislike,1,culturebank
+38,90,united states,practical measurements for humans,prefers,1,culturebank
+38,91,united states,imperial system,prefer,1,culturebank
+38,92,united states,metric system,occasionally use,1,culturebank
+93,94,small talk,conversations,prefer,1,culturebank
+95,97,leggings,comfort and style,prefer,1,culturebank
+96,97,sweats,comfort and style,prefer,1,culturebank
+38,98,united states,real bread over toast,prefer,1,culturebank
+99,100,parents,walking or cycling to school,prefer,1,culturebank
+38,101,united states,smaller sugar portions,prefers,1,culturebank
+102,104,high expectations,parent-child,prefer,1,culturebank
+103,104,discipline,parent-child,prefer,1,culturebank
+105,38,canned whipped cream,united states,prefer,1,culturebank
+106,38,uncanned whipped cream,united states,prefer,1,culturebank
+107,36,american food,general,prefer,1,culturebank
+36,108,general,french food culture,prefer,1,culturebank
+109,36,unique date format,general,prefer,1,culturebank
+110,36,am/pm,general,prefer,1,culturebank
+111,115,washing dishes,washing dishes under running water,prefer,1,culturebank
+111,116,washing dishes,using a dishwasher,prefer,1,culturebank
+111,114,washing dishes,washing up bowls,occasionally use,1,culturebank
+117,36,cash,general,prefer,1,culturebank
+118,36,cards,general,prefer,1,culturebank
+36,119,general,early sleep,prefer,1,culturebank
+38,120,united states,carbonated beverages,prefer,1,culturebank
+121,36,self-service gas pumps,general,prefer,1,culturebank
+122,36,gas pump attendants,general,prefer,1,culturebank
+123,124,men,engagement rings,prefer,1,culturebank
+36,125,general,more options in school activities,prefer,1,culturebank
+38,126,united states,ice cream,prefer,1,culturebank
+127,128,nail care,diy,prefer,1,culturebank
+127,129,nail care,professional services,prefer,1,culturebank
+130,36,chinese food,general,prefer,1,culturebank
+133,36,better-paid jobs,general,prefer,1,culturebank
+134,36,rewarding jobs,general,prefer,1,culturebank
+135,36,enjoyable jobs,general,prefer,1,culturebank
+136,38,butter,united states,prefer,1,culturebank
+138,137,affordability,high costs,prefers,1,culturebank
+139,141,cash gifts,couples,prefer,1,culturebank
+140,142,physical gifts,guests,prefer,1,culturebank
+38,143,united states,"naming children with unique, personalized, and sometimes unusual names",prefer,1,culturebank
+146,144,candy,tradition,prefer,1,culturebank
+146,145,candy,personal choice,prefer,1,culturebank
+36,147,general,balanced diets,prefer,1,culturebank
+148,36,fresh strawberries,general,prefer,1,culturebank
+149,36,canned strawberries,general,prefer,1,culturebank
+38,150,united states,diy and professional services,prefers,1,culturebank
+38,151,united states,rules that align with their beliefs,prefer,1,culturebank
+152,36,personal space,general,prefer,1,culturebank
+153,36,sitting next to strangers,general,prefer not,1,culturebank
+154,36,motorized shopping carts,general,prefer,1,culturebank
+155,36,baskets,general,prefer,1,culturebank
+156,38,large portion sizes,united states,prefer,1,culturebank
+157,38,big gulp,united states,prefer,1,culturebank
+158,36,fast food,general,prefer,1,culturebank
+159,36,healthier options,general,prefer,1,culturebank
+38,160,united states,fruit,prefer,1,culturebank
+162,165,financial stability,partners or spouses,prefer,1,culturebank
+163,166,husbands,income,provide,1,culturebank
+164,167,wifes,household finances,handle,1,culturebank
+38,168,united states,hanging clothes,prefer,1,culturebank
+169,172,hardwood,floors,prefer,1,culturebank
+170,172,tile,floors,prefer,1,culturebank
+171,173,carpet,bathrooms,avoid,1,culturebank
+38,174,united states,coffee,prefer,1,culturebank
+174,175,coffee,espresso,is not always perceived as,1,culturebank
+38,176,united states,credit card use,prefer,1,culturebank
+38,177,united states,cursive writing,prefer,1,culturebank
+178,36,self-bagging,general,prefer,1,culturebank
+179,36,waiting in line,general,prefer,1,culturebank
+180,181,unwritten rules,specific products,prefer,1,culturebank
+38,182,united states,carbonated water,prefer,1,culturebank
+38,183,united states,sparkling water,prefer,1,culturebank
+38,184,united states,mobile app,prefer,1,culturebank
+38,185,united states,bank account,prefer,1,culturebank
+38,186,united states,association football,prefer,1,culturebank
+38,187,united states,american football,enjoy,1,culturebank
+188,189,eating with hands,finger foods,prefer,1,culturebank
+190,193,living,germany,prefer,1,culturebank
+191,193,moving,germany,prefer,1,culturebank
+192,193,spending time,germany,prefer,1,culturebank
+194,195,bulk shopping,shopping habits,prefer,1,culturebank
+196,195,frequent shopping,shopping habits,prefer not,1,culturebank
+197,36,solo travel,general,prefer,1,culturebank
+38,200,united states,doggy bags,prefer,1,culturebank
+202,201,customers,card payment,prefer,1,culturebank
+38,204,united states,mobile payment apps,prefer,1,culturebank
+36,205,general,healthy snacks,prefer,1,culturebank
+38,206,united states,walking on the left side,prefer,1,culturebank
+207,208,schools,practice,prefer,1,culturebank
+38,209,united states,target,prefer,1,culturebank
+210,211,capsicum,bell peppers,prefer,1,culturebank
+212,36,dishwashers,general,prefer,1,culturebank
+213,36,dishcloth,general,prefer,1,culturebank
+214,217,impulse buying,spending habits,prefer,1,culturebank
+215,217,discounts,spending habits,prefer,1,culturebank
+216,218,exclusive savings,personal information,prefer,1,culturebank
+219,36,home-packed lunches,general,prefer,1,culturebank
+38,221,united states,coca-cola,prefer,1,culturebank
+221,222,coca-cola,diet coke,comes in forms,1,culturebank
+221,223,coca-cola,zero coke,comes in forms,1,culturebank
+221,224,coca-cola,frozen coke,comes in forms,1,culturebank
+226,225,socks,daily life,prefer,1,culturebank
+227,38,rice,united states,prefer,1,culturebank
+36,228,general,high-quality and bulk purchases,prefer,1,culturebank
+229,230,produce,locally grown and non-steroided produce,prefer,1,culturebank
+231,232,dating,marriage,prefer,1,culturebank
+231,233,dating,"date for extended periods, often 5-10 years",prefer,1,culturebank
+234,235,cars,expensive models,prefer,1,culturebank
+38,234,united states,cars,prefer,1,culturebank
+236,237,warm destinations,destinations,prefer,1,culturebank
+38,238,united states,fox news,prefer,1,culturebank
+239,38,bathtubs,united states,prefer,1,culturebank
+240,38,showering in tubs,united states,prefer,1,culturebank
+243,241,muffins,sweetness,preferences vary by,1,culturebank
+243,242,muffins,health,preferences vary by,1,culturebank
+244,38,oreos,united states,prefer,1,culturebank
+48,35,pads,public,prefer,1,culturebank
+36,245,general,certain snack foods,prefer,1,culturebank
+246,6,young people,algeria,prefer,1,blend
+249,248,people in algeria,company dinners,prefer,1,blend
+250,251,females,occupation,prefer,1,blend
+252,251,males,occupation,prefer,1,blend
+254,123,alcoholic beverage,men,prefer,1,blend
+256,254,women,alcoholic beverage,prefer,1,blend
+258,259,sailor,tie,prefer,1,candle
+260,261,judge,dog show,prefers,1,candle
+262,263,teacher,mentor,prefer,1,candle
+264,265,nurse,doctor,prefer,1,candle
+266,267,tailor,tailoring the learning to the children's individual needs,prefers,1,candle
+268,270,carpenters,robust chisels,prefer,1,candle
+269,271,tailors,sharpest scissors,seek,1,candle
+272,273,merchant,special account,prefer,1,candle
+274,275,photographer,physical spot,prefer,1,candle
+274,276,photographer,timeline for when they expect payment,prefer,1,candle
+277,278,logo,delicacy,prefer,1,candle
+274,279,photographer,event,prefer,1,candle
+280,281,good tattoo artist,perfectly,prefer,1,candle
+282,283,architect,design,prefer,1,candle
+28,282,people,architect,prefer,1,candle
+285,286,attorney,pay off letter,prefers,1,candle
+287,288,journalist,gently,prefer,1,candle
+289,290,waiter,tipping,prefer,1,candle

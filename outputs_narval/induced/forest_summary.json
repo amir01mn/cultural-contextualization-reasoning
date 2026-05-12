@@ -1,0 +1,402 @@
+[
+  {
+    "lens_id": 0,
+    "lens_name": "uses",
+    "nodes": 480,
+    "edges": 502,
+    "coverage": 654,
+    "output_dir": "outputs/induced/forest/lens_0"
+  },
+  {
+    "lens_id": 1,
+    "lens_name": "performs",
+    "nodes": 186,
+    "edges": 229,
+    "coverage": 352,
+    "output_dir": "outputs/induced/forest/lens_1"
+  },
+  {
+    "lens_id": 2,
+    "lens_name": "includes",
+    "nodes": 146,
+    "edges": 124,
+    "coverage": 161,
+    "output_dir": "outputs/induced/forest/lens_2"
+  },
+  {
+    "lens_id": 3,
+    "lens_name": "practices",
+    "nodes": 107,
+    "edges": 98,
+    "coverage": 115,
+    "output_dir": "outputs/induced/forest/lens_3"
+  },
+  {
+    "lens_id": 4,
+    "lens_name": "features",
+    "nodes": 89,
+    "edges": 78,
+    "coverage": 97,
+    "output_dir": "outputs/induced/forest/lens_4"
+  },
+  {
+    "lens_id": 5,
+    "lens_name": "involves",
+    "nodes": 90,
+    "edges": 61,
+    "coverage": 82,
+    "output_dir": "outputs/induced/forest/lens_5"
+  },
+  {
+    "lens_id": 6,
+    "lens_name": "values",
+    "nodes": 65,
+    "edges": 62,
+    "coverage": 80,
+    "output_dir": "outputs/induced/forest/lens_6"
+  },
+  {
+    "lens_id": 7,
+    "lens_name": "symbolizes",
+    "nodes": 69,
+    "edges": 41,
+    "coverage": 76,
+    "output_dir": "outputs/induced/forest/lens_7"
+  },
+  {
+    "lens_id": 8,
+    "lens_name": "enjoy",
+    "nodes": 55,
+    "edges": 56,
+    "coverage": 75,
+    "output_dir": "outputs/induced/forest/lens_8"
+  },
+  {
+    "lens_id": 9,
+    "lens_name": "participate in",
+    "nodes": 69,
+    "edges": 60,
+    "coverage": 71,
+    "output_dir": "outputs/induced/forest/lens_9"
+  },
+  {
+    "lens_id": 10,
+    "lens_name": "originates from",
+    "nodes": 51,
+    "edges": 43,
+    "coverage": 65,
+    "output_dir": "outputs/induced/forest/lens_10"
+  },
+  {
+    "lens_id": 11,
+    "lens_name": "reflects",
+    "nodes": 61,
+    "edges": 50,
+    "coverage": 61,
+    "output_dir": "outputs/induced/forest/lens_11"
+  },
+  {
+    "lens_id": 12,
+    "lens_name": "expresses",
+    "nodes": 56,
+    "edges": 38,
+    "coverage": 58,
+    "output_dir": "outputs/induced/forest/lens_12"
+  },
+  {
+    "lens_id": 13,
+    "lens_name": "characterized by",
+    "nodes": 53,
+    "edges": 46,
+    "coverage": 54,
+    "output_dir": "outputs/induced/forest/lens_13"
+  },
+  {
+    "lens_id": 14,
+    "lens_name": "part of",
+    "nodes": 43,
+    "edges": 32,
+    "coverage": 50,
+    "output_dir": "outputs/induced/forest/lens_14"
+  },
+  {
+    "lens_id": 15,
+    "lens_name": "prepares",
+    "nodes": 34,
+    "edges": 28,
+    "coverage": 50,
+    "output_dir": "outputs/induced/forest/lens_15"
+  },
+  {
+    "lens_id": 16,
+    "lens_name": "prefer",
+    "nodes": 53,
+    "edges": 40,
+    "coverage": 48,
+    "output_dir": "outputs/induced/forest/lens_16"
+  },
+  {
+    "lens_id": 17,
+    "lens_name": "used for",
+    "nodes": 44,
+    "edges": 33,
+    "coverage": 48,
+    "output_dir": "outputs/induced/forest/lens_17"
+  },
+  {
+    "lens_id": 18,
+    "lens_name": "varies by",
+    "nodes": 45,
+    "edges": 34,
+    "coverage": 45,
+    "output_dir": "outputs/induced/forest/lens_18"
+  },
+  {
+    "lens_id": 19,
+    "lens_name": "made from",
+    "nodes": 28,
+    "edges": 29,
+    "coverage": 36,
+    "output_dir": "outputs/induced/forest/lens_19"
+  },
+  {
+    "lens_id": 20,
+    "lens_name": "receives",
+    "nodes": 32,
+    "edges": 30,
+    "coverage": 35,
+    "output_dir": "outputs/induced/forest/lens_20"
+  },
+  {
+    "lens_id": 21,
+    "lens_name": "is",
+    "nodes": 42,
+    "edges": 27,
+    "coverage": 32,
+    "output_dir": "outputs/induced/forest/lens_21"
+  },
+  {
+    "lens_id": 22,
+    "lens_name": "engage in",
+    "nodes": 41,
+    "edges": 30,
+    "coverage": 32,
+    "output_dir": "outputs/induced/forest/lens_22"
+  },
+  {
+    "lens_id": 23,
+    "lens_name": "known for",
+    "nodes": 30,
+    "edges": 22,
+    "coverage": 26,
+    "output_dir": "outputs/induced/forest/lens_23"
+  },
+  {
+    "lens_id": 24,
+    "lens_name": "popular among",
+    "nodes": 18,
+    "edges": 18,
+    "coverage": 26,
+    "output_dir": "outputs/induced/forest/lens_24"
+  },
+  {
+    "lens_id": 25,
+    "lens_name": "represents",
+    "nodes": 29,
+    "edges": 21,
+    "coverage": 25,
+    "output_dir": "outputs/induced/forest/lens_25"
+  },
+  {
+    "lens_id": 26,
+    "lens_name": "provides",
+    "nodes": 30,
+    "edges": 18,
+    "coverage": 23,
+    "output_dir": "outputs/induced/forest/lens_26"
+  },
+  {
+    "lens_id": 27,
+    "lens_name": "contains",
+    "nodes": 27,
+    "edges": 19,
+    "coverage": 21,
+    "output_dir": "outputs/induced/forest/lens_27"
+  },
+  {
+    "lens_id": 28,
+    "lens_name": "promotes",
+    "nodes": 27,
+    "edges": 18,
+    "coverage": 21,
+    "output_dir": "outputs/induced/forest/lens_28"
+  },
+  {
+    "lens_id": 29,
+    "lens_name": "marks",
+    "nodes": 27,
+    "edges": 19,
+    "coverage": 21,
+    "output_dir": "outputs/induced/forest/lens_29"
+  },
+  {
+    "lens_id": 30,
+    "lens_name": "share",
+    "nodes": 27,
+    "edges": 18,
+    "coverage": 20,
+    "output_dir": "outputs/induced/forest/lens_30"
+  },
+  {
+    "lens_id": 31,
+    "lens_name": "focuses on",
+    "nodes": 28,
+    "edges": 18,
+    "coverage": 19,
+    "output_dir": "outputs/induced/forest/lens_31"
+  },
+  {
+    "lens_id": 32,
+    "lens_name": "follows",
+    "nodes": 26,
+    "edges": 16,
+    "coverage": 19,
+    "output_dir": "outputs/induced/forest/lens_32"
+  },
+  {
+    "lens_id": 33,
+    "lens_name": "important for",
+    "nodes": 22,
+    "edges": 16,
+    "coverage": 18,
+    "output_dir": "outputs/induced/forest/lens_33"
+  },
+  {
+    "lens_id": 34,
+    "lens_name": "consume",
+    "nodes": 13,
+    "edges": 13,
+    "coverage": 17,
+    "output_dir": "outputs/induced/forest/lens_34"
+  },
+  {
+    "lens_id": 35,
+    "lens_name": "wear",
+    "nodes": 18,
+    "edges": 14,
+    "coverage": 17,
+    "output_dir": "outputs/induced/forest/lens_35"
+  },
+  {
+    "lens_id": 36,
+    "lens_name": "located in",
+    "nodes": 12,
+    "edges": 12,
+    "coverage": 16,
+    "output_dir": "outputs/induced/forest/lens_36"
+  },
+  {
+    "lens_id": 37,
+    "lens_name": "encourages",
+    "nodes": 22,
+    "edges": 16,
+    "coverage": 16,
+    "output_dir": "outputs/induced/forest/lens_37"
+  },
+  {
+    "lens_id": 38,
+    "lens_name": "cultural region of",
+    "nodes": 10,
+    "edges": 7,
+    "coverage": 16,
+    "output_dir": "outputs/induced/forest/lens_38"
+  },
+  {
+    "lens_id": 39,
+    "lens_name": "play with",
+    "nodes": 15,
+    "edges": 13,
+    "coverage": 16,
+    "output_dir": "outputs/induced/forest/lens_39"
+  },
+  {
+    "lens_id": 40,
+    "lens_name": "creates",
+    "nodes": 11,
+    "edges": 10,
+    "coverage": 14,
+    "output_dir": "outputs/induced/forest/lens_40"
+  },
+  {
+    "lens_id": 41,
+    "lens_name": "works in",
+    "nodes": 17,
+    "edges": 11,
+    "coverage": 14,
+    "output_dir": "outputs/induced/forest/lens_41"
+  },
+  {
+    "lens_id": 42,
+    "lens_name": "belong to",
+    "nodes": 11,
+    "edges": 10,
+    "coverage": 13,
+    "output_dir": "outputs/induced/forest/lens_42"
+  },
+  {
+    "lens_id": 43,
+    "lens_name": "prioritizes",
+    "nodes": 21,
+    "edges": 12,
+    "coverage": 12,
+    "output_dir": "outputs/induced/forest/lens_43"
+  },
+  {
+    "lens_id": 44,
+    "lens_name": "admire",
+    "nodes": 16,
+    "edges": 12,
+    "coverage": 12,
+    "output_dir": "outputs/induced/forest/lens_44"
+  },
+  {
+    "lens_id": 45,
+    "lens_name": "passed down",
+    "nodes": 14,
+    "edges": 11,
+    "coverage": 12,
+    "output_dir": "outputs/induced/forest/lens_45"
+  },
+  {
+    "lens_id": 46,
+    "lens_name": "consider",
+    "nodes": 19,
+    "edges": 12,
+    "coverage": 12,
+    "output_dir": "outputs/induced/forest/lens_46"
+  },
+  {
+    "lens_id": 47,
+    "lens_name": "produces",
+    "nodes": 11,
+    "edges": 8,
+    "coverage": 11,
+    "output_dir": "outputs/induced/forest/lens_47"
+  },
+  {
+    "lens_id": 48,
+    "lens_name": "spend time together",
+    "nodes": 13,
+    "edges": 9,
+    "coverage": 11,
+    "output_dir": "outputs/induced/forest/lens_48"
+  },
+  {
+    "lens_id": 49,
+    "lens_name": "have",
+    "nodes": 17,
+    "edges": 10,
+    "coverage": 10,
+    "output_dir": "outputs/induced/forest/lens_49"
+  }
+]

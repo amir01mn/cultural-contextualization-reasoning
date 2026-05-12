@@ -1,0 +1,857 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 74
+    },
+    {
+      "id": 2,
+      "label": "constantine",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 4,
+      "label": "north africa",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 6,
+      "label": "pochampally",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "mangalagiri town",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "venkatagiri town",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "uppada village",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "kashida embroidery",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 11,
+      "label": "muzaffarpur",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "portuguese colonial period",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "himachal pradesh",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "kinnaur district",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "kharsawan-kuchai region",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "bhagalpur region",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "mysore",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "karnataka",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "guledgudda, bagalkot district",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "bhairavgarh",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "paithan, aurangabad",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "aurangabad",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "kolhapur",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "berhampur",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "sanganer",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "ajrakh",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "sindh region",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "madurai",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "chettinad region",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "arani, tamil nadu",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "bhavani",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "cotton sarees",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 33,
+      "label": "coimbatore region",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "jamdani",
+      "level": 2,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 35,
+      "label": "tanchoi",
+      "level": 4,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "varanasi",
+      "level": 3,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "west bengal",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "mughal-era delhi",
+      "level": 3,
+      "cultural_group": "delhi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "sambha region",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "andhra ikshvakus' courts",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "assam",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 42,
+      "label": "islamic tradition",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "sonowal kachari dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "chham dance",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "tribal martial tradition",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "term 'chickpeas'",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "hispanic language",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "soccer",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "british colonizers",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "couscous",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "constantine",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "north africa",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "nile valley",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "nile valley",
+      "target_label": "food",
+      "relation_type": "originates",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "food",
+      "target_label": "pochampally",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "mangalagiri town",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "venkatagiri town",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "food",
+      "target_label": "uppada village",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "kashida embroidery",
+      "target_label": "muzaffarpur",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "source_label": "food",
+      "target_label": "portuguese colonial period",
+      "relation_type": "originated_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "food",
+      "target_label": "himachal pradesh",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "food",
+      "target_label": "kinnaur district",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "kharsawan-kuchai region",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "bhagalpur region",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "mysore",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 18,
+      "source_label": "kashida embroidery",
+      "target_label": "karnataka",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_label": "food",
+      "target_label": "guledgudda, bagalkot district",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 20,
+      "source_label": "food",
+      "target_label": "bhairavgarh",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 21,
+      "source_label": "food",
+      "target_label": "paithan, aurangabad",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "aurangabad",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 23,
+      "source_label": "food",
+      "target_label": "kolhapur",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 24,
+      "source_label": "food",
+      "target_label": "berhampur",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "sanganer",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "ajrakh",
+      "target_label": "sindh region",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 28,
+      "target": 1,
+      "source_label": "madurai",
+      "target_label": "food",
+      "relation_type": "originates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 29,
+      "source_label": "food",
+      "target_label": "chettinad region",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 30,
+      "source_label": "food",
+      "target_label": "arani, tamil nadu",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 31,
+      "source_label": "food",
+      "target_label": "bhavani",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "cotton sarees",
+      "target_label": "coimbatore region",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 1,
+      "source_label": "cotton sarees",
+      "target_label": "food",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 34,
+      "target": 1,
+      "source_label": "jamdani",
+      "target_label": "food",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "tanchoi",
+      "target_label": "varanasi",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 34,
+      "target": 37,
+      "source_label": "jamdani",
+      "target_label": "west bengal",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 38,
+      "source_label": "food",
+      "target_label": "mughal-era delhi",
+      "relation_type": "originated_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 39,
+      "source_label": "food",
+      "target_label": "sambha region",
+      "relation_type": "originated_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 40,
+      "source_label": "food",
+      "target_label": "andhra ikshvakus' courts",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 41,
+      "source_label": "food",
+      "target_label": "assam",
+      "relation_type": "originates_from",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 42,
+      "source_label": "food",
+      "target_label": "islamic tradition",
+      "relation_type": "originated_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 43,
+      "target": 41,
+      "source_label": "sonowal kachari dance",
+      "target_label": "assam",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "source_label": "chham dance",
+      "target_label": "tribal martial tradition",
+      "relation_type": "originates_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "source_label": "term 'chickpeas'",
+      "target_label": "hispanic language",
+      "relation_type": "originated_from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "source_label": "soccer",
+      "target_label": "british colonizers",
+      "relation_type": "originated_from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 50,
+      "target": 3,
+      "source_label": "couscous",
+      "target_label": "algeria",
+      "relation_type": "originated_from",
+      "weight": 1,
+      "source_dataset": "blend"
+    }
+  ]
+}

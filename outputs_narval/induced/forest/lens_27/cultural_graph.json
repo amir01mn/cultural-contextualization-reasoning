@@ -1,0 +1,425 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 16
+    },
+    {
+      "id": 2,
+      "label": "intricate weaving patterns",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "intricate patterns",
+      "level": 1,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "flowers, birds, geometric shapes",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "intricate designs",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "couscous",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "nutritious ingredients",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "cheese or egg",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "meat and vegetables",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "mountainous areas",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "library",
+      "level": 3,
+      "cultural_group": "librarian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "free area",
+      "level": 3,
+      "cultural_group": "librarian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "paper",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "student work",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "locking center",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "file drawer",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "box drawer",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "hive",
+      "level": 3,
+      "cultural_group": "beekeeper",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "bees",
+      "level": 3,
+      "cultural_group": "beekeeper",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "report",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "observations",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "best work",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "raised_seal",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "updates",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "information",
+      "level": 4,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "intricate weaving patterns",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "intricate patterns",
+      "relation_type": "contain",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "flowers, birds, geometric shapes",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "intricate designs",
+      "relation_type": "contain",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "couscous",
+      "target_label": "nutritious ingredients",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "cheese or egg",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "food",
+      "target_label": "meat and vegetables",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "mountainous areas",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "library",
+      "target_label": "free area",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "paper",
+      "target_label": "student work",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "locking center",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "file drawer",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "food",
+      "target_label": "box drawer",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "hive",
+      "target_label": "bees",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "report",
+      "target_label": "observations",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 23,
+      "source_label": "food",
+      "target_label": "best work",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 24,
+      "source_label": "food",
+      "target_label": "raised_seal",
+      "relation_type": "contain",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "updates",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 26,
+      "source_label": "food",
+      "target_label": "information",
+      "relation_type": "contains",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

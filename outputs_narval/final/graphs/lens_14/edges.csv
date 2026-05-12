@@ -1,0 +1,315 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,bghirr bread,breakfast,prepares,1,arabculture
+3,4,soup,meal,prepares,1,arabculture
+5,6,families,iftar,prepares,1,arabculture
+7,8,light meal,lilia,prepares,1,arabculture
+10,9,day before wedding,events,prepares,1,arabculture
+11,12,bride,clothing,prepares,1,arabculture
+13,14,lebanese wedding feast,the couple,prepares,1,arabculture
+15,16,white dress,wedding ceremony,prepares,1,arabculture
+17,18,shopping,ramadan,prepares,1,arabculture
+6,19,iftar,eid al-adha,prepares for,1,arabculture
+20,21,women,themselves,prepares,1,arabculture
+20,22,women,nicest dress,prepares,1,arabculture
+24,23,ahl al-mait,sadqa,prepares,1,arabculture
+25,26,algerian traditional music instruments,music school,prepares,1,arabculture
+28,27,mother,fajr meal,prepares,1,arabculture
+28,29,mother,silmah,assigns,1,arabculture
+31,30,family,barbecue,prepares,1,arabculture
+32,33,special crop,local product,prepares,1,arabculture
+34,35,parents,new school year,prepares,1,arabculture
+38,36,mariam,sharba,prepares,2,arabculture
+36,37,sharba,khayyar,prepared from,1,arabculture
+40,39,lily,tajine,prepares,1,arabculture
+36,43,sharba,vegetables,includes,1,arabculture
+36,44,sharba,side dish,includes,1,arabculture
+45,46,frik,another similar dish,prepares,1,arabculture
+47,48,mahr,duba,prepares,1,arabculture
+51,52,preparation,presence,prepares,1,arabculture
+53,16,mawkeb,wedding ceremony,prepares,1,arabculture
+28,55,mother,work,prepares,1,arabculture
+28,58,mother,child,prepares,1,arabculture
+31,60,family,news of death,prepares,1,arabculture
+61,62,ahmed,foul,prepares,1,arabculture
+63,64,sun,fava bean fritters,prepares,1,arabculture
+65,2,freshest strawberries,breakfast,prepares for iftar,1,arabculture
+67,7,arroz bi al-lahm al-baqri,light meal,prepares,1,arabculture
+68,69,batatah,dinner,prepares,1,arabculture
+61,70,ahmed,french fries,prepares,1,arabculture
+71,72,writing the book,marriage,prepares for,1,arabculture
+73,74,car,wedding,prepares,1,arabculture
+75,6,fetta mizrahiya,iftar,prepares for,1,arabculture
+78,77,young people,coffee,prepares,1,arabculture
+79,80,benzene,bicycle,prepares,1,arabculture
+79,73,benzene,car,prepares,1,arabculture
+83,81,wife,requests,prepares,1,arabculture
+81,82,requests,household needs,prepares for,1,arabculture
+84,85,ahl,kafn,prepares,1,arabculture
+86,7,fisk,light meal,prepares,1,arabculture
+87,7,mloukhia,light meal,prepares,1,arabculture
+88,89,shakshuka,evening meal,prepares,1,arabculture
+90,6,hamam mahshi,iftar,prepares for iftar,1,arabculture
+92,95,moda merhta,iftar during ramadan,prepares for,1,arabculture
+93,95,foul medames,iftar during ramadan,prepares for,1,arabculture
+94,95,chicken,iftar during ramadan,prepares for,1,arabculture
+99,98,frish,new home,prepares,1,arabculture
+11,101,bride,makeup expert,prepares,1,arabculture
+102,19,pilgrim animal,eid al-adha,prepares for,1,arabculture
+105,104,father,pilgrim meat,prepares,1,arabculture
+107,106,talaal (distributing zakah),zakah al-fitr,prepares,1,arabculture
+108,109,shaykh mohamed,meat,prepares,1,arabculture
+110,111,dimey lemy,sham el nessim,prepares,1,arabculture
+112,55,6am,work,prepares for,1,arabculture
+114,113,flash,bath,prepares for,1,arabculture
+115,113,soap,bath,prepares for,1,arabculture
+116,6,azan al-maghrib,iftar,prepares for,1,arabculture
+117,118,mangalagiri cotton,sarees,prepares,1,diwali
+117,119,mangalagiri cotton,salwar suits,prepares,1,diwali
+117,120,mangalagiri cotton,shirts,prepares,1,diwali
+121,122,uppada silk,single piece,prepares,1,diwali
+123,124,dharmavaram silk,weddings,prepares,1,diwali
+123,125,dharmavaram silk,special occasions,prepares,1,diwali
+128,129,pedana kalamkari,vegetable-dyed block-painting on fabric,prepares,1,diwali
+130,131,sherdukpen shawl,patterns and vibrant colors,prepares,1,diwali
+133,132,tagin weave,textiles,prepares,1,diwali
+134,132,nyishi textile,textiles,prepares,1,diwali
+135,136,pat silk,mekhela chador,prepares,1,diwali
+135,137,pat silk,gamosa,prepares,1,diwali
+139,140,dhokona,handwoven cloth,is made from,1,diwali
+141,142,karbi shawl,design,prepares,1,diwali
+143,144,lasingphee,quilt,prepares,1,diwali
+145,118,bhagalpuri silk,sarees,prepares,1,diwali
+147,148,madhubani painting on textiles,intricate designs on textiles,prepares,1,diwali
+149,150,bhagalpuri chadar,cotton-gicha mixed yarn,prepares,1,diwali
+151,152,alacha fabric,female garments,prepares,1,diwali
+153,154,chaapa sarees,block printing technique,prepares,1,diwali
+155,156,bawan buti weave,motifs,prepares,1,diwali
+157,158,aal-dyed handloom fabrics,tribal women saris,prepared for,1,diwali
+157,159,aal-dyed handloom fabrics,men turbans or shoulder cloths,prepared for,1,diwali
+160,161,pata weaving,handspun cotton saris,prepares,1,diwali
+162,163,cotton handloom fabrics,raipur,prepares,1,diwali
+162,164,cotton handloom fabrics,balodabazar,prepares,1,diwali
+162,165,cotton handloom fabrics,mahasamund,prepares,1,diwali
+162,166,cotton handloom fabrics,durg,prepares,1,diwali
+162,167,cotton handloom fabrics,rajnandgaon,prepares,1,diwali
+162,168,cotton handloom fabrics,dhamtari,prepares,1,diwali
+162,169,cotton handloom fabrics,balod,prepares,1,diwali
+162,170,cotton handloom fabrics,bastar,prepares,1,diwali
+162,171,cotton handloom fabrics,sarguja,prepares,1,diwali
+172,173,goan crochet and embroidery,handkerchiefs,prepares,1,diwali
+172,174,goan crochet and embroidery,tablecloths,prepares,1,diwali
+172,175,goan crochet and embroidery,pillow covers,prepares,1,diwali
+172,176,goan crochet and embroidery,bedspreads,prepares,1,diwali
+132,177,textiles,traditional garments,prepares,1,diwali
+132,178,textiles,household items,prepares,1,diwali
+179,181,bandhani,intricate patterns,prepares,1,diwali
+182,132,tangaliya,textiles,prepares,1,diwali
+184,185,dhabla,blankets and floor coverings,prepares,1,diwali
+186,187,kambal,blankets,prepares,1,diwali
+188,189,kutchi embroidery,intricate designs on fabric,prepares,1,diwali
+190,191,phulkari,intricate floral patterns,prepares,1,diwali
+193,192,bagh,intricate designs,prepares,2,diwali
+194,195,chamba rumal,gifted during marriages,prepares,1,diwali
+196,197,luanchari,choli,prepares,1,diwali
+196,198,luanchari,lehanga,prepares,1,diwali
+199,132,sohrai and khovar paintings,textiles,prepares for,1,diwali
+200,201,ilkal saree,warp,prepares,1,diwali
+203,202,kasuti embroidery,ilkal sarees,prepares,1,diwali
+20,205,women,navalgund durries,prepares,1,diwali
+206,207,guledgudda khana,cotton or silk,made from,1,diwali
+211,208,lambani embroidery,garments,prepares,1,diwali
+211,209,lambani embroidery,accessories,prepares,1,diwali
+211,210,lambani embroidery,home décor items,prepares,1,diwali
+212,213,kasavu saree,festivals and special occasions,prepares,1,diwali
+214,215,weaving tradition,chendamangalam saree,prepares,1,diwali
+217,218,kavani,white or cream base with a broad golden border,prepares,1,diwali
+219,220,tussar silk,handwoven fabric,prepares,1,diwali
+221,222,dabu print,patterns,prepares,1,diwali
+223,224,ganga-jamuna sari,dual-colored borders,prepares,1,diwali
+225,226,phanek,traditional wrap-around skirt,prepares,1,diwali
+227,228,thoh shiliang,eri silk,prepares,1,diwali
+229,230,samserla,hand-spun cotton,prepares,1,diwali
+231,232,jainsem,traditional khasi female dress,is,1,diwali
+236,233,rengma naga tribe,shawls,prepares,1,diwali
+236,234,rengma naga tribe,rhikho,prepares,1,diwali
+236,235,rengma naga tribe,alungtsu,prepares,1,diwali
+238,132,loin loom weaving,textiles,prepares,1,diwali
+239,240,angami lohe shawl,cultural attire,prepares,1,diwali
+241,242,ao naga cowrie apron,cowrie shells,prepares,1,diwali
+243,244,berhampuri patta,fine silk,prepares,1,diwali
+245,246,habaspuri saree,handloom product,prepares,1,diwali
+249,247,odisha ikat,vibrant patterns,prepares,1,diwali
+250,251,pipili appliqué work,temple decorations,prepares,1,diwali
+252,253,berhampuri patta sarees,temple design,prepares,1,diwali
+254,255,chola,handwoven fabrics,prepares,1,diwali
+256,257,salwar kameez,traditional outfit,prepares,1,diwali
+258,259,punjabi ghagra,traditional skirt,prepares,1,diwali
+260,261,kota doria,cotton and silk,is made of,1,diwali
+262,263,gota patti,bridal wear,prepares,1,diwali
+262,264,gota patti,festive garments,prepares,1,diwali
+265,266,mothra,leheriya tie-dye technique,prepares,1,diwali
+267,268,lepcha duree,traditional attire,prepares,1,diwali
+269,270,koorainadu saree,handloom saree,prepares,1,diwali
+271,272,salem silk dhoti,marriages and festivals,prepares,1,diwali
+273,274,coimbatore cotton saree,saree,prepares,1,diwali
+275,276,bhavani jamakkalam,floor coverings,used as,1,diwali
+277,281,kodalikaruppur saree,unique and intricate designs,prepares,1,diwali
+283,284,gadwal sarees,lightweight cotton bodies,prepares,1,diwali
+283,285,gadwal sarees,rich silk borders,prepares,1,diwali
+283,286,gadwal sarees,intricate zari work,prepares,1,diwali
+288,291,riktu,traditional attire of the tripuri people,prepares,1,diwali
+143,292,lasingphee,quilts,prepares,1,diwali
+143,293,lasingphee,covers,prepares,1,diwali
+143,294,lasingphee,scarves,prepares,1,diwali
+143,176,lasingphee,bedspreads,prepares,1,diwali
+296,297,thulma,woolen blanket,prepares,1,diwali
+299,300,woolen weaving,apparel-grade wool varieties,prepares,1,diwali
+301,302,zardozi,elaborate designs,prepares,1,diwali
+303,304,phool patti ka kaam,floral and leaf motifs,prepares,1,diwali
+306,307,tant sari,shantipur,prepared in,1,diwali
+306,308,tant sari,phulia,prepared in,1,diwali
+306,309,tant sari,dhanikakhali,prepared in,1,diwali
+310,311,shantipuri sari,high-quality cotton or silk,prepared from,1,diwali
+310,312,shantipuri sari,intricate borders and pallus,features,1,diwali
+310,313,shantipuri sari,nature and geometry,inspired by,1,diwali
+315,192,batik print,intricate designs,prepares,1,diwali
+193,318,bagh,dense embroidery,prepares,1,diwali
+194,319,chamba rumal,intricate needlework,prepares,1,diwali
+320,321,warli painting on fabric,geometric patterns,prepares,1,diwali
+322,323,pashmina shawl,craftsmanship,prepares,1,diwali
+324,132,shahtoosh shawl,textiles,prepares,1,diwali
+325,276,namda,floor coverings,prepares,1,diwali
+327,328,gabba,rugs or bedspreads,prepares,1,diwali
+329,132,kashida embroidery,textiles,prepares,1,diwali
+330,331,sambha calico prints,hand-block printed,prepared,1,diwali
+332,333,pashmina wool,luxurious shawls and garments,prepares,1,diwali
+334,208,wool,garments,prepares,1,diwali
+334,209,wool,accessories,prepares,1,diwali
+335,336,ladakh,tsugdan,prepares,1,diwali
+337,338,phirpa,hand-woven woolen fabric,prepares,1,diwali
+339,340,tsul,yak wool,prepares,1,diwali
+341,342,kachi,traditional garment,prepares,1,diwali
+343,344,mundu,garment,prepares,1,diwali
+345,346,coir weaving,mats,prepares,1,diwali
+345,347,coir weaving,baskets,prepares,1,diwali
+349,350,dappu,processions,prepares,1,diwali
+351,352,dhimsa,tribal dance,performs,1,diwali
+354,355,bhandika nrityam,small wooden benches,prepares,1,diwali
+356,357,perani,dance of warriors,prepares,1,diwali
+354,358,bhandika nrityam,wooden platforms,prepares,1,diwali
+359,360,ankia naat,"music, dance, and drama",prepares,1,diwali
+361,362,beula dance,folk dance,prepares,1,diwali
+363,364,domahi dance,end of harvesting season,prepares,1,diwali
+365,366,nagara naam,traditional drums,prepares,1,diwali
+368,367,jhijhiya,lanterns,prepares,1,diwali
+369,370,bidesia,social issues,addresses,1,diwali
+371,360,jatra,"music, dance, and drama",prepares,1,diwali
+372,360,jatra dance,"music, dance, and drama",prepares,1,diwali
+373,374,gendi dance,bamboo stilts,prepares,1,diwali
+375,376,nacha dance,rural areas,popular in,1,diwali
+377,378,mando,wedding music,evolved from,1,diwali
+379,380,dasarawadan,music and dance,prepares,1,diwali
+386,381,servers,free refills,offer free refills,1,culturebank
+387,381,customers,free refills,expect free refills,1,culturebank
+387,381,customers,free refills,ask for free refills,1,culturebank
+381,382,free refills,water,common for,1,culturebank
+381,383,free refills,soft drinks,common for,1,culturebank
+381,384,free refills,alcohol,not common for,1,culturebank
+381,385,free refills,smoothies,not common for,1,culturebank
+388,389,accent,speak,prepares,1,culturebank
+391,390,employer,offer and take vacation time,prepares,1,culturebank
+392,390,employee,offer and take vacation time,prepares,1,culturebank
+393,394,air conditioning,united states,prepares,1,culturebank
+395,7,microwave,light meal,prepares,1,culturebank
+397,398,tea,ice tea,prepares,1,culturebank
+401,399,teachers,cursive writing,teach,1,culturebank
+402,405,paper plate,parties and barbecues,used for,1,culturebank
+403,406,ceramic plate,holidays,preferred for,1,culturebank
+404,407,plastic plate,casual dinner,used for,1,culturebank
+408,409,powerful washing machine,"for various purposes including washing, drying, and pressing",prepares,1,culturebank
+410,411,mcdonald's,large portions,prepares,1,culturebank
+410,412,mcdonald's,unique menu items,prepares,1,culturebank
+415,413,schools,lockdowns,prepares,1,culturebank
+415,414,schools,hall passes,prepares,1,culturebank
+416,417,coffee shop,iced coffee,prepares,1,culturebank
+394,419,united states,dominos pizza,prepares,1,culturebank
+394,420,united states,carbonated beverages,prepares,1,culturebank
+421,422,specific practices,toilet paper usage,prepares for,1,culturebank
+423,424,bread slicing machine,bread,prepares,1,culturebank
+427,425,general,egg fu young,prepares,1,culturebank
+427,426,general,orange chicken,prepares,1,culturebank
+428,429,fast food restaurants,behaviors,prepares,1,culturebank
+430,431,adapt,question,prepares,1,culturebank
+432,433,discipline,teaching discipline,prepares,1,culturebank
+391,436,employer,maternity leave policies,prepares,1,culturebank
+392,436,employee,maternity leave policies,prepares,1,culturebank
+437,438,sick leave policy,sick leave,prepares,1,culturebank
+439,440,prepay,pay for fuel,prepares for,1,culturebank
+441,442,nail care,personal grooming,prepares,1,culturebank
+441,443,nail care,professional nail care,prepares,1,culturebank
+444,446,trash cans,trash pickup,prepares for,1,culturebank
+445,447,trash bags,taxes,prepares for,1,culturebank
+449,448,amber alerts,disseminate information,prepares,1,culturebank
+450,452,bartender,drinks,prepares,1,culturebank
+451,452,customer,drinks,orders and pays for,1,culturebank
+386,453,servers,eggs,prepares,1,culturebank
+455,456,houses,tornadoes,prepares,1,culturebank
+455,457,houses,hurricanes,prepares,1,culturebank
+458,459,chicken and waffles,waffle house,prepares,1,culturebank
+461,460,thriftiness,leftovers,prepares,1,culturebank
+462,463,water conservation,hygiene,prepares,1,culturebank
+464,394,name changes,united states,prepares,1,culturebank
+465,466,payment practices,expectations,prepares,1,culturebank
+466,465,expectations,payment practices,prepares,1,culturebank
+467,468,tuna salad,tuna fish,prepares,1,culturebank
+467,469,tuna salad,celery,prepares,1,culturebank
+467,470,tuna salad,mayo,prepares,1,culturebank
+471,472,costs,pay for ambulance services,prepares for,1,culturebank
+473,474,healthy snacks,apples with peanut butter,prepares,1,culturebank
+475,476,dishwashers,cleaning dishes,prepares,1,culturebank
+477,478,burger king,frozen coke,prepares,1,culturebank
+479,480,pumpkin spice,pie,prepares,1,culturebank
+481,482,taxation practices,taxation,prepares,1,culturebank
+394,483,united states,oreos,prepares,1,culturebank
+484,486,picnic,food,prepares,1,blend
+487,488,condolence offering,funeral,prepares,1,blend
+489,490,ready-to-eat food,supermarkets,prepares,1,blend
+34,492,parents,parenting plan,prepares,1,candle
+494,495,teacher,write,prepares,1,candle
+401,496,teachers,notes,prepares,1,candle
+401,497,teachers,tests,prepares,1,candle
+401,498,teachers,exams,prepares,1,candle
+500,494,bus,teacher,escorted by,1,candle
+501,494,dancer,teacher,prepares,1,candle
+503,504,preschool teacher,preschooler,prepares,1,candle
+494,505,teacher,form,prepares,1,candle
+508,507,investment,private placement memorandum,prepares,1,candle
+509,511,banker,lunch,prepares,1,candle
+512,513,nurse,start an iv,prepares,1,candle
+512,514,nurse,doctor,hands,1,candle
+512,515,nurse,needle,prepares,1,candle
+516,517,instruments,surgery,prepares for,1,candle
+518,519,report papers,report papers need,prepares,1,candle
+520,521,white coat,maintain integrity,prepares,1,candle
+522,523,politician,speech,prepares,1,candle
+524,525,photographer,itinerary,prepares,1,candle
+527,528,landscape photography,landscape,prepares,1,candle
+529,531,canvas,artist,prepares,1,candle
+530,531,workstation,artist,prepares,1,candle
+532,533,routine,tattoo,prepares,1,candle
+534,11,bridal makeup,bride,prepares,1,candle
+536,528,moment,landscape,prepares,1,candle
+537,538,brush,brushstrokes,prepares,1,candle
+539,540,painter,panel,prepares,1,candle
+539,541,painter,perfect finish,prepares,1,candle
+542,544,order,painting a room,prepares,1,candle
+545,546,client,services,requires,1,candle
+547,548,architect,window well,prepares,1,candle
+549,550,documents,immigration,prepares,1,candle
+551,552,waiter,stream food to the table,prepares,1,candle
+551,553,waiter,dishes,prepares,1,candle
+551,554,waiter,tuxedo,prepares,1,candle
+555,556,pad cover,restaurant order pads,prepares,1,candle
+557,558,doctors,rounds,prepares,1,candle
+559,560,stethoscope,medical examination,prepares,1,candle
+562,563,blood pressure,routine visit,prepares,1,candle

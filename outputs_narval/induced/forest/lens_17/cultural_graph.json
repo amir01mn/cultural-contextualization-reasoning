@@ -1,0 +1,704 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 47
+    },
+    {
+      "id": 2,
+      "label": "cotton sarees",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "salwar suits",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "shirts",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "sarees and salwar suits",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "showing respect",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "providing warmth",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "decorative items",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "female garments",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "handloom textiles",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 11,
+      "label": "traditional garments",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "household",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "gongadi blankets",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "bedcover or blanket",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "blouse material",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "festivals like onam and vishu",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "luxury items",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "royalty",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "important ceremonies and rituals",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "hmaram",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "cultural ceremonies",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "adorning deities",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "marriages and festivals",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "lower garment",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "garments and shawls",
+      "level": 3,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "rugs or bedspreads",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "decorative purposes",
+      "level": 3,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "functional purposes",
+      "level": 3,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "peanut butter",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 31,
+      "label": "baking",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "spreading",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "condiment",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "polite phrase",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "during lecture",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "promotion",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "brushes",
+      "level": 3,
+      "cultural_group": "painter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "creating art",
+      "level": 3,
+      "cultural_group": "painter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "painting process",
+      "level": 3,
+      "cultural_group": "painter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "here",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "numbers",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "quantitative analysis",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "cotton sarees",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "salwar suits",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "shirts",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "sarees and salwar suits",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "food",
+      "target_label": "showing respect",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "providing warmth",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "decorative items",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "food",
+      "target_label": "female garments",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "handloom textiles",
+      "target_label": "traditional garments",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "source_label": "handloom textiles",
+      "target_label": "household",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "food",
+      "target_label": "gongadi blankets",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "food",
+      "target_label": "bedcover or blanket",
+      "relation_type": "used_as",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "blouse material",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "festivals like onam and vishu",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "used_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "food",
+      "target_label": "luxury items",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_label": "food",
+      "target_label": "royalty",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 20,
+      "source_label": "food",
+      "target_label": "important ceremonies and rituals",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "hmaram",
+      "target_label": "cultural ceremonies",
+      "relation_type": "used_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 23,
+      "source_label": "food",
+      "target_label": "adorning deities",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 24,
+      "source_label": "food",
+      "target_label": "marriages and festivals",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "lower garment",
+      "relation_type": "used_as",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 26,
+      "source_label": "food",
+      "target_label": "garments and shawls",
+      "relation_type": "used_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 27,
+      "source_label": "food",
+      "target_label": "rugs or bedspreads",
+      "relation_type": "used_as",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 28,
+      "source_label": "food",
+      "target_label": "decorative purposes",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 29,
+      "source_label": "food",
+      "target_label": "functional purposes",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "source_label": "peanut butter",
+      "target_label": "baking",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 30,
+      "target": 32,
+      "source_label": "peanut butter",
+      "target_label": "spreading",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 30,
+      "target": 33,
+      "source_label": "peanut butter",
+      "target_label": "condiment",
+      "relation_type": "used_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 34,
+      "source_label": "food",
+      "target_label": "polite phrase",
+      "relation_type": "used_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 36,
+      "source_label": "food",
+      "target_label": "promotion",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "source_label": "brushes",
+      "target_label": "creating art",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "source_label": "numbers",
+      "target_label": "quantitative analysis",
+      "relation_type": "used_for",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

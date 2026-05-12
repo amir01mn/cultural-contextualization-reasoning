@@ -1,0 +1,2261 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "mahr",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "duba",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "brass bottle",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "hatchala",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "wrapping paper",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "gifts",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "colorful paper",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "cloth",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "lasingphee",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "bhagalpuri silk",
+      "level": 5,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "tussar silk",
+      "level": 2,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 12,
+      "label": "alacha fabric",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "silk",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "cotton",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 15,
+      "label": "kosa silk",
+      "level": 4,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "cocoons",
+      "level": 4,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "antheraea mylitta silkworm",
+      "level": 5,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "pata weaving",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 19,
+      "label": "madder red",
+      "level": 5,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "aal trees",
+      "level": 5,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "kunbi saree",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "100% cotton",
+      "level": 5,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "silk",
+      "level": 5,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 5
+    },
+    {
+      "id": 24,
+      "label": "velvet",
+      "level": 5,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "altar cloths",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "liturgical vestments",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "coarse woolen yarns",
+      "level": 4,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "white or light grey",
+      "level": 4,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "dhabla",
+      "level": 2,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "panja dhurrie",
+      "level": 3,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "tool",
+      "level": 5,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "kullu cap",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "wool",
+      "level": 2,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "bhagalpuri silk",
+      "level": 4,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "ilkal saree",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "warp",
+      "level": 2,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "mysore silk sarees",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "silk",
+      "level": 1,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "navalgund durries",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "handwoven rugs",
+      "level": 4,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "patchwork",
+      "level": 4,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "appliqué",
+      "level": 4,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "mirror work",
+      "level": 4,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "lambani embroidery",
+      "level": 2,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "balaramapuram handloom",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "fine cotton fabric",
+      "level": 2,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "thiruvananthapuram saree",
+      "level": 5,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "fabric",
+      "level": 5,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "chanderi saree",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "cotton",
+      "level": 5,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 6
+    },
+    {
+      "id": 51,
+      "label": "solapur chaddar",
+      "level": 5,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "mashru fabric",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "chanderi sari",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "textiles",
+      "level": 5,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "moirang phee",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "cotton or silk",
+      "level": 2,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "samserla",
+      "level": 5,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 58,
+      "label": "hand-spun cotton",
+      "level": 5,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "indigo",
+      "level": 5,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "local leaves",
+      "level": 5,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "puan",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "loom-woven",
+      "level": 5,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "kotpad handloom",
+      "level": 5,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "natural materials",
+      "level": 4,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "habaspuri saree",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "fine cotton",
+      "level": 4,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "wooden blocks",
+      "level": 5,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "sanganeri block print",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "cotton fabrics",
+      "level": 5,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "mothra",
+      "level": 5,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "fabric",
+      "level": 4,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "lepcha thara",
+      "level": 3,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "stinging nettle",
+      "level": 5,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "woolen yarns",
+      "level": 5,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "2/20s cotton yarn",
+      "level": 5,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "lepcha duree",
+      "level": 5,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "sungudi sarees",
+      "level": 5,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "pochampally ikat",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "gadwal sarees",
+      "level": 5,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 80,
+      "label": "lightweight cotton",
+      "level": 2,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "rich silk",
+      "level": 2,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "teliarumal",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "gongadi blanket",
+      "level": 4,
+      "cultural_group": "kuruma community",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "woolen",
+      "level": 1,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "riktu",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "plain cloth",
+      "level": 2,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "lasingphee",
+      "level": 2,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "thulma",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "wool",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "banarasi sari",
+      "level": 5,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "finely woven silk",
+      "level": 4,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "zardozi",
+      "level": 3,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "gold",
+      "level": 5,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "silver",
+      "level": 5,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "pearls",
+      "level": 5,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "precious stones",
+      "level": 5,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "tant sari",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "handloom cotton",
+      "level": 2,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "gold threads",
+      "level": 5,
+      "cultural_group": "delhi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "silver threads",
+      "level": 5,
+      "cultural_group": "delhi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "zardozi embroidery",
+      "level": 3,
+      "cultural_group": "delhi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "pashmina shawl",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "changthangi goat",
+      "level": 4,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "kani shawl",
+      "level": 5,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "wooden spools called 'kanis'",
+      "level": 2,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "jamawar shawls",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "pashmina",
+      "level": 5,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "woolen fabrics",
+      "level": 5,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "gabba",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "sambha calico prints",
+      "level": 4,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "floral and geometric designs",
+      "level": 2,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "nambu",
+      "level": 5,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "wool",
+      "level": 5,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "phirpa",
+      "level": 3,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "hand-woven woolen fabric",
+      "level": 5,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "homemade ice",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "tampons",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "applicators",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "language",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "colloquial language and expressions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "wine",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "aldi",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "chickpeas",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "hispanic language",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "fanta",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "high sugar content",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "umbrellas",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "parasols",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "rain and sun protection",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "alcohol",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "beer and cocktails",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "water",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "server",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "new surnames",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "name changes",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "mayonnaise",
+      "level": 1,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "lemon",
+      "level": 5,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "lime",
+      "level": 5,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "dishwashers",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "technology",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "repertoire plans",
+      "level": 4,
+      "cultural_group": "pianist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "essay",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "tailor-made items",
+      "level": 5,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "room",
+      "level": 2,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 146,
+      "label": "tailor-made",
+      "level": 5,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "agreement",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 148,
+      "label": "bill",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "receipt",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "tailor",
+      "level": 2,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 151,
+      "label": "mask",
+      "level": 5,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 152,
+      "label": "report papers",
+      "level": 5,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "cash",
+      "level": 5,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 154,
+      "label": "paper",
+      "level": 2,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "raised seal",
+      "level": 5,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "sealed plans",
+      "level": 4,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "mahr",
+      "target_label": "duba",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "source_label": "hatchala",
+      "target_label": "brass bottle",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "source_label": "wrapping paper",
+      "target_label": "colorful paper",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "source_label": "lasingphee",
+      "target_label": "cloth",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "bhagalpuri silk",
+      "target_label": "tussar silk",
+      "relation_type": "made from",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "alacha fabric",
+      "target_label": "silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "source_label": "alacha fabric",
+      "target_label": "cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "kosa silk",
+      "target_label": "cocoons",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "cocoons",
+      "target_label": "antheraea mylitta silkworm",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "pata weaving",
+      "target_label": "madder red",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 18,
+      "target": 20,
+      "source_label": "pata weaving",
+      "target_label": "aal trees",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "kunbi saree",
+      "target_label": "100% cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 25,
+      "target": 13,
+      "source_label": "altar cloths",
+      "target_label": "silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 25,
+      "target": 24,
+      "source_label": "altar cloths",
+      "target_label": "velvet",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 26,
+      "target": 13,
+      "source_label": "liturgical vestments",
+      "target_label": "silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 26,
+      "target": 24,
+      "source_label": "liturgical vestments",
+      "target_label": "velvet",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 29,
+      "target": 27,
+      "source_label": "dhabla",
+      "target_label": "coarse woolen yarns",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 29,
+      "target": 28,
+      "source_label": "dhabla",
+      "target_label": "white or light grey",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "source_label": "panja dhurrie",
+      "target_label": "tool",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "kullu cap",
+      "target_label": "wool",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "ilkal saree",
+      "target_label": "warp",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 37,
+      "target": 13,
+      "source_label": "mysore silk sarees",
+      "target_label": "silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "source_label": "navalgund durries",
+      "target_label": "handwoven rugs",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 44,
+      "target": 41,
+      "source_label": "lambani embroidery",
+      "target_label": "patchwork",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 44,
+      "target": 42,
+      "source_label": "lambani embroidery",
+      "target_label": "appliqué",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 44,
+      "target": 43,
+      "source_label": "lambani embroidery",
+      "target_label": "mirror work",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "balaramapuram handloom",
+      "target_label": "fine cotton fabric",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "source_label": "thiruvananthapuram saree",
+      "target_label": "fabric",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 49,
+      "target": 13,
+      "source_label": "chanderi saree",
+      "target_label": "silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 49,
+      "target": 14,
+      "source_label": "chanderi saree",
+      "target_label": "cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 51,
+      "target": 14,
+      "source_label": "solapur chaddar",
+      "target_label": "cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 52,
+      "target": 13,
+      "source_label": "mashru fabric",
+      "target_label": "silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 52,
+      "target": 14,
+      "source_label": "mashru fabric",
+      "target_label": "cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "source_label": "chanderi sari",
+      "target_label": "textiles",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "source_label": "moirang phee",
+      "target_label": "cotton or silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "source_label": "samserla",
+      "target_label": "hand-spun cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 57,
+      "target": 59,
+      "source_label": "samserla",
+      "target_label": "indigo",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 57,
+      "target": 60,
+      "source_label": "samserla",
+      "target_label": "local leaves",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "source_label": "puan",
+      "target_label": "loom-woven",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "source_label": "kotpad handloom",
+      "target_label": "natural materials",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "source_label": "habaspuri saree",
+      "target_label": "fine cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 68,
+      "target": 67,
+      "source_label": "sanganeri block print",
+      "target_label": "wooden blocks",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 68,
+      "target": 69,
+      "source_label": "sanganeri block print",
+      "target_label": "cotton fabrics",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 70,
+      "target": 48,
+      "source_label": "mothra",
+      "target_label": "fabric",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 72,
+      "target": 73,
+      "source_label": "lepcha thara",
+      "target_label": "stinging nettle",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 72,
+      "target": 14,
+      "source_label": "lepcha thara",
+      "target_label": "cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 72,
+      "target": 74,
+      "source_label": "lepcha thara",
+      "target_label": "woolen yarns",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "source_label": "2/20s cotton yarn",
+      "target_label": "lepcha duree",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 77,
+      "target": 14,
+      "source_label": "sungudi sarees",
+      "target_label": "cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 78,
+      "target": 14,
+      "source_label": "pochampally ikat",
+      "target_label": "cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 78,
+      "target": 13,
+      "source_label": "pochampally ikat",
+      "target_label": "silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 79,
+      "target": 80,
+      "source_label": "gadwal sarees",
+      "target_label": "lightweight cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 79,
+      "target": 81,
+      "source_label": "gadwal sarees",
+      "target_label": "rich silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 83,
+      "target": 84,
+      "source_label": "gongadi blanket",
+      "target_label": "woolen",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 85,
+      "target": 86,
+      "source_label": "riktu",
+      "target_label": "plain cloth",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "source_label": "lasingphee",
+      "target_label": "cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 88,
+      "target": 33,
+      "source_label": "thulma",
+      "target_label": "wool",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 90,
+      "target": 91,
+      "source_label": "banarasi sari",
+      "target_label": "finely woven silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 92,
+      "target": 93,
+      "source_label": "zardozi",
+      "target_label": "gold",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 92,
+      "target": 94,
+      "source_label": "zardozi",
+      "target_label": "silver",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 92,
+      "target": 95,
+      "source_label": "zardozi",
+      "target_label": "pearls",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 92,
+      "target": 96,
+      "source_label": "zardozi",
+      "target_label": "precious stones",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 97,
+      "target": 98,
+      "source_label": "tant sari",
+      "target_label": "handloom cotton",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 101,
+      "target": 99,
+      "source_label": "zardozi embroidery",
+      "target_label": "gold threads",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 101,
+      "target": 100,
+      "source_label": "zardozi embroidery",
+      "target_label": "silver threads",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "source_label": "pashmina shawl",
+      "target_label": "changthangi goat",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 104,
+      "target": 105,
+      "source_label": "kani shawl",
+      "target_label": "wooden spools called 'kanis'",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "source_label": "jamawar shawls",
+      "target_label": "pashmina",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 106,
+      "target": 13,
+      "source_label": "jamawar shawls",
+      "target_label": "silk",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 109,
+      "target": 108,
+      "source_label": "gabba",
+      "target_label": "woolen fabrics",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 110,
+      "target": 111,
+      "source_label": "sambha calico prints",
+      "target_label": "floral and geometric designs",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 112,
+      "target": 33,
+      "source_label": "nambu",
+      "target_label": "wool",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 114,
+      "target": 115,
+      "source_label": "phirpa",
+      "target_label": "hand-woven woolen fabric",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 116,
+      "target": 117,
+      "source_label": "homemade ice",
+      "target_label": "united states",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 118,
+      "target": 119,
+      "source_label": "tampons",
+      "target_label": "applicators",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 120,
+      "target": 121,
+      "source_label": "language",
+      "target_label": "colloquial language and expressions",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 123,
+      "target": 122,
+      "source_label": "aldi",
+      "target_label": "wine",
+      "relation_type": "sells",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 124,
+      "target": 125,
+      "source_label": "chickpeas",
+      "target_label": "hispanic language",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 126,
+      "target": 127,
+      "source_label": "fanta",
+      "target_label": "high sugar content",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 128,
+      "target": 130,
+      "source_label": "umbrellas",
+      "target_label": "rain and sun protection",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 129,
+      "target": 130,
+      "source_label": "parasols",
+      "target_label": "rain and sun protection",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 131,
+      "target": 132,
+      "source_label": "alcohol",
+      "target_label": "beer and cocktails",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 134,
+      "target": 133,
+      "source_label": "server",
+      "target_label": "water",
+      "relation_type": "provides",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 136,
+      "target": 135,
+      "source_label": "name changes",
+      "target_label": "new surnames",
+      "relation_type": "makes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 137,
+      "target": 138,
+      "source_label": "mayonnaise",
+      "target_label": "lemon",
+      "relation_type": "can be substituted with",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 137,
+      "target": 139,
+      "source_label": "mayonnaise",
+      "target_label": "lime",
+      "relation_type": "can be substituted with",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 140,
+      "target": 141,
+      "source_label": "dishwashers",
+      "target_label": "technology",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 144,
+      "target": 145,
+      "source_label": "tailor-made items",
+      "target_label": "room",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 147,
+      "target": 150,
+      "source_label": "agreement",
+      "target_label": "tailor",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 148,
+      "target": 150,
+      "source_label": "bill",
+      "target_label": "tailor",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 149,
+      "target": 150,
+      "source_label": "receipt",
+      "target_label": "tailor",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 152,
+      "target": 154,
+      "source_label": "report papers",
+      "target_label": "paper",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 156,
+      "target": 155,
+      "source_label": "sealed plans",
+      "target_label": "raised seal",
+      "relation_type": "made from",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

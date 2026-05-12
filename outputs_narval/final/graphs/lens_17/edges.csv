@@ -1,0 +1,94 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,mahr,duba,made from,1,arabculture
+4,3,hatchala,brass bottle,made from,1,arabculture
+5,7,wrapping paper,colorful paper,made from,1,arabculture
+9,8,lasingphee,cloth,made from,1,diwali
+10,11,bhagalpuri silk,tussar silk,made from,2,diwali
+12,13,alacha fabric,silk,made from,1,diwali
+12,14,alacha fabric,cotton,made from,1,diwali
+15,16,kosa silk,cocoons,made from,1,diwali
+16,17,cocoons,antheraea mylitta silkworm,made from,1,diwali
+18,19,pata weaving,madder red,made from,1,diwali
+18,20,pata weaving,aal trees,made from,1,diwali
+21,22,kunbi saree,100% cotton,made from,1,diwali
+25,13,altar cloths,silk,made from,1,diwali
+25,24,altar cloths,velvet,made from,1,diwali
+26,13,liturgical vestments,silk,made from,1,diwali
+26,24,liturgical vestments,velvet,made from,1,diwali
+29,27,dhabla,coarse woolen yarns,made from,1,diwali
+29,28,dhabla,white or light grey,made from,1,diwali
+30,31,panja dhurrie,tool,made from,1,diwali
+32,33,kullu cap,wool,made from,1,diwali
+35,36,ilkal saree,warp,made from,1,diwali
+37,13,mysore silk sarees,silk,made from,1,diwali
+39,40,navalgund durries,handwoven rugs,made from,1,diwali
+44,41,lambani embroidery,patchwork,made from,1,diwali
+44,42,lambani embroidery,appliqué,made from,1,diwali
+44,43,lambani embroidery,mirror work,made from,1,diwali
+45,46,balaramapuram handloom,fine cotton fabric,made from,1,diwali
+47,48,thiruvananthapuram saree,fabric,made from,1,diwali
+49,13,chanderi saree,silk,made from,1,diwali
+49,14,chanderi saree,cotton,made from,1,diwali
+51,14,solapur chaddar,cotton,made from,1,diwali
+52,13,mashru fabric,silk,made from,1,diwali
+52,14,mashru fabric,cotton,made from,1,diwali
+53,54,chanderi sari,textiles,made from,1,diwali
+55,56,moirang phee,cotton or silk,made from,1,diwali
+57,58,samserla,hand-spun cotton,made from,1,diwali
+57,59,samserla,indigo,made from,1,diwali
+57,60,samserla,local leaves,made from,1,diwali
+61,62,puan,loom-woven,made from,1,diwali
+63,64,kotpad handloom,natural materials,made from,1,diwali
+65,66,habaspuri saree,fine cotton,made from,1,diwali
+68,67,sanganeri block print,wooden blocks,made from,1,diwali
+68,69,sanganeri block print,cotton fabrics,made from,1,diwali
+70,48,mothra,fabric,made from,1,diwali
+72,73,lepcha thara,stinging nettle,made from,1,diwali
+72,14,lepcha thara,cotton,made from,1,diwali
+72,74,lepcha thara,woolen yarns,made from,1,diwali
+75,76,2/20s cotton yarn,lepcha duree,made from,1,diwali
+77,14,sungudi sarees,cotton,made from,1,diwali
+78,14,pochampally ikat,cotton,made from,1,diwali
+78,13,pochampally ikat,silk,made from,1,diwali
+79,80,gadwal sarees,lightweight cotton,made from,1,diwali
+79,81,gadwal sarees,rich silk,made from,1,diwali
+83,84,gongadi blanket,woolen,made from,1,diwali
+85,86,riktu,plain cloth,made from,1,diwali
+9,14,lasingphee,cotton,made from,1,diwali
+88,33,thulma,wool,made from,1,diwali
+90,91,banarasi sari,finely woven silk,made from,1,diwali
+92,93,zardozi,gold,made from,1,diwali
+92,94,zardozi,silver,made from,1,diwali
+92,95,zardozi,pearls,made from,1,diwali
+92,96,zardozi,precious stones,made from,1,diwali
+97,98,tant sari,handloom cotton,made from,1,diwali
+101,99,zardozi embroidery,gold threads,made from,1,diwali
+101,100,zardozi embroidery,silver threads,made from,1,diwali
+102,103,pashmina shawl,changthangi goat,made from,1,diwali
+104,105,kani shawl,wooden spools called 'kanis',made from,1,diwali
+106,107,jamawar shawls,pashmina,made from,1,diwali
+106,13,jamawar shawls,silk,made from,1,diwali
+109,108,gabba,woolen fabrics,made from,1,diwali
+110,111,sambha calico prints,floral and geometric designs,made from,1,diwali
+112,33,nambu,wool,made from,1,diwali
+114,115,phirpa,hand-woven woolen fabric,made from,1,diwali
+116,117,homemade ice,united states,made from,1,culturebank
+118,119,tampons,applicators,made from,1,culturebank
+120,121,language,colloquial language and expressions,made from,1,culturebank
+123,122,aldi,wine,sells,1,culturebank
+124,125,chickpeas,hispanic language,made from,1,culturebank
+126,127,fanta,high sugar content,made from,1,culturebank
+128,130,umbrellas,rain and sun protection,made from,1,culturebank
+129,130,parasols,rain and sun protection,made from,1,culturebank
+131,132,alcohol,beer and cocktails,made from,1,culturebank
+134,133,server,water,provides,1,culturebank
+136,135,name changes,new surnames,makes,1,culturebank
+137,138,mayonnaise,lemon,can be substituted with,1,culturebank
+137,139,mayonnaise,lime,can be substituted with,1,culturebank
+140,141,dishwashers,technology,made from,1,culturebank
+144,145,tailor-made items,room,made from,1,candle
+147,150,agreement,tailor,made from,1,candle
+148,150,bill,tailor,made from,1,candle
+149,150,receipt,tailor,made from,1,candle
+152,154,report papers,paper,made from,1,candle
+156,155,sealed plans,raised seal,made from,1,candle

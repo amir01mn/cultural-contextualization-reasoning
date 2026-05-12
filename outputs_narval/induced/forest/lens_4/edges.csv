@@ -1,0 +1,79 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,special local dish,features,1,arabculture
+3,4,algerian weddings,nighttime festivities,feature,1,arabculture
+1,5,algeria,various customs and traditions,features,1,arabculture
+7,8,algiers,traditional dishes,features,1,arabculture
+9,10,nile valley,traditional meals,features,1,arabculture
+1,11,algeria,abundant food,features,1,arabculture
+12,13,festivities,folk dancing,feature,1,arabculture
+1,14,algeria,festive events,feature,1,arabculture
+6,15,food,intricate patterns,features,6,diwali
+6,16,food,intricate designs,features,4,diwali
+6,17,food,jamdani work,features,1,diwali
+6,18,food,simple straight lines and stripes,features,1,diwali
+6,19,food,straight lines and geometric patterns,features,1,diwali
+6,20,food,distinctive patterns,features,3,diwali
+21,6,handloom textiles,food,feature,1,diwali
+6,22,food,checks in red or green,features,1,diwali
+6,23,food,intricate floral patterns,features,1,diwali
+6,24,food,geometric patterns,features,1,diwali
+6,15,food,intricate patterns,feature,1,diwali
+6,25,food,wider patterns and decorations,features,1,diwali
+6,26,food,simple yet elegant patterns,features,1,diwali
+6,27,food,minimalist design,feature,1,diwali
+6,28,food,white or cream base with golden border,features,1,diwali
+6,29,food,traditional and contemporary designs,features,1,diwali
+6,30,food,intricate zari work,features,1,diwali
+6,31,food,satin finish with bright stripes or patterns,features,1,diwali
+6,32,food,plain weaving,features,1,diwali
+6,33,food,distinctive red borders,features,1,diwali
+6,34,food,intricate motifs,features,1,diwali
+6,35,food,symmetrical designs,features,1,diwali
+6,36,food,elaborate_designs,features,1,diwali
+37,20,hmaram,distinctive patterns,features,1,diwali
+21,38,handloom textiles,tribal patterns and colors,feature,1,diwali
+6,39,food,'phoda kumbha' design,feature,1,diwali
+40,15,jamdani,intricate patterns,features,3,diwali
+15,41,intricate patterns,floral motifs,feature,1,diwali
+6,42,food,distinctive dotted patterns,feature,1,diwali
+6,43,food,"bold checks, stripes, contrasting hues",features,1,diwali
+6,44,food,"rich colors, intricate designs",features,1,diwali
+45,46,cotton sarees,simple designs,feature,1,diwali
+45,15,cotton sarees,intricate patterns,features,1,diwali
+45,47,cotton sarees,self-designed jacquard pattern,features,1,diwali
+6,48,food,intricate weaving techniques,features,1,diwali
+6,49,food,geometric and floral motifs,features,1,diwali
+6,50,food,traditional kashmiri motifs,feature,1,diwali
+6,51,food,floral and geometric designs,feature,1,diwali
+6,16,food,intricate designs,feature,1,diwali
+6,52,food,vibrant music,features,1,diwali
+53,54,shopping malls,common snacks,feature,1,blend
+1,55,algeria,popular indoor activity for families,features,1,blend
+1,56,algeria,football,features,1,blend
+1,57,algeria,handball,features,1,blend
+1,58,algeria,basketball,features,1,blend
+1,6,algeria,food,features,3,blend
+6,59,food,giving flowers,feature,1,blend
+60,61,university students,cultural events,feature,1,blend
+62,63,national television,popular sports in algeria,features,1,blend
+1,64,algeria,gender-specific sports in education,features,1,blend
+65,6,nurse,food,features,1,blend
+1,66,algeria,middle-aged sports enthusiasts,features,1,blend
+1,67,algeria,couscous,features,1,blend
+1,68,algeria,use of legumes,features,1,blend
+6,69,food,meat consumption,feature,1,blend
+1,70,algeria,interest in extreme sports,features,1,blend
+6,71,food,various events,feature,1,blend
+72,73,family dinners,local fruits,feature,1,blend
+1,74,algeria,retired men's leisure activities,features,1,blend
+1,75,algeria,quick meal options,features,1,blend
+76,77,dz cuisine,various cheeses,features,1,blend
+78,79,food court,various algerian cuisines,features,1,blend
+1,80,algeria,collective prayer spaces,features,1,blend
+1,81,algeria,parks for seniors,features,1,blend
+1,82,algeria,professional sports,features,1,blend
+6,83,food,fireworks display,feature,1,blend
+84,6,weekend family meals,food,feature,1,blend
+6,85,food,judge,features,1,candle
+6,86,food,tailor-made,feature,1,candle
+87,88,dining room,hanging chandeliers,features,1,candle

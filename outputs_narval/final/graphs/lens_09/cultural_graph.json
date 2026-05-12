@@ -1,0 +1,2873 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algerians",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 2,
+      "label": "providing fruits when visiting a patient",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "children",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 7
+    },
+    {
+      "id": 4,
+      "label": "performing their favorite traditions",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "maa'ayidah",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "family and acquaintances",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "banat",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "thigh meat",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "greetings",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 10,
+      "label": "mokalat al-tawaleel lil-salam",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "avoiding provocations without talking",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "child",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "home",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "game",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "women",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "visiting the grave",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "a song",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "family",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 19,
+      "label": "parents",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 20,
+      "label": "outings",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 8
+    },
+    {
+      "id": 22,
+      "label": "proverb",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "bench",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "sons",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "meeting",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "children",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 27,
+      "label": "breakfast",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 28,
+      "label": "milk with chocolate",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "kuskus",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "saher",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "mashwi",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "children",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 33,
+      "label": "adults",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "making children happy",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "celebrating mawlid al-nabi",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "girls",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "spending time together",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "women",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "daughters",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "street",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "banat",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "meeting together",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "women",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 44,
+      "label": "television",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "adherence to eating etiquette",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "eating",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 47,
+      "label": "giving gifts",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "playing sports",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "optimal conditions for children",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "proverb",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 51,
+      "label": "algeria",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 52,
+      "label": "good deeds",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "egypt",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 54,
+      "label": "baticha",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "youth",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "valentine's day",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "salam alaikum",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "entering transportation or a house or place",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "communication",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "interaction",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "bint",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "looking at her mouth",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "egypt",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "siblings",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "sharing",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "ahmed",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "egyptian breakfast",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "jamees",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "joafa",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "mohamed",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "sham al-nisim",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "watching lumbi",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "sixth of october",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "afтар",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "returning home after work/study",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "mohamed and his friends",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "playing",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "coffee",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "general",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 6
+    },
+    {
+      "id": 80,
+      "label": "general",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 81,
+      "label": "prices and availability",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "audience",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "employer",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "gratitude",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "a variety of breakfast options",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "friendliness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "kindness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "openness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "display",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "customer",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 91,
+      "label": "service staff",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "dissatisfaction",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "frustration",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "behavior",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "shopping",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 8
+    },
+    {
+      "id": 97,
+      "label": "peanut butter",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "smile",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "eye contact",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "people",
+      "level": 5,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "chicken burger",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "athleisure wear",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "crunchy and sweet breakfast",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "iced coffee",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "morning",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "american candy",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "pizza",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "customers",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 109,
+      "label": "free water",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "comments",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "positive comments, compliments, and sarcasm",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "people",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 113,
+      "label": "wine consumption",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "ice cream",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "customers",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "staff",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "serving",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "parties",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "leisure activities",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "grapes",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "intermission",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "breaks and socializing",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "pancakes",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "burgers",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "order eggs in various ways",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "chicken and waffles",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "employees",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "during off work hours",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "maintaining cleanliness and manners",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "missing home",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "enjoying germany",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "germany",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "hiking",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "camping",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "picking berries",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "nature",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "expressing emotions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "a wide range of emotions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "embarrassment",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "bodily functions and lifestyle",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "gift-giving",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "recipient",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "various sauces",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "sunflower seeds",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "pumpkin spice",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 146,
+      "label": "latte",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "frappe",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 148,
+      "label": "united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "greeting",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "hugging",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 151,
+      "label": "vacations",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 152,
+      "label": "socializing",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "coffee shop",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 154,
+      "label": "good news broadcasts",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "snacks",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "sports",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 157,
+      "label": "females",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 158,
+      "label": "leisure activity",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 159,
+      "label": "people from algeria",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 160,
+      "label": "cafe beverage",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 161,
+      "label": "male students",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 162,
+      "label": "lunch time",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 163,
+      "label": "school",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 164,
+      "label": "sports event",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 165,
+      "label": "food",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 166,
+      "label": "people from algeria",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 167,
+      "label": "new year's day",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 168,
+      "label": "sport",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 169,
+      "label": "beverage",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 170,
+      "label": "elderly",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 171,
+      "label": "people",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 172,
+      "label": "christmas day",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 173,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 174,
+      "label": "others",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 175,
+      "label": "giving tests",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 176,
+      "label": "students",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 177,
+      "label": "listen",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 178,
+      "label": "listen",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 179,
+      "label": "teachers",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 180,
+      "label": "greet",
+      "level": 1,
+      "cultural_group": "rituals",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 181,
+      "label": "reviews",
+      "level": 4,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 182,
+      "label": "attestation",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 183,
+      "label": "nurse",
+      "level": 5,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 184,
+      "label": "patient",
+      "level": 5,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 185,
+      "label": "politician",
+      "level": 5,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 186,
+      "label": "cutting ribbon",
+      "level": 2,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 187,
+      "label": "architect",
+      "level": 1,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 188,
+      "label": "something permanent",
+      "level": 2,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 189,
+      "label": "receptionist",
+      "level": 5,
+      "cultural_group": "occupation",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 190,
+      "label": "guest",
+      "level": 5,
+      "cultural_group": "person",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 191,
+      "label": "medical receptionist",
+      "level": 4,
+      "cultural_group": "receptionist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algerians",
+      "target_label": "providing fruits when visiting a patient",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "children",
+      "target_label": "performing their favorite traditions",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "maa'ayidah",
+      "target_label": "family and acquaintances",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "banat",
+      "target_label": "thigh meat",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "algerians",
+      "target_label": "mokalat al-tawaleel lil-salam",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "source_label": "children",
+      "target_label": "avoiding provocations without talking",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "source_label": "child",
+      "target_label": "game",
+      "relation_type": "enjoys playing",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "women",
+      "target_label": "visiting the grave",
+      "relation_type": "enjoy visiting the grave",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "a song",
+      "target_label": "family",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "parents",
+      "target_label": "outings",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 20,
+      "source_label": "children",
+      "target_label": "outings",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "algeria",
+      "target_label": "proverb",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "sons",
+      "target_label": "meeting",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 27,
+      "source_label": "children",
+      "target_label": "breakfast",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "breakfast",
+      "target_label": "milk with chocolate",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 21,
+      "target": 29,
+      "source_label": "algeria",
+      "target_label": "kuskus",
+      "relation_type": "enjoys eating",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "source_label": "saher",
+      "target_label": "mashwi",
+      "relation_type": "enjoy eating",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "adults",
+      "target_label": "making children happy",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 35,
+      "source_label": "algerians",
+      "target_label": "celebrating mawlid al-nabi",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "source_label": "girls",
+      "target_label": "spending time together",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 39,
+      "source_label": "women",
+      "target_label": "daughters",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 40,
+      "source_label": "children",
+      "target_label": "street",
+      "relation_type": "enjoy playing",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 42,
+      "source_label": "banat",
+      "target_label": "meeting together",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 44,
+      "source_label": "women",
+      "target_label": "television",
+      "relation_type": "enjoy watching",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 45,
+      "source_label": "algerians",
+      "target_label": "adherence to eating etiquette",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 46,
+      "source_label": "algerians",
+      "target_label": "eating",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 47,
+      "source_label": "algerians",
+      "target_label": "giving gifts",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 48,
+      "source_label": "children",
+      "target_label": "playing sports",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 49,
+      "source_label": "parents",
+      "target_label": "optimal conditions for children",
+      "relation_type": "enjoy providing",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 22,
+      "target": 21,
+      "source_label": "proverb",
+      "target_label": "algeria",
+      "relation_type": "enjoy",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 21,
+      "target": 52,
+      "source_label": "algeria",
+      "target_label": "good deeds",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "source_label": "egypt",
+      "target_label": "baticha",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 55,
+      "target": 56,
+      "source_label": "youth",
+      "target_label": "valentine's day",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "source_label": "salam alaikum",
+      "target_label": "entering transportation or a house or place",
+      "relation_type": "enjoy saying",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "source_label": "communication",
+      "target_label": "interaction",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "source_label": "bint",
+      "target_label": "looking at her mouth",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 22,
+      "target": 53,
+      "source_label": "proverb",
+      "target_label": "egypt",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "source_label": "siblings",
+      "target_label": "sharing",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 3,
+      "source_label": "parents",
+      "target_label": "children",
+      "relation_type": "read to",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "source_label": "ahmed",
+      "target_label": "egyptian breakfast",
+      "relation_type": "enjoys eating",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 53,
+      "target": 68,
+      "source_label": "egypt",
+      "target_label": "jamees",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 69,
+      "target": 70,
+      "source_label": "joafa",
+      "target_label": "mohamed",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 71,
+      "target": 72,
+      "source_label": "sham al-nisim",
+      "target_label": "watching lumbi",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 73,
+      "source_label": "family",
+      "target_label": "sixth of october",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 53,
+      "target": 74,
+      "source_label": "egypt",
+      "target_label": "afтар",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 53,
+      "target": 75,
+      "source_label": "egypt",
+      "target_label": "returning home after work/study",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 76,
+      "target": 77,
+      "source_label": "mohamed and his friends",
+      "target_label": "playing",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "source_label": "coffee",
+      "target_label": "general",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 79,
+      "target": 81,
+      "source_label": "general",
+      "target_label": "prices and availability",
+      "relation_type": "complain about",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 82,
+      "target": 84,
+      "source_label": "audience",
+      "target_label": "gratitude",
+      "relation_type": "enjoy expressing gratitude",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 83,
+      "target": 84,
+      "source_label": "employer",
+      "target_label": "gratitude",
+      "relation_type": "enjoy expressing gratitude",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 27,
+      "target": 85,
+      "source_label": "breakfast",
+      "target_label": "a variety of breakfast options",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 86,
+      "target": 89,
+      "source_label": "friendliness",
+      "target_label": "display",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 87,
+      "target": 89,
+      "source_label": "kindness",
+      "target_label": "display",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 88,
+      "target": 89,
+      "source_label": "openness",
+      "target_label": "display",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 91,
+      "source_label": "customer",
+      "target_label": "service staff",
+      "relation_type": "receive better service",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 92,
+      "source_label": "customer",
+      "target_label": "dissatisfaction",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 93,
+      "source_label": "customer",
+      "target_label": "frustration",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 94,
+      "source_label": "customer",
+      "target_label": "behavior",
+      "relation_type": "demand",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "source_label": "united states",
+      "target_label": "peanut butter",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 98,
+      "source_label": "greetings",
+      "target_label": "smile",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 99,
+      "source_label": "greetings",
+      "target_label": "eye contact",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 100,
+      "target": 101,
+      "source_label": "people",
+      "target_label": "chicken burger",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 96,
+      "target": 102,
+      "source_label": "united states",
+      "target_label": "athleisure wear",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 79,
+      "target": 103,
+      "source_label": "general",
+      "target_label": "crunchy and sweet breakfast",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 104,
+      "target": 105,
+      "source_label": "iced coffee",
+      "target_label": "morning",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 79,
+      "target": 106,
+      "source_label": "general",
+      "target_label": "american candy",
+      "relation_type": "expressing surprise at the availability and prices",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 107,
+      "target": 96,
+      "source_label": "pizza",
+      "target_label": "united states",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 108,
+      "target": 109,
+      "source_label": "customers",
+      "target_label": "free water",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 110,
+      "target": 111,
+      "source_label": "comments",
+      "target_label": "positive comments, compliments, and sarcasm",
+      "relation_type": "express gratitude, appreciation, and opinions through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 100,
+      "target": 113,
+      "source_label": "people",
+      "target_label": "wine consumption",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 114,
+      "target": 96,
+      "source_label": "ice cream",
+      "target_label": "united states",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 108,
+      "target": 46,
+      "source_label": "customers",
+      "target_label": "eating",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 116,
+      "target": 117,
+      "source_label": "staff",
+      "target_label": "serving",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 118,
+      "target": 119,
+      "source_label": "parties",
+      "target_label": "leisure activities",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 119,
+      "target": 118,
+      "source_label": "leisure activities",
+      "target_label": "parties",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 120,
+      "source_label": "children",
+      "target_label": "grapes",
+      "relation_type": "enjoy eating",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "source_label": "intermission",
+      "target_label": "breaks and socializing",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 96,
+      "target": 123,
+      "source_label": "united states",
+      "target_label": "pancakes",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 79,
+      "target": 124,
+      "source_label": "general",
+      "target_label": "burgers",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 108,
+      "target": 125,
+      "source_label": "customers",
+      "target_label": "order eggs in various ways",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 126,
+      "target": 79,
+      "source_label": "chicken and waffles",
+      "target_label": "general",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 127,
+      "target": 128,
+      "source_label": "employees",
+      "target_label": "during off work hours",
+      "relation_type": "expect not to be contacted",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 79,
+      "target": 129,
+      "source_label": "general",
+      "target_label": "maintaining cleanliness and manners",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 130,
+      "target": 132,
+      "source_label": "missing home",
+      "target_label": "germany",
+      "relation_type": "express homesickness",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 131,
+      "target": 132,
+      "source_label": "enjoying germany",
+      "target_label": "germany",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 133,
+      "target": 136,
+      "source_label": "hiking",
+      "target_label": "nature",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 134,
+      "target": 136,
+      "source_label": "camping",
+      "target_label": "nature",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 135,
+      "target": 136,
+      "source_label": "picking berries",
+      "target_label": "nature",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 137,
+      "target": 138,
+      "source_label": "expressing emotions",
+      "target_label": "a wide range of emotions",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 139,
+      "target": 140,
+      "source_label": "embarrassment",
+      "target_label": "bodily functions and lifestyle",
+      "relation_type": "related to",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 141,
+      "target": 142,
+      "source_label": "gift-giving",
+      "target_label": "recipient",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 96,
+      "target": 143,
+      "source_label": "united states",
+      "target_label": "various sauces",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 96,
+      "target": 144,
+      "source_label": "united states",
+      "target_label": "sunflower seeds",
+      "relation_type": "enjoy consuming",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 145,
+      "target": 96,
+      "source_label": "pumpkin spice",
+      "target_label": "united states",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 146,
+      "target": 96,
+      "source_label": "latte",
+      "target_label": "united states",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 147,
+      "target": 96,
+      "source_label": "frappe",
+      "target_label": "united states",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 149,
+      "target": 150,
+      "source_label": "greeting",
+      "target_label": "hugging",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 153,
+      "target": 152,
+      "source_label": "coffee shop",
+      "target_label": "socializing",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 96,
+      "target": 154,
+      "source_label": "united states",
+      "target_label": "good news broadcasts",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 155,
+      "target": 79,
+      "source_label": "snacks",
+      "target_label": "general",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 21,
+      "target": 100,
+      "source_label": "algeria",
+      "target_label": "people",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 156,
+      "source_label": "women",
+      "target_label": "sports",
+      "relation_type": "enjoy playing",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 156,
+      "source_label": "women",
+      "target_label": "sports",
+      "relation_type": "enjoy watching",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 157,
+      "target": 158,
+      "source_label": "females",
+      "target_label": "leisure activity",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 159,
+      "target": 160,
+      "source_label": "people from algeria",
+      "target_label": "cafe beverage",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 161,
+      "target": 156,
+      "source_label": "male students",
+      "target_label": "sports",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 21,
+      "target": 164,
+      "source_label": "algeria",
+      "target_label": "sports event",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 21,
+      "target": 165,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 159,
+      "target": 167,
+      "source_label": "people from algeria",
+      "target_label": "new year's day",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 168,
+      "source_label": "women",
+      "target_label": "sport",
+      "relation_type": "enjoy watching",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 21,
+      "target": 169,
+      "source_label": "algeria",
+      "target_label": "beverage",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 170,
+      "target": 165,
+      "source_label": "elderly",
+      "target_label": "food",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 165,
+      "source_label": "children",
+      "target_label": "food",
+      "relation_type": "dislike",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 100,
+      "target": 172,
+      "source_label": "people",
+      "target_label": "christmas day",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 173,
+      "target": 175,
+      "source_label": "teacher",
+      "target_label": "giving tests",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 176,
+      "target": 177,
+      "source_label": "students",
+      "target_label": "listen",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 177,
+      "source_label": "children",
+      "target_label": "listen",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 179,
+      "target": 176,
+      "source_label": "teachers",
+      "target_label": "students",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 173,
+      "target": 180,
+      "source_label": "teacher",
+      "target_label": "greet",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 181,
+      "target": 182,
+      "source_label": "reviews",
+      "target_label": "attestation",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 183,
+      "target": 184,
+      "source_label": "nurse",
+      "target_label": "patient",
+      "relation_type": "greet",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 185,
+      "target": 186,
+      "source_label": "politician",
+      "target_label": "cutting ribbon",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 187,
+      "target": 188,
+      "source_label": "architect",
+      "target_label": "something permanent",
+      "relation_type": "strive to leave behind",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 189,
+      "target": 190,
+      "source_label": "receptionist",
+      "target_label": "guest",
+      "relation_type": "greet",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 191,
+      "target": 184,
+      "source_label": "medical receptionist",
+      "target_label": "patient",
+      "relation_type": "greet",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,1475 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {
+    "name": "cross_lens_meta_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "uses",
+      "lens_dir": "lens_00",
+      "node_count": 854
+    },
+    {
+      "id": 1,
+      "label": "performs",
+      "lens_dir": "lens_01",
+      "node_count": 692
+    },
+    {
+      "id": 2,
+      "label": "includes",
+      "lens_dir": "lens_02",
+      "node_count": 42
+    },
+    {
+      "id": 3,
+      "label": "participate in",
+      "lens_dir": "lens_03",
+      "node_count": 117
+    },
+    {
+      "id": 4,
+      "label": "practices",
+      "lens_dir": "lens_04",
+      "node_count": 53
+    },
+    {
+      "id": 5,
+      "label": "features",
+      "lens_dir": "lens_05",
+      "node_count": 76
+    },
+    {
+      "id": 6,
+      "label": "involves",
+      "lens_dir": "lens_06",
+      "node_count": 28
+    },
+    {
+      "id": 7,
+      "label": "values",
+      "lens_dir": "lens_07",
+      "node_count": 151
+    },
+    {
+      "id": 8,
+      "label": "symbolizes",
+      "lens_dir": "lens_08",
+      "node_count": 67
+    },
+    {
+      "id": 9,
+      "label": "enjoy",
+      "lens_dir": "lens_09",
+      "node_count": 177
+    },
+    {
+      "id": 10,
+      "label": "originates from",
+      "lens_dir": "lens_10",
+      "node_count": 370
+    },
+    {
+      "id": 11,
+      "label": "reflects",
+      "lens_dir": "lens_11",
+      "node_count": 353
+    },
+    {
+      "id": 12,
+      "label": "expresses",
+      "lens_dir": "lens_12",
+      "node_count": 172
+    },
+    {
+      "id": 13,
+      "label": "characterized by",
+      "lens_dir": "lens_13",
+      "node_count": 335
+    },
+    {
+      "id": 14,
+      "label": "prepares",
+      "lens_dir": "lens_14",
+      "node_count": 536
+    },
+    {
+      "id": 15,
+      "label": "prefer",
+      "lens_dir": "lens_15",
+      "node_count": 280
+    },
+    {
+      "id": 16,
+      "label": "varies by",
+      "lens_dir": "lens_16",
+      "node_count": 385
+    },
+    {
+      "id": 17,
+      "label": "made from",
+      "lens_dir": "lens_17",
+      "node_count": 149
+    },
+    {
+      "id": 18,
+      "label": "receives",
+      "lens_dir": "lens_18",
+      "node_count": 73
+    },
+    {
+      "id": 19,
+      "label": "is",
+      "lens_dir": "lens_19",
+      "node_count": 1151
+    }
+  ],
+  "links": [
+    {
+      "source": 14,
+      "target": 19,
+      "source_lens_name": "prepares",
+      "target_lens_name": "is",
+      "weight": 141,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 0,
+      "target": 19,
+      "source_lens_name": "uses",
+      "target_lens_name": "is",
+      "weight": 129,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_lens_name": "performs",
+      "target_lens_name": "is",
+      "weight": 104,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 10,
+      "target": 19,
+      "source_lens_name": "originates from",
+      "target_lens_name": "is",
+      "weight": 90,
+      "top_shared": "human, united states, algeria, women, family"
+    },
+    {
+      "source": 0,
+      "target": 14,
+      "source_lens_name": "uses",
+      "target_lens_name": "prepares",
+      "weight": 88,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 16,
+      "target": 19,
+      "source_lens_name": "varies by",
+      "target_lens_name": "is",
+      "weight": 87,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 0,
+      "target": 1,
+      "source_lens_name": "uses",
+      "target_lens_name": "performs",
+      "weight": 76,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 11,
+      "target": 19,
+      "source_lens_name": "reflects",
+      "target_lens_name": "is",
+      "weight": 74,
+      "top_shared": "human, united states, teacher, settings, textiles"
+    },
+    {
+      "source": 13,
+      "target": 19,
+      "source_lens_name": "characterized by",
+      "target_lens_name": "is",
+      "weight": 74,
+      "top_shared": "human, united states, algeria, intricate designs, fruit"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_lens_name": "performs",
+      "target_lens_name": "reflects",
+      "weight": 70,
+      "top_shared": "human, united states, teacher, textiles, weddings"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_lens_name": "performs",
+      "target_lens_name": "prepares",
+      "weight": 70,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "source_lens_name": "originates from",
+      "target_lens_name": "prepares",
+      "weight": 67,
+      "top_shared": "human, united states, algeria, women, family"
+    },
+    {
+      "source": 0,
+      "target": 16,
+      "source_lens_name": "uses",
+      "target_lens_name": "varies by",
+      "weight": 61,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 0,
+      "target": 15,
+      "source_lens_name": "uses",
+      "target_lens_name": "prefer",
+      "weight": 58,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "source_lens_name": "uses",
+      "target_lens_name": "enjoy",
+      "weight": 57,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_lens_name": "performs",
+      "target_lens_name": "characterized by",
+      "weight": 56,
+      "top_shared": "human, united states, algeria, folk dance, muga silk"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_lens_name": "characterized by",
+      "target_lens_name": "prepares",
+      "weight": 53,
+      "top_shared": "human, united states, algeria, intricate designs, bread"
+    },
+    {
+      "source": 15,
+      "target": 19,
+      "source_lens_name": "prefer",
+      "target_lens_name": "is",
+      "weight": 53,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 0,
+      "target": 10,
+      "source_lens_name": "uses",
+      "target_lens_name": "originates from",
+      "weight": 50,
+      "top_shared": "human, united states, algeria, women, family"
+    },
+    {
+      "source": 14,
+      "target": 16,
+      "source_lens_name": "prepares",
+      "target_lens_name": "varies by",
+      "weight": 47,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 7,
+      "target": 19,
+      "source_lens_name": "values",
+      "target_lens_name": "is",
+      "weight": 45,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_lens_name": "performs",
+      "target_lens_name": "participate in",
+      "weight": 43,
+      "top_shared": "human, united states, teacher, nurse, women"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_lens_name": "prefer",
+      "target_lens_name": "varies by",
+      "weight": 41,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_lens_name": "performs",
+      "target_lens_name": "varies by",
+      "weight": 40,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 9,
+      "target": 19,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "is",
+      "weight": 40,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 14,
+      "target": 17,
+      "source_lens_name": "prepares",
+      "target_lens_name": "made from",
+      "weight": 40,
+      "top_shared": "human, united states, fabric, textiles, lasingphee"
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "source_lens_name": "reflects",
+      "target_lens_name": "characterized by",
+      "weight": 39,
+      "top_shared": "human, united states, intricate designs, folk dance, vibrant colors"
+    },
+    {
+      "source": 10,
+      "target": 16,
+      "source_lens_name": "originates from",
+      "target_lens_name": "varies by",
+      "weight": 38,
+      "top_shared": "human, united states, algeria, women, food"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_lens_name": "prepares",
+      "target_lens_name": "prefer",
+      "weight": 38,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 3,
+      "target": 19,
+      "source_lens_name": "participate in",
+      "target_lens_name": "is",
+      "weight": 32,
+      "top_shared": "human, united states, teacher, nurse, women"
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "source_lens_name": "features",
+      "target_lens_name": "characterized by",
+      "weight": 32,
+      "top_shared": "human, intricate designs, puan, vibrant colors, intricate patterns"
+    },
+    {
+      "source": 11,
+      "target": 14,
+      "source_lens_name": "reflects",
+      "target_lens_name": "prepares",
+      "weight": 32,
+      "top_shared": "human, united states, teacher, textiles, intricate designs"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_lens_name": "performs",
+      "target_lens_name": "enjoy",
+      "weight": 31,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_lens_name": "performs",
+      "target_lens_name": "originates from",
+      "weight": 31,
+      "top_shared": "human, united states, algeria, women, family"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_lens_name": "reflects",
+      "target_lens_name": "expresses",
+      "weight": 31,
+      "top_shared": "human, united states, settings, artist, workplace"
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "source_lens_name": "made from",
+      "target_lens_name": "is",
+      "weight": 31,
+      "top_shared": "human, united states, fabric, textiles, language"
+    },
+    {
+      "source": 12,
+      "target": 19,
+      "source_lens_name": "expresses",
+      "target_lens_name": "is",
+      "weight": 30,
+      "top_shared": "human, united states, settings, artist, tipping"
+    },
+    {
+      "source": 0,
+      "target": 7,
+      "source_lens_name": "uses",
+      "target_lens_name": "values",
+      "weight": 29,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 0,
+      "target": 11,
+      "source_lens_name": "uses",
+      "target_lens_name": "reflects",
+      "weight": 29,
+      "top_shared": "human, united states, teacher, settings, weddings"
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "source_lens_name": "originates from",
+      "target_lens_name": "characterized by",
+      "weight": 29,
+      "top_shared": "human, united states, algeria, fruit, bread"
+    },
+    {
+      "source": 5,
+      "target": 19,
+      "source_lens_name": "features",
+      "target_lens_name": "is",
+      "weight": 28,
+      "top_shared": "human, fabric, intricate designs, puan, vibrant colors"
+    },
+    {
+      "source": 9,
+      "target": 14,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "prepares",
+      "weight": 27,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 10,
+      "target": 17,
+      "source_lens_name": "originates from",
+      "target_lens_name": "made from",
+      "weight": 27,
+      "top_shared": "human, united states, lasingphee, pochampally ikat, mahr"
+    },
+    {
+      "source": 11,
+      "target": 16,
+      "source_lens_name": "reflects",
+      "target_lens_name": "varies by",
+      "weight": 25,
+      "top_shared": "human, united states, teacher, settings, textiles"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_lens_name": "performs",
+      "target_lens_name": "prefer",
+      "weight": 23,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 13,
+      "target": 17,
+      "source_lens_name": "characterized by",
+      "target_lens_name": "made from",
+      "weight": 23,
+      "top_shared": "human, united states, puan, pochampally ikat, lepcha thara"
+    },
+    {
+      "source": 7,
+      "target": 11,
+      "source_lens_name": "values",
+      "target_lens_name": "reflects",
+      "weight": 22,
+      "top_shared": "human, united states, teacher, artist, workplace"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "originates from",
+      "weight": 22,
+      "top_shared": "human, united states, algeria, women, family"
+    },
+    {
+      "source": 9,
+      "target": 15,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "prefer",
+      "weight": 22,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 9,
+      "target": 16,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "varies by",
+      "weight": 22,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_lens_name": "originates from",
+      "target_lens_name": "reflects",
+      "weight": 22,
+      "top_shared": "human, united states, air conditioning, holidays, gamosa"
+    },
+    {
+      "source": 0,
+      "target": 3,
+      "source_lens_name": "uses",
+      "target_lens_name": "participate in",
+      "weight": 21,
+      "top_shared": "human, united states, teacher, nurse, women"
+    },
+    {
+      "source": 12,
+      "target": 16,
+      "source_lens_name": "expresses",
+      "target_lens_name": "varies by",
+      "weight": 21,
+      "top_shared": "human, united states, settings, general, artist"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_lens_name": "performs",
+      "target_lens_name": "values",
+      "weight": 20,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "source_lens_name": "performs",
+      "target_lens_name": "expresses",
+      "weight": 20,
+      "top_shared": "human, united states, rikham pada, chakhela dance, chomangkan dance"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_lens_name": "receives",
+      "target_lens_name": "is",
+      "weight": 20,
+      "top_shared": "human, united states, family, children, food"
+    },
+    {
+      "source": 3,
+      "target": 16,
+      "source_lens_name": "participate in",
+      "target_lens_name": "varies by",
+      "weight": 19,
+      "top_shared": "human, united states, teacher, nurse, women"
+    },
+    {
+      "source": 0,
+      "target": 17,
+      "source_lens_name": "uses",
+      "target_lens_name": "made from",
+      "weight": 18,
+      "top_shared": "human, united states, fabric, lasingphee, language"
+    },
+    {
+      "source": 0,
+      "target": 18,
+      "source_lens_name": "uses",
+      "target_lens_name": "receives",
+      "weight": 18,
+      "top_shared": "human, united states, family, children, food"
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "source_lens_name": "features",
+      "target_lens_name": "prepares",
+      "weight": 18,
+      "top_shared": "human, fabric, intricate designs, intricate patterns, tsugdan"
+    },
+    {
+      "source": 0,
+      "target": 12,
+      "source_lens_name": "uses",
+      "target_lens_name": "expresses",
+      "weight": 17,
+      "top_shared": "human, united states, settings, general, workplace"
+    },
+    {
+      "source": 8,
+      "target": 19,
+      "source_lens_name": "symbolizes",
+      "target_lens_name": "is",
+      "weight": 17,
+      "top_shared": "human, intricate designs, new year, muga silk, discipline"
+    },
+    {
+      "source": 10,
+      "target": 15,
+      "source_lens_name": "originates from",
+      "target_lens_name": "prefer",
+      "weight": 17,
+      "top_shared": "human, united states, algeria, women, doctor"
+    },
+    {
+      "source": 14,
+      "target": 18,
+      "source_lens_name": "prepares",
+      "target_lens_name": "receives",
+      "weight": 17,
+      "top_shared": "human, united states, family, food, wedding"
+    },
+    {
+      "source": 4,
+      "target": 14,
+      "source_lens_name": "practices",
+      "target_lens_name": "prepares",
+      "weight": 16,
+      "top_shared": "human, united states, nurse, doctor, general"
+    },
+    {
+      "source": 5,
+      "target": 11,
+      "source_lens_name": "features",
+      "target_lens_name": "reflects",
+      "weight": 16,
+      "top_shared": "human, intricate designs, vibrant colors, intricate patterns, khes"
+    },
+    {
+      "source": 13,
+      "target": 16,
+      "source_lens_name": "characterized by",
+      "target_lens_name": "varies by",
+      "weight": 16,
+      "top_shared": "human, united states, algeria, bread, khes"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "source_lens_name": "performs",
+      "target_lens_name": "includes",
+      "weight": 15,
+      "top_shared": "human, fabric, textiles, dhurrie, risa"
+    },
+    {
+      "source": 3,
+      "target": 15,
+      "source_lens_name": "participate in",
+      "target_lens_name": "prefer",
+      "weight": 15,
+      "top_shared": "human, united states, teacher, nurse, women"
+    },
+    {
+      "source": 7,
+      "target": 12,
+      "source_lens_name": "values",
+      "target_lens_name": "expresses",
+      "weight": 15,
+      "top_shared": "human, united states, artist, workplace, american"
+    },
+    {
+      "source": 7,
+      "target": 14,
+      "source_lens_name": "values",
+      "target_lens_name": "prepares",
+      "weight": 15,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 7,
+      "target": 16,
+      "source_lens_name": "values",
+      "target_lens_name": "varies by",
+      "weight": 15,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_lens_name": "performs",
+      "target_lens_name": "symbolizes",
+      "weight": 14,
+      "top_shared": "human, muga silk, festival, pichhora, white"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "source_lens_name": "participate in",
+      "target_lens_name": "values",
+      "weight": 14,
+      "top_shared": "human, united states, teacher, nurse, children"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "source_lens_name": "values",
+      "target_lens_name": "enjoy",
+      "weight": 14,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "source_lens_name": "values",
+      "target_lens_name": "originates from",
+      "weight": 14,
+      "top_shared": "human, united states, algeria, family, doctor"
+    },
+    {
+      "source": 9,
+      "target": 18,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "receives",
+      "weight": 14,
+      "top_shared": "human, united states, family, children, food"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_lens_name": "performs",
+      "target_lens_name": "features",
+      "weight": 13,
+      "top_shared": "human, fabric, puan, miri jimo, dakmanda"
+    },
+    {
+      "source": 4,
+      "target": 19,
+      "source_lens_name": "practices",
+      "target_lens_name": "is",
+      "weight": 13,
+      "top_shared": "human, united states, nurse, doctor, artist"
+    },
+    {
+      "source": 7,
+      "target": 15,
+      "source_lens_name": "values",
+      "target_lens_name": "prefer",
+      "weight": 13,
+      "top_shared": "human, united states, teacher, algeria, nurse"
+    },
+    {
+      "source": 8,
+      "target": 11,
+      "source_lens_name": "symbolizes",
+      "target_lens_name": "reflects",
+      "weight": 13,
+      "top_shared": "human, intricate designs, new year, pichhora, gamosa"
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "reflects",
+      "weight": 13,
+      "top_shared": "human, united states, teacher, communication, sports"
+    },
+    {
+      "source": 9,
+      "target": 12,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "expresses",
+      "weight": 13,
+      "top_shared": "human, united states, general, greetings, gratitude"
+    },
+    {
+      "source": 11,
+      "target": 17,
+      "source_lens_name": "reflects",
+      "target_lens_name": "made from",
+      "weight": 13,
+      "top_shared": "human, united states, textiles, water, chanderi saree"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_lens_name": "performs",
+      "target_lens_name": "practices",
+      "weight": 12,
+      "top_shared": "human, united states, nurse, quilts, dhurrie"
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "source_lens_name": "participate in",
+      "target_lens_name": "reflects",
+      "weight": 12,
+      "top_shared": "human, united states, teacher, settings, weddings"
+    },
+    {
+      "source": 3,
+      "target": 14,
+      "source_lens_name": "participate in",
+      "target_lens_name": "prepares",
+      "weight": 12,
+      "top_shared": "human, united states, teacher, nurse, women"
+    },
+    {
+      "source": 10,
+      "target": 18,
+      "source_lens_name": "originates from",
+      "target_lens_name": "receives",
+      "weight": 12,
+      "top_shared": "human, united states, family, food, wedding"
+    },
+    {
+      "source": 16,
+      "target": 18,
+      "source_lens_name": "varies by",
+      "target_lens_name": "receives",
+      "weight": 12,
+      "top_shared": "human, united states, food, people, customer"
+    },
+    {
+      "source": 4,
+      "target": 16,
+      "source_lens_name": "practices",
+      "target_lens_name": "varies by",
+      "weight": 11,
+      "top_shared": "human, united states, nurse, doctor, general"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_lens_name": "varies by",
+      "target_lens_name": "made from",
+      "weight": 11,
+      "top_shared": "human, united states, textiles, language, navalgund durries"
+    },
+    {
+      "source": 2,
+      "target": 19,
+      "source_lens_name": "includes",
+      "target_lens_name": "is",
+      "weight": 10,
+      "top_shared": "human, fabric, textiles, intricate designs, lunch"
+    },
+    {
+      "source": 6,
+      "target": 19,
+      "source_lens_name": "involves",
+      "target_lens_name": "is",
+      "weight": 10,
+      "top_shared": "human, teacher, children, settings, student"
+    },
+    {
+      "source": 7,
+      "target": 13,
+      "source_lens_name": "values",
+      "target_lens_name": "characterized by",
+      "weight": 10,
+      "top_shared": "human, united states, algeria, fruit, patola"
+    },
+    {
+      "source": 15,
+      "target": 17,
+      "source_lens_name": "prefer",
+      "target_lens_name": "made from",
+      "weight": 10,
+      "top_shared": "human, united states, mahr, tailor, tampons"
+    },
+    {
+      "source": 0,
+      "target": 13,
+      "source_lens_name": "uses",
+      "target_lens_name": "characterized by",
+      "weight": 9,
+      "top_shared": "human, united states, algeria, fruit, bread"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_lens_name": "includes",
+      "target_lens_name": "features",
+      "weight": 9,
+      "top_shared": "human, fabric, intricate designs, vibrant colors, intricate patterns"
+    },
+    {
+      "source": 2,
+      "target": 13,
+      "source_lens_name": "includes",
+      "target_lens_name": "characterized by",
+      "weight": 9,
+      "top_shared": "human, intricate designs, vibrant colors, intricate patterns, dakmanda"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "source_lens_name": "participate in",
+      "target_lens_name": "enjoy",
+      "weight": 9,
+      "top_shared": "human, united states, teacher, nurse, women"
+    },
+    {
+      "source": 12,
+      "target": 14,
+      "source_lens_name": "expresses",
+      "target_lens_name": "prepares",
+      "weight": 9,
+      "top_shared": "human, united states, general, artist, chamba rumal"
+    },
+    {
+      "source": 12,
+      "target": 18,
+      "source_lens_name": "expresses",
+      "target_lens_name": "receives",
+      "weight": 9,
+      "top_shared": "human, united states, greetings, chamba rumal, teliarumal"
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "source_lens_name": "uses",
+      "target_lens_name": "practices",
+      "weight": 8,
+      "top_shared": "human, united states, nurse, general, quilts"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_lens_name": "performs",
+      "target_lens_name": "made from",
+      "weight": 8,
+      "top_shared": "human, united states, fabric, textiles, lasingphee"
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "source_lens_name": "includes",
+      "target_lens_name": "prepares",
+      "weight": 8,
+      "top_shared": "human, fabric, textiles, intricate designs, lunch"
+    },
+    {
+      "source": 3,
+      "target": 6,
+      "source_lens_name": "participate in",
+      "target_lens_name": "involves",
+      "weight": 8,
+      "top_shared": "human, teacher, children, settings, student"
+    },
+    {
+      "source": 6,
+      "target": 16,
+      "source_lens_name": "involves",
+      "target_lens_name": "varies by",
+      "weight": 8,
+      "top_shared": "human, teacher, settings, grandchildren, grandparents"
+    },
+    {
+      "source": 7,
+      "target": 18,
+      "source_lens_name": "values",
+      "target_lens_name": "receives",
+      "weight": 8,
+      "top_shared": "human, united states, family, children, wedding"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "source_lens_name": "symbolizes",
+      "target_lens_name": "originates from",
+      "weight": 8,
+      "top_shared": "human, algerian food, muga silk, festival, gamosa"
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "source_lens_name": "symbolizes",
+      "target_lens_name": "prepares",
+      "weight": 8,
+      "top_shared": "human, intricate designs, discipline, gamosa, funeral"
+    },
+    {
+      "source": 15,
+      "target": 18,
+      "source_lens_name": "prefer",
+      "target_lens_name": "receives",
+      "weight": 8,
+      "top_shared": "human, united states, people, restaurants, customers"
+    },
+    {
+      "source": 0,
+      "target": 6,
+      "source_lens_name": "uses",
+      "target_lens_name": "involves",
+      "weight": 7,
+      "top_shared": "human, teacher, children, settings, student"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_lens_name": "performs",
+      "target_lens_name": "receives",
+      "weight": 7,
+      "top_shared": "human, united states, family, children, food"
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "source_lens_name": "includes",
+      "target_lens_name": "reflects",
+      "weight": 7,
+      "top_shared": "human, textiles, intricate designs, vibrant colors, intricate patterns"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "source_lens_name": "practices",
+      "target_lens_name": "values",
+      "weight": 7,
+      "top_shared": "human, united states, nurse, doctor, artist"
+    },
+    {
+      "source": 4,
+      "target": 11,
+      "source_lens_name": "practices",
+      "target_lens_name": "reflects",
+      "weight": 7,
+      "top_shared": "human, united states, artist, rural women in west bengal, traditional weaving"
+    },
+    {
+      "source": 5,
+      "target": 17,
+      "source_lens_name": "features",
+      "target_lens_name": "made from",
+      "weight": 7,
+      "top_shared": "human, fabric, puan, pochampally ikat, pashmina shawl"
+    },
+    {
+      "source": 11,
+      "target": 15,
+      "source_lens_name": "reflects",
+      "target_lens_name": "prefer",
+      "weight": 7,
+      "top_shared": "human, united states, teacher, air conditioning, convenience"
+    },
+    {
+      "source": 12,
+      "target": 15,
+      "source_lens_name": "expresses",
+      "target_lens_name": "prefer",
+      "weight": 7,
+      "top_shared": "human, united states, general, tipping, affordability"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_lens_name": "made from",
+      "target_lens_name": "receives",
+      "weight": 7,
+      "top_shared": "human, united states, navalgund durries, teliarumal, wrapping paper"
+    },
+    {
+      "source": 0,
+      "target": 8,
+      "source_lens_name": "uses",
+      "target_lens_name": "symbolizes",
+      "weight": 6,
+      "top_shared": "human, new year, algerian food, festival, priest"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "source_lens_name": "includes",
+      "target_lens_name": "participate in",
+      "weight": 6,
+      "top_shared": "human, lunch, dhurrie, ari embroidery, weaving"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_lens_name": "participate in",
+      "target_lens_name": "practices",
+      "weight": 6,
+      "top_shared": "human, united states, nurse, doctor, dhurrie"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "source_lens_name": "participate in",
+      "target_lens_name": "originates from",
+      "weight": 6,
+      "top_shared": "human, united states, women, doctor, smoking"
+    },
+    {
+      "source": 3,
+      "target": 18,
+      "source_lens_name": "participate in",
+      "target_lens_name": "receives",
+      "weight": 6,
+      "top_shared": "human, united states, children, people, visit"
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "source_lens_name": "practices",
+      "target_lens_name": "originates from",
+      "weight": 6,
+      "top_shared": "human, united states, doctor, architect, karnataka"
+    },
+    {
+      "source": 4,
+      "target": 15,
+      "source_lens_name": "practices",
+      "target_lens_name": "prefer",
+      "weight": 6,
+      "top_shared": "human, united states, nurse, doctor, general"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_lens_name": "involves",
+      "target_lens_name": "values",
+      "weight": 6,
+      "top_shared": "human, teacher, children, student, grandchildren"
+    },
+    {
+      "source": 13,
+      "target": 15,
+      "source_lens_name": "characterized by",
+      "target_lens_name": "prefer",
+      "weight": 6,
+      "top_shared": "human, united states, algeria, fruit, bread"
+    },
+    {
+      "source": 0,
+      "target": 2,
+      "source_lens_name": "uses",
+      "target_lens_name": "includes",
+      "weight": 5,
+      "top_shared": "human, fabric, lunch, leirum phee, cameras"
+    },
+    {
+      "source": 0,
+      "target": 5,
+      "source_lens_name": "uses",
+      "target_lens_name": "features",
+      "weight": 5,
+      "top_shared": "human, fabric, tsugdan, venkatagiri cotton, kullu shawl"
+    },
+    {
+      "source": 2,
+      "target": 17,
+      "source_lens_name": "includes",
+      "target_lens_name": "made from",
+      "weight": 5,
+      "top_shared": "human, fabric, textiles, lepcha thara, wooden blocks"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "source_lens_name": "practices",
+      "target_lens_name": "enjoy",
+      "weight": 5,
+      "top_shared": "human, united states, nurse, general, architect"
+    },
+    {
+      "source": 4,
+      "target": 13,
+      "source_lens_name": "practices",
+      "target_lens_name": "characterized by",
+      "weight": 5,
+      "top_shared": "human, united states, garja dance, kasuti embroidery, rural women in west bengal"
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "source_lens_name": "involves",
+      "target_lens_name": "reflects",
+      "weight": 5,
+      "top_shared": "human, teacher, settings, confusion, misconceptions"
+    },
+    {
+      "source": 8,
+      "target": 13,
+      "source_lens_name": "symbolizes",
+      "target_lens_name": "characterized by",
+      "weight": 5,
+      "top_shared": "human, intricate designs, muga silk, pichhora, tawlhlohpuan"
+    },
+    {
+      "source": 11,
+      "target": 18,
+      "source_lens_name": "reflects",
+      "target_lens_name": "receives",
+      "weight": 5,
+      "top_shared": "human, united states, greetings, greeting, politeness"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_lens_name": "performs",
+      "target_lens_name": "involves",
+      "weight": 4,
+      "top_shared": "human, teacher, children, drivers"
+    },
+    {
+      "source": 2,
+      "target": 16,
+      "source_lens_name": "includes",
+      "target_lens_name": "varies by",
+      "weight": 4,
+      "top_shared": "human, textiles, risa, breaks"
+    },
+    {
+      "source": 3,
+      "target": 13,
+      "source_lens_name": "participate in",
+      "target_lens_name": "characterized by",
+      "weight": 4,
+      "top_shared": "human, united states, folk dance, khamba swang"
+    },
+    {
+      "source": 4,
+      "target": 12,
+      "source_lens_name": "practices",
+      "target_lens_name": "expresses",
+      "weight": 4,
+      "top_shared": "human, united states, general, artist"
+    },
+    {
+      "source": 6,
+      "target": 9,
+      "source_lens_name": "involves",
+      "target_lens_name": "enjoy",
+      "weight": 4,
+      "top_shared": "human, teacher, children, eye contact"
+    },
+    {
+      "source": 6,
+      "target": 15,
+      "source_lens_name": "involves",
+      "target_lens_name": "prefer",
+      "weight": 4,
+      "top_shared": "human, teacher, small talk, public"
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "characterized by",
+      "weight": 4,
+      "top_shared": "human, united states, algeria, nature"
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "source_lens_name": "originates from",
+      "target_lens_name": "expresses",
+      "weight": 4,
+      "top_shared": "human, united states, chamba rumal, madhubani painting on textiles"
+    },
+    {
+      "source": 12,
+      "target": 17,
+      "source_lens_name": "expresses",
+      "target_lens_name": "made from",
+      "weight": 4,
+      "top_shared": "human, united states, language, teliarumal"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "source_lens_name": "includes",
+      "target_lens_name": "practices",
+      "weight": 3,
+      "top_shared": "human, dhurrie, risa"
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "source_lens_name": "participate in",
+      "target_lens_name": "expresses",
+      "weight": 3,
+      "top_shared": "human, united states, settings"
+    },
+    {
+      "source": 4,
+      "target": 17,
+      "source_lens_name": "practices",
+      "target_lens_name": "made from",
+      "weight": 3,
+      "top_shared": "human, united states, lambani embroidery"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "source_lens_name": "features",
+      "target_lens_name": "symbolizes",
+      "weight": 3,
+      "top_shared": "human, intricate designs, gale"
+    },
+    {
+      "source": 5,
+      "target": 10,
+      "source_lens_name": "features",
+      "target_lens_name": "originates from",
+      "weight": 3,
+      "top_shared": "human, pochampally ikat, guledgudda khana"
+    },
+    {
+      "source": 5,
+      "target": 16,
+      "source_lens_name": "features",
+      "target_lens_name": "varies by",
+      "weight": 3,
+      "top_shared": "human, khes, jamdani"
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "source_lens_name": "involves",
+      "target_lens_name": "expresses",
+      "weight": 3,
+      "top_shared": "human, settings, confusion"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_lens_name": "values",
+      "target_lens_name": "symbolizes",
+      "weight": 3,
+      "top_shared": "human, new year, priest"
+    },
+    {
+      "source": 8,
+      "target": 16,
+      "source_lens_name": "symbolizes",
+      "target_lens_name": "varies by",
+      "weight": 3,
+      "top_shared": "human, algerian food, discipline"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_lens_name": "expresses",
+      "target_lens_name": "characterized by",
+      "weight": 3,
+      "top_shared": "human, united states, pachhra"
+    },
+    {
+      "source": 13,
+      "target": 18,
+      "source_lens_name": "characterized by",
+      "target_lens_name": "receives",
+      "weight": 3,
+      "top_shared": "human, united states, flowers"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "source_lens_name": "includes",
+      "target_lens_name": "symbolizes",
+      "weight": 2,
+      "top_shared": "human, intricate designs"
+    },
+    {
+      "source": 3,
+      "target": 17,
+      "source_lens_name": "participate in",
+      "target_lens_name": "made from",
+      "weight": 2,
+      "top_shared": "human, united states"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_lens_name": "practices",
+      "target_lens_name": "features",
+      "weight": 2,
+      "top_shared": "human, traditional weaving"
+    },
+    {
+      "source": 4,
+      "target": 18,
+      "source_lens_name": "practices",
+      "target_lens_name": "receives",
+      "weight": 2,
+      "top_shared": "human, united states"
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "source_lens_name": "features",
+      "target_lens_name": "enjoy",
+      "weight": 2,
+      "top_shared": "human, nature"
+    },
+    {
+      "source": 6,
+      "target": 14,
+      "source_lens_name": "involves",
+      "target_lens_name": "prepares",
+      "weight": 2,
+      "top_shared": "human, teacher"
+    },
+    {
+      "source": 6,
+      "target": 18,
+      "source_lens_name": "involves",
+      "target_lens_name": "receives",
+      "weight": 2,
+      "top_shared": "human, children"
+    },
+    {
+      "source": 7,
+      "target": 17,
+      "source_lens_name": "values",
+      "target_lens_name": "made from",
+      "weight": 2,
+      "top_shared": "human, united states"
+    },
+    {
+      "source": 8,
+      "target": 15,
+      "source_lens_name": "symbolizes",
+      "target_lens_name": "prefer",
+      "weight": 2,
+      "top_shared": "human, discipline"
+    },
+    {
+      "source": 8,
+      "target": 17,
+      "source_lens_name": "symbolizes",
+      "target_lens_name": "made from",
+      "weight": 2,
+      "top_shared": "human, kullu cap"
+    },
+    {
+      "source": 8,
+      "target": 18,
+      "source_lens_name": "symbolizes",
+      "target_lens_name": "receives",
+      "weight": 2,
+      "top_shared": "human, algerian food"
+    },
+    {
+      "source": 9,
+      "target": 17,
+      "source_lens_name": "enjoy",
+      "target_lens_name": "made from",
+      "weight": 2,
+      "top_shared": "human, united states"
+    }
+  ]
+}

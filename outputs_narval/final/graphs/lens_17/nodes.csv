@@ -1,0 +1,158 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,mahr,5,algeria,unknown,arabculture,1
+2,duba,5,algeria,unknown,arabculture,1
+3,brass bottle,5,egypt,unknown,arabculture,1
+4,hatchala,5,egypt,unknown,arabculture,1
+5,wrapping paper,5,egypt,unknown,arabculture,1
+6,gifts,5,egypt,unknown,arabculture,1
+7,colorful paper,2,egypt,unknown,arabculture,1
+8,cloth,4,assam,unknown,diwali,1
+9,lasingphee,3,assam,unknown,diwali,1
+10,bhagalpuri silk,5,bihar,unknown,diwali,1
+11,tussar silk,2,bihar,unknown,diwali,2
+12,alacha fabric,4,bihar,unknown,diwali,1
+13,silk,4,bihar,unknown,diwali,1
+14,cotton,4,bihar,unknown,diwali,2
+15,kosa silk,4,chhattisgarh,unknown,diwali,1
+16,cocoons,4,chhattisgarh,unknown,diwali,1
+17,antheraea mylitta silkworm,5,chhattisgarh,unknown,diwali,1
+18,pata weaving,3,chhattisgarh,unknown,diwali,2
+19,madder red,5,chhattisgarh,unknown,diwali,1
+20,aal trees,5,chhattisgarh,unknown,diwali,1
+21,kunbi saree,3,goa,unknown,diwali,1
+22,100% cotton,5,goa,unknown,diwali,1
+23,silk,5,goa,unknown,diwali,5
+24,velvet,5,goa,unknown,diwali,1
+25,altar cloths,2,goa,unknown,diwali,1
+26,liturgical vestments,2,goa,unknown,diwali,1
+27,coarse woolen yarns,4,gujarat,unknown,diwali,1
+28,white or light grey,4,gujarat,unknown,diwali,1
+29,dhabla,2,gujarat,unknown,diwali,1
+30,panja dhurrie,3,haryana,unknown,diwali,1
+31,tool,5,haryana,unknown,diwali,1
+32,kullu cap,3,himachal pradesh,unknown,diwali,1
+33,wool,2,himachal pradesh,unknown,diwali,1
+34,bhagalpuri silk,4,jharkhand,unknown,diwali,1
+35,ilkal saree,3,karnataka,unknown,diwali,1
+36,warp,2,karnataka,unknown,diwali,1
+37,mysore silk sarees,3,karnataka,unknown,diwali,1
+38,silk,1,karnataka,unknown,diwali,1
+39,navalgund durries,3,karnataka,unknown,diwali,1
+40,handwoven rugs,4,karnataka,unknown,diwali,1
+41,patchwork,4,karnataka,unknown,diwali,1
+42,appliqué,4,karnataka,unknown,diwali,1
+43,mirror work,4,karnataka,unknown,diwali,1
+44,lambani embroidery,2,karnataka,unknown,diwali,1
+45,balaramapuram handloom,3,kerala,unknown,diwali,1
+46,fine cotton fabric,2,kerala,unknown,diwali,1
+47,thiruvananthapuram saree,5,kerala,unknown,diwali,1
+48,fabric,5,kerala,unknown,diwali,1
+49,chanderi saree,3,madhya pradesh,unknown,diwali,1
+50,cotton,5,madhya pradesh,unknown,diwali,6
+51,solapur chaddar,5,maharashtra,unknown,diwali,1
+52,mashru fabric,3,maharashtra,unknown,diwali,1
+53,chanderi sari,3,maharashtra,unknown,diwali,1
+54,textiles,5,maharashtra,unknown,diwali,1
+55,moirang phee,3,manipur,unknown,diwali,1
+56,cotton or silk,2,manipur,unknown,diwali,1
+57,samserla,5,meghalaya,unknown,diwali,3
+58,hand-spun cotton,5,meghalaya,unknown,diwali,1
+59,indigo,5,meghalaya,unknown,diwali,1
+60,local leaves,5,meghalaya,unknown,diwali,1
+61,puan,3,mizoram,unknown,diwali,1
+62,loom-woven,5,mizoram,unknown,diwali,1
+63,kotpad handloom,5,odisha,unknown,diwali,1
+64,natural materials,4,odisha,unknown,diwali,1
+65,habaspuri saree,3,odisha,unknown,diwali,1
+66,fine cotton,4,odisha,unknown,diwali,1
+67,wooden blocks,5,rajasthan,unknown,diwali,1
+68,sanganeri block print,3,rajasthan,unknown,diwali,1
+69,cotton fabrics,5,rajasthan,unknown,diwali,1
+70,mothra,5,rajasthan,unknown,diwali,1
+71,fabric,4,rajasthan,unknown,diwali,1
+72,lepcha thara,3,sikkim,unknown,diwali,1
+73,stinging nettle,5,sikkim,unknown,diwali,1
+74,woolen yarns,5,sikkim,unknown,diwali,1
+75,2/20s cotton yarn,5,sikkim,unknown,diwali,1
+76,lepcha duree,5,sikkim,unknown,diwali,1
+77,sungudi sarees,5,tamil nadu,unknown,diwali,1
+78,pochampally ikat,3,telangana,unknown,diwali,1
+79,gadwal sarees,5,telangana,unknown,diwali,2
+80,lightweight cotton,2,telangana,unknown,diwali,1
+81,rich silk,2,telangana,unknown,diwali,1
+82,teliarumal,3,telangana,unknown,diwali,1
+83,gongadi blanket,4,kuruma community,unknown,diwali,1
+84,woolen,1,telangana,unknown,diwali,1
+85,riktu,3,tripura,unknown,diwali,1
+86,plain cloth,2,tripura,unknown,diwali,1
+87,lasingphee,2,tripura,unknown,diwali,1
+88,thulma,3,uttarakhand,unknown,diwali,1
+89,wool,4,uttarakhand,unknown,diwali,1
+90,banarasi sari,5,uttar pradesh,unknown,diwali,1
+91,finely woven silk,4,uttar pradesh,unknown,diwali,1
+92,zardozi,3,uttar pradesh,unknown,diwali,1
+93,gold,5,uttar pradesh,unknown,diwali,1
+94,silver,5,uttar pradesh,unknown,diwali,1
+95,pearls,5,uttar pradesh,unknown,diwali,1
+96,precious stones,5,uttar pradesh,unknown,diwali,1
+97,tant sari,3,west bengal,unknown,diwali,1
+98,handloom cotton,2,west bengal,unknown,diwali,1
+99,gold threads,5,delhi,unknown,diwali,1
+100,silver threads,5,delhi,unknown,diwali,1
+101,zardozi embroidery,3,delhi,unknown,diwali,1
+102,pashmina shawl,3,jammu and kashmir,unknown,diwali,1
+103,changthangi goat,4,jammu and kashmir,unknown,diwali,1
+104,kani shawl,5,jammu and kashmir,unknown,diwali,1
+105,wooden spools called 'kanis',2,jammu and kashmir,unknown,diwali,1
+106,jamawar shawls,3,jammu and kashmir,unknown,diwali,1
+107,pashmina,5,jammu and kashmir,unknown,diwali,1
+108,woolen fabrics,5,jammu and kashmir,unknown,diwali,1
+109,gabba,3,jammu and kashmir,unknown,diwali,1
+110,sambha calico prints,4,jammu and kashmir,unknown,diwali,1
+111,floral and geometric designs,2,jammu and kashmir,unknown,diwali,1
+112,nambu,5,ladakh,unknown,diwali,1
+113,wool,5,ladakh,unknown,diwali,1
+114,phirpa,3,ladakh,unknown,diwali,1
+115,hand-woven woolen fabric,5,ladakh,unknown,diwali,1
+116,homemade ice,1,general,unknown,culturebank,1
+117,united states,2,general,unknown,culturebank,1
+118,tampons,4,general,unknown,culturebank,1
+119,applicators,4,general,unknown,culturebank,1
+120,language,2,general,unknown,culturebank,1
+121,colloquial language and expressions,2,general,unknown,culturebank,1
+122,wine,3,general,unknown,culturebank,1
+123,aldi,3,general,unknown,culturebank,1
+124,chickpeas,4,general,unknown,culturebank,1
+125,hispanic language,5,general,unknown,culturebank,1
+126,fanta,4,general,unknown,culturebank,1
+127,high sugar content,2,general,unknown,culturebank,1
+128,umbrellas,1,general,unknown,culturebank,1
+129,parasols,1,general,unknown,culturebank,1
+130,rain and sun protection,2,general,unknown,culturebank,1
+131,alcohol,2,general,unknown,culturebank,1
+132,beer and cocktails,4,general,unknown,culturebank,1
+133,water,5,general,unknown,culturebank,1
+134,server,2,general,unknown,culturebank,1
+135,new surnames,3,united states,unknown,culturebank,1
+136,name changes,2,general,unknown,culturebank,1
+137,mayonnaise,1,united states,unknown,culturebank,1
+138,lemon,5,united states,unknown,culturebank,1
+139,lime,5,united states,unknown,culturebank,1
+140,dishwashers,4,general,unknown,culturebank,1
+141,technology,2,general,unknown,culturebank,1
+142,repertoire plans,4,pianist,unknown,candle,1
+143,essay,4,tailor,unknown,candle,1
+144,tailor-made items,5,tailor,unknown,candle,1
+145,room,2,tailor,unknown,candle,1
+146,tailor-made,5,tailor,unknown,candle,1
+147,agreement,4,tailor,unknown,candle,1
+148,bill,4,tailor,unknown,candle,1
+149,receipt,4,tailor,unknown,candle,1
+150,tailor,2,tailor,unknown,candle,1
+151,mask,5,tailor,unknown,candle,1
+152,report papers,5,tailor,unknown,candle,1
+153,cash,5,tailor,unknown,candle,1
+154,paper,2,tailor,unknown,candle,1
+155,raised seal,5,architect,unknown,candle,1
+156,sealed plans,4,architect,unknown,candle,1

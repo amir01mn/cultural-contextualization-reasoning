@@ -1,0 +1,56 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,pochampally ikat,intricate geometric patterns,features,1,diwali
+3,4,venkatagiri cotton,intricate designs,features,1,diwali
+5,6,gale,vibrant colors,features,1,diwali
+5,2,gale,intricate geometric patterns,features,1,diwali
+8,9,mishmi shawl,intricate weaving patterns,features,1,diwali
+10,11,tangsa lungis,patterns,features,1,diwali
+10,12,tangsa lungis,colors,features,1,diwali
+13,4,mekhela chador,intricate designs,features,1,diwali
+15,16,miri jimo,distinctive patterns,features,1,diwali
+17,18,bastar tribal weaves,motifs,features,1,diwali
+19,20,mashru,vibrant stripes or patterns,features,1,diwali
+21,22,kambal,checks,features,1,diwali
+23,6,kullu shawl,vibrant colors,features,1,diwali
+23,2,kullu shawl,intricate geometric patterns,features,1,diwali
+25,26,pattu,simple yet elegant patterns,features,1,diwali
+27,4,sohrai and khovar paintings,intricate designs,features,1,diwali
+28,31,intricate patterns,dokra weaving,features,1,diwali
+29,31,tribal art,dokra weaving,features,1,diwali
+30,31,nature,dokra weaving,features,1,diwali
+32,33,guledgudda khana,"designs like elephants, peacocks, and geometric shapes",features,1,diwali
+34,35,shaphee lanphee,intricate motifs,features,1,diwali
+36,37,dakmanda,symmetrical designs,features,1,diwali
+38,39,thoh shiliang,natural dyes,features,1,diwali
+40,39,chappang,natural dyes,features,1,diwali
+40,9,chappang,intricate weaving patterns,features,1,diwali
+41,28,puan,intricate patterns,features,1,diwali
+42,43,puanchei,elaborate designs,features,1,diwali
+44,45,ngotekherh,black and white stripes,features,1,diwali
+46,4,chakhesang shawl,intricate designs,features,1,diwali
+47,28,sambalpuri ikat,intricate patterns,features,1,diwali
+48,49,khes,geometric patterns,features,1,diwali
+51,28,jamdani,intricate patterns,features,1,diwali
+51,50,jamdani,floral and geometric designs,features,1,diwali
+52,53,gota patti,intricate embroidery technique,features,1,diwali
+52,54,gota patti,gold or silver ribbon,features,1,diwali
+52,55,gota patti,fabric,features,1,diwali
+56,57,sungudi sarees,distinctive dotted patterns,features,1,diwali
+58,28,thirubuvanam silk saree,intricate patterns,features,1,diwali
+28,59,intricate patterns,himroo weaving,features,1,diwali
+60,16,rignai,distinctive patterns,features,1,diwali
+62,28,silk weaving,intricate patterns,features,1,diwali
+63,28,kullu shawls,intricate patterns,features,1,diwali
+64,28,tanchoi,intricate patterns,features,1,diwali
+65,28,dhakai jamdani,intricate patterns,features,1,diwali
+65,50,dhakai jamdani,floral and geometric designs,features,1,diwali
+66,28,nicobari pandanus mats,intricate patterns,features,1,diwali
+67,28,traditional weaving,intricate patterns,features,1,diwali
+68,28,brocade fabrics,intricate patterns,features,1,diwali
+69,70,pashmina shawl,intricate hand-embroidery,features,1,diwali
+71,72,kashmiri silk sarees,chinar leaves,features,1,diwali
+71,73,kashmiri silk sarees,paisleys,features,1,diwali
+74,18,kashida embroidery,motifs,features,1,diwali
+76,4,tsugdan,intricate designs,features,1,diwali
+77,78,carana nrityam,intricate steps and movements,features,1,diwali
+79,80,shigmo,folk dances,features,1,diwali

@@ -1,0 +1,461 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 16
+    },
+    {
+      "id": 2,
+      "label": "traditional savings method",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "confluence of ganga and yamuna",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "hmaram",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "rich heritage of hmar community",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "textile heritage",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "textile diversity of tamil nadu",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 5
+    },
+    {
+      "id": 9,
+      "label": "basketball player",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "traditional symbols",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "swimmer",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "popular female sportperson",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "boxer",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "university students",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "selflessness and sacrifice",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "chart",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "physical exam",
+      "level": 4,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "priest",
+      "level": 2,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 22,
+      "label": "beauty",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "splendor",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "jesus",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "detailed plan",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "attorney",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "stethoscope",
+      "level": 5,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "medical profession",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "traditional savings method",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "confluence of ganga and yamuna",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "hmaram",
+      "target_label": "rich heritage of hmar community",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "food",
+      "target_label": "textile heritage",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "textile diversity of tamil nadu",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "source_label": "basketball player",
+      "target_label": "algeria",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "source_label": "traditional symbols",
+      "target_label": "food",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 11,
+      "target": 8,
+      "source_label": "swimmer",
+      "target_label": "algeria",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 12,
+      "target": 8,
+      "source_label": "popular female sportperson",
+      "target_label": "algeria",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 13,
+      "target": 8,
+      "source_label": "boxer",
+      "target_label": "algeria",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "gifts",
+      "target_label": "university students",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "source_label": "chart",
+      "target_label": "food",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "physical exam",
+      "target_label": "customer",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "source_label": "photographer",
+      "target_label": "food",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "priest",
+      "target_label": "beauty",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 21,
+      "target": 23,
+      "source_label": "priest",
+      "target_label": "splendor",
+      "relation_type": "represent",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 21,
+      "target": 24,
+      "source_label": "priest",
+      "target_label": "jesus",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "detailed plan",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "source_label": "attorney",
+      "target_label": "food",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "stethoscope",
+      "target_label": "medical profession",
+      "relation_type": "represents",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

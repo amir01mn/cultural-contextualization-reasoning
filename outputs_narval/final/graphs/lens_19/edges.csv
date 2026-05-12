@@ -1,0 +1,803 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+4,5,time,end,is,1,arabculture
+6,7,halwa,sweet treat,is,1,arabculture
+8,10,place of wedding,venue,is,1,arabculture
+9,11,family,united,is,1,arabculture
+12,13,wedding celebration,occasion,is,1,arabculture
+14,15,mahr,gift,is,1,arabculture
+16,17,lebanese wedding feast,an important meal,is,1,arabculture
+19,18,elder brother,major responsibilities,is responsible for,1,arabculture
+21,22,activities,entertainment,is,1,arabculture
+23,22,work,entertainment,is,1,arabculture
+23,24,work,job,is,1,arabculture
+25,26,cleaning,activity,is,2,arabculture
+27,28,time for herself and relaxation,free time,is,1,arabculture
+29,30,house,home,is,1,arabculture
+31,26,week,activity,is,1,arabculture
+32,26,leisure time,activity,is,1,arabculture
+33,34,algerian customs,way of eating,is,1,arabculture
+34,35,way of eating,daily routine,is,1,arabculture
+37,39,men,ways of communication,is,1,arabculture
+38,39,women,ways of communication,is,1,arabculture
+47,48,coffee,drink,is,1,arabculture
+49,50,hassaa,soup,is,1,arabculture
+51,52,kiskis,meal,is,1,arabculture
+53,55,customs,eid al-adha customs,is,1,arabculture
+56,57,habits,first month of the islamic calendar,is,1,arabculture
+58,59,customs and traditions,many,is,1,arabculture
+62,26,goes to school,activity,is,1,arabculture
+63,64,friendship,social relationship,is,1,arabculture
+65,66,university bus,morning commute,used for,1,arabculture
+67,69,taking care,caring for children,is,1,arabculture
+53,71,customs,month,is,1,arabculture
+72,73,behavior,tendency to give up luxuries when necessary,is,1,arabculture
+76,77,procedures before burial,necessary actions,is,1,arabculture
+78,79,treatment of body,treatment of body according to traditions and religion,is,1,arabculture
+42,81,parents,child's birthday,remember,1,arabculture
+82,52,ghada,meal,is,1,arabculture
+36,83,food,lunch,is,1,arabculture
+84,86,smoked fish,type of fish,is,1,arabculture
+85,86,salted fish,type of fish,is,1,arabculture
+89,88,day of arafat,fasting,is,1,arabculture
+91,90,arab cart,breakfast,is,1,arabculture
+92,94,wife,person,is,1,arabculture
+93,94,husband,person,is,1,arabculture
+95,68,mother,children,takes care of,1,arabculture
+95,68,mother,children,supervises,1,arabculture
+98,97,grandchildren,grandmother,go to,1,arabculture
+101,102,jebneh bi al-tamatem,dinner dish,is,1,arabculture
+23,106,work,going to work,is,1,arabculture
+110,111,worker,university,works in,1,arabculture
+113,115,ahmed,student,is,1,arabculture
+116,117,fatima,noor,meets,1,arabculture
+119,118,payment,debt,is,1,arabculture
+120,121,pochampally ikat,weaving technique,is,1,diwali
+122,123,pedana kalamkari,machilipatnam style,is,1,diwali
+124,125,apatani jacket and scarf,textile,is,1,diwali
+126,127,sherdukpen shawl,shawl,is,1,diwali
+128,129,monpa woolen weave,garments and blankets,is,1,diwali
+130,127,mishmi shawl,shawl,is,1,diwali
+132,125,wancho bag,textile,is,1,diwali
+134,135,muga silk,traditional garments,is,1,diwali
+136,137,pat silk,mulberry silk,is,1,diwali
+138,139,dhokona,traditional attire,is,1,diwali
+140,141,karbi shawl,tribe,is woven by,1,diwali
+142,143,miri jimo,handwoven fabric,is,1,diwali
+144,147,sujani embroidery,embroidery,is a,1,diwali
+145,144,quilts,sujani embroidery,includes,1,diwali
+146,144,bedspreads,sujani embroidery,includes,1,diwali
+148,121,bawan buti weave,weaving technique,is,1,diwali
+150,151,kunbi saree,traditional garment,is,1,diwali
+152,154,traditional goan handloom fabrics,textiles,is,1,diwali
+153,154,handloom industry,textiles,produces,1,diwali
+155,156,patola,double ikat woven sarees,is,1,diwali
+157,158,ajrakh printing,block-printing technique,is,1,diwali
+157,154,ajrakh printing,textiles,is,1,diwali
+160,161,mashru,silk,is made from,1,diwali
+160,162,mashru,cotton,is made from,1,diwali
+163,164,kambal,woolen textiles,is,1,diwali
+165,166,kutchi embroidery,threadwork,is,1,diwali
+165,167,kutchi embroidery,traditional craft,is,1,diwali
+168,169,phulkari,embroidery technique,is,3,diwali
+168,170,phulkari,flower work,is,1,diwali
+171,168,bagh,phulkari,is a variation of,3,diwali
+171,172,bagh,bridal trousseaus,is traditionally used in,2,diwali
+174,168,chope,phulkari,is a form of,1,diwali
+176,177,khes,handwoven textile,is,2,diwali
+176,178,khes,coarse cotton,is made from,2,diwali
+176,179,khes,geometric patterns,features,1,diwali
+176,180,khes,durability and warmth,values,1,diwali
+181,182,panja dhurrie,dhurrie,is,1,diwali
+183,184,cotton shawls,handwoven,is,1,diwali
+185,186,chamba rumal,embroidered handkerchief,is,2,diwali
+187,188,thapada,traditional shawl,is,1,diwali
+189,190,pattu,woolen fabric,is,1,diwali
+189,191,pattu,garments,is used to make,1,diwali
+192,193,kullu patti,coarse woolen cloth,is,1,diwali
+194,195,rampur chaddar,handspun woolen shawl,is,1,diwali
+196,197,kullu cap,headgear,is,1,diwali
+198,199,kuchai silk,traditional fabric,is,1,diwali
+200,154,santhal saree cloth,textiles,is,1,diwali
+202,203,molakalmuru saree,saree,is,1,diwali
+204,205,kasavu saree,off-white or cream-colored fabric,is,1,diwali
+204,206,kasavu saree,distinctive golden border,is,1,diwali
+204,139,kasavu saree,traditional attire,is,1,diwali
+204,207,kasavu saree,cultural identity,is,1,diwali
+208,209,chendamangalam saree,tamarind leaf border,is distinguished by,1,diwali
+208,210,chendamangalam saree,unique stripe patterns,is distinguished by,1,diwali
+211,125,kuthampully saree,textile,is,1,diwali
+212,213,kasaragod saree,checkered patterns,is characterized by,1,diwali
+212,214,kasaragod saree,vibrant colors,is characterized by,1,diwali
+212,215,kasaragod saree,cotton and silk threads,is made from,1,diwali
+216,151,kavani,traditional garment,is,1,diwali
+216,218,kavani,two-piece attire,is,1,diwali
+216,219,kavani,attire,is,1,diwali
+220,222,bagh print,hand-block printing technique,is,1,diwali
+220,223,bagh print,natural dyes,utilizes,1,diwali
+220,224,bagh print,vibrant red and black patterns,creates,1,diwali
+220,225,bagh print,cotton and silk fabrics,on,1,diwali
+220,226,bagh print,traditional motifs,draws inspiration from,1,diwali
+220,227,bagh print,region's rich heritage,draws inspiration from,1,diwali
+228,229,tussar silk,tribal art forms,is,1,diwali
+230,231,dabu print,mud-resist hand-block printing technique,is,1,diwali
+232,233,nandana print,resist printing,is,1,diwali
+234,235,gond painting on fabric,tribal art,is inspired by,1,diwali
+234,237,gond painting on fabric,intricate designs,paints,1,diwali
+237,238,intricate designs,tales from folklore and nature,depict,1,diwali
+234,239,gond painting on fabric,vibrant colors and detailed patterns,has,1,diwali
+239,240,vibrant colors and detailed patterns,unique textile tradition of madhya pradesh,make it,1,diwali
+241,199,himroo fabric,traditional fabric,is,1,diwali
+243,244,solapur chaddar,bedspread,is,1,diwali
+245,236,mashru fabric,fabric,is,1,diwali
+245,246,mashru fabric,satin finish,features,1,diwali
+247,199,khun fabric,traditional fabric,is,1,diwali
+248,250,ganga-jamuna sari,traditional maharashtrian sari,is,1,diwali
+249,121,plain weaving,weaving technique,is,1,diwali
+251,252,narayan peth sari,sari,is,1,diwali
+253,254,phanek,wrap-around skirt,is,1,diwali
+254,255,wrap-around skirt,meitei women,worn by,1,diwali
+256,258,moirang phee,traditional textile,is,1,diwali
+256,259,moirang phee,triangular motifs,is characterized by,1,diwali
+256,260,moirang phee,cultural significance,is,1,diwali
+261,262,shaphee lanphee,embroidered textile,is,1,diwali
+263,264,wangkhei phee,fine white cotton textile,is,1,diwali
+265,266,khamen chatpa,traditional silk cloth,is,1,diwali
+267,268,ryndia,hand-spun,is,1,diwali
+267,269,ryndia,hand-woven,is,1,diwali
+270,271,khneng embroidery,traditional embroidery technique,is,1,diwali
+272,273,samserla,wrap-around garment,is,1,diwali
+274,151,puan,traditional garment,is,1,diwali
+275,276,pawndum,traditional mizo textile,is,1,diwali
+277,276,ngotekherh,traditional mizo textile,is,1,diwali
+279,125,hmaram,textile,is,1,diwali
+279,280,hmaram,ceremonies,is used in,1,diwali
+281,282,loin loom weaving,traditional method,is,1,diwali
+283,284,tsüngkotepsü,warrior shawl,is,1,diwali
+285,125,angami lohe shawl,textile,is,1,diwali
+286,141,angami naga tribe,tribe,is,1,diwali
+288,289,chakhesang shawl,integral part of heritage,is,1,diwali
+290,291,shells,cowrie shells,is,1,diwali
+292,125,ao naga cowrie apron,textile,is,1,diwali
+293,177,sambalpuri ikat,handwoven textile,is,1,diwali
+294,203,berhampuri patta,saree,is,1,diwali
+295,297,odisha ikat,resist-dyeing technique,is,1,diwali
+298,299,berhampuri patta sarees,sarees,is,1,diwali
+300,301,temple design,phoda kumbha,is,1,diwali
+168,302,phulkari,dupatta,is used to adorn,1,diwali
+168,127,phulkari,shawl,is used to adorn,1,diwali
+168,304,phulkari,headscarf,is used to adorn,1,diwali
+305,306,jamdani,fine muslin textile,is,1,diwali
+307,308,chola,long robe,is,1,diwali
+309,125,parandi,textile,is,1,diwali
+310,311,bandhani,tie-dye technique,is,1,diwali
+311,312,tie-dye technique,craft,is,1,diwali
+313,311,leheriya,tie-dye technique,is,1,diwali
+314,315,gota patti,appliqué work,is,1,diwali
+316,317,kanchipuram silk saree,symbol of,is,1,diwali
+318,319,chettnad kandangi saree,coarse cotton saree,is,1,diwali
+320,125,koorainadu saree,textile,is,1,diwali
+125,203,textile,saree,is,1,diwali
+323,324,salem silk dhoti,white silk dhoti,is,1,diwali
+325,125,kumbakonam silk saree,textile,is,1,diwali
+326,327,coimbatore cotton saree,cotton saree,is,1,diwali
+328,329,chinnalapattu saree,handloom saree,is,1,diwali
+330,331,bhavani jamakkalam,handloom rugs,is,1,diwali
+332,147,toda embroidery,embroidery,is,1,diwali
+332,333,toda embroidery,shawls,adorns,1,diwali
+332,191,toda embroidery,garments,adorns,1,diwali
+335,203,kovai cora cotton saree,saree,is,1,diwali
+336,125,kodalikaruppur saree,textile,is,1,diwali
+337,125,kora cotton saree,textile,is,1,diwali
+338,341,kurainadu saree,blending cotton and silk,is made by,1,diwali
+338,339,kurainadu saree,geometric and floral designs,features,1,diwali
+338,340,kurainadu saree,traditional weaving techniques,reflects,1,diwali
+342,125,kodambakkam saree,textile,is,1,diwali
+343,125,siddipet gollabhama sarees,textile,is a form of,1,diwali
+345,346,teliarumal,puttapaka village,originates from,1,diwali
+347,348,himroo weaving,age-old weaving technique,is,1,diwali
+347,349,himroo weaving,luxurious fabric,is,1,diwali
+351,147,lambada embroidery,embroidery,is,1,diwali
+352,154,siripuram ikat,textiles,is,1,diwali
+352,353,siripuram ikat,home décor,is used for,1,diwali
+352,354,siripuram ikat,apparel,is used for,1,diwali
+355,357,pachhra,traditional and popular product,is,1,diwali
+355,356,pachhra,lower garment,is,1,diwali
+358,359,thulma,blanket,is,1,diwali
+360,361,ringaal weaving,sustainable practice,is,1,diwali
+362,364,hemp weaving,craft durable textiles,is,1,diwali
+363,365,hemp fibers,uttarakhand,used in,1,diwali
+362,366,hemp weaving,region's sustainable approach,reflects,1,diwali
+367,368,cotton weaving,handloom weaving,is,1,diwali
+368,367,handloom weaving,cotton weaving,is,1,diwali
+369,147,chikankari,embroidery,is,1,diwali
+370,147,zardozi,embroidery,is,1,diwali
+372,121,tanchoi,weaving technique,is,1,diwali
+372,373,tanchoi,varanasi,originates from,1,diwali
+375,306,dhakai jamdani,fine muslin textile,is,1,diwali
+376,377,garad sari,traditional silk sari,is,1,diwali
+168,378,phulkari,hand-spun khaddar fabric,is embroidered on,1,diwali
+176,379,khes,traditional thick cotton blanket or shawl,is,1,diwali
+380,381,salwar kameez,traditional outfit,is,1,diwali
+382,383,warli painting on fabric,warli painting,is,1,diwali
+384,385,zardozi embroidery,metal embroidery,is,1,diwali
+386,154,brocade fabrics,textiles,is,1,diwali
+387,388,chikankari embroidery,embroidery style,is,1,diwali
+389,390,shahtoosh shawl,tibetan antelope,is made from,1,diwali
+391,392,namda,felted woolen rugs,is,1,diwali
+393,154,kashmiri silk sarees,textiles,is,1,diwali
+394,395,kashmiri carpet,wool,is made from,1,diwali
+394,161,kashmiri carpet,silk,is made from,1,diwali
+397,398,kashida embroidery,intricate needlework,is,1,diwali
+399,190,nambu,woolen fabric,is,1,diwali
+400,401,tsugdan,hand-woven carpet,is,1,diwali
+402,403,kachi,lungi,is,1,diwali
+404,312,coir weaving,craft,is,1,diwali
+405,404,mats,coir weaving,part of,1,diwali
+406,404,baskets,coir weaving,part of,1,diwali
+414,407,pondicherry handloom fabrics,poplin,includes,1,diwali
+414,408,pondicherry handloom fabrics,satin,includes,1,diwali
+414,409,pondicherry handloom fabrics,twill,includes,1,diwali
+414,410,pondicherry handloom fabrics,chambray,includes,1,diwali
+414,411,pondicherry handloom fabrics,oxford,includes,1,diwali
+414,412,pondicherry handloom fabrics,corduroy,includes,1,diwali
+414,413,pondicherry handloom fabrics,cambric,includes,1,diwali
+415,312,ari embroidery,craft,is,1,diwali
+417,418,khadi textiles,hand-spun and hand-woven fabric,is,1,diwali
+419,420,vilasini natyam,dance tradition,is,1,diwali
+421,422,andhra natyam,classical dance,is,1,diwali
+423,424,tholu bommalaata,traditional shadow puppetry,is,1,diwali
+425,426,prenkhana,ancient folk dance form,is,1,diwali
+427,428,danda rasaka,dance form,is,1,diwali
+429,430,shiva priya,devotional dance,is,1,diwali
+431,432,daminda dance,apatani dance,is,1,diwali
+433,434,chalo dance,nocte dance,is,1,diwali
+435,436,roppi,dance,is,1,diwali
+437,438,sattriya nritya,dance-drama,is,1,diwali
+437,439,sattriya nritya,rooted in vaishnavism,is,1,diwali
+440,436,phalguni dance,dance,is,1,diwali
+441,442,domahi dance,agricultural dance,is,1,diwali
+443,436,nagara naam,dance,is,1,diwali
+444,445,dhuliya gayan-bayan,combination of song and drum dance,is,2,diwali
+446,428,kamrupi lokgeet dance,dance form,is,2,diwali
+446,448,kamrupi lokgeet dance,local life,reflects,1,diwali
+450,451,bidesia,folk theatre,is,1,diwali
+452,451,jatra,folk theatre,is,1,diwali
+453,451,jatra dance,folk theatre,is,1,diwali
+454,455,raut nacha,traditional dance,is,1,diwali
+456,457,pandavani,folk ballad,is,1,diwali
+458,459,rahas dance,folk dance,is,1,diwali
+460,461,tiatr,popular goan theatre,is,1,diwali
+462,465,casually,dress code,is,1,culturebank
+463,465,comfortable clothing,dress code,is,1,culturebank
+464,465,sweatpants,dress code,is,1,culturebank
+466,467,shock,experience,is,1,culturebank
+466,468,shock,express,express,1,culturebank
+469,470,tipping,customary,is,1,culturebank
+469,53,tipping,customs,is a,1,culturebank
+472,473,minimum wage,income,is a,1,culturebank
+469,474,tipping,source,is a,1,culturebank
+36,476,food,elite,is,1,culturebank
+477,479,legal drinking age,significant milestone,is a,1,culturebank
+477,478,legal drinking age,coming of age,is associated with,1,culturebank
+480,481,experience cultural shock,surprise or confusion,is,1,culturebank
+482,483,cultural differences,cultural shock,is,1,culturebank
+485,484,preference,industrial food,prefers,1,culturebank
+486,488,engaging in,cultural practices,is,1,culturebank
+487,488,navigating,cultural practices,is,1,culturebank
+489,492,expressing,confusion,is,1,culturebank
+489,490,expressing,appreciation,is,1,culturebank
+489,493,expressing,correcting cultural norms,is,1,culturebank
+494,495,gun ownership,normal and protected by the second amendment,is,1,culturebank
+497,496,united states,healthy diet,strive for,1,culturebank
+498,499,healthcare system,complex,is,1,culturebank
+500,501,speaking loudly,communication style,is,1,culturebank
+497,502,united states,english,speaks,1,culturebank
+503,505,school shooting,event,is,1,culturebank
+504,506,school,institution,is,1,culturebank
+504,507,school,safety,ensures,1,culturebank
+510,509,prices,taxes,include,1,culturebank
+510,492,prices,confusion,cause,1,culturebank
+510,512,prices,frustration,cause,1,culturebank
+513,514,culture shock,surprise,includes,1,culturebank
+513,492,culture shock,confusion,includes,1,culturebank
+516,517,differences,lifestyle,includes,1,culturebank
+516,36,differences,food,includes,1,culturebank
+516,518,differences,social norms,includes,1,culturebank
+90,519,breakfast,large meals,includes,1,culturebank
+90,47,breakfast,coffee,includes,1,culturebank
+90,521,breakfast,dessert,includes,1,culturebank
+522,524,restaurant,place where meals are served,is,1,culturebank
+525,526,food regulations,strictest food regulations,is,1,culturebank
+530,527,prioritize safety,military strength,includes,1,culturebank
+530,528,prioritize safety,gun control,includes,1,culturebank
+530,529,prioritize safety,emergency preparedness,includes,1,culturebank
+531,532,parenthood,raising,is,1,culturebank
+531,533,parenthood,close relationships,is,1,culturebank
+534,537,daily showering,personal hygiene,is a,1,culturebank
+535,537,washing hair,personal hygiene,is a,1,culturebank
+536,537,changing underwear,personal hygiene,is a,1,culturebank
+538,539,easter baskets,gift baskets,is,1,culturebank
+497,540,united states,cities,is,1,culturebank
+542,543,shower,daily hygiene,is,1,culturebank
+546,547,school bus,transportation,is a,1,culturebank
+497,549,united states,country,is,2,culturebank
+548,550,north america,continent,is,1,culturebank
+551,552,compliments,common form of social interaction,is,1,culturebank
+553,492,experience confusion,confusion,is,1,culturebank
+554,555,seek explanations,explanations,is,1,culturebank
+556,557,american dream,universal aspiration,is perceived as,1,culturebank
+558,559,starbucks,coffee consumption,is,1,culturebank
+560,563,committed relationship,engages in long-term relationships,is,1,culturebank
+562,564,marriage,commitment,not always seen as necessary,1,culturebank
+565,566,businesses,stores,is,1,culturebank
+567,568,freedom,pursue,is,1,culturebank
+544,570,work-life balance,desire for work-life balance,is driven by,1,culturebank
+569,571,ambition,stigmatization of ambition,is stigmatized,1,culturebank
+572,573,leggings,comfortable,is,1,culturebank
+574,575,sweats,lacking in pockets,is,1,culturebank
+36,576,food,unhealthy or even toxic,is considered,1,culturebank
+111,577,university,integration,is,1,culturebank
+578,111,struggle,university,is,1,culturebank
+579,580,cheese,significant part of the culture,is,1,culturebank
+581,582,showering,good for skin and hair health,is,1,culturebank
+583,584,travel,engagement in activities,is,1,culturebank
+585,583,visiting,travel,is,1,culturebank
+586,587,connections,maintain,is,1,culturebank
+590,3,dogs,family members,is,1,culturebank
+544,591,work-life balance,prioritize work over personal life,is,1,culturebank
+544,592,work-life balance,cultural norms around work and life,is,1,culturebank
+593,595,lunch breaks,socialize during breaks,is,1,culturebank
+596,597,bedtime,daily life,is an essential part of,1,culturebank
+598,599,homelessness,societal issue,is,1,culturebank
+600,601,outfits,"modern, coordinated, and often matching",is,1,culturebank
+602,604,last name change,exercise choice,is,1,culturebank
+603,605,maiden name,keeping maiden name,is,1,culturebank
+606,604,hyphenating,exercise choice,is,1,culturebank
+607,608,nail care,luxury,is,1,culturebank
+609,610,university system,free education,offers,1,culturebank
+609,611,university system,work experience,emphasizes,1,culturebank
+609,612,university system,ethics,emphasizes,1,culturebank
+609,613,university system,suggestions,makes,1,culturebank
+609,23,university system,work,encourages,1,culturebank
+614,616,dating,experience cultural differences in dating,is,1,culturebank
+617,119,expectations,payment,is,1,culturebank
+617,619,expectations,communication,is,1,culturebank
+617,620,expectations,gender roles,is,1,culturebank
+622,621,mass shootings,gun violence,is,1,culturebank
+626,627,strict adherence to traffic rules,fear of getting a ticket,is,1,culturebank
+628,629,naming conventions,hyphenated last names,include,1,culturebank
+628,630,naming conventions,both parents' names,include,1,culturebank
+631,632,high cost of living,housing,includes,1,culturebank
+631,633,high cost of living,general expenses,includes,1,culturebank
+635,634,eating habits,cutting and switching hands,is,1,culturebank
+636,637,driver's license,process,is,1,culturebank
+637,638,process,taking tests,includes,1,culturebank
+637,639,process,logging driving hours,includes,1,culturebank
+637,640,process,enrolling in driving school,includes,1,culturebank
+497,641,united states,nation,is,1,culturebank
+497,642,united states,diverse,is,1,culturebank
+497,643,united states,unique,is,1,culturebank
+644,645,drinking,"to relax, socialize, and build relationships",is,1,culturebank
+646,648,amber alerts,system,is,1,culturebank
+646,649,amber alerts,amber,is named after,1,culturebank
+646,650,amber alerts,custody disputes,triggered by,1,culturebank
+498,652,healthcare system,right,is a form of,1,culturebank
+497,653,united states,crime rates,experiences,1,culturebank
+497,654,united states,violent crimes,experiences,1,culturebank
+497,655,united states,imprisonment,experiences,1,culturebank
+657,544,flexible work schedules,work-life balance,is,1,culturebank
+579,658,cheese,significant part,is,1,culturebank
+659,661,right-side driving,driving,is,1,culturebank
+660,661,left lane,driving,is,1,culturebank
+665,664,visiting beaches and national parks,recreational activities,is,1,culturebank
+667,666,states,adopt and charge for the use of bags,adopts and charges for the use of bags,1,culturebank
+42,670,parents,responsible for children's behavior,is,1,culturebank
+671,672,conversation,meaningful conversation,is,1,culturebank
+619,673,communication,active listening,is,1,culturebank
+619,675,communication,humor,is,1,culturebank
+677,678,drug abuse,complex and prevalent issue,is a,1,culturebank
+679,637,learning,process,is,1,culturebank
+680,637,defining,process,is,1,culturebank
+681,637,creating,process,is,1,culturebank
+482,516,cultural differences,differences,is,1,culturebank
+683,684,cultural quirks,quirks,is,1,culturebank
+685,686,diverse cultural landscape,landscape,is,1,culturebank
+36,687,food,"high levels of sugar, dyes, and additives",is,1,culturebank
+688,689,sacrifices,"sacrifices made for career, home, and family",is,1,culturebank
+691,692,strategies,methods,is,1,culturebank
+693,694,"react to, and express opinions about political scandals",opinions,is,1,culturebank
+695,696,american football,food culture,is,1,culturebank
+698,699,menu prices,explicit,is,1,culturebank
+697,698,tax,menu prices,sometimes not included,1,culturebank
+700,701,smoking,cigarette smoke,experience and react to,1,culturebank
+702,703,pen license,rite of passage,is a,1,culturebank
+497,704,united states,profit,prioritize,1,culturebank
+497,44,united states,health,prioritize,1,culturebank
+706,709,capitalism,norm,is seen as,1,culturebank
+706,597,capitalism,daily life,influences,1,culturebank
+706,707,capitalism,business practices,influences,1,culturebank
+706,708,capitalism,societal values,influences,1,culturebank
+710,26,discuss,activity,is,1,culturebank
+711,26,describe,activity,is,1,culturebank
+712,714,weather,topic,is,1,culturebank
+713,715,colorful language,expression style,is,1,culturebank
+716,717,emotions,content,is,1,culturebank
+468,108,express,action,is,1,culturebank
+718,722,fear,emotion,is,1,culturebank
+719,722,paranoia,emotion,is,1,culturebank
+720,723,safety concerns,concerns,is,1,culturebank
+721,724,threats,threat,is,1,culturebank
+725,727,adapt to,learning cultural norms,is,1,culturebank
+726,727,learn,learning cultural norms,is,1,culturebank
+728,730,social expectations,cultural norms,is,1,culturebank
+729,730,basic etiquette,cultural norms,is,1,culturebank
+731,732,direct and explicit communication,asking questions,includes,1,culturebank
+731,733,direct and explicit communication,expressing opinions,includes,1,culturebank
+734,736,theft,perceived ownership,is,1,culturebank
+737,738,walking,safety practice,is,1,culturebank
+63,740,friendship,small talk,is,1,culturebank
+741,742,people,friendly,strive to be,1,culturebank
+63,743,friendship,challenges,is,1,culturebank
+63,744,friendship,temporarily,is,1,culturebank
+746,748,discussions,fair and higher wages,engage in,1,culturebank
+747,749,wages,higher salaries,lead to,1,culturebank
+750,751,waiter,employer-employee relationship,works for,1,culturebank
+469,750,tipping,waiter,expected and necessary for,1,culturebank
+469,753,tipping,service provider-customer relationship,involves,1,culturebank
+755,756,desire,move,is,1,culturebank
+757,758,quality of life,opportunities,is,1,culturebank
+759,760,applicators,tools,is a form of,1,culturebank
+761,763,strive to learn,desire to learn,is,1,culturebank
+762,764,share knowledge,knowledge gained,is,1,culturebank
+765,507,door,safety,prioritize,1,culturebank
+765,767,door,privacy,prioritize,1,culturebank
+765,768,door,guns,seen as safer than,1,culturebank
+467,492,experience,confusion,is,1,culturebank
+467,770,experience,preparation,is,1,culturebank
+467,771,experience,comparison,is,1,culturebank
+773,775,arrive 10-15 minutes late,rude,is considered,1,culturebank
+773,777,arrive 10-15 minutes late,lack of respect for someone's time,is considered,1,culturebank
+779,778,behaviors,cultural traits,is,1,culturebank
+780,778,language use,cultural traits,is,1,culturebank
+488,778,cultural practices,cultural traits,is,1,culturebank
+781,782,hair services,expensive,is,1,culturebank
+783,784,public spaces,rules,follows,1,culturebank
+783,785,public spaces,"orderly, quiet behavior",maintains,1,culturebank
+786,787,cleaning process,cleaning technique,is a,1,culturebank
+790,789,double parking,parking behavior,is less sexual,1,culturebank
+791,792,spending habits,impulse buying,is,1,culturebank
+544,793,work-life balance,benefit,is a form of,1,culturebank
+795,796,california,place,is a,1,culturebank
+795,797,california,desirable place,is a,1,culturebank
+799,798,server,customer,attend to,1,culturebank
+799,798,server,customer,ask about well-being,1,culturebank
+799,798,server,customer,communicate closure,1,culturebank
+798,799,customer,server,flag down,1,culturebank
+799,798,server,customer,may not know,1,culturebank
+800,802,gift-giving,appreciation or gratitude,is a form of,1,culturebank
+803,497,living with parents,united states,is a cultural norm,1,culturebank
+804,497,visiting parents,united states,is a cultural norm,1,culturebank
+497,805,united states,universal healthcare,is,1,culturebank
+497,807,united states,paid leave policy,is,1,culturebank
+808,809,pumpkin spice,cultural phenomenon,is,1,culturebank
+810,811,taxation,contentious issue,is,1,culturebank
+562,813,marriage,engagement,is,1,culturebank
+671,815,conversation,settings,is,1,culturebank
+814,815,weather-related discussions,settings,is,1,culturebank
+816,817,wearing a jacket,encourage,is,1,culturebank
+818,819,main dish,thanksgiving,is,1,blend
+820,549,algeria,country,is,4,blend
+822,94,sport commentator,person,is,1,blend
+823,824,sport team,team,is,1,blend
+825,826,meals,day,is,1,blend
+90,828,breakfast,important meal,is,1,blend
+829,52,family meal,meal,is,1,blend
+833,29,typical type of house,house,is,1,blend
+836,820,seniors,algeria,is,1,blend
+838,26,sports,activity,is,2,blend
+840,820,basketball player,algeria,is,1,blend
+838,842,sports,popular,is,1,blend
+843,844,stay,period,is,1,blend
+843,845,stay,recovery,is,1,blend
+847,846,flower,parents' day,is,1,blend
+848,849,first salary,spending,is,1,blend
+850,851,milestones,key,is,1,blend
+852,853,birthday,celebration,is,1,blend
+854,504,middle school,school,is,1,blend
+821,504,high school,school,is,1,blend
+855,859,academy,private educational institute,is,1,blend
+857,61,middle,students,is,1,blend
+858,61,high,students,is,1,blend
+860,26,break time,activity,is,1,blend
+861,862,university entrance exam,required subjects,requires,1,blend
+864,863,region,academic fervor,is,1,blend
+865,820,sport,algeria,is,1,blend
+820,866,algeria,mental sport,is,1,blend
+867,36,seafood,food,is,1,blend
+868,869,elementary,education,is,1,blend
+821,869,high school,education,is,1,blend
+36,870,food,disgusting,is,1,blend
+21,873,activities,days before ramadan,is,1,blend
+874,876,clothes,outfit,is,1,blend
+877,878,soccer coach,coach,is,1,blend
+879,865,male badminton player,sport,is,1,blend
+880,865,support,sport,is,1,blend
+881,36,fruit,food,is,1,blend
+882,820,soccer player,algeria,is,1,blend
+883,884,sports academies,academies,is,1,blend
+838,21,sports,activities,is,1,blend
+885,886,winter sports player,player,is,1,blend
+887,865,swimmer,sport,is,1,blend
+105,872,morning,new year,is,1,blend
+888,820,eid festivities,algeria,is performed in,1,blend
+881,889,fruit,tourist,is offered to,1,blend
+881,890,fruit,welcoming,is a symbol of,1,blend
+881,820,fruit,algeria,is associated with,1,blend
+36,891,food,charity,is,1,blend
+820,892,algeria,grade level,is,1,blend
+48,895,drink,typical,is,1,blend
+896,820,dish,algeria,is,1,blend
+37,898,men,men in algeria,is,1,blend
+899,901,holiday,reunion,is,1,blend
+107,903,clothing,traditional festivals,is worn during,1,blend
+904,906,kids,caregivers,is cared for by,1,blend
+907,908,movie,sports-related movie,is,1,blend
+820,909,algeria,extreme sport,is,1,blend
+910,820,boxer,algeria,is,1,blend
+911,912,track and field athlete,athlete,is,1,blend
+913,565,industries,businesses,is,1,blend
+619,916,communication,way to communicate remotely,is,1,blend
+917,918,university student,compulsory course,takes,1,blend
+919,920,visit,religious sites,is,1,blend
+921,107,wedding,clothing,is,1,blend
+107,923,clothing,funeral,is worn,1,blend
+924,925,celebrity chef,chef,is a,1,blend
+926,927,most disliked,vegetable,is,1,blend
+928,929,stadium,sporting,is,1,blend
+930,820,paralympian,algeria,is,1,blend
+913,931,industries,work life,is,1,blend
+932,820,entrepreneur,algeria,is,1,blend
+504,820,school,algeria,is located in,1,blend
+933,115,online resource,student,is used by,1,blend
+935,865,track and field,sport,is,1,blend
+48,936,drink,offered,is,1,blend
+111,820,university,algeria,is located in,1,blend
+938,939,work schedule,usual,is,1,blend
+9,796,family,place,is,1,blend
+941,942,household,generations,is,1,blend
+820,943,algeria,tourist destination,is,1,blend
+820,944,algeria,education level,is,1,blend
+115,820,student,algeria,is from,1,blend
+9,947,family,social unit,is,1,blend
+948,842,beverage,popular,is,1,blend
+36,949,food,commonly consumed,is,1,blend
+950,951,parks,sports facilities,is,1,blend
+952,953,school teacher,teacher,is,1,blend
+107,954,clothing,protection,is,1,blend
+955,865,soccer team,sport,is,1,blend
+956,562,age,marriage,is,1,blend
+38,562,women,marriage,is,1,blend
+959,820,daily exercise,algeria,is,1,blend
+960,961,tv program,sports-related,is,1,blend
+962,865,summer sport,sport,is,1,blend
+963,824,women's sports team,team,is,1,blend
+964,820,sportperson,algeria,is,1,blend
+965,865,winter sport,sport,is,1,blend
+26,966,activity,family activity,is,1,blend
+36,52,food,meal,is,1,blend
+967,969,grade,mark given to top-achieving high school students,is,1,blend
+970,971,baccalaureate,high school student,is considered the most important exam for,1,blend
+111,506,university,institution,is,1,blend
+973,974,clerk,meeting,conducts,1,candle
+973,974,clerk,meeting,acts as servant of,1,candle
+973,975,clerk,summons,issues,1,candle
+976,978,dog,animal,is,1,candle
+977,505,dog show,event,is,1,candle
+979,980,lawyer,judge,is,1,candle
+981,983,competition,ritual,is,1,candle
+984,985,panel,judges,is reviewed by,1,candle
+980,987,judge,legal ceremony,presides over,1,candle
+953,115,teacher,student,evaluates,1,candle
+990,68,testing,children,is performed on,1,candle
+953,991,teacher,pupil,monitors,1,candle
+953,115,teacher,student,plays an important role in,1,candle
+953,992,teacher,peer,meets with,1,candle
+953,115,teacher,student,guides,1,candle
+953,115,teacher,student,opens the door for,1,candle
+953,115,teacher,student,teaches,1,candle
+994,996,mentor,preservice teacher's practices,shapes,1,candle
+997,974,department meetings,meeting,is,1,candle
+999,998,subject teachers,teachers,is,1,candle
+1000,1001,test,knowledge and skills,is,1,candle
+953,637,teacher,process,is,1,candle
+953,1004,teacher,occupation,is,9,candle
+61,1006,students,repertory class teachers,sit with,1,candle
+953,1007,teacher,walk their talk,is,1,candle
+994,953,mentor,teacher,is,1,candle
+953,1008,teacher,model,is,2,candle
+1008,1009,model,appropriate questions,models,1,candle
+1010,1011,listen,attentively,is,1,candle
+953,1012,teacher,certificate,receives,1,candle
+998,1016,teachers,students shine,want,1,candle
+61,998,students,teachers,be admired by,1,candle
+1017,1018,parent,family member,is,1,candle
+953,1021,teacher,children's life,plays an important role in,1,candle
+953,1022,teacher,lecture,gives,1,candle
+953,1023,teacher,homework,assigns,1,candle
+953,1023,teacher,homework,checks up on,1,candle
+953,1023,teacher,homework,gives feedback on,1,candle
+953,1024,teacher,rule,is,1,candle
+953,1025,teacher,form,is,1,candle
+1008,1026,model,appropriate behavior,models,1,candle
+1027,998,mark,teachers,is,1,candle
+953,1029,teacher,reading practice,models,1,candle
+1030,1031,attestation,progress,is,1,candle
+953,1034,teacher,assignment,gives,1,candle
+1034,115,assignment,student,given to,1,candle
+1035,1036,plan,lesson,is,1,candle
+1037,1035,good teacher,plan,should have,1,candle
+1039,953,exam,teacher,is designed by,1,candle
+953,1040,teacher,principal,leaves with,1,candle
+953,1041,teacher,classes,for,1,candle
+1042,1043,beekeeper,hive,inspects,1,candle
+1044,1045,dairy farmer,cow,takes seriously,1,candle
+1044,1046,dairy farmer,dairy animal,provides extra care for,1,candle
+1047,1048,farmer,suit up,is,1,candle
+1049,1050,electrician,on time,is,1,candle
+1049,1051,electrician,attend to calls,is,1,candle
+1052,1004,banker,occupation,is,1,candle
+522,796,restaurant,place,is,1,candle
+1054,1055,nurse,medication,administers,1,candle
+1054,1056,nurse,hand,washes,2,candle
+1054,1058,nurse,leader,is,1,candle
+1054,30,nurse,home,visit,1,candle
+1054,95,nurse,mother,caring for,1,candle
+1054,1004,nurse,occupation,is,4,candle
+1054,1056,nurse,hand,should wash,1,candle
+1061,1056,doctor,hand,washes,1,candle
+1061,1056,doctor,hand,should wash,1,candle
+1054,1062,nurse,ready,is,1,candle
+1061,1063,doctor,expect,is,1,candle
+1054,1066,nurse,telephone call,takes,1,candle
+1054,1067,nurse,patient,calls upon,1,candle
+1054,1068,nurse,protocol,follows,1,candle
+1054,1070,nurse,vital signs,checks,1,candle
+1071,1072,handover,pivotal moment,is,1,candle
+1054,1067,nurse,patient,visits,1,candle
+1054,9,nurse,family,teaches,1,candle
+1054,1073,nurse,room,walks around,1,candle
+1054,1055,nurse,medication,signs off on,1,candle
+1054,1074,nurse,pill,count,1,candle
+1074,1055,pill,medication,in,1,candle
+1054,1067,nurse,patient,is,1,candle
+1054,1076,nurse,gadget,uses,1,candle
+1054,1077,nurse,order,follows,1,candle
+1054,9,nurse,family,communicates with,1,candle
+1054,1078,nurse,patient report,writes up,1,candle
+1054,1067,nurse,patient,asks,1,candle
+1054,1079,nurse,question,asks,1,candle
+1081,1082,nurse bee,young bee,cares for,1,candle
+1081,1083,nurse bee,larva,inspects,1,candle
+1085,1087,shoes,keep nurses in mind,is designed to,1,candle
+1088,42,school nurse,parents,informs,1,candle
+1089,1090,registered nurse,home visit,performs,1,candle
+1090,919,home visit,visit,performs,1,candle
+1054,1092,nurse,self-evaluation,writes,1,candle
+1093,1094,nurse review,performance review,is,1,candle
+953,1096,teacher,tailor,is a,1,candle
+1097,1098,report papers need,return for a fair quantity of time and cash,is,1,candle
+1099,1101,established home carpenter,trips,takes,1,candle
+1102,1103,dentist,medical history,requires,1,candle
+1102,1067,dentist,patient,treats,1,candle
+1104,1105,white coat,white,is,1,candle
+1106,1107,seeing dentists,healthy and strong,helps,1,candle
+1108,1109,reminder,advice,is,1,candle
+1109,1108,advice,reminder,is,1,candle
+1110,1111,"short, successive visits",trust,builds,1,candle
+1112,1102,dry socket irrigation,dentist,is performed by,1,candle
+1113,1102,wound dressing,dentist,is performed by,1,candle
+1115,1116,periodontal probe,tool,is,1,candle
+1117,1118,lead apron,female dentist,worn by,1,candle
+1102,1119,dentist,bruxism,detects,1,candle
+1102,1120,dentist,routine appointment,checks,1,candle
+1121,1122,politician,lie,is,1,candle
+1121,1124,politician,career,is,1,candle
+1121,1126,politician,things,say,1,candle
+1121,1004,politician,occupation,is,1,candle
+1121,1127,politician,answer,answers,1,candle
+1127,1079,answer,question,to,1,candle
+1121,1129,politician,camera,uses,1,candle
+1121,1130,politician,script,is,1,candle
+1121,1131,politician,bought off,is,1,candle
+1121,1133,politician,numbers,values,1,candle
+1121,1134,politician,ethical rules,attracts,1,candle
+1121,1135,politician,arguments,attracts,1,candle
+1136,1135,efforts,arguments,attracts,1,candle
+1137,1138,bank,reliable,is,1,candle
+1139,1140,mortgage loan,loan,is,1,candle
+1143,1144,agreement,merchant agreement,is,1,candle
+1145,1146,worship,rituals,is,1,candle
+1147,1149,photographer,details,captures,1,candle
+1147,1150,photographer,essence,captures,1,candle
+1147,1151,photographer,directing shots,specialize in,1,candle
+1147,1152,photographer,perfect moment,capture,1,candle
+1147,921,photographer,wedding,participate in,1,candle
+1147,1004,photographer,occupation,is,2,candle
+1147,1154,photographer,portfolio,is,1,candle
+1147,921,photographer,wedding,is,1,candle
+1147,1157,photographer,professional event photographer,is,1,candle
+505,1159,event,important for managing an event and entrance,is,1,candle
+1147,1160,photographer,ceremony,is,1,candle
+1161,1160,videographer,ceremony,is,1,candle
+1147,1162,photographer,spot,is,1,candle
+1163,1147,landscape photographer,photographer,is,1,candle
+1147,1165,photographer,guest,photographs,1,candle
+1166,119,timeline,payment,is,1,candle
+1167,1147,golden hour,photographer,is the best time to take photos because the light is perfect,1,candle
+1168,1169,logo,delicacy,is,1,candle
+1170,1147,race photographer,photographer,is,1,candle
+1171,1160,non-flash photography,ceremony,is allowed during,1,candle
+1172,1160,flash photography,ceremony,is not allowed during,1,candle
+505,1174,event,good opportunity,is,1,candle
+1147,1175,photographer,image,takes,1,candle
+1175,1176,image,land,of,1,candle
+1177,1004,professional photographer,occupation,is,1,candle
+1179,1178,saliva,makeup artist,is,1,candle
+1180,1181,mehndi artist,henna,applies,1,candle
+1182,847,artist,flower,creates,1,candle
+686,1186,landscape,art,is,1,candle
+1187,1188,professional dog walker,clients' dogs,takes,1,candle
+1187,1188,professional dog walker,clients' dogs,takes for regular walks,1,candle
+1189,43,face painter,child,works with,1,candle
+1191,1192,painter,professional painter,is,1,candle
+1077,1193,order,specific order,is,1,candle
+923,1196,funeral,parish,is coordinated with,1,candle
+923,1194,funeral,priest,requires,1,candle
+1194,1197,priest,robes,wears,1,candle
+1198,1199,architect,builder,plans,1,candle
+1200,1201,sealed plans,architect/engineer plans,is,1,candle
+1202,1203,blueprint,detailed plan,is,1,candle
+1204,1205,licensed architect,engineer,is,1,candle
+1198,1206,architect,building,builds,1,candle
+1198,1207,architect,signature,is,1,candle
+1198,1004,architect,occupation,is,1,candle
+1208,1209,attorney,closing,handles,1,candle
+1210,1211,pay off letter,document,is,1,candle
+1209,505,closing,event,is,1,candle
+1212,1213,power,notary,is,1,candle
+1208,1004,attorney,occupation,is,2,candle
+1111,1214,trust,legal concept,is,1,candle
+1208,1215,attorney,record,makes,1,candle
+1216,1077,party,order,sign,1,candle
+1077,980,order,judge,present,1,candle
+1077,1219,order,approval,require,1,candle
+1220,983,death,ritual,is,1,candle
+1208,1222,attorney,donor,makes decisions as if they were,1,candle
+1224,1225,experiment,repeated,is,1,candle
+1226,1227,scientist,write,is,1,candle
+1205,1226,engineer,scientist,is,1,candle
+1226,1230,scientist,counting,is,1,candle
+1226,1133,scientist,numbers,is,1,candle
+1226,1232,scientist,citation,cite,1,candle
+1232,23,citation,work,is,1,candle
+1235,1233,medical receptionist,greeting,is,1,candle
+1235,1234,medical receptionist,registering,is,1,candle
+1233,1234,greeting,registering,includes,1,candle
+1236,983,press conference,ritual,is,1,candle
+1237,741,review,people,is necessary for,1,candle
+1238,1240,journalist,follow directions,is expected to,1,candle
+1238,1241,journalist,submit quality,is expected to,1,candle
+1239,1242,quality,top,is,1,candle
+469,1244,tipping,practice,is,1,candle
+1245,1246,tuxedo,formal clothing,is,1,candle
+1247,1248,pad cover,keeps restaurant order pads neat and tidy and professional looking,is,1,candle
+1061,1249,doctor,oath,takes,1,candle
+1249,1251,oath,do no harm,is,1,candle
+1252,983,hand wash,ritual,is,1,candle
+1061,1253,doctor,take a history,takes,1,candle
+1254,1255,doctors,hippocratic oath,takes,1,candle
+1061,1067,doctor,patient,asks,1,candle
+1259,1061,report,doctor,is produced for,1,candle
+1061,1004,doctor,occupation,is,1,candle
+1261,1262,stethoscope,cultural symbol,is,1,candle
+1061,1077,doctor,order,writes,1,candle

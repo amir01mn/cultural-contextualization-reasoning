@@ -1,0 +1,263 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "tech workers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 3,
+      "label": "unit clerk",
+      "level": 3,
+      "cultural_group": "clerk",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 4,
+      "label": "hospitality",
+      "level": 3,
+      "cultural_group": "clerk",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "front desk",
+      "level": 3,
+      "cultural_group": "clerk",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 6
+    },
+    {
+      "id": 7,
+      "label": "certain occupations",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 10,
+      "label": "doctor",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "large open space",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "carpenters",
+      "level": 4,
+      "cultural_group": "carpenter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "established home",
+      "level": 3,
+      "cultural_group": "carpenter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "hygiene",
+      "level": 4,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 16,
+      "label": "professional circuit",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "tech workers",
+      "target_label": "algeria",
+      "relation_type": "work_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "unit clerk",
+      "target_label": "hospitality",
+      "relation_type": "works_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "source_label": "unit clerk",
+      "target_label": "front desk",
+      "relation_type": "works_at",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "certain occupations",
+      "relation_type": "works_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "source_label": "teacher",
+      "target_label": "algeria",
+      "relation_type": "work_with",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "nurse",
+      "target_label": "doctor",
+      "relation_type": "works_with",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 9,
+      "target": 11,
+      "source_label": "nurse",
+      "target_label": "large open space",
+      "relation_type": "works_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "carpenters",
+      "target_label": "established home",
+      "relation_type": "works_at",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "hygiene",
+      "relation_type": "work_with",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 15,
+      "target": 6,
+      "source_label": "photographer",
+      "target_label": "food",
+      "relation_type": "works_with",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "photographer",
+      "target_label": "professional circuit",
+      "relation_type": "works_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

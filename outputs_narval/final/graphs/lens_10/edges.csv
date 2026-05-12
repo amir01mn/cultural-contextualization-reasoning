@@ -1,0 +1,275 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,sahur,time,originates from,1,arabculture
+3,5,mshousha,algeria,originates from,1,arabculture
+4,3,liyla,mshousha,prepares,1,arabculture
+6,5,providing fruits when visiting a patient,algeria,originates from,1,arabculture
+7,5,mahr,algeria,originates from,2,arabculture
+9,8,shopping,ramadan,originates from,1,arabculture
+10,11,maa'ayidah,aid el-adha,originates from,1,arabculture
+13,5,day of arafat,algeria,originates from,1,arabculture
+15,16,dying,burial,originates from,1,arabculture
+5,17,algeria,dividing the remaining assets of the deceased after forty days,originates from,1,arabculture
+18,5,algerian traditional music instruments,algeria,originates from,1,arabculture
+20,21,southern algeria,special crop,originates from,1,arabculture
+22,23,sikka,fruit harvest festival,originates from,1,arabculture
+24,5,dates,algeria,originates from,1,arabculture
+25,5,duba,algeria,originates from,1,arabculture
+5,26,algeria,customs,originates from,2,arabculture
+5,27,algeria,habits,originates from,1,arabculture
+5,28,algeria,customs and traditions,originates from,1,arabculture
+29,5,morning routine,algeria,originates from,1,arabculture
+32,33,spending time together,after school,originates from,1,arabculture
+34,5,helping,algeria,originates from,1,arabculture
+5,35,algeria,behavior,originates from,1,arabculture
+36,5,street games,algeria,originates from,1,arabculture
+37,16,islamic religion,burial,originates from,1,arabculture
+5,39,algeria,procedures before burial,originates from,1,arabculture
+5,40,algeria,treatment of body,originates from,1,arabculture
+26,5,customs,algeria,originates from,1,arabculture
+41,28,algerian society,customs and traditions,follows,1,arabculture
+5,42,algeria,songs,originates from,1,arabculture
+5,43,algeria,planting allowed plants,originates from,1,arabculture
+44,5,proverb,algeria,originates from,1,arabculture
+7,46,mahr,egypt,originates from,1,arabculture
+45,7,ahl al-`arusa,mahr,receives,1,arabculture
+47,48,zakat al-fitr,islam,originates from,1,arabculture
+13,49,day of arafat,eid al-adha,is part of,1,arabculture
+50,46,shawerma,egypt,originates from,1,arabculture
+51,46,kafn,egypt,originates from,1,arabculture
+52,46,ahl,egypt,originates from,1,arabculture
+54,55,jitzman,qubur,is placed in,1,arabculture
+58,57,inheritance,islamic sharia,originates from,1,arabculture
+60,61,cotton,nile valley,originates from,1,arabculture
+44,46,proverb,egypt,originates from,1,arabculture
+63,49,pilgrim animal,eid al-adha,originates from,1,arabculture
+46,65,egypt,manufacture,originates from,1,arabculture
+66,67,mangalagiri cotton,mangalagiri town,originates from,1,diwali
+68,69,uppada silk,uppada village,originates from,1,diwali
+70,71,kalamkari,andhra pradesh,originates from,1,diwali
+72,73,dharmavaram silk,dharmavaram,originates from,1,diwali
+74,75,srikalahasti kalamkari,srikalahasti,originates from,1,diwali
+76,77,muga silk,assam,originates from,1,diwali
+78,77,eri silk,assam,originates from,1,diwali
+80,77,gamosa,assam,originates from,1,diwali
+81,77,lasingphee,assam,originates from,1,diwali
+82,83,bhagalpuri silk,bhagalpur,originates from,1,diwali
+84,85,madhubani painting on textiles,mithila region,originates from,1,diwali
+86,87,aal-dyed handloom fabrics,bastar region,originates from,1,diwali
+88,89,goan crochet and embroidery,portugal,originates from,1,diwali
+90,91,chamba rumal,chamba region,originates from,2,diwali
+92,93,rampur chaddar,rampur,originates from,1,diwali
+94,95,kuchai silk,kharsawan-kuchai region,originates from,1,diwali
+82,97,bhagalpuri silk,bihar and jharkhand,originates from,1,diwali
+98,99,ilkal saree,ilkal,originates from,1,diwali
+100,101,mysore silk sarees,mysore,originates from,1,diwali
+102,103,molakalmuru saree,molakalmuru,originates from,1,diwali
+102,104,molakalmuru saree,chitradurga district,originates from,1,diwali
+105,106,navalgund durries,dharwad district,originates from,1,diwali
+107,108,guledgudda khana,guledgudda,originates from,1,diwali
+109,110,balaramapuram handloom,balaramapuram region,originates from,1,diwali
+111,112,chendamangalam saree,chendamangalam,originates from,1,diwali
+113,114,kuthampully saree,kerala,originates from,1,diwali
+115,114,kavani,kerala,originates from,1,diwali
+117,118,thiruvananthapuram saree,thiruvananthapuram,originates from,1,diwali
+119,120,chanderi saree,chanderi,originates from,1,diwali
+121,122,tussar silk,chhindwara,originates from,1,diwali
+123,124,nandana print,malwa region,originates from,1,diwali
+125,126,paithani saree,paithan,originates from,1,diwali
+127,128,solapur chaddar,solapur,originates from,1,diwali
+129,130,narayan peth sari,narayan peth,originates from,1,diwali
+131,132,ilkal sari,karnataka,originates from,1,diwali
+133,134,chanderi sari,madhya pradesh,originates from,1,diwali
+135,136,wangkhei phee,manipur,originates from,1,diwali
+137,139,bomkai saree,sonepur district,originates from,1,diwali
+140,141,berhampuri patta,berhampur,originates from,1,diwali
+142,143,kotpad handloom,tribal regions,originates from,1,diwali
+144,145,habaspuri saree,kalahandi district,originates from,1,diwali
+146,147,pipili appliqué work,pipili,originates from,1,diwali
+148,149,salwar kameez,punjab,originates from,1,diwali
+150,151,sanganeri block print,sanganer,originates from,1,diwali
+152,153,madurai sungudi,madurai,originates from,1,diwali
+154,155,chettnad kandangi saree,chettnad region,originates from,1,diwali
+156,157,salem silk dhoti,salem region,originates from,1,diwali
+158,159,kumbakonam silk saree,kumbakonam,originates from,1,diwali
+160,161,bhavani jamakkalam,bhavani,originates from,1,diwali
+162,163,pochampally ikat,bhoodan pochampally,originates from,1,diwali
+164,165,siddipet gollabhama sarees,siddipet,originates from,1,diwali
+166,168,gongadi blanket,kuruma community,originates from,1,diwali
+169,170,woolen weaving,uttarakhand,originates from,1,diwali
+171,172,banarasi sari,varanasi,originates from,1,diwali
+173,174,baluchari sari,baluchar in murshidabad,originates from,1,diwali
+175,176,tangail sari,tangail,originates from,1,diwali
+148,177,salwar kameez,punjab region,originates from,1,diwali
+179,180,kani shawl,kanihama area,originates from,1,diwali
+181,182,sambha calico prints,sambha region,originates from,1,diwali
+183,184,pashmina wool,changthangi goat,originates from,1,diwali
+185,186,tsul,ladakh,originates from,1,diwali
+187,188,kachi,lakshadweep,originates from,1,diwali
+189,188,mundu,lakshadweep,originates from,1,diwali
+190,191,pondicherry handloom fabrics,puducherry,originates from,1,diwali
+192,191,khadi textiles,puducherry,originates from,1,diwali
+194,195,palampore prints,india,originates from,1,diwali
+196,71,prenkhana,andhra pradesh,originates from,1,diwali
+198,77,kherai dance,assam,originates from,1,diwali
+199,200,zikirs,muslim saint azan fakir,originates from,1,diwali
+202,201,alcohol,grocery store,originates from,1,culturebank
+203,204,smoking,united states,originates from,1,culturebank
+205,204,peanut butter,united states,originates from,1,culturebank
+206,204,air conditioning,united states,originates from,1,culturebank
+207,208,tea,british culture,originates from,1,culturebank
+209,210,umbrella,latin word 'umbra',originates from,1,culturebank
+211,204,large refrigerators,united states,originates from,1,culturebank
+212,204,fridges,united states,originates from,1,culturebank
+213,204,homelessness,united states,originates from,1,culturebank
+214,215,free water,legal requirements,originates from,1,culturebank
+216,217,restrictions on ac use,historically,originates from,1,culturebank
+218,219,term soccer,british colonizers,originates from,1,culturebank
+220,221,trucks,rural areas,originates from,1,culturebank
+5,222,algeria,fruit,originates from,2,blend
+223,5,preschool,algeria,originates from,1,blend
+224,5,thanksgiving,algeria,originates from,1,blend
+225,5,team sport,algeria,originates in,1,blend
+5,226,algeria,ingredient,originates from,1,blend
+5,227,algeria,hot drink,originates from,1,blend
+5,228,algeria,new year's eve,originates from,1,blend
+229,5,elderly,algeria,originates from,1,blend
+230,5,maternity leave,algeria,originates from,1,blend
+5,231,algeria,paternity leave,originates from,1,blend
+5,232,algeria,family vacation,originates from,1,blend
+5,233,algeria,olympics,originates from,1,blend
+5,234,algeria,average family size,originates from,1,blend
+5,235,algeria,students,originates from,1,blend
+236,5,lunch break,algeria,originates from,1,blend
+5,238,algeria,salary,originates from,1,blend
+5,239,algeria,family-related holidays,originates from,1,blend
+240,5,children's independence,algeria,originates from,1,blend
+241,5,child birth,algeria,originates from,1,blend
+242,5,birthday,algeria,originates from,1,blend
+5,243,algeria,private education,originates from,1,blend
+5,244,algeria,elementary school,originates from,1,blend
+245,5,region,algeria,originates from,2,blend
+246,5,water sport,algeria,originates from,1,blend
+5,247,algeria,agriculture,originates from,1,blend
+248,5,summer vacations,algeria,originates from,2,blend
+249,5,elementary schools,algeria,originates from,1,blend
+5,251,algeria,age,originates from,2,blend
+202,5,alcohol,algeria,originates from,2,blend
+5,253,algeria,dinner at a restaurant,originates from,1,blend
+254,5,seafood,algeria,originates from,2,blend
+5,255,algeria,festival,originates from,1,blend
+5,256,algeria,break duration,originates from,1,blend
+5,257,algeria,education,originates from,1,blend
+258,5,algerian food,algeria,originates from,4,blend
+261,5,bread,algeria,originates from,1,blend
+5,262,algeria,national holiday,originates from,1,blend
+263,264,house,family member dies,originates from,1,blend
+5,265,algeria,pregnancy celebration or ceremony,originates from,1,blend
+266,5,wedding,algeria,originates from,3,blend
+5,267,algeria,days before ramadan,originates from,1,blend
+5,268,algeria,religious site,originates from,1,blend
+5,270,algeria,clothes,originates from,1,blend
+5,271,algeria,cold weather drink,originates from,1,blend
+222,8,fruit,ramadan,originates from,1,blend
+5,273,algeria,government,originates from,1,blend
+5,260,algeria,food,originates from,5,blend
+5,274,algeria,meat,originates from,1,blend
+5,275,algeria,side dish,originates from,1,blend
+276,5,nourishing food,algeria,originates from,1,blend
+260,5,food,algeria,originates from,1,blend
+278,5,wedding gift,algeria,originates from,1,blend
+5,279,algeria,traffic congestion,originates from,1,blend
+5,280,algeria,destination,originates from,1,blend
+262,5,national holiday,algeria,originates from,1,blend
+281,5,secure job,algeria,originates from,1,blend
+5,282,algeria,industry,originates from,1,blend
+5,283,algeria,dish,originates from,1,blend
+5,284,algeria,meals,originates from,1,blend
+5,285,algeria,festive meal,originates from,1,blend
+5,286,algeria,traditional food,originates from,1,blend
+287,5,dipping sauce,algeria,originates from,1,blend
+288,5,christian fasting,algeria,originates from,1,blend
+5,289,algeria,elementary school student,originates from,1,blend
+290,5,desert,algeria,originates from,1,blend
+5,291,algeria,religious holiday,originates from,1,blend
+293,5,wheat-based food,algeria,originates from,1,blend
+5,294,algeria,drink,originates from,2,blend
+295,5,fish,algeria,originates from,1,blend
+296,5,traditional games,algeria,originate from,1,blend
+5,297,algeria,festival accessories,originates from,1,blend
+5,299,algeria,skiing destination,originates from,1,blend
+300,5,spicy dish,algeria,originates from,1,blend
+301,5,seasoning,algeria,originates from,1,blend
+5,302,algeria,cold weather,originates from,1,blend
+303,5,alcohol brand,algeria,originates from,1,blend
+5,304,algeria,job,originates from,2,blend
+305,5,probation period,algeria,originates from,1,blend
+5,306,algeria,industries,originates from,2,blend
+5,308,algeria,accommodation,originates from,1,blend
+5,309,algeria,middle school,originates from,1,blend
+5,310,algeria,holidays,originates from,1,blend
+5,311,algeria,chip/crisp,originates from,1,blend
+312,5,chocolate,algeria,originates from,1,blend
+313,5,cheese,algeria,originates from,1,blend
+5,314,algeria,vegetable,originates from,2,blend
+5,315,algeria,food court,originates from,1,blend
+5,316,algeria,family name,originates from,1,blend
+5,317,algeria,family,originates from,2,blend
+5,318,algeria,country,originates from,1,blend
+319,5,theatrical performance,algeria,originates from,1,blend
+320,5,alcoholic drink,algeria,originates from,1,blend
+321,5,morning drink,algeria,originates from,1,blend
+322,5,traditional dessert,algeria,originates from,1,blend
+323,5,racket sport,algeria,originates from,1,blend
+5,324,algeria,sporting event,originates from,1,blend
+5,325,algeria,funeral,originates from,1,blend
+5,327,algeria,wedding venue,originates from,1,blend
+5,328,algeria,coffee shop brand,originates from,1,blend
+5,330,algeria,mining,originates from,1,blend
+331,5,oil,algeria,originates from,1,blend
+332,5,prenatal education activity,algeria,originates from,1,blend
+333,5,university students,algeria,originates from,1,blend
+5,334,algeria,side job,originates from,1,blend
+335,5,edible souvenir,algeria,originates from,1,blend
+336,5,stew,algeria,originates from,1,blend
+5,337,algeria,spice/herb,originates from,1,blend
+338,339,work schedule,month of ramadan,originates from,1,blend
+5,249,algeria,elementary schools,originates from,1,blend
+341,5,edible insect,algeria,originates from,1,blend
+5,342,algeria,agricultural product,originates from,1,blend
+343,5,sweets,algeria,originates from,1,blend
+5,344,algeria,independence day,originates from,1,blend
+5,331,algeria,oil,originates from,1,blend
+345,5,non-alcoholic drink,algeria,originates from,1,blend
+346,5,mountainous areas,algeria,originates from,1,blend
+347,5,coastal areas,algeria,originates from,1,blend
+348,5,farmers,algeria,originates from,1,blend
+5,349,algeria,christmas day,originates from,1,blend
+350,5,christmas song,algeria,originates from,1,blend
+5,351,algeria,job seeker,originates from,1,blend
+5,352,algeria,fast food chain,originates from,1,blend
+5,353,algeria,family pet,originates from,1,blend
+5,354,algeria,tv show,originates from,1,blend
+355,5,takeaway food,algeria,originates from,1,blend
+356,5,daily exercise,algeria,originates from,1,blend
+357,5,rivalry,algeria,originates from,1,blend
+5,358,algeria,sport,originates from,1,blend
+5,359,algeria,tv program,originates from,1,blend
+5,360,algeria,fireworks,originates from,1,blend
+5,361,algeria,professional sports league,originates from,1,blend
+5,362,algeria,tournament,originates from,1,blend
+363,5,family holiday,algeria,originates from,1,blend
+367,366,order,doctor,originates from,1,candle
+368,369,politician,party,originates from,1,candle
+368,373,politician,polling,rely heavily on,1,candle
+373,374,polling,public opinion,shaping,1,candle
+375,377,bank,merchant,originates from,1,candle
+377,379,merchant,loan,originates from,1,candle
+380,377,agreement,merchant,originates from,1,candle
+382,383,account book,business,originates from,1,candle
+384,266,photographer,wedding,originates from,1,candle
+388,386,plans,licensed architect,requires,1,candle
+388,387,plans,engineer,requires,1,candle
+390,389,church plans,architect,stamped by,1,candle
+389,391,architect,state,registered in,1,candle
+392,394,ebbe drains,homeowners,chosen by,1,candle
+392,393,ebbe drains,architects,specified by,1,candle

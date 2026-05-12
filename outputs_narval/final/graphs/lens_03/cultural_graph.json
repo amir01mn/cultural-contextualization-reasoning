@@ -1,0 +1,1685 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "家务活动",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "grandparents",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "grandchildren",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "celebrating eid with grandchildren",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "child",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "parent",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "game",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "children",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "repairing",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "monpa woolen weave",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "weaving",
+      "level": 4,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "dhurrie",
+      "level": 5,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "homes",
+      "level": 2,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "chamba shawl",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "local attire",
+      "level": 2,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "dhara",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "ceremonial occasions",
+      "level": 5,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "phool patti ka kaam",
+      "level": 3,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "creating floral and leaf motifs",
+      "level": 4,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "ari embroidery",
+      "level": 3,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "sarlis and other garments",
+      "level": 4,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "carcari",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "dance",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "rekham pada",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "community gatherings",
+      "level": 2,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "women",
+      "level": 5,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "deodhani dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "various communities",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "phalguni dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "couples",
+      "level": 5,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "jat-jatin",
+      "level": 2,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "kathghorwa naach",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "weddings",
+      "level": 2,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "khamba swang",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "ger dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "group formations",
+      "level": 2,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "fugdi",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "circular formations",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "romat",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "group formations",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "vibrant music",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "morulem",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "monsoon",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "bhandap",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "folk dance",
+      "level": 4,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "festivals",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "initiate conversations",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "ask questions",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "colleagues",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "questions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "drills",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "safety measures",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "schools",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 54,
+      "label": "school schedule",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "classes",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "after-school activities",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "recess",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "lunch",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "electives",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "activities",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "practices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "tasks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "second nature",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "educational settings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "diverse educational activities",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "grandparents",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 67,
+      "label": "childcare",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "visiting",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "helping out",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "ear piercing",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "infancy",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "childhood",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "teaching",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "learning",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "transporting dogs",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "legal restrictions",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "animal welfare concerns",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "visit",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "own",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "own museums",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "citizens",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "leaders",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "react to, and express opinions about political scandals",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "right turns",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "left turns",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "rules",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "living",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "slowing down",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "adapting to weather conditions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "summer",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "inquiry",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "questioning",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "walking",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "traffic",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "sing",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "recite",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "settings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "people",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "purchasing items",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "using full-service stations",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "smoking",
+      "level": 5,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "naming practices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "judge",
+      "level": 5,
+      "cultural_group": "occupation",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "training",
+      "level": 4,
+      "cultural_group": "occupation",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "ipodogs",
+      "level": 5,
+      "cultural_group": "occupation",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 108,
+      "label": "student",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "marking",
+      "level": 4,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "pianist",
+      "level": 5,
+      "cultural_group": "pianist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "concert",
+      "level": 2,
+      "cultural_group": "pianist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "doctor",
+      "level": 1,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "merchant",
+      "level": 1,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "special account",
+      "level": 4,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "service",
+      "level": 2,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "rehearsal",
+      "level": 4,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "coach",
+      "level": 4,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 2,
+      "target": 4,
+      "source_label": "grandparents",
+      "target_label": "celebrating eid with grandchildren",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "source_label": "child",
+      "target_label": "game",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "parent",
+      "target_label": "game",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "children",
+      "target_label": "repairing",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "monpa woolen weave",
+      "target_label": "weaving",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "dhurrie",
+      "target_label": "homes",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "chamba shawl",
+      "target_label": "local attire",
+      "relation_type": "part of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "dhara",
+      "target_label": "ceremonial occasions",
+      "relation_type": "worn during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "phool patti ka kaam",
+      "target_label": "creating floral and leaf motifs",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "ari embroidery",
+      "target_label": "sarlis and other garments",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "carcari",
+      "target_label": "dance",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "rekham pada",
+      "target_label": "community gatherings",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "women",
+      "target_label": "deodhani dance",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "source_label": "various communities",
+      "target_label": "phalguni dance",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 31,
+      "target": 30,
+      "source_label": "jat-jatin",
+      "target_label": "couples",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "kathghorwa naach",
+      "target_label": "weddings",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "ger dance",
+      "target_label": "group formations",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "source_label": "fugdi",
+      "target_label": "circular formations",
+      "relation_type": "participates in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 39,
+      "target": 36,
+      "source_label": "romat",
+      "target_label": "group formations",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 39,
+      "target": 41,
+      "source_label": "romat",
+      "target_label": "vibrant music",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 42,
+      "target": 43,
+      "source_label": "morulem",
+      "target_label": "monsoon",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "folk dance",
+      "target_label": "festivals",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 47,
+      "target": 49,
+      "source_label": "initiate conversations",
+      "target_label": "colleagues",
+      "relation_type": "initiates",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 48,
+      "target": 50,
+      "source_label": "ask questions",
+      "target_label": "questions",
+      "relation_type": "asks",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 53,
+      "target": 51,
+      "source_label": "schools",
+      "target_label": "drills",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 53,
+      "target": 52,
+      "source_label": "schools",
+      "target_label": "safety measures",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "source_label": "school schedule",
+      "target_label": "classes",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 54,
+      "target": 56,
+      "source_label": "school schedule",
+      "target_label": "after-school activities",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 53,
+      "target": 57,
+      "source_label": "schools",
+      "target_label": "recess",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 53,
+      "target": 58,
+      "source_label": "schools",
+      "target_label": "lunch",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 53,
+      "target": 59,
+      "source_label": "schools",
+      "target_label": "electives",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 60,
+      "target": 63,
+      "source_label": "activities",
+      "target_label": "second nature",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 61,
+      "target": 63,
+      "source_label": "practices",
+      "target_label": "second nature",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "source_label": "tasks",
+      "target_label": "second nature",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "source_label": "educational settings",
+      "target_label": "diverse educational activities",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 2,
+      "target": 67,
+      "source_label": "grandparents",
+      "target_label": "childcare",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 2,
+      "target": 68,
+      "source_label": "grandparents",
+      "target_label": "visiting",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 2,
+      "target": 69,
+      "source_label": "grandparents",
+      "target_label": "helping out",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 70,
+      "target": 71,
+      "source_label": "ear piercing",
+      "target_label": "infancy",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 70,
+      "target": 72,
+      "source_label": "ear piercing",
+      "target_label": "childhood",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 73,
+      "target": 74,
+      "source_label": "teaching",
+      "target_label": "learning",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 74,
+      "target": 73,
+      "source_label": "learning",
+      "target_label": "teaching",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "source_label": "transporting dogs",
+      "target_label": "legal restrictions",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 75,
+      "target": 77,
+      "source_label": "transporting dogs",
+      "target_label": "animal welfare concerns",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 78,
+      "target": 80,
+      "source_label": "visit",
+      "target_label": "own museums",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 81,
+      "target": 83,
+      "source_label": "citizens",
+      "target_label": "react to, and express opinions about political scandals",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 86,
+      "target": 84,
+      "source_label": "rules",
+      "target_label": "right turns",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 86,
+      "target": 85,
+      "source_label": "rules",
+      "target_label": "left turns",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 87,
+      "source_label": "summer",
+      "target_label": "living",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 88,
+      "source_label": "summer",
+      "target_label": "slowing down",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 89,
+      "source_label": "summer",
+      "target_label": "adapting to weather conditions",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 91,
+      "target": 92,
+      "source_label": "inquiry",
+      "target_label": "questioning",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 93,
+      "target": 94,
+      "source_label": "walking",
+      "target_label": "traffic",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 95,
+      "target": 97,
+      "source_label": "sing",
+      "target_label": "settings",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "source_label": "recite",
+      "target_label": "settings",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 98,
+      "target": 99,
+      "source_label": "people",
+      "target_label": "purchasing items",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 98,
+      "target": 100,
+      "source_label": "people",
+      "target_label": "using full-service stations",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 98,
+      "target": 101,
+      "source_label": "people",
+      "target_label": "smoking",
+      "relation_type": "engage in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "source_label": "naming practices",
+      "target_label": "united states",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 104,
+      "target": 105,
+      "source_label": "judge",
+      "target_label": "training",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "source_label": "training",
+      "target_label": "ipodogs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "source_label": "teacher",
+      "target_label": "student",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 109,
+      "target": 107,
+      "source_label": "marking",
+      "target_label": "teacher",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 110,
+      "target": 111,
+      "source_label": "pianist",
+      "target_label": "concert",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 112,
+      "target": 113,
+      "source_label": "nurse",
+      "target_label": "doctor",
+      "relation_type": "collaborate with",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 114,
+      "target": 116,
+      "source_label": "merchant",
+      "target_label": "service",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 117,
+      "target": 118,
+      "source_label": "rehearsal",
+      "target_label": "coach",
+      "relation_type": "participate in",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

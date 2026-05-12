@@ -1,0 +1,66 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algeria,1,algeria,unknown,arabculture,53
+2,traditional dishes,1,algeria,unknown,arabculture,1
+3,important accompaniments,3,algeria,unknown,arabculture,1
+4,local food,3,algeria,unknown,arabculture,1
+5,customer,1,algeria,unknown,arabculture,4
+6,food,1,algeria,unknown,arabculture,21
+7,nile valley,1,algeria,unknown,arabculture,2
+8,trustworthiness,3,algeria,unknown,arabculture,1
+9,beautiful skin,3,algeria,unknown,arabculture,1
+10,respect for the dead,3,algeria,unknown,arabculture,1
+11,strong bonds among siblings,3,algeria,unknown,arabculture,1
+12,hospitality,3,algeria,unknown,arabculture,2
+13,timeliness,3,algeria,unknown,arabculture,1
+14,ritual,1,algeria,unknown,arabculture,1
+15,hydration during sahur,3,egypt,unknown,arabculture,1
+16,prioritize marriage preparation,3,egypt,unknown,arabculture,1
+17,respect for mothers,3,egypt,unknown,arabculture,1
+18,spending time together,3,egypt,unknown,arabculture,1
+19,egyptian students,3,egypt,unknown,arabculture,1
+20,collective morning routine,3,egypt,unknown,arabculture,1
+21,apatani tribe,5,arunachal pradesh,unknown,diwali,2
+22,durability,4,haryana,unknown,diwali,1
+23,cotton sarees,2,tamil nadu,unknown,diwali,1
+24,quality and comfort,3,tamil nadu,unknown,diwali,1
+25,algerian society,2,general,unknown,culturebank,10
+26,personal safety,3,general,unknown,culturebank,1
+27,fulfilling career,3,general,unknown,culturebank,1
+28,comfort,3,general,unknown,culturebank,1
+29,united states,1,general,unknown,culturebank,1
+30,punctuality,3,general,unknown,culturebank,1
+31,physical activity,3,dz,unknown,blend,1
+32,family time together,3,dz,unknown,blend,1
+33,privacy and security,3,dz,unknown,blend,1
+34,algerian seniors,3,dz,unknown,blend,2
+35,"team spirit, competition",3,dz,unknown,blend,1
+36,modesty and tradition,3,dz,unknown,blend,1
+37,gifts,1,dz,unknown,blend,3
+38,family and community,3,dz,unknown,blend,1
+39,children's autonomy,3,dz,unknown,blend,1
+40,respect for elders,3,dz,unknown,blend,1
+41,grand birthday celebrations,3,dz,unknown,blend,1
+42,family honor,3,dz,unknown,blend,1
+43,education and public service,3,dz,unknown,blend,1
+44,community gathering,3,dz,unknown,blend,1
+45,respect for the deceased,3,dz,unknown,blend,1
+46,communal support,3,dz,unknown,blend,1
+47,academic success,3,dz,unknown,blend,1
+48,family expectations,3,dz,unknown,blend,1
+49,cultural connection,3,dz,unknown,blend,1
+50,employee,1,dz,unknown,blend,1
+51,specific majors for employment,3,dz,unknown,blend,1
+52,religion,4,dz,unknown,blend,1
+53,masculinity and strength,3,dz,unknown,blend,1
+54,outdoor leisure,3,dz,unknown,blend,1
+55,religious observance,3,dz,unknown,blend,1
+56,modesty,3,dz,unknown,blend,1
+57,freshness and simplicity,3,dz,unknown,blend,1
+58,stability,3,dz,unknown,blend,1
+59,customization,3,tailor,unknown,candle,1
+60,politician,1,politician,unknown,candle,3
+61,successful,4,politician,unknown,candle,1
+62,public recognition,3,politician,unknown,candle,1
+63,photographer,1,photographer,unknown,candle,4
+64,excellence,3,photographer,unknown,candle,1

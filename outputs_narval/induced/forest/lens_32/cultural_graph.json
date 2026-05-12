@@ -1,0 +1,389 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "burial",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 3,
+      "label": "prayer time",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "dawn prayer",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "hair washing tradition",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "新房布置",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 9,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 10,
+      "label": "employee",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "dress code",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "audience",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "popular sport commentator",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "popular sports teams",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "instructions",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 18,
+      "label": "physician and medical staff",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "medication administration",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "campaign promises",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 23,
+      "label": "before tattoo",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "after tattoo",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "journalist",
+      "level": 2,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "burial",
+      "target_label": "ritual",
+      "relation_type": "follows",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "prayer time",
+      "target_label": "dawn prayer",
+      "relation_type": "follows",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "nile valley",
+      "target_label": "hair washing tradition",
+      "relation_type": "follow",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "follow",
+      "weight": 2,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "employee",
+      "target_label": "dress code",
+      "relation_type": "follows",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "audience",
+      "target_label": "popular sport commentator",
+      "relation_type": "follows",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "popular sports teams",
+      "relation_type": "follow",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 8,
+      "target": 15,
+      "source_label": "algeria",
+      "target_label": "instructions",
+      "relation_type": "follow",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "source_label": "teacher",
+      "target_label": "ritual",
+      "relation_type": "follows",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "source_label": "nurse",
+      "target_label": "ritual",
+      "relation_type": "should_follow",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "nurse",
+      "target_label": "physician and medical staff",
+      "relation_type": "follows_protocol",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "source_label": "nurse",
+      "target_label": "medication administration",
+      "relation_type": "follows_protocol",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "politician",
+      "target_label": "campaign promises",
+      "relation_type": "should_follow",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "artist",
+      "target_label": "before tattoo",
+      "relation_type": "follows_routine",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 22,
+      "target": 24,
+      "source_label": "artist",
+      "target_label": "after tattoo",
+      "relation_type": "follows_routine",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 25,
+      "target": 9,
+      "source_label": "journalist",
+      "target_label": "food",
+      "relation_type": "follow",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

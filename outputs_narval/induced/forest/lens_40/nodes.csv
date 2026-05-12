@@ -1,0 +1,12 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,bihar,unknown,diwali,12
+2,intricate patterns,1,bihar,unknown,diwali,4
+3,artisan,3,nagaland,unknown,diwali,1
+4,narrow strips of fabric,3,nagaland,unknown,diwali,1
+5,elaborate patterns,3,rajasthan,unknown,diwali,1
+6,tailor,1,tailor,unknown,candle,2
+7,artist,1,artist,unknown,candle,2
+8,flower,3,artist,unknown,candle,1
+9,photographer,1,artist,unknown,candle,3
+10,pleasing visual representation,3,artist,unknown,candle,1

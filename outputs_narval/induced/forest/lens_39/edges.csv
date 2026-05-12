@@ -1,0 +1,14 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,at home,play_games,1,arabculture
+1,3,algeria,food,play,2,arabculture
+1,4,algeria,boy and girl game,play_with,1,arabculture
+5,2,egyptian siblings,at home,play_game,1,arabculture
+1,3,algeria,food,play_with,2,arabculture
+1,6,algeria,snake and ladder,play_with,1,arabculture
+1,3,algeria,food,play_game,2,arabculture
+1,7,algeria,electricity,play_game,1,arabculture
+8,6,nader and ahmad,snake and ladder,play_with,1,arabculture
+9,10,samer and her sisters,game,play_with,1,arabculture
+1,11,algeria,during holidays,play_games,1,blend
+1,12,algeria,popular family game,plays_game,1,blend
+13,14,politician,to win votes,plays_game,1,candle

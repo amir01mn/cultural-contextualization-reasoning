@@ -1,0 +1,2963 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "madhubani painting on textiles",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "mythological and natural themes",
+      "level": 2,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "culturally significant",
+      "level": 5,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "odisha ikat",
+      "level": 2,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "teliarumal",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "pachhra",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "integral part of the traditional attire",
+      "level": 2,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "chamba rumal",
+      "level": 3,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "scenes from mythology and daily life",
+      "level": 4,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "bonalu dance",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "goddess mahakali",
+      "level": 5,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "rikham pada",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "ancestor",
+      "level": 5,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "bardo chham",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "victory of good over evil",
+      "level": 5,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "ali ai ligang dance",
+      "level": 3,
+      "cultural_group": "mising tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "deities",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "chakhela dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "love and valor",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "tiwa damahi dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 21,
+      "label": "gratitude",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 22,
+      "label": "chomangkan dance",
+      "level": 3,
+      "cultural_group": "karbi tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "life and death",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "sohar-khilona",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 25,
+      "label": "joy",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "blessings",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "kajri",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "longing and love",
+      "level": 2,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "bamar naach",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "raai dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "leja dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "emotions",
+      "level": 5,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "rai dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "joy and festivity",
+      "level": 5,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "dhalo",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "graceful movements",
+      "level": 5,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "tipping",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "gratitude",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 39,
+      "label": "language",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "enthusiasm",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 41,
+      "label": "playfulness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "familiarity",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "love",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 44,
+      "label": "affection",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 45,
+      "label": "support",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "mixed feelings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "rudeness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 48,
+      "label": "friendliness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "admirations",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "frustration",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 9
+    },
+    {
+      "id": 51,
+      "label": "parisians",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "patriotism",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 53,
+      "label": "flag display",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "flag emoji",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "phrases like 'for our freedom'",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "economy",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "capitalism",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "general",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "admiration",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 61,
+      "label": "surprise",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 62,
+      "label": "shock",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 63,
+      "label": "amazement",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "cultural differences and unfamiliar practices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "frustration",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "ambition",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "annoyance",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "emotions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "appreciation",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "compliments",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "thanks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "smiling",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "making eye contact",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "offering support",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "friendly behaviors",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "card payments",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "efficiency",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "confusion",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 5
+    },
+    {
+      "id": 79,
+      "label": "disapproval",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 5
+    },
+    {
+      "id": 81,
+      "label": "funeral ceremonies",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 82,
+      "label": "financial contributions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "comments",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "positive comments, compliments, and sarcasm",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "embarrassment",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "criticism",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "lack of access to free clean water and bathrooms",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "concern",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "gas prices",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "dissatisfaction",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "appreciation",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 92,
+      "label": "healthcare system",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "pride",
+      "level": 1,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 94,
+      "label": "national identity",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "patriotism",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "shared ideals",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "expressions of emotion",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "romantic relationships",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "chicken salt",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "affordability",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "perceived high prices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "discrepancy between price tags and actual costs",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "superiority",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "diversity",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "mother's day",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "express love, gratitude, and make up for mistakes",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "romanticize",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "quality of life",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "work-life balance",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "cultural diversity",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "confusion or dislike",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "door gaps",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "patriotic manner",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "disbelief",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "ignorance",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "frustration",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "treated as a whole person",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "american culture",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "feelings",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "love",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "affection",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "disagreement",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "conflict",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "in-law relationships",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "opinions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "experiences",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "political views",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "mental health discussions",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "awe",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "express",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "social media",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 132,
+      "label": "personal thoughts",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "playful language",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "differences",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "dress code",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "workplace",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "professionalism",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "comfort and professionalism",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "politeness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "apology",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "reassurance",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "apologizing",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "patriotic displays",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "national pride",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "american",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 146,
+      "label": "impoliteness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "misunderstandings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 148,
+      "label": "negative stereotypes and behaviors",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "perceived cultural differences and misunderstandings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "respect",
+      "level": 5,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 151,
+      "label": "kindness",
+      "level": 5,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 152,
+      "label": "excitement",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "amusement",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 154,
+      "label": "wonder or surprise",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "pride",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "excitement",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 157,
+      "label": "concerns",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 158,
+      "label": "living in texas",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 159,
+      "label": "culture",
+      "level": 1,
+      "cultural_group": "europe",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 160,
+      "label": "admiration and appreciation",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 161,
+      "label": "express dissatisfaction",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 162,
+      "label": "express gratitude",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 163,
+      "label": "apologize",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 164,
+      "label": "complain",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 165,
+      "label": "avoid confrontation",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 166,
+      "label": "use sarcasm",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 167,
+      "label": "customer service interactions and social situations",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 168,
+      "label": "greetings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 169,
+      "label": "respect",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 170,
+      "label": "apologies",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 171,
+      "label": "frustration",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 172,
+      "label": "high cost of raising children",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 173,
+      "label": "displeasure",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 174,
+      "label": "ugliness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 175,
+      "label": "things",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 176,
+      "label": "admiration",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 177,
+      "label": "support",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 178,
+      "label": "expresses",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 179,
+      "label": "high cost and perceived poor quality of food",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 180,
+      "label": "american food culture",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 181,
+      "label": "annoyance",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 182,
+      "label": "settings",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 183,
+      "label": "sailor",
+      "level": 1,
+      "cultural_group": "sailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 184,
+      "label": "tie",
+      "level": 5,
+      "cultural_group": "sailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 185,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 186,
+      "label": "work",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 187,
+      "label": "audience",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "madhubani painting on textiles",
+      "target_label": "mythological and natural themes",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "source_label": "odisha ikat",
+      "target_label": "culturally significant",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "pachhra",
+      "target_label": "integral part of the traditional attire",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "chamba rumal",
+      "target_label": "scenes from mythology and daily life",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "bonalu dance",
+      "target_label": "goddess mahakali",
+      "relation_type": "expresses respect for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "rikham pada",
+      "target_label": "ancestor",
+      "relation_type": "expresses respect",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "bardo chham",
+      "target_label": "victory of good over evil",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "ali ai ligang dance",
+      "target_label": "deities",
+      "relation_type": "expresses gratitude to",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "chakhela dance",
+      "target_label": "love and valor",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "tiwa damahi dance",
+      "target_label": "gratitude",
+      "relation_type": "expresses",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "chomangkan dance",
+      "target_label": "life and death",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "sohar-khilona",
+      "target_label": "joy",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 24,
+      "target": 26,
+      "source_label": "sohar-khilona",
+      "target_label": "blessings",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "kajri",
+      "target_label": "longing and love",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "leja dance",
+      "target_label": "emotions",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "rai dance",
+      "target_label": "joy and festivity",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "dhalo",
+      "target_label": "graceful movements",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 37,
+      "target": 21,
+      "source_label": "tipping",
+      "target_label": "gratitude",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "source_label": "language",
+      "target_label": "enthusiasm",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 39,
+      "target": 41,
+      "source_label": "language",
+      "target_label": "playfulness",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 39,
+      "target": 42,
+      "source_label": "language",
+      "target_label": "familiarity",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "source_label": "love",
+      "target_label": "affection",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 44,
+      "target": 45,
+      "source_label": "affection",
+      "target_label": "support",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 46,
+      "target": 49,
+      "source_label": "mixed feelings",
+      "target_label": "admirations",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 46,
+      "target": 50,
+      "source_label": "mixed feelings",
+      "target_label": "frustration",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 51,
+      "target": 47,
+      "source_label": "parisians",
+      "target_label": "rudeness",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 51,
+      "target": 48,
+      "source_label": "parisians",
+      "target_label": "friendliness",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 53,
+      "target": 52,
+      "source_label": "flag display",
+      "target_label": "patriotism",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 54,
+      "target": 52,
+      "source_label": "flag emoji",
+      "target_label": "patriotism",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 55,
+      "target": 52,
+      "source_label": "phrases like 'for our freedom'",
+      "target_label": "patriotism",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 56,
+      "target": 58,
+      "source_label": "economy",
+      "target_label": "general",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 57,
+      "target": 58,
+      "source_label": "capitalism",
+      "target_label": "general",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "source_label": "admiration",
+      "target_label": "united states",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 61,
+      "target": 64,
+      "source_label": "surprise",
+      "target_label": "cultural differences and unfamiliar practices",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 62,
+      "target": 64,
+      "source_label": "shock",
+      "target_label": "cultural differences and unfamiliar practices",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "source_label": "amazement",
+      "target_label": "cultural differences and unfamiliar practices",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 50,
+      "target": 32,
+      "source_label": "frustration",
+      "target_label": "emotions",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 66,
+      "target": 32,
+      "source_label": "ambition",
+      "target_label": "emotions",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 67,
+      "target": 32,
+      "source_label": "annoyance",
+      "target_label": "emotions",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 21,
+      "target": 70,
+      "source_label": "gratitude",
+      "target_label": "compliments",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 69,
+      "target": 71,
+      "source_label": "appreciation",
+      "target_label": "thanks",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 72,
+      "target": 75,
+      "source_label": "smiling",
+      "target_label": "friendly behaviors",
+      "relation_type": "expresses friendliness",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 73,
+      "target": 75,
+      "source_label": "making eye contact",
+      "target_label": "friendly behaviors",
+      "relation_type": "expresses friendliness",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "source_label": "offering support",
+      "target_label": "friendly behaviors",
+      "relation_type": "expresses support",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 76,
+      "target": 77,
+      "source_label": "card payments",
+      "target_label": "efficiency",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 61,
+      "target": 60,
+      "source_label": "surprise",
+      "target_label": "united states",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 78,
+      "target": 60,
+      "source_label": "confusion",
+      "target_label": "united states",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 79,
+      "target": 60,
+      "source_label": "disapproval",
+      "target_label": "united states",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 81,
+      "target": 50,
+      "source_label": "funeral ceremonies",
+      "target_label": "frustration",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 81,
+      "target": 82,
+      "source_label": "funeral ceremonies",
+      "target_label": "financial contributions",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 83,
+      "target": 84,
+      "source_label": "comments",
+      "target_label": "positive comments, compliments, and sarcasm",
+      "relation_type": "express gratitude, appreciation, and opinions through",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 85,
+      "target": 87,
+      "source_label": "embarrassment",
+      "target_label": "lack of access to free clean water and bathrooms",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 86,
+      "target": 87,
+      "source_label": "criticism",
+      "target_label": "lack of access to free clean water and bathrooms",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 89,
+      "target": 62,
+      "source_label": "gas prices",
+      "target_label": "shock",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 89,
+      "target": 50,
+      "source_label": "gas prices",
+      "target_label": "frustration",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 89,
+      "target": 88,
+      "source_label": "gas prices",
+      "target_label": "concern",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 50,
+      "target": 92,
+      "source_label": "frustration",
+      "target_label": "healthcare system",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 92,
+      "source_label": "dissatisfaction",
+      "target_label": "healthcare system",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 69,
+      "target": 92,
+      "source_label": "appreciation",
+      "target_label": "healthcare system",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 93,
+      "target": 94,
+      "source_label": "pride",
+      "target_label": "national identity",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 93,
+      "target": 52,
+      "source_label": "pride",
+      "target_label": "patriotism",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 93,
+      "target": 96,
+      "source_label": "pride",
+      "target_label": "shared ideals",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 97,
+      "target": 98,
+      "source_label": "expressions of emotion",
+      "target_label": "romantic relationships",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 78,
+      "target": 99,
+      "source_label": "confusion",
+      "target_label": "chicken salt",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 50,
+      "target": 100,
+      "source_label": "frustration",
+      "target_label": "affordability",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 50,
+      "target": 101,
+      "source_label": "frustration",
+      "target_label": "perceived high prices",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 62,
+      "target": 101,
+      "source_label": "shock",
+      "target_label": "perceived high prices",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 78,
+      "target": 102,
+      "source_label": "confusion",
+      "target_label": "discrepancy between price tags and actual costs",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 52,
+      "target": 103,
+      "source_label": "patriotism",
+      "target_label": "superiority",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 60,
+      "target": 52,
+      "source_label": "united states",
+      "target_label": "patriotism",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 104,
+      "target": 60,
+      "source_label": "diversity",
+      "target_label": "united states",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "source_label": "mother's day",
+      "target_label": "express love, gratitude, and make up for mistakes",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "source_label": "romanticize",
+      "target_label": "quality of life",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 107,
+      "target": 109,
+      "source_label": "romanticize",
+      "target_label": "work-life balance",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 107,
+      "target": 110,
+      "source_label": "romanticize",
+      "target_label": "cultural diversity",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 112,
+      "target": 111,
+      "source_label": "door gaps",
+      "target_label": "confusion or dislike",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 62,
+      "target": 61,
+      "source_label": "shock",
+      "target_label": "surprise",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 61,
+      "target": 62,
+      "source_label": "surprise",
+      "target_label": "shock",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 43,
+      "target": 113,
+      "source_label": "love",
+      "target_label": "patriotic manner",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 114,
+      "target": 61,
+      "source_label": "disbelief",
+      "target_label": "surprise",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 78,
+      "target": 61,
+      "source_label": "confusion",
+      "target_label": "surprise",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 61,
+      "target": 115,
+      "source_label": "surprise",
+      "target_label": "ignorance",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 50,
+      "target": 117,
+      "source_label": "frustration",
+      "target_label": "treated as a whole person",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 118,
+      "target": 119,
+      "source_label": "american culture",
+      "target_label": "feelings",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 43,
+      "target": 124,
+      "source_label": "love",
+      "target_label": "in-law relationships",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 44,
+      "target": 124,
+      "source_label": "affection",
+      "target_label": "in-law relationships",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 122,
+      "target": 124,
+      "source_label": "disagreement",
+      "target_label": "in-law relationships",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 123,
+      "target": 124,
+      "source_label": "conflict",
+      "target_label": "in-law relationships",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 125,
+      "target": 60,
+      "source_label": "opinions",
+      "target_label": "united states",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 126,
+      "target": 60,
+      "source_label": "experiences",
+      "target_label": "united states",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 127,
+      "target": 60,
+      "source_label": "political views",
+      "target_label": "united states",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 128,
+      "target": 60,
+      "source_label": "mental health discussions",
+      "target_label": "united states",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 130,
+      "target": 129,
+      "source_label": "express",
+      "target_label": "awe",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 130,
+      "target": 78,
+      "source_label": "express",
+      "target_label": "confusion",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 131,
+      "target": 132,
+      "source_label": "social media",
+      "target_label": "personal thoughts",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 131,
+      "target": 133,
+      "source_label": "social media",
+      "target_label": "playful language",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 131,
+      "target": 134,
+      "source_label": "social media",
+      "target_label": "differences",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 135,
+      "target": 137,
+      "source_label": "dress code",
+      "target_label": "professionalism",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 136,
+      "target": 138,
+      "source_label": "workplace",
+      "target_label": "comfort and professionalism",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 142,
+      "target": 139,
+      "source_label": "apologizing",
+      "target_label": "politeness",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 142,
+      "target": 140,
+      "source_label": "apologizing",
+      "target_label": "apology",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 142,
+      "target": 141,
+      "source_label": "apologizing",
+      "target_label": "reassurance",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 143,
+      "target": 144,
+      "source_label": "patriotic displays",
+      "target_label": "national pride",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 145,
+      "target": 93,
+      "source_label": "american",
+      "target_label": "pride",
+      "relation_type": "expresses pride",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 47,
+      "target": 148,
+      "source_label": "rudeness",
+      "target_label": "negative stereotypes and behaviors",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 146,
+      "target": 148,
+      "source_label": "impoliteness",
+      "target_label": "negative stereotypes and behaviors",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 147,
+      "target": 149,
+      "source_label": "misunderstandings",
+      "target_label": "perceived cultural differences and misunderstandings",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 150,
+      "target": 60,
+      "source_label": "respect",
+      "target_label": "united states",
+      "relation_type": "expresses respect",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 151,
+      "target": 60,
+      "source_label": "kindness",
+      "target_label": "united states",
+      "relation_type": "expresses respect",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 152,
+      "target": 153,
+      "source_label": "excitement",
+      "target_label": "amusement",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 40,
+      "target": 153,
+      "source_label": "enthusiasm",
+      "target_label": "amusement",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 153,
+      "target": 154,
+      "source_label": "amusement",
+      "target_label": "wonder or surprise",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 93,
+      "target": 158,
+      "source_label": "pride",
+      "target_label": "living in texas",
+      "relation_type": "expresses pride",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 152,
+      "target": 158,
+      "source_label": "excitement",
+      "target_label": "living in texas",
+      "relation_type": "expresses excitement",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 157,
+      "target": 158,
+      "source_label": "concerns",
+      "target_label": "living in texas",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 60,
+      "target": 160,
+      "source_label": "united states",
+      "target_label": "admiration and appreciation",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 60,
+      "target": 159,
+      "source_label": "united states",
+      "target_label": "culture",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 159,
+      "target": 160,
+      "source_label": "culture",
+      "target_label": "admiration and appreciation",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 161,
+      "target": 167,
+      "source_label": "express dissatisfaction",
+      "target_label": "customer service interactions and social situations",
+      "relation_type": "expresses frustration or discomfort",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 162,
+      "target": 167,
+      "source_label": "express gratitude",
+      "target_label": "customer service interactions and social situations",
+      "relation_type": "expresses respect",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 163,
+      "target": 167,
+      "source_label": "apologize",
+      "target_label": "customer service interactions and social situations",
+      "relation_type": "expresses regret",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 164,
+      "target": 167,
+      "source_label": "complain",
+      "target_label": "customer service interactions and social situations",
+      "relation_type": "expresses dissatisfaction",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 165,
+      "target": 167,
+      "source_label": "avoid confrontation",
+      "target_label": "customer service interactions and social situations",
+      "relation_type": "avoids conflict",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 166,
+      "target": 167,
+      "source_label": "use sarcasm",
+      "target_label": "customer service interactions and social situations",
+      "relation_type": "expresses frustration or discomfort",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 168,
+      "target": 150,
+      "source_label": "greetings",
+      "target_label": "respect",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 168,
+      "target": 44,
+      "source_label": "greetings",
+      "target_label": "affection",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 170,
+      "target": 50,
+      "source_label": "apologies",
+      "target_label": "frustration",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 50,
+      "target": 172,
+      "source_label": "frustration",
+      "target_label": "high cost of raising children",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 173,
+      "target": 174,
+      "source_label": "displeasure",
+      "target_label": "ugliness",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 175,
+      "target": 174,
+      "source_label": "things",
+      "target_label": "ugliness",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 178,
+      "target": 59,
+      "source_label": "expresses",
+      "target_label": "admiration",
+      "relation_type": "expresses admiration",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 178,
+      "target": 21,
+      "source_label": "expresses",
+      "target_label": "gratitude",
+      "relation_type": "expresses gratitude",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 178,
+      "target": 45,
+      "source_label": "expresses",
+      "target_label": "support",
+      "relation_type": "expresses support",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 50,
+      "target": 179,
+      "source_label": "frustration",
+      "target_label": "high cost and perceived poor quality of food",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 69,
+      "target": 180,
+      "source_label": "appreciation",
+      "target_label": "american food culture",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 50,
+      "target": 182,
+      "source_label": "frustration",
+      "target_label": "settings",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 67,
+      "target": 182,
+      "source_label": "annoyance",
+      "target_label": "settings",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 173,
+      "target": 182,
+      "source_label": "displeasure",
+      "target_label": "settings",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 184,
+      "target": 183,
+      "source_label": "tie",
+      "target_label": "sailor",
+      "relation_type": "express pride",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 186,
+      "target": 187,
+      "source_label": "work",
+      "target_label": "audience",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

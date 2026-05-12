@@ -1,0 +1,91 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,dietary practice,3,algeria,unknown,arabculture,1
+2,eating light breakfast,3,algeria,unknown,arabculture,1
+3,sahoor time,3,algeria,unknown,arabculture,1
+4,eating light traditional food,3,algeria,unknown,arabculture,1
+5,ramadan,1,algeria,unknown,arabculture,2
+6,food,1,algeria,unknown,arabculture,42
+7,preparations,3,algeria,unknown,arabculture,1
+8,cleaning and cooking,3,algeria,unknown,arabculture,1
+9,cleaning the whole house,3,algeria,unknown,arabculture,1
+10,customer,1,algeria,unknown,arabculture,1
+11,sharing iftar among family,3,algeria,unknown,arabculture,1
+12,algerian ramadan tradition,3,algeria,unknown,arabculture,1
+13,sharing meals,3,algeria,unknown,arabculture,1
+14,algeria,1,algeria,unknown,arabculture,4
+15,special methods,3,algeria,unknown,arabculture,1
+16,fasting,3,algeria,unknown,arabculture,1
+17,hygiene,4,algeria,unknown,arabculture,1
+18,common cleaning tools,3,algeria,unknown,arabculture,1
+19,game,2,algeria,unknown,arabculture,1
+20,boys and girls,3,algeria,unknown,arabculture,1
+21,leisure activities,1,algeria,unknown,arabculture,2
+22,bank transactions,3,egypt,unknown,arabculture,1
+23,electricity game,3,egypt,unknown,arabculture,1
+24,chase,3,egypt,unknown,arabculture,1
+25,ritual,1,egypt,unknown,arabculture,3
+26,casket placement,3,egypt,unknown,arabculture,1
+27,fasting from dawn to sunset,3,egypt,unknown,arabculture,1
+28,dunking,3,egypt,unknown,arabculture,1
+29,cultural practice,1,egypt,unknown,arabculture,2
+30,gathering for food,3,egypt,unknown,arabculture,1
+31,creating patterns of raised dots,3,gujarat,unknown,diwali,1
+32,ajrakh,3,rajasthan,unknown,diwali,1
+33,multiple stages of dyeing and resist printing,3,rajasthan,unknown,diwali,1
+34,expressive storytelling,3,andhra pradesh,unknown,diwali,1
+35,dance,2,assam,unknown,diwali,2
+36,chham dance,3,bihar,unknown,diwali,1
+37,artist,1,bihar,unknown,diwali,1
+38,teacher,1,chhattisgarh,unknown,diwali,2
+39,circular movements,3,chhattisgarh,unknown,diwali,1
+40,dance and storytelling,3,chhattisgarh,unknown,diwali,1
+41,rhythmic clapping,3,chhattisgarh,unknown,diwali,1
+42,balancing brass lamps,3,goa,unknown,diwali,1
+43,traditional instrumental performance,3,goa,unknown,diwali,1
+44,"walking, running",3,general,unknown,culturebank,1
+45,emotions of excitement and anticipation,3,general,unknown,culturebank,1
+46,dinners,3,dz,unknown,blend,1
+47,commemoration of birth,3,dz,unknown,blend,1
+48,rivalries,3,dz,unknown,blend,1
+49,seasonal migration,3,dz,unknown,blend,1
+50,during holidays,3,dz,unknown,blend,1
+51,family activities,3,dz,unknown,blend,1
+52,cultural festivals,3,dz,unknown,blend,1
+53,attempt,3,judge,unknown,candle,1
+54,weight declaration,3,judge,unknown,candle,1
+55,process,3,teacher,unknown,candle,1
+56,potty training,4,teacher,unknown,candle,1
+57,mentoring,3,teacher,unknown,candle,1
+58,teacher's rule-making process,3,teacher,unknown,candle,1
+59,thinking,3,teacher,unknown,candle,1
+60,cognitive process,3,teacher,unknown,candle,1
+61,teacher's ritual,3,teacher,unknown,candle,1
+62,conversation,3,nurse,unknown,candle,1
+63,information,4,nurse,unknown,candle,2
+64,appointment,3,nurse,unknown,candle,1
+65,planning,4,nurse,unknown,candle,2
+66,communication,4,nurse,unknown,candle,1
+67,nurse-patient interaction,3,nurse,unknown,candle,1
+68,questions,3,nurse,unknown,candle,1
+69,equine dental care,3,dentist,unknown,candle,1
+70,cleaning,3,dentist,unknown,candle,1
+71,dental practice,3,dentist,unknown,candle,1
+72,in described ritual,3,politician,unknown,candle,1
+73,photographer,1,photographer,unknown,candle,3
+74,landscape photography,3,photographer,unknown,candle,1
+75,early morning shoots,3,photographer,unknown,candle,1
+76,young girl,3,priest,unknown,candle,1
+77,restoration,3,priest,unknown,candle,1
+78,attorney,1,attorney,unknown,candle,3
+79,buyers and sellers,3,attorney,unknown,candle,1
+80,immigration,3,attorney,unknown,candle,1
+81,attorney ritual,3,attorney,unknown,candle,1
+82,preparation,2,scientist,unknown,candle,1
+83,collaboration,3,scientist,unknown,candle,1
+84,political discussion,3,scientist,unknown,candle,1
+85,counting,3,scientist,unknown,candle,1
+86,amplifying repeats,3,scientist,unknown,candle,1
+87,paper,3,scientist,unknown,candle,1
+88,review process,3,doctor,unknown,candle,1
+89,physical exam,4,doctor,unknown,candle,1

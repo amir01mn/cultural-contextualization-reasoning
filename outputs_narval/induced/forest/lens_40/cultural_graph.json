@@ -1,0 +1,200 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 12
+    },
+    {
+      "id": 2,
+      "label": "intricate patterns",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 3,
+      "label": "artisan",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "narrow strips of fabric",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "elaborate patterns",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "tailor",
+      "level": 1,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 7,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 8,
+      "label": "flower",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 10,
+      "label": "pleasing visual representation",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "intricate patterns",
+      "relation_type": "create",
+      "weight": 3,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "artisan",
+      "target_label": "narrow strips of fabric",
+      "relation_type": "creates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "elaborate patterns",
+      "relation_type": "creates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "intricate patterns",
+      "relation_type": "creates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "source_label": "tailor",
+      "target_label": "food",
+      "relation_type": "creates",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "artist",
+      "target_label": "flower",
+      "relation_type": "creates",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "source_label": "artist",
+      "target_label": "food",
+      "relation_type": "create",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "photographer",
+      "target_label": "pleasing visual representation",
+      "relation_type": "creates",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "source_label": "photographer",
+      "target_label": "food",
+      "relation_type": "creates",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "source_label": "photographer",
+      "target_label": "food",
+      "relation_type": "create",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

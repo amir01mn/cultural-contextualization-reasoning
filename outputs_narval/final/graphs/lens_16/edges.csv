@@ -1,0 +1,264 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,traditions,region,varies by,1,arabculture
+4,3,men,communication methods,varies by,1,arabculture
+5,3,women,communication methods,varies by,1,arabculture
+6,7,sons,school holidays,meet during,1,arabculture
+8,9,timings,algeria,varies by,1,arabculture
+10,11,playing,north africa,varies by,1,arabculture
+13,14,habits,grandparents,varies by,1,arabculture
+13,15,habits,grandchildren,varies by,1,arabculture
+17,16,jitzman,right side,is placed on,1,arabculture
+18,19,uppada silk,weaving process,varies by,1,diwali
+20,2,alacha fabric,region,varies by,1,diwali
+21,22,bandhani,cities,varies by,1,diwali
+23,24,textiles,gujarat,varies by,1,diwali
+25,26,rampur chaddar,himachal pradesh,varies by,1,diwali
+27,28,luanchari,gaddi community,varies by,1,diwali
+29,30,navalgund durries,karnataka,varies by,1,diwali
+31,32,patteda anchu saree,district,varies by,1,diwali
+33,34,maheshwari saree,cotton,made from,1,diwali
+33,35,maheshwari saree,silk,made from,1,diwali
+36,37,khun fabric,rural maharashtra,varies by,1,diwali
+38,39,ilkal sari,maharashtra,varies by,1,diwali
+40,39,chanderi sari,maharashtra,varies by,1,diwali
+41,2,parandi,region,varies by,1,diwali
+21,42,bandhani,regions,varies by,1,diwali
+43,2,leheriya,region,varies by,1,diwali
+45,46,kota doria,cotton and silk,is made from,1,diwali
+47,48,ajrakh,sindh region,varies by,1,diwali
+47,49,ajrakh,parts of rajasthan,varies by,1,diwali
+50,51,kodalikaruppur saree,tamil nadu,varies by,1,diwali
+52,51,kodambakkam saree,tamil nadu,varies by,1,diwali
+53,35,narayanpet sarees,silk,varies by,1,diwali
+53,34,narayanpet sarees,cotton,varies by,1,diwali
+56,57,risa,tripura,part of,1,diwali
+58,59,woolen weaving,border areas,varies by,1,diwali
+60,61,phool patti ka kaam,regions like aligarh and rampur,varies by,1,diwali
+62,63,jamdani,bengal,varies by,1,diwali
+64,65,tangail sari,shantipur,varies by,1,diwali
+64,66,tangail sari,phulia,varies by,1,diwali
+67,68,khes,punjab region,varies by,1,diwali
+69,70,salwar kameez,chandigarh,varies by,1,diwali
+71,2,tsul,region,varies by,1,diwali
+72,2,mundu,region,varies by,1,diwali
+73,74,palampore prints,contemporary designs,varies by,1,diwali
+75,76,burrakatha,jangam katha,evolved from,1,diwali
+77,78,perani,temples,varies by,1,diwali
+79,80,hurkan dance,festivals,varies by,1,diwali
+81,82,domkach,mithila,varies by,1,diwali
+81,83,domkach,bhojpur,varies by,1,diwali
+84,85,launda naach,weddings,varies by,1,diwali
+86,87,saila dance,chhattisgarh,varies by,1,diwali
+88,89,parab dance,tribal communities,varies by,1,diwali
+91,90,tapadi dance,rural women,popular among,1,diwali
+92,93,nach madai,rural fairs,varies by,1,diwali
+94,87,yadav nacha,chhattisgarh,varies by,1,diwali
+96,97,tipping,wage,varies by,1,culturebank
+99,98,shoes,agricultural areas,exceptions,1,culturebank
+101,100,public,comfort and practicality,varies by,1,culturebank
+102,2,dinner time,region,varies by,1,culturebank
+103,104,cost of daycare,united states,varies by,1,culturebank
+104,106,united states,necessity and impact on drink quantity,varies by,1,culturebank
+107,108,accent,settings,varies by,1,culturebank
+109,110,potty training,age,varies by,1,culturebank
+109,111,potty training,approaches and pressures,varies by,1,culturebank
+104,112,united states,colloquialisms,varies by,1,culturebank
+104,113,united states,energetic behavior,varies by,1,culturebank
+104,114,united states,additional languages,varies by,1,culturebank
+115,116,alcohol,state,varies by,1,culturebank
+117,118,bread,sugar,varies by,1,culturebank
+121,119,differences,electricity bills,varies by,1,culturebank
+121,120,differences,driving habits,varies by,1,culturebank
+122,123,dangerous areas,ghettos,varies by,1,culturebank
+124,104,breakfast,united states,varies by,1,culturebank
+125,126,safety levels,states,varies by,1,culturebank
+127,129,communication,formal,varies by,1,culturebank
+127,130,communication,informal,varies by,1,culturebank
+127,131,communication,online,varies by,1,culturebank
+132,104,new york,united states,varies by,1,culturebank
+133,135,showering daily,health considerations,varies by,1,culturebank
+134,135,showering less frequently,health considerations,varies by,1,culturebank
+136,137,europe,country,varies by,1,culturebank
+139,138,customer,urgency,varies by,1,culturebank
+140,141,smoking,california,varies by region,1,culturebank
+142,126,living experiences,states,varies by,1,culturebank
+142,144,living experiences,countries,varies by,1,culturebank
+104,145,united states,walkability,varies by,1,culturebank
+104,146,united states,distance,varies by,1,culturebank
+147,149,peeling fruit,some consider it unnecessary or strange,varies by,1,culturebank
+150,2,practices,region,varies by,1,culturebank
+151,116,sales tax,state,varies by,1,culturebank
+151,152,sales tax,county,varies by,1,culturebank
+153,42,preference,regions,varies by,1,culturebank
+154,42,natural light,regions,varies by,1,culturebank
+155,42,window treatments,regions,varies by,1,culturebank
+104,159,united states,voltage differences,varies by,1,culturebank
+104,158,united states,unfamiliarity,varies by,1,culturebank
+160,136,dryers,europe,varies by,1,culturebank
+162,108,small talk,settings,varies by,1,culturebank
+164,136,microwave,europe,varies by,1,culturebank
+165,166,public transportation,northeast,varies by,1,culturebank
+165,167,public transportation,bay area,varies by,1,culturebank
+165,168,public transportation,chicago,varies by,1,culturebank
+169,137,american dream,country,varies by,1,culturebank
+170,153,cereal,preference,varies by,1,culturebank
+171,172,starbucks,"cost, considering it a dessert or social meeting place",varies by,1,culturebank
+173,174,social and public settings,napkins,varies by,1,culturebank
+175,176,cursive writing,schools,varies by,1,culturebank
+177,178,dining setting,occasion,varies by,1,culturebank
+179,180,sandwiches,specific sandwich types,varies by,1,culturebank
+181,42,sidewalk etiquette,regions,varies by,1,culturebank
+182,42,availability,regions,varies by,1,culturebank
+185,184,businesses,imperial units,prefer,1,culturebank
+185,183,businesses,metric system,use,1,culturebank
+186,187,pharmacies,supermarkets,varies by,1,culturebank
+188,189,behaviors,conversations,varies by,1,culturebank
+190,191,opinions,food,vary by,1,culturebank
+193,194,shower frequency,season and personal preference,varies by,1,culturebank
+120,2,driving habits,region,varies by,1,culturebank
+120,196,driving habits,individual preferences,varies by,1,culturebank
+197,199,activities,formal roles,varies by,1,culturebank
+198,199,children's participation,formal roles,varies by,1,culturebank
+200,201,school schedule,starting time,varies by,1,culturebank
+200,202,school schedule,ending time,varies by,1,culturebank
+200,203,school schedule,lunch break,varies by,1,culturebank
+206,204,breaks,durations,vary by,1,culturebank
+206,205,breaks,formats,vary by,1,culturebank
+208,207,unique date format,4th of july,varies by,1,culturebank
+209,207,am/pm,4th of july,varies by,1,culturebank
+210,110,sleep schedule,age,varies by,1,culturebank
+210,212,sleep schedule,work schedule,varies by,1,culturebank
+104,213,united states,brands and flavors,varies by,1,culturebank
+214,116,self-service gas pumps,state,varies by,1,culturebank
+215,116,gas pump attendants,state,varies by,1,culturebank
+217,190,funeral ceremonies,opinions,vary by,1,culturebank
+218,219,wine prices,state and region,varies by,1,culturebank
+220,221,clothing style,local norms,varies by,1,culturebank
+222,104,flavors,united states,varies by,1,culturebank
+225,223,gas prices,work-life balance,varies by,1,culturebank
+225,224,gas prices,spending habits,varies by,1,culturebank
+108,226,settings,barefoot activities,varies by,1,culturebank
+227,116,plastic bag,state,varies by,1,culturebank
+228,229,chinese food,sweet,varies by,1,culturebank
+228,230,chinese food,less spicy,varies by,1,culturebank
+228,231,chinese food,americanized versions,varies by,1,culturebank
+188,232,behaviors,ordering,varies by,1,culturebank
+188,233,behaviors,serving,varies by,1,culturebank
+188,234,behaviors,expressing preferences,varies by,1,culturebank
+235,236,lighting,location,varies by,1,culturebank
+235,237,lighting,traffic conditions,varies by,1,culturebank
+238,239,discipline,spanking,varies by,1,culturebank
+240,242,community colleges,universities,varies by,1,culturebank
+241,242,colleges,universities,varies by,1,culturebank
+243,126,maternity leave policies,states,varies by,1,culturebank
+244,245,candy,days,varies by,1,culturebank
+246,2,sick leave policy,region,varies by,1,culturebank
+247,248,practice,gender,varies by,1,culturebank
+247,249,practice,beliefs about healing,varies by,1,culturebank
+150,250,practices,child to mother to family members to mother,varies by,1,culturebank
+251,22,payment timing,cities,varies by,1,culturebank
+253,252,nail care,pricing and quality,varies by,1,culturebank
+254,255,intermission,modern theater,varies by,1,culturebank
+256,236,trash cans,location,varies by,1,culturebank
+258,259,perceptions,life,varies by,1,culturebank
+258,260,perceptions,culture,varies by,1,culturebank
+258,261,perceptions,reputation,varies by,1,culturebank
+264,262,healthcare system,affordability,varies by,1,culturebank
+264,263,healthcare system,accessibility,varies by,1,culturebank
+266,267,carts,wonky wheels,varies by,1,culturebank
+268,116,american,state,varies by,1,culturebank
+268,270,american,ancestry,varies by,1,culturebank
+108,271,settings,empathy,varies by,1,culturebank
+108,272,settings,admiration,varies by,1,culturebank
+108,273,settings,support,varies by,1,culturebank
+275,274,some confusion and learning curve,new drivers,varies by,1,culturebank
+278,279,healthier options,general,varies by,1,culturebank
+280,281,immigrants,american customs,varies by,1,culturebank
+104,282,united states,cost and feasibility,varies by,1,culturebank
+283,284,putting dogs in the back of trucks,safety,varies by,1,culturebank
+283,285,putting dogs in the back of trucks,legality,varies by,1,culturebank
+126,287,states,charge for bags or offer incentives for reusable bags,varies by,1,culturebank
+288,289,approaches,societal expectations,varies by,1,culturebank
+288,290,approaches,personal beliefs,varies by,1,culturebank
+258,291,perceptions,america,vary by,1,culturebank
+292,295,emojis,"to express emotions, enthusiasm, or displeasure",uses,1,culturebank
+293,295,slang,"to express emotions, enthusiasm, or displeasure",uses,1,culturebank
+294,295,profanity,"to express emotions, enthusiasm, or displeasure",uses,1,culturebank
+104,296,united states,pin codes,varies by,1,culturebank
+104,297,united states,signatures,varies by,1,culturebank
+298,42,usage,regions,varies by,1,culturebank
+298,299,usage,building types,varies by,1,culturebank
+175,300,cursive writing,age and area,varies by,1,culturebank
+301,302,moving frequently,employment,varies by,1,culturebank
+303,305,tribal,tribal traditions,varies by,1,culturebank
+304,306,communal,communal traditions,varies by,1,culturebank
+307,2,cultural differences,region,varies by,1,culturebank
+308,2,cultural quirks,region,varies by,1,culturebank
+309,104,requirements,united states,varies by,1,culturebank
+310,104,restrictions,united states,varies by,1,culturebank
+311,126,rules,states,varies by,1,culturebank
+313,2,tuna salad,region,varies by,1,culturebank
+315,284,travel,safety,varies by,1,culturebank
+318,236,large meal portions,location,varies by,1,culturebank
+319,236,meal deals,location,varies by,1,culturebank
+320,236,efficient eating habits,location,varies by,1,culturebank
+318,317,large meal portions,time of year,varies by,1,culturebank
+319,317,meal deals,time of year,varies by,1,culturebank
+320,317,efficient eating habits,time of year,varies by,1,culturebank
+321,322,doggy bags,other countries,vary by,1,culturebank
+323,326,theft,attitudes,varies by,1,culturebank
+323,327,theft,punishment,varies by,1,culturebank
+328,329,dining,grocery shopping,varies by,1,culturebank
+108,331,settings,social media,varies by,1,culturebank
+332,334,speed limits,adhere to speed limits with varying levels of strictness,varies by,1,culturebank
+333,332,speed cameras,speed limits,used to enforce speed limits,1,culturebank
+335,336,door,films,used in,1,culturebank
+307,338,cultural differences,germany,varies by,1,culturebank
+339,340,halloween,neighbor to neighbor to parent to child,varies by,1,culturebank
+341,342,reactions,fear,varies by,1,culturebank
+341,343,reactions,curiosity,varies by,1,culturebank
+344,129,greetings,formal,varies by,1,culturebank
+344,130,greetings,informal,varies by,1,culturebank
+345,347,fear-based parenting,parenting and education,varies by,1,culturebank
+346,347,concern for kidnapping,parenting and education,varies by,1,culturebank
+348,236,prices,location,varies by,1,culturebank
+348,349,prices,service provider,varies by,1,culturebank
+350,351,fear of using public restrooms,public restrooms,varies by,1,culturebank
+352,351,passing out drunk,public restrooms,varies by,1,culturebank
+353,351,concerns about cleanliness,public restrooms,varies by,1,culturebank
+355,354,parking lot,cost,varies by,1,culturebank
+356,357,toilet paper,cost and quality,varies by,1,culturebank
+358,144,stop signs,countries,varies by,1,culturebank
+359,104,living with parents,united states,varies by,1,culturebank
+360,104,living off parents,united states,varies by,1,culturebank
+361,362,gun ownership,legal age,varies by,1,culturebank
+108,364,settings,school,varies by,1,culturebank
+108,365,settings,workplace,varies by,1,culturebank
+108,366,settings,public spaces,varies by,1,culturebank
+363,367,naps,young children,varies by,1,culturebank
+368,369,greeting,awkwardness,varies by,1,culturebank
+370,372,taxation rates,food items,varies by,1,culturebank
+371,372,taxation exemptions,food items,varies by,1,culturebank
+373,374,regulations,cultural norms,varies by,1,culturebank
+375,376,scattering,burial,varies by,1,culturebank
+362,126,legal age,states,varies by,1,culturebank
+110,379,age,people,varies by,1,culturebank
+382,380,preferences,sweetness,vary by,1,culturebank
+382,381,preferences,health,vary by,1,culturebank
+383,104,snacks,united states,varies by,1,culturebank
+384,137,algerian food,country,varies by,1,blend
+386,9,sport,algeria,varies by,1,blend
+384,389,algerian food,world,varies by,1,blend
+390,364,walk,school,varies by,1,candle
+392,393,time,electrician,varies by,1,candle
+395,394,drawing blood,nurse,varies by,1,candle
+394,396,nurse,bed,varies by,1,candle
+398,400,scissors,tailor,desire,1,candle
+399,401,chisels,carpenter,desire,1,candle
+402,403,artist,performance,varies by,1,candle
+404,405,professional dog walker,one dog at a time,takes,1,candle
+404,406,professional dog walker,a few dogs together,takes,1,candle
+407,408,project,house,varies by,1,candle
+409,410,attorney,death,varies by,1,candle
+411,412,order,doctor,varies by,1,candle
+411,394,order,nurse,varies by,1,candle

@@ -1,0 +1,13 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,most famous basketball player,admire,1,blend
+1,3,algeria,popular soccer coach,admire,1,blend
+1,4,algeria,famous male badminton players,admire,1,blend
+1,5,algeria,most famous soccer players,admire,1,blend
+6,7,in public,popular winter sports player,admires,1,blend
+1,8,algeria,famous swimmers,admires,1,blend
+9,10,algerian society,female sportpersons,admires,1,blend
+1,11,algeria,popular martial arts player,admire,1,blend
+1,12,algeria,famous table tennis players,admire,1,blend
+1,13,algeria,most famous boxer,admire,1,blend
+1,14,algeria,famous track and field athletes,admire,1,blend
+1,15,algeria,popular sportperson,admire,1,blend

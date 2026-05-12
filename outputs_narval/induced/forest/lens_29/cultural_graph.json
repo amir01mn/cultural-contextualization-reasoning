@@ -1,0 +1,425 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 7
+    },
+    {
+      "id": 2,
+      "label": "preparation for eid al-adha",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "eid al-adha",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 4,
+      "label": "special occasion",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 6,
+      "label": "start of day",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "end of fast",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "of ramadan",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "national independence",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "the end of french colonial rule",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "eid prayer",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "islamic celebration",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "end of fasting",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "islamic religious festival",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "time to start preparation",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "university students",
+      "level": 1,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "good harvest",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "exam",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "secondary education",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "algeria's independence",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "certain foods",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 25,
+      "label": "paper",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "pupil's work",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "preparation for eid al-adha",
+      "relation_type": "marks",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "eid al-adha",
+      "target_label": "special occasion",
+      "relation_type": "marks_end_of_ramadan",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "ramadan",
+      "target_label": "start of day",
+      "relation_type": "marks",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "source_label": "ramadan",
+      "target_label": "end of fast",
+      "relation_type": "mark",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "source_label": "eid al-adha",
+      "target_label": "of ramadan",
+      "relation_type": "marks_end",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "mark",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "national independence",
+      "relation_type": "mark",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "food",
+      "target_label": "the end of french colonial rule",
+      "relation_type": "mark",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "eid prayer",
+      "target_label": "islamic celebration",
+      "relation_type": "marks",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "source_label": "eid al-adha",
+      "target_label": "food",
+      "relation_type": "marks_end_of_ramadan",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "source_label": "ramadan",
+      "target_label": "end of fasting",
+      "relation_type": "marks",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 15,
+      "source_label": "eid al-adha",
+      "target_label": "nile valley",
+      "relation_type": "marks_end_of_ramadan",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 16,
+      "source_label": "eid al-adha",
+      "target_label": "islamic religious festival",
+      "relation_type": "marks",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "university students",
+      "target_label": "good harvest",
+      "relation_type": "marks",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "exam",
+      "target_label": "secondary education",
+      "relation_type": "marks_end",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "algeria's independence",
+      "relation_type": "marks",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 23,
+      "target": 1,
+      "source_label": "certain foods",
+      "target_label": "food",
+      "relation_type": "mark",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "teacher",
+      "target_label": "paper",
+      "relation_type": "marks",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 24,
+      "target": 26,
+      "source_label": "teacher",
+      "target_label": "pupil's work",
+      "relation_type": "marks",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

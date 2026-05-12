@@ -1,0 +1,33 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,food,breakfast,part_of,1,arabculture
+5,6,traditional dishes,eid al-adha celebration,part_of,1,arabculture
+1,7,food,childhood experience,part_of,1,arabculture
+8,1,lentils,food,part_of_meal,1,arabculture
+9,1,rice,food,part_of_meal,1,arabculture
+1,10,food,algeria,is_part_of,1,arabculture
+11,12,writing the book,marriage preparation,part_of,1,arabculture
+13,10,preparation,algeria,part_of,1,arabculture
+1,14,food,eid al-adha preparations,part_of,1,arabculture
+1,15,food,ramadan rituals,is_part_of,1,arabculture
+1,16,food,preparation for religious holidays,part_of,1,arabculture
+1,17,food,bihu festival,part_of,1,diwali
+1,5,food,traditional dishes,part_of,2,diwali
+1,18,food,tamil nadu's traditional textile repertoire,part_of,1,diwali
+1,19,food,tamil nadu's rich textile tradition,part_of,1,diwali
+1,10,food,algeria,part_of,7,diwali
+1,20,food,cultural practices of arunachal pradesh,part_of,1,diwali
+21,22,rabha dance,assam's cultural heritage,part_of,1,diwali
+1,23,food,diwali celebrations in assam,part_of,1,diwali
+1,24,food,assam culture,part_of,1,diwali
+1,25,food,karbi dance,part_of,1,diwali
+10,26,algeria,weekly routine,part_of,1,blend
+27,5,camel,traditional dishes,part_of,1,blend
+28,10,popular children's song,algeria,part_of,1,blend
+29,10,insect consumption,algeria,part_of,1,blend
+30,31,potty training,judge's duties,part_of,1,candle
+10,32,algeria,cohort,part_of,1,candle
+35,1,round,food,part_of,1,candle
+36,37,treatment,set plan,is_part_of,1,candle
+38,39,shaving,preparation process,part_of,1,candle
+1,40,food,attorney,part_of,1,candle
+41,42,receptionist,healthcare practice,part_of,1,candle

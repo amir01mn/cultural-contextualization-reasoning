@@ -1,0 +1,227 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 2,
+      "label": "north africa",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 3,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 11
+    },
+    {
+      "id": 4,
+      "label": "game",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 6,
+      "label": "amusement parks",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "restaurant",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "sporting stadium",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "university students",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "clubs and restaurants",
+      "level": 3,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "oral cavity",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "north africa",
+      "relation_type": "located_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "north africa",
+      "relation_type": "located_in",
+      "weight": 3,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "game",
+      "target_label": "nile valley",
+      "relation_type": "located_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "nile valley",
+      "relation_type": "located_in",
+      "weight": 3,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "nile valley",
+      "relation_type": "located_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 3,
+      "source_label": "amusement parks",
+      "target_label": "algeria",
+      "relation_type": "located_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 7,
+      "target": 3,
+      "source_label": "restaurant",
+      "target_label": "algeria",
+      "relation_type": "located_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 8,
+      "target": 3,
+      "source_label": "sporting stadium",
+      "target_label": "algeria",
+      "relation_type": "located_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "are_located_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 9,
+      "target": 3,
+      "source_label": "university students",
+      "target_label": "algeria",
+      "relation_type": "located_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "source_label": "clubs and restaurants",
+      "target_label": "food",
+      "relation_type": "are_located_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "food",
+      "target_label": "oral cavity",
+      "relation_type": "located_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

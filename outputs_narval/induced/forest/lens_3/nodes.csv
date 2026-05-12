@@ -1,0 +1,108 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,having light breakfast,3,algeria,unknown,arabculture,1
+2,north africa,1,algeria,unknown,arabculture,2
+3,light iftar meals,3,algeria,unknown,arabculture,1
+4,algeria,1,algeria,unknown,arabculture,19
+5,sahoor during ramadan,3,algeria,unknown,arabculture,1
+6,food,1,algeria,unknown,arabculture,42
+7,evening snacks,3,algeria,unknown,arabculture,1
+8,simple bathing,3,algeria,unknown,arabculture,1
+9,cultural_group,3,algeria,unknown,arabculture,1
+10,certain instructions,3,algeria,unknown,arabculture,1
+11,ramadan,1,egypt,unknown,arabculture,1
+12,consuming iftar after sunset,3,egypt,unknown,arabculture,1
+13,nile valley,1,egypt,unknown,arabculture,46
+14,shared morning meal,3,egypt,unknown,arabculture,1
+15,prepare traditional meal,3,egypt,unknown,arabculture,1
+16,traditional dishes,1,egypt,unknown,arabculture,1
+17,taking suhoor,3,egypt,unknown,arabculture,1
+18,consuming milk for suhoor,3,egypt,unknown,arabculture,1
+19,"serving sahur with yogurt, cucumber, water",3,egypt,unknown,arabculture,1
+20,writing books for weddings,3,egypt,unknown,arabculture,1
+21,reserving special car for wedding,3,egypt,unknown,arabculture,1
+22,buying lamb for sacrifice,3,egypt,unknown,arabculture,1
+23,wearing newabayas,3,egypt,unknown,arabculture,1
+24,preparation,2,egypt,unknown,arabculture,1
+25,fava bean breakfast tradition,3,egypt,unknown,arabculture,1
+26,children eating shawarma made by mothers,3,egypt,unknown,arabculture,1
+27,social custom,3,egypt,unknown,arabculture,1
+28,leisure activities,1,egypt,unknown,arabculture,1
+29,saying 'in the name of god' before eating,3,egypt,unknown,arabculture,1
+30,drinking tea after meals,3,egypt,unknown,arabculture,1
+31,saving money,3,egypt,unknown,arabculture,1
+32,gift-giving tradition,3,egypt,unknown,arabculture,1
+33,welcoming mourners,3,egypt,unknown,arabculture,1
+34,upper egypt,3,egypt,unknown,arabculture,1
+35,dance,2,egypt,unknown,arabculture,1
+36,parental involvement in children's studies,3,egypt,unknown,arabculture,1
+37,intergenerational support,3,egypt,unknown,arabculture,1
+38,planting pomegranate seeds,3,egypt,unknown,arabculture,1
+39,outdoor activities,3,egypt,unknown,arabculture,1
+40,narrative tradition,3,egypt,unknown,arabculture,1
+41,traditional breakfast,3,egypt,unknown,arabculture,1
+42,shared family breakfast customs,3,egypt,unknown,arabculture,1
+43,collective iftar,3,egypt,unknown,arabculture,1
+44,traditional iftar customs,3,egypt,unknown,arabculture,1
+45,serving ajyeh for suhur,3,egypt,unknown,arabculture,1
+46,serving suhour,3,egypt,unknown,arabculture,1
+47,traditional suhour dishes,3,egypt,unknown,arabculture,1
+48,suhoor customs,3,egypt,unknown,arabculture,1
+49,bringing date palm fruit home,3,egypt,unknown,arabculture,1
+50,mother,1,egypt,unknown,arabculture,1
+51,prepare snacks for children,3,egypt,unknown,arabculture,1
+52,bridal beauty preparations,3,egypt,unknown,arabculture,1
+53,dressing for work,3,egypt,unknown,arabculture,1
+54,morning meal together,3,egypt,unknown,arabculture,1
+55,thorough home care,3,egypt,unknown,arabculture,1
+56,domestic chores,3,egypt,unknown,arabculture,1
+57,gifting customs,3,egypt,unknown,arabculture,1
+58,pochampally and surrounding villages,3,andhra pradesh,unknown,diwali,1
+59,process,3,andhra pradesh,unknown,diwali,1
+60,two weavers,3,andhra pradesh,unknown,diwali,1
+61,ajrakh,3,gujarat,unknown,diwali,2
+62,kutch region,3,gujarat,unknown,diwali,1
+63,dangasia community,3,gujarat,unknown,diwali,1
+64,tangaliya weaving technique,3,gujarat,unknown,diwali,1
+65,kashida embroidery,1,meghalaya,unknown,diwali,3
+66,meghalaya,3,meghalaya,unknown,diwali,1
+67,jamdani,2,punjab,unknown,diwali,3
+68,textile craftsmanship,3,tamil nadu,unknown,diwali,1
+69,lambada tribe,3,telangana,unknown,diwali,1
+70,sustainable weaving,3,uttarakhand,unknown,diwali,1
+71,parts of uttar pradesh,3,uttar pradesh,unknown,diwali,1
+72,parts of punjab,3,west bengal,unknown,diwali,1
+73,assam,1,assam,unknown,diwali,1
+74,united states,1,general,unknown,culturebank,1
+75,restaurant,3,general,unknown,culturebank,1
+76,self-service,3,general,unknown,culturebank,1
+77,employee,1,general,unknown,culturebank,1
+78,budgeting,3,general,unknown,culturebank,1
+79,morning and late night work hours,3,general,unknown,culturebank,1
+80,use of traditional symbols,3,dz,unknown,blend,1
+81,artist,1,dz,unknown,blend,3
+82,winter sports,3,dz,unknown,blend,1
+83,few in algeria,3,dz,unknown,blend,1
+84,adding milk and sugar to coffee,3,dz,unknown,blend,1
+85,knowledge of desert terrain,3,dz,unknown,blend,1
+86,track and field events,4,dz,unknown,blend,1
+87,knot tying,3,sailor,unknown,candle,1
+88,teacher,1,teacher,unknown,candle,1
+89,attentive listening,3,teacher,unknown,candle,1
+90,nurse,1,teacher,unknown,candle,2
+91,smooth running,3,teacher,unknown,candle,1
+92,customer,1,nurse,unknown,candle,2
+93,doctor,1,nurse,unknown,candle,1
+94,tailor-made essays,3,tailor,unknown,candle,1
+95,analysis and time,3,tailor,unknown,candle,1
+96,regular_visits,3,dentist,unknown,candle,1
+97,irrigation and dressing,3,dentist,unknown,candle,1
+98,reliable bank,3,merchant,unknown,candle,1
+99,great photos,3,photographer,unknown,candle,1
+100,organization and schedule,3,photographer,unknown,candle,1
+101,photographer,1,photographer,unknown,candle,2
+102,medication,4,artist,unknown,candle,1
+103,power of attorney,3,attorney,unknown,candle,1
+104,formalization,3,attorney,unknown,candle,1
+105,attorney,1,attorney,unknown,candle,1
+106,probate,3,attorney,unknown,candle,1

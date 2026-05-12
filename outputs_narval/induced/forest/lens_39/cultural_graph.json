@@ -1,0 +1,263 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 12
+    },
+    {
+      "id": 2,
+      "label": "at home",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 3,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 4,
+      "label": "boy and girl game",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "egyptian siblings",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "snake and ladder",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 7,
+      "label": "electricity",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "nader and ahmad",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "samer and her sisters",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "game",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "during holidays",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "popular family game",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "to win votes",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "at home",
+      "relation_type": "play_games",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "play",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "boy and girl game",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "source_label": "egyptian siblings",
+      "target_label": "at home",
+      "relation_type": "play_game",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "play_with",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "snake and ladder",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "play_game",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "algeria",
+      "target_label": "electricity",
+      "relation_type": "play_game",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 6,
+      "source_label": "nader and ahmad",
+      "target_label": "snake and ladder",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "samer and her sisters",
+      "target_label": "game",
+      "relation_type": "play_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "during holidays",
+      "relation_type": "play_games",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "source_label": "algeria",
+      "target_label": "popular family game",
+      "relation_type": "plays_game",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "politician",
+      "target_label": "to win votes",
+      "relation_type": "plays_game",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

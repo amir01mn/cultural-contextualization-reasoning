@@ -1,0 +1,722 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "cultural practice",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 2,
+      "label": "north africa",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 3,
+      "label": "eating culture",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 18
+    },
+    {
+      "id": 5,
+      "label": "tizi ouzou and bejaia",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "regional preference",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 21
+    },
+    {
+      "id": 8,
+      "label": "agricultural practices",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "crop type",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "approaches to potty training",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "leisure activities",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "phrases",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "shopping hours",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "europeans",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "leave policies",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "with some offering 100% paid leave for six weeks",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "from casual to formal",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "preference for carbonated or sparkling water",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "trick-or-treating customs",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "weather conditions",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "frequently",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "snacks",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "period",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "education system",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "region/country",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "cultural perception",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "region and individual",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "sport participation",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "region and culture",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "industry sector",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "gymnastics events",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "region/culture",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "work",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "by month",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "dishes",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "topic of conversation",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "courses",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "length",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "cultural practice",
+      "target_label": "north africa",
+      "relation_type": "varies_by_region",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "source_label": "eating culture",
+      "target_label": "north africa",
+      "relation_type": "varies_by_region",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "tizi ouzou and bejaia",
+      "relation_type": "vary_by_region",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "cultural practice",
+      "target_label": "regional preference",
+      "relation_type": "varies_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "varies_by",
+      "weight": 9,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "cultural practice",
+      "target_label": "north africa",
+      "relation_type": "vary_by_region",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "agricultural practices",
+      "target_label": "crop type",
+      "relation_type": "vary_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 7,
+      "source_label": "approaches to potty training",
+      "target_label": "algeria",
+      "relation_type": "vary",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 11,
+      "target": 4,
+      "source_label": "leisure activities",
+      "target_label": "food",
+      "relation_type": "vary_by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 12,
+      "target": 4,
+      "source_label": "phrases",
+      "target_label": "food",
+      "relation_type": "vary_by",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "shopping hours",
+      "target_label": "europeans",
+      "relation_type": "vary_by_region",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "leave policies",
+      "target_label": "with some offering 100% paid leave for six weeks",
+      "relation_type": "vary",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "traditional dishes",
+      "target_label": "from casual to formal",
+      "relation_type": "varies",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "united states",
+      "target_label": "preference for carbonated or sparkling water",
+      "relation_type": "varies_by_region",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "nile valley",
+      "target_label": "trick-or-treating customs",
+      "relation_type": "vary_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "weather conditions",
+      "target_label": "frequently",
+      "relation_type": "vary",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 25,
+      "target": 7,
+      "source_label": "snacks",
+      "target_label": "algeria",
+      "relation_type": "vary_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "varies_by_region",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 26,
+      "target": 7,
+      "source_label": "period",
+      "target_label": "algeria",
+      "relation_type": "varies",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "education system",
+      "target_label": "region/country",
+      "relation_type": "varies_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "cultural perception",
+      "target_label": "region and individual",
+      "relation_type": "varies_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "sport participation",
+      "target_label": "region and culture",
+      "relation_type": "varies_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 33,
+      "source_label": "food",
+      "target_label": "industry sector",
+      "relation_type": "varies_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "vary_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "source_label": "gymnastics events",
+      "target_label": "region/culture",
+      "relation_type": "vary_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "cultural practice",
+      "target_label": "algeria",
+      "relation_type": "varies_by_region",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 36,
+      "target": 7,
+      "source_label": "work",
+      "target_label": "algeria",
+      "relation_type": "varies_by_region",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 37,
+      "target": 7,
+      "source_label": "gifts",
+      "target_label": "algeria",
+      "relation_type": "varies_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 38,
+      "source_label": "food",
+      "target_label": "by month",
+      "relation_type": "varies",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 39,
+      "target": 7,
+      "source_label": "customer",
+      "target_label": "algeria",
+      "relation_type": "vary_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 40,
+      "target": 7,
+      "source_label": "dishes",
+      "target_label": "algeria",
+      "relation_type": "varies_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "cultural practice",
+      "target_label": "algeria",
+      "relation_type": "vary_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "source_label": "nurse",
+      "target_label": "topic of conversation",
+      "relation_type": "varies_by",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "source_label": "courses",
+      "target_label": "length",
+      "relation_type": "vary_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

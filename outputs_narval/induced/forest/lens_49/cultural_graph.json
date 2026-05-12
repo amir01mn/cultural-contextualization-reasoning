@@ -1,0 +1,254 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "brothers",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "brother-sister relationship",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 4,
+      "label": "lightweight and vibrant appeal",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "tanchoi",
+      "level": 4,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "rich textures",
+      "level": 3,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "luxurious texture",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "gas pump attendants",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "some areas",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "two types of gas pumps",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 12,
+      "label": "popular family tv show",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "regular meetings",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "reputable wedding photographer",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "physical exam",
+      "level": 4,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "brothers",
+      "target_label": "brother-sister relationship",
+      "relation_type": "have",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "lightweight and vibrant appeal",
+      "relation_type": "have",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "tanchoi",
+      "target_label": "rich textures",
+      "relation_type": "have",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "luxurious texture",
+      "relation_type": "have",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "gas pump attendants",
+      "relation_type": "have",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "some areas",
+      "target_label": "two types of gas pumps",
+      "relation_type": "have",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "algeria",
+      "target_label": "popular family tv show",
+      "relation_type": "have",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 11,
+      "target": 13,
+      "source_label": "algeria",
+      "target_label": "regular meetings",
+      "relation_type": "have",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 14,
+      "target": 3,
+      "source_label": "photographer",
+      "target_label": "food",
+      "relation_type": "should_have",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "reputable wedding photographer",
+      "target_label": "physical exam",
+      "relation_type": "should_have",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

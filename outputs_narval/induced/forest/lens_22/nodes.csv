@@ -1,0 +1,42 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,6
+2,customer,1,algeria,unknown,arabculture,2
+3,algeria,1,algeria,unknown,arabculture,14
+4,tv viewing,3,algeria,unknown,arabculture,1
+5,nile valley,1,egypt,unknown,arabculture,1
+6,cotton cultivation,3,egypt,unknown,arabculture,1
+7,nile valley women,3,egypt,unknown,arabculture,1
+8,cleaning after work,3,egypt,unknown,arabculture,1
+9,traditional dishes,1,egypt,unknown,arabculture,1
+10,potty training,4,general,unknown,culturebank,1
+11,united states,1,general,unknown,culturebank,3
+12,various activities,3,general,unknown,culturebank,1
+13,in public,2,general,unknown,culturebank,1
+14,discussion on gun violence,3,general,unknown,culturebank,1
+15,building underground structures,3,general,unknown,culturebank,1
+16,patient,1,general,unknown,culturebank,1
+17,healthcare-related activities,3,general,unknown,culturebank,1
+18,employee,1,general,unknown,culturebank,1
+19,hard work,3,general,unknown,culturebank,1
+20,various payment practices,3,general,unknown,culturebank,1
+21,various spending habits,3,general,unknown,culturebank,1
+22,indoor activity,3,dz,unknown,blend,1
+23,commentator,3,dz,unknown,blend,1
+24,sport commentary,3,dz,unknown,blend,1
+25,dinner activities,3,dz,unknown,blend,1
+26,females in their 20s,3,dz,unknown,blend,1
+27,leisure activities,1,dz,unknown,blend,3
+28,males in their 20s,3,dz,unknown,blend,1
+29,souq shopping,3,dz,unknown,blend,1
+30,retired women,4,dz,unknown,blend,1
+31,card games,3,dz,unknown,blend,1
+32,weekly religious activities,3,dz,unknown,blend,1
+33,algerian seniors,3,dz,unknown,blend,1
+34,activities in parks,3,dz,unknown,blend,1
+35,weekend activity with child,3,dz,unknown,blend,1
+36,after-school activities,3,dz,unknown,blend,1
+37,teacher,1,teacher,unknown,candle,1
+38,photographer,1,architect,unknown,candle,2
+39,ritual of working,3,architect,unknown,candle,1
+40,ritual of assistance,3,architect,unknown,candle,1

@@ -1,0 +1,2441 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "household",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "cleaning and organizing",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "music of sahara",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 109
+    },
+    {
+      "id": 5,
+      "label": "mahjub",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "olives",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "side dish",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "bread",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "drinks",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 9
+    },
+    {
+      "id": 11,
+      "label": "changing dishes",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "cake",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "additions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "gold set",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 15
+    },
+    {
+      "id": 16,
+      "label": "algerian preparations",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "welcoming eid al-adha",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 19,
+      "label": "unspecified customs",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "non-religious festivals",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 22,
+      "label": "breakfast",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 23,
+      "label": "strawberries",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "fava beans",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 25,
+      "label": "ahmed's meal",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "grilled meat dishes",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "grilled fish",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "chicken and soup",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "lentil soup and bread",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "suhoor",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 31,
+      "label": "egyptian wedding",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "special car",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "preparation",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "cleaning homes",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "religious festival",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "prayer performance",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "festival days",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "travel to work/study",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "household routine",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "polishing furniture",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "family breakfast",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "shakshuka",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "boiled eggs",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "khubz al-kahk",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "biscuits",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "egyptian feast",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "special dishes for eid al-adha",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "preparing for work",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "gold and silver zari",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "motifs",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "flowers, animals, geometric shapes",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "floral and geometric designs",
+      "level": 4,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 53,
+      "label": "elaborate pallu designs",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "intricate patterns",
+      "level": 1,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "traditional designs",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "jamdani",
+      "level": 2,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 5
+    },
+    {
+      "id": 57,
+      "label": "elaborate embroidery",
+      "level": 3,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "nature-inspired motifs",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "handloom textiles",
+      "level": 2,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "mats, ropes, fabrics",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "ropes",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "rustic fabrics",
+      "level": 3,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "devotional songs",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "assam",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 65,
+      "label": "settings",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 66,
+      "label": "united states, international schools, uk",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "driving, public spaces, outdoor activities",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "discipline methods",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "spanking",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "underground structures",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "tunnels and utilities",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "healthcare system",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "visiting doctors",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "usa, australia, other countries",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "broadcast content",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "product mentions",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 14
+    },
+    {
+      "id": 78,
+      "label": "flower",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "gift cards",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "daily life",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "public and social",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "snacks",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 83,
+      "label": "education system",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "afterschool activities",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "stuffed pigeon",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "local delicacies",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 6
+    },
+    {
+      "id": 88,
+      "label": "couscous, lamb, pastries",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "football",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 90,
+      "label": "company get-together",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "couscous",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 92,
+      "label": "playgrounds, parks",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "eid al-fitr and eid al-adha",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "money, sweets, fruits",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "socializing with peers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "university students",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "required subjects",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "knife, fork, spoon",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "bourekas",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "kebabs",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "mzid",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "certain occupations",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 103,
+      "label": "teaching, nursing, and administrative roles",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "picnic",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "foot volleyball",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "physical education classes",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "common sports for girls",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "chakchouka",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "track and field events",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 110,
+      "label": "condolence offering",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "indispensable ingredients",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "harira soup",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "couscous, tagine, pastilla",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "green tea",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "brik, msemen, and mint tea",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "couscous, grilled meats, stews",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "chickpea broth",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "long jump, high jump, sprinting",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "university curriculum",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "compulsory courses",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "during holidays",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "visiting temples, churches",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "useful items",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "algerian literature",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "local writers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "stewed vegetables",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "cars, trucks, and action figures",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "cultural games",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "edible souvenirs",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "dates, milk, and honey",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "clothing",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "grains, vegetables, meat",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "clothing, toys, sweets",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "physical activities",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "daily meals",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "breakfast, lunch, dinner",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "staple foods",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "family gatherings",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "dinner and conversation",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "role playing",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "equipment",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "writers",
+      "level": 5,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "new homes",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "journalist",
+      "level": 2,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "students and businessmen",
+      "level": 3,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "household",
+      "target_label": "cleaning and organizing",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "music of sahara",
+      "target_label": "food",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "mahjub",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "source_label": "food",
+      "target_label": "olives",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "side dish",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "bread",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 9,
+      "source_label": "food",
+      "target_label": "drinks",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "ramadan",
+      "target_label": "changing dishes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "cake",
+      "target_label": "additions",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 14,
+      "source_label": "food",
+      "target_label": "gold set",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "includes",
+      "weight": 4,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "algerian preparations",
+      "target_label": "welcoming eid al-adha",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "customer",
+      "target_label": "unspecified customs",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 20,
+      "source_label": "algeria",
+      "target_label": "non-religious festivals",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "source_label": "customer",
+      "target_label": "ritual",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "breakfast",
+      "target_label": "strawberries",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 24,
+      "source_label": "ramadan",
+      "target_label": "fava beans",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "ahmed's meal",
+      "target_label": "grilled meat dishes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 27,
+      "source_label": "food",
+      "target_label": "grilled fish",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 4,
+      "source_label": "ramadan",
+      "target_label": "food",
+      "relation_type": "includes",
+      "weight": 3,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 28,
+      "source_label": "food",
+      "target_label": "chicken and soup",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 29,
+      "source_label": "ramadan",
+      "target_label": "lentil soup and bread",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 30,
+      "target": 4,
+      "source_label": "suhoor",
+      "target_label": "food",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 31,
+      "target": 4,
+      "source_label": "egyptian wedding",
+      "target_label": "food",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 32,
+      "source_label": "algeria",
+      "target_label": "special car",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "preparation",
+      "target_label": "cleaning homes",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "religious festival",
+      "target_label": "prayer performance",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 37,
+      "target": 15,
+      "source_label": "festival days",
+      "target_label": "algeria",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 38,
+      "source_label": "ramadan",
+      "target_label": "travel to work/study",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "source_label": "household routine",
+      "target_label": "polishing furniture",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 22,
+      "target": 4,
+      "source_label": "breakfast",
+      "target_label": "food",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 41,
+      "target": 24,
+      "source_label": "family breakfast",
+      "target_label": "fava beans",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 42,
+      "source_label": "food",
+      "target_label": "shakshuka",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 30,
+      "target": 43,
+      "source_label": "suhoor",
+      "target_label": "boiled eggs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 44,
+      "target": 4,
+      "source_label": "khubz al-kahk",
+      "target_label": "food",
+      "relation_type": "included_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 45,
+      "target": 4,
+      "source_label": "biscuits",
+      "target_label": "food",
+      "relation_type": "included_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "source_label": "egyptian feast",
+      "target_label": "special dishes for eid al-adha",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 48,
+      "source_label": "ramadan",
+      "target_label": "preparing for work",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 49,
+      "source_label": "food",
+      "target_label": "gold and silver zari",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "source_label": "motifs",
+      "target_label": "flowers, animals, geometric shapes",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 52,
+      "source_label": "food",
+      "target_label": "floral and geometric designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 53,
+      "source_label": "food",
+      "target_label": "elaborate pallu designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 54,
+      "source_label": "food",
+      "target_label": "intricate patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 55,
+      "source_label": "food",
+      "target_label": "traditional designs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 56,
+      "target": 4,
+      "source_label": "jamdani",
+      "target_label": "food",
+      "relation_type": "includes",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 56,
+      "target": 52,
+      "source_label": "jamdani",
+      "target_label": "floral and geometric designs",
+      "relation_type": "includes",
+      "weight": 3,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 57,
+      "source_label": "food",
+      "target_label": "elaborate embroidery",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 58,
+      "source_label": "food",
+      "target_label": "nature-inspired motifs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "source_label": "handloom textiles",
+      "target_label": "mats, ropes, fabrics",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 61,
+      "source_label": "food",
+      "target_label": "ropes",
+      "relation_type": "includes_products",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 62,
+      "source_label": "food",
+      "target_label": "rustic fabrics",
+      "relation_type": "includes_products",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 63,
+      "source_label": "food",
+      "target_label": "devotional songs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 64,
+      "target": 4,
+      "source_label": "assam",
+      "target_label": "food",
+      "relation_type": "includes",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 65,
+      "target": 66,
+      "source_label": "settings",
+      "target_label": "united states, international schools, uk",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 65,
+      "target": 67,
+      "source_label": "settings",
+      "target_label": "driving, public spaces, outdoor activities",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 68,
+      "target": 69,
+      "source_label": "discipline methods",
+      "target_label": "spanking",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 70,
+      "target": 71,
+      "source_label": "underground structures",
+      "target_label": "tunnels and utilities",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 72,
+      "target": 73,
+      "source_label": "healthcare system",
+      "target_label": "visiting doctors",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 65,
+      "target": 74,
+      "source_label": "settings",
+      "target_label": "usa, australia, other countries",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "source_label": "broadcast content",
+      "target_label": "product mentions",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 77,
+      "target": 4,
+      "source_label": "gifts",
+      "target_label": "food",
+      "relation_type": "include",
+      "weight": 3,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 77,
+      "target": 78,
+      "source_label": "gifts",
+      "target_label": "flower",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 77,
+      "target": 79,
+      "source_label": "gifts",
+      "target_label": "gift cards",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 80,
+      "target": 4,
+      "source_label": "daily life",
+      "target_label": "food",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 65,
+      "target": 81,
+      "source_label": "settings",
+      "target_label": "public and social",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 82,
+      "target": 4,
+      "source_label": "snacks",
+      "target_label": "food",
+      "relation_type": "typically_includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 83,
+      "target": 84,
+      "source_label": "education system",
+      "target_label": "afterschool activities",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 85,
+      "source_label": "food",
+      "target_label": "stuffed pigeon",
+      "relation_type": "typically_includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 86,
+      "source_label": "food",
+      "target_label": "local delicacies",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 87,
+      "target": 88,
+      "source_label": "traditional dishes",
+      "target_label": "couscous, lamb, pastries",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 77,
+      "target": 89,
+      "source_label": "gifts",
+      "target_label": "football",
+      "relation_type": "include",
+      "weight": 3,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 90,
+      "target": 15,
+      "source_label": "company get-together",
+      "target_label": "algeria",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 91,
+      "source_label": "food",
+      "target_label": "couscous",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 92,
+      "source_label": "food",
+      "target_label": "playgrounds, parks",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 93,
+      "source_label": "food",
+      "target_label": "eid al-fitr and eid al-adha",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 77,
+      "target": 94,
+      "source_label": "gifts",
+      "target_label": "money, sweets, fruits",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 95,
+      "source_label": "food",
+      "target_label": "socializing with peers",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 96,
+      "target": 97,
+      "source_label": "university students",
+      "target_label": "required subjects",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 98,
+      "source_label": "food",
+      "target_label": "knife, fork, spoon",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 99,
+      "source_label": "food",
+      "target_label": "bourekas",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 100,
+      "source_label": "food",
+      "target_label": "kebabs",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 101,
+      "source_label": "food",
+      "target_label": "mzid",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 91,
+      "source_label": "food",
+      "target_label": "couscous",
+      "relation_type": "commonly_includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "source_label": "certain occupations",
+      "target_label": "teaching, nursing, and administrative roles",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 102,
+      "target": 18,
+      "source_label": "certain occupations",
+      "target_label": "customer",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 104,
+      "target": 87,
+      "source_label": "picnic",
+      "target_label": "traditional dishes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 77,
+      "target": 105,
+      "source_label": "gifts",
+      "target_label": "foot volleyball",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 106,
+      "target": 107,
+      "source_label": "physical education classes",
+      "target_label": "common sports for girls",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 82,
+      "target": 108,
+      "source_label": "snacks",
+      "target_label": "chakchouka",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 109,
+      "source_label": "food",
+      "target_label": "track and field events",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 77,
+      "source_label": "food",
+      "target_label": "gifts",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 77,
+      "target": 4,
+      "source_label": "gifts",
+      "target_label": "food",
+      "relation_type": "commonly_includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 110,
+      "target": 4,
+      "source_label": "condolence offering",
+      "target_label": "food",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 111,
+      "source_label": "food",
+      "target_label": "indispensable ingredients",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 112,
+      "source_label": "algeria",
+      "target_label": "harira soup",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 113,
+      "source_label": "food",
+      "target_label": "couscous, tagine, pastilla",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 114,
+      "source_label": "food",
+      "target_label": "green tea",
+      "relation_type": "typically",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 87,
+      "target": 115,
+      "source_label": "traditional dishes",
+      "target_label": "brik, msemen, and mint tea",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 116,
+      "source_label": "food",
+      "target_label": "couscous, grilled meats, stews",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 117,
+      "source_label": "food",
+      "target_label": "chickpea broth",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 87,
+      "source_label": "algeria",
+      "target_label": "traditional dishes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 109,
+      "target": 118,
+      "source_label": "track and field events",
+      "target_label": "long jump, high jump, sprinting",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 119,
+      "target": 120,
+      "source_label": "university curriculum",
+      "target_label": "compulsory courses",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "source_label": "during holidays",
+      "target_label": "visiting temples, churches",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 77,
+      "target": 123,
+      "source_label": "gifts",
+      "target_label": "useful items",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 87,
+      "target": 4,
+      "source_label": "traditional dishes",
+      "target_label": "food",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 124,
+      "target": 125,
+      "source_label": "algerian literature",
+      "target_label": "local writers",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 10,
+      "target": 4,
+      "source_label": "ramadan",
+      "target_label": "food",
+      "relation_type": "typically",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 126,
+      "source_label": "algeria",
+      "target_label": "stewed vegetables",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 127,
+      "source_label": "food",
+      "target_label": "cars, trucks, and action figures",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 128,
+      "source_label": "food",
+      "target_label": "cultural games",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 129,
+      "target": 4,
+      "source_label": "edible souvenirs",
+      "target_label": "food",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 87,
+      "target": 130,
+      "source_label": "traditional dishes",
+      "target_label": "dates, milk, and honey",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 131,
+      "source_label": "food",
+      "target_label": "clothing",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 132,
+      "source_label": "algeria",
+      "target_label": "grains, vegetables, meat",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 77,
+      "target": 133,
+      "source_label": "gifts",
+      "target_label": "clothing, toys, sweets",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 134,
+      "source_label": "food",
+      "target_label": "physical activities",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 135,
+      "target": 136,
+      "source_label": "daily meals",
+      "target_label": "breakfast, lunch, dinner",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 137,
+      "source_label": "algeria",
+      "target_label": "staple foods",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 138,
+      "target": 139,
+      "source_label": "family gatherings",
+      "target_label": "dinner and conversation",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 21,
+      "target": 140,
+      "source_label": "ritual",
+      "target_label": "role playing",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 102,
+      "target": 142,
+      "source_label": "certain occupations",
+      "target_label": "writers",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 143,
+      "target": 4,
+      "source_label": "new homes",
+      "target_label": "food",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 144,
+      "target": 145,
+      "source_label": "journalist",
+      "target_label": "students and businessmen",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

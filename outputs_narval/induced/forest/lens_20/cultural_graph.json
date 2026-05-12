@@ -1,0 +1,569 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 21
+    },
+    {
+      "id": 2,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 9
+    },
+    {
+      "id": 3,
+      "label": "necessary needs",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "public transportation",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "houses",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "places",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "relatives",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "sweet treat",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "fiancée",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 11,
+      "label": "elderly parents",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "during lunar new year",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "most support",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "guests",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "fathers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "father's day",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "mother",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 18,
+      "label": "birthday gifts",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "during eid in algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "patient",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 4
+    },
+    {
+      "id": 22,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 4
+    },
+    {
+      "id": 23,
+      "label": "information",
+      "level": 4,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "person or group",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "tailor-made clothing",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "horse",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "jockey",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "painter",
+      "level": 3,
+      "cultural_group": "painter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 29,
+      "label": "attorney",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "reader",
+      "level": 3,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "doctors and nurses",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "necessary needs",
+      "relation_type": "receive",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "source_label": "public transportation",
+      "target_label": "food",
+      "relation_type": "receive_greeting",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 1,
+      "source_label": "houses",
+      "target_label": "food",
+      "relation_type": "receive_greeting",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "source_label": "places",
+      "target_label": "food",
+      "relation_type": "receive_greeting",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 1,
+      "source_label": "relatives",
+      "target_label": "food",
+      "relation_type": "give_gifts_to",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "sweet treat",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "fiancée",
+      "target_label": "gifts",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "source_label": "elderly parents",
+      "target_label": "food",
+      "relation_type": "receive_gifts",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "gifts",
+      "relation_type": "give",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "source_label": "algeria",
+      "target_label": "during lunar new year",
+      "relation_type": "receive_gifts",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 10,
+      "target": 13,
+      "source_label": "gifts",
+      "target_label": "most support",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 14,
+      "target": 1,
+      "source_label": "guests",
+      "target_label": "food",
+      "relation_type": "receive",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "fathers",
+      "target_label": "father's day",
+      "relation_type": "receive_gifts_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 17,
+      "target": 1,
+      "source_label": "mother",
+      "target_label": "food",
+      "relation_type": "receive_gifts_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 18,
+      "source_label": "algeria",
+      "target_label": "birthday gifts",
+      "relation_type": "receive",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 19,
+      "source_label": "algeria",
+      "target_label": "during eid in algeria",
+      "relation_type": "receive_gifts",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "source_label": "teacher",
+      "target_label": "food",
+      "relation_type": "gives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "gifts",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "patient",
+      "target_label": "nurse",
+      "relation_type": "receives_care",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 17,
+      "target": 22,
+      "source_label": "mother",
+      "target_label": "nurse",
+      "relation_type": "receives_care",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "source_label": "nurse",
+      "target_label": "food",
+      "relation_type": "gives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 23,
+      "source_label": "algeria",
+      "target_label": "information",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "person or group",
+      "target_label": "tailor-made clothing",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 21,
+      "target": 1,
+      "source_label": "patient",
+      "target_label": "food",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 26,
+      "target": 1,
+      "source_label": "horse",
+      "target_label": "food",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 27,
+      "target": 1,
+      "source_label": "jockey",
+      "target_label": "food",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 28,
+      "source_label": "food",
+      "target_label": "painter",
+      "relation_type": "receives",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "source_label": "attorney",
+      "target_label": "food",
+      "relation_type": "give",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "source_label": "reader",
+      "target_label": "food",
+      "relation_type": "gives",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 21,
+      "target": 31,
+      "source_label": "patient",
+      "target_label": "doctors and nurses",
+      "relation_type": "receive_care_from",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,grandchildren,5,algeria,unknown,arabculture,1
+2,grandparents,5,algeria,unknown,arabculture,1
+3,small talk,2,general,unknown,culturebank,1
+4,settings,4,general,unknown,culturebank,1
+5,staring,2,general,unknown,culturebank,1
+6,public and social interactions,2,general,unknown,culturebank,1
+7,leaving shopping cart,4,general,unknown,culturebank,1
+8,rude behavior,4,general,unknown,culturebank,1
+9,lazy,2,general,unknown,culturebank,1
+10,drivers,4,general,unknown,culturebank,1
+11,yielding,4,general,unknown,culturebank,1
+12,those already in the roundabout,2,general,unknown,culturebank,1
+13,public displays of affection,2,general,unknown,culturebank,1
+14,kissing,3,general,unknown,culturebank,1
+15,public,1,general,unknown,culturebank,1
+16,awkward,5,general,unknown,culturebank,1
+17,discussions,2,general,unknown,culturebank,1
+18,confusion,2,general,unknown,culturebank,1
+19,misconceptions,2,general,unknown,culturebank,1
+20,eye contact,2,general,unknown,culturebank,1
+21,stalls,2,general,unknown,culturebank,1
+22,public restrooms,2,general,unknown,culturebank,2
+23,uncomfortable,5,general,unknown,culturebank,1
+24,teacher,1,teacher,unknown,candle,1
+25,student,5,student,unknown,candle,1
+26,learning,2,tailor,unknown,candle,1
+27,children,2,tailor,unknown,candle,1

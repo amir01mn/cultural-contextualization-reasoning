@@ -1,0 +1,290 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 2,
+      "label": "religious and national events",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "exquisite textile of maharashtra",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "unique and impractical",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "soccer",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "simpler than football",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 9,
+      "label": "doctors highly esteemed",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "government position",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "stable company position",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "callers' well-being",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "routine job",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "skin type",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "cultural consistency",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "religious and national events",
+      "relation_type": "considers",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "exquisite textile of maharashtra",
+      "relation_type": "considered",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "united states",
+      "target_label": "unique and impractical",
+      "relation_type": "considers",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "soccer",
+      "target_label": "simpler than football",
+      "relation_type": "considered",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "algeria",
+      "target_label": "doctors highly esteemed",
+      "relation_type": "consider",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "government position",
+      "relation_type": "considered_secure",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "food",
+      "target_label": "stable company position",
+      "relation_type": "considered_secure",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "consider",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "nurse",
+      "target_label": "callers' well-being",
+      "relation_type": "consider",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "routine job",
+      "relation_type": "considered",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "artist",
+      "target_label": "skin type",
+      "relation_type": "considers",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "photographer",
+      "target_label": "cultural consistency",
+      "relation_type": "consider",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+3,4,nile valley,mourning,participates_in,1,arabculture
+5,6,algeria,preparing for bride's move,participate_in,1,arabculture
+7,2,bride,food,participates_in,1,arabculture
+5,8,algeria,special customs,participate_in,1,arabculture
+3,9,nile valley,ritual,participate_in,1,arabculture
+3,10,nile valley,ramadan fasting and breaking it,participate_in,1,arabculture
+11,12,guests,eating at weddings,participate_in,1,arabculture
+3,13,nile valley,home cleaning for eid,participate_in,1,arabculture
+3,14,nile valley,religious celebrations,participate_in,1,arabculture
+3,15,nile valley,sharing meal,participate_in,1,arabculture
+2,16,food,coffin carrying,participate_in,1,arabculture
+3,17,nile valley,distributing alms,participate_in,1,arabculture
+2,18,food,family gatherings,participate_in,1,arabculture
+3,5,nile valley,algeria,participate_in,1,arabculture
+11,19,guests,music and dancing,participate_in,1,arabculture
+20,21,shaima's family,preparation,participates_in,1,arabculture
+2,22,food,lamb sacrifice during sham al-nisim,participate_in,1,arabculture
+5,23,algeria,nighttime social event,participates_in,1,arabculture
+2,24,food,traditional dishes,participates_in,1,diwali
+5,25,algeria,school tradition,participate_in,1,culturebank
+5,26,algeria,afterschool sports,participate_in,1,blend
+5,27,algeria,halloween activities,participate_in,1,blend
+5,18,algeria,family gatherings,participate_in,2,blend
+28,29,algerian seniors,boules,participate_in,1,blend
+5,30,algeria,local tournaments,participate_in,1,blend
+5,31,algeria,hand knitting,participate_in,1,blend
+32,33,university students,gifts,participate_in,1,blend
+5,34,algeria,group study sessions,participate_in,1,blend
+5,35,algeria,limited sports,participate_in,1,blend
+36,37,age group,leisure activities,participates_in,1,blend
+5,38,algeria,parades and festivals,participate_in,1,blend
+5,39,algeria,school sports activities,participate_in,1,blend
+5,40,algeria,foot volleyball matches,participate_in,1,blend
+41,42,girls,physical education sports,participate_in,1,blend
+5,43,algeria,international football competitions,participate_in,1,blend
+5,44,algeria,various sports,participate_in,1,blend
+2,33,food,gifts,participate_in,1,blend
+5,45,algeria,swimming competitions,participates_in,1,blend
+5,37,algeria,leisure activities,participate_in,1,blend
+5,2,algeria,food,participate_in,3,blend
+46,2,retired women,food,participate_in,2,blend
+5,47,algeria,paralympic games,participates_in,1,blend
+5,48,algeria,international sporting events,participate_in,1,blend
+5,49,algeria,camel,participate_in,1,blend
+2,50,food,education system,participate_in,1,blend
+5,51,algeria,water sports,participate_in,1,blend
+5,52,algeria,after school curricular,participate_in,1,blend
+5,53,algeria,national celebrations,participate_in,1,blend
+5,54,algeria,music activities,participate_in,1,blend
+5,2,algeria,food,participates_in,1,blend
+5,55,algeria,popular tournaments,participate_in,1,blend
+56,57,athletes,international competitions,participate_in,1,blend
+2,58,food,family activity on weekend,participate_in,1,blend
+5,59,algeria,homework sessions,participate_in,1,blend
+60,61,teacher,assessment meetings,participates_in,1,candle
+60,62,teacher,university lab session,participates_in,1,candle
+63,2,tailor,food,participate_in,1,candle
+64,65,politician,ritual of corruption,participate_in,1,candle
+2,66,food,photography session,participates_in,1,candle
+67,68,attorney,hearings and trials,participates_in,1,candle

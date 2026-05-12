@@ -1,0 +1,335 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 15
+    },
+    {
+      "id": 2,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 20
+    },
+    {
+      "id": 3,
+      "label": "rural areas in chhattisgarh",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "rural fairs",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "snacks",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "algerian visitors",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "people from other countries",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "soccer",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 9,
+      "label": "coastal regions",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "most famous sports-related movie",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "table tennis",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "track and field",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "track and field events",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "expatriates",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "christmas song",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "sports teams",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "popular_among",
+      "weight": 4,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "rural areas in chhattisgarh",
+      "relation_type": "popular_among",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "rural fairs",
+      "relation_type": "popular_in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "snacks",
+      "target_label": "algerian visitors",
+      "relation_type": "popular_among",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "people from other countries",
+      "relation_type": "popular_among",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "popular_sport",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "source_label": "soccer",
+      "target_label": "algeria",
+      "relation_type": "popular_sport",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "popular_in",
+      "weight": 4,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "food",
+      "target_label": "coastal regions",
+      "relation_type": "popular_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "source_label": "most famous sports-related movie",
+      "target_label": "algeria",
+      "relation_type": "popular_among",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 11,
+      "target": 2,
+      "source_label": "table tennis",
+      "target_label": "algeria",
+      "relation_type": "popular_sport",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 12,
+      "target": 2,
+      "source_label": "track and field",
+      "target_label": "algeria",
+      "relation_type": "popular_sport",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "source_label": "track and field events",
+      "target_label": "algeria",
+      "relation_type": "popular_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "food",
+      "target_label": "expatriates",
+      "relation_type": "popular_among",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "source_label": "ramadan",
+      "target_label": "algeria",
+      "relation_type": "popular_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 16,
+      "target": 2,
+      "source_label": "christmas song",
+      "target_label": "algeria",
+      "relation_type": "popular_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 8,
+      "target": 2,
+      "source_label": "soccer",
+      "target_label": "algeria",
+      "relation_type": "popular_among",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 17,
+      "target": 2,
+      "source_label": "sports teams",
+      "target_label": "algeria",
+      "relation_type": "popular_among",
+      "weight": 1,
+      "source_dataset": "blend"
+    }
+  ]
+}

@@ -1,0 +1,848 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 23
+    },
+    {
+      "id": 2,
+      "label": "moderate sahoor meals",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "fadi",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "light and simple suhoor",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "reliable lenders",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "milk with chocolate for breakfast",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "using cell phones during free time",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "koshari for lunch",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 11,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 14
+    },
+    {
+      "id": 12,
+      "label": "employee",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "better-paid, rewarding, and enjoyable jobs",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "peanut butter",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "german consumers",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 16,
+      "label": "self-bagging groceries",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "mobile apps and bank transfers",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "broadcasters",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "products",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "exact cash",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "university students",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 23,
+      "label": "settings",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 24,
+      "label": "sweet pastries",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "algerian seniors",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 27,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "soft drinks",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "females in algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "certain occupations",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 31,
+      "label": "males in algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "men from algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "women from algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "local products",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "traditional hotels",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "majors with high employability",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "retired women",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "relaxing environments",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "wedding attendees",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "vibrant outfits",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "chips/crisps with specific flavours",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "cost-effective meals",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "local vegetables",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "traditional toys",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "algerian girls",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "traditional dolls",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "virgin olive oil",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "beachgoers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "refreshing salads",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "olympic sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "ease of work",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "moderate sahoor meals",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "fadi",
+      "target_label": "light and simple suhoor",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "reliable lenders",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "milk with chocolate for breakfast",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "algeria",
+      "target_label": "using cell phones during free time",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "nile valley",
+      "target_label": "koshari for lunch",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "united states",
+      "target_label": "food",
+      "relation_type": "prefers",
+      "weight": 2,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "employee",
+      "target_label": "better-paid, rewarding, and enjoyable jobs",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "prefer",
+      "weight": 7,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "source_label": "united states",
+      "target_label": "peanut butter",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "german consumers",
+      "target_label": "self-bagging groceries",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 10,
+      "target": 17,
+      "source_label": "united states",
+      "target_label": "mobile apps and bank transfers",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "broadcasters",
+      "target_label": "products",
+      "relation_type": "refer_to",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "customer",
+      "target_label": "exact cash",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "university students",
+      "target_label": "settings",
+      "relation_type": "prefer",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 24,
+      "source_label": "algeria",
+      "target_label": "sweet pastries",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "algerian seniors",
+      "target_label": "traditional dishes",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 11,
+      "target": 26,
+      "source_label": "food",
+      "target_label": "traditional dishes",
+      "relation_type": "prefer_playing",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 26,
+      "source_label": "algeria",
+      "target_label": "traditional dishes",
+      "relation_type": "prefer_playing",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 27,
+      "source_label": "algeria",
+      "target_label": "gifts",
+      "relation_type": "prefer_playing",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 28,
+      "source_label": "algeria",
+      "target_label": "soft drinks",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "females in algeria",
+      "target_label": "certain occupations",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 31,
+      "target": 30,
+      "source_label": "males in algeria",
+      "target_label": "certain occupations",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 11,
+      "target": 1,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "refer_to",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 32,
+      "target": 11,
+      "source_label": "men from algeria",
+      "target_label": "food",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 33,
+      "target": 11,
+      "source_label": "women from algeria",
+      "target_label": "food",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 34,
+      "source_label": "german consumers",
+      "target_label": "local products",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 35,
+      "source_label": "algeria",
+      "target_label": "traditional hotels",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 36,
+      "source_label": "algeria",
+      "target_label": "majors with high employability",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "source_label": "retired women",
+      "target_label": "relaxing environments",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "source_label": "wedding attendees",
+      "target_label": "vibrant outfits",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 41,
+      "source_label": "algeria",
+      "target_label": "chips/crisps with specific flavours",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 42,
+      "source_label": "algeria",
+      "target_label": "cost-effective meals",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 43,
+      "source_label": "algeria",
+      "target_label": "local vegetables",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 11,
+      "target": 44,
+      "source_label": "food",
+      "target_label": "traditional toys",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "algerian girls",
+      "target_label": "traditional dolls",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 47,
+      "source_label": "algeria",
+      "target_label": "virgin olive oil",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "source_label": "beachgoers",
+      "target_label": "refreshing salads",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 50,
+      "source_label": "algeria",
+      "target_label": "olympic sports",
+      "relation_type": "prefer",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "source_label": "photographer",
+      "target_label": "ease of work",
+      "relation_type": "prefers",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

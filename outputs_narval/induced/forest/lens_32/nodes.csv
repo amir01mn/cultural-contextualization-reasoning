@@ -1,0 +1,27 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,burial,3,algeria,unknown,arabculture,1
+2,ritual,1,algeria,unknown,arabculture,3
+3,prayer time,3,egypt,unknown,arabculture,1
+4,dawn prayer,3,egypt,unknown,arabculture,1
+5,nile valley,1,egypt,unknown,arabculture,1
+6,hair washing tradition,3,egypt,unknown,arabculture,1
+7,新房布置,3,egypt,unknown,arabculture,1
+8,algeria,1,general,unknown,culturebank,4
+9,food,1,general,unknown,culturebank,3
+10,employee,1,general,unknown,culturebank,1
+11,dress code,3,general,unknown,culturebank,1
+12,audience,5,dz,unknown,blend,1
+13,popular sport commentator,3,dz,unknown,blend,1
+14,popular sports teams,3,dz,unknown,blend,1
+15,instructions,3,teacher,unknown,candle,1
+16,teacher,1,teacher,unknown,candle,1
+17,nurse,1,nurse,unknown,candle,3
+18,physician and medical staff,3,nurse,unknown,candle,1
+19,medication administration,3,nurse,unknown,candle,1
+20,politician,1,politician,unknown,candle,1
+21,campaign promises,3,politician,unknown,candle,1
+22,artist,1,artist,unknown,candle,2
+23,before tattoo,3,artist,unknown,candle,1
+24,after tattoo,3,artist,unknown,candle,1
+25,journalist,2,journalist,unknown,candle,1

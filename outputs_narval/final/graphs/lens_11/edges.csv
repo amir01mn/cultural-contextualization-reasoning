@@ -1,0 +1,203 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,3,dignified burial,algerian culture,reflects,1,arabculture
+4,5,visiting the grave,mourning rituals,reflects mourning rituals,1,arabculture
+7,1,dance,culture,reflects,1,arabculture
+8,9,reading stories before sleep,cultural practice,reflects,1,arabculture
+10,11,venkatagiri cotton,textiles,reflects,1,diwali
+12,13,apatani jacket and scarf,disciplined aesthetic,reflects,1,diwali
+14,15,tangsa lungis,tribal identity,reflects,1,diwali
+14,16,tangsa lungis,craftsmanship,reflects,1,diwali
+17,18,nyishi textile,cultural heritage,reflects,1,diwali
+19,20,gamosa,assamese culture,reflects,1,diwali
+21,22,riha,religious and cultural ceremonies,reflects,1,diwali
+23,24,dhokona,rich cultural heritage,reflects,1,diwali
+25,27,altar cloths,goa's christian heritage,reflects,1,diwali
+26,27,liturgical vestments,goa's christian heritage,reflects,1,diwali
+11,28,textiles,coastal heritage,reflects,1,diwali
+11,29,textiles,cultural diversity,reflects,1,diwali
+33,30,patola,vibrant colors,reflects,1,diwali
+33,31,patola,intricate patterns,reflects,1,diwali
+33,32,patola,motifs,reflects,1,diwali
+34,18,phulkari,cultural heritage,reflects,2,diwali
+36,37,cotton shawls,weaving traditions,reflects,1,diwali
+38,39,thapada,embroidery styles,reflects,1,diwali
+40,41,kinnauri shawl,intricate designs,reflects,1,diwali
+40,24,kinnauri shawl,rich cultural heritage,reflects,1,diwali
+43,44,chamba shawl,weaving excellence,reflects,1,diwali
+45,46,balaramapuram handloom,traditional aesthetic of kerala's weaving heritage,reflects,1,diwali
+47,48,kasaragod saree,weaving techniques,reflects,1,diwali
+49,50,chanderi saree,royal influences,reflects,1,diwali
+51,52,batik print,cultural tapestry of madhya pradesh,reflects,1,diwali
+53,54,nandana print,local folklore,reflects,1,diwali
+56,11,solapur chaddar,textiles,reflects,1,diwali
+58,59,kolhapuri sari,maharashtra,reflects,1,diwali
+60,61,phanek,cultural identity of the meitei community,reflects,1,diwali
+62,63,leirum phee,meitei marriage ceremonies,reflects,1,diwali
+64,65,samserla,traditional attire,reflects,1,diwali
+66,67,pawndum,cultural significance,reflects,1,diwali
+68,67,ngotekherh,cultural significance,reflects,1,diwali
+70,71,hmaram,heritage,reflects,1,diwali
+72,1,tsüngkotepsü,culture,reflects,1,diwali
+74,73,shawl,patterns,reflects,1,diwali
+75,76,bomkai saree,region's rich heritage,reflects,1,diwali
+77,78,kotpad handloom,tribal culture,reflects,1,diwali
+79,80,chola,simplicity and elegance,reflects,1,diwali
+81,82,parandi,vibrant and decorative crafts,reflects,1,diwali
+83,85,ajrakh,rich textile heritage,reflects,1,diwali
+86,87,tibetan influences,bhutia woolen weaves,reflects,1,diwali
+88,89,arani silk saree,skilled craftsmanship,reflects,1,diwali
+90,91,thirubuvanam silk saree,traditional weaving techniques,reflects,1,diwali
+92,1,toda embroidery,culture,reflects,1,diwali
+93,94,siddipet gollabhama sarees,rural ethos,reflects,1,diwali
+95,96,gongadi blanket,pastoral lifestyle,reflects,1,diwali
+97,98,pichhora,religious ceremonies,worn during,1,diwali
+97,99,pichhora,weddings,worn during,1,diwali
+97,100,pichhora,festivals,worn during,1,diwali
+31,101,intricate patterns,cotton weaving,reflects,1,diwali
+102,103,kullu shawls,tradition,reflects,1,diwali
+102,104,kullu shawls,contemporary fashion,reflects,1,diwali
+105,106,chikankari,mughal artistic influences,reflects,1,diwali
+107,108,jamdani,regional weaving traditions,reflects,1,diwali
+109,110,baluchari sari,mythological scenes,reflects,1,diwali
+111,114,kantha embroidery,rural women in west bengal,reflects,1,diwali
+115,1,traditional weaving,culture,reflects,1,diwali
+34,67,phulkari,cultural significance,reflects,1,diwali
+117,118,khes,utilitarian yet artistic weaving practices,reflects,1,diwali
+119,120,chikankari embroidery,aesthetic sensibilities,reflects,1,diwali
+121,122,namda,textile traditions,reflects,1,diwali
+123,124,pashmina wool,region's rich weaving traditions,reflects,1,diwali
+125,126,coir weaving,resourcefulness,reflects,1,diwali
+125,16,coir weaving,craftsmanship,reflects,1,diwali
+127,37,pondicherry handloom fabrics,weaving traditions,reflects,1,diwali
+129,130,palampore prints,rich history in textile trade,reflects,1,diwali
+131,132,tappeta gullu,rain god,reflects,1,diwali
+133,134,veeranatyam,religious significance,reflects,1,diwali
+135,136,bhagavata mela,religious festivals,reflects,1,diwali
+137,138,kalapam,moral and philosophical themes,reflects,1,diwali
+139,140,danda rasaka,martial traditions,reflects,1,diwali
+139,141,danda rasaka,martial readiness,reflects,1,diwali
+139,142,danda rasaka,community defense,reflects,1,diwali
+143,144,gondali,ritualistic dance,reflects,1,diwali
+145,146,aji lhamu,tibetan ramayana,reflects,1,diwali
+147,148,wancho dance,oriah festival,reflects,1,diwali
+149,150,hiirii khaniing,rituals and festivals,reflects,1,diwali
+151,152,rikham pada,community bonding,reflects,1,diwali
+151,18,rikham pada,cultural heritage,reflects,1,diwali
+154,155,bihu dance,rongali bihu festival,reflects,1,diwali
+156,24,bhortal nritya,rich cultural heritage,reflects,1,diwali
+158,100,chakhela dance,festivals,reflects,1,diwali
+159,160,wangala dance,post-harvest season,reflects,1,diwali
+161,162,hojagiri dance,skill and grace,reflects,1,diwali
+163,164,traditional drum-based dances,cultural events,reflects,1,diwali
+165,166,apsara-sabah,celestial beings,reflects,1,diwali
+168,167,banjar kekan,chomangkan festival,performs,1,diwali
+169,171,barpeta's bhortal nritya,barpeta's cultural heritage,reflects,2,diwali
+172,173,dhuliya dance,cultural and religious events,reflects,2,diwali
+174,18,tea folk dances,cultural heritage,reflects,2,diwali
+175,176,chomangkan dance,life and death,reflects,1,diwali
+177,178,deori bihu dance,harvest season,reflects,2,diwali
+179,180,tiwa damahi dance,end of harvest,reflects,2,diwali
+181,182,putola nach,mythological stories,reflects,2,diwali
+183,184,kalaigaon dance,local traditions,reflects,2,diwali
+185,186,goalparia dance,regional culture,reflects,2,diwali
+187,136,dhuliya bhaona,religious festivals,reflects,2,diwali
+188,189,rongker dance,village welfare,reflects,2,diwali
+190,191,baishagu dance,new year,reflects,1,diwali
+192,193,farkanti dance,depicting hunting and war victories,reflects,1,diwali
+194,195,nagara naam,religious gatherings,reflects,1,diwali
+196,197,moridhol dance,rhythmic patterns,reflects,1,diwali
+198,199,kamrupi lokgeet dance,local life,reflects,1,diwali
+200,201,jhumar,joy and nature,reflects,1,diwali
+202,100,natua,festivals,reflects,1,diwali
+205,150,gond naach,rituals and festivals,reflects,1,diwali
+206,98,bidapad naach,religious ceremonies,reflects,1,diwali
+207,178,kishan nritya,harvest season,reflects,1,diwali
+208,209,maao-pata dance,religious ceremony,reflects,1,diwali
+210,184,relo dance,local traditions,reflects,1,diwali
+212,213,phag dance,joy,reflects,1,diwali
+214,215,jharpat dance,rains,reflects,1,diwali
+216,18,mandri dance,cultural heritage,reflects,1,diwali
+217,100,murga nacha,festivals,reflects,1,diwali
+218,219,vasdeva dance,mythological tales,reflects,1,diwali
+220,100,fugdi,festivals,reflects,1,diwali
+221,100,dhalo,festivals,reflects,1,diwali
+222,223,shigmo,goan culture,reflects,1,diwali
+225,224,tribal folk dance,kunbi,reflects,1,diwali
+226,227,tiatr,social issues,reflects,1,diwali
+228,229,musall khel,hindu king,reflects,1,diwali
+230,231,dhangar dance,folk god bira deva,reflects,1,diwali
+232,1,folk dance,culture,reflects,1,diwali
+234,235,american flag,patriotism,reflects,1,culturebank
+236,237,gratitude,settings,reflects culture,1,culturebank
+238,239,paris syndrome,cultural differences,reflects,1,culturebank
+240,242,culture shock,difficulty adjusting to new cultural norms,reflects,1,culturebank
+241,243,frustration,forgetting cultural differences,reflects,1,culturebank
+244,235,pledge of allegiance,patriotism,reflects,1,culturebank
+245,246,greetings,social norms and etiquette,reflects,1,culturebank
+237,247,settings,amusement,reflects,1,culturebank
+237,248,settings,communication,reflects,1,culturebank
+237,249,settings,fit in,reflects,1,culturebank
+250,251,evolving playground design,changing perceptions of risk and safety,reflects,1,culturebank
+253,252,various methods for waste disposal,environmentally unfriendly,reflects,1,culturebank
+254,255,water pressure and toilet design,perception,reflects,1,culturebank
+256,257,natural beauty,united states,reflects,1,culturebank
+259,258,expressions,workplace,reflects,1,culturebank
+260,261,cash,convenience,reflects,1,culturebank
+260,262,cash,traceability,reflects,1,culturebank
+263,265,cold weather,discomfort and complain,reflects,1,culturebank
+267,268,homelessness,societal issue,reflects,1,culturebank
+269,270,expressions of emotion,romantic relationships,reflects,1,culturebank
+271,273,shopping hours,differences in shopping hours and store closures on sundays,reflects,1,culturebank
+272,273,store closures,differences in shopping hours and store closures on sundays,reflects,1,culturebank
+274,275,holidays,relaxation and enjoyment,reflects,1,culturebank
+276,278,misconceptions,lack of multicultural understanding,reflects,1,culturebank
+277,278,ignorance,lack of multicultural understanding,reflects,1,culturebank
+279,280,mother's day,"express love, gratitude, and make up for mistakes",reflects,1,culturebank
+281,282,distinction,race,reflects,1,culturebank
+281,283,distinction,ethnicity,reflects,1,culturebank
+281,284,distinction,nationality,reflects,1,culturebank
+287,288,normalcy,behaviors,reflects,1,culturebank
+289,290,personal freedom,autonomy,reflects,1,culturebank
+291,293,gun violence,perception of higher crime rates,reflects,1,culturebank
+292,294,higher crime rates,impact on safety and healthcare,reflects,1,culturebank
+295,296,apologizing,social interactions,reflects,1,culturebank
+297,257,respect,united states,reflects culture,1,culturebank
+299,300,open and legal use,relaxed attitude,reflects,1,culturebank
+304,301,summer,different names for things,reflects,1,culturebank
+304,302,summer,investing in fans,reflects,1,culturebank
+304,303,summer,following a summer schedule,reflects,1,culturebank
+305,306,gucci belts,societal issues,reflects,1,culturebank
+308,310,boy scouts,nature,reflects,1,culturebank
+309,310,girl scouts,nature,reflects,1,culturebank
+311,312,nodding head,customer service interactions and social situations,reflects culture,1,culturebank
+313,237,confusion,settings,reflects,1,culturebank
+314,257,capitalist society,united states,reflects,1,culturebank
+315,317,pursuit of happiness,perception of happiness and struggles,reflects,1,culturebank
+318,319,halloween,express gratitude and ensure safety,reflects,1,culturebank
+245,320,greetings,informal communication,reflects,1,culturebank
+321,322,societal and economic challenges,struggle,reflects,1,culturebank
+257,323,united states,sweet drinks,reflects,1,culturebank
+324,325,apologies,politeness,reflects,1,culturebank
+326,327,greeting,social norms,reflects,1,culturebank
+328,329,trucks,cultural symbol,reflects,1,culturebank
+330,257,naming practices,united states,reflects,1,culturebank
+331,332,air conditioning,france,reflects,1,culturebank
+334,335,cost-effective architecture,perception of beauty and ugliness,reflects,1,culturebank
+340,328,stereotypes,trucks,reflect,1,culturebank
+340,337,stereotypes,god,reflect,1,culturebank
+340,338,stereotypes,guns,reflect,1,culturebank
+340,339,stereotypes,obesity,reflect,1,culturebank
+341,342,sports,covid-19 pandemic,reflects,1,blend
+343,344,reflection,engagement,reflects,1,candle
+347,345,teacher,guidance,reflects,1,candle
+347,346,teacher,support,reflects,1,candle
+347,348,teacher,classroom discipline,reflects,1,candle
+350,351,banker,rituals,reflects,1,candle
+352,353,nurses' week,national celebration,reflects,1,candle
+354,351,performance review,rituals,reflects,1,candle
+355,356,campaign,govern,reflects,1,candle
+356,355,govern,campaign,reflects,1,candle
+357,358,cutting ribbon,announcing new deals and consolidating power,reflects,1,candle
+359,360,family portraits,professional photographer,reflects,1,candle
+361,362,ceremony,stationary,reflects,1,candle
+364,365,artist,performance,reflects,1,candle

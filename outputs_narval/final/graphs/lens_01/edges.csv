@@ -1,0 +1,467 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,family gathering,sitting in the living room,performs,1,arabculture
+3,4,activities,friends,uses,1,arabculture
+5,6,smir,video games,enjoys playing,1,arabculture
+7,8,ali and his friends,traditional games,performs,1,arabculture
+10,11,rhythmic dance,tizi ozou,performs,1,arabculture
+12,13,women,dance,performs,1,arabculture
+14,15,labas,dress,uses,1,arabculture
+17,18,algerians,ramadan,performs,1,arabculture
+17,20,algerians,independence day,celebrates,1,arabculture
+21,22,algeria,day of the flag,performs,1,arabculture
+23,24,students,university dormitory,use,1,arabculture
+17,25,algerians,family trips,performs,1,arabculture
+26,27,children,game,performs,1,arabculture
+29,28,mohammed,playing,plays,1,arabculture
+9,26,games,children,performs,1,arabculture
+21,30,algeria,dances,performs,1,arabculture
+31,32,algerian dances,dances from kabylie region,performs,1,arabculture
+31,21,algerian dances,algeria,performs,1,arabculture
+34,35,brothers,sitting together,performs,1,arabculture
+34,36,brothers,outside,spends time,1,arabculture
+37,38,girls,rachel,girls perform,1,arabculture
+39,40,zawaj dance,zawaj,performed during,1,arabculture
+39,41,zawaj dance,couple,performed by,1,arabculture
+42,44,men,group,uses,1,arabculture
+12,44,women,group,uses,1,arabculture
+46,47,parents,arjoohat,perform,1,arabculture
+27,48,game,home,performed in,1,arabculture
+26,49,children,salamander snake game,plays,1,arabculture
+26,27,children,game,plays,1,arabculture
+50,52,child,back,stands on,1,arabculture
+26,53,children,electricity game,plays,1,arabculture
+53,54,electricity game,chase,is a form of,1,arabculture
+26,55,children,statue game,performs,1,arabculture
+57,56,shab,nai,performs,1,arabculture
+58,59,france,musicians,uses,1,arabculture
+60,61,tannura,mawlid,performs,1,arabculture
+62,63,people,bedouin dance,performs,1,arabculture
+66,64,father,repair,uses,1,arabculture
+67,68,siblings,school,go to,1,arabculture
+69,70,sons,play,performs,1,arabculture
+46,26,parents,children,take out,1,arabculture
+41,10,couple,rhythmic dance,performs,1,arabculture
+72,73,playing football,the boys,performs,1,arabculture
+74,9,wael and his friends,games,plays,1,arabculture
+75,76,mohamed,stone-paper-scissors,performs,1,arabculture
+26,77,children,musical chairs,plays,1,arabculture
+78,79,monpa woolen weave,woolen textiles,uses,1,diwali
+80,81,wancho bag,weaving,performs,1,diwali
+82,83,tagin weave,tagin tribe,performs,1,diwali
+84,85,mekhela chador,muga silk,made from,1,diwali
+84,86,mekhela chador,eri silk,made from,1,diwali
+84,87,mekhela chador,pat silk,made from,1,diwali
+88,89,riha,mekhela,worn under,1,diwali
+90,91,miri jimo,handwoven fabric,is,1,diwali
+90,92,miri jimo,garments and accessories,used to make,1,diwali
+93,94,bastar tribal weaves,festivals,performs,1,diwali
+93,30,bastar tribal weaves,dances,performs,1,diwali
+93,95,bastar tribal weaves,marriages,performs,1,diwali
+96,97,dhurrie,flat rugs or carpets,used for,1,diwali
+98,99,chamba shawl,weaving excellence,reflects,1,diwali
+100,101,sohrai and khovar paintings,tribal women,performed by,1,diwali
+102,104,paitkar painting,stories from local folklore and mythology,depicts,1,diwali
+102,103,paitkar painting,textiles,adapted onto,1,diwali
+105,107,mundum neriyathum,mundu,consists of,1,diwali
+105,108,mundum neriyathum,neriyathu,consists of,1,diwali
+105,109,mundum neriyathum,white,includes,1,diwali
+105,110,mundum neriyathum,cream,includes,1,diwali
+105,111,mundum neriyathum,colored,includes,1,diwali
+105,112,mundum neriyathum,golden,includes,1,diwali
+105,113,mundum neriyathum,malayali women,worn by,1,diwali
+105,114,mundum neriyathum,cultural events,worn during,1,diwali
+105,115,mundum neriyathum,religious events,worn during,1,diwali
+116,117,batik print,madhya pradesh,practices,1,diwali
+118,119,shaphee lanphee,shawl,uses,1,diwali
+120,124,tribal shawl,cultural heritage,performs,1,diwali
+120,125,tribal shawl,social status,performs,1,diwali
+126,127,lasingphee,fabric,made from,1,diwali
+126,128,lasingphee,vibrant colors and patterns,features,1,diwali
+126,129,lasingphee,quilts,is,1,diwali
+130,131,ryndia,shawls,used to create,1,diwali
+130,132,ryndia,garments,used to create,1,diwali
+133,134,dakmanda,wrap-around skirt,performs,1,diwali
+135,136,jainsem,hand-woven fabrics,made from,1,diwali
+135,137,jainsem,cultural attire,reflects,1,diwali
+138,136,dhara,hand-woven fabrics,made from,1,diwali
+139,140,puanchei,festive occasions,performs,1,diwali
+139,30,puanchei,dances,performs,1,diwali
+141,142,loin loom weaving,puan,performs,1,diwali
+144,143,teri phiketsu,headhunting ceremonies,performed during,1,diwali
+141,131,loin loom weaving,shawls,performs,1,diwali
+141,132,loin loom weaving,garments,performs,1,diwali
+96,148,dhurrie,homes,used in,1,diwali
+149,150,bagru block print,chhipa community,performed by,1,diwali
+151,152,lepcha thara,thara,performs,1,diwali
+153,154,rasipuram silk saree,traditional textile repertoire,part of,1,diwali
+155,103,rasipuram sarees,textiles,participate in,1,diwali
+158,159,risa sormani,transition to womanhood,marks,1,diwali
+160,161,tuisa,handwoven textile,uses,1,diwali
+162,163,loi,weaving traditions,reflects,1,diwali
+164,165,pichhora,kumaoni women,worn by,1,diwali
+103,167,textiles,accessories,includes,1,diwali
+103,168,textiles,mats,includes,1,diwali
+103,169,textiles,ropes,includes,1,diwali
+103,170,textiles,lightweight rustic fabrics,includes,1,diwali
+171,173,silk weaving,uttarakhand's artisans,performs,1,diwali
+172,173,handloom weaving,uttarakhand's artisans,performs,1,diwali
+174,175,phool patti ka kaam,appliqué embroidery,performs,1,diwali
+176,177,murshidabad sari,hand-painted design,features,1,diwali
+176,178,murshidabad sari,block-printed design,features,1,diwali
+179,182,nicobari pandanus mats,crafting mats,performs,1,diwali
+183,184,nicobari banners,white cotton fabric,are made from,1,diwali
+183,185,nicobari banners,appliqué,include,1,diwali
+183,186,nicobari banners,embroidery,include,1,diwali
+183,187,nicobari banners,trees,include,1,diwali
+183,188,nicobari banners,sun,include,1,diwali
+183,189,nicobari banners,crescent moon,include,1,diwali
+183,190,nicobari banners,red cloth,include,1,diwali
+183,191,nicobari banners,local ceremonies,used in,1,diwali
+192,193,ari embroidery,intricate needlework,performs,1,diwali
+194,195,kuchipudi,graceful movements and expressive storytelling,performs,1,diwali
+196,197,vilasini natyam,devadasis,performed by,1,diwali
+198,199,bhamakalapam,satyabhama's tales,performs,1,diwali
+198,200,bhamakalapam,feminine movements,performs,1,diwali
+201,202,burrakatha,storytelling dance,performs,1,diwali
+203,204,butta bommalu,folk dance,performs,1,diwali
+205,206,tholu bommalaata,epic episodes,depicts,1,diwali
+207,208,dappu,percussive dance,performs,1,diwali
+209,210,tappeta gullu,devotional dance,performs,1,diwali
+211,213,lambadi,tribal dance,performs,1,diwali
+212,211,banjaras,lambadi,depicting daily tasks,1,diwali
+215,216,kolatam,rhythmic movements,performs,2,diwali
+215,217,kolatam,songs,performs,2,diwali
+215,218,kolatam,music,performs,2,diwali
+219,220,dhimsa,unity,promotes,1,diwali
+221,13,perini sivatandavam,dance,performs,1,diwali
+222,194,bhagavata mela,kuchipudi,performs,1,diwali
+224,225,bonalu dance,bonalu festival,performed during,1,diwali
+226,204,gollakalapam,folk dance,performs,1,diwali
+227,228,kalapam,dance-drama,performs,1,diwali
+229,213,chenchu bhagotham,tribal dance,performs,1,diwali
+230,231,suddha nartana,intricate footwork and rhythms,focuses on,1,diwali
+232,13,carcari,dance,performs,1,diwali
+233,234,rasaka,playful interactions,depicting,1,diwali
+233,235,rasaka,divine love stories,associated with,1,diwali
+236,210,shiva priya,devotional dance,performs,1,diwali
+237,238,kanduka nartana,ball games,performs,1,diwali
+237,239,kanduka nartana,agility and coordination,values,1,diwali
+240,204,bhandika nrityam,folk dance,performs,1,diwali
+241,13,carana nrityam,dance,performs,1,diwali
+242,243,chindu bhagavatham,folk dance-drama,performs,1,diwali
+244,245,perani,ancient dance form,performs,1,diwali
+246,247,prenkhana,festivities,performed during,1,diwali
+230,248,suddha nartana,pure dance,performs,1,diwali
+232,249,carcari,religious occasions,performed during,1,diwali
+236,250,shiva priya,tandava,performs,1,diwali
+237,13,kanduka nartana,dance,performs,1,diwali
+240,13,bhandika nrityam,dance,performs,1,diwali
+241,251,carana nrityam,foot-centric dance,performs,1,diwali
+252,204,chindu,folk dance,performs,1,diwali
+253,254,gondali,ritualistic dance,performs,1,diwali
+255,256,aji lhamu,monpa folk dance,performs,1,diwali
+258,259,ponung dance,adi women,performed by,1,diwali
+258,260,ponung dance,praying for good harvest,performed for,1,diwali
+261,262,daminda dance,dree festival,performs,1,diwali
+263,264,rikham pada,nyishi dance,performs,1,diwali
+265,266,buiya dance,digaru mishmi dance,performs,1,diwali
+265,267,buiya dance,festivals and gatherings,performs,1,diwali
+268,269,chalo dance,nocte dance,performs,1,diwali
+270,271,pasi kongki,adi dance,performs,1,diwali
+272,273,popir dance,galos,performs,1,diwali
+272,274,popir dance,goddess mopin ape,performs,1,diwali
+275,276,bardo chham,sherdukpen dance,performs,1,diwali
+277,278,hiirii khaniing,apatani dance,performs,1,diwali
+279,280,roppi,ningishing community,performed by,1,diwali
+281,282,rekham pada,nishing dance,performs,1,diwali
+284,285,hurkan dance,joy and unity,symbolizes,1,diwali
+286,284,apatanis,hurkan dance,performs,1,diwali
+263,287,rikham pada,nishi tribe,performs,1,diwali
+288,289,bihu dance,assamese new year,performs,1,diwali
+290,291,sattriya nritya,classical dance-drama,performs,1,diwali
+292,293,bagurumba,bwisagu festival,performed during,1,diwali
+294,295,deodhani dance,snake goddess manasa,performs,1,diwali
+296,297,jhumur dance,unity and joy,symbolizes,1,diwali
+298,299,ali ai ligang dance,sowing festival,performed during,1,diwali
+300,302,rabha dance,community celebrations,performed during,1,diwali
+303,254,kherai dance,ritualistic dance,performs,1,diwali
+303,305,kherai dance,blessings,performs,1,diwali
+306,204,chakhela dance,folk dance,performs,1,diwali
+308,309,wangala dance,garo tribe,performed by,1,diwali
+310,311,hojagiri dance,reang community,performs,1,diwali
+312,314,dhuliya,traditional drum-based dances,performs,1,diwali
+313,314,bhawariya,traditional drum-based dances,performs,1,diwali
+315,316,zikirs,devotional songs and dances,performs,1,diwali
+317,13,apsara-sabah,dance,performs,1,diwali
+318,319,ankia naat,vaishnavite dance-drama,performs,1,diwali
+321,320,banjar kekan,community bonding,symbolizes,1,diwali
+322,323,beula dance,legend of beula and lakhindar,performs,1,diwali
+324,325,ka shad inglong kardom,rituals,performed during,2,diwali
+326,327,nimso kerung,ali ai ligang festival,performed during,2,diwali
+329,228,ras leela,dance-drama,performs,2,diwali
+329,94,ras leela,festivals,performs during,2,diwali
+330,331,phalguni dance,springtime,performs,1,diwali
+332,333,domahi dance,agricultural dance,performs,2,diwali
+334,335,dhuliya dance,drum-based dance,performs,2,diwali
+336,210,nagara naam,devotional dance,performs,2,diwali
+338,339,chomangkan dance,death rituals,performs,1,diwali
+340,341,thengal kachari dance,community events,performs,2,diwali
+342,94,sonowal kachari dance,festivals,performed during,2,diwali
+343,288,deori bihu dance,bihu dance,performs,2,diwali
+345,346,tiwa damahi dance,tiwa tribe,performs,2,diwali
+347,13,moridhol dance,dance,performs,1,diwali
+348,349,dhuliya gayan-bayan,song and drum dance,performs,2,diwali
+350,351,putola nach,puppet dance-theatre,performs,2,diwali
+352,353,jikir and jari,azan fakir,performed by,2,diwali
+352,316,jikir and jari,devotional songs and dances,performs,2,diwali
+354,204,goalparia dance,folk dance,performs,2,diwali
+355,356,dhuliya bhaona,drum-based dance-drama,performs,2,diwali
+357,358,rongker dance,karbi community's dance,performs,1,diwali
+359,360,bathow puja dance,bodo tribe,performed by,2,diwali
+359,361,bathow puja dance,bathow festival,performed during,2,diwali
+359,362,bathow puja dance,lord shiva,worshipping,1,diwali
+363,254,garja dance,ritualistic dance,performs,1,diwali
+364,365,baishagu dance,baishagu festival,performs,2,diwali
+366,367,thapona dance,religious rituals,performed during,2,diwali
+368,213,farkanti dance,tribal dance,performs,1,diwali
+369,341,hmar dance,community events,performs,1,diwali
+370,371,karbi dance,festival,performed during,1,diwali
+338,339,chomangkan dance,death rituals,performed during,1,diwali
+321,370,banjar kekan,karbi dance,performs,1,diwali
+322,373,beula dance,legend,performs,1,diwali
+328,374,ojapali,narrative dance form,performs,1,diwali
+328,367,ojapali,religious rituals,associated with,1,diwali
+330,331,phalguni dance,springtime,performed during,1,diwali
+347,375,moridhol dance,traditional drums,performs,1,diwali
+357,13,rongker dance,dance,performs,1,diwali
+359,362,bathow puja dance,lord shiva,worship,1,diwali
+376,115,dhuliya ojapali,religious events,performed during,1,diwali
+378,379,jat-jatin,love and sorrow,performs,1,diwali
+380,12,jhijhiya,women,performed by,1,diwali
+12,380,women,jhijhiya,perform,1,diwali
+381,382,domkach,ceremonial dance,performs,1,diwali
+383,384,fagua,holi,performed during,1,diwali
+385,386,paika,martial dance,performs,1,diwali
+387,388,jhumar,rural women,performed by,1,diwali
+389,390,karma,karam festival,performs,1,diwali
+391,204,sohar-khilona,folk dance,performs,1,diwali
+392,12,jumari,women,performed by,1,diwali
+394,204,kajri,folk dance,performs,1,diwali
+396,397,chhau,"tribal martial dance with masks, depicting mythological stories",performs,1,diwali
+398,399,jatra,folk theatre,performs,1,diwali
+400,401,natua,acrobatic dance,performs,1,diwali
+402,13,dhobi naach,dance,performs,1,diwali
+403,404,manjhi,boatmen community,performs,1,diwali
+405,213,gond naach,tribal dance,performs,1,diwali
+406,407,jharni,rhythmic movements and songs,performs,1,diwali
+408,409,more morni,peacock movements,performs,1,diwali
+408,395,more morni,monsoon,performed during,1,diwali
+411,412,kathghorwa naach,wooden horse props,performs,1,diwali
+413,414,launda naach,male performers,performed by,1,diwali
+415,384,bamar naach,holi,performed during,1,diwali
+406,416,jharni,storytelling,performs,1,diwali
+406,218,jharni,music,performs,1,diwali
+417,418,natua naach,acrobatic dance form,performs,1,diwali
+419,204,bidapad naach,folk dance,performs,1,diwali
+420,421,sohrai naach,sohrai festival,performed during,1,diwali
+420,422,sohrai naach,harvest,performs,1,diwali
+420,423,sohrai naach,cattle,performs,1,diwali
+424,425,chhau dance,tribal martial dance,performs,1,diwali
+424,426,chhau dance,depicting mythological stories,performs,1,diwali
+427,399,jatra dance,folk theatre,performs,1,diwali
+428,386,paika dance,martial dance,performs,1,diwali
+429,204,kishan nritya,folk dance,performs,1,diwali
+430,431,panthi dance,maghi purnima,performed during,1,diwali
+433,434,karma dance,karma festival,performed during,1,diwali
+435,13,pandavani,dance,performs,1,diwali
+436,437,suwa dance,goura marriage celebrations,performed during,1,diwali
+438,439,saila dance,young boys,performed by,1,diwali
+440,401,gendi dance,acrobatic dance,performs,1,diwali
+442,444,chaitra dance,chaitra month,performed during,1,diwali
+445,204,khamba swang,folk dance,performs,1,diwali
+446,448,bhatra naat,community gatherings,performed during,1,diwali
+449,450,rahas dance,rural life,depicting,1,diwali
+451,12,raai dance,women,performed by,1,diwali
+452,254,maao-pata dance,ritualistic dance,performs,1,diwali
+453,213,mandari dance,tribal dance,performs,1,diwali
+455,456,jhumar dance,weddings,performed during,1,diwali
+455,140,jhumar dance,festive occasions,performed during,1,diwali
+457,341,bilma dance,community events,performed during,1,diwali
+458,459,nacha dance,folk theatre combining dance and drama,performs,1,diwali
+460,461,bharthari dance,tale of king bharthari,performs,1,diwali
+460,218,bharthari dance,music,performs with,1,diwali
+462,463,chandaini dance,romantic tales,performs,1,diwali
+464,465,relo dance,children's dance,performs,1,diwali
+466,467,danda nacha,stick dance,performs,1,diwali
+468,384,ger dance,holi,performed during,1,diwali
+469,470,thadiya dance,spring,performed during,1,diwali
+471,472,parab dance,festival dance,performs,1,diwali
+471,473,parab dance,important events,marks,1,diwali
+474,475,dhankul dance,baiga tribe,performed by,1,diwali
+474,476,dhankul dance,worship ceremonies,performed during,1,diwali
+477,478,phag dance,springtime dance,performs,1,diwali
+479,456,reena dance,weddings,performed during,1,diwali
+480,204,tapadi dance,folk dance,performs,1,diwali
+481,482,garba dance,navratri,performed during,1,diwali
+483,395,jharpat dance,monsoon,performed during,1,diwali
+484,12,leja dance,women,performed by,1,diwali
+485,213,mandri dance,tribal dance,performs,1,diwali
+486,204,murga nacha,folk dance,performs,1,diwali
+487,416,nach madai,storytelling,performs,1,diwali
+487,13,nach madai,dance,performs,1,diwali
+488,12,rai dance,women,performed by,1,diwali
+489,456,rina dance,weddings,performed during,1,diwali
+490,388,thapti dance,rural women,performed by,1,diwali
+490,492,thapti dance,rhythmic clapping,performed with,1,diwali
+493,494,vasdeva dance,vasdeva community,performed by,1,diwali
+495,496,yadav nacha,traditional dance,performs,1,diwali
+497,12,dekhni,women,performed by,1,diwali
+498,12,fugdi,women,performed by,1,diwali
+499,500,dhalo,graceful movements,performs,1,diwali
+502,504,talgadi,ghumat beats,performed during,1,diwali
+502,503,talgadi,dandiya dance,performs,1,diwali
+505,506,mando,love and tragedy,expresses,1,diwali
+507,508,corridinho,celebrations,performed during,1,diwali
+509,510,dashavatara,ten incarnations of lord vishnu,performs,1,diwali
+511,512,musall khel,christian community,performed by,1,diwali
+513,204,zagor,folk dance,performs,1,diwali
+514,515,lamp dance,shigmo festival,performed during,1,diwali
+516,517,veerbhadra,religious ceremonies,performed during,1,diwali
+518,94,romat,festivals,performed during,1,diwali
+519,409,morulem,peacock movements,performs,1,diwali
+520,517,bhandap,religious ceremonies,performs during,1,diwali
+521,522,dhangar dance,shepherd community,performed by,1,diwali
+523,204,tonya mel,folk dance,performs,1,diwali
+524,525,dasarawadan,folk performance,performs,1,diwali
+148,526,homes,shoes,remove,1,culturebank
+527,529,daycare settings,affordable childcare,uses,1,culturebank
+530,527,united states,daycare settings,uses,1,culturebank
+530,528,united states,home-like settings,uses,1,culturebank
+531,533,child-rearing activities,family-friendly atmospheres,emphasizing,1,culturebank
+532,531,child and dog-friendly culture,child-rearing activities,includes,1,culturebank
+534,537,easter celebrations,giving gift baskets,perform,1,culturebank
+534,538,easter celebrations,eating traditional food,perform,1,culturebank
+534,539,easter celebrations,participating in egg hunts,perform,1,culturebank
+540,541,pledge of allegiance,schools,performed in,1,culturebank
+543,544,compliments,social interaction,performs,1,culturebank
+545,544,giving compliments,social interaction,performs,1,culturebank
+546,548,overeating,thanksgiving,performs,1,culturebank
+547,548,fall asleep,thanksgiving,performs,1,culturebank
+549,551,dating,a series of behaviors,performs,1,culturebank
+550,551,marriage,a series of behaviors,performs,1,culturebank
+552,553,shopping cart,parking lot,used in,1,culturebank
+554,555,walking,public spaces,performs,1,culturebank
+561,557,halloween celebrations,dressing up,performs,1,culturebank
+561,558,halloween celebrations,carving pumpkins,performs,1,culturebank
+561,559,halloween celebrations,giving out candy,performs,1,culturebank
+561,560,halloween celebrations,trick-or-treating,performs,1,culturebank
+562,530,phrases,united states,use,1,culturebank
+3,530,activities,united states,use,1,culturebank
+563,564,drivers,pedestrians,slow down and stop for,1,culturebank
+564,565,pedestrians,crosswalks,have the right of way in crosswalks,1,culturebank
+563,564,drivers,pedestrians,are expected to yield,1,culturebank
+541,568,schools,lunch breaks,performs,1,culturebank
+26,569,children,independence,sign of,1,culturebank
+570,530,early bedtime routines,united states,adhere to,1,culturebank
+570,571,early bedtime routines,school schedules,associated with,1,culturebank
+573,572,jokes,humor,performs,1,culturebank
+574,572,laughter,humor,performs,1,culturebank
+576,575,clubs,nightlife activities,perform,1,culturebank
+576,577,clubs,2am,close at,1,culturebank
+576,578,clubs,6am,extend to,1,culturebank
+580,579,national holidays,holidays,actively celebrate,1,culturebank
+581,579,specific locations like florida,holidays,actively celebrate,1,culturebank
+582,583,drinking,social gatherings,performs,1,culturebank
+582,584,drinking,nightlife,performs,1,culturebank
+585,588,underground structures,building,uses,1,culturebank
+585,589,underground structures,considering,uses,1,culturebank
+585,590,underground structures,having,uses,1,culturebank
+591,592,transporting dogs,cars,performs,1,culturebank
+591,593,transporting dogs,cages,performs,1,culturebank
+591,594,transporting dogs,truck beds,performs,1,culturebank
+595,597,morning work hours,engage in hard work,performs,1,culturebank
+596,597,late night work hours,engage in hard work,performs,1,culturebank
+598,599,houses,natural disasters,uses,1,culturebank
+600,602,museums,significant part of cultural heritage and education,are considered,1,culturebank
+600,601,museums,free,uses,1,culturebank
+600,603,museums,fees,uses,1,culturebank
+604,607,join,military,performs,1,culturebank
+605,607,rank,military,performs,1,culturebank
+606,607,serve,military,performs,1,culturebank
+608,610,living with roommates,strategies,uses,1,culturebank
+609,610,comparing prices,strategies,uses,1,culturebank
+611,612,critical discussions,education system,questioning its rigor,1,culturebank
+611,612,critical discussions,education system,expressing confusion,1,culturebank
+613,614,interviewer,interviewee,asks questions,1,culturebank
+614,613,interviewee,interviewer,answers questions,1,culturebank
+614,613,interviewee,interviewer,shares personal information,1,culturebank
+615,618,parades,celebrate independence day,performs,1,culturebank
+616,618,fireworks,celebrate independence day,performs,1,culturebank
+617,618,flag displays,celebrate independence day,performs,1,culturebank
+619,622,open communication,engaging in open communication,performs,1,culturebank
+620,622,asking questions,engaging in open communication,performs,1,culturebank
+621,622,providing information,engaging in open communication,performs,1,culturebank
+623,625,billing considerations,includes billing and privacy considerations,performs,1,culturebank
+624,625,privacy considerations,includes billing and privacy considerations,performs,1,culturebank
+23,627,students,teachers,use informal and preferred names,1,culturebank
+23,628,students,first names,address teachers by their first names,1,culturebank
+629,630,warm culture,rules,uses,1,culturebank
+629,631,warm culture,heat adaptation,uses,1,culturebank
+632,633,restaurants,save food for later consumption,perform,1,culturebank
+634,635,videos,topics,covers,1,culturebank
+549,638,dating,casual dating,includes,1,culturebank
+549,636,dating,long-term relationships,includes,1,culturebank
+549,550,dating,marriage,includes,1,culturebank
+555,639,public spaces,robots,uses,1,culturebank
+549,641,dating,establish a solid and lasting relationship,performs,1,culturebank
+642,644,media,stereotypes,perpetuate,1,culturebank
+643,644,popular culture,stereotypes,respond to,1,culturebank
+645,646,cupid shuffle dance,parties,performed in,1,culturebank
+645,541,cupid shuffle dance,schools,performed in,1,culturebank
+62,647,people,new year's day,performs,1,blend
+62,649,people,christmas,celebrates,1,blend
+650,651,indoor activity,families,performed by,1,blend
+652,68,team sport,school,performed at,1,blend
+42,654,men,sports,performs,1,blend
+655,654,male students,sports,play,1,blend
+657,658,elementary school student,go to school,go to school,1,blend
+659,660,university festivals,look forward to,performs,1,blend
+661,662,elementary school students,sport,perform,1,blend
+42,654,men,sports,watch,1,blend
+663,664,males,leisure activity,performs,1,blend
+665,20,people from algeria,independence day,celebrates,1,blend
+21,666,algeria,martial art sports,performs,1,blend
+668,669,soccer supporters,rivalry,performs,1,blend
+670,662,female badminton player,sport,performs,1,blend
+37,672,girls,physical education classes,participate in,1,blend
+673,662,volleyball player,sport,performs,1,blend
+675,674,food,watching games,performs,1,blend
+676,654,middle-aged population,sports,performs,1,blend
+677,678,family,eid festivities,gather for,1,blend
+651,8,families,traditional games,play,1,blend
+681,682,martial arts player,martial arts,performs,1,blend
+683,21,track and field event,algeria,performs,1,blend
+21,684,algeria,table tennis,performs,1,blend
+685,687,bad behavior,punishment,performs,1,blend
+68,688,school,managing behavior,performs,1,blend
+21,689,algeria,educational system,performs,1,blend
+690,21,traditional sport,algeria,performed in,1,blend
+691,692,beach volleyball,beach,performed during,1,blend
+693,583,card game,social gatherings,performed during,1,blend
+694,20,celebrate,independence day,performs,1,blend
+696,698,seniors,activities in parks,perform,1,blend
+699,654,parents and children,sports,play together,1,blend
+26,700,children,soccer,play,1,blend
+701,702,activity,weekends,performed during,1,blend
+704,703,evening,family activity,performs,1,blend
+705,706,teacher,write,performs,1,candle
+44,708,group,perform,performs,1,candle
+23,627,students,teachers,bow to,1,candle
+705,711,teacher,teaching,performs,1,candle
+712,713,nurse,assessment,performs,1,candle
+714,715,dentist,oral cancer screening,performs,1,candle
+714,717,dentist,peroxide,applies,1,candle
+718,27,politician,game,plays,1,candle
+718,719,politician,parade,performs,1,candle
+721,720,professional photographer,photograph,performs,1,candle
+724,725,attorney,deliver argument,performs,1,candle

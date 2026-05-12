@@ -1,0 +1,127 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            <script src="lib/bindings/utils.js"></script>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+<!-- <link rel="stylesheet" href="../node_modules/vis/dist/vis.min.css" type="text/css" />
+<script type="text/javascript" src="../node_modules/vis/dist/vis.js"> </script>-->
+        <link
+          href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+          crossorigin="anonymous"
+        />
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 900px;
+                 background-color: #1a1a2e;
+                 border: 1px solid lightgray;
+                 position: relative;
+                 float: left;
+             }
+
+             
+
+             
+
+             
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+        
+        
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                  // parsing and collecting nodes and edges from the python
+                  nodes = new vis.DataSet([{"color": "#1a1aff", "font": {"color": "white"}, "id": 0, "label": "human", "shape": "dot", "size": 40, "title": "\u003cb\u003ehuman\u003c/b\u003e\u003cbr\u003eLevel: 0 (Root)\u003cbr\u003eGroup: universal\u003cbr\u003eDomain: identity\u003cbr\u003eSource: schema\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 1, "label": "big party", "shape": "dot", "size": 10, "title": "\u003cb\u003ebig party\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 2, "label": "bride\u0027s house", "shape": "dot", "size": 12, "title": "\u003cb\u003ebride\u0027s house\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: egypt\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: arabculture\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 3, "label": "riha", "shape": "dot", "size": 14, "title": "\u003cb\u003eriha\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 4, "label": "intricate designs", "shape": "dot", "size": 12, "title": "\u003cb\u003eintricate designs\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: assam\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 2"}, {"color": "#888888", "font": {"color": "white"}, "id": 5, "label": "dhurrie", "shape": "dot", "size": 12, "title": "\u003cb\u003edhurrie\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: haryana\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 6, "label": "vibrant colors and geometric designs", "shape": "dot", "size": 20, "title": "\u003cb\u003evibrant colors and geometric designs\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: haryana\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 2"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 7, "label": "leirum phee", "shape": "dot", "size": 14, "title": "\u003cb\u003eleirum phee\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: manipur\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 8, "label": "red and black patterns", "shape": "dot", "size": 12, "title": "\u003cb\u003ered and black patterns\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: manipur\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 9, "label": "white base", "shape": "dot", "size": 12, "title": "\u003cb\u003ewhite base\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: manipur\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 10, "label": "dakmanda", "shape": "dot", "size": 14, "title": "\u003cb\u003edakmanda\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: garo women\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 11, "label": "raw cotton", "shape": "dot", "size": 10, "title": "\u003cb\u003eraw cotton\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: garo women\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 12, "label": "dhara", "shape": "dot", "size": 14, "title": "\u003cb\u003edhara\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: meghalaya\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 13, "label": "single piece of material", "shape": "dot", "size": 12, "title": "\u003cb\u003esingle piece of material\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: meghalaya\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 14, "label": "tribal patterns", "shape": "dot", "size": 12, "title": "\u003cb\u003etribal patterns\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: nagaland\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 15, "label": "colors", "shape": "dot", "size": 12, "title": "\u003cb\u003ecolors\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: nagaland\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 16, "label": "textiles", "shape": "dot", "size": 20, "title": "\u003cb\u003etextiles\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: nagaland\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 17, "label": "dhurrie", "shape": "dot", "size": 10, "title": "\u003cb\u003edhurrie\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: punjab\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 18, "label": "wooden blocks", "shape": "dot", "size": 12, "title": "\u003cb\u003ewooden blocks\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: rajasthan\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 19, "label": "fabric", "shape": "dot", "size": 12, "title": "\u003cb\u003efabric\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: rajasthan\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 20, "label": "lepcha thara", "shape": "dot", "size": 14, "title": "\u003cb\u003elepcha thara\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: sikkim\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 21, "label": "vibrant colors", "shape": "dot", "size": 12, "title": "\u003cb\u003evibrant colors\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: sikkim\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 22, "label": "intricate patterns", "shape": "dot", "size": 12, "title": "\u003cb\u003eintricate patterns\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: sikkim\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 23, "label": "risa", "shape": "dot", "size": 14, "title": "\u003cb\u003erisa\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: tripura\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 24, "label": "upper garment", "shape": "dot", "size": 20, "title": "\u003cb\u003eupper garment\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: tripura\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 25, "label": "headgear", "shape": "dot", "size": 20, "title": "\u003cb\u003eheadgear\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: tripura\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 26, "label": "tuisa", "shape": "dot", "size": 14, "title": "\u003cb\u003etuisa\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: tripura\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 27, "label": "intricate weaving techniques", "shape": "dot", "size": 12, "title": "\u003cb\u003eintricate weaving techniques\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: tripura\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 28, "label": "silk weaving", "shape": "dot", "size": 10, "title": "\u003cb\u003esilk weaving\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: uttarakhand\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 29, "label": "spinning", "shape": "dot", "size": 10, "title": "\u003cb\u003espinning\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: uttarakhand\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 30, "label": "weaving", "shape": "dot", "size": 10, "title": "\u003cb\u003eweaving\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: uttarakhand\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 31, "label": "dyeing", "shape": "dot", "size": 10, "title": "\u003cb\u003edyeing\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: uttarakhand\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 32, "label": "nicobari pandanus mats", "shape": "dot", "size": 12, "title": "\u003cb\u003enicobari pandanus mats\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: andaman and nicobar islands\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 33, "label": "pandan leaves", "shape": "dot", "size": 12, "title": "\u003cb\u003epandan leaves\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: andaman and nicobar islands\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#ff8800", "font": {"color": "white"}, "id": 34, "label": "ari embroidery", "shape": "dot", "size": 14, "title": "\u003cb\u003eari embroidery\u003c/b\u003e\u003cbr\u003eLevel: 3 (Practice)\u003cbr\u003eGroup: puducherry\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#888888", "font": {"color": "white"}, "id": 35, "label": "intricate needlework", "shape": "dot", "size": 12, "title": "\u003cb\u003eintricate needlework\u003c/b\u003e\u003cbr\u003eLevel: 5 (?)\u003cbr\u003eGroup: puducherry\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: diwali\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 36, "label": "working through lunch", "shape": "dot", "size": 10, "title": "\u003cb\u003eworking through lunch\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 37, "label": "taking quick or no breaks", "shape": "dot", "size": 10, "title": "\u003cb\u003etaking quick or no breaks\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#cc2200", "font": {"color": "white"}, "id": 38, "label": "occasional hour-long breaks", "shape": "dot", "size": 10, "title": "\u003cb\u003eoccasional hour-long breaks\u003c/b\u003e\u003cbr\u003eLevel: 4 (Instance)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 39, "label": "lunch", "shape": "dot", "size": 20, "title": "\u003cb\u003elunch\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 40, "label": "breaks", "shape": "dot", "size": 20, "title": "\u003cb\u003ebreaks\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#0099cc", "font": {"color": "white"}, "id": 41, "label": "cameras", "shape": "dot", "size": 28, "title": "\u003cb\u003ecameras\u003c/b\u003e\u003cbr\u003eLevel: 1 (Domain)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}, {"color": "#00bb77", "font": {"color": "white"}, "id": 42, "label": "parking enforcement", "shape": "dot", "size": 20, "title": "\u003cb\u003eparking enforcement\u003c/b\u003e\u003cbr\u003eLevel: 2 (Group)\u003cbr\u003eGroup: general\u003cbr\u003eDomain: unknown\u003cbr\u003eSource: culturebank\u003cbr\u003eFrequency: 1"}]);
+                  edges = new vis.DataSet([{"arrows": "to", "from": 1, "label": "", "title": "big party includes", "to": 2, "width": 0.5}, {"arrows": "to", "from": 3, "label": "", "title": "adorned with", "to": 4, "width": 0.5}, {"arrows": "to", "from": 4, "label": "", "title": "include", "to": 18, "width": 0.5}, {"arrows": "to", "from": 4, "label": "", "title": "include", "to": 19, "width": 0.5}, {"arrows": "to", "from": 5, "label": "", "title": "includes", "to": 6, "width": 1.0}, {"arrows": "to", "from": 7, "label": "", "title": "includes", "to": 8, "width": 0.5}, {"arrows": "to", "from": 7, "label": "", "title": "includes", "to": 9, "width": 0.5}, {"arrows": "to", "from": 10, "label": "", "title": "includes", "to": 11, "width": 0.5}, {"arrows": "to", "from": 12, "label": "", "title": "consists of", "to": 13, "width": 0.5}, {"arrows": "to", "from": 16, "label": "", "title": "includes", "to": 14, "width": 0.5}, {"arrows": "to", "from": 16, "label": "", "title": "includes", "to": 15, "width": 0.5}, {"arrows": "to", "from": 20, "label": "", "title": "includes", "to": 21, "width": 0.5}, {"arrows": "to", "from": 20, "label": "", "title": "includes", "to": 22, "width": 0.5}, {"arrows": "to", "from": 23, "label": "", "title": "used as", "to": 24, "width": 0.5}, {"arrows": "to", "from": 23, "label": "", "title": "utilized as", "to": 25, "width": 0.5}, {"arrows": "to", "from": 26, "label": "", "title": "includes", "to": 27, "width": 0.5}, {"arrows": "to", "from": 28, "label": "", "title": "includes", "to": 29, "width": 0.5}, {"arrows": "to", "from": 28, "label": "", "title": "includes", "to": 30, "width": 0.5}, {"arrows": "to", "from": 28, "label": "", "title": "includes", "to": 31, "width": 0.5}, {"arrows": "to", "from": 32, "label": "", "title": "includes", "to": 33, "width": 0.5}, {"arrows": "to", "from": 34, "label": "", "title": "includes", "to": 35, "width": 0.5}, {"arrows": "to", "from": 36, "label": "", "title": "includes", "to": 39, "width": 0.5}, {"arrows": "to", "from": 37, "label": "", "title": "includes", "to": 40, "width": 0.5}, {"arrows": "to", "from": 38, "label": "", "title": "includes", "to": 40, "width": 0.5}, {"arrows": "to", "from": 41, "label": "", "title": "includes", "to": 42, "width": 0.5}]);
+
+                  nodeColors = {};
+                  allNodes = nodes.get({ returnType: "Object" });
+                  for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                  }
+                  allEdges = edges.get({ returnType: "Object" });
+                  // adding nodes and edges to the graph
+                  data = {nodes: nodes, edges: edges};
+
+                  var options = {"physics": {"barnesHut": {"gravitationalConstant": -8000, "centralGravity": 0.3, "springLength": 120}, "minVelocity": 0.75}, "edges": {"arrows": {"to": {"enabled": true, "scaleFactor": 0.5}}, "color": {"opacity": 0.5}, "width": 0.8}, "interaction": {"hover": true, "tooltipDelay": 100}};
+
+                  
+
+
+                  
+
+                  network = new vis.Network(container, data, options);
+
+                  
+
+                  
+
+                  
+
+
+                  
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>

@@ -1,0 +1,857 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 54
+    },
+    {
+      "id": 2,
+      "label": "cleaning",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "hygiene",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "gifting",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "to family",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "respect for deceased",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "seeking help",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "brothers",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 11,
+      "label": "in national independence",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "responsibility",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "greetings",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "salutation",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "dance",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "algerian brothers",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "companionship",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "hospitality value",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "book writing",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "cultural importance of marriage",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "romantic feelings",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "fear of death",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "meeting",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "friendship",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "complex designs",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "kashida embroidery",
+      "level": 1,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "cultural richness",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "devotion",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "chham dance",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "folk dance",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "emotional",
+      "level": 5,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "europeans",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "differences in shopping hours",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "love and gratitude",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "german consumers",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "long lines",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "joy and happiness",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "football",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "remote communication",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "emotional bond",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "traditional drinks",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "camel",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "love and romance",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "algerian viewers",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "in national team",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "creativity",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "professional skill",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "attorney",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "values of justice",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "acknowledgment",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "value of harm prevention",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "stethoscope",
+      "level": 5,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "professional identity",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "cleaning",
+      "target_label": "hygiene",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "gifting",
+      "target_label": "to family",
+      "relation_type": "expresses_respect",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "ritual",
+      "target_label": "respect for deceased",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "seeking help",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "source_label": "brothers",
+      "target_label": "food",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "express",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "in national independence",
+      "relation_type": "express_pride",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "greetings",
+      "target_label": "salutation",
+      "relation_type": "expresses_respect",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 1,
+      "source_label": "dance",
+      "target_label": "food",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "algerian brothers",
+      "target_label": "companionship",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "food",
+      "target_label": "hospitality value",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "book writing",
+      "target_label": "cultural importance of marriage",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 21,
+      "source_label": "food",
+      "target_label": "romantic feelings",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "fear of death",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "meeting",
+      "target_label": "friendship",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "complex designs",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "kashida embroidery",
+      "target_label": "cultural richness",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 28,
+      "source_label": "food",
+      "target_label": "devotion",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 29,
+      "target": 1,
+      "source_label": "chham dance",
+      "target_label": "food",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 30,
+      "target": 1,
+      "source_label": "folk dance",
+      "target_label": "food",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 31,
+      "source_label": "food",
+      "target_label": "emotional",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "europeans",
+      "target_label": "differences in shopping hours",
+      "relation_type": "express_shock_at",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 34,
+      "source_label": "food",
+      "target_label": "love and gratitude",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "german consumers",
+      "target_label": "long lines",
+      "relation_type": "express_shock_at",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 10,
+      "target": 37,
+      "source_label": "algeria",
+      "target_label": "joy and happiness",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 38,
+      "target": 1,
+      "source_label": "football",
+      "target_label": "food",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "source_label": "remote communication",
+      "target_label": "emotional bond",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 41,
+      "target": 1,
+      "source_label": "traditional drinks",
+      "target_label": "food",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 42,
+      "target": 1,
+      "source_label": "camel",
+      "target_label": "food",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 10,
+      "target": 43,
+      "source_label": "algeria",
+      "target_label": "love and romance",
+      "relation_type": "express",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 44,
+      "target": 1,
+      "source_label": "teacher",
+      "target_label": "food",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 45,
+      "target": 46,
+      "source_label": "algerian viewers",
+      "target_label": "in national team",
+      "relation_type": "express_pride",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 47,
+      "source_label": "food",
+      "target_label": "creativity",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 48,
+      "target": 49,
+      "source_label": "photographer",
+      "target_label": "professional skill",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "source_label": "attorney",
+      "target_label": "values of justice",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 52,
+      "source_label": "food",
+      "target_label": "acknowledgment",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 53,
+      "source_label": "food",
+      "target_label": "value of harm prevention",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "source_label": "stethoscope",
+      "target_label": "professional identity",
+      "relation_type": "expresses",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

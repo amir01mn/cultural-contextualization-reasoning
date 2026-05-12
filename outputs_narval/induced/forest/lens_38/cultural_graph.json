@@ -1,0 +1,164 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 13
+    },
+    {
+      "id": 2,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 9
+    },
+    {
+      "id": 3,
+      "label": "egyptian customs",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "egyptian sweets tradition",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "egyptian traditions",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "egyptian work culture",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "rabha dance",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 8,
+      "label": "thengal kachari dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 9,
+      "label": "assam",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "nile valley",
+      "target_label": "algeria",
+      "relation_type": "cultural_region_of",
+      "weight": 5,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "nile valley",
+      "target_label": "algeria",
+      "relation_type": "cultural_region",
+      "weight": 4,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "nile valley",
+      "target_label": "egyptian customs",
+      "relation_type": "cultural_region_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "nile valley",
+      "target_label": "egyptian sweets tradition",
+      "relation_type": "cultural_region_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "nile valley",
+      "target_label": "egyptian traditions",
+      "relation_type": "cultural_region_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "nile valley",
+      "target_label": "egyptian work culture",
+      "relation_type": "cultural_region_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "thengal kachari dance",
+      "target_label": "assam",
+      "relation_type": "cultural_expression_of",
+      "weight": 2,
+      "source_dataset": "diwali"
+    }
+  ]
+}

@@ -1,0 +1,2495 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "wedding",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "music",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "dignified burial",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "algeria",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 5,
+      "label": "brotherhood",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "responsibility",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "timings",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "respect",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 9,
+      "label": "cemetery",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "grandparents",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "grandchildren",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "proverb",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "strategic thinking",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "proverb",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "life lesson",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "parents",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "children",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "highly valued",
+      "level": 5,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "patola",
+      "level": 2,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "kullu patti",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "durability",
+      "level": 5,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "warmth",
+      "level": 5,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "maharashtrian culture",
+      "level": 5,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "narayan peth sari",
+      "level": 2,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "garad sari",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "purity",
+      "level": 5,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "new year",
+      "level": 5,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "baishagu dance",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "bihar",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "harvest season",
+      "level": 2,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "chaitra dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "new beginnings",
+      "level": 5,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "thadiya dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "nature's beauty",
+      "level": 5,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "rudeness",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "stereotypes",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "obesity",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "freedom",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "independence",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 40,
+      "label": "individual liberty",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 4
+    },
+    {
+      "id": 42,
+      "label": "collective approach",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "individualism",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "parent-child",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "dogs",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "self-reliance",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "personal freedom",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "community",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "social norms",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "coping mechanism",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "cultural expression",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "humor",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "unfairness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "annoyance",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "perceived high prices",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "hidden costs",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "multicultural understanding",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "awareness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "american",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "us people",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "respect",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "healthy work-life balance",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "workplace",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "education",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 66,
+      "label": "fruit",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "normalcy",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "behaviors",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "individualism",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "self-reliance",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "politeness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "kindness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "respect",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "honesty",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "manners",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "interpersonal interactions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "military personnel",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "sacrifices",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "memorial day",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "respect",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "sing",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "recite",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "productivity",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "efficiency",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "profit",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "embarrassment",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "stinginess",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "safety and well-being",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "parenting and education",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "unprepared",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "suffering",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "healthcare affordability",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "health insurance",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "affordability and accessibility",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "apologize",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "respect and politeness",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "cleanliness",
+      "level": 3,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 7
+    },
+    {
+      "id": 99,
+      "label": "gold medals",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "profession",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "female sportperson",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "islam",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "family",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "children",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "folk tale",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "love",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "romance",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "family size",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "sport",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "perk",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "students",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "good behavior",
+      "level": 5,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "judge",
+      "level": 2,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 8
+    },
+    {
+      "id": 115,
+      "label": "student",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "attention",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "teachers",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "high expectations",
+      "level": 5,
+      "cultural_group": "student",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "praise",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "dance",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "love and respect",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "student",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 123,
+      "label": "teacher",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "obedience",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "god",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "reward",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "children",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "calm",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "accountability",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "positive",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "student development",
+      "level": 2,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "farmer",
+      "level": 1,
+      "cultural_group": "farmer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "disciplined repayment behaviour",
+      "level": 5,
+      "cultural_group": "farmer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 135,
+      "label": "demonstrate behaviors",
+      "level": 5,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "role",
+      "level": 5,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "dignity",
+      "level": 5,
+      "cultural_group": "patient",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "walk their talk",
+      "level": 5,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "nurse",
+      "level": 5,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "doctor",
+      "level": 5,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "nurses' week",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "hospital",
+      "level": 2,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "advice",
+      "level": 2,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "visit",
+      "level": 2,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 146,
+      "label": "moment",
+      "level": 5,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "family",
+      "level": 5,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 148,
+      "label": "professional photographer",
+      "level": 4,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "wedding-reportage",
+      "level": 5,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "acknowledgement and respect",
+      "level": 5,
+      "cultural_group": "candle",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 151,
+      "label": "historian",
+      "level": 1,
+      "cultural_group": "historian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 152,
+      "label": "archaeologist",
+      "level": 1,
+      "cultural_group": "historian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "authenticity",
+      "level": 2,
+      "cultural_group": "historian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 154,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "sign",
+      "level": 5,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "priest",
+      "level": 1,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 157,
+      "label": "know",
+      "level": 5,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 158,
+      "label": "housekeeper",
+      "level": 1,
+      "cultural_group": "housekeeper",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 159,
+      "label": "entrance hall",
+      "level": 5,
+      "cultural_group": "housekeeper",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 160,
+      "label": "scientist",
+      "level": 1,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 161,
+      "label": "full paper",
+      "level": 4,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 162,
+      "label": "journalist",
+      "level": 1,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 163,
+      "label": "obedience",
+      "level": 3,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 164,
+      "label": "oath",
+      "level": 5,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 165,
+      "label": "public good",
+      "level": 4,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 166,
+      "label": "doctor",
+      "level": 1,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 167,
+      "label": "god",
+      "level": 1,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "wedding",
+      "target_label": "music",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "dignified burial",
+      "target_label": "algeria",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "brotherhood",
+      "target_label": "responsibility",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "source_label": "timings",
+      "target_label": "algeria",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "respect",
+      "target_label": "cemetery",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "grandparents",
+      "target_label": "grandchildren",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "proverb",
+      "target_label": "strategic thinking",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 15,
+      "source_label": "proverb",
+      "target_label": "life lesson",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "parents",
+      "target_label": "children",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 18,
+      "source_label": "patola",
+      "target_label": "highly valued",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "kullu patti",
+      "target_label": "durability",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 20,
+      "target": 22,
+      "source_label": "kullu patti",
+      "target_label": "warmth",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 24,
+      "target": 23,
+      "source_label": "narayan peth sari",
+      "target_label": "maharashtrian culture",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "garad sari",
+      "target_label": "purity",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 28,
+      "target": 27,
+      "source_label": "baishagu dance",
+      "target_label": "new year",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "bihar",
+      "target_label": "harvest season",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "chaitra dance",
+      "target_label": "new beginnings",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "thadiya dance",
+      "target_label": "nature's beauty",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 37,
+      "target": 35,
+      "source_label": "obesity",
+      "target_label": "rudeness",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 37,
+      "target": 36,
+      "source_label": "obesity",
+      "target_label": "stereotypes",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 41,
+      "source_label": "freedom",
+      "target_label": "united states",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 39,
+      "target": 41,
+      "source_label": "independence",
+      "target_label": "united states",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "source_label": "individual liberty",
+      "target_label": "united states",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 42,
+      "target": 44,
+      "source_label": "collective approach",
+      "target_label": "parent-child",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "source_label": "individualism",
+      "target_label": "parent-child",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 45,
+      "target": 41,
+      "source_label": "dogs",
+      "target_label": "united states",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 41,
+      "target": 47,
+      "source_label": "united states",
+      "target_label": "self-reliance",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 41,
+      "target": 48,
+      "source_label": "united states",
+      "target_label": "personal freedom",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 41,
+      "target": 49,
+      "source_label": "united states",
+      "target_label": "community",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 41,
+      "target": 50,
+      "source_label": "united states",
+      "target_label": "social norms",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 53,
+      "target": 51,
+      "source_label": "humor",
+      "target_label": "coping mechanism",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 53,
+      "target": 52,
+      "source_label": "humor",
+      "target_label": "cultural expression",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 54,
+      "target": 56,
+      "source_label": "unfairness",
+      "target_label": "perceived high prices",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 55,
+      "target": 57,
+      "source_label": "annoyance",
+      "target_label": "hidden costs",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 58,
+      "target": 59,
+      "source_label": "multicultural understanding",
+      "target_label": "awareness",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 63,
+      "source_label": "respect",
+      "target_label": "healthy work-life balance",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 64,
+      "target": 8,
+      "source_label": "workplace",
+      "target_label": "respect",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 64,
+      "target": 63,
+      "source_label": "workplace",
+      "target_label": "healthy work-life balance",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "source_label": "normalcy",
+      "target_label": "behaviors",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 43,
+      "target": 47,
+      "source_label": "individualism",
+      "target_label": "self-reliance",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 43,
+      "target": 39,
+      "source_label": "individualism",
+      "target_label": "independence",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 71,
+      "target": 76,
+      "source_label": "politeness",
+      "target_label": "interpersonal interactions",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 72,
+      "target": 76,
+      "source_label": "kindness",
+      "target_label": "interpersonal interactions",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 76,
+      "source_label": "respect",
+      "target_label": "interpersonal interactions",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 74,
+      "target": 76,
+      "source_label": "honesty",
+      "target_label": "interpersonal interactions",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 75,
+      "target": 76,
+      "source_label": "manners",
+      "target_label": "interpersonal interactions",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 79,
+      "target": 77,
+      "source_label": "memorial day",
+      "target_label": "military personnel",
+      "relation_type": "values respect for",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 79,
+      "target": 78,
+      "source_label": "memorial day",
+      "target_label": "sacrifices",
+      "relation_type": "values respect for",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 81,
+      "target": 8,
+      "source_label": "sing",
+      "target_label": "respect",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 82,
+      "target": 8,
+      "source_label": "recite",
+      "target_label": "respect",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 83,
+      "target": 41,
+      "source_label": "productivity",
+      "target_label": "united states",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 84,
+      "target": 41,
+      "source_label": "efficiency",
+      "target_label": "united states",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 85,
+      "target": 41,
+      "source_label": "profit",
+      "target_label": "united states",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 86,
+      "target": 87,
+      "source_label": "embarrassment",
+      "target_label": "stinginess",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 88,
+      "target": 89,
+      "source_label": "safety and well-being",
+      "target_label": "parenting and education",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 90,
+      "target": 91,
+      "source_label": "unprepared",
+      "target_label": "suffering",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 93,
+      "target": 94,
+      "source_label": "health insurance",
+      "target_label": "affordability and accessibility",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 95,
+      "target": 96,
+      "source_label": "apologize",
+      "target_label": "respect and politeness",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 41,
+      "target": 97,
+      "source_label": "united states",
+      "target_label": "cleanliness",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 4,
+      "target": 99,
+      "source_label": "algeria",
+      "target_label": "gold medals",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 65,
+      "source_label": "algeria",
+      "target_label": "education",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 100,
+      "source_label": "algeria",
+      "target_label": "profession",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 101,
+      "source_label": "algeria",
+      "target_label": "female sportperson",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "source_label": "islam",
+      "target_label": "family",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 105,
+      "target": 17,
+      "source_label": "folk tale",
+      "target_label": "children",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 106,
+      "target": 4,
+      "source_label": "love",
+      "target_label": "algeria",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 107,
+      "target": 4,
+      "source_label": "romance",
+      "target_label": "algeria",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 108,
+      "target": 4,
+      "source_label": "family size",
+      "target_label": "algeria",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 109,
+      "source_label": "algeria",
+      "target_label": "sport",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 110,
+      "target": 4,
+      "source_label": "perk",
+      "target_label": "algeria",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 65,
+      "target": 111,
+      "source_label": "education",
+      "target_label": "students",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 113,
+      "target": 112,
+      "source_label": "judge",
+      "target_label": "good behavior",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 114,
+      "target": 115,
+      "source_label": "teacher",
+      "target_label": "student",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 116,
+      "target": 117,
+      "source_label": "attention",
+      "target_label": "teachers",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 114,
+      "target": 118,
+      "source_label": "teacher",
+      "target_label": "high expectations",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 119,
+      "target": 114,
+      "source_label": "praise",
+      "target_label": "teacher",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 120,
+      "target": 121,
+      "source_label": "dance",
+      "target_label": "love and respect",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 114,
+      "source_label": "respect",
+      "target_label": "teacher",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 115,
+      "target": 114,
+      "source_label": "student",
+      "target_label": "teacher",
+      "relation_type": "values respect for",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 124,
+      "source_label": "respect",
+      "target_label": "obedience",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 125,
+      "target": 126,
+      "source_label": "god",
+      "target_label": "reward",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 17,
+      "source_label": "respect",
+      "target_label": "children",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 128,
+      "target": 114,
+      "source_label": "calm",
+      "target_label": "teacher",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 114,
+      "target": 129,
+      "source_label": "teacher",
+      "target_label": "accountability",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 114,
+      "target": 130,
+      "source_label": "teacher",
+      "target_label": "positive",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 114,
+      "target": 131,
+      "source_label": "teacher",
+      "target_label": "student development",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 114,
+      "target": 115,
+      "source_label": "teacher",
+      "target_label": "student",
+      "relation_type": "values respect for",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 132,
+      "target": 133,
+      "source_label": "farmer",
+      "target_label": "disciplined repayment behaviour",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 134,
+      "target": 135,
+      "source_label": "nurse",
+      "target_label": "demonstrate behaviors",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 134,
+      "target": 136,
+      "source_label": "nurse",
+      "target_label": "role",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 137,
+      "source_label": "respect",
+      "target_label": "dignity",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 134,
+      "target": 138,
+      "source_label": "nurse",
+      "target_label": "walk their talk",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 134,
+      "target": 140,
+      "source_label": "nurse",
+      "target_label": "doctor",
+      "relation_type": "values respect for",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 141,
+      "target": 142,
+      "source_label": "nurses' week",
+      "target_label": "hospital",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 143,
+      "target": 144,
+      "source_label": "advice",
+      "target_label": "visit",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 144,
+      "target": 143,
+      "source_label": "visit",
+      "target_label": "advice",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 146,
+      "target": 145,
+      "source_label": "moment",
+      "target_label": "photographer",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 103,
+      "target": 148,
+      "source_label": "family",
+      "target_label": "professional photographer",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 145,
+      "target": 149,
+      "source_label": "photographer",
+      "target_label": "wedding-reportage",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 103,
+      "target": 150,
+      "source_label": "family",
+      "target_label": "acknowledgement and respect",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 151,
+      "target": 153,
+      "source_label": "historian",
+      "target_label": "authenticity",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 154,
+      "target": 155,
+      "source_label": "artist",
+      "target_label": "sign",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 156,
+      "target": 157,
+      "source_label": "priest",
+      "target_label": "know",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 158,
+      "target": 159,
+      "source_label": "housekeeper",
+      "target_label": "entrance hall",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 160,
+      "target": 161,
+      "source_label": "scientist",
+      "target_label": "full paper",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 162,
+      "target": 124,
+      "source_label": "journalist",
+      "target_label": "obedience",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 164,
+      "target": 165,
+      "source_label": "oath",
+      "target_label": "public good",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 140,
+      "target": 125,
+      "source_label": "doctor",
+      "target_label": "god",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "zinb",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 42
+    },
+    {
+      "id": 3,
+      "label": "mothers in algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "chickpea stew",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 6,
+      "label": "eid al-adha",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 7,
+      "label": "harissa-stuffed olives tagine",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 9,
+      "label": "smir",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "mother",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 11,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "fava beans",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 13,
+      "label": "henaa",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "potatoes with chicken and soup",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "hareesa with lentils and bread",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "fava beans for family breakfast",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "rawa",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "hala",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "mudh mertha",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "abir al-ajyeh",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "shaima",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "distribute zakah al-fitr",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "distributing meat",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "lamb",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "sham al-nisim",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "work",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 27,
+      "label": "youth gathering",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "preschool teacher",
+      "level": 4,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 29,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "painter",
+      "level": 3,
+      "cultural_group": "painter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 31,
+      "label": "immigration attorney",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "appropriated documents",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "scientist",
+      "level": 2,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "zinb",
+      "target_label": "food",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "mothers in algeria",
+      "target_label": "chickpea stew",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "eid al-adha",
+      "relation_type": "prepares_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "harissa-stuffed olives tagine",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "ramadan",
+      "relation_type": "prepare",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 6,
+      "source_label": "smir",
+      "target_label": "eid al-adha",
+      "relation_type": "prepares_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "mother",
+      "target_label": "nurse",
+      "relation_type": "prepares_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "source_label": "food",
+      "target_label": "fava beans",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 12,
+      "source_label": "food",
+      "target_label": "fava beans",
+      "relation_type": "prepares_for_iftar",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 13,
+      "target": 2,
+      "source_label": "henaa",
+      "target_label": "food",
+      "relation_type": "prepares_for_iftar",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "source_label": "mother",
+      "target_label": "potatoes with chicken and soup",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "hareesa with lentils and bread",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "source_label": "mother",
+      "target_label": "food",
+      "relation_type": "prepare",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "fava beans for family breakfast",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 17,
+      "target": 12,
+      "source_label": "rawa",
+      "target_label": "fava beans",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 2,
+      "source_label": "hala",
+      "target_label": "food",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 2,
+      "source_label": "mudh mertha",
+      "target_label": "food",
+      "relation_type": "prepares_for_iftar",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 20,
+      "target": 2,
+      "source_label": "abir al-ajyeh",
+      "target_label": "food",
+      "relation_type": "prepares_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 21,
+      "target": 5,
+      "source_label": "shaima",
+      "target_label": "algeria",
+      "relation_type": "prepares_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "distribute zakah al-fitr",
+      "relation_type": "prepares_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "lamb",
+      "target_label": "sham al-nisim",
+      "relation_type": "prepared_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 26,
+      "source_label": "algeria",
+      "target_label": "work",
+      "relation_type": "prepares_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 27,
+      "source_label": "food",
+      "target_label": "youth gathering",
+      "relation_type": "prepares_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "ramadan",
+      "relation_type": "prepare_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 29,
+      "target": 5,
+      "source_label": "photographer",
+      "target_label": "algeria",
+      "relation_type": "prepares_for",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "source_label": "painter",
+      "target_label": "food",
+      "relation_type": "prepares",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "immigration attorney",
+      "target_label": "appropriated documents",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 33,
+      "target": 26,
+      "source_label": "scientist",
+      "target_label": "work",
+      "relation_type": "prepare_for",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

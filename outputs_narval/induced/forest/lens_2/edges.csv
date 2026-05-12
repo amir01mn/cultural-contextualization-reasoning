@@ -1,0 +1,125 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,household,cleaning and organizing,include,1,arabculture
+3,4,music of sahara,food,includes,1,arabculture
+4,5,food,mahjub,includes,1,arabculture
+4,6,food,olives,includes,1,arabculture
+4,7,food,side dish,includes,1,arabculture
+4,8,food,bread,includes,1,arabculture
+4,9,food,drinks,includes,1,arabculture
+10,11,ramadan,changing dishes,includes,1,arabculture
+12,13,cake,additions,includes,1,arabculture
+4,14,food,gold set,includes,1,arabculture
+15,4,algeria,food,includes,4,arabculture
+16,17,algerian preparations,welcoming eid al-adha,include,1,arabculture
+18,19,customer,unspecified customs,include,1,arabculture
+15,20,algeria,non-religious festivals,includes,1,arabculture
+18,21,customer,ritual,include,1,arabculture
+22,23,breakfast,strawberries,includes,1,arabculture
+10,24,ramadan,fava beans,includes,1,arabculture
+25,26,ahmed's meal,grilled meat dishes,includes,1,arabculture
+4,27,food,grilled fish,includes,1,arabculture
+10,4,ramadan,food,includes,3,arabculture
+4,28,food,chicken and soup,includes,1,arabculture
+10,29,ramadan,lentil soup and bread,includes,1,arabculture
+30,4,suhoor,food,includes,1,arabculture
+31,4,egyptian wedding,food,includes,1,arabculture
+15,32,algeria,special car,includes,1,arabculture
+33,34,preparation,cleaning homes,include,1,arabculture
+35,36,religious festival,prayer performance,includes,1,arabculture
+37,15,festival days,algeria,include,1,arabculture
+10,38,ramadan,travel to work/study,includes,1,arabculture
+39,40,household routine,polishing furniture,includes,1,arabculture
+22,4,breakfast,food,includes,1,arabculture
+41,24,family breakfast,fava beans,includes,1,arabculture
+4,42,food,shakshuka,includes,1,arabculture
+30,43,suhoor,boiled eggs,includes,1,arabculture
+44,4,khubz al-kahk,food,included_in,1,arabculture
+45,4,biscuits,food,included_in,1,arabculture
+46,47,egyptian feast,special dishes for eid al-adha,includes,1,arabculture
+10,48,ramadan,preparing for work,includes,1,arabculture
+4,49,food,gold and silver zari,includes,1,diwali
+50,51,motifs,"flowers, animals, geometric shapes",include,1,diwali
+4,52,food,floral and geometric designs,includes,1,diwali
+4,53,food,elaborate pallu designs,includes,1,diwali
+4,54,food,intricate patterns,includes,1,diwali
+4,55,food,traditional designs,includes,1,diwali
+56,4,jamdani,food,includes,2,diwali
+56,52,jamdani,floral and geometric designs,includes,3,diwali
+4,57,food,elaborate embroidery,includes,1,diwali
+4,58,food,nature-inspired motifs,includes,1,diwali
+59,60,handloom textiles,"mats, ropes, fabrics",include,1,diwali
+4,61,food,ropes,includes_products,1,diwali
+4,62,food,rustic fabrics,includes_products,1,diwali
+4,63,food,devotional songs,includes,1,diwali
+64,4,assam,food,includes,2,diwali
+65,66,settings,"united states, international schools, uk",include,1,culturebank
+65,67,settings,"driving, public spaces, outdoor activities",include,1,culturebank
+68,69,discipline methods,spanking,include,1,culturebank
+70,71,underground structures,tunnels and utilities,include,1,culturebank
+72,73,healthcare system,visiting doctors,includes,1,culturebank
+65,74,settings,"usa, australia, other countries",include,1,culturebank
+75,76,broadcast content,product mentions,includes,1,culturebank
+77,4,gifts,food,include,3,culturebank
+77,78,gifts,flower,include,1,culturebank
+77,79,gifts,gift cards,include,1,culturebank
+80,4,daily life,food,include,1,culturebank
+65,81,settings,public and social,include,1,culturebank
+82,4,snacks,food,typically_includes,1,blend
+83,84,education system,afterschool activities,includes,1,blend
+4,85,food,stuffed pigeon,typically_includes,1,blend
+4,86,food,local delicacies,includes,1,blend
+87,88,traditional dishes,"couscous, lamb, pastries",include,1,blend
+77,89,gifts,football,include,3,blend
+90,15,company get-together,algeria,includes,1,blend
+4,91,food,couscous,include,1,blend
+4,92,food,"playgrounds, parks",include,1,blend
+4,93,food,eid al-fitr and eid al-adha,include,1,blend
+77,94,gifts,"money, sweets, fruits",include,1,blend
+4,95,food,socializing with peers,includes,1,blend
+96,97,university students,required subjects,includes,1,blend
+4,98,food,"knife, fork, spoon",include,1,blend
+4,99,food,bourekas,includes,1,blend
+4,100,food,kebabs,includes,1,blend
+4,101,food,mzid,includes,1,blend
+4,91,food,couscous,commonly_includes,1,blend
+102,103,certain occupations,"teaching, nursing, and administrative roles",include,1,blend
+102,18,certain occupations,customer,include,1,blend
+104,87,picnic,traditional dishes,includes,1,blend
+77,105,gifts,foot volleyball,include,1,blend
+106,107,physical education classes,common sports for girls,include,1,blend
+82,108,snacks,chakchouka,include,1,blend
+4,109,food,track and field events,include,1,blend
+4,77,food,gifts,include,1,blend
+77,4,gifts,food,commonly_includes,1,blend
+110,4,condolence offering,food,includes,1,blend
+4,111,food,indispensable ingredients,include,1,blend
+15,112,algeria,harira soup,includes,1,blend
+4,113,food,"couscous, tagine, pastilla",includes,1,blend
+4,114,food,green tea,typically,1,blend
+87,115,traditional dishes,"brik, msemen, and mint tea",include,1,blend
+4,116,food,"couscous, grilled meats, stews",include,1,blend
+4,117,food,chickpea broth,include,1,blend
+15,87,algeria,traditional dishes,includes,1,blend
+109,118,track and field events,"long jump, high jump, sprinting",include,1,blend
+119,120,university curriculum,compulsory courses,includes,1,blend
+121,122,during holidays,"visiting temples, churches",include,1,blend
+77,123,gifts,useful items,include,1,blend
+87,4,traditional dishes,food,include,1,blend
+124,125,algerian literature,local writers,include,1,blend
+10,4,ramadan,food,typically,1,blend
+15,126,algeria,stewed vegetables,includes,1,blend
+4,127,food,"cars, trucks, and action figures",include,1,blend
+4,128,food,cultural games,include,1,blend
+129,4,edible souvenirs,food,include,1,blend
+87,130,traditional dishes,"dates, milk, and honey",include,1,blend
+4,131,food,clothing,include,1,blend
+15,132,algeria,"grains, vegetables, meat",includes,1,blend
+77,133,gifts,"clothing, toys, sweets",include,1,blend
+4,134,food,physical activities,include,1,blend
+135,136,daily meals,"breakfast, lunch, dinner",include,1,blend
+15,137,algeria,staple foods,includes,1,blend
+138,139,family gatherings,dinner and conversation,include,1,blend
+21,140,ritual,role playing,includes,1,candle
+102,142,certain occupations,writers,includes,1,candle
+143,4,new homes,food,include,1,candle
+144,145,journalist,students and businessmen,include,1,candle

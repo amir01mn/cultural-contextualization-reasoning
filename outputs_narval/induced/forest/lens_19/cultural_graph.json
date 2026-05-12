@@ -1,0 +1,524 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 35
+    },
+    {
+      "id": 2,
+      "label": "glass",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "layers of cloth",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "silk or cotton",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "cotton sarees",
+      "level": 2,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 6,
+      "label": "rich silk fabric",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "handwoven fabric",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "stitched fabric",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "raw cotton",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "hand-woven fabrics",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "luxurious fabrics like silk",
+      "level": 3,
+      "cultural_group": "delhi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "felted wool",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "recycled woolen fabrics",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "wool or silk",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "sheep wool",
+      "level": 3,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "hand-woven woolen fabric",
+      "level": 3,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "yak wool",
+      "level": 3,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "assam",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 7
+    },
+    {
+      "id": 20,
+      "label": "playing instruments",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "singing",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 23,
+      "label": "how to behave",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "mentor",
+      "level": 4,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "rules established by teachers",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "reviews",
+      "level": 5,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "teachers, students, parents",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "glass",
+      "relation_type": "made_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "layers of cloth",
+      "relation_type": "made_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "silk or cotton",
+      "relation_type": "made_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "cotton sarees",
+      "relation_type": "made_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "cotton sarees",
+      "relation_type": "made_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "food",
+      "target_label": "rich silk fabric",
+      "relation_type": "made_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "handwoven fabric",
+      "relation_type": "made_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "stitched fabric",
+      "relation_type": "made_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "food",
+      "target_label": "raw cotton",
+      "relation_type": "made_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "hand-woven fabrics",
+      "relation_type": "made_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "food",
+      "target_label": "luxurious fabrics like silk",
+      "relation_type": "made_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "source_label": "food",
+      "target_label": "felted wool",
+      "relation_type": "is_made_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "food",
+      "target_label": "recycled woolen fabrics",
+      "relation_type": "made_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "food",
+      "target_label": "wool or silk",
+      "relation_type": "made_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "sheep wool",
+      "relation_type": "made_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "hand-woven woolen fabric",
+      "relation_type": "made_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "yak wool",
+      "relation_type": "made_from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "food",
+      "target_label": "assam",
+      "relation_type": "from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "algeria",
+      "target_label": "playing instruments",
+      "relation_type": "learn",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 19,
+      "target": 21,
+      "source_label": "algeria",
+      "target_label": "singing",
+      "relation_type": "learn",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 19,
+      "target": 22,
+      "source_label": "algeria",
+      "target_label": "teacher",
+      "relation_type": "learns_from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 19,
+      "target": 23,
+      "source_label": "algeria",
+      "target_label": "how to behave",
+      "relation_type": "learns",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 24,
+      "source_label": "food",
+      "target_label": "mentor",
+      "relation_type": "learns_from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "teacher",
+      "relation_type": "learn_from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 19,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "learn",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "teacher",
+      "relation_type": "come_from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 19,
+      "target": 25,
+      "source_label": "algeria",
+      "target_label": "rules established by teachers",
+      "relation_type": "learn_from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "reviews",
+      "target_label": "teachers, students, parents",
+      "relation_type": "come_from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "from",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

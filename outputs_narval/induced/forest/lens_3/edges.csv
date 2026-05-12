@@ -1,0 +1,99 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,3,north africa,light iftar meals,practices,1,arabculture
+4,5,algeria,sahoor during ramadan,practice,1,arabculture
+4,2,algeria,north africa,cultural_practice,1,arabculture
+4,6,algeria,food,practice,3,arabculture
+4,7,algeria,evening snacks,practices,1,arabculture
+6,4,food,algeria,practiced_in,1,arabculture
+4,8,algeria,simple bathing,practices,1,arabculture
+9,4,cultural_group,algeria,practices,1,arabculture
+6,10,food,certain instructions,requires,1,arabculture
+11,12,ramadan,consuming iftar after sunset,practice,1,arabculture
+13,14,nile valley,shared morning meal,practices,1,arabculture
+13,16,nile valley,traditional dishes,practices,1,arabculture
+13,17,nile valley,taking suhoor,practice,1,arabculture
+13,18,nile valley,consuming milk for suhoor,practice,1,arabculture
+13,19,nile valley,"serving sahur with yogurt, cucumber, water",practices,1,arabculture
+13,20,nile valley,writing books for weddings,practice,1,arabculture
+13,21,nile valley,reserving special car for wedding,practice,1,arabculture
+13,22,nile valley,buying lamb for sacrifice,practice_tradition,1,arabculture
+13,23,nile valley,wearing newabayas,practices,1,arabculture
+13,24,nile valley,preparation,practice_custom,1,arabculture
+13,25,nile valley,fava bean breakfast tradition,practice,1,arabculture
+13,4,nile valley,algeria,practiced_by,1,arabculture
+13,6,nile valley,food,practice,1,arabculture
+13,26,nile valley,children eating shawarma made by mothers,cultural_practice,1,arabculture
+13,27,nile valley,social custom,practice,1,arabculture
+13,28,nile valley,leisure activities,practice,1,arabculture
+13,29,nile valley,saying 'in the name of god' before eating,practices,1,arabculture
+13,30,nile valley,drinking tea after meals,practice_custom,1,arabculture
+13,31,nile valley,saving money,practice,1,arabculture
+13,32,nile valley,gift-giving tradition,practices,1,arabculture
+13,33,nile valley,welcoming mourners,practices,1,arabculture
+13,6,nile valley,food,practice_tradition,1,arabculture
+6,34,food,upper egypt,practiced_in,1,arabculture
+13,35,nile valley,dance,practice,1,arabculture
+13,36,nile valley,parental involvement in children's studies,practices,1,arabculture
+13,37,nile valley,intergenerational support,practice,1,arabculture
+13,38,nile valley,planting pomegranate seeds,cultural_practice,1,arabculture
+13,39,nile valley,outdoor activities,practice,1,arabculture
+13,40,nile valley,narrative tradition,practice,1,arabculture
+13,41,nile valley,traditional breakfast,practices,1,arabculture
+13,42,nile valley,shared family breakfast customs,practices,1,arabculture
+13,43,nile valley,collective iftar,practices,1,arabculture
+13,44,nile valley,traditional iftar customs,practices,1,arabculture
+13,45,nile valley,serving ajyeh for suhur,practices,1,arabculture
+13,46,nile valley,serving suhour,practices,1,arabculture
+13,47,nile valley,traditional suhour dishes,practices,1,arabculture
+13,48,nile valley,suhoor customs,practices,1,arabculture
+13,49,nile valley,bringing date palm fruit home,practices,1,arabculture
+50,51,mother,prepare snacks for children,cultural_practice,1,arabculture
+13,52,nile valley,bridal beauty preparations,practices,1,arabculture
+13,53,nile valley,dressing for work,practices,1,arabculture
+13,54,nile valley,morning meal together,practices,1,arabculture
+13,55,nile valley,thorough home care,practices,1,arabculture
+6,13,food,nile valley,customary_practice,2,arabculture
+13,56,nile valley,domestic chores,practices,1,arabculture
+13,57,nile valley,gifting customs,practices,1,arabculture
+6,58,food,pochampally and surrounding villages,practiced_in,1,diwali
+59,60,process,two weavers,requires,1,diwali
+61,62,ajrakh,kutch region,practiced_in,1,diwali
+63,64,dangasia community,tangaliya weaving technique,practices,1,diwali
+65,66,kashida embroidery,meghalaya,practiced_in,1,diwali
+6,67,food,jamdani,practices,1,diwali
+61,6,ajrakh,food,practiced_in,1,diwali
+6,68,food,textile craftsmanship,practices,1,diwali
+69,65,lambada tribe,kashida embroidery,practices,1,diwali
+6,70,food,sustainable weaving,practices,1,diwali
+67,71,jamdani,parts of uttar pradesh,practiced_in,1,diwali
+67,72,jamdani,parts of punjab,practiced_in,1,diwali
+65,6,kashida embroidery,food,practiced_in,1,diwali
+73,6,assam,food,practices,1,diwali
+6,4,food,algeria,practiced_by,1,diwali
+74,6,united states,food,practice,1,culturebank
+75,76,restaurant,self-service,practice,1,culturebank
+77,78,employee,budgeting,practices,1,culturebank
+4,79,algeria,morning and late night work hours,requires,1,culturebank
+4,80,algeria,use of traditional symbols,practices,1,blend
+4,81,algeria,artist,practice,1,blend
+82,83,winter sports,few in algeria,practiced_by,1,blend
+4,84,algeria,adding milk and sugar to coffee,cultural_practice,1,blend
+6,85,food,knowledge of desert terrain,requires,1,blend
+81,4,artist,algeria,practiced_by,1,blend
+4,86,algeria,track and field events,practice,1,blend
+6,87,food,knot tying,practices,1,candle
+88,89,teacher,attentive listening,require,1,candle
+90,91,nurse,smooth running,requires,1,candle
+90,92,nurse,customer,requires_practice,1,candle
+93,92,doctor,customer,requires_practice,1,candle
+94,95,tailor-made essays,analysis and time,require,1,candle
+6,96,food,regular_visits,require,1,candle
+6,97,food,irrigation and dressing,requires,1,candle
+6,98,food,reliable bank,require,1,candle
+4,6,algeria,food,require,1,candle
+99,100,great photos,organization and schedule,require,1,candle
+6,101,food,photographer,requires,1,candle
+81,102,artist,medication,require,1,candle
+101,6,photographer,food,require,1,candle
+103,104,power of attorney,formalization,requires,1,candle
+105,106,attorney,probate,requires,1,candle

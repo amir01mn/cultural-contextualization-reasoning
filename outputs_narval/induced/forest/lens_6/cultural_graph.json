@@ -1,0 +1,1154 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 53
+    },
+    {
+      "id": 2,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "important accompaniments",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "local food",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 6,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 21
+    },
+    {
+      "id": 7,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 8,
+      "label": "trustworthiness",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "beautiful skin",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "respect for the dead",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "strong bonds among siblings",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "hospitality",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 13,
+      "label": "timeliness",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "hydration during sahur",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "prioritize marriage preparation",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "respect for mothers",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "spending time together",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "egyptian students",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "collective morning routine",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "apatani tribe",
+      "level": 5,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 22,
+      "label": "durability",
+      "level": 4,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "cotton sarees",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "quality and comfort",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "algerian society",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 10
+    },
+    {
+      "id": 26,
+      "label": "personal safety",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "fulfilling career",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "comfort",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "punctuality",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "physical activity",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "family time together",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "privacy and security",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "algerian seniors",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 35,
+      "label": "team spirit, competition",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "modesty and tradition",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 38,
+      "label": "family and community",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "children's autonomy",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "respect for elders",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "grand birthday celebrations",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "family honor",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "education and public service",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "community gathering",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "respect for the deceased",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "communal support",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "academic success",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "family expectations",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "cultural connection",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "employee",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "specific majors for employment",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "religion",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "masculinity and strength",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "outdoor leisure",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "religious observance",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "modesty",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "freshness and simplicity",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "stability",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "customization",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 61,
+      "label": "successful",
+      "level": 4,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "public recognition",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 4
+    },
+    {
+      "id": 64,
+      "label": "excellence",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "traditional dishes",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "important accompaniments",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "local food",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "customer",
+      "relation_type": "values",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "values",
+      "weight": 7,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "nile valley",
+      "target_label": "trustworthiness",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "algeria",
+      "target_label": "beautiful skin",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "respect for the dead",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "strong bonds among siblings",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 12,
+      "source_label": "algeria",
+      "target_label": "hospitality",
+      "relation_type": "values",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "algeria",
+      "target_label": "timeliness",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 14,
+      "source_label": "nile valley",
+      "target_label": "ritual",
+      "relation_type": "values_respect_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "algeria",
+      "target_label": "hydration during sahur",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "algeria",
+      "target_label": "prioritize marriage preparation",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "algeria",
+      "target_label": "respect for mothers",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "value",
+      "weight": 3,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "algeria",
+      "target_label": "spending time together",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "egyptian students",
+      "target_label": "collective morning routine",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 21,
+      "target": 6,
+      "source_label": "apatani tribe",
+      "target_label": "food",
+      "relation_type": "values",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "durability",
+      "relation_type": "valued_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "cotton sarees",
+      "target_label": "quality and comfort",
+      "relation_type": "valued_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "algerian society",
+      "target_label": "personal safety",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 27,
+      "source_label": "algeria",
+      "target_label": "fulfilling career",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 28,
+      "source_label": "algeria",
+      "target_label": "comfort",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "united states",
+      "target_label": "punctuality",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 1,
+      "target": 31,
+      "source_label": "algeria",
+      "target_label": "physical activity",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 32,
+      "source_label": "algeria",
+      "target_label": "family time together",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 33,
+      "source_label": "algeria",
+      "target_label": "privacy and security",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 34,
+      "target": 6,
+      "source_label": "algerian seniors",
+      "target_label": "food",
+      "relation_type": "value",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 35,
+      "source_label": "algeria",
+      "target_label": "team spirit, competition",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 36,
+      "source_label": "algerian society",
+      "target_label": "modesty and tradition",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 37,
+      "source_label": "algeria",
+      "target_label": "gifts",
+      "relation_type": "values",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 38,
+      "source_label": "algeria",
+      "target_label": "family and community",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 39,
+      "source_label": "algerian society",
+      "target_label": "children's autonomy",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 40,
+      "source_label": "algeria",
+      "target_label": "respect for elders",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 41,
+      "source_label": "algerian society",
+      "target_label": "grand birthday celebrations",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 42,
+      "source_label": "algerian society",
+      "target_label": "family honor",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 6,
+      "source_label": "algerian society",
+      "target_label": "food",
+      "relation_type": "values_respect_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 43,
+      "source_label": "algeria",
+      "target_label": "education and public service",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 44,
+      "source_label": "algeria",
+      "target_label": "community gathering",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 45,
+      "source_label": "algeria",
+      "target_label": "respect for the deceased",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 46,
+      "source_label": "algeria",
+      "target_label": "communal support",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 47,
+      "source_label": "algeria",
+      "target_label": "academic success",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 37,
+      "source_label": "algerian society",
+      "target_label": "gifts",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 48,
+      "source_label": "algerian society",
+      "target_label": "family expectations",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 49,
+      "source_label": "food",
+      "target_label": "cultural connection",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "source_label": "employee",
+      "target_label": "specific majors for employment",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 52,
+      "source_label": "algeria",
+      "target_label": "religion",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 53,
+      "source_label": "algeria",
+      "target_label": "masculinity and strength",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "source_label": "algerian society",
+      "target_label": "algeria",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 54,
+      "source_label": "algeria",
+      "target_label": "outdoor leisure",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 55,
+      "source_label": "algeria",
+      "target_label": "religious observance",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 56,
+      "source_label": "algerian society",
+      "target_label": "modesty",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 57,
+      "source_label": "algeria",
+      "target_label": "freshness and simplicity",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 58,
+      "source_label": "algeria",
+      "target_label": "stability",
+      "relation_type": "value",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 59,
+      "source_label": "customer",
+      "target_label": "customization",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 60,
+      "target": 6,
+      "source_label": "politician",
+      "target_label": "food",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "source_label": "politician",
+      "target_label": "successful",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 60,
+      "target": 62,
+      "source_label": "politician",
+      "target_label": "public recognition",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 63,
+      "target": 6,
+      "source_label": "photographer",
+      "target_label": "food",
+      "relation_type": "values",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 63,
+      "target": 64,
+      "source_label": "photographer",
+      "target_label": "excellence",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 63,
+      "target": 5,
+      "source_label": "photographer",
+      "target_label": "customer",
+      "relation_type": "values",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

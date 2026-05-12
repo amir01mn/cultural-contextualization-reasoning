@@ -1,0 +1,17 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,burial,ritual,follows,1,arabculture
+3,4,prayer time,dawn prayer,follows,1,arabculture
+5,6,nile valley,hair washing tradition,follow,1,arabculture
+8,9,algeria,food,follow,2,culturebank
+10,11,employee,dress code,follows,1,culturebank
+12,13,audience,popular sport commentator,follows,1,blend
+8,14,algeria,popular sports teams,follow,1,blend
+8,15,algeria,instructions,follow,1,candle
+16,2,teacher,ritual,follows,1,candle
+17,2,nurse,ritual,should_follow,1,candle
+17,18,nurse,physician and medical staff,follows_protocol,1,candle
+17,19,nurse,medication administration,follows_protocol,1,candle
+20,21,politician,campaign promises,should_follow,1,candle
+22,23,artist,before tattoo,follows_routine,1,candle
+22,24,artist,after tattoo,follows_routine,1,candle
+25,9,journalist,food,follow,1,candle

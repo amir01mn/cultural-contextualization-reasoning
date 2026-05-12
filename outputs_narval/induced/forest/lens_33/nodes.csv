@@ -1,0 +1,23 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,breakfast,2,algeria,unknown,arabculture,2
+2,starting day well,3,algeria,unknown,arabculture,1
+3,wedding venue,3,algeria,unknown,arabculture,1
+4,bride mary,3,algeria,unknown,arabculture,1
+5,teacher,1,algeria,unknown,arabculture,3
+6,algeria,1,algeria,unknown,arabculture,9
+7,sibling relationships,3,algeria,unknown,arabculture,1
+8,algerian society,2,algeria,unknown,arabculture,1
+9,cost-effectiveness,3,dz,unknown,blend,1
+10,german consumers,4,dz,unknown,blend,1
+11,education system,2,dz,unknown,blend,1
+12,exam,2,dz,unknown,blend,1
+13,process,3,teacher,unknown,candle,1
+14,vital,3,teacher,unknown,candle,1
+15,nurse,1,nurse,unknown,candle,3
+16,caregiver,3,nurse,unknown,candle,1
+17,patient,1,nurse,unknown,candle,1
+18,food,1,nurse,unknown,candle,3
+19,healthcare system,2,nurse,unknown,candle,1
+20,wedding photographer,3,photographer,unknown,candle,1
+21,photographer,1,photographer,unknown,candle,1

@@ -1,0 +1,241 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,fruit,characterized by,1,arabculture
+3,4,pochampally ikat,intricate geometric patterns,characterized by,2,diwali
+5,6,kalamkari,hand-painting,characterized by,1,diwali
+5,7,kalamkari,block-printing,characterized by,1,diwali
+10,8,pedana kalamkari,intricate designs,characterized by,1,diwali
+10,9,pedana kalamkari,natural color palette,characterized by,1,diwali
+14,11,srikalahasti kalamkari,hand-painted designs,characterized by,1,diwali
+14,12,srikalahasti kalamkari,mythological narratives,characterized by,1,diwali
+14,13,srikalahasti kalamkari,natural dyes,characterized by,1,diwali
+15,16,minyong,broken stripe pattern,characterized by,1,diwali
+15,17,minyong,geometric flower-like motifs,characterized by,1,diwali
+18,19,nyishi textile,distinctive patterns and colors,characterized by,1,diwali
+20,21,muga silk,natural golden sheen,characterized by,1,diwali
+22,23,eri silk,soft,characterized by,1,diwali
+22,24,eri silk,warm,characterized by,1,diwali
+22,25,eri silk,durable,characterized by,1,diwali
+26,27,karbi shawl,bright colors,characterized by,1,diwali
+26,28,karbi shawl,unique patterns,characterized by,1,diwali
+29,30,miri jimo,distinctive patterns,characterized by,1,diwali
+33,31,sujani embroidery,intricate patterns,characterized by,1,diwali
+33,32,sujani embroidery,stories,characterized by,1,diwali
+34,25,bhagalpuri chadar,durable,characterized by,1,diwali
+36,8,block printing technique,intricate designs,characterized by,1,diwali
+36,28,block printing technique,unique patterns,characterized by,1,diwali
+37,38,kosa silk,natural texture,characterized by,1,diwali
+37,39,kosa silk,durability,characterized by,1,diwali
+40,41,kunbi saree,simple checkered patterns,characterized by,1,diwali
+42,8,goan crochet and embroidery,intricate designs,characterized by,1,diwali
+43,44,bandhani,patterns,characterized by,1,diwali
+46,45,patola,complex weaving process,characterized by,1,diwali
+50,47,ajrakh textiles,intricate geometric and floral patterns,characterized by,1,diwali
+50,48,ajrakh textiles,rich colors,characterized by,1,diwali
+50,49,ajrakh textiles,symmetrical designs,characterized by,1,diwali
+51,52,mashru,vibrant stripes or patterns,characterized by,1,diwali
+54,53,dhabla,multicolored geometric designs or checks,characterized by,1,diwali
+55,56,kutchi embroidery,exquisite detailing and vibrant threadwork,characterized by,1,diwali
+58,57,bagh,geometric patterns,characterized by,2,diwali
+59,30,chope,distinctive patterns,characterized by,1,diwali
+60,31,panja dhurrie,intricate patterns,characterized by,1,diwali
+61,62,kullu shawl,traditional motifs,characterized by,1,diwali
+63,64,thapada,wider patterns and decorations,characterized by,1,diwali
+65,66,kinnauri shawl,vibrant colors,characterized by,1,diwali
+67,68,pattu,warmth,characterized by,1,diwali
+67,39,pattu,durability,characterized by,1,diwali
+70,71,kullu patti,coarse,characterized by,1,diwali
+70,72,kullu patti,woolen,characterized by,1,diwali
+73,74,paitkar painting,narrative scrolls,characterized by,1,diwali
+31,76,intricate patterns,dokra weaving,characterized by,1,diwali
+75,76,motifs,dokra weaving,characterized by,1,diwali
+77,78,santhal saree cloth,traditional patterns and motifs,characterized by,1,diwali
+79,80,mysore silk sarees,smooth texture,characterized by,1,diwali
+79,81,mysore silk sarees,lustrous appeal,characterized by,1,diwali
+83,44,kasuti embroidery,patterns,characterized by,1,diwali
+84,85,patteda anchu saree,checked patterns,characterized by,1,diwali
+84,86,patteda anchu saree,contrasting borders,characterized by,1,diwali
+87,88,thiruvananthapuram saree,fine weaving and subtle elegance,characterized by,1,diwali
+89,90,handloom textiles,unique blend of traditional and contemporary designs,characterized by,1,diwali
+75,91,motifs,region's rich history and cultural diversity,inspired by,1,diwali
+92,93,chanderi saree,lightweight,characterized by,1,diwali
+92,94,chanderi saree,sheer texture,characterized by,1,diwali
+92,95,chanderi saree,glossy transparency,characterized by,1,diwali
+96,57,maheshwari saree,geometric patterns,characterized by,1,diwali
+96,98,maheshwari saree,stripes,characterized by,1,diwali
+99,66,paithani saree,vibrant colors,characterized by,1,diwali
+99,101,paithani saree,elaborate pallu designs,characterized by,1,diwali
+99,102,paithani saree,"motifs like peacocks, flowers, and vines",characterized by,1,diwali
+103,31,himroo fabric,intricate patterns,characterized by,1,diwali
+105,44,khun fabric,patterns,characterized by,1,diwali
+105,107,khun fabric,textures,characterized by,1,diwali
+108,109,dual-colored borders,confluence of the ganga and yamuna rivers,characterized by,1,diwali
+110,111,kolhapuri sari,distinctive weaving patterns,characterized by,1,diwali
+110,66,kolhapuri sari,vibrant colors,characterized by,1,diwali
+110,62,kolhapuri sari,traditional motifs,characterized by,1,diwali
+114,86,narayan peth sari,contrasting borders,characterized by,1,diwali
+114,116,narayan peth sari,intricate motifs,characterized by,1,diwali
+117,118,wangkhei phee,transparent texture,characterized by,1,diwali
+117,8,wangkhei phee,intricate designs,characterized by,1,diwali
+120,121,tribal shawl,unique patterns and motifs,characterized by,1,diwali
+124,122,khamen chatpa,white base,characterized by,1,diwali
+124,123,khamen chatpa,purple patterns,characterized by,1,diwali
+125,126,dakmanda,integral part,characterized by,1,diwali
+31,128,intricate patterns,khneng embroidery,characterized by,1,diwali
+127,128,eri silk fabrics,khneng embroidery,characterized by,1,diwali
+129,130,thoh shiliang,weaving skills,characterized by,1,diwali
+131,132,chappang,craftsmanship,characterized by,1,diwali
+133,66,puan,vibrant colors,characterized by,1,diwali
+134,135,puanchei,intricate and colorful,characterized by,1,diwali
+136,25,tawlhlohpuan,durable,characterized by,1,diwali
+136,137,tawlhlohpuan,bold patterns,characterized by,1,diwali
+138,139,pawndum,"black, red, and white stripes",characterized by,1,diwali
+140,8,loin loom weaving,intricate designs,characterized by,1,diwali
+149,141,tsüngkotepsü,black and red stripes,characterized by,1,diwali
+149,142,tsüngkotepsü,central white band,characterized by,1,diwali
+149,116,tsüngkotepsü,intricate motifs,characterized by,1,diwali
+116,144,intricate motifs,sun,includes,1,diwali
+116,145,intricate motifs,moon,includes,1,diwali
+116,146,intricate motifs,stars,includes,1,diwali
+116,147,intricate motifs,mithun,includes,1,diwali
+116,148,intricate motifs,hornbill,includes,1,diwali
+150,151,angami lohe shawl,thick embroidered animal motifs,characterized by,1,diwali
+150,8,angami lohe shawl,intricate designs,characterized by,1,diwali
+150,66,angami lohe shawl,vibrant colors,characterized by,1,diwali
+153,154,sambalpuri ikat,tie-dye technique,characterized by,1,diwali
+155,156,bomkai saree,ikat and embroidery techniques,characterized by,1,diwali
+155,157,bomkai saree,intricate threadwork,characterized by,1,diwali
+155,62,bomkai saree,traditional motifs,characterized by,1,diwali
+158,159,berhampuri patta,phoda kumbha,characterized by,1,diwali
+160,31,pipili appliqué work,intricate patterns,characterized by,1,diwali
+161,162,khes,durability and warmth,characterized by,1,diwali
+163,164,salwar kameez,intricate embroidery,characterized by,1,diwali
+165,166,punjabi ghagra,"flared design, vibrant colors, elaborate embroidery, mirror work",characterized by,1,diwali
+43,167,bandhani,patterns of dots and motifs,characterized by,1,diwali
+168,169,leheriya,diagonal or zigzag patterns,characterized by,1,diwali
+44,170,patterns,floral and geometric motifs,characterized by,1,diwali
+174,172,sanganeri block print,fine lines,characterized by,1,diwali
+174,173,sanganeri block print,intricate detailing,characterized by,1,diwali
+175,176,kota doria,distinctive square patterns known as 'khats',characterized by,1,diwali
+177,178,mothra,checkered pattern,characterized by,1,diwali
+179,47,ajrakh,intricate geometric and floral patterns,characterized by,1,diwali
+180,181,lepcha thara,nature,characterized by,1,diwali
+180,182,lepcha thara,local folklore,characterized by,1,diwali
+57,185,geometric patterns,bhutia woolen weaves,characterized by,1,diwali
+39,185,durability,bhutia woolen weaves,characterized by,1,diwali
+186,39,lepcha duree,durability,characterized by,1,diwali
+187,188,kanchipuram silk saree,rich silk fabric,characterized by,1,diwali
+187,189,kanchipuram silk saree,elaborate weaving designs,characterized by,1,diwali
+187,86,kanchipuram silk saree,contrasting borders,characterized by,1,diwali
+187,116,kanchipuram silk saree,intricate motifs,characterized by,1,diwali
+190,191,chettnad kandangi saree,"bold checks, stripes, and contrasting hues",characterized by,1,diwali
+192,193,koorainadu saree,unique weaving patterns and vibrant colors,characterized by,1,diwali
+194,75,arani silk saree,motifs,characterized by,1,diwali
+194,48,arani silk saree,rich colors,characterized by,1,diwali
+194,8,arani silk saree,intricate designs,characterized by,1,diwali
+196,197,coimbatore cotton saree,quality,characterized by,1,diwali
+196,198,coimbatore cotton saree,comfort,characterized by,1,diwali
+199,200,chinnalapattu saree,unique weaving patterns,characterized by,1,diwali
+199,66,chinnalapattu saree,vibrant colors,characterized by,1,diwali
+201,39,bhavani jamakkalam,durability,characterized by,1,diwali
+201,66,bhavani jamakkalam,vibrant colors,characterized by,1,diwali
+202,203,toda embroidery,red and black motifs on a white background,characterized by,1,diwali
+202,204,toda embroidery,nature and geometric patterns,characterized by,1,diwali
+207,205,kovai cora cotton saree,soft texture,characterized by,1,diwali
+207,206,kovai cora cotton saree,traditional patterns,characterized by,1,diwali
+209,85,narayanpet sarees,checked patterns,characterized by,1,diwali
+209,25,narayanpet sarees,durable,characterized by,1,diwali
+209,211,narayanpet sarees,elegant,characterized by,1,diwali
+214,31,lambada embroidery,intricate patterns,characterized by,1,diwali
+214,212,lambada embroidery,garments,used to adorn,1,diwali
+214,213,lambada embroidery,accessories,used to adorn,1,diwali
+215,216,rignai,vertical and horizontal stripes,characterized by,1,diwali
+215,217,rignai,multicolored embroidery,characterized by,1,diwali
+218,30,pachhra,distinctive patterns,characterized by,1,diwali
+219,220,tuisa,vibrant fabrics,characterized by,1,diwali
+219,221,tuisa,motifs inspired by nature,characterized by,1,diwali
+222,223,pichhora,white or off-white fabric,characterized by,1,diwali
+222,27,pichhora,bright colors,characterized by,1,diwali
+222,116,pichhora,intricate motifs,characterized by,1,diwali
+31,225,intricate patterns,cotton weaving,characterized by,1,diwali
+226,8,banarasi sari,intricate designs,characterized by,1,diwali
+226,228,banarasi sari,gold and silver threads,characterized by,1,diwali
+226,229,banarasi sari,nature motifs,characterized by,1,diwali
+226,230,banarasi sari,mughal patterns,characterized by,1,diwali
+231,232,chikankari,delicate and intricate handwork,characterized by,1,diwali
+233,234,tanchoi,elaborate designs,characterized by,1,diwali
+235,236,baluchari sari,intricate woven designs,characterized by,1,diwali
+75,241,motifs,rural women in west bengal,characterized by,1,diwali
+242,243,tant sari,lightness,characterized by,1,diwali
+242,244,tant sari,transparency,characterized by,1,diwali
+242,198,tant sari,comfort,characterized by,1,diwali
+246,247,garad sari,plain white or off-white body,characterized by,1,diwali
+246,248,garad sari,red borders,characterized by,1,diwali
+246,249,garad sari,small motifs,characterized by,1,diwali
+250,251,dhaniakhali sari,tighter weave,characterized by,1,diwali
+250,252,dhaniakhali sari,striped or checkered patterns,characterized by,1,diwali
+250,25,dhaniakhali sari,durable,characterized by,1,diwali
+250,253,dhaniakhali sari,comfortable,characterized by,1,diwali
+250,254,dhaniakhali sari,plain body,characterized by,1,diwali
+250,86,dhaniakhali sari,contrasting borders,characterized by,1,diwali
+250,256,dhaniakhali sari,pallus,characterized by,1,diwali
+250,257,dhaniakhali sari,simple yet elegant motifs,characterized by,1,diwali
+258,259,batik print,crackled effect,characterized by,1,diwali
+260,261,nicobari pandanus mats,functional and cultural purposes,characterized by,1,diwali
+262,263,phulkari,intricate floral patterns,characterized by,1,diwali
+262,264,phulkari,vibrant silk threads,characterized by,1,diwali
+58,266,bagh,geometric and floral motifs,characterized by,1,diwali
+267,268,warli painting on fabric,"depictions of daily life, nature, and rituals",characterized by,1,diwali
+269,31,zardozi embroidery,intricate patterns,characterized by,1,diwali
+270,271,chikankari embroidery,intricate floral and paisley patterns,characterized by,1,diwali
+272,31,kani shawl,intricate patterns,characterized by,1,diwali
+273,31,jamawar shawls,intricate patterns,characterized by,1,diwali
+275,274,gabba,vibrant patterns,characterized by,1,diwali
+276,277,kashmiri carpet,hand-knotted craftsmanship,characterized by,1,diwali
+276,278,kashmiri carpet,elaborate floral and geometric patterns,characterized by,1,diwali
+279,68,phirpa,warmth,characterized by,1,diwali
+280,281,khadi textiles,texture and comfort,characterized by,1,diwali
+282,283,burrakatha,music and narration,characterized by,1,diwali
+286,285,butta bommalu,large masks,characterized by,1,diwali
+288,287,perini sivatandavam,warrior,characterized by,1,diwali
+289,290,gollakalapam,"narrating the life of cowherds, blending dialogue and dance",characterized by,1,diwali
+291,292,chenchu bhagotham,hunting scenes,characterized by,1,diwali
+293,294,shiva priya,tandava elements,characterized by,1,diwali
+297,295,carana nrityam,foot movements,characterized by,1,diwali
+297,296,carana nrityam,rhythmic patterns,characterized by,1,diwali
+298,299,prenkhana,swing dance form,characterized by,1,diwali
+300,301,suddha nartana,rhythm and movement,characterized by,1,diwali
+300,302,suddha nartana,storytelling,devoid of,1,diwali
+306,303,kanduka nartana,ball play,characterized by,1,diwali
+306,304,kanduka nartana,dexterity,characterized by,1,diwali
+306,305,kanduka nartana,rhythm,characterized by,1,diwali
+307,308,chindu,narrating tales from epics,characterized by,1,diwali
+309,310,pasi kongki,narrating,characterized by,1,diwali
+311,312,chham dance,buddhist ritual dance with masks,characterized by,1,diwali
+313,314,bagurumba,mimicking natural movements,characterized by,1,diwali
+315,316,apsara-sabah,religious contexts,characterized by,1,diwali
+317,296,moridhol dance,rhythmic patterns,characterized by,1,diwali
+318,319,garja dance,seeking protection from deities,characterized by,1,diwali
+320,321,karbi dance,folk dance,characterized by,1,diwali
+322,323,paika,valor,characterized by,1,diwali
+322,324,paika,weaponry skills,characterized by,1,diwali
+325,326,natua,physical prowess,characterized by,1,diwali
+327,238,manjhi,daily life,characterized by,1,diwali
+329,330,natua naach,strength and agility,characterized by,1,diwali
+331,323,paika dance,valor,characterized by,1,diwali
+331,324,paika dance,weaponry skills,characterized by,1,diwali
+332,333,khamba swang,acrobatic movements,characterized by,1,diwali
+334,335,chandaini dance,folk dance-drama,characterized by,1,diwali
+336,337,halba tribe,reena dance,characterized by,1,diwali
+338,336,rina dance,halba tribe,characterized by,1,diwali
+340,341,dekhni,blending indian and western music,characterized by,1,diwali
+342,343,corridinho,portuguese-influenced dance,characterized by,1,diwali
+346,344,zagor,philosophical topics,characterized by,1,diwali
+346,345,zagor,contemporary village life,characterized by,1,diwali
+347,348,lamp dance,balancing brass lamps,characterized by,1,diwali
+349,323,veerbhadra,valor,characterized by,1,diwali
+350,351,dasarawadan,depicting stories from ramayana,characterized by,1,diwali
+352,353,bread,over 300 registered types,characterized by,1,culturebank
+354,356,work ethic,united states,characterized by,1,culturebank
+355,356,productivity culture,united states,characterized by,1,culturebank
+357,359,usher,solemn glory,characterized by,1,candle
+360,361,signature,handwriting dexterity,characterized by,1,candle

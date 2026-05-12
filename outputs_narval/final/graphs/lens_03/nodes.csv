@@ -1,0 +1,120 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,家务活动,2,algeria,unknown,arabculture,1
+2,grandparents,1,algeria,unknown,arabculture,1
+3,grandchildren,1,algeria,unknown,arabculture,1
+4,celebrating eid with grandchildren,2,algeria,unknown,arabculture,1
+5,child,2,egypt,unknown,arabculture,1
+6,parent,2,egypt,unknown,arabculture,1
+7,game,2,egypt,unknown,arabculture,1
+8,children,2,egypt,unknown,arabculture,1
+9,repairing,2,egypt,unknown,arabculture,1
+10,monpa woolen weave,3,arunachal pradesh,unknown,diwali,1
+11,weaving,4,arunachal pradesh,unknown,diwali,1
+12,dhurrie,5,haryana,unknown,diwali,1
+13,homes,2,haryana,unknown,diwali,1
+14,chamba shawl,3,himachal pradesh,unknown,diwali,1
+15,local attire,2,himachal pradesh,unknown,diwali,1
+16,dhara,3,meghalaya,unknown,diwali,1
+17,ceremonial occasions,5,meghalaya,unknown,diwali,1
+18,phool patti ka kaam,3,uttar pradesh,unknown,diwali,1
+19,creating floral and leaf motifs,4,uttar pradesh,unknown,diwali,1
+20,ari embroidery,3,puducherry,unknown,diwali,1
+21,sarlis and other garments,4,puducherry,unknown,diwali,1
+22,carcari,3,andhra pradesh,unknown,diwali,1
+23,dance,2,andhra pradesh,unknown,diwali,1
+24,rekham pada,3,arunachal pradesh,unknown,diwali,1
+25,community gatherings,2,arunachal pradesh,unknown,diwali,1
+26,women,5,assam,unknown,diwali,1
+27,deodhani dance,3,assam,unknown,diwali,1
+28,various communities,4,assam,unknown,diwali,1
+29,phalguni dance,3,assam,unknown,diwali,1
+30,couples,5,bihar,unknown,diwali,1
+31,jat-jatin,2,bihar,unknown,diwali,1
+32,kathghorwa naach,3,bihar,unknown,diwali,1
+33,weddings,2,bihar,unknown,diwali,1
+34,khamba swang,3,chhattisgarh,unknown,diwali,1
+35,ger dance,3,chhattisgarh,unknown,diwali,1
+36,group formations,2,chhattisgarh,unknown,diwali,1
+37,fugdi,3,goa,unknown,diwali,1
+38,circular formations,4,goa,unknown,diwali,1
+39,romat,3,goa,unknown,diwali,1
+40,group formations,4,goa,unknown,diwali,1
+41,vibrant music,4,goa,unknown,diwali,1
+42,morulem,3,goa,unknown,diwali,1
+43,monsoon,4,goa,unknown,diwali,1
+44,bhandap,3,goa,unknown,diwali,1
+45,folk dance,4,goa,unknown,diwali,1
+46,festivals,2,goa,unknown,diwali,1
+47,initiate conversations,4,general,unknown,culturebank,1
+48,ask questions,4,general,unknown,culturebank,1
+49,colleagues,2,general,unknown,culturebank,1
+50,questions,2,general,unknown,culturebank,1
+51,drills,4,general,unknown,culturebank,1
+52,safety measures,4,general,unknown,culturebank,1
+53,schools,2,general,unknown,culturebank,2
+54,school schedule,4,general,unknown,culturebank,1
+55,classes,4,general,unknown,culturebank,1
+56,after-school activities,4,general,unknown,culturebank,1
+57,recess,4,general,unknown,culturebank,1
+58,lunch,4,general,unknown,culturebank,1
+59,electives,4,general,unknown,culturebank,1
+60,activities,2,general,unknown,culturebank,1
+61,practices,2,general,unknown,culturebank,1
+62,tasks,2,general,unknown,culturebank,1
+63,second nature,2,general,unknown,culturebank,1
+64,educational settings,2,general,unknown,culturebank,1
+65,diverse educational activities,3,general,unknown,culturebank,1
+66,grandparents,5,general,unknown,culturebank,3
+67,childcare,4,general,unknown,culturebank,1
+68,visiting,4,general,unknown,culturebank,1
+69,helping out,4,general,unknown,culturebank,1
+70,ear piercing,4,united states,unknown,culturebank,1
+71,infancy,2,united states,unknown,culturebank,1
+72,childhood,2,united states,unknown,culturebank,1
+73,teaching,2,general,unknown,culturebank,1
+74,learning,2,general,unknown,culturebank,1
+75,transporting dogs,2,general,unknown,culturebank,1
+76,legal restrictions,4,general,unknown,culturebank,1
+77,animal welfare concerns,4,general,unknown,culturebank,1
+78,visit,4,general,unknown,culturebank,1
+79,own,5,general,unknown,culturebank,1
+80,own museums,2,general,unknown,culturebank,1
+81,citizens,1,general,unknown,culturebank,1
+82,leaders,1,general,unknown,culturebank,1
+83,"react to, and express opinions about political scandals",2,general,unknown,culturebank,1
+84,right turns,4,general,unknown,culturebank,1
+85,left turns,4,general,unknown,culturebank,1
+86,rules,2,general,unknown,culturebank,1
+87,living,2,general,unknown,culturebank,1
+88,slowing down,2,general,unknown,culturebank,1
+89,adapting to weather conditions,2,general,unknown,culturebank,1
+90,summer,2,general,unknown,culturebank,1
+91,inquiry,2,general,unknown,culturebank,1
+92,questioning,2,general,unknown,culturebank,1
+93,walking,2,general,unknown,culturebank,1
+94,traffic,2,general,unknown,culturebank,1
+95,sing,2,general,unknown,culturebank,1
+96,recite,2,general,unknown,culturebank,1
+97,settings,2,general,unknown,culturebank,1
+98,people,2,united states,unknown,culturebank,1
+99,purchasing items,4,united states,unknown,culturebank,1
+100,using full-service stations,4,united states,unknown,culturebank,1
+101,smoking,5,united states,unknown,culturebank,1
+102,naming practices,2,general,unknown,culturebank,1
+103,united states,1,general,unknown,culturebank,1
+104,judge,5,occupation,unknown,candle,1
+105,training,4,occupation,unknown,candle,1
+106,ipodogs,5,occupation,unknown,candle,1
+107,teacher,1,teacher,unknown,candle,2
+108,student,1,teacher,unknown,candle,1
+109,marking,4,teacher,unknown,candle,1
+110,pianist,5,pianist,unknown,candle,1
+111,concert,2,pianist,unknown,candle,1
+112,nurse,1,nurse,unknown,candle,1
+113,doctor,1,doctor,unknown,candle,1
+114,merchant,1,merchant,unknown,candle,1
+115,special account,4,merchant,unknown,candle,1
+116,service,2,merchant,unknown,candle,1
+117,rehearsal,4,artist,unknown,candle,1
+118,coach,4,artist,unknown,candle,1

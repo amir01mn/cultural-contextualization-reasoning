@@ -1,0 +1,31 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,3,algeria,necessary needs,receive,1,arabculture
+4,1,public transportation,food,receive_greeting,1,arabculture
+5,1,houses,food,receive_greeting,1,arabculture
+6,1,places,food,receive_greeting,1,arabculture
+7,1,relatives,food,give_gifts_to,1,arabculture
+2,8,algeria,sweet treat,receives,1,arabculture
+9,10,fiancée,gifts,receives,1,arabculture
+11,1,elderly parents,food,receive_gifts,1,blend
+1,10,food,gifts,give,1,blend
+2,12,algeria,during lunar new year,receive_gifts,1,blend
+10,13,gifts,most support,receives,1,blend
+14,1,guests,food,receive,1,blend
+15,16,fathers,father's day,receive_gifts_on,1,blend
+17,1,mother,food,receive_gifts_on,1,blend
+2,18,algeria,birthday gifts,receive,1,blend
+2,19,algeria,during eid in algeria,receive_gifts,1,blend
+20,1,teacher,food,gives,1,candle
+2,10,algeria,gifts,receives,1,candle
+21,22,patient,nurse,receives_care,2,candle
+17,22,mother,nurse,receives_care,1,candle
+22,1,nurse,food,gives,1,candle
+2,23,algeria,information,receives,1,candle
+24,25,person or group,tailor-made clothing,receives,1,candle
+21,1,patient,food,receives,1,candle
+26,1,horse,food,receives,1,candle
+27,1,jockey,food,receives,1,candle
+1,28,food,painter,receives,2,candle
+29,1,attorney,food,give,1,candle
+30,1,reader,food,gives,1,candle
+21,31,patient,doctors and nurses,receive_care_from,1,candle

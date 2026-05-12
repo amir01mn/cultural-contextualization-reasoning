@@ -1,0 +1,727 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,family gathering,2,algeria,unknown,arabculture,1
+2,sitting in the living room,2,algeria,unknown,arabculture,1
+3,activities,2,algeria,unknown,arabculture,2
+4,friends,3,algeria,unknown,arabculture,1
+5,smir,2,algeria,unknown,arabculture,1
+6,video games,2,algeria,unknown,arabculture,1
+7,ali and his friends,2,algeria,unknown,arabculture,1
+8,traditional games,3,algeria,unknown,arabculture,1
+9,games,2,algeria,unknown,arabculture,3
+10,rhythmic dance,4,algeria,unknown,arabculture,2
+11,tizi ozou,3,algeria,unknown,arabculture,1
+12,women,2,algeria,unknown,arabculture,4
+13,dance,2,algeria,unknown,arabculture,12
+14,labas,4,algeria,unknown,arabculture,1
+15,dress,4,algeria,unknown,arabculture,1
+16,practices,4,algeria,unknown,arabculture,1
+17,algerians,1,algeria,unknown,arabculture,2
+18,ramadan,2,algeria,unknown,arabculture,1
+19,algerians,2,algeria,unknown,arabculture,1
+20,independence day,2,algeria,unknown,arabculture,2
+21,algeria,1,algeria,unknown,arabculture,10
+22,day of the flag,2,algeria,unknown,arabculture,1
+23,students,2,algeria,unknown,arabculture,3
+24,university dormitory,4,algeria,unknown,arabculture,1
+25,family trips,2,algeria,unknown,arabculture,1
+26,children,2,algeria,unknown,arabculture,10
+27,game,2,algeria,unknown,arabculture,4
+28,playing,2,algeria,unknown,arabculture,1
+29,mohammed,5,algeria,unknown,arabculture,1
+30,dances,2,algeria,unknown,arabculture,3
+31,algerian dances,3,algeria,unknown,arabculture,2
+32,dances from kabylie region,2,algeria,unknown,arabculture,1
+33,algeria,2,algeria,unknown,arabculture,4
+34,brothers,2,algeria,unknown,arabculture,2
+35,sitting together,2,algeria,unknown,arabculture,1
+36,outside,5,algeria,unknown,arabculture,1
+37,girls,5,egypt,unknown,arabculture,1
+38,rachel,5,egypt,unknown,arabculture,1
+39,zawaj dance,3,egypt,unknown,arabculture,1
+40,zawaj,2,egypt,unknown,arabculture,1
+41,couple,2,egypt,unknown,arabculture,1
+42,men,4,egypt,unknown,arabculture,1
+43,women,4,egypt,unknown,arabculture,1
+44,group,2,egypt,unknown,arabculture,1
+45,prayer,4,egypt,unknown,arabculture,2
+46,parents,2,egypt,unknown,arabculture,2
+47,arjoohat,2,egypt,unknown,arabculture,1
+48,home,2,egypt,unknown,arabculture,1
+49,salamander snake game,3,egypt,unknown,arabculture,1
+50,child,2,egypt,unknown,arabculture,1
+51,parent,2,egypt,unknown,arabculture,1
+52,back,2,egypt,unknown,arabculture,1
+53,electricity game,3,egypt,unknown,arabculture,2
+54,chase,2,egypt,unknown,arabculture,1
+55,statue game,3,egypt,unknown,arabculture,1
+56,nai,4,egypt,unknown,arabculture,1
+57,shab,4,egypt,unknown,arabculture,1
+58,france,4,egypt,unknown,arabculture,1
+59,musicians,4,egypt,unknown,arabculture,1
+60,tannura,3,egypt,unknown,arabculture,1
+61,mawlid,4,egypt,unknown,arabculture,1
+62,people,2,egypt,unknown,arabculture,1
+63,bedouin dance,3,egypt,unknown,arabculture,1
+64,repair,2,egypt,unknown,arabculture,1
+65,household items,2,egypt,unknown,arabculture,1
+66,father,2,egypt,unknown,arabculture,1
+67,siblings,2,egypt,unknown,arabculture,1
+68,school,2,egypt,unknown,arabculture,3
+69,sons,2,egypt,unknown,arabculture,1
+70,play,2,egypt,unknown,arabculture,1
+71,couple,4,egypt,unknown,arabculture,1
+72,playing football,2,egypt,unknown,arabculture,1
+73,the boys,3,egypt,unknown,arabculture,1
+74,wael and his friends,3,egypt,unknown,arabculture,1
+75,mohamed,5,egypt,unknown,arabculture,1
+76,stone-paper-scissors,2,egypt,unknown,arabculture,1
+77,musical chairs,3,egypt,unknown,arabculture,1
+78,monpa woolen weave,3,arunachal pradesh,unknown,diwali,1
+79,woolen textiles,4,arunachal pradesh,unknown,diwali,1
+80,wancho bag,3,arunachal pradesh,unknown,diwali,1
+81,weaving,4,arunachal pradesh,unknown,diwali,1
+82,tagin weave,3,arunachal pradesh,unknown,diwali,1
+83,tagin tribe,3,arunachal pradesh,unknown,diwali,1
+84,mekhela chador,3,assam,unknown,diwali,1
+85,muga silk,5,assam,unknown,diwali,1
+86,eri silk,5,assam,unknown,diwali,1
+87,pat silk,5,assam,unknown,diwali,1
+88,riha,3,assam,unknown,diwali,1
+89,mekhela,3,assam,unknown,diwali,1
+90,miri jimo,3,misings,unknown,diwali,1
+91,handwoven fabric,4,assam,unknown,diwali,1
+92,garments and accessories,2,assam,unknown,diwali,1
+93,bastar tribal weaves,3,chhattisgarh,unknown,diwali,1
+94,festivals,2,chhattisgarh,unknown,diwali,6
+95,marriages,2,chhattisgarh,unknown,diwali,1
+96,dhurrie,5,haryana,unknown,diwali,1
+97,flat rugs or carpets,2,haryana,unknown,diwali,1
+98,chamba shawl,3,himachal pradesh,unknown,diwali,1
+99,weaving excellence,2,himachal pradesh,unknown,diwali,1
+100,sohrai and khovar paintings,3,jharkhand,unknown,diwali,1
+101,tribal women,5,jharkhand,unknown,diwali,1
+102,paitkar painting,3,jharkhand,unknown,diwali,1
+103,textiles,5,jharkhand,unknown,diwali,1
+104,stories from local folklore and mythology,2,jharkhand,unknown,diwali,1
+105,mundum neriyathum,3,kerala,unknown,diwali,6
+106,saree,4,kerala,unknown,diwali,1
+107,mundu,2,kerala,unknown,diwali,1
+108,neriyathu,2,kerala,unknown,diwali,1
+109,white,5,kerala,unknown,diwali,1
+110,cream,5,kerala,unknown,diwali,1
+111,colored,5,kerala,unknown,diwali,1
+112,golden,5,kerala,unknown,diwali,1
+113,malayali women,4,kerala,unknown,diwali,1
+114,cultural events,4,kerala,unknown,diwali,1
+115,religious events,4,kerala,unknown,diwali,1
+116,batik print,4,madhya pradesh,unknown,diwali,1
+117,madhya pradesh,2,madhya pradesh,unknown,diwali,1
+118,shaphee lanphee,3,manipur,unknown,diwali,1
+119,shawl,4,manipur,unknown,diwali,1
+120,tribal shawl,3,manipur,unknown,diwali,1
+121,tangkhul,3,manipur,unknown,diwali,1
+122,mao,3,manipur,unknown,diwali,1
+123,paite,3,manipur,unknown,diwali,1
+124,cultural heritage,2,manipur,unknown,diwali,1
+125,social status,2,manipur,unknown,diwali,1
+126,lasingphee,5,manipur,unknown,diwali,3
+127,fabric,5,manipur,unknown,diwali,1
+128,vibrant colors and patterns,5,manipur,unknown,diwali,1
+129,quilts,5,manipur,unknown,diwali,1
+130,ryndia,3,meghalaya,unknown,diwali,1
+131,shawls,4,meghalaya,unknown,diwali,1
+132,garments,4,meghalaya,unknown,diwali,1
+133,dakmanda,3,garo women,unknown,diwali,1
+134,wrap-around skirt,4,garo women,unknown,diwali,1
+135,jainsem,3,khasi,unknown,diwali,1
+136,hand-woven fabrics,5,khasi,unknown,diwali,2
+137,cultural attire,2,meghalaya,unknown,diwali,1
+138,dhara,3,meghalaya,unknown,diwali,1
+139,puanchei,3,mizoram,unknown,diwali,1
+140,festive occasions,2,mizoram,unknown,diwali,2
+141,loin loom weaving,3,mizoram,unknown,diwali,2
+142,puan,4,mizoram,unknown,diwali,1
+143,headhunting ceremonies,4,rengma naga tribe,unknown,diwali,1
+144,teri phiketsu,3,rengma naga tribe,unknown,diwali,1
+145,shawls,5,nagaland,unknown,diwali,1
+146,garments,5,nagaland,unknown,diwali,1
+147,dhurrie,4,punjab,unknown,diwali,1
+148,homes,2,punjab,unknown,diwali,2
+149,bagru block print,3,rajasthan,unknown,diwali,1
+150,chhipa community,3,rajasthan,unknown,diwali,1
+151,lepcha thara,3,sikkim,unknown,diwali,1
+152,thara,4,sikkim,unknown,diwali,1
+153,rasipuram silk saree,5,tamil nadu,unknown,diwali,1
+154,traditional textile repertoire,2,tamil nadu,unknown,diwali,1
+155,rasipuram sarees,2,tamil nadu,unknown,diwali,1
+156,textiles,2,tamil nadu,unknown,diwali,1
+157,risa,3,tripura,unknown,diwali,1
+158,risa sormani,4,tripura,unknown,diwali,1
+159,transition to womanhood,2,tripura,unknown,diwali,1
+160,tuisa,3,tripura,unknown,diwali,1
+161,handwoven textile,4,tripura,unknown,diwali,1
+162,loi,5,uttarakhand,unknown,diwali,1
+163,weaving traditions,2,uttarakhand,unknown,diwali,1
+164,pichhora,3,uttarakhand,unknown,diwali,1
+165,kumaoni women,4,uttarakhand,unknown,diwali,1
+166,textiles,4,uttarakhand,unknown,diwali,1
+167,accessories,4,uttarakhand,unknown,diwali,1
+168,mats,5,uttarakhand,unknown,diwali,1
+169,ropes,5,uttarakhand,unknown,diwali,1
+170,lightweight rustic fabrics,5,uttarakhand,unknown,diwali,1
+171,silk weaving,4,uttarakhand,unknown,diwali,1
+172,handloom weaving,4,uttarakhand,unknown,diwali,1
+173,uttarakhand's artisans,2,uttarakhand,unknown,diwali,1
+174,phool patti ka kaam,3,uttar pradesh,unknown,diwali,1
+175,appliqué embroidery,4,uttar pradesh,unknown,diwali,1
+176,murshidabad sari,3,west bengal,unknown,diwali,1
+177,hand-painted design,4,west bengal,unknown,diwali,1
+178,block-printed design,4,west bengal,unknown,diwali,1
+179,nicobari pandanus mats,5,andaman and nicobar islands,unknown,diwali,1
+180,chatrai,5,andaman and nicobar islands,unknown,diwali,1
+181,hileuoi,5,andaman and nicobar islands,unknown,diwali,1
+182,crafting mats,2,andaman and nicobar islands,unknown,diwali,1
+183,nicobari banners,3,andaman and nicobar islands,unknown,diwali,5
+184,white cotton fabric,5,andaman and nicobar islands,unknown,diwali,1
+185,appliqué,5,andaman and nicobar islands,unknown,diwali,1
+186,embroidery,5,andaman and nicobar islands,unknown,diwali,1
+187,trees,5,andaman and nicobar islands,unknown,diwali,1
+188,sun,5,andaman and nicobar islands,unknown,diwali,1
+189,crescent moon,5,andaman and nicobar islands,unknown,diwali,1
+190,red cloth,5,andaman and nicobar islands,unknown,diwali,1
+191,local ceremonies,5,andaman and nicobar islands,unknown,diwali,1
+192,ari embroidery,3,puducherry,unknown,diwali,1
+193,intricate needlework,2,puducherry,unknown,diwali,1
+194,kuchipudi,3,andhra pradesh,unknown,diwali,1
+195,graceful movements and expressive storytelling,2,andhra pradesh,unknown,diwali,1
+196,vilasini natyam,3,andhra pradesh,unknown,diwali,1
+197,devadasis,3,andhra pradesh,unknown,diwali,1
+198,bhamakalapam,3,andhra pradesh,unknown,diwali,2
+199,satyabhama's tales,2,andhra pradesh,unknown,diwali,1
+200,feminine movements,2,andhra pradesh,unknown,diwali,1
+201,burrakatha,3,andhra pradesh,unknown,diwali,1
+202,storytelling dance,2,andhra pradesh,unknown,diwali,1
+203,butta bommalu,3,andhra pradesh,unknown,diwali,1
+204,folk dance,2,andhra pradesh,unknown,diwali,9
+205,tholu bommalaata,3,andhra pradesh,unknown,diwali,1
+206,epic episodes,2,andhra pradesh,unknown,diwali,1
+207,dappu,3,andhra pradesh,unknown,diwali,1
+208,percussive dance,2,andhra pradesh,unknown,diwali,1
+209,tappeta gullu,3,andhra pradesh,unknown,diwali,1
+210,devotional dance,2,andhra pradesh,unknown,diwali,2
+211,lambadi,3,andhra pradesh,unknown,diwali,1
+212,banjaras,3,andhra pradesh,unknown,diwali,2
+213,tribal dance,2,andhra pradesh,unknown,diwali,5
+214,lambadi,2,andhra pradesh,unknown,diwali,1
+215,kolatam,3,andhra pradesh,unknown,diwali,6
+216,rhythmic movements,2,andhra pradesh,unknown,diwali,2
+217,songs,2,andhra pradesh,unknown,diwali,2
+218,music,2,andhra pradesh,unknown,diwali,4
+219,dhimsa,3,tribes,unknown,diwali,1
+220,unity,2,tribes,unknown,diwali,1
+221,perini sivatandavam,3,andhra pradesh,unknown,diwali,1
+222,bhagavata mela,3,andhra pradesh,unknown,diwali,1
+223,kuchipudi,4,andhra pradesh,unknown,diwali,1
+224,bonalu dance,3,andhra pradesh,unknown,diwali,1
+225,bonalu festival,4,andhra pradesh,unknown,diwali,1
+226,gollakalapam,3,andhra pradesh,unknown,diwali,1
+227,kalapam,3,andhra pradesh,unknown,diwali,1
+228,dance-drama,2,andhra pradesh,unknown,diwali,3
+229,chenchu bhagotham,3,andhra pradesh,unknown,diwali,1
+230,suddha nartana,3,andhra pradesh,unknown,diwali,2
+231,intricate footwork and rhythms,2,andhra pradesh,unknown,diwali,1
+232,carcari,3,andhra pradesh,unknown,diwali,2
+233,rasaka,3,andhra pradesh,unknown,diwali,2
+234,playful interactions,2,andhra pradesh,unknown,diwali,1
+235,divine love stories,2,andhra pradesh,unknown,diwali,1
+236,shiva priya,3,andhra pradesh,unknown,diwali,2
+237,kanduka nartana,3,andhra pradesh,unknown,diwali,3
+238,ball games,4,andhra pradesh,unknown,diwali,1
+239,agility and coordination,5,andhra pradesh,unknown,diwali,1
+240,bhandika nrityam,3,andhra pradesh,unknown,diwali,2
+241,carana nrityam,3,andhra pradesh,unknown,diwali,2
+242,chindu bhagavatham,3,andhra pradesh,unknown,diwali,1
+243,folk dance-drama,2,andhra pradesh,unknown,diwali,1
+244,perani,3,andhra pradesh,unknown,diwali,1
+245,ancient dance form,2,andhra pradesh,unknown,diwali,1
+246,prenkhana,3,andhra pradesh,unknown,diwali,1
+247,festivities,2,andhra pradesh,unknown,diwali,1
+248,pure dance,2,andhra pradesh,unknown,diwali,1
+249,religious occasions,2,andhra pradesh,unknown,diwali,1
+250,tandava,4,andhra pradesh,unknown,diwali,1
+251,foot-centric dance,2,andhra pradesh,unknown,diwali,1
+252,chindu,3,chindu community,unknown,diwali,1
+253,gondali,3,andhra pradesh,unknown,diwali,1
+254,ritualistic dance,2,andhra pradesh,unknown,diwali,4
+255,aji lhamu,3,arunachal pradesh,unknown,diwali,1
+256,monpa folk dance,4,arunachal pradesh,unknown,diwali,1
+257,yak dance,3,monpa,unknown,diwali,2
+258,ponung dance,3,arunachal pradesh,unknown,diwali,2
+259,adi women,3,arunachal pradesh,unknown,diwali,1
+260,praying for good harvest,4,arunachal pradesh,unknown,diwali,1
+261,daminda dance,3,arunachal pradesh,unknown,diwali,1
+262,dree festival,4,arunachal pradesh,unknown,diwali,1
+263,rikham pada,3,arunachal pradesh,unknown,diwali,2
+264,nyishi dance,4,arunachal pradesh,unknown,diwali,1
+265,buiya dance,3,arunachal pradesh,unknown,diwali,2
+266,digaru mishmi dance,3,arunachal pradesh,unknown,diwali,1
+267,festivals and gatherings,2,arunachal pradesh,unknown,diwali,1
+268,chalo dance,3,arunachal pradesh,unknown,diwali,1
+269,nocte dance,4,arunachal pradesh,unknown,diwali,1
+270,pasi kongki,3,arunachal pradesh,unknown,diwali,1
+271,adi dance,4,arunachal pradesh,unknown,diwali,1
+272,popir dance,3,arunachal pradesh,unknown,diwali,2
+273,galos,4,arunachal pradesh,unknown,diwali,1
+274,goddess mopin ape,5,arunachal pradesh,unknown,diwali,1
+275,bardo chham,3,arunachal pradesh,unknown,diwali,1
+276,sherdukpen dance,4,arunachal pradesh,unknown,diwali,1
+277,hiirii khaniing,3,arunachal pradesh,unknown,diwali,1
+278,apatani dance,4,arunachal pradesh,unknown,diwali,1
+279,roppi,3,arunachal pradesh,unknown,diwali,1
+280,ningishing community,4,arunachal pradesh,unknown,diwali,1
+281,rekham pada,3,arunachal pradesh,unknown,diwali,1
+282,nishing dance,4,arunachal pradesh,unknown,diwali,1
+283,chham dance,3,arunachal pradesh,unknown,diwali,1
+284,hurkan dance,3,arunachal pradesh,unknown,diwali,2
+285,joy and unity,5,arunachal pradesh,unknown,diwali,1
+286,apatanis,3,arunachal pradesh,unknown,diwali,1
+287,nishi tribe,2,arunachal pradesh,unknown,diwali,1
+288,bihu dance,3,assam,unknown,diwali,1
+289,assamese new year,4,assam,unknown,diwali,1
+290,sattriya nritya,3,assam,unknown,diwali,1
+291,classical dance-drama,2,assam,unknown,diwali,1
+292,bagurumba,3,assam,unknown,diwali,1
+293,bwisagu festival,4,assam,unknown,diwali,1
+294,deodhani dance,3,assam,unknown,diwali,1
+295,snake goddess manasa,4,assam,unknown,diwali,1
+296,jhumur dance,3,assam,unknown,diwali,1
+297,unity and joy,4,assam,unknown,diwali,1
+298,ali ai ligang dance,3,mising tribe,unknown,diwali,1
+299,sowing festival,4,assam,unknown,diwali,1
+300,rabha dance,3,assam,unknown,diwali,1
+301,rabha tribe,3,assam,unknown,diwali,1
+302,community celebrations,2,assam,unknown,diwali,1
+303,kherai dance,3,tiwa tribe,unknown,diwali,2
+304,deities,1,assam,unknown,diwali,1
+305,blessings,2,assam,unknown,diwali,1
+306,chakhela dance,3,assam,unknown,diwali,1
+307,folk dance,4,assam,unknown,diwali,8
+308,wangala dance,3,assam,unknown,diwali,1
+309,garo tribe,3,assam,unknown,diwali,1
+310,hojagiri dance,3,reang community,unknown,diwali,1
+311,reang community,2,assam,unknown,diwali,1
+312,dhuliya,3,assam,unknown,diwali,1
+313,bhawariya,3,assam,unknown,diwali,1
+314,traditional drum-based dances,2,assam,unknown,diwali,1
+315,zikirs,3,assam,unknown,diwali,1
+316,devotional songs and dances,4,assam,unknown,diwali,3
+317,apsara-sabah,3,assam,unknown,diwali,1
+318,ankia naat,3,assam,unknown,diwali,1
+319,vaishnavite dance-drama,4,assam,unknown,diwali,1
+320,community bonding,5,karbi,unknown,diwali,1
+321,banjar kekan,3,karbi,unknown,diwali,2
+322,beula dance,3,assam,unknown,diwali,2
+323,legend of beula and lakhindar,4,assam,unknown,diwali,1
+324,ka shad inglong kardom,3,karbi tribe,unknown,diwali,2
+325,rituals,2,assam,unknown,diwali,2
+326,nimso kerung,3,mishing tribe,unknown,diwali,2
+327,ali ai ligang festival,4,assam,unknown,diwali,2
+328,ojapali,3,assam,unknown,diwali,3
+329,ras leela,3,assam,unknown,diwali,4
+330,phalguni dance,3,assam,unknown,diwali,2
+331,springtime,2,assam,unknown,diwali,2
+332,domahi dance,3,assam,unknown,diwali,2
+333,agricultural dance,4,assam,unknown,diwali,2
+334,dhuliya dance,3,assam,unknown,diwali,2
+335,drum-based dance,4,assam,unknown,diwali,2
+336,nagara naam,3,assam,unknown,diwali,2
+337,devotional dance,4,assam,unknown,diwali,2
+338,chomangkan dance,3,karbi tribe,unknown,diwali,2
+339,death rituals,4,assam,unknown,diwali,2
+340,thengal kachari dance,3,assam,unknown,diwali,2
+341,community events,2,assam,unknown,diwali,4
+342,sonowal kachari dance,3,assam,unknown,diwali,2
+343,deori bihu dance,3,assam,unknown,diwali,2
+344,bihu dance,4,assam,unknown,diwali,2
+345,tiwa damahi dance,3,assam,unknown,diwali,2
+346,tiwa tribe,3,assam,unknown,diwali,2
+347,moridhol dance,3,assam,unknown,diwali,2
+348,dhuliya gayan-bayan,3,assam,unknown,diwali,2
+349,song and drum dance,2,assam,unknown,diwali,2
+350,putola nach,3,assam,unknown,diwali,2
+351,puppet dance-theatre,4,assam,unknown,diwali,2
+352,jikir and jari,3,assam,unknown,diwali,4
+353,azan fakir,5,assam,unknown,diwali,2
+354,goalparia dance,3,assam,unknown,diwali,2
+355,dhuliya bhaona,3,assam,unknown,diwali,2
+356,drum-based dance-drama,4,assam,unknown,diwali,2
+357,rongker dance,3,karbi,unknown,diwali,2
+358,karbi community's dance,2,assam,unknown,diwali,1
+359,bathow puja dance,3,assam,unknown,diwali,6
+360,bodo tribe,3,assam,unknown,diwali,2
+361,bathow festival,4,assam,unknown,diwali,2
+362,lord shiva,5,assam,unknown,diwali,2
+363,garja dance,3,dimasa tribe,unknown,diwali,3
+364,baishagu dance,3,bodo,unknown,diwali,2
+365,baishagu festival,4,assam,unknown,diwali,2
+366,thapona dance,3,assam,unknown,diwali,2
+367,religious rituals,2,assam,unknown,diwali,3
+368,farkanti dance,3,assam,unknown,diwali,1
+369,hmar dance,3,assam,unknown,diwali,1
+370,karbi dance,3,assam,unknown,diwali,1
+371,festival,2,assam,unknown,diwali,1
+372,karbi dance,4,assam,unknown,diwali,1
+373,legend,2,assam,unknown,diwali,1
+374,narrative dance form,2,assam,unknown,diwali,1
+375,traditional drums,4,assam,unknown,diwali,1
+376,dhuliya ojapali,3,assam,unknown,diwali,1
+377,religious events,2,assam,unknown,diwali,1
+378,jat-jatin,3,bihar,unknown,diwali,1
+379,love and sorrow,4,bihar,unknown,diwali,1
+380,jhijhiya,3,bihar,unknown,diwali,1
+381,domkach,3,bihar,unknown,diwali,1
+382,ceremonial dance,2,bihar,unknown,diwali,1
+383,fagua,3,bihar,unknown,diwali,1
+384,holi,2,bihar,unknown,diwali,3
+385,paika,3,bihar,unknown,diwali,1
+386,martial dance,4,bihar,unknown,diwali,2
+387,jhumar,3,bihar,unknown,diwali,1
+388,rural women,4,bihar,unknown,diwali,1
+389,karma,3,bihar,unknown,diwali,1
+390,karam festival,4,bihar,unknown,diwali,1
+391,sohar-khilona,3,bihar,unknown,diwali,1
+392,jumari,3,bihar,unknown,diwali,1
+393,women,5,bihar,unknown,diwali,4
+394,kajri,3,bihar,unknown,diwali,1
+395,monsoon,4,bihar,unknown,diwali,2
+396,chhau,3,bihar,unknown,diwali,1
+397,"tribal martial dance with masks, depicting mythological stories",2,bihar,unknown,diwali,1
+398,jatra,3,bihar,unknown,diwali,1
+399,folk theatre,4,bihar,unknown,diwali,2
+400,natua,3,bihar,unknown,diwali,1
+401,acrobatic dance,4,bihar,unknown,diwali,2
+402,dhobi naach,3,bihar,unknown,diwali,1
+403,manjhi,3,bihar,unknown,diwali,1
+404,boatmen community,4,bihar,unknown,diwali,1
+405,gond naach,3,bihar,unknown,diwali,1
+406,jharni,3,bihar,unknown,diwali,2
+407,rhythmic movements and songs,4,bihar,unknown,diwali,1
+408,more morni,3,bihar,unknown,diwali,2
+409,peacock movements,4,bihar,unknown,diwali,2
+410,monsoon,2,bihar,unknown,diwali,1
+411,kathghorwa naach,3,bihar,unknown,diwali,1
+412,wooden horse props,4,bihar,unknown,diwali,1
+413,launda naach,3,bihar,unknown,diwali,1
+414,male performers,4,bihar,unknown,diwali,1
+415,bamar naach,3,bihar,unknown,diwali,1
+416,storytelling,2,bihar,unknown,diwali,2
+417,natua naach,3,bihar,unknown,diwali,1
+418,acrobatic dance form,4,bihar,unknown,diwali,1
+419,bidapad naach,3,bihar,unknown,diwali,1
+420,sohrai naach,3,bihar,unknown,diwali,2
+421,sohrai festival,4,bihar,unknown,diwali,1
+422,harvest,2,bihar,unknown,diwali,1
+423,cattle,2,bihar,unknown,diwali,1
+424,chhau dance,3,bihar,unknown,diwali,2
+425,tribal martial dance,4,bihar,unknown,diwali,1
+426,depicting mythological stories,4,bihar,unknown,diwali,1
+427,jatra dance,3,bihar,unknown,diwali,1
+428,paika dance,3,bihar,unknown,diwali,1
+429,kishan nritya,3,bihar,unknown,diwali,1
+430,panthi dance,3,chhattisgarh,unknown,diwali,1
+431,maghi purnima,4,chhattisgarh,unknown,diwali,1
+432,raut nacha,3,yadava community,unknown,diwali,1
+433,karma dance,3,chhattisgarh,unknown,diwali,1
+434,karma festival,2,chhattisgarh,unknown,diwali,1
+435,pandavani,3,chhattisgarh,unknown,diwali,1
+436,suwa dance,3,chhattisgarh,unknown,diwali,1
+437,goura marriage celebrations,4,chhattisgarh,unknown,diwali,1
+438,saila dance,3,chhattisgarh,unknown,diwali,1
+439,young boys,4,chhattisgarh,unknown,diwali,1
+440,gendi dance,3,chhattisgarh,unknown,diwali,1
+441,kaksar dance,3,abhujmaria tribe,unknown,diwali,1
+442,chaitra dance,3,chhattisgarh,unknown,diwali,1
+443,seasonal dance,2,chhattisgarh,unknown,diwali,1
+444,chaitra month,4,chhattisgarh,unknown,diwali,1
+445,khamba swang,3,chhattisgarh,unknown,diwali,1
+446,bhatra naat,3,chhattisgarh,unknown,diwali,1
+447,bhatra tribe,3,chhattisgarh,unknown,diwali,1
+448,community gatherings,2,chhattisgarh,unknown,diwali,1
+449,rahas dance,3,chhattisgarh,unknown,diwali,1
+450,rural life,2,chhattisgarh,unknown,diwali,1
+451,raai dance,3,chhattisgarh,unknown,diwali,1
+452,maao-pata dance,3,chhattisgarh,unknown,diwali,1
+453,mandari dance,3,chhattisgarh,unknown,diwali,2
+454,tribal dance,4,chhattisgarh,unknown,diwali,1
+455,jhumar dance,3,chhattisgarh,unknown,diwali,1
+456,weddings,2,chhattisgarh,unknown,diwali,3
+457,bilma dance,3,muria tribe,unknown,diwali,1
+458,nacha dance,3,chhattisgarh,unknown,diwali,1
+459,folk theatre combining dance and drama,2,chhattisgarh,unknown,diwali,1
+460,bharthari dance,3,chhattisgarh,unknown,diwali,2
+461,tale of king bharthari,2,chhattisgarh,unknown,diwali,1
+462,chandaini dance,3,chhattisgarh,unknown,diwali,1
+463,romantic tales,4,chhattisgarh,unknown,diwali,1
+464,relo dance,3,chhattisgarh,unknown,diwali,1
+465,children's dance,2,chhattisgarh,unknown,diwali,1
+466,danda nacha,3,chhattisgarh,unknown,diwali,1
+467,stick dance,4,chhattisgarh,unknown,diwali,1
+468,ger dance,3,chhattisgarh,unknown,diwali,1
+469,thadiya dance,3,chhattisgarh,unknown,diwali,1
+470,spring,4,chhattisgarh,unknown,diwali,1
+471,parab dance,3,chhattisgarh,unknown,diwali,2
+472,festival dance,2,chhattisgarh,unknown,diwali,1
+473,important events,2,chhattisgarh,unknown,diwali,1
+474,dhankul dance,3,chhattisgarh,unknown,diwali,2
+475,baiga tribe,3,chhattisgarh,unknown,diwali,1
+476,worship ceremonies,2,chhattisgarh,unknown,diwali,1
+477,phag dance,3,chhattisgarh,unknown,diwali,1
+478,springtime dance,2,chhattisgarh,unknown,diwali,1
+479,reena dance,3,chhattisgarh,unknown,diwali,1
+480,tapadi dance,3,chhattisgarh,unknown,diwali,1
+481,garba dance,3,chhattisgarh,unknown,diwali,1
+482,navratri,4,chhattisgarh,unknown,diwali,1
+483,jharpat dance,3,chhattisgarh,unknown,diwali,1
+484,leja dance,3,chhattisgarh,unknown,diwali,1
+485,mandri dance,3,chhattisgarh,unknown,diwali,1
+486,murga nacha,3,chhattisgarh,unknown,diwali,1
+487,nach madai,3,chhattisgarh,unknown,diwali,2
+488,rai dance,3,chhattisgarh,unknown,diwali,1
+489,rina dance,3,chhattisgarh,unknown,diwali,1
+490,thapti dance,3,chhattisgarh,unknown,diwali,2
+491,rural women,2,chhattisgarh,unknown,diwali,1
+492,rhythmic clapping,2,chhattisgarh,unknown,diwali,1
+493,vasdeva dance,3,chhattisgarh,unknown,diwali,1
+494,vasdeva community,3,chhattisgarh,unknown,diwali,1
+495,yadav nacha,3,chhattisgarh,unknown,diwali,1
+496,traditional dance,2,chhattisgarh,unknown,diwali,1
+497,dekhni,3,goa,unknown,diwali,1
+498,fugdi,3,goa,unknown,diwali,1
+499,dhalo,3,goa,unknown,diwali,1
+500,graceful movements,5,goa,unknown,diwali,1
+501,goff,3,goa,unknown,diwali,1
+502,talgadi,3,goa,unknown,diwali,1
+503,dandiya dance,4,gujarat,unknown,diwali,1
+504,ghumat beats,2,goa,unknown,diwali,1
+505,mando,3,goa,unknown,diwali,1
+506,love and tragedy,2,goa,unknown,diwali,1
+507,corridinho,3,goa,unknown,diwali,1
+508,celebrations,2,goa,unknown,diwali,1
+509,dashavatara,3,goa,unknown,diwali,1
+510,ten incarnations of lord vishnu,4,goa,unknown,diwali,1
+511,musall khel,3,goa,unknown,diwali,1
+512,christian community,4,goa,unknown,diwali,1
+513,zagor,3,goa,unknown,diwali,1
+514,lamp dance,3,goa,unknown,diwali,1
+515,shigmo festival,4,goa,unknown,diwali,1
+516,veerbhadra,3,goa,unknown,diwali,1
+517,religious ceremonies,2,goa,unknown,diwali,2
+518,romat,3,goa,unknown,diwali,1
+519,morulem,3,goa,unknown,diwali,1
+520,bhandap,3,goa,unknown,diwali,1
+521,dhangar dance,3,goa,unknown,diwali,1
+522,shepherd community,4,goa,unknown,diwali,1
+523,tonya mel,3,goa,unknown,diwali,1
+524,dasarawadan,3,goa,unknown,diwali,1
+525,folk performance,2,goa,unknown,diwali,1
+526,shoes,2,general,unknown,culturebank,1
+527,daycare settings,2,general,unknown,culturebank,1
+528,home-like settings,2,general,unknown,culturebank,1
+529,affordable childcare,2,general,unknown,culturebank,1
+530,united states,2,general,unknown,culturebank,4
+531,child-rearing activities,2,general,unknown,culturebank,1
+532,child and dog-friendly culture,2,general,unknown,culturebank,1
+533,family-friendly atmospheres,2,general,unknown,culturebank,1
+534,easter celebrations,2,general,unknown,culturebank,1
+535,traditional food,3,general,unknown,culturebank,1
+536,egg hunts,4,general,unknown,culturebank,1
+537,giving gift baskets,2,general,unknown,culturebank,1
+538,eating traditional food,2,general,unknown,culturebank,1
+539,participating in egg hunts,2,general,unknown,culturebank,1
+540,pledge of allegiance,2,general,unknown,culturebank,1
+541,schools,2,general,unknown,culturebank,2
+542,playgrounds,2,general,unknown,culturebank,1
+543,compliments,2,general,unknown,culturebank,1
+544,social interaction,2,general,unknown,culturebank,2
+545,giving compliments,2,general,unknown,culturebank,1
+546,overeating,2,general,unknown,culturebank,1
+547,fall asleep,2,general,unknown,culturebank,1
+548,thanksgiving,2,general,unknown,culturebank,1
+549,dating,2,general,unknown,culturebank,3
+550,marriage,2,general,unknown,culturebank,1
+551,a series of behaviors,2,general,unknown,culturebank,1
+552,shopping cart,4,general,unknown,culturebank,1
+553,parking lot,2,general,unknown,culturebank,1
+554,walking,2,general,unknown,culturebank,1
+555,public spaces,2,general,unknown,culturebank,2
+556,servers,4,general,unknown,culturebank,1
+557,dressing up,2,general,unknown,culturebank,1
+558,carving pumpkins,2,general,unknown,culturebank,1
+559,giving out candy,2,general,unknown,culturebank,1
+560,trick-or-treating,2,general,unknown,culturebank,1
+561,halloween celebrations,2,general,unknown,culturebank,1
+562,phrases,2,general,unknown,culturebank,1
+563,drivers,3,general,unknown,culturebank,2
+564,pedestrians,3,general,unknown,culturebank,2
+565,crosswalks,2,general,unknown,culturebank,1
+566,pedestrians,2,general,unknown,culturebank,1
+567,schools,1,general,unknown,culturebank,1
+568,lunch breaks,2,general,unknown,culturebank,1
+569,independence,3,general,unknown,culturebank,1
+570,early bedtime routines,4,general,unknown,culturebank,1
+571,school schedules,4,general,unknown,culturebank,1
+572,humor,2,united states,unknown,culturebank,1
+573,jokes,3,united states,unknown,culturebank,1
+574,laughter,2,united states,unknown,culturebank,1
+575,nightlife activities,2,general,unknown,culturebank,1
+576,clubs,2,general,unknown,culturebank,3
+577,2am,2,general,unknown,culturebank,1
+578,6am,2,general,unknown,culturebank,1
+579,holidays,2,general,unknown,culturebank,3
+580,national holidays,3,general,unknown,culturebank,1
+581,specific locations like florida,4,general,unknown,culturebank,1
+582,drinking,2,general,unknown,culturebank,2
+583,social gatherings,2,general,unknown,culturebank,2
+584,nightlife,2,general,unknown,culturebank,1
+585,underground structures,4,general,unknown,culturebank,1
+586,tunnels,5,general,unknown,culturebank,1
+587,utilities,5,general,unknown,culturebank,1
+588,building,2,general,unknown,culturebank,1
+589,considering,2,general,unknown,culturebank,1
+590,having,2,general,unknown,culturebank,1
+591,transporting dogs,2,general,unknown,culturebank,1
+592,cars,4,general,unknown,culturebank,1
+593,cages,4,general,unknown,culturebank,1
+594,truck beds,4,general,unknown,culturebank,1
+595,morning work hours,4,general,unknown,culturebank,1
+596,late night work hours,4,general,unknown,culturebank,1
+597,engage in hard work,2,general,unknown,culturebank,1
+598,houses,4,general,unknown,culturebank,1
+599,natural disasters,4,general,unknown,culturebank,1
+600,museums,2,general,unknown,culturebank,2
+601,free,5,general,unknown,culturebank,1
+602,significant part of cultural heritage and education,2,general,unknown,culturebank,1
+603,fees,5,general,unknown,culturebank,1
+604,join,2,general,unknown,culturebank,1
+605,rank,2,general,unknown,culturebank,1
+606,serve,2,general,unknown,culturebank,1
+607,military,2,general,unknown,culturebank,1
+608,living with roommates,4,general,unknown,culturebank,1
+609,comparing prices,4,general,unknown,culturebank,1
+610,strategies,2,general,unknown,culturebank,1
+611,critical discussions,2,general,unknown,culturebank,1
+612,education system,3,general,unknown,culturebank,1
+613,interviewer,3,general,unknown,culturebank,1
+614,interviewee,3,general,unknown,culturebank,1
+615,parades,2,general,unknown,culturebank,1
+616,fireworks,2,general,unknown,culturebank,1
+617,flag displays,2,general,unknown,culturebank,1
+618,celebrate independence day,2,general,unknown,culturebank,1
+619,open communication,4,general,unknown,culturebank,1
+620,asking questions,4,general,unknown,culturebank,1
+621,providing information,4,general,unknown,culturebank,1
+622,engaging in open communication,2,general,unknown,culturebank,1
+623,billing considerations,4,general,unknown,culturebank,1
+624,privacy considerations,4,general,unknown,culturebank,1
+625,includes billing and privacy considerations,2,general,unknown,culturebank,1
+626,informal and preferred names,4,general,unknown,culturebank,1
+627,teachers,2,general,unknown,culturebank,2
+628,first names,5,general,unknown,culturebank,1
+629,warm culture,2,general,unknown,culturebank,2
+630,rules,2,general,unknown,culturebank,1
+631,heat adaptation,2,general,unknown,culturebank,1
+632,restaurants,2,general,unknown,culturebank,1
+633,save food for later consumption,4,general,unknown,culturebank,1
+634,videos,2,general,unknown,culturebank,1
+635,topics,2,general,unknown,culturebank,1
+636,long-term relationships,3,general,unknown,culturebank,1
+637,marriage,3,general,unknown,culturebank,1
+638,casual dating,2,general,unknown,culturebank,1
+639,robots,4,general,unknown,culturebank,1
+640,traveling,2,general,unknown,culturebank,1
+641,establish a solid and lasting relationship,3,general,unknown,culturebank,1
+642,media,2,general,unknown,culturebank,1
+643,popular culture,2,general,unknown,culturebank,1
+644,stereotypes,2,general,unknown,culturebank,1
+645,cupid shuffle dance,3,general,unknown,culturebank,1
+646,parties,2,general,unknown,culturebank,1
+647,new year's day,2,dz,unknown,blend,1
+648,people,1,dz,unknown,blend,3
+649,christmas,2,dz,unknown,blend,1
+650,indoor activity,2,dz,unknown,blend,1
+651,families,2,dz,unknown,blend,1
+652,team sport,2,dz,unknown,blend,1
+653,men,2,dz,unknown,blend,2
+654,sports,2,dz,unknown,blend,5
+655,male students,2,dz,unknown,blend,1
+656,university,2,dz,unknown,blend,1
+657,elementary school student,2,dz,unknown,blend,1
+658,go to school,2,dz,unknown,blend,1
+659,university festivals,2,dz,unknown,blend,1
+660,look forward to,2,dz,unknown,blend,1
+661,elementary school students,2,dz,unknown,blend,1
+662,sport,2,dz,unknown,blend,3
+663,males,3,dz,unknown,blend,1
+664,leisure activity,2,dz,unknown,blend,1
+665,people from algeria,1,dz,unknown,blend,1
+666,martial art sports,2,dz,unknown,blend,1
+667,algeria,5,dz,unknown,blend,4
+668,soccer supporters,2,dz,unknown,blend,1
+669,rivalry,2,dz,unknown,blend,1
+670,female badminton player,2,dz,unknown,blend,1
+671,girls,3,dz,unknown,blend,1
+672,physical education classes,4,dz,unknown,blend,1
+673,volleyball player,2,dz,unknown,blend,1
+674,watching games,2,dz,unknown,blend,1
+675,food,1,dz,unknown,blend,1
+676,middle-aged population,2,dz,unknown,blend,1
+677,family,2,dz,unknown,blend,1
+678,eid festivities,2,dz,unknown,blend,1
+679,traditional games,2,dz,unknown,blend,1
+680,families,1,dz,unknown,blend,1
+681,martial arts player,2,dz,unknown,blend,1
+682,martial arts,2,dz,unknown,blend,1
+683,track and field event,4,dz,unknown,blend,1
+684,table tennis,2,dz,unknown,blend,1
+685,bad behavior,4,dz,unknown,blend,1
+686,school,4,dz,unknown,blend,1
+687,punishment,2,dz,unknown,blend,1
+688,managing behavior,2,dz,unknown,blend,1
+689,educational system,2,dz,unknown,blend,1
+690,traditional sport,2,dz,unknown,blend,1
+691,beach volleyball,4,dz,unknown,blend,1
+692,beach,2,dz,unknown,blend,1
+693,card game,2,dz,unknown,blend,1
+694,celebrate,2,dz,unknown,blend,1
+695,independence day,3,dz,unknown,blend,1
+696,seniors,2,dz,unknown,blend,1
+697,parks,2,dz,unknown,blend,1
+698,activities in parks,2,dz,unknown,blend,1
+699,parents and children,2,dz,unknown,blend,1
+700,soccer,2,dz,unknown,blend,1
+701,activity,2,dz,unknown,blend,1
+702,weekends,2,dz,unknown,blend,1
+703,family activity,2,dz,unknown,blend,1
+704,evening,2,dz,unknown,blend,1
+705,teacher,1,teacher,unknown,candle,2
+706,write,4,teacher,unknown,candle,1
+707,group,3,teacher,unknown,candle,1
+708,perform,2,teacher,unknown,candle,1
+709,students,4,teacher,unknown,candle,1
+710,bow,5,rituals,unknown,candle,1
+711,teaching,2,teacher,unknown,candle,1
+712,nurse,1,nurse,unknown,candle,1
+713,assessment,4,nurse,unknown,candle,1
+714,dentist,5,dentist,unknown,candle,1
+715,oral cancer screening,4,dentist,unknown,candle,1
+716,dentist,1,dentist,unknown,candle,1
+717,peroxide,2,dentist,unknown,candle,1
+718,politician,1,politician,unknown,candle,2
+719,parade,4,politician,unknown,candle,1
+720,photograph,2,photographer,unknown,candle,1
+721,professional photographer,3,photographer,unknown,candle,1
+722,deliver,4,attorney,unknown,candle,1
+723,argument,4,attorney,unknown,candle,1
+724,attorney,2,attorney,unknown,candle,1
+725,deliver argument,2,attorney,unknown,candle,1

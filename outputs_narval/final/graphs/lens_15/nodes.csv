@@ -1,0 +1,292 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,families,1,algeria,unknown,arabculture,1
+2,family members,1,algeria,unknown,arabculture,1
+3,assemble family members,2,algeria,unknown,arabculture,1
+4,chad,1,algeria,unknown,arabculture,1
+5,iftar,4,algeria,unknown,arabculture,1
+6,algeria,1,algeria,unknown,arabculture,5
+7,light meal,2,algeria,unknown,arabculture,2
+8,algerians,1,algeria,unknown,arabculture,3
+9,mahr,2,algeria,unknown,arabculture,1
+10,arabic music,3,algeria,unknown,arabculture,1
+11,morning routine,4,algeria,unknown,arabculture,1
+12,am salma,1,algeria,unknown,arabculture,1
+13,cleaning service,5,algeria,unknown,arabculture,1
+14,hamza,1,algeria,unknown,arabculture,1
+15,loan,1,algeria,unknown,arabculture,1
+16,beautiful wrapping,2,algeria,unknown,arabculture,1
+17,ahmed,2,algeria,unknown,arabculture,2
+18,game,2,algeria,unknown,arabculture,1
+19,smir,1,algeria,unknown,arabculture,1
+20,drinking coffee,2,algeria,unknown,arabculture,1
+21,fresh fruit,1,algeria,unknown,arabculture,1
+22,workers,1,algeria,unknown,arabculture,1
+23,relaxation after work,2,algeria,unknown,arabculture,1
+24,smir el-qursh,1,algeria,unknown,arabculture,1
+25,avoid riba when borrowing,2,algeria,unknown,arabculture,1
+26,giving gifts,2,algeria,unknown,arabculture,1
+27,friend,2,algeria,unknown,arabculture,1
+28,people,1,egypt,unknown,arabculture,2
+29,restaurants,1,egypt,unknown,arabculture,1
+30,egypt,1,egypt,unknown,arabculture,1
+31,mohamed,5,egypt,unknown,arabculture,1
+32,chayam,4,egypt,unknown,arabculture,1
+33,with family,2,egypt,unknown,arabculture,1
+34,pajamas,4,general,unknown,culturebank,1
+35,public,2,general,unknown,culturebank,2
+36,general,1,general,unknown,culturebank,8
+37,early dinners,2,general,unknown,culturebank,1
+38,united states,2,general,unknown,culturebank,9
+39,home-like settings,2,general,unknown,culturebank,1
+40,strip malls,4,general,unknown,culturebank,1
+41,regular malls,4,general,unknown,culturebank,1
+42,general,2,general,unknown,culturebank,24
+43,united states,1,general,unknown,culturebank,23
+44,ice in beverages,2,general,unknown,culturebank,1
+45,milk,1,general,unknown,culturebank,1
+46,beer,4,general,unknown,culturebank,1
+47,tampons,4,general,unknown,culturebank,1
+48,pads,4,general,unknown,culturebank,2
+49,us system,1,general,unknown,culturebank,1
+50,alternatives,2,general,unknown,culturebank,1
+51,bread,4,united states,unknown,culturebank,1
+52,fresh or high-quality bread,4,united states,unknown,culturebank,1
+53,real bread,4,united states,unknown,culturebank,1
+54,shopping,2,general,unknown,culturebank,1
+55,aldi,3,general,unknown,culturebank,1
+56,driving,4,united states,unknown,culturebank,1
+57,walking,4,united states,unknown,culturebank,1
+58,flavorful food,5,general,unknown,culturebank,1
+59,peeling fruit,4,general,unknown,culturebank,1
+60,eating fruit with the peel,4,general,unknown,culturebank,1
+61,some individuals,2,general,unknown,culturebank,1
+62,chickpeas,4,general,unknown,culturebank,1
+63,garbanzo beans,4,general,unknown,culturebank,1
+64,adjusting,2,general,unknown,culturebank,1
+65,expressing frustration,2,general,unknown,culturebank,1
+66,using various cleaning tools,4,general,unknown,culturebank,1
+67,hands,4,general,unknown,culturebank,1
+68,dryers,1,general,unknown,culturebank,2
+69,united states,5,general,unknown,culturebank,2
+70,air conditioning,4,general,unknown,culturebank,1
+71,natural ventilation,4,general,unknown,culturebank,1
+72,fanta,4,general,unknown,culturebank,1
+73,united states,4,general,unknown,culturebank,3
+74,school lunches,5,general,unknown,culturebank,1
+75,home-packed ones,5,general,unknown,culturebank,1
+76,microwave usage,2,general,unknown,culturebank,1
+77,non-metric system,2,general,unknown,culturebank,1
+78,milder,4,general,unknown,culturebank,1
+79,yellow mustard,4,general,unknown,culturebank,1
+80,hot dogs,2,general,unknown,culturebank,1
+81,public transportation,2,general,unknown,culturebank,1
+82,driving,2,general,unknown,culturebank,1
+83,faster preparation methods,2,general,unknown,culturebank,1
+84,line-drying,1,general,unknown,culturebank,1
+85,"save money, socialize, or express personal choice",2,general,unknown,culturebank,1
+86,reusable dishes,5,general,unknown,culturebank,1
+87,disposable plates,2,general,unknown,culturebank,1
+88,"warm, freshly made sandwiches",4,general,unknown,culturebank,1
+89,cold sandwiches,4,general,unknown,culturebank,1
+90,practical measurements for humans,2,general,unknown,culturebank,1
+91,imperial system,4,united states,unknown,culturebank,1
+92,metric system,4,united states,unknown,culturebank,1
+93,small talk,4,general,unknown,culturebank,1
+94,conversations,2,general,unknown,culturebank,1
+95,leggings,4,general,unknown,culturebank,1
+96,sweats,4,general,unknown,culturebank,1
+97,comfort and style,2,general,unknown,culturebank,1
+98,real bread over toast,2,general,unknown,culturebank,1
+99,parents,2,general,unknown,culturebank,1
+100,walking or cycling to school,2,general,unknown,culturebank,1
+101,smaller sugar portions,2,general,unknown,culturebank,1
+102,high expectations,4,general,unknown,culturebank,1
+103,discipline,4,general,unknown,culturebank,1
+104,parent-child,2,general,unknown,culturebank,1
+105,canned whipped cream,4,united states,unknown,culturebank,1
+106,uncanned whipped cream,4,united states,unknown,culturebank,1
+107,american food,1,general,unknown,culturebank,1
+108,french food culture,2,general,unknown,culturebank,1
+109,unique date format,4,general,unknown,culturebank,1
+110,am/pm,4,general,unknown,culturebank,1
+111,washing dishes,4,general,unknown,culturebank,1
+112,running water,4,general,unknown,culturebank,1
+113,dishwasher,4,general,unknown,culturebank,1
+114,washing up bowls,4,general,unknown,culturebank,1
+115,washing dishes under running water,2,general,unknown,culturebank,1
+116,using a dishwasher,2,general,unknown,culturebank,1
+117,cash,5,general,unknown,culturebank,1
+118,cards,5,general,unknown,culturebank,1
+119,early sleep,2,general,unknown,culturebank,1
+120,carbonated beverages,2,general,unknown,culturebank,1
+121,self-service gas pumps,4,general,unknown,culturebank,1
+122,gas pump attendants,4,general,unknown,culturebank,1
+123,men,5,general,unknown,culturebank,1
+124,engagement rings,2,general,unknown,culturebank,1
+125,more options in school activities,2,general,unknown,culturebank,1
+126,ice cream,4,general,unknown,culturebank,1
+127,nail care,4,general,unknown,culturebank,2
+128,diy,4,general,unknown,culturebank,1
+129,professional services,4,general,unknown,culturebank,1
+130,chinese food,4,general,unknown,culturebank,1
+131,egg fu young,5,general,unknown,culturebank,1
+132,orange chicken,5,general,unknown,culturebank,1
+133,better-paid jobs,4,general,unknown,culturebank,1
+134,rewarding jobs,4,general,unknown,culturebank,1
+135,enjoyable jobs,4,general,unknown,culturebank,1
+136,butter,1,general,unknown,culturebank,1
+137,high costs,4,general,unknown,culturebank,1
+138,affordability,2,general,unknown,culturebank,1
+139,cash gifts,5,general,unknown,culturebank,1
+140,physical gifts,5,general,unknown,culturebank,1
+141,couples,2,general,unknown,culturebank,1
+142,guests,2,general,unknown,culturebank,1
+143,"naming children with unique, personalized, and sometimes unusual names",2,general,unknown,culturebank,1
+144,tradition,2,general,unknown,culturebank,1
+145,personal choice,2,general,unknown,culturebank,1
+146,candy,2,general,unknown,culturebank,1
+147,balanced diets,4,general,unknown,culturebank,1
+148,fresh strawberries,4,general,unknown,culturebank,1
+149,canned strawberries,4,general,unknown,culturebank,1
+150,diy and professional services,2,general,unknown,culturebank,1
+151,rules that align with their beliefs,2,general,unknown,culturebank,1
+152,personal space,2,general,unknown,culturebank,1
+153,sitting next to strangers,2,general,unknown,culturebank,1
+154,motorized shopping carts,4,general,unknown,culturebank,1
+155,baskets,4,general,unknown,culturebank,1
+156,large portion sizes,4,united states,unknown,culturebank,1
+157,big gulp,4,united states,unknown,culturebank,1
+158,fast food,4,general,unknown,culturebank,1
+159,healthier options,4,general,unknown,culturebank,1
+160,fruit,2,general,unknown,culturebank,1
+161,stocking up on sundays,4,general,unknown,culturebank,1
+162,financial stability,2,general,unknown,culturebank,1
+163,husbands,3,general,unknown,culturebank,1
+164,wifes,3,general,unknown,culturebank,1
+165,partners or spouses,2,general,unknown,culturebank,1
+166,income,2,general,unknown,culturebank,1
+167,household finances,2,general,unknown,culturebank,1
+168,hanging clothes,4,general,unknown,culturebank,1
+169,hardwood,4,general,unknown,culturebank,1
+170,tile,4,general,unknown,culturebank,1
+171,carpet,4,general,unknown,culturebank,1
+172,floors,2,general,unknown,culturebank,1
+173,bathrooms,2,general,unknown,culturebank,1
+174,coffee,1,general,unknown,culturebank,1
+175,espresso,2,general,unknown,culturebank,1
+176,credit card use,2,general,unknown,culturebank,1
+177,cursive writing,2,general,unknown,culturebank,1
+178,self-bagging,5,general,unknown,culturebank,1
+179,waiting in line,5,general,unknown,culturebank,1
+180,unwritten rules,4,general,unknown,culturebank,1
+181,specific products,4,general,unknown,culturebank,1
+182,carbonated water,4,united states,unknown,culturebank,1
+183,sparkling water,4,united states,unknown,culturebank,1
+184,mobile app,4,general,unknown,culturebank,1
+185,bank account,4,general,unknown,culturebank,1
+186,association football,3,general,unknown,culturebank,1
+187,american football,3,general,unknown,culturebank,1
+188,eating with hands,4,general,unknown,culturebank,1
+189,finger foods,4,general,unknown,culturebank,1
+190,living,2,general,unknown,culturebank,1
+191,moving,2,general,unknown,culturebank,1
+192,spending time,2,general,unknown,culturebank,1
+193,germany,2,general,unknown,culturebank,1
+194,bulk shopping,4,general,unknown,culturebank,1
+195,shopping habits,2,general,unknown,culturebank,2
+196,frequent shopping,4,general,unknown,culturebank,1
+197,solo travel,4,general,unknown,culturebank,1
+198,group travel,4,general,unknown,culturebank,1
+199,united states,3,general,unknown,culturebank,1
+200,doggy bags,5,general,unknown,culturebank,1
+201,card payment,4,general,unknown,culturebank,1
+202,customers,2,general,unknown,culturebank,1
+203,ketchup,3,general,unknown,culturebank,1
+204,mobile payment apps,4,general,unknown,culturebank,1
+205,healthy snacks,2,general,unknown,culturebank,1
+206,walking on the left side,2,general,unknown,culturebank,1
+207,schools,2,general,unknown,culturebank,1
+208,practice,2,general,unknown,culturebank,1
+209,target,1,general,unknown,culturebank,1
+210,capsicum,4,general,unknown,culturebank,1
+211,bell peppers,4,general,unknown,culturebank,1
+212,dishwashers,4,general,unknown,culturebank,1
+213,dishcloth,4,general,unknown,culturebank,1
+214,impulse buying,4,general,unknown,culturebank,1
+215,discounts,4,general,unknown,culturebank,1
+216,exclusive savings,4,general,unknown,culturebank,1
+217,spending habits,2,general,unknown,culturebank,1
+218,personal information,2,general,unknown,culturebank,1
+219,home-packed lunches,5,general,unknown,culturebank,1
+220,convenience,5,general,unknown,culturebank,1
+221,coca-cola,4,drink,unknown,culturebank,1
+222,diet coke,2,general,unknown,culturebank,1
+223,zero coke,2,general,unknown,culturebank,1
+224,frozen coke,2,general,unknown,culturebank,1
+225,daily life,4,general,unknown,culturebank,1
+226,socks,2,general,unknown,culturebank,1
+227,rice,4,general,unknown,culturebank,1
+228,high-quality and bulk purchases,2,general,unknown,culturebank,1
+229,produce,4,general,unknown,culturebank,1
+230,locally grown and non-steroided produce,4,general,unknown,culturebank,1
+231,dating,2,general,unknown,culturebank,2
+232,marriage,2,general,unknown,culturebank,1
+233,"date for extended periods, often 5-10 years",2,general,unknown,culturebank,1
+234,cars,4,general,unknown,culturebank,2
+235,expensive models,5,general,unknown,culturebank,1
+236,warm destinations,4,general,unknown,culturebank,1
+237,destinations,2,general,unknown,culturebank,1
+238,fox news,4,general,unknown,culturebank,1
+239,bathtubs,4,united states,unknown,culturebank,1
+240,showering in tubs,4,united states,unknown,culturebank,1
+241,sweetness,4,general,unknown,culturebank,1
+242,health,4,general,unknown,culturebank,1
+243,muffins,2,general,unknown,culturebank,1
+244,oreos,4,united states,unknown,culturebank,1
+245,certain snack foods,2,general,unknown,culturebank,1
+246,young people,4,dz,unknown,blend,1
+247,algeria,5,dz,unknown,blend,2
+248,company dinners,4,dz,unknown,blend,1
+249,people in algeria,4,dz,unknown,blend,1
+250,females,3,dz,unknown,blend,1
+251,occupation,2,dz,unknown,blend,2
+252,males,2,dz,unknown,blend,1
+253,algeria,2,dz,unknown,blend,1
+254,alcoholic beverage,1,dz,unknown,blend,1
+255,men,1,dz,unknown,blend,1
+256,women,3,dz,unknown,blend,1
+257,alcoholic beverage,2,dz,unknown,blend,1
+258,sailor,1,sailor,unknown,candle,1
+259,tie,5,sailor,unknown,candle,1
+260,judge,1,judge,unknown,candle,1
+261,dog show,2,judge,unknown,candle,1
+262,teacher,1,teacher,unknown,candle,2
+263,mentor,2,teacher,unknown,candle,1
+264,nurse,1,nurse,unknown,candle,1
+265,doctor,1,doctor,unknown,candle,1
+266,tailor,1,tailor,unknown,candle,1
+267,tailoring the learning to the children's individual needs,2,tailor,unknown,candle,1
+268,carpenters,5,carpenter,unknown,candle,1
+269,tailors,5,tailor,unknown,candle,1
+270,robust chisels,2,carpenter,unknown,candle,1
+271,sharpest scissors,2,carpenter,unknown,candle,1
+272,merchant,1,merchant,unknown,candle,1
+273,special account,4,merchant,unknown,candle,1
+274,photographer,1,photographer,unknown,candle,4
+275,physical spot,2,photographer,unknown,candle,1
+276,timeline for when they expect payment,2,photographer,unknown,candle,1
+277,logo,5,photographer,unknown,candle,1
+278,delicacy,2,photographer,unknown,candle,1
+279,event,2,photographer,unknown,candle,1
+280,good tattoo artist,4,artist,unknown,candle,1
+281,perfectly,5,artist,unknown,candle,1
+282,architect,1,occupations,unknown,candle,1
+283,design,5,occupations,unknown,candle,1
+284,architect,2,architect,unknown,candle,1
+285,attorney,1,attorney,unknown,candle,1
+286,pay off letter,2,attorney,unknown,candle,1
+287,journalist,1,journalist,unknown,candle,1
+288,gently,5,journalist,unknown,candle,1
+289,waiter,1,waiter,unknown,candle,1
+290,tipping,2,waiter,unknown,candle,1

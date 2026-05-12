@@ -1,0 +1,26 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,big party,bride's house,big party includes,1,arabculture
+3,4,riha,intricate designs,adorned with,1,diwali
+5,6,dhurrie,vibrant colors and geometric designs,includes,2,diwali
+7,8,leirum phee,red and black patterns,includes,1,diwali
+7,9,leirum phee,white base,includes,1,diwali
+10,11,dakmanda,raw cotton,includes,1,diwali
+12,13,dhara,single piece of material,consists of,1,diwali
+16,14,textiles,tribal patterns,includes,1,diwali
+16,15,textiles,colors,includes,1,diwali
+4,18,intricate designs,wooden blocks,include,1,diwali
+4,19,intricate designs,fabric,include,1,diwali
+20,21,lepcha thara,vibrant colors,includes,1,diwali
+20,22,lepcha thara,intricate patterns,includes,1,diwali
+23,24,risa,upper garment,used as,1,diwali
+23,25,risa,headgear,utilized as,1,diwali
+26,27,tuisa,intricate weaving techniques,includes,1,diwali
+28,29,silk weaving,spinning,includes,1,diwali
+28,30,silk weaving,weaving,includes,1,diwali
+28,31,silk weaving,dyeing,includes,1,diwali
+32,33,nicobari pandanus mats,pandan leaves,includes,1,diwali
+34,35,ari embroidery,intricate needlework,includes,1,diwali
+36,39,working through lunch,lunch,includes,1,culturebank
+37,40,taking quick or no breaks,breaks,includes,1,culturebank
+38,40,occasional hour-long breaks,breaks,includes,1,culturebank
+41,42,cameras,parking enforcement,includes,1,culturebank

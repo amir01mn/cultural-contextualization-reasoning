@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --account=ACCOUNT_NAME          # replace with your Alliance account
+#SBATCH --account=def-enaskt
 #SBATCH --gpus-per-node=1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=32G
@@ -14,7 +14,7 @@ module load arrow
 module load cuda
 module load python/3.11
 
-cd ~/cultural_contextualization
+cd ~/projects/def-enaskt/amir01mn/cultural_contextualization
 source venv/bin/activate
 
 export HF_HOME=$HOME/.cache/huggingface

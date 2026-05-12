@@ -1,0 +1,31 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,food,customer,engages_in,1,arabculture
+3,4,algeria,tv viewing,engage_in,1,arabculture
+3,1,algeria,food,engage_in,2,arabculture
+3,1,algeria,food,engage_in_activities,2,arabculture
+5,6,nile valley,cotton cultivation,engage_in,1,arabculture
+7,8,nile valley women,cleaning after work,engage_in,1,arabculture
+3,9,algeria,traditional dishes,engage_in,1,arabculture
+3,10,algeria,potty training,engage_in,1,culturebank
+11,12,united states,various activities,engage_in,1,culturebank
+13,14,in public,discussion on gun violence,engages_in,1,culturebank
+11,15,united states,building underground structures,engages_in,1,culturebank
+16,17,patient,healthcare-related activities,engages_in,1,culturebank
+18,19,employee,hard work,engages_in,1,culturebank
+11,20,united states,various payment practices,engages_in,1,culturebank
+2,21,customer,various spending habits,engages_in,1,culturebank
+3,22,algeria,indoor activity,engage_in,1,blend
+23,24,commentator,sport commentary,engages_in,1,blend
+3,25,algeria,dinner activities,usually_engage_in,1,blend
+26,27,females in their 20s,leisure activities,engage_in,1,blend
+28,27,males in their 20s,leisure activities,engage_in,1,blend
+3,29,algeria,souq shopping,engage_in,1,blend
+30,31,retired women,card games,engage_in,1,blend
+3,32,algeria,weekly religious activities,engages_in,1,blend
+33,34,algerian seniors,activities in parks,engage_in,1,blend
+3,35,algeria,weekend activity with child,engage_in,1,blend
+3,27,algeria,leisure activities,engage_in,1,blend
+3,36,algeria,after-school activities,usually_engage_in,1,blend
+37,1,teacher,food,engages_in,1,candle
+38,39,photographer,ritual of working,engages_in,1,candle
+38,40,photographer,ritual of assistance,engage_in,1,candle

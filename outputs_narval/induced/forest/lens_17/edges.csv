@@ -1,0 +1,34 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,food,cotton sarees,used_for,1,diwali
+1,3,food,salwar suits,used_for,1,diwali
+1,4,food,shirts,used_for,1,diwali
+1,5,food,sarees and salwar suits,used_for,1,diwali
+1,6,food,showing respect,used_for,1,diwali
+1,7,food,providing warmth,used_for,1,diwali
+1,8,food,decorative items,used_for,1,diwali
+1,9,food,female garments,used_for,1,diwali
+10,11,handloom textiles,traditional garments,used_for,1,diwali
+10,12,handloom textiles,household,used_for,1,diwali
+1,13,food,gongadi blankets,used_for,1,diwali
+1,14,food,bedcover or blanket,used_as,1,diwali
+1,15,food,blouse material,used_for,1,diwali
+1,16,food,festivals like onam and vishu,used_for,1,diwali
+1,17,food,algeria,used_in,1,diwali
+1,18,food,luxury items,used_for,1,diwali
+1,19,food,royalty,used_for,1,diwali
+1,20,food,important ceremonies and rituals,used_for,1,diwali
+21,22,hmaram,cultural ceremonies,used_in,1,diwali
+1,23,food,adorning deities,used_for,1,diwali
+1,24,food,marriages and festivals,used_for,1,diwali
+1,25,food,lower garment,used_as,1,diwali
+1,26,food,garments and shawls,used_in,1,diwali
+1,27,food,rugs or bedspreads,used_as,1,diwali
+1,28,food,decorative purposes,used_for,1,diwali
+1,29,food,functional purposes,used_for,1,diwali
+30,31,peanut butter,baking,used_for,1,culturebank
+30,32,peanut butter,spreading,used_for,1,culturebank
+30,33,peanut butter,condiment,used_as,1,culturebank
+1,34,food,polite phrase,used_as,1,culturebank
+1,36,food,promotion,used_for,1,candle
+37,38,brushes,creating art,used_for,1,candle
+42,43,numbers,quantitative analysis,used_for,1,candle

@@ -1,0 +1,416 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 2,
+      "label": "teamwork",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 11
+    },
+    {
+      "id": 4,
+      "label": "fruit harvest",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "local agriculture",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "game",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "spending time at home",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "social bonding",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "productivity conditioning",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "thriftiness",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "public broadcasting",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "specific brands",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "education system",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 14,
+      "label": "preparation for exams",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "university students",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "cultural awareness",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "cohesion",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "football",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "team spirit, physical fitness",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "holiday",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "access to knowledge",
+      "level": 3,
+      "cultural_group": "librarian",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "high expectations",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "student achievement",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "oral health",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "positions",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "teamwork",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "fruit harvest",
+      "target_label": "local agriculture",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "game",
+      "target_label": "spending time at home",
+      "relation_type": "promote",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "algeria",
+      "target_label": "social bonding",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "algeria",
+      "target_label": "productivity conditioning",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 10,
+      "target": 3,
+      "source_label": "thriftiness",
+      "target_label": "food",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "public broadcasting",
+      "target_label": "specific brands",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "education system",
+      "target_label": "preparation for exams",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 15,
+      "target": 3,
+      "source_label": "university students",
+      "target_label": "food",
+      "relation_type": "promote",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 13,
+      "target": 16,
+      "source_label": "education system",
+      "target_label": "cultural awareness",
+      "relation_type": "promote",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "cohesion",
+      "relation_type": "promote",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "football",
+      "target_label": "team spirit, physical fitness",
+      "relation_type": "promote",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 20,
+      "target": 1,
+      "source_label": "holiday",
+      "target_label": "algeria",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 21,
+      "source_label": "food",
+      "target_label": "access to knowledge",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "high expectations",
+      "target_label": "student achievement",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 24,
+      "source_label": "algeria",
+      "target_label": "oral health",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "politician",
+      "target_label": "positions",
+      "relation_type": "promotes",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,egypt,unknown,arabculture,11
+2,egyptian cultural group,3,egypt,unknown,arabculture,1
+3,algeria,1,egypt,unknown,arabculture,6
+4,assam,1,assam,unknown,diwali,2
+5,nile valley,1,assam,unknown,diwali,1
+6,bihar's culture,3,bihar,unknown,diwali,1
+7,chhattisgarh culture,3,chhattisgarh,unknown,diwali,1
+8,tailor,1,tailor,unknown,candle,1
+9,carpenters,4,tailor,unknown,candle,1
+10,dentist cultural group,3,dentist,unknown,candle,1

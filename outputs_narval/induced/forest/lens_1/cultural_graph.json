@@ -1,0 +1,3746 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "chickpea stew",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 257
+    },
+    {
+      "id": 3,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 11
+    },
+    {
+      "id": 4,
+      "label": "north africa",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 7
+    },
+    {
+      "id": 5,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 100
+    },
+    {
+      "id": 6,
+      "label": "local delicacy",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "eid al-adha",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 13
+    },
+    {
+      "id": 8,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 9
+    },
+    {
+      "id": 9,
+      "label": "at home",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 10,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 22
+    },
+    {
+      "id": 11,
+      "label": "dignified ceremony",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "cultural practice",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 13,
+      "label": "the night of tadbir",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 15,
+      "label": "cake with additions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "some foods",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "in eid al-fitr",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "mawlid al-nabi",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 19,
+      "label": "first muharram",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "january 1st",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "annually",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "annually on may 8",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "action",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "leisure activities",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 25,
+      "label": "music instruments",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "festivals and events",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "algorithms musical instruments",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "some celebrations",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "musical instruments",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "dance",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 31,
+      "label": "cultivation",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "fava beans",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 33,
+      "label": "breakfast",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "roasted chicken",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "qatayef",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "potato chips",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "playtime",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "solo dance",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "twice initially",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "prayer after dawn",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "university students",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 11
+    },
+    {
+      "id": 42,
+      "label": "sham al-nisim",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 43,
+      "label": "fisk and rinega on sham el-nessim",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "tahtheeb dance",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "mawalid and gatherings",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "cotton harvest",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "autumn",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "young siblings",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "daytime",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "samaah al-raqiq",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "iftar dish",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "suhour table",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "ramadan dawn fasting",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "religion",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 55,
+      "label": "eid al-adha sacrifice",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "sunday morning",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "getting ready",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "household",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "food gathering",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "nile valley region",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "fabric for garments and accessories",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "religious festivals",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "bonalu festival",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "monpa community",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "apatani tribe",
+      "level": 5,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "festivals and gatherings",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "nocte people",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "wancho people",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "bihu dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 5
+    },
+    {
+      "id": 70,
+      "label": "assamese new year",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "rongali bihu festival",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "bwisagu festival",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "sowing festival",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "rabha dance",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 75,
+      "label": "community celebrations",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "garo tribe",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "post-harvest season",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "karbi people",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "assam",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 80,
+      "label": "thengal kachari dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 6
+    },
+    {
+      "id": 81,
+      "label": "sonowal kachari dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 82,
+      "label": "karbi dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 83,
+      "label": "springtime",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "various communities",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "arrival of spring",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "folk dance",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "harvest season",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "assamese villagers",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "religious rituals",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "couples",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 91,
+      "label": "holi celebrations",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 92,
+      "label": "people in bihar",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "boatmen community",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "rituals and festivals",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "goura marriage celebrations",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "abhujmaria tribe",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "muria tribe",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 99,
+      "label": "folk traditions",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "nature's beauty",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "phagun month",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "navratri",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 103,
+      "label": "rain",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "vasdeva community",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "store closures",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "sundays",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "leftovers",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "meal ingredients for multiple days",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "parties",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 15
+    },
+    {
+      "id": 112,
+      "label": "various public and social settings",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "beer in algeria",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "new year's day",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "catayef",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "sugar and lemon",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "company dinners",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "independence day activities",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "lunar new year",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "couscous",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "hangover cure food",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "(lunar) new year holiday",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "meal option",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "algerian food court",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "common dining area",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "famous families",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "algerian funerals",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "restaurants overseas",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "prayer",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "communal settings",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "birthdays",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "couples and singles",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "fireworks display",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "certain foods",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "longest night of the year celebration",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "classroom teacher",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "other group",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "escorting bus",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "note",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "communication tool",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "pitching",
+      "level": 3,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "pre-operative care",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "visit",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "before shift",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "starting iv",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 146,
+      "label": "responsibility",
+      "level": 4,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "greetings",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 148,
+      "label": "routine patient care",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "checking patient's health",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "setting gadgets",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 151,
+      "label": "routine checks",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 152,
+      "label": "tailor",
+      "level": 1,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "marking garment",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 154,
+      "label": "cleaning",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "filling",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "dry socket irrigation",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 157,
+      "label": "regular checkup",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 158,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 159,
+      "label": "redistricting",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 160,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 5
+    },
+    {
+      "id": 161,
+      "label": "dog walker",
+      "level": 3,
+      "cultural_group": "dog walker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 162,
+      "label": "regular walks",
+      "level": 3,
+      "cultural_group": "dog walker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 163,
+      "label": "priest",
+      "level": 2,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 4
+    },
+    {
+      "id": 164,
+      "label": "legacy",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 165,
+      "label": "attorney",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 7
+    },
+    {
+      "id": 166,
+      "label": "signing document",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 167,
+      "label": "getting pay off letter",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 168,
+      "label": "closing date",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 169,
+      "label": "notarization",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 170,
+      "label": "payment guarantee",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 171,
+      "label": "scientist",
+      "level": 2,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 172,
+      "label": "sacrifice pigs",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 173,
+      "label": "experiment",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 174,
+      "label": "putting numbers on board",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 175,
+      "label": "opening paragraph",
+      "level": 3,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 176,
+      "label": "hook",
+      "level": 3,
+      "cultural_group": "journalist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 177,
+      "label": "dishes tableside",
+      "level": 3,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 178,
+      "label": "tableside service",
+      "level": 3,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 179,
+      "label": "tables",
+      "level": 3,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 180,
+      "label": "serving in tandem",
+      "level": 3,
+      "cultural_group": "waiter",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 181,
+      "label": "doctor",
+      "level": 1,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 4
+    },
+    {
+      "id": 182,
+      "label": "patient care",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 183,
+      "label": "health assessment",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 184,
+      "label": "physical exam",
+      "level": 4,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 185,
+      "label": "routine visit",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "chickpea stew",
+      "target_label": "food",
+      "relation_type": "served_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "ramadan",
+      "target_label": "north africa",
+      "relation_type": "celebrated_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "observed_by",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "local delicacy",
+      "relation_type": "serves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "source_label": "ramadan",
+      "target_label": "eid al-adha",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "north africa",
+      "relation_type": "celebrated_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "ritual",
+      "target_label": "at home",
+      "relation_type": "occur_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "nile valley",
+      "target_label": "dignified ceremony",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 4,
+      "source_label": "cultural practice",
+      "target_label": "north africa",
+      "relation_type": "performed_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "source_label": "algeria",
+      "target_label": "the night of tadbir",
+      "relation_type": "occurs_on",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "customer",
+      "relation_type": "observe",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 4,
+      "source_label": "cultural practice",
+      "target_label": "north africa",
+      "relation_type": "occurs_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "cake with additions",
+      "relation_type": "serves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "some foods",
+      "relation_type": "served_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "source_label": "eid al-adha",
+      "target_label": "algeria",
+      "relation_type": "celebrated_by",
+      "weight": 6,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 17,
+      "source_label": "algeria",
+      "target_label": "in eid al-fitr",
+      "relation_type": "observe_traditions",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "source_label": "algeria",
+      "target_label": "eid al-adha",
+      "relation_type": "observe_traditions",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 4,
+      "source_label": "eid al-adha",
+      "target_label": "north africa",
+      "relation_type": "celebrated_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 18,
+      "source_label": "algeria",
+      "target_label": "mawlid al-nabi",
+      "relation_type": "celebrate",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 5,
+      "source_label": "mawlid al-nabi",
+      "target_label": "algeria",
+      "relation_type": "observed_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "celebrate",
+      "weight": 7,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 4,
+      "source_label": "food",
+      "target_label": "north africa",
+      "relation_type": "occur_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "source_label": "algeria",
+      "target_label": "eid al-adha",
+      "relation_type": "celebrate",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 14,
+      "target": 19,
+      "source_label": "customer",
+      "target_label": "first muharram",
+      "relation_type": "occur_on",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 20,
+      "source_label": "food",
+      "target_label": "january 1st",
+      "relation_type": "occurs_on",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 14,
+      "target": 2,
+      "source_label": "customer",
+      "target_label": "food",
+      "relation_type": "occur_during",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 21,
+      "source_label": "food",
+      "target_label": "annually",
+      "relation_type": "occur",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "annually on may 8",
+      "relation_type": "occur",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 23,
+      "target": 5,
+      "source_label": "action",
+      "target_label": "algeria",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 24,
+      "source_label": "algeria",
+      "target_label": "leisure activities",
+      "relation_type": "preserves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "music instruments",
+      "target_label": "festivals and events",
+      "relation_type": "used_during",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "algorithms musical instruments",
+      "target_label": "some celebrations",
+      "relation_type": "used_during",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 29,
+      "source_label": "algeria",
+      "target_label": "musical instruments",
+      "relation_type": "celebrate_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 30,
+      "source_label": "algeria",
+      "target_label": "dance",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 5,
+      "source_label": "ritual",
+      "target_label": "algeria",
+      "relation_type": "occur",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 30,
+      "target": 4,
+      "source_label": "dance",
+      "target_label": "north africa",
+      "relation_type": "performed_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "source_label": "cultivation",
+      "target_label": "food",
+      "relation_type": "occurs",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "fava beans",
+      "target_label": "breakfast",
+      "relation_type": "served_at",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 34,
+      "target": 3,
+      "source_label": "roasted chicken",
+      "target_label": "ramadan",
+      "relation_type": "served_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "nile valley",
+      "relation_type": "served_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 35,
+      "target": 2,
+      "source_label": "qatayef",
+      "target_label": "food",
+      "relation_type": "served_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "source_label": "potato chips",
+      "target_label": "playtime",
+      "relation_type": "served_during",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 38,
+      "source_label": "food",
+      "target_label": "solo dance",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 30,
+      "target": 39,
+      "source_label": "dance",
+      "target_label": "twice initially",
+      "relation_type": "occur",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 40,
+      "source_label": "algeria",
+      "target_label": "prayer after dawn",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 41,
+      "target": 10,
+      "source_label": "university students",
+      "target_label": "nile valley",
+      "relation_type": "observed_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 41,
+      "target": 10,
+      "source_label": "university students",
+      "target_label": "nile valley",
+      "relation_type": "celebrated_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 42,
+      "target": 5,
+      "source_label": "sham al-nisim",
+      "target_label": "algeria",
+      "relation_type": "celebrated_by",
+      "weight": 3,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 43,
+      "source_label": "algeria",
+      "target_label": "fisk and rinega on sham el-nessim",
+      "relation_type": "celebrate_with",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "celebrate_with",
+      "weight": 5,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 10,
+      "source_label": "ritual",
+      "target_label": "nile valley",
+      "relation_type": "performed_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 42,
+      "target": 10,
+      "source_label": "sham al-nisim",
+      "target_label": "nile valley",
+      "relation_type": "occur_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 3,
+      "source_label": "algeria",
+      "target_label": "ramadan",
+      "relation_type": "celebrate",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 44,
+      "source_label": "algeria",
+      "target_label": "tahtheeb dance",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 45,
+      "source_label": "food",
+      "target_label": "mawalid and gatherings",
+      "relation_type": "occur_at",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "source_label": "cotton harvest",
+      "target_label": "autumn",
+      "relation_type": "occurs_during",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 48,
+      "target": 2,
+      "source_label": "young siblings",
+      "target_label": "food",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "source_label": "fava beans",
+      "target_label": "food",
+      "relation_type": "served_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 50,
+      "target": 2,
+      "source_label": "samaah al-raqiq",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 51,
+      "source_label": "food",
+      "target_label": "iftar dish",
+      "relation_type": "serves_as",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 52,
+      "source_label": "food",
+      "target_label": "suhour table",
+      "relation_type": "served_on",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 53,
+      "source_label": "food",
+      "target_label": "ramadan dawn fasting",
+      "relation_type": "eaten_during",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "source_label": "eid al-adha",
+      "target_label": "nile valley",
+      "relation_type": "celebrated_in",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 54,
+      "source_label": "food",
+      "target_label": "religion",
+      "relation_type": "observes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 55,
+      "target": 2,
+      "source_label": "eid al-adha sacrifice",
+      "target_label": "food",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 56,
+      "source_label": "food",
+      "target_label": "sunday morning",
+      "relation_type": "celebrated_on",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 10,
+      "source_label": "eid al-adha",
+      "target_label": "nile valley",
+      "relation_type": "celebrated_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "nile valley",
+      "relation_type": "celebrated_by",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 42,
+      "target": 10,
+      "source_label": "sham al-nisim",
+      "target_label": "nile valley",
+      "relation_type": "celebrated_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 42,
+      "target": 10,
+      "source_label": "sham al-nisim",
+      "target_label": "nile valley",
+      "relation_type": "celebrated_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "nile valley",
+      "relation_type": "observed_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 57,
+      "source_label": "food",
+      "target_label": "getting ready",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 58,
+      "source_label": "food",
+      "target_label": "household",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 59,
+      "target": 10,
+      "source_label": "food gathering",
+      "target_label": "nile valley",
+      "relation_type": "occurs_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 60,
+      "source_label": "ramadan",
+      "target_label": "nile valley region",
+      "relation_type": "observed_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 61,
+      "source_label": "food",
+      "target_label": "fabric for garments and accessories",
+      "relation_type": "serves_as",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "performed_during",
+      "weight": 10,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 62,
+      "source_label": "food",
+      "target_label": "religious festivals",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 63,
+      "source_label": "food",
+      "target_label": "bonalu festival",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 64,
+      "source_label": "food",
+      "target_label": "monpa community",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 65,
+      "target": 2,
+      "source_label": "apatani tribe",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 41,
+      "source_label": "food",
+      "target_label": "university students",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 66,
+      "source_label": "food",
+      "target_label": "festivals and gatherings",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 67,
+      "source_label": "food",
+      "target_label": "nocte people",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "celebrates",
+      "weight": 3,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 41,
+      "source_label": "food",
+      "target_label": "university students",
+      "relation_type": "performed_during",
+      "weight": 4,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 68,
+      "target": 2,
+      "source_label": "wancho people",
+      "target_label": "food",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 41,
+      "target": 5,
+      "source_label": "university students",
+      "target_label": "algeria",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 69,
+      "source_label": "food",
+      "target_label": "bihu dance",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 69,
+      "target": 70,
+      "source_label": "bihu dance",
+      "target_label": "assamese new year",
+      "relation_type": "celebrate",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 69,
+      "target": 71,
+      "source_label": "bihu dance",
+      "target_label": "rongali bihu festival",
+      "relation_type": "occur_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "perform",
+      "weight": 3,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 72,
+      "source_label": "food",
+      "target_label": "bwisagu festival",
+      "relation_type": "celebrated_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 73,
+      "source_label": "food",
+      "target_label": "sowing festival",
+      "relation_type": "celebrated_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "performed_by",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "source_label": "rabha dance",
+      "target_label": "community celebrations",
+      "relation_type": "during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 76,
+      "target": 2,
+      "source_label": "garo tribe",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 77,
+      "source_label": "food",
+      "target_label": "post-harvest season",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 78,
+      "target": 2,
+      "source_label": "karbi people",
+      "target_label": "food",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 79,
+      "target": 2,
+      "source_label": "assam",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 80,
+      "target": 10,
+      "source_label": "thengal kachari dance",
+      "target_label": "nile valley",
+      "relation_type": "during",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "nile valley",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 82,
+      "target": 41,
+      "source_label": "karbi dance",
+      "target_label": "university students",
+      "relation_type": "during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 82,
+      "target": 2,
+      "source_label": "karbi dance",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "ritual",
+      "relation_type": "during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 83,
+      "source_label": "food",
+      "target_label": "springtime",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 84,
+      "source_label": "food",
+      "target_label": "various communities",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 85,
+      "source_label": "food",
+      "target_label": "arrival of spring",
+      "relation_type": "occurs_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 86,
+      "target": 2,
+      "source_label": "folk dance",
+      "target_label": "food",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 69,
+      "source_label": "nile valley",
+      "target_label": "bihu dance",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 69,
+      "target": 87,
+      "source_label": "bihu dance",
+      "target_label": "harvest season",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 88,
+      "target": 2,
+      "source_label": "assamese villagers",
+      "target_label": "food",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 89,
+      "source_label": "food",
+      "target_label": "religious rituals",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 90,
+      "source_label": "food",
+      "target_label": "couples",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 91,
+      "source_label": "food",
+      "target_label": "holi celebrations",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 92,
+      "source_label": "food",
+      "target_label": "people in bihar",
+      "relation_type": "celebrated_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 93,
+      "source_label": "food",
+      "target_label": "boatmen community",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "celebrated_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 94,
+      "source_label": "food",
+      "target_label": "rituals and festivals",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "ramadan",
+      "relation_type": "celebrates_with",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 2,
+      "source_label": "ramadan",
+      "target_label": "food",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "performed_at",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "source_label": "nile valley",
+      "target_label": "food",
+      "relation_type": "performs_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "nile valley",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 95,
+      "source_label": "food",
+      "target_label": "goura marriage celebrations",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 96,
+      "target": 2,
+      "source_label": "abhujmaria tribe",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 97,
+      "target": 2,
+      "source_label": "muria tribe",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "nile valley",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 98,
+      "source_label": "food",
+      "target_label": "teacher",
+      "relation_type": "performed_with",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 30,
+      "source_label": "food",
+      "target_label": "dance",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 30,
+      "target": 2,
+      "source_label": "dance",
+      "target_label": "food",
+      "relation_type": "celebrated_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 99,
+      "source_label": "food",
+      "target_label": "folk traditions",
+      "relation_type": "preserves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 100,
+      "source_label": "food",
+      "target_label": "nature's beauty",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 101,
+      "source_label": "food",
+      "target_label": "phagun month",
+      "relation_type": "performed_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 102,
+      "source_label": "food",
+      "target_label": "navratri",
+      "relation_type": "celebrated_during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 103,
+      "source_label": "food",
+      "target_label": "rain",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 104,
+      "target": 2,
+      "source_label": "vasdeva community",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "during",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 41,
+      "source_label": "food",
+      "target_label": "university students",
+      "relation_type": "celebrates_with",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "source_label": "store closures",
+      "target_label": "sundays",
+      "relation_type": "occur_on",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 107,
+      "target": 2,
+      "source_label": "united states",
+      "target_label": "food",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 108,
+      "target": 109,
+      "source_label": "leftovers",
+      "target_label": "meal ingredients for multiple days",
+      "relation_type": "serve_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 2,
+      "target": 110,
+      "source_label": "food",
+      "target_label": "parties",
+      "relation_type": "performed_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 2,
+      "target": 111,
+      "source_label": "food",
+      "target_label": "nurse",
+      "relation_type": "performed_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 2,
+      "target": 112,
+      "source_label": "food",
+      "target_label": "various public and social settings",
+      "relation_type": "occur_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 2,
+      "target": 113,
+      "source_label": "food",
+      "target_label": "beer in algeria",
+      "relation_type": "served_with",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 114,
+      "source_label": "algeria",
+      "target_label": "new year's day",
+      "relation_type": "celebrate",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "observed_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "celebrates",
+      "weight": 5,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 115,
+      "target": 116,
+      "source_label": "catayef",
+      "target_label": "sugar and lemon",
+      "relation_type": "served_with",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "celebrate_on",
+      "weight": 3,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 117,
+      "target": 2,
+      "source_label": "company dinners",
+      "target_label": "food",
+      "relation_type": "occur_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 41,
+      "target": 5,
+      "source_label": "university students",
+      "target_label": "algeria",
+      "relation_type": "occur_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 24,
+      "target": 5,
+      "source_label": "leisure activities",
+      "target_label": "algeria",
+      "relation_type": "occur_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 118,
+      "source_label": "algeria",
+      "target_label": "independence day activities",
+      "relation_type": "celebrate_with",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "performed_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 119,
+      "target": 5,
+      "source_label": "lunar new year",
+      "target_label": "algeria",
+      "relation_type": "celebrated_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 120,
+      "target": 121,
+      "source_label": "couscous",
+      "target_label": "hangover cure food",
+      "relation_type": "serves_as",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 122,
+      "source_label": "algeria",
+      "target_label": "(lunar) new year holiday",
+      "relation_type": "observe",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "celebrated_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 123,
+      "source_label": "food",
+      "target_label": "meal option",
+      "relation_type": "serves_as",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 124,
+      "target": 125,
+      "source_label": "algerian food court",
+      "target_label": "common dining area",
+      "relation_type": "serves_as",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 126,
+      "source_label": "algeria",
+      "target_label": "famous families",
+      "relation_type": "celebrate",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "celebrated_in",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 127,
+      "source_label": "ramadan",
+      "target_label": "algerian funerals",
+      "relation_type": "served_during",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 128,
+      "source_label": "algeria",
+      "target_label": "restaurants overseas",
+      "relation_type": "served_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 129,
+      "target": 130,
+      "source_label": "prayer",
+      "target_label": "communal settings",
+      "relation_type": "occurs_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "observes",
+      "weight": 3,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 54,
+      "target": 5,
+      "source_label": "religion",
+      "target_label": "algeria",
+      "relation_type": "observed_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 131,
+      "source_label": "algeria",
+      "target_label": "birthdays",
+      "relation_type": "celebrates",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "served_at",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 132,
+      "source_label": "food",
+      "target_label": "couples and singles",
+      "relation_type": "observed_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 133,
+      "target": 134,
+      "source_label": "fireworks display",
+      "target_label": "certain foods",
+      "relation_type": "celebrated_on",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 135,
+      "source_label": "food",
+      "target_label": "longest night of the year celebration",
+      "relation_type": "eaten_during",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 2,
+      "target": 111,
+      "source_label": "food",
+      "target_label": "nurse",
+      "relation_type": "occur_at",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 136,
+      "target": 2,
+      "source_label": "classroom teacher",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 98,
+      "source_label": "algeria",
+      "target_label": "teacher",
+      "relation_type": "performs_for",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 137,
+      "source_label": "algeria",
+      "target_label": "other group",
+      "relation_type": "performs_for",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 98,
+      "target": 138,
+      "source_label": "teacher",
+      "target_label": "escorting bus",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 139,
+      "target": 140,
+      "source_label": "note",
+      "target_label": "communication tool",
+      "relation_type": "serves_as",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 141,
+      "source_label": "food",
+      "target_label": "pitching",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 142,
+      "target": 111,
+      "source_label": "pre-operative care",
+      "target_label": "nurse",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 143,
+      "target": 9,
+      "source_label": "visit",
+      "target_label": "at home",
+      "relation_type": "occurs_at",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 144,
+      "source_label": "nurse",
+      "target_label": "before shift",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 145,
+      "source_label": "nurse",
+      "target_label": "starting iv",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 2,
+      "source_label": "nurse",
+      "target_label": "food",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 146,
+      "source_label": "food",
+      "target_label": "responsibility",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 147,
+      "source_label": "nurse",
+      "target_label": "greetings",
+      "relation_type": "perform_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 148,
+      "source_label": "nurse",
+      "target_label": "routine patient care",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 111,
+      "source_label": "food",
+      "target_label": "nurse",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 149,
+      "source_label": "nurse",
+      "target_label": "checking patient's health",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 150,
+      "source_label": "nurse",
+      "target_label": "setting gadgets",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 8,
+      "source_label": "nurse",
+      "target_label": "ritual",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 8,
+      "source_label": "nurse",
+      "target_label": "ritual",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 2,
+      "source_label": "nurse",
+      "target_label": "food",
+      "relation_type": "celebrate",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 111,
+      "target": 151,
+      "source_label": "nurse",
+      "target_label": "routine checks",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 152,
+      "target": 153,
+      "source_label": "tailor",
+      "target_label": "marking garment",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 2,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 154,
+      "source_label": "algeria",
+      "target_label": "cleaning",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 155,
+      "source_label": "algeria",
+      "target_label": "filling",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 156,
+      "source_label": "algeria",
+      "target_label": "dry socket irrigation",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 157,
+      "source_label": "algeria",
+      "target_label": "regular checkup",
+      "relation_type": "performs_during",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 158,
+      "target": 159,
+      "source_label": "politician",
+      "target_label": "redistricting",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 160,
+      "target": 2,
+      "source_label": "artist",
+      "target_label": "food",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 160,
+      "source_label": "ritual",
+      "target_label": "artist",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 3,
+      "target": 160,
+      "source_label": "ramadan",
+      "target_label": "artist",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 160,
+      "target": 2,
+      "source_label": "artist",
+      "target_label": "food",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 161,
+      "target": 162,
+      "source_label": "dog walker",
+      "target_label": "regular walks",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 163,
+      "target": 8,
+      "source_label": "priest",
+      "target_label": "ritual",
+      "relation_type": "performs",
+      "weight": 2,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 163,
+      "target": 2,
+      "source_label": "priest",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 164,
+      "source_label": "food",
+      "target_label": "legacy",
+      "relation_type": "serve_as",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 165,
+      "target": 166,
+      "source_label": "attorney",
+      "target_label": "signing document",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 165,
+      "target": 167,
+      "source_label": "attorney",
+      "target_label": "getting pay off letter",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 165,
+      "target": 168,
+      "source_label": "attorney",
+      "target_label": "closing date",
+      "relation_type": "occurs_on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 165,
+      "target": 169,
+      "source_label": "attorney",
+      "target_label": "notarization",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 170,
+      "source_label": "food",
+      "target_label": "payment guarantee",
+      "relation_type": "serves_as",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 165,
+      "target": 2,
+      "source_label": "attorney",
+      "target_label": "food",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 171,
+      "target": 172,
+      "source_label": "scientist",
+      "target_label": "sacrifice pigs",
+      "relation_type": "perform_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 173,
+      "target": 171,
+      "source_label": "experiment",
+      "target_label": "scientist",
+      "relation_type": "performed_by",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 171,
+      "target": 174,
+      "source_label": "scientist",
+      "target_label": "putting numbers on board",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 175,
+      "target": 176,
+      "source_label": "opening paragraph",
+      "target_label": "hook",
+      "relation_type": "serves_as",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 177,
+      "source_label": "food",
+      "target_label": "dishes tableside",
+      "relation_type": "serves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 178,
+      "source_label": "food",
+      "target_label": "tableside service",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 179,
+      "source_label": "food",
+      "target_label": "tables",
+      "relation_type": "serves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 2,
+      "target": 180,
+      "source_label": "food",
+      "target_label": "serving in tandem",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 181,
+      "target": 182,
+      "source_label": "doctor",
+      "target_label": "patient care",
+      "relation_type": "perform",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 181,
+      "target": 183,
+      "source_label": "doctor",
+      "target_label": "health assessment",
+      "relation_type": "performs_ritual",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 181,
+      "target": 184,
+      "source_label": "doctor",
+      "target_label": "physical exam",
+      "relation_type": "performs",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 181,
+      "target": 185,
+      "source_label": "doctor",
+      "target_label": "routine visit",
+      "relation_type": "performs_during",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

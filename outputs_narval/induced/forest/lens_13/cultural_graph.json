@@ -1,0 +1,902 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "saharan music",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 40
+    },
+    {
+      "id": 3,
+      "label": "local sweet",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 7
+    },
+    {
+      "id": 5,
+      "label": "north african culture",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "traditional_local_songs",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "dance",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "specific to kabyle region",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 10,
+      "label": "evening leisure activities",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "traditional movements",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "cultural practices of breaking fast",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "fine texture",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "durability",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 15,
+      "label": "soft texture and lightweight nature",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "broken stripe pattern",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "colorful patterns",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "dhurrie",
+      "level": 2,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "intricate patterns",
+      "level": 1,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 4
+    },
+    {
+      "id": 20,
+      "label": "unique texture",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "natural sheen",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "rich texture",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "traditional patterns and motifs",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "smooth texture",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "white color with golden border",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "unique blend of traditional and contemporary designs",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "lightweight texture",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "fine white cotton",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "white base with purple patterns",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "kashida embroidery",
+      "level": 1,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "black, red, and white stripes",
+      "level": 3,
+      "cultural_group": "mizoram",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "intricate designs",
+      "level": 3,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "cotton sarees",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "soft texture and durability",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "distinctive patterns",
+      "level": 4,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "tight-fitting upper body and flared skirt",
+      "level": 3,
+      "cultural_group": "delhi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "sheer quality",
+      "level": 3,
+      "cultural_group": "delhi",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "folk dance",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "nocte culture",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "thengal kachari dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 41,
+      "label": "assam",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 42,
+      "label": "sonowal kachari dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "drum-based",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "assam cultural practice",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "tribal performance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 47,
+      "label": "instrumental performance",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "local ingredients",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "young entrepreneurship",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "cultural practice",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "theatrical performances",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "some algerian regions",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "saharan music",
+      "target_label": "food",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "local sweet",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "north african culture",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "traditional_local_songs",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "dance",
+      "target_label": "specific to kabyle region",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "nile valley",
+      "target_label": "evening leisure activities",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "source_label": "food",
+      "target_label": "traditional movements",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 12,
+      "source_label": "nile valley",
+      "target_label": "cultural practices of breaking fast",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 2,
+      "target": 13,
+      "source_label": "food",
+      "target_label": "fine texture",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 14,
+      "source_label": "food",
+      "target_label": "durability",
+      "relation_type": "characterized_by",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "soft texture and lightweight nature",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "broken stripe pattern",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "colorful patterns",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "dhurrie",
+      "target_label": "intricate patterns",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 20,
+      "source_label": "food",
+      "target_label": "unique texture",
+      "relation_type": "has_characteristic",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 21,
+      "source_label": "food",
+      "target_label": "natural sheen",
+      "relation_type": "has_characteristic",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "rich texture",
+      "relation_type": "has_characteristic",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 23,
+      "source_label": "food",
+      "target_label": "traditional patterns and motifs",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 24,
+      "source_label": "food",
+      "target_label": "smooth texture",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "white color with golden border",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 26,
+      "source_label": "food",
+      "target_label": "unique blend of traditional and contemporary designs",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 19,
+      "source_label": "food",
+      "target_label": "intricate patterns",
+      "relation_type": "characterized_by",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 27,
+      "source_label": "food",
+      "target_label": "lightweight texture",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 28,
+      "source_label": "food",
+      "target_label": "fine white cotton",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 29,
+      "source_label": "food",
+      "target_label": "white base with purple patterns",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 30,
+      "target": 19,
+      "source_label": "kashida embroidery",
+      "target_label": "intricate patterns",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 31,
+      "source_label": "food",
+      "target_label": "black, red, and white stripes",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 2,
+      "source_label": "intricate designs",
+      "target_label": "food",
+      "relation_type": "characterize",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "cotton sarees",
+      "target_label": "soft texture and durability",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 35,
+      "source_label": "food",
+      "target_label": "distinctive patterns",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 36,
+      "source_label": "food",
+      "target_label": "tight-fitting upper body and flared skirt",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 37,
+      "source_label": "food",
+      "target_label": "sheer quality",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 38,
+      "source_label": "food",
+      "target_label": "folk dance",
+      "relation_type": "characterized_as",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 39,
+      "source_label": "food",
+      "target_label": "nocte culture",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 40,
+      "target": 41,
+      "source_label": "thengal kachari dance",
+      "target_label": "assam",
+      "relation_type": "characteristic_of",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 42,
+      "target": 41,
+      "source_label": "sonowal kachari dance",
+      "target_label": "assam",
+      "relation_type": "characteristic_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 43,
+      "source_label": "food",
+      "target_label": "drum-based",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 44,
+      "source_label": "food",
+      "target_label": "assam cultural practice",
+      "relation_type": "characteristic_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 45,
+      "source_label": "food",
+      "target_label": "tribal performance",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 46,
+      "source_label": "food",
+      "target_label": "traditional dishes",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 47,
+      "source_label": "food",
+      "target_label": "instrumental performance",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 2,
+      "target": 48,
+      "source_label": "food",
+      "target_label": "local ingredients",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 46,
+      "target": 4,
+      "source_label": "traditional dishes",
+      "target_label": "algeria",
+      "relation_type": "characterize",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 49,
+      "source_label": "algeria",
+      "target_label": "young entrepreneurship",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 50,
+      "source_label": "algeria",
+      "target_label": "cultural practice",
+      "relation_type": "characterized_by",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "source_label": "theatrical performances",
+      "target_label": "some algerian regions",
+      "relation_type": "characteristic_of",
+      "weight": 1,
+      "source_dataset": "blend"
+    }
+  ]
+}

@@ -1,0 +1,6032 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "sahur",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "time",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "mshousha",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "liyla",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "algeria",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 20
+    },
+    {
+      "id": 6,
+      "label": "providing fruits when visiting a patient",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "mahr",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 8,
+      "label": "ramadan",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "shopping",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "maa'ayidah",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "aid el-adha",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 157
+    },
+    {
+      "id": 13,
+      "label": "day of arafat",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 14,
+      "label": "companies and institutions",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "dying",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "burial",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "dividing the remaining assets of the deceased after forty days",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "algerian traditional music instruments",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "a song",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "southern algeria",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "special crop",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "sikka",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "fruit harvest festival",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "dates",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "duba",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "customs",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 27,
+      "label": "habits",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "customs and traditions",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 29,
+      "label": "morning routine",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "mother",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "laws for studying",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "spending time together",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "after school",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "helping",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "behavior",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "street games",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "islamic religion",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "burial",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "procedures before burial",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "treatment of body",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "algerian society",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "songs",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "planting allowed plants",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "proverb",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "ahl al-`arusa",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "egypt",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 5
+    },
+    {
+      "id": 47,
+      "label": "zakat al-fitr",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "islam",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "eid al-adha",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "shawerma",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "kafn",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "ahl",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "ahl",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "jitzman",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "qubur",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "egypt",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 57,
+      "label": "islamic sharia",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "inheritance",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "spring",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "cotton",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "nile valley",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "proverb",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "pilgrim animal",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 64,
+      "label": "eid al-adha",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "manufacture",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 66,
+      "label": "mangalagiri cotton",
+      "level": 5,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "mangalagiri town",
+      "level": 5,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "uppada silk",
+      "level": 5,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "uppada village",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "kalamkari",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "andhra pradesh",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "dharmavaram silk",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "dharmavaram",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 74,
+      "label": "srikalahasti kalamkari",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "srikalahasti",
+      "level": 2,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "muga silk",
+      "level": 5,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "assam",
+      "level": 1,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 78,
+      "label": "eri silk",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 79,
+      "label": "assam",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 80,
+      "label": "gamosa",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "lasingphee",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "bhagalpuri silk",
+      "level": 5,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "bhagalpur",
+      "level": 5,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "madhubani painting on textiles",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "mithila region",
+      "level": 4,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "aal-dyed handloom fabrics",
+      "level": 5,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "bastar region",
+      "level": 5,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "goan crochet and embroidery",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "portugal",
+      "level": 2,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 90,
+      "label": "chamba rumal",
+      "level": 3,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 91,
+      "label": "chamba region",
+      "level": 4,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 92,
+      "label": "rampur chaddar",
+      "level": 5,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 93,
+      "label": "rampur",
+      "level": 4,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 94,
+      "label": "kuchai silk",
+      "level": 3,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 95,
+      "label": "kharsawan-kuchai region",
+      "level": 2,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 96,
+      "label": "bhagalpuri silk",
+      "level": 4,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 97,
+      "label": "bihar and jharkhand",
+      "level": 5,
+      "cultural_group": "jharkhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 98,
+      "label": "ilkal saree",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 99,
+      "label": "ilkal",
+      "level": 4,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 100,
+      "label": "mysore silk sarees",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 101,
+      "label": "mysore",
+      "level": 5,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 102,
+      "label": "molakalmuru saree",
+      "level": 5,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 103,
+      "label": "molakalmuru",
+      "level": 4,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 104,
+      "label": "chitradurga district",
+      "level": 4,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 105,
+      "label": "navalgund durries",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 106,
+      "label": "dharwad district",
+      "level": 5,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 107,
+      "label": "guledgudda khana",
+      "level": 5,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 108,
+      "label": "guledgudda",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 109,
+      "label": "balaramapuram handloom",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 110,
+      "label": "balaramapuram region",
+      "level": 2,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 111,
+      "label": "chendamangalam saree",
+      "level": 3,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 112,
+      "label": "chendamangalam",
+      "level": 2,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 113,
+      "label": "kuthampully saree",
+      "level": 3,
+      "cultural_group": "devanga chettiar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 114,
+      "label": "kerala",
+      "level": 1,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 115,
+      "label": "kavani",
+      "level": 3,
+      "cultural_group": "malayali",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 116,
+      "label": "kerala",
+      "level": 2,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 117,
+      "label": "thiruvananthapuram saree",
+      "level": 5,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 118,
+      "label": "thiruvananthapuram",
+      "level": 2,
+      "cultural_group": "kerala",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 119,
+      "label": "chanderi saree",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 120,
+      "label": "chanderi",
+      "level": 4,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 121,
+      "label": "tussar silk",
+      "level": 5,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 122,
+      "label": "chhindwara",
+      "level": 2,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 123,
+      "label": "nandana print",
+      "level": 3,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 124,
+      "label": "malwa region",
+      "level": 4,
+      "cultural_group": "madhya pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 125,
+      "label": "paithani saree",
+      "level": 5,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 126,
+      "label": "paithan",
+      "level": 4,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 127,
+      "label": "solapur chaddar",
+      "level": 5,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 128,
+      "label": "solapur",
+      "level": 4,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 129,
+      "label": "narayan peth sari",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 130,
+      "label": "narayan peth",
+      "level": 4,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 131,
+      "label": "ilkal sari",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 132,
+      "label": "karnataka",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 133,
+      "label": "chanderi sari",
+      "level": 3,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 134,
+      "label": "madhya pradesh",
+      "level": 5,
+      "cultural_group": "maharashtra",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 135,
+      "label": "wangkhei phee",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 136,
+      "label": "manipur",
+      "level": 1,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 137,
+      "label": "bomkai saree",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 138,
+      "label": "sonepuri saree",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 139,
+      "label": "sonepur district",
+      "level": 5,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 140,
+      "label": "berhampuri patta",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 141,
+      "label": "berhampur",
+      "level": 4,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 142,
+      "label": "kotpad handloom",
+      "level": 5,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 143,
+      "label": "tribal regions",
+      "level": 4,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 144,
+      "label": "habaspuri saree",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 145,
+      "label": "kalahandi district",
+      "level": 4,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 146,
+      "label": "pipili appliqué work",
+      "level": 3,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 147,
+      "label": "pipili",
+      "level": 4,
+      "cultural_group": "odisha",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 148,
+      "label": "salwar kameez",
+      "level": 3,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 149,
+      "label": "punjab",
+      "level": 2,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 150,
+      "label": "sanganeri block print",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 151,
+      "label": "sanganer",
+      "level": 4,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 152,
+      "label": "madurai sungudi",
+      "level": 5,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 153,
+      "label": "madurai",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 154,
+      "label": "chettnad kandangi saree",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 155,
+      "label": "chettnad region",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 156,
+      "label": "salem silk dhoti",
+      "level": 5,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 157,
+      "label": "salem region",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 158,
+      "label": "kumbakonam silk saree",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 159,
+      "label": "kumbakonam",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 160,
+      "label": "bhavani jamakkalam",
+      "level": 5,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 161,
+      "label": "bhavani",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 162,
+      "label": "pochampally ikat",
+      "level": 3,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 163,
+      "label": "bhoodan pochampally",
+      "level": 4,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 164,
+      "label": "siddipet gollabhama sarees",
+      "level": 5,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 165,
+      "label": "siddipet",
+      "level": 2,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 166,
+      "label": "gongadi blanket",
+      "level": 4,
+      "cultural_group": "kuruma community",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 167,
+      "label": "telangana",
+      "level": 1,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 168,
+      "label": "kuruma community",
+      "level": 2,
+      "cultural_group": "telangana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 169,
+      "label": "woolen weaving",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 170,
+      "label": "uttarakhand",
+      "level": 1,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 171,
+      "label": "banarasi sari",
+      "level": 5,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 172,
+      "label": "varanasi",
+      "level": 4,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 173,
+      "label": "baluchari sari",
+      "level": 5,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 174,
+      "label": "baluchar in murshidabad",
+      "level": 2,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 175,
+      "label": "tangail sari",
+      "level": 3,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 176,
+      "label": "tangail",
+      "level": 4,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 177,
+      "label": "punjab region",
+      "level": 3,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 178,
+      "label": "salwar kameez",
+      "level": 5,
+      "cultural_group": "chandigarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 179,
+      "label": "kani shawl",
+      "level": 5,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 180,
+      "label": "kanihama area",
+      "level": 2,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 181,
+      "label": "sambha calico prints",
+      "level": 4,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 182,
+      "label": "sambha region",
+      "level": 2,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 183,
+      "label": "pashmina wool",
+      "level": 5,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 184,
+      "label": "changthangi goat",
+      "level": 5,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 185,
+      "label": "tsul",
+      "level": 5,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 186,
+      "label": "ladakh",
+      "level": 2,
+      "cultural_group": "ladakh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 187,
+      "label": "kachi",
+      "level": 3,
+      "cultural_group": "lakshadweep",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 188,
+      "label": "lakshadweep",
+      "level": 2,
+      "cultural_group": "lakshadweep",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 189,
+      "label": "mundu",
+      "level": 3,
+      "cultural_group": "lakshadweep",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 190,
+      "label": "pondicherry handloom fabrics",
+      "level": 5,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 191,
+      "label": "puducherry",
+      "level": 1,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 192,
+      "label": "khadi textiles",
+      "level": 3,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 193,
+      "label": "puducherry",
+      "level": 2,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 194,
+      "label": "palampore prints",
+      "level": 5,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 195,
+      "label": "india",
+      "level": 5,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 196,
+      "label": "prenkhana",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 197,
+      "label": "andhra pradesh",
+      "level": 1,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 198,
+      "label": "kherai dance",
+      "level": 3,
+      "cultural_group": "tiwa tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 199,
+      "label": "zikirs",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 200,
+      "label": "muslim saint azan fakir",
+      "level": 5,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 201,
+      "label": "grocery store",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 202,
+      "label": "alcohol",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 203,
+      "label": "smoking",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 204,
+      "label": "united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 5
+    },
+    {
+      "id": 205,
+      "label": "peanut butter",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 206,
+      "label": "air conditioning",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 207,
+      "label": "tea",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 208,
+      "label": "british culture",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 209,
+      "label": "umbrella",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 210,
+      "label": "latin word 'umbra'",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 211,
+      "label": "large refrigerators",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 212,
+      "label": "fridges",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 213,
+      "label": "homelessness",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 214,
+      "label": "free water",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 215,
+      "label": "legal requirements",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 216,
+      "label": "restrictions on ac use",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 217,
+      "label": "historically",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 218,
+      "label": "term soccer",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 219,
+      "label": "british colonizers",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 220,
+      "label": "trucks",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 221,
+      "label": "rural areas",
+      "level": 2,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 222,
+      "label": "fruit",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 223,
+      "label": "preschool",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 224,
+      "label": "thanksgiving",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 225,
+      "label": "team sport",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 226,
+      "label": "ingredient",
+      "level": 1,
+      "cultural_group": "food",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 227,
+      "label": "hot drink",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 228,
+      "label": "new year's eve",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 229,
+      "label": "elderly",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 230,
+      "label": "maternity leave",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 231,
+      "label": "paternity leave",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 232,
+      "label": "family vacation",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 233,
+      "label": "olympics",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 234,
+      "label": "average family size",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 235,
+      "label": "students",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 236,
+      "label": "lunch break",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 237,
+      "label": "mother",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 238,
+      "label": "salary",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 239,
+      "label": "family-related holidays",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 240,
+      "label": "children's independence",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 241,
+      "label": "child birth",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 242,
+      "label": "birthday",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 243,
+      "label": "private education",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 244,
+      "label": "elementary school",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 245,
+      "label": "region",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 246,
+      "label": "water sport",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 247,
+      "label": "agriculture",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 248,
+      "label": "summer vacations",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 249,
+      "label": "elementary schools",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 250,
+      "label": "universities",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 251,
+      "label": "age",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 252,
+      "label": "alcohol",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 253,
+      "label": "dinner at a restaurant",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 254,
+      "label": "seafood",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 255,
+      "label": "festival",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 256,
+      "label": "break duration",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 257,
+      "label": "education",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 258,
+      "label": "algerian food",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 259,
+      "label": "algerian food",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 260,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 8
+    },
+    {
+      "id": 261,
+      "label": "bread",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 262,
+      "label": "national holiday",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 263,
+      "label": "house",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 264,
+      "label": "family member dies",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 265,
+      "label": "pregnancy celebration or ceremony",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 266,
+      "label": "wedding",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 267,
+      "label": "days before ramadan",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 268,
+      "label": "religious site",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 269,
+      "label": "women",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 270,
+      "label": "clothes",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 271,
+      "label": "cold weather drink",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 272,
+      "label": "ramadan",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 273,
+      "label": "government",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 274,
+      "label": "meat",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 275,
+      "label": "side dish",
+      "level": 4,
+      "cultural_group": "food",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 276,
+      "label": "nourishing food",
+      "level": 4,
+      "cultural_group": "food",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 277,
+      "label": "algeria",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 278,
+      "label": "wedding gift",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 279,
+      "label": "traffic congestion",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 280,
+      "label": "destination",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 281,
+      "label": "secure job",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 282,
+      "label": "industry",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 283,
+      "label": "dish",
+      "level": 1,
+      "cultural_group": "food",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 284,
+      "label": "meals",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 285,
+      "label": "festive meal",
+      "level": 4,
+      "cultural_group": "food",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 286,
+      "label": "traditional food",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 287,
+      "label": "dipping sauce",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 288,
+      "label": "christian fasting",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 289,
+      "label": "elementary school student",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 290,
+      "label": "desert",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 291,
+      "label": "religious holiday",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 292,
+      "label": "wedding",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 293,
+      "label": "wheat-based food",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 294,
+      "label": "drink",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 295,
+      "label": "fish",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 296,
+      "label": "traditional games",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 297,
+      "label": "festival accessories",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 298,
+      "label": "seafood",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 299,
+      "label": "skiing destination",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 300,
+      "label": "spicy dish",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 301,
+      "label": "seasoning",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 302,
+      "label": "cold weather",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 303,
+      "label": "alcohol brand",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 304,
+      "label": "job",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 305,
+      "label": "probation period",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 306,
+      "label": "industries",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 307,
+      "label": "family trip",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 308,
+      "label": "accommodation",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 309,
+      "label": "middle school",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 310,
+      "label": "holidays",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 311,
+      "label": "chip/crisp",
+      "level": 1,
+      "cultural_group": "food",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 312,
+      "label": "chocolate",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 313,
+      "label": "cheese",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 314,
+      "label": "vegetable",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 315,
+      "label": "food court",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 316,
+      "label": "family name",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 317,
+      "label": "family",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 318,
+      "label": "country",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 319,
+      "label": "theatrical performance",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 320,
+      "label": "alcoholic drink",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 321,
+      "label": "morning drink",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 322,
+      "label": "traditional dessert",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 323,
+      "label": "racket sport",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 324,
+      "label": "sporting event",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 325,
+      "label": "funeral",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 326,
+      "label": "wedding",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 327,
+      "label": "wedding venue",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 328,
+      "label": "coffee shop brand",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 329,
+      "label": "restaurants",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 330,
+      "label": "mining",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 331,
+      "label": "oil",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 332,
+      "label": "prenatal education activity",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 333,
+      "label": "university students",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 334,
+      "label": "side job",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 335,
+      "label": "edible souvenir",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 336,
+      "label": "stew",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 337,
+      "label": "spice/herb",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 338,
+      "label": "work schedule",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 339,
+      "label": "month of ramadan",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 340,
+      "label": "elementary schools",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 341,
+      "label": "edible insect",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 342,
+      "label": "agricultural product",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 343,
+      "label": "sweets",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 344,
+      "label": "independence day",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 345,
+      "label": "non-alcoholic drink",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 346,
+      "label": "mountainous areas",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 347,
+      "label": "coastal areas",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 348,
+      "label": "farmers",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 349,
+      "label": "christmas day",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 350,
+      "label": "christmas song",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 351,
+      "label": "job seeker",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 352,
+      "label": "fast food chain",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 353,
+      "label": "family pet",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 354,
+      "label": "tv show",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 355,
+      "label": "takeaway food",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 356,
+      "label": "daily exercise",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 357,
+      "label": "rivalry",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 358,
+      "label": "sport",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 359,
+      "label": "tv program",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 360,
+      "label": "fireworks",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 361,
+      "label": "professional sports league",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 362,
+      "label": "tournament",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 363,
+      "label": "family holiday",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 364,
+      "label": "cheque",
+      "level": 5,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 365,
+      "label": "banker",
+      "level": 1,
+      "cultural_group": "banker",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 366,
+      "label": "doctor",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 367,
+      "label": "order",
+      "level": 5,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 368,
+      "label": "politician",
+      "level": 1,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 369,
+      "label": "party",
+      "level": 5,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 370,
+      "label": "politician",
+      "level": 5,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 371,
+      "label": "government official",
+      "level": 5,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 372,
+      "label": "public kin official",
+      "level": 5,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 373,
+      "label": "polling",
+      "level": 2,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 374,
+      "label": "public opinion",
+      "level": 2,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 375,
+      "label": "bank",
+      "level": 5,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 376,
+      "label": "banker",
+      "level": 4,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 377,
+      "label": "merchant",
+      "level": 2,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 378,
+      "label": "merchant",
+      "level": 1,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 379,
+      "label": "loan",
+      "level": 5,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 380,
+      "label": "agreement",
+      "level": 3,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 381,
+      "label": "account",
+      "level": 2,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 382,
+      "label": "account book",
+      "level": 4,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 383,
+      "label": "business",
+      "level": 4,
+      "cultural_group": "merchant",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 384,
+      "label": "photographer",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 385,
+      "label": "wedding",
+      "level": 5,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 386,
+      "label": "licensed architect",
+      "level": 4,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 387,
+      "label": "engineer",
+      "level": 4,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 388,
+      "label": "plans",
+      "level": 2,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 389,
+      "label": "architect",
+      "level": 1,
+      "cultural_group": "occupations",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 390,
+      "label": "church plans",
+      "level": 4,
+      "cultural_group": "rituals",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 391,
+      "label": "state",
+      "level": 2,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 392,
+      "label": "ebbe drains",
+      "level": 5,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 393,
+      "label": "architects",
+      "level": 4,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 394,
+      "label": "homeowners",
+      "level": 2,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "sahur",
+      "target_label": "time",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "source_label": "mshousha",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 3,
+      "source_label": "liyla",
+      "target_label": "mshousha",
+      "relation_type": "prepares",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 5,
+      "source_label": "providing fruits when visiting a patient",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 5,
+      "source_label": "mahr",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 8,
+      "source_label": "shopping",
+      "target_label": "ramadan",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "maa'ayidah",
+      "target_label": "aid el-adha",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 13,
+      "target": 5,
+      "source_label": "day of arafat",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "dying",
+      "target_label": "burial",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 17,
+      "source_label": "algeria",
+      "target_label": "dividing the remaining assets of the deceased after forty days",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 18,
+      "target": 5,
+      "source_label": "algerian traditional music instruments",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "southern algeria",
+      "target_label": "special crop",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "sikka",
+      "target_label": "fruit harvest festival",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 24,
+      "target": 5,
+      "source_label": "dates",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 25,
+      "target": 5,
+      "source_label": "duba",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 26,
+      "source_label": "algeria",
+      "target_label": "customs",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 27,
+      "source_label": "algeria",
+      "target_label": "habits",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 28,
+      "source_label": "algeria",
+      "target_label": "customs and traditions",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 29,
+      "target": 5,
+      "source_label": "morning routine",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "spending time together",
+      "target_label": "after school",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 34,
+      "target": 5,
+      "source_label": "helping",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 35,
+      "source_label": "algeria",
+      "target_label": "behavior",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 36,
+      "target": 5,
+      "source_label": "street games",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 37,
+      "target": 16,
+      "source_label": "islamic religion",
+      "target_label": "burial",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 39,
+      "source_label": "algeria",
+      "target_label": "procedures before burial",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 40,
+      "source_label": "algeria",
+      "target_label": "treatment of body",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 26,
+      "target": 5,
+      "source_label": "customs",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 41,
+      "target": 28,
+      "source_label": "algerian society",
+      "target_label": "customs and traditions",
+      "relation_type": "follows",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 42,
+      "source_label": "algeria",
+      "target_label": "songs",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 43,
+      "source_label": "algeria",
+      "target_label": "planting allowed plants",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 44,
+      "target": 5,
+      "source_label": "proverb",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 46,
+      "source_label": "mahr",
+      "target_label": "egypt",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 45,
+      "target": 7,
+      "source_label": "ahl al-`arusa",
+      "target_label": "mahr",
+      "relation_type": "receives",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 47,
+      "target": 48,
+      "source_label": "zakat al-fitr",
+      "target_label": "islam",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 13,
+      "target": 49,
+      "source_label": "day of arafat",
+      "target_label": "eid al-adha",
+      "relation_type": "is part of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 50,
+      "target": 46,
+      "source_label": "shawerma",
+      "target_label": "egypt",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 51,
+      "target": 46,
+      "source_label": "kafn",
+      "target_label": "egypt",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 52,
+      "target": 46,
+      "source_label": "ahl",
+      "target_label": "egypt",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 54,
+      "target": 55,
+      "source_label": "jitzman",
+      "target_label": "qubur",
+      "relation_type": "is placed in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 58,
+      "target": 57,
+      "source_label": "inheritance",
+      "target_label": "islamic sharia",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "source_label": "cotton",
+      "target_label": "nile valley",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 44,
+      "target": 46,
+      "source_label": "proverb",
+      "target_label": "egypt",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 63,
+      "target": 49,
+      "source_label": "pilgrim animal",
+      "target_label": "eid al-adha",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 46,
+      "target": 65,
+      "source_label": "egypt",
+      "target_label": "manufacture",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 66,
+      "target": 67,
+      "source_label": "mangalagiri cotton",
+      "target_label": "mangalagiri town",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 68,
+      "target": 69,
+      "source_label": "uppada silk",
+      "target_label": "uppada village",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 70,
+      "target": 71,
+      "source_label": "kalamkari",
+      "target_label": "andhra pradesh",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 72,
+      "target": 73,
+      "source_label": "dharmavaram silk",
+      "target_label": "dharmavaram",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "source_label": "srikalahasti kalamkari",
+      "target_label": "srikalahasti",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 76,
+      "target": 77,
+      "source_label": "muga silk",
+      "target_label": "assam",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 78,
+      "target": 77,
+      "source_label": "eri silk",
+      "target_label": "assam",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 80,
+      "target": 77,
+      "source_label": "gamosa",
+      "target_label": "assam",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 81,
+      "target": 77,
+      "source_label": "lasingphee",
+      "target_label": "assam",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 82,
+      "target": 83,
+      "source_label": "bhagalpuri silk",
+      "target_label": "bhagalpur",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 84,
+      "target": 85,
+      "source_label": "madhubani painting on textiles",
+      "target_label": "mithila region",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 86,
+      "target": 87,
+      "source_label": "aal-dyed handloom fabrics",
+      "target_label": "bastar region",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 88,
+      "target": 89,
+      "source_label": "goan crochet and embroidery",
+      "target_label": "portugal",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 90,
+      "target": 91,
+      "source_label": "chamba rumal",
+      "target_label": "chamba region",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 92,
+      "target": 93,
+      "source_label": "rampur chaddar",
+      "target_label": "rampur",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 94,
+      "target": 95,
+      "source_label": "kuchai silk",
+      "target_label": "kharsawan-kuchai region",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 82,
+      "target": 97,
+      "source_label": "bhagalpuri silk",
+      "target_label": "bihar and jharkhand",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 98,
+      "target": 99,
+      "source_label": "ilkal saree",
+      "target_label": "ilkal",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 100,
+      "target": 101,
+      "source_label": "mysore silk sarees",
+      "target_label": "mysore",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 102,
+      "target": 103,
+      "source_label": "molakalmuru saree",
+      "target_label": "molakalmuru",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 102,
+      "target": 104,
+      "source_label": "molakalmuru saree",
+      "target_label": "chitradurga district",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 105,
+      "target": 106,
+      "source_label": "navalgund durries",
+      "target_label": "dharwad district",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 107,
+      "target": 108,
+      "source_label": "guledgudda khana",
+      "target_label": "guledgudda",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 109,
+      "target": 110,
+      "source_label": "balaramapuram handloom",
+      "target_label": "balaramapuram region",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 111,
+      "target": 112,
+      "source_label": "chendamangalam saree",
+      "target_label": "chendamangalam",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 113,
+      "target": 114,
+      "source_label": "kuthampully saree",
+      "target_label": "kerala",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 115,
+      "target": 114,
+      "source_label": "kavani",
+      "target_label": "kerala",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 117,
+      "target": 118,
+      "source_label": "thiruvananthapuram saree",
+      "target_label": "thiruvananthapuram",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 119,
+      "target": 120,
+      "source_label": "chanderi saree",
+      "target_label": "chanderi",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 121,
+      "target": 122,
+      "source_label": "tussar silk",
+      "target_label": "chhindwara",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 123,
+      "target": 124,
+      "source_label": "nandana print",
+      "target_label": "malwa region",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 125,
+      "target": 126,
+      "source_label": "paithani saree",
+      "target_label": "paithan",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 127,
+      "target": 128,
+      "source_label": "solapur chaddar",
+      "target_label": "solapur",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 129,
+      "target": 130,
+      "source_label": "narayan peth sari",
+      "target_label": "narayan peth",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 131,
+      "target": 132,
+      "source_label": "ilkal sari",
+      "target_label": "karnataka",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 133,
+      "target": 134,
+      "source_label": "chanderi sari",
+      "target_label": "madhya pradesh",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 135,
+      "target": 136,
+      "source_label": "wangkhei phee",
+      "target_label": "manipur",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 137,
+      "target": 139,
+      "source_label": "bomkai saree",
+      "target_label": "sonepur district",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 140,
+      "target": 141,
+      "source_label": "berhampuri patta",
+      "target_label": "berhampur",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 142,
+      "target": 143,
+      "source_label": "kotpad handloom",
+      "target_label": "tribal regions",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 144,
+      "target": 145,
+      "source_label": "habaspuri saree",
+      "target_label": "kalahandi district",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 146,
+      "target": 147,
+      "source_label": "pipili appliqué work",
+      "target_label": "pipili",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 148,
+      "target": 149,
+      "source_label": "salwar kameez",
+      "target_label": "punjab",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 150,
+      "target": 151,
+      "source_label": "sanganeri block print",
+      "target_label": "sanganer",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 152,
+      "target": 153,
+      "source_label": "madurai sungudi",
+      "target_label": "madurai",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 154,
+      "target": 155,
+      "source_label": "chettnad kandangi saree",
+      "target_label": "chettnad region",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 156,
+      "target": 157,
+      "source_label": "salem silk dhoti",
+      "target_label": "salem region",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 158,
+      "target": 159,
+      "source_label": "kumbakonam silk saree",
+      "target_label": "kumbakonam",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 160,
+      "target": 161,
+      "source_label": "bhavani jamakkalam",
+      "target_label": "bhavani",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 162,
+      "target": 163,
+      "source_label": "pochampally ikat",
+      "target_label": "bhoodan pochampally",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 164,
+      "target": 165,
+      "source_label": "siddipet gollabhama sarees",
+      "target_label": "siddipet",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 166,
+      "target": 168,
+      "source_label": "gongadi blanket",
+      "target_label": "kuruma community",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 169,
+      "target": 170,
+      "source_label": "woolen weaving",
+      "target_label": "uttarakhand",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 171,
+      "target": 172,
+      "source_label": "banarasi sari",
+      "target_label": "varanasi",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 173,
+      "target": 174,
+      "source_label": "baluchari sari",
+      "target_label": "baluchar in murshidabad",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 175,
+      "target": 176,
+      "source_label": "tangail sari",
+      "target_label": "tangail",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 148,
+      "target": 177,
+      "source_label": "salwar kameez",
+      "target_label": "punjab region",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 179,
+      "target": 180,
+      "source_label": "kani shawl",
+      "target_label": "kanihama area",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 181,
+      "target": 182,
+      "source_label": "sambha calico prints",
+      "target_label": "sambha region",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 183,
+      "target": 184,
+      "source_label": "pashmina wool",
+      "target_label": "changthangi goat",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 185,
+      "target": 186,
+      "source_label": "tsul",
+      "target_label": "ladakh",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 187,
+      "target": 188,
+      "source_label": "kachi",
+      "target_label": "lakshadweep",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 189,
+      "target": 188,
+      "source_label": "mundu",
+      "target_label": "lakshadweep",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 190,
+      "target": 191,
+      "source_label": "pondicherry handloom fabrics",
+      "target_label": "puducherry",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 192,
+      "target": 191,
+      "source_label": "khadi textiles",
+      "target_label": "puducherry",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 194,
+      "target": 195,
+      "source_label": "palampore prints",
+      "target_label": "india",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 196,
+      "target": 71,
+      "source_label": "prenkhana",
+      "target_label": "andhra pradesh",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 198,
+      "target": 77,
+      "source_label": "kherai dance",
+      "target_label": "assam",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 199,
+      "target": 200,
+      "source_label": "zikirs",
+      "target_label": "muslim saint azan fakir",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 202,
+      "target": 201,
+      "source_label": "alcohol",
+      "target_label": "grocery store",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 203,
+      "target": 204,
+      "source_label": "smoking",
+      "target_label": "united states",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 205,
+      "target": 204,
+      "source_label": "peanut butter",
+      "target_label": "united states",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 206,
+      "target": 204,
+      "source_label": "air conditioning",
+      "target_label": "united states",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 207,
+      "target": 208,
+      "source_label": "tea",
+      "target_label": "british culture",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 209,
+      "target": 210,
+      "source_label": "umbrella",
+      "target_label": "latin word 'umbra'",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 211,
+      "target": 204,
+      "source_label": "large refrigerators",
+      "target_label": "united states",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 212,
+      "target": 204,
+      "source_label": "fridges",
+      "target_label": "united states",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 213,
+      "target": 204,
+      "source_label": "homelessness",
+      "target_label": "united states",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 214,
+      "target": 215,
+      "source_label": "free water",
+      "target_label": "legal requirements",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 216,
+      "target": 217,
+      "source_label": "restrictions on ac use",
+      "target_label": "historically",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 218,
+      "target": 219,
+      "source_label": "term soccer",
+      "target_label": "british colonizers",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 220,
+      "target": 221,
+      "source_label": "trucks",
+      "target_label": "rural areas",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 222,
+      "source_label": "algeria",
+      "target_label": "fruit",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 223,
+      "target": 5,
+      "source_label": "preschool",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 224,
+      "target": 5,
+      "source_label": "thanksgiving",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 225,
+      "target": 5,
+      "source_label": "team sport",
+      "target_label": "algeria",
+      "relation_type": "originates in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 226,
+      "source_label": "algeria",
+      "target_label": "ingredient",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 227,
+      "source_label": "algeria",
+      "target_label": "hot drink",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 228,
+      "source_label": "algeria",
+      "target_label": "new year's eve",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 229,
+      "target": 5,
+      "source_label": "elderly",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 230,
+      "target": 5,
+      "source_label": "maternity leave",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 231,
+      "source_label": "algeria",
+      "target_label": "paternity leave",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 232,
+      "source_label": "algeria",
+      "target_label": "family vacation",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 233,
+      "source_label": "algeria",
+      "target_label": "olympics",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 234,
+      "source_label": "algeria",
+      "target_label": "average family size",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 235,
+      "source_label": "algeria",
+      "target_label": "students",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 236,
+      "target": 5,
+      "source_label": "lunch break",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 238,
+      "source_label": "algeria",
+      "target_label": "salary",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 239,
+      "source_label": "algeria",
+      "target_label": "family-related holidays",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 240,
+      "target": 5,
+      "source_label": "children's independence",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 241,
+      "target": 5,
+      "source_label": "child birth",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 242,
+      "target": 5,
+      "source_label": "birthday",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 243,
+      "source_label": "algeria",
+      "target_label": "private education",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 244,
+      "source_label": "algeria",
+      "target_label": "elementary school",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 245,
+      "target": 5,
+      "source_label": "region",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 246,
+      "target": 5,
+      "source_label": "water sport",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 247,
+      "source_label": "algeria",
+      "target_label": "agriculture",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 248,
+      "target": 5,
+      "source_label": "summer vacations",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 249,
+      "target": 5,
+      "source_label": "elementary schools",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 251,
+      "source_label": "algeria",
+      "target_label": "age",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 202,
+      "target": 5,
+      "source_label": "alcohol",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 253,
+      "source_label": "algeria",
+      "target_label": "dinner at a restaurant",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 254,
+      "target": 5,
+      "source_label": "seafood",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 255,
+      "source_label": "algeria",
+      "target_label": "festival",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 256,
+      "source_label": "algeria",
+      "target_label": "break duration",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 257,
+      "source_label": "algeria",
+      "target_label": "education",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 258,
+      "target": 5,
+      "source_label": "algerian food",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 4,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 261,
+      "target": 5,
+      "source_label": "bread",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 262,
+      "source_label": "algeria",
+      "target_label": "national holiday",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 263,
+      "target": 264,
+      "source_label": "house",
+      "target_label": "family member dies",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 265,
+      "source_label": "algeria",
+      "target_label": "pregnancy celebration or ceremony",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 266,
+      "target": 5,
+      "source_label": "wedding",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 3,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 267,
+      "source_label": "algeria",
+      "target_label": "days before ramadan",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 268,
+      "source_label": "algeria",
+      "target_label": "religious site",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 270,
+      "source_label": "algeria",
+      "target_label": "clothes",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 271,
+      "source_label": "algeria",
+      "target_label": "cold weather drink",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 222,
+      "target": 8,
+      "source_label": "fruit",
+      "target_label": "ramadan",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 273,
+      "source_label": "algeria",
+      "target_label": "government",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 260,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "originates from",
+      "weight": 5,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 274,
+      "source_label": "algeria",
+      "target_label": "meat",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 275,
+      "source_label": "algeria",
+      "target_label": "side dish",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 276,
+      "target": 5,
+      "source_label": "nourishing food",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 260,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 278,
+      "target": 5,
+      "source_label": "wedding gift",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 279,
+      "source_label": "algeria",
+      "target_label": "traffic congestion",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 280,
+      "source_label": "algeria",
+      "target_label": "destination",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 262,
+      "target": 5,
+      "source_label": "national holiday",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 281,
+      "target": 5,
+      "source_label": "secure job",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 282,
+      "source_label": "algeria",
+      "target_label": "industry",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 283,
+      "source_label": "algeria",
+      "target_label": "dish",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 284,
+      "source_label": "algeria",
+      "target_label": "meals",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 285,
+      "source_label": "algeria",
+      "target_label": "festive meal",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 286,
+      "source_label": "algeria",
+      "target_label": "traditional food",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 287,
+      "target": 5,
+      "source_label": "dipping sauce",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 288,
+      "target": 5,
+      "source_label": "christian fasting",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 289,
+      "source_label": "algeria",
+      "target_label": "elementary school student",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 290,
+      "target": 5,
+      "source_label": "desert",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 291,
+      "source_label": "algeria",
+      "target_label": "religious holiday",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 293,
+      "target": 5,
+      "source_label": "wheat-based food",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 294,
+      "source_label": "algeria",
+      "target_label": "drink",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 295,
+      "target": 5,
+      "source_label": "fish",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 296,
+      "target": 5,
+      "source_label": "traditional games",
+      "target_label": "algeria",
+      "relation_type": "originate from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 297,
+      "source_label": "algeria",
+      "target_label": "festival accessories",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 299,
+      "source_label": "algeria",
+      "target_label": "skiing destination",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 300,
+      "target": 5,
+      "source_label": "spicy dish",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 301,
+      "target": 5,
+      "source_label": "seasoning",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 302,
+      "source_label": "algeria",
+      "target_label": "cold weather",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 303,
+      "target": 5,
+      "source_label": "alcohol brand",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 304,
+      "source_label": "algeria",
+      "target_label": "job",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 305,
+      "target": 5,
+      "source_label": "probation period",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 306,
+      "source_label": "algeria",
+      "target_label": "industries",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 308,
+      "source_label": "algeria",
+      "target_label": "accommodation",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 309,
+      "source_label": "algeria",
+      "target_label": "middle school",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 310,
+      "source_label": "algeria",
+      "target_label": "holidays",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 311,
+      "source_label": "algeria",
+      "target_label": "chip/crisp",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 312,
+      "target": 5,
+      "source_label": "chocolate",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 313,
+      "target": 5,
+      "source_label": "cheese",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 314,
+      "source_label": "algeria",
+      "target_label": "vegetable",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 315,
+      "source_label": "algeria",
+      "target_label": "food court",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 316,
+      "source_label": "algeria",
+      "target_label": "family name",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 317,
+      "source_label": "algeria",
+      "target_label": "family",
+      "relation_type": "originates from",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 318,
+      "source_label": "algeria",
+      "target_label": "country",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 319,
+      "target": 5,
+      "source_label": "theatrical performance",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 320,
+      "target": 5,
+      "source_label": "alcoholic drink",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 321,
+      "target": 5,
+      "source_label": "morning drink",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 322,
+      "target": 5,
+      "source_label": "traditional dessert",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 323,
+      "target": 5,
+      "source_label": "racket sport",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 324,
+      "source_label": "algeria",
+      "target_label": "sporting event",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 325,
+      "source_label": "algeria",
+      "target_label": "funeral",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 327,
+      "source_label": "algeria",
+      "target_label": "wedding venue",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 328,
+      "source_label": "algeria",
+      "target_label": "coffee shop brand",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 330,
+      "source_label": "algeria",
+      "target_label": "mining",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 331,
+      "target": 5,
+      "source_label": "oil",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 332,
+      "target": 5,
+      "source_label": "prenatal education activity",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 333,
+      "target": 5,
+      "source_label": "university students",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 334,
+      "source_label": "algeria",
+      "target_label": "side job",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 335,
+      "target": 5,
+      "source_label": "edible souvenir",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 336,
+      "target": 5,
+      "source_label": "stew",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 337,
+      "source_label": "algeria",
+      "target_label": "spice/herb",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 338,
+      "target": 339,
+      "source_label": "work schedule",
+      "target_label": "month of ramadan",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 249,
+      "source_label": "algeria",
+      "target_label": "elementary schools",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 341,
+      "target": 5,
+      "source_label": "edible insect",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 342,
+      "source_label": "algeria",
+      "target_label": "agricultural product",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 343,
+      "target": 5,
+      "source_label": "sweets",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 344,
+      "source_label": "algeria",
+      "target_label": "independence day",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 331,
+      "source_label": "algeria",
+      "target_label": "oil",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 345,
+      "target": 5,
+      "source_label": "non-alcoholic drink",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 346,
+      "target": 5,
+      "source_label": "mountainous areas",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 347,
+      "target": 5,
+      "source_label": "coastal areas",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 348,
+      "target": 5,
+      "source_label": "farmers",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 349,
+      "source_label": "algeria",
+      "target_label": "christmas day",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 350,
+      "target": 5,
+      "source_label": "christmas song",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 351,
+      "source_label": "algeria",
+      "target_label": "job seeker",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 352,
+      "source_label": "algeria",
+      "target_label": "fast food chain",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 353,
+      "source_label": "algeria",
+      "target_label": "family pet",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 354,
+      "source_label": "algeria",
+      "target_label": "tv show",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 355,
+      "target": 5,
+      "source_label": "takeaway food",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 356,
+      "target": 5,
+      "source_label": "daily exercise",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 357,
+      "target": 5,
+      "source_label": "rivalry",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 358,
+      "source_label": "algeria",
+      "target_label": "sport",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 359,
+      "source_label": "algeria",
+      "target_label": "tv program",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 360,
+      "source_label": "algeria",
+      "target_label": "fireworks",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 361,
+      "source_label": "algeria",
+      "target_label": "professional sports league",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 362,
+      "source_label": "algeria",
+      "target_label": "tournament",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 363,
+      "target": 5,
+      "source_label": "family holiday",
+      "target_label": "algeria",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 367,
+      "target": 366,
+      "source_label": "order",
+      "target_label": "doctor",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 368,
+      "target": 369,
+      "source_label": "politician",
+      "target_label": "party",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 368,
+      "target": 373,
+      "source_label": "politician",
+      "target_label": "polling",
+      "relation_type": "rely heavily on",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 373,
+      "target": 374,
+      "source_label": "polling",
+      "target_label": "public opinion",
+      "relation_type": "shaping",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 375,
+      "target": 377,
+      "source_label": "bank",
+      "target_label": "merchant",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 377,
+      "target": 379,
+      "source_label": "merchant",
+      "target_label": "loan",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 380,
+      "target": 377,
+      "source_label": "agreement",
+      "target_label": "merchant",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 382,
+      "target": 383,
+      "source_label": "account book",
+      "target_label": "business",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 384,
+      "target": 266,
+      "source_label": "photographer",
+      "target_label": "wedding",
+      "relation_type": "originates from",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 388,
+      "target": 386,
+      "source_label": "plans",
+      "target_label": "licensed architect",
+      "relation_type": "requires",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 388,
+      "target": 387,
+      "source_label": "plans",
+      "target_label": "engineer",
+      "relation_type": "requires",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 390,
+      "target": 389,
+      "source_label": "church plans",
+      "target_label": "architect",
+      "relation_type": "stamped by",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 389,
+      "target": 391,
+      "source_label": "architect",
+      "target_label": "state",
+      "relation_type": "registered in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 392,
+      "target": 394,
+      "source_label": "ebbe drains",
+      "target_label": "homeowners",
+      "relation_type": "chosen by",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 392,
+      "target": 393,
+      "source_label": "ebbe drains",
+      "target_label": "architects",
+      "relation_type": "specified by",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

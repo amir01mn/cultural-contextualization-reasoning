@@ -1,0 +1,353 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "breakfast",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 2,
+      "label": "starting day well",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "wedding venue",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "bride mary",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 6,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 9
+    },
+    {
+      "id": 7,
+      "label": "sibling relationships",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "algerian society",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "cost-effectiveness",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "german consumers",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "education system",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "exam",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "process",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "vital",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 16,
+      "label": "caregiver",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "patient",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 19,
+      "label": "healthcare system",
+      "level": 2,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "wedding photographer",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "breakfast",
+      "target_label": "starting day well",
+      "relation_type": "important_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "wedding venue",
+      "target_label": "bride mary",
+      "relation_type": "important_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "teacher",
+      "target_label": "algeria",
+      "relation_type": "plays_important_role",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "sibling relationships",
+      "target_label": "algerian society",
+      "relation_type": "important_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "breakfast",
+      "relation_type": "consider_most_important",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "source_label": "cost-effectiveness",
+      "target_label": "german consumers",
+      "relation_type": "important_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "education system",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 12,
+      "source_label": "algeria",
+      "target_label": "exam",
+      "relation_type": "consider_most_important",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 5,
+      "target": 13,
+      "source_label": "teacher",
+      "target_label": "process",
+      "relation_type": "plays_role",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 5,
+      "target": 14,
+      "source_label": "teacher",
+      "target_label": "vital",
+      "relation_type": "plays_role",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "nurse",
+      "target_label": "caregiver",
+      "relation_type": "plays_role",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 15,
+      "target": 17,
+      "source_label": "nurse",
+      "target_label": "patient",
+      "relation_type": "important_to",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 15,
+      "target": 18,
+      "source_label": "nurse",
+      "target_label": "food",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "food",
+      "target_label": "healthcare system",
+      "relation_type": "plays_role_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 20,
+      "target": 6,
+      "source_label": "wedding photographer",
+      "target_label": "algeria",
+      "relation_type": "plays_important_role",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 18,
+      "target": 21,
+      "source_label": "food",
+      "target_label": "photographer",
+      "relation_type": "important_for",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

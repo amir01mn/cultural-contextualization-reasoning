@@ -1,0 +1,398 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "grandchildren",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "grandparents",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "small talk",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "settings",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "staring",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "public and social interactions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "leaving shopping cart",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "rude behavior",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "lazy",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "drivers",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "yielding",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "those already in the roundabout",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "public displays of affection",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "kissing",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "public",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "awkward",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "discussions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "confusion",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "misconceptions",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "eye contact",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "stalls",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "public restrooms",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 2
+    },
+    {
+      "id": 23,
+      "label": "uncomfortable",
+      "level": 5,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "student",
+      "level": 5,
+      "cultural_group": "student",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "learning",
+      "level": 2,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "children",
+      "level": 2,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "grandchildren",
+      "target_label": "grandparents",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "small talk",
+      "target_label": "settings",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "staring",
+      "target_label": "public and social interactions",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "leaving shopping cart",
+      "target_label": "rude behavior",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "rude behavior",
+      "target_label": "lazy",
+      "relation_type": "perceived as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 10,
+      "target": 12,
+      "source_label": "drivers",
+      "target_label": "those already in the roundabout",
+      "relation_type": "yield to",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "public displays of affection",
+      "target_label": "kissing",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 15,
+      "target": 16,
+      "source_label": "public",
+      "target_label": "awkward",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "discussions",
+      "target_label": "confusion",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "source_label": "discussions",
+      "target_label": "misconceptions",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 20,
+      "source_label": "public restrooms",
+      "target_label": "eye contact",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 21,
+      "source_label": "public restrooms",
+      "target_label": "stalls",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "public restrooms",
+      "target_label": "uncomfortable",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 24,
+      "target": 25,
+      "source_label": "teacher",
+      "target_label": "student",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "learning",
+      "target_label": "children",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

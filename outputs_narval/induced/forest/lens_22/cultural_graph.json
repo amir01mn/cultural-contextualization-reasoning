@@ -1,0 +1,650 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 6
+    },
+    {
+      "id": 2,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 3,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 14
+    },
+    {
+      "id": 4,
+      "label": "tv viewing",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "cotton cultivation",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "nile valley women",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "cleaning after work",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "potty training",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 12,
+      "label": "various activities",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "in public",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "discussion on gun violence",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "building underground structures",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "patient",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "healthcare-related activities",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "employee",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "hard work",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "various payment practices",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "various spending habits",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "indoor activity",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "commentator",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "sport commentary",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "dinner activities",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "females in their 20s",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "leisure activities",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 28,
+      "label": "males in their 20s",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "souq shopping",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "retired women",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "card games",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "weekly religious activities",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "algerian seniors",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "activities in parks",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "weekend activity with child",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "after-school activities",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 39,
+      "label": "ritual of working",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "ritual of assistance",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "customer",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "tv viewing",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "engage_in",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "engage_in_activities",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "nile valley",
+      "target_label": "cotton cultivation",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "nile valley women",
+      "target_label": "cleaning after work",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "source_label": "algeria",
+      "target_label": "traditional dishes",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 10,
+      "source_label": "algeria",
+      "target_label": "potty training",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "united states",
+      "target_label": "various activities",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "source_label": "in public",
+      "target_label": "discussion on gun violence",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 11,
+      "target": 15,
+      "source_label": "united states",
+      "target_label": "building underground structures",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 16,
+      "target": 17,
+      "source_label": "patient",
+      "target_label": "healthcare-related activities",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "source_label": "employee",
+      "target_label": "hard work",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 11,
+      "target": 20,
+      "source_label": "united states",
+      "target_label": "various payment practices",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 2,
+      "target": 21,
+      "source_label": "customer",
+      "target_label": "various spending habits",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 22,
+      "source_label": "algeria",
+      "target_label": "indoor activity",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "commentator",
+      "target_label": "sport commentary",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 25,
+      "source_label": "algeria",
+      "target_label": "dinner activities",
+      "relation_type": "usually_engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "females in their 20s",
+      "target_label": "leisure activities",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 28,
+      "target": 27,
+      "source_label": "males in their 20s",
+      "target_label": "leisure activities",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 29,
+      "source_label": "algeria",
+      "target_label": "souq shopping",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "source_label": "retired women",
+      "target_label": "card games",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 32,
+      "source_label": "algeria",
+      "target_label": "weekly religious activities",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "algerian seniors",
+      "target_label": "activities in parks",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 35,
+      "source_label": "algeria",
+      "target_label": "weekend activity with child",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 27,
+      "source_label": "algeria",
+      "target_label": "leisure activities",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 36,
+      "source_label": "algeria",
+      "target_label": "after-school activities",
+      "relation_type": "usually_engage_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 37,
+      "target": 1,
+      "source_label": "teacher",
+      "target_label": "food",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "source_label": "photographer",
+      "target_label": "ritual of working",
+      "relation_type": "engages_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 38,
+      "target": 40,
+      "source_label": "photographer",
+      "target_label": "ritual of assistance",
+      "relation_type": "engage_in",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

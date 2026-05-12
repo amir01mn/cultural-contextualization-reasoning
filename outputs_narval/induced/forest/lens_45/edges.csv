@@ -1,0 +1,12 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,food,algeria,passed_down,1,arabculture
+3,4,special songs,through generations,passed_down,1,arabculture
+5,4,customer,through generations,passed_down,1,arabculture
+6,1,teacher,food,pass_down,1,arabculture
+7,8,family tradition,preparing hareesa,passes_down,1,arabculture
+1,4,food,through generations,passed_down,1,arabculture
+9,10,nile valley,proverbs,passes_down,1,arabculture
+2,11,algeria,tradition of eating jamees,passes_down,1,arabculture
+12,5,game,customer,pass_down,1,blend
+2,5,algeria,customer,passes_down,1,blend
+1,13,food,ritual,passed_down,1,candle

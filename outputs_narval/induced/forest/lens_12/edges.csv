@@ -1,0 +1,39 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,3,cleaning,hygiene,expresses,1,arabculture
+4,5,gifting,to family,expresses_respect,1,arabculture
+6,7,ritual,respect for deceased,express,1,arabculture
+1,8,food,seeking help,expresses,1,arabculture
+9,1,brothers,food,express,1,arabculture
+10,1,algeria,food,express,2,arabculture
+10,11,algeria,in national independence,express_pride,1,arabculture
+13,14,greetings,salutation,expresses_respect,1,arabculture
+15,1,dance,food,expresses,1,arabculture
+16,17,algerian brothers,companionship,express,1,arabculture
+1,18,food,hospitality value,expresses,1,arabculture
+19,20,book writing,cultural importance of marriage,express,1,arabculture
+1,21,food,romantic feelings,expresses,1,arabculture
+1,22,food,fear of death,expresses,1,arabculture
+23,24,meeting,friendship,expresses,1,arabculture
+1,25,food,complex designs,expresses,1,diwali
+26,27,kashida embroidery,cultural richness,expresses,1,diwali
+1,28,food,devotion,expresses,1,diwali
+29,1,chham dance,food,expresses,1,diwali
+30,1,folk dance,food,express,1,diwali
+1,31,food,emotional,expresses,1,diwali
+32,33,europeans,differences in shopping hours,express_shock_at,1,culturebank
+1,34,food,love and gratitude,express,1,culturebank
+35,36,german consumers,long lines,express_shock_at,1,culturebank
+10,37,algeria,joy and happiness,expresses,1,blend
+38,1,football,food,express,1,blend
+39,40,remote communication,emotional bond,expresses,1,blend
+41,1,traditional drinks,food,expresses,1,blend
+42,1,camel,food,expresses,1,blend
+10,43,algeria,love and romance,express,1,blend
+44,1,teacher,food,expresses,1,blend
+45,46,algerian viewers,in national team,express_pride,1,blend
+1,47,food,creativity,expresses,1,candle
+48,49,photographer,professional skill,expresses,1,candle
+50,51,attorney,values of justice,expresses,1,candle
+1,52,food,acknowledgment,expresses,1,candle
+1,53,food,value of harm prevention,expresses,1,candle
+54,55,stethoscope,professional identity,expresses,1,candle

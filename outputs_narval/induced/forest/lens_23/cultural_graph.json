@@ -1,0 +1,479 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 15
+    },
+    {
+      "id": 2,
+      "label": "unique cultivation",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "agricultural products",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 7
+    },
+    {
+      "id": 5,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "this custom",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "weaving traditions",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "durability",
+      "level": 4,
+      "cultural_group": "himachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 10,
+      "label": "purity of silk",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "coimbatore",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "cotton sarees",
+      "level": 2,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "durability and vibrant colors",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "tanchoi",
+      "level": 4,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "elaborate designs",
+      "level": 3,
+      "cultural_group": "uttar pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "gabba textiles",
+      "level": 3,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "intricate patterns",
+      "level": 1,
+      "cultural_group": "jammu and kashmir",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "parrot dance",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "chickpea stew",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "garbanzo beans",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "cultural cuisine",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "famous rivalry",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "algerian soccer fans",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "most famous spicy dish",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "spicy and flavorful dishes",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "most famous family",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "name not specified",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "famous edible souvenirs",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "family gatherings",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "unique cultivation",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "source_label": "food",
+      "target_label": "agricultural products",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "traditional dishes",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "nile valley",
+      "target_label": "this custom",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "weaving traditions",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 9,
+      "source_label": "food",
+      "target_label": "durability",
+      "relation_type": "known_for",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "purity of silk",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "coimbatore",
+      "target_label": "cotton sarees",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 13,
+      "source_label": "food",
+      "target_label": "durability and vibrant colors",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "tanchoi",
+      "target_label": "elaborate designs",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "gabba textiles",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "intricate patterns",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "food",
+      "target_label": "parrot dance",
+      "relation_type": "also_known_as",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "chickpea stew",
+      "target_label": "garbanzo beans",
+      "relation_type": "also_known_as",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 4,
+      "target": 21,
+      "source_label": "algeria",
+      "target_label": "cultural cuisine",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 22,
+      "target": 23,
+      "source_label": "famous rivalry",
+      "target_label": "algerian soccer fans",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 24,
+      "source_label": "algeria",
+      "target_label": "most famous spicy dish",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 25,
+      "source_label": "algeria",
+      "target_label": "spicy and flavorful dishes",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "most famous family",
+      "target_label": "name not specified",
+      "relation_type": "known_as",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 28,
+      "source_label": "algeria",
+      "target_label": "famous edible souvenirs",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 4,
+      "target": 29,
+      "source_label": "algeria",
+      "target_label": "family gatherings",
+      "relation_type": "known_for",
+      "weight": 1,
+      "source_dataset": "blend"
+    }
+  ]
+}

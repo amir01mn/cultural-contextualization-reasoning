@@ -1,0 +1,19 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,15
+2,compulsory school symbol,3,algeria,unknown,arabculture,1
+3,santhal tribe,3,jharkhand,unknown,diwali,1
+4,malayali brides,3,kerala,unknown,diwali,1
+5,meitei women,3,manipur,unknown,diwali,1
+6,garo women,3,meghalaya,unknown,diwali,1
+7,ao naga men,3,nagaland,unknown,diwali,1
+8,tribal women,3,tripura,unknown,diwali,1
+9,algeria,1,dz,unknown,blend,1
+10,traditional festival accessories,3,dz,unknown,blend,1
+11,school teachers,3,dz,unknown,blend,1
+12,nurse,1,nurse,unknown,candle,2
+13,photographer,1,photographer,unknown,candle,2
+14,priest,2,priest,unknown,candle,2
+15,white clothing,3,priest,unknown,candle,1
+16,brightest robes,3,priest,unknown,candle,1
+17,tuxedo,3,waiter,unknown,candle,1

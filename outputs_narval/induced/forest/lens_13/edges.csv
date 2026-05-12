@@ -1,0 +1,47 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,saharan music,food,characterized_by,1,arabculture
+2,3,food,local sweet,characterized_by,1,arabculture
+4,5,algeria,north african culture,characterized_by,1,arabculture
+4,6,algeria,traditional_local_songs,characterized_by,1,arabculture
+7,8,dance,specific to kabyle region,characterized_by,1,arabculture
+9,10,nile valley,evening leisure activities,characterized_by,1,arabculture
+2,11,food,traditional movements,characterized_by,1,arabculture
+9,12,nile valley,cultural practices of breaking fast,characterized_by,1,arabculture
+2,13,food,fine texture,characterized_by,1,diwali
+2,14,food,durability,characterized_by,2,diwali
+2,15,food,soft texture and lightweight nature,characterized_by,1,diwali
+2,16,food,broken stripe pattern,characterized_by,1,diwali
+2,17,food,colorful patterns,characterized_by,1,diwali
+18,19,dhurrie,intricate patterns,characterized_by,1,diwali
+2,20,food,unique texture,has_characteristic,1,diwali
+2,21,food,natural sheen,has_characteristic,1,diwali
+2,22,food,rich texture,has_characteristic,1,diwali
+2,23,food,traditional patterns and motifs,characterized_by,1,diwali
+2,24,food,smooth texture,characterized_by,1,diwali
+2,25,food,white color with golden border,characterized_by,1,diwali
+2,26,food,unique blend of traditional and contemporary designs,characterized_by,1,diwali
+2,19,food,intricate patterns,characterized_by,2,diwali
+2,27,food,lightweight texture,characterized_by,1,diwali
+2,28,food,fine white cotton,characterized_by,1,diwali
+2,29,food,white base with purple patterns,characterized_by,1,diwali
+30,19,kashida embroidery,intricate patterns,characterized_by,1,diwali
+2,31,food,"black, red, and white stripes",characterized_by,1,diwali
+32,2,intricate designs,food,characterize,1,diwali
+33,34,cotton sarees,soft texture and durability,characterized_by,1,diwali
+2,35,food,distinctive patterns,characterized_by,1,diwali
+2,36,food,tight-fitting upper body and flared skirt,characterized_by,1,diwali
+2,37,food,sheer quality,characterized_by,1,diwali
+2,38,food,folk dance,characterized_as,1,diwali
+2,39,food,nocte culture,characterized_by,1,diwali
+40,41,thengal kachari dance,assam,characteristic_of,2,diwali
+42,41,sonowal kachari dance,assam,characteristic_of,1,diwali
+2,43,food,drum-based,characterized_by,1,diwali
+2,44,food,assam cultural practice,characteristic_of,1,diwali
+2,45,food,tribal performance,characterized_by,1,diwali
+2,46,food,traditional dishes,characterized_by,1,diwali
+2,47,food,instrumental performance,characterized_by,1,diwali
+2,48,food,local ingredients,characterized_by,1,blend
+46,4,traditional dishes,algeria,characterize,1,blend
+4,49,algeria,young entrepreneurship,characterized_by,1,blend
+4,50,algeria,cultural practice,characterized_by,1,blend
+51,52,theatrical performances,some algerian regions,characteristic_of,1,blend

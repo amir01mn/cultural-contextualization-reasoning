@@ -1,0 +1,57 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,food,abundant and delicious breakfast,enjoys_eating,1,arabculture
+3,4,algeria,chickpea stew,enjoys_eating,1,arabculture
+3,1,algeria,food,enjoy_eating,7,arabculture
+3,5,algeria,traditional_sweets,enjoy,1,arabculture
+6,7,guests,rich local cuisine,enjoy,1,arabculture
+8,9,hmaram,free time,enjoys,1,arabculture
+10,1,five-year-old boutoul,food,enjoys_playing,1,arabculture
+3,11,algeria,breakfast time,enjoy,1,arabculture
+3,12,algeria,leisure activities,enjoy,1,arabculture
+3,13,algeria,fresh fruits,enjoy_eating,1,arabculture
+3,14,algeria,light meal,enjoy,1,arabculture
+3,1,algeria,food,enjoy_playing,3,arabculture
+3,15,algeria,according to their customs and traditions,enjoy_eating,1,arabculture
+3,1,algeria,food,enjoy,4,arabculture
+3,16,algeria,sports games,enjoy_playing,1,arabculture
+3,17,algeria,outdoor play,enjoy,1,arabculture
+3,18,algeria,local music,enjoy,1,arabculture
+3,19,algeria,traditional_songs,enjoy,1,arabculture
+20,21,nile valley,traditional dishes,enjoys,1,arabculture
+3,22,algeria,kenafeh dessert,enjoy,1,arabculture
+3,23,algeria,qatayef with tea,enjoys_eating,1,arabculture
+3,24,algeria,eating fava bean breakfast,enjoy,1,arabculture
+3,25,algeria,at home,enjoy_playing,1,arabculture
+3,1,algeria,food,enjoys_eating,2,arabculture
+1,26,food,boiled eggs for suhoor,enjoys_eating,1,arabculture
+1,27,food,furnishing new home,enjoys,1,arabculture
+3,28,algeria,spending free time together,enjoys,1,arabculture
+29,30,united states,football,enjoys,1,culturebank
+3,31,algeria,beer with food,enjoy,1,blend
+3,32,algeria,snacks at amusement parks,enjoy_eating,1,blend
+3,21,algeria,traditional dishes,enjoy,2,blend
+3,33,algeria,couscous,enjoy,1,blend
+3,34,algeria,fireworks display,enjoy,1,blend
+35,36,algerian seniors,kabaddi,enjoy,1,blend
+3,37,algeria,gifts,enjoy,2,blend
+3,30,algeria,football,enjoy,1,blend
+3,38,algeria,soup,enjoy_eating,1,blend
+3,39,algeria,chips and dips,enjoy,1,blend
+3,40,algeria,traditional algerian sports,enjoy_playing,1,blend
+1,37,food,gifts,enjoy,1,blend
+3,41,algeria,popular e-sports games,enjoy_playing,1,blend
+3,30,algeria,football,enjoy_playing,1,blend
+3,42,algeria,spicy food,enjoy,1,blend
+3,43,algeria,traditional algerian cuisine,enjoy,1,blend
+3,44,algeria,traditional algerian fruits,enjoys,1,blend
+45,12,retired women,leisure activities,enjoy,2,blend
+3,46,algeria,racket sports,enjoy,1,blend
+47,1,dependent elderly,food,enjoy,1,blend
+3,48,algeria,traditional algerian dishes,enjoy,1,blend
+3,49,algeria,beach sports,enjoy_playing,1,blend
+3,50,algeria,ramadan,enjoy,1,blend
+35,51,algerian seniors,outdoor spaces,enjoy,1,blend
+3,52,algeria,traditional wedding dishes,enjoy,1,blend
+3,53,algeria,soccer,enjoy_playing,1,blend
+3,54,algeria,summer sports,enjoy,1,blend
+3,21,algeria,traditional dishes,enjoys_eating,1,blend

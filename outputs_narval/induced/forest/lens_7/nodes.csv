@@ -1,0 +1,70 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,wedding celebration location,3,algeria,unknown,arabculture,1
+2,sharing joy,3,algeria,unknown,arabculture,1
+3,wedding clothes,3,algeria,unknown,arabculture,1
+4,bride's effort,3,algeria,unknown,arabculture,1
+5,white dress,3,algeria,unknown,arabculture,1
+6,bride,2,algeria,unknown,arabculture,1
+7,food,1,algeria,unknown,arabculture,48
+8,algeria,1,algeria,unknown,arabculture,3
+9,eid celebration,3,algeria,unknown,arabculture,1
+10,first food of iftar,3,algeria,unknown,arabculture,1
+11,wealth and generosity,3,algeria,unknown,arabculture,1
+12,good fortune,3,algeria,unknown,arabculture,1
+13,special car,5,egypt,unknown,arabculture,1
+14,wealth and status,3,egypt,unknown,arabculture,1
+15,newabayas,3,egypt,unknown,arabculture,1
+16,"purity, new beginnings",3,egypt,unknown,arabculture,1
+17,eggs,3,egypt,unknown,arabculture,1
+18,new life,3,egypt,unknown,arabculture,1
+19,preparation,2,egypt,unknown,arabculture,1
+20,hospitality,3,egypt,unknown,arabculture,2
+21,right hand,3,egypt,unknown,arabculture,1
+22,nile valley custom,3,egypt,unknown,arabculture,1
+23,gifts,1,egypt,unknown,arabculture,2
+24,love and care,3,egypt,unknown,arabculture,1
+25,fava beans,2,egypt,unknown,arabculture,1
+26,healthy start,3,egypt,unknown,arabculture,1
+27,suhoor,3,egypt,unknown,arabculture,1
+28,新婚生活,3,egypt,unknown,arabculture,1
+29,incense,3,egypt,unknown,arabculture,1
+30,sacredness and purification,3,egypt,unknown,arabculture,1
+31,spring celebration,3,egypt,unknown,arabculture,1
+32,snake and ladder,4,egypt,unknown,arabculture,1
+33,good vs evil,3,egypt,unknown,arabculture,1
+34,assamese culture,3,assam,unknown,diwali,1
+35,cultural importance,3,kerala,unknown,diwali,1
+36,pakhangba serpent's teeth,3,manipur,unknown,diwali,1
+37,valor and prosperity,3,nagaland,unknown,diwali,1
+38,harmony and prosperity,3,arunachal pradesh,unknown,diwali,1
+39,unity and joy,3,assam,unknown,diwali,1
+40,nile valley,1,assam,unknown,diwali,2
+41,pen license,3,general,unknown,culturebank,1
+42,maturity,3,general,unknown,culturebank,1
+43,generosity,3,general,unknown,culturebank,1
+44,first salary,3,dz,unknown,blend,1
+45,beginning of career,3,dz,unknown,blend,1
+46,couscous,2,dz,unknown,blend,1
+47,"hospitality, unity",3,dz,unknown,blend,1
+48,"moderation, sustenance",3,dz,unknown,blend,1
+49,football,2,dz,unknown,blend,2
+50,mint tea,3,dz,unknown,blend,1
+51,spicy dish,3,dz,unknown,blend,1
+52,national identity,3,dz,unknown,blend,1
+53,ritual,1,judge,unknown,candle,7
+54,wigs,3,judge,unknown,candle,1
+55,judicial role,3,judge,unknown,candle,1
+56,medication,4,teacher,unknown,candle,1
+57,knowledge_transfer,3,teacher,unknown,candle,1
+58,regularity in teaching,3,teacher,unknown,candle,1
+59,care,3,nurse,unknown,candle,1
+60,challenge coin,3,dentist,unknown,candle,1
+61,routine task,3,dentist,unknown,candle,1
+62,deception,3,politician,unknown,candle,1
+63,wealth,3,merchant,unknown,candle,1
+64,artist's intention,3,artist,unknown,candle,1
+65,document,3,attorney,unknown,candle,1
+66,power transfer,3,attorney,unknown,candle,1
+67,justice,3,attorney,unknown,candle,1
+68,customer,1,waiter,unknown,candle,1

@@ -1,0 +1,632 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "compulsory",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "tadbir",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "cultural celebration",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "sham al-nisim",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "non-religious egyptian holiday",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "snake and ladder",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "board game",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 18
+    },
+    {
+      "id": 9,
+      "label": "egyptian woman",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "khadi",
+      "level": 3,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "hand-spun and hand-woven fabric",
+      "level": 3,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "classical dance",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "pure dance form",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "folk dance",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 3
+    },
+    {
+      "id": 15,
+      "label": "folk theatre",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "portuguese-influenced dance",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "transportation method",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "car",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "popular afterschool sport",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "football",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "sport commentator",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "most popular in algeria",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 4
+    },
+    {
+      "id": 23,
+      "label": "lunch time",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "ideal for sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "grade level",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "9th grade",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "brik (fried pastry filled with cheese or egg)",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "popular sport",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "popular vegetable",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "carrot",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "sportperson",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "special tool",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "clothing",
+      "level": 3,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "tailor-made",
+      "level": 4,
+      "cultural_group": "tailor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "reputable",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "handwriting",
+      "level": 3,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "process",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "quiet",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 2,
+      "target": 3,
+      "source_label": "tadbir",
+      "target_label": "cultural celebration",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "source_label": "sham al-nisim",
+      "target_label": "non-religious egyptian holiday",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "snake and ladder",
+      "target_label": "board game",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "food",
+      "target_label": "egyptian woman",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "khadi",
+      "target_label": "hand-spun and hand-woven fabric",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 12,
+      "source_label": "food",
+      "target_label": "classical dance",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 13,
+      "source_label": "food",
+      "target_label": "pure dance form",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 14,
+      "source_label": "food",
+      "target_label": "folk dance",
+      "relation_type": "is_a",
+      "weight": 3,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "folk theatre",
+      "relation_type": "is_a_form_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "portuguese-influenced dance",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "transportation method",
+      "target_label": "car",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "popular afterschool sport",
+      "target_label": "football",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "sport commentator",
+      "target_label": "most popular in algeria",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 22,
+      "target": 8,
+      "source_label": "most popular in algeria",
+      "target_label": "food",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "lunch time",
+      "target_label": "ideal for sports",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "grade level",
+      "target_label": "9th grade",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 22,
+      "target": 27,
+      "source_label": "most popular in algeria",
+      "target_label": "brik (fried pastry filled with cheese or egg)",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 28,
+      "target": 8,
+      "source_label": "popular sport",
+      "target_label": "food",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "popular vegetable",
+      "target_label": "carrot",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 31,
+      "target": 22,
+      "source_label": "sportperson",
+      "target_label": "most popular in algeria",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 8,
+      "target": 32,
+      "source_label": "food",
+      "target_label": "special tool",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "clothing",
+      "target_label": "tailor-made",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "photographer",
+      "target_label": "reputable",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 37,
+      "source_label": "food",
+      "target_label": "artist",
+      "relation_type": "is_a",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 38,
+      "source_label": "food",
+      "target_label": "handwriting",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "source_label": "process",
+      "target_label": "ramadan",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 8,
+      "target": 41,
+      "source_label": "food",
+      "target_label": "quiet",
+      "relation_type": "is",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

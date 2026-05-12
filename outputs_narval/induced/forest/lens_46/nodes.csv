@@ -1,0 +1,20 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,food,1,algeria,unknown,arabculture,5
+2,religious and national events,3,algeria,unknown,arabculture,1
+3,exquisite textile of maharashtra,3,maharashtra,unknown,diwali,1
+4,united states,1,general,unknown,culturebank,1
+5,unique and impractical,3,general,unknown,culturebank,1
+6,soccer,3,general,unknown,culturebank,1
+7,simpler than football,3,general,unknown,culturebank,1
+8,algeria,1,dz,unknown,blend,3
+9,doctors highly esteemed,3,dz,unknown,blend,1
+10,government position,3,dz,unknown,blend,1
+11,stable company position,3,dz,unknown,blend,1
+12,nurse,1,nurse,unknown,candle,1
+13,callers' well-being,3,nurse,unknown,candle,1
+14,routine job,3,dentist,unknown,candle,1
+15,artist,1,artist,unknown,candle,1
+16,skin type,3,artist,unknown,candle,1
+17,photographer,1,architect,unknown,candle,1
+18,cultural consistency,3,architect,unknown,candle,1

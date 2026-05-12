@@ -1,0 +1,31 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,quran,3,egypt,unknown,arabculture,1
+2,during mourning,3,egypt,unknown,arabculture,1
+3,food,1,egypt,unknown,arabculture,14
+4,counsel,3,egypt,unknown,arabculture,1
+5,algeria,1,egypt,unknown,arabculture,1
+6,comfortable cotton backing,3,maharashtra,unknown,diwali,1
+7,cotton sarees,2,tamil nadu,unknown,diwali,1
+8,subtle elegance,3,tamil nadu,unknown,diwali,1
+9,employee,1,general,unknown,culturebank,1
+10,sick leave and annual leave,3,general,unknown,culturebank,1
+11,efficient checkout experience,3,general,unknown,culturebank,1
+12,movie theaters,3,general,unknown,culturebank,1
+13,gongadi blankets,3,general,unknown,culturebank,1
+14,customer,1,general,unknown,culturebank,1
+15,personal information,3,general,unknown,culturebank,1
+16,seclusion,3,dz,unknown,blend,1
+17,nutritional comfort,3,dz,unknown,blend,1
+18,work,1,dz,unknown,blend,1
+19,income for students,3,dz,unknown,blend,1
+20,nurse,1,nurse,unknown,candle,3
+21,patient,1,nurse,unknown,candle,2
+22,medical care,3,nurse,unknown,candle,1
+23,glove,3,nurse,unknown,candle,1
+24,mentoring sessions,3,tailor,unknown,candle,1
+25,tailor made support,3,tailor,unknown,candle,1
+26,perfect light,3,photographer,unknown,candle,1
+27,parish,3,priest,unknown,candle,1
+28,priest,2,priest,unknown,candle,1
+29,doctor,1,doctor,unknown,candle,1

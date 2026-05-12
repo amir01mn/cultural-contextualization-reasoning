@@ -1,0 +1,481 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,ramadan,1,algeria,unknown,arabculture,9
+2,having breakfast,3,algeria,unknown,arabculture,1
+3,food,1,algeria,unknown,arabculture,401
+4,light meal,5,algeria,unknown,arabculture,1
+5,chickpea stew,3,algeria,unknown,arabculture,2
+6,light and beloved,3,algeria,unknown,arabculture,1
+7,"wheat flour, chickpeas, and vegetables",3,algeria,unknown,arabculture,1
+8,light traditional food,3,algeria,unknown,arabculture,1
+9,suhoor,3,algeria,unknown,arabculture,3
+10,light and simple food,3,algeria,unknown,arabculture,1
+11,north africa,1,algeria,unknown,arabculture,5
+12,algerian wedding celebrations,3,algeria,unknown,arabculture,1
+13,one of the most beautiful holidays,3,algeria,unknown,arabculture,1
+14,algeria,1,algeria,unknown,arabculture,107
+15,in home,3,algeria,unknown,arabculture,1
+16,floor cleaning,3,algeria,unknown,arabculture,1
+17,effective cleaning materials,3,algeria,unknown,arabculture,1
+18,making the house clean,3,algeria,unknown,arabculture,1
+19,deep cleaning,3,algeria,unknown,arabculture,1
+20,eating laws,3,algeria,unknown,arabculture,1
+21,game,2,algeria,unknown,arabculture,9
+22,at home,2,algeria,unknown,arabculture,3
+23,specific lute,3,algeria,unknown,arabculture,1
+24,cultural practice,1,algeria,unknown,arabculture,7
+25,shraib,3,algeria,unknown,arabculture,1
+26,beverages,3,algeria,unknown,arabculture,1
+27,drinking shraib,3,algeria,unknown,arabculture,1
+28,algerian countryside,3,algeria,unknown,arabculture,1
+29,grilled food,3,algeria,unknown,arabculture,1
+30,constantine city,3,algeria,unknown,arabculture,1
+31,season,3,algeria,unknown,arabculture,1
+32,leisure activities,1,algeria,unknown,arabculture,2
+33,snacks,2,algeria,unknown,arabculture,5
+34,gold jewelry and gifts,3,algeria,unknown,arabculture,1
+35,clothing,3,algeria,unknown,arabculture,2
+36,extended families,3,algeria,unknown,arabculture,1
+37,preparation ceremony,3,algeria,unknown,arabculture,1
+38,events,3,algeria,unknown,arabculture,1
+39,western algeria,3,algeria,unknown,arabculture,1
+40,customer,1,algeria,unknown,arabculture,7
+41,eid al-adha in algeria,3,algeria,unknown,arabculture,1
+42,kabsa,3,algeria,unknown,arabculture,1
+43,liver meat,3,algeria,unknown,arabculture,1
+44,ras al-sin al-hijri,3,algeria,unknown,arabculture,1
+45,not explicitly stated but implied,3,algeria,unknown,arabculture,1
+46,mother,1,algeria,unknown,arabculture,2
+47,nurse,1,algeria,unknown,arabculture,33
+48,free time,3,algeria,unknown,arabculture,1
+49,economic necessity,3,algeria,unknown,arabculture,1
+50,reduced luxury purchases,3,algeria,unknown,arabculture,1
+51,instruments,3,algeria,unknown,arabculture,1
+52,teacher,1,algeria,unknown,arabculture,27
+53,ideal conditions provided by their parents,3,algeria,unknown,arabculture,1
+54,cultural transmission,3,algeria,unknown,arabculture,1
+55,grandparents and grandchildren,3,algeria,unknown,arabculture,1
+56,women need men,3,algeria,unknown,arabculture,1
+57,what feels the embers is only i know,3,algeria,unknown,arabculture,1
+58,brothers,2,algeria,unknown,arabculture,1
+59,fava beans,2,egypt,unknown,arabculture,3
+60,oil,3,egypt,unknown,arabculture,1
+61,fava bean fritters,3,egypt,unknown,arabculture,1
+62,cheese and pita bread,3,egypt,unknown,arabculture,1
+63,breakfast,2,egypt,unknown,arabculture,2
+64,"rice, lentils, fried onions, tomato sauce, and crispy fried bread",3,egypt,unknown,arabculture,1
+65,potatoes,3,egypt,unknown,arabculture,1
+66,oven,3,egypt,unknown,arabculture,1
+67,ghee,3,egypt,unknown,arabculture,1
+68,masliyat,3,egypt,unknown,arabculture,1
+69,the nile valley,3,egypt,unknown,arabculture,1
+70,wedding traditions,3,egypt,unknown,arabculture,1
+71,nile valley,1,egypt,unknown,arabculture,11
+72,sham el-nessim celebrations,3,egypt,unknown,arabculture,1
+73,work,1,egypt,unknown,arabculture,1
+74,preparation,2,egypt,unknown,arabculture,2
+75,commuters,3,egypt,unknown,arabculture,1
+76,motorized transport,3,egypt,unknown,arabculture,1
+77,cafe after work,3,egypt,unknown,arabculture,1
+78,once a week,3,egypt,unknown,arabculture,1
+79,more often,3,egypt,unknown,arabculture,1
+80,religious practice,3,egypt,unknown,arabculture,1
+81,eating ritual,3,egypt,unknown,arabculture,1
+82,bracket,3,egypt,unknown,arabculture,1
+83,savings container,3,egypt,unknown,arabculture,1
+84,hair washing frequency,3,egypt,unknown,arabculture,1
+85,personal hygiene,3,egypt,unknown,arabculture,1
+86,game of the king,3,egypt,unknown,arabculture,1
+87,animated figure,3,egypt,unknown,arabculture,1
+88,snake and ladder,4,egypt,unknown,arabculture,1
+89,lightning,3,egypt,unknown,arabculture,1
+90,dead person's spirit,3,egypt,unknown,arabculture,1
+91,charitable donations,3,egypt,unknown,arabculture,1
+92,uzail,3,egypt,unknown,arabculture,1
+93,rural areas,3,egypt,unknown,arabculture,1
+94,flute,3,egypt,unknown,arabculture,1
+95,café,3,egypt,unknown,arabculture,1
+96,radio broadcasts,3,egypt,unknown,arabculture,1
+97,dance,2,egypt,unknown,arabculture,1
+98,folk dance,2,egypt,unknown,arabculture,6
+99,pomegranate,3,egypt,unknown,arabculture,1
+100,spring planting,3,egypt,unknown,arabculture,1
+101,irrigation,3,egypt,unknown,arabculture,1
+102,nile river,3,egypt,unknown,arabculture,1
+103,showing fear,3,egypt,unknown,arabculture,1
+104,bedtime stories,3,egypt,unknown,arabculture,1
+105,eating ajyeh,3,egypt,unknown,arabculture,1
+106,bride,2,egypt,unknown,arabculture,1
+107,artist,1,egypt,unknown,arabculture,11
+108,eid al-adha,1,egypt,unknown,arabculture,3
+109,zakah al-fitr,3,egypt,unknown,arabculture,1
+110,work preparation,3,egypt,unknown,arabculture,1
+111,after studying,3,egypt,unknown,arabculture,1
+112,egyptian men,3,egypt,unknown,arabculture,1
+113,returning home after studies,3,egypt,unknown,arabculture,1
+114,in home maintenance,3,egypt,unknown,arabculture,1
+115,youth gatherings,3,egypt,unknown,arabculture,1
+116,extra weft,3,arunachal pradesh,unknown,diwali,1
+117,traditional looms,3,arunachal pradesh,unknown,diwali,1
+118,colder months,3,assam,unknown,diwali,1
+119,kashida embroidery,1,bihar,unknown,diwali,10
+120,quilts and bedspreads,3,bihar,unknown,diwali,1
+121,traditional form of embroidery,3,bihar,unknown,diwali,1
+122,mythological and natural themes,3,bihar,unknown,diwali,1
+123,52 motifs,3,bihar,unknown,diwali,1
+124,bawan buti weave technique,3,bihar,unknown,diwali,1
+125,fabric,3,bihar,unknown,diwali,1
+126,richly patterned textile,3,bihar,unknown,diwali,1
+127,rich weaving traditions,3,goa,unknown,diwali,1
+128,ajrakh,3,gujarat,unknown,diwali,2
+129,block-printing,3,gujarat,unknown,diwali,1
+130,rich colors and symmetrical designs,3,gujarat,unknown,diwali,1
+131,contrasting colored threads,3,gujarat,unknown,diwali,1
+132,tangaliya textiles,3,gujarat,unknown,diwali,1
+133,shawls and wraparound skirts,3,gujarat,unknown,diwali,1
+134,fringes on both sides,3,gujarat,unknown,diwali,1
+135,coarse cotton fabric,3,haryana,unknown,diwali,1
+136,"dupattas, shawls, headscarves",3,haryana,unknown,diwali,1
+137,dhurrie,2,haryana,unknown,diwali,8
+138,traditional kinnauri motifs,3,himachal pradesh,unknown,diwali,1
+139,intricate patterns,1,himachal pradesh,unknown,diwali,5
+140,natural gold sheen,3,jharkhand,unknown,diwali,1
+141,natural dyes,3,jharkhand,unknown,diwali,1
+142,towel,3,jharkhand,unknown,diwali,1
+143,headscarf,3,jharkhand,unknown,diwali,1
+144,loincloth,3,jharkhand,unknown,diwali,1
+145,gold zari borders,3,karnataka,unknown,diwali,1
+146,two-piece garment,3,kerala,unknown,diwali,1
+147,two pieces,3,kerala,unknown,diwali,1
+148,wax-resist dyeing technique,3,madhya pradesh,unknown,diwali,1
+149,mud-resist hand-block printing,3,madhya pradesh,unknown,diwali,1
+150,"motifs like peacocks, flowers, vines",3,maharashtra,unknown,diwali,1
+151,dual-colored borders,3,maharashtra,unknown,diwali,1
+152,unique weaving techniques,3,maharashtra,unknown,diwali,1
+153,characteristic weaving technique,3,maharashtra,unknown,diwali,1
+154,muffler or stole,3,manipur,unknown,diwali,1
+155,black or red base,3,manipur,unknown,diwali,1
+156,warriors and chiefs,3,manipur,unknown,diwali,1
+157,manipuri households,3,manipur,unknown,diwali,1
+158,above the bust,3,meghalaya,unknown,diwali,1
+159,single piece of material,3,meghalaya,unknown,diwali,1
+160,khasi female dress,3,meghalaya,unknown,diwali,1
+161,puan,3,mizoram,unknown,diwali,1
+162,festive_occasions,3,mizoram,unknown,diwali,1
+163,craftsmanship,5,mizoram,unknown,diwali,1
+164,mizo,3,mizoram,unknown,diwali,1
+165,algerian tribes,4,nagaland,unknown,diwali,1
+166,simple backstrap loom,3,nagaland,unknown,diwali,1
+167,animal motifs,3,nagaland,unknown,diwali,1
+168,cowrie shells,3,nagaland,unknown,diwali,1
+169,mirror work,3,punjab,unknown,diwali,1
+170,bridal wear,3,rajasthan,unknown,diwali,1
+171,festive garments,3,rajasthan,unknown,diwali,1
+172,gold or silver ribbon,3,rajasthan,unknown,diwali,1
+173,"durability, vibrant color combinations",3,tamil nadu,unknown,diwali,1
+174,cotton sarees,2,tamil nadu,unknown,diwali,4
+175,daily life,3,tamil nadu,unknown,diwali,2
+176,coimbatore district,3,tamil nadu,unknown,diwali,1
+177,"vibrant threads, mirrors, and beadwork",3,telangana,unknown,diwali,1
+178,vibrant fabrics,3,tripura,unknown,diwali,1
+179,tanchoi,4,uttar pradesh,unknown,diwali,1
+180,jamdani,2,west bengal,unknown,diwali,1
+181,hand-spun khaddar fabric,3,chandigarh,unknown,diwali,1
+182,dense embroidery,3,chandigarh,unknown,diwali,1
+183,special occasions,3,chandigarh,unknown,diwali,1
+184,intricate embroidery,3,delhi,unknown,diwali,1
+185,woven air,3,delhi,unknown,diwali,1
+186,quality and intricate designs,3,jammu and kashmir,unknown,diwali,1
+187,shawls,3,jammu and kashmir,unknown,diwali,1
+188,household,2,jammu and kashmir,unknown,diwali,1
+189,simple patterns,3,ladakh,unknown,diwali,1
+190,nomadic communities,3,ladakh,unknown,diwali,1
+191,long needle,3,puducherry,unknown,diwali,1
+192,saris and garments,3,puducherry,unknown,diwali,1
+193,handloom textiles,2,puducherry,unknown,diwali,1
+194,texture and comfort,3,puducherry,unknown,diwali,1
+195,lord shiva,3,andhra pradesh,unknown,diwali,1
+196,yak discovery,3,arunachal pradesh,unknown,diwali,1
+197,digaru mishmi people,3,arunachal pradesh,unknown,diwali,1
+198,chham dance,3,arunachal pradesh,unknown,diwali,4
+199,buddhist ritual dance,3,arunachal pradesh,unknown,diwali,1
+200,bihu dance,3,assam,unknown,diwali,2
+201,vibrancy,3,assam,unknown,diwali,1
+202,assam,1,assam,unknown,diwali,7
+203,sonowal kachari dance,3,assam,unknown,diwali,4
+204,islamic devotional songs and dances,3,assam,unknown,diwali,1
+205,karbi dance,3,assam,unknown,diwali,1
+206,traditional dishes,1,assam,unknown,diwali,3
+207,version_of_bihu_dance,3,assam,unknown,diwali,1
+208,kamrupi folk songs,3,assam,unknown,diwali,1
+209,assamese villages,3,assam,unknown,diwali,1
+210,love and sorrow,3,bihar,unknown,diwali,1
+211,jatra,4,bihar,unknown,diwali,6
+212,mythological stories,3,bihar,unknown,diwali,1
+213,valor and weaponry skills,3,bihar,unknown,diwali,1
+214,mahabharata tales,3,chhattisgarh,unknown,diwali,1
+215,pandavani performances,3,chhattisgarh,unknown,diwali,1
+216,rural life,3,chhattisgarh,unknown,diwali,1
+217,dance and drama,3,chhattisgarh,unknown,diwali,1
+218,mythological tales,3,chhattisgarh,unknown,diwali,1
+219,ten incarnations of lord vishnu,3,goa,unknown,diwali,1
+220,valor,3,goa,unknown,diwali,1
+221,employee,1,general,unknown,culturebank,6
+222,speaker,3,general,unknown,culturebank,1
+223,audience,5,general,unknown,culturebank,2
+224,good pay,3,general,unknown,culturebank,1
+225,sunshine,3,general,unknown,culturebank,1
+226,purchasing eggs,3,general,unknown,culturebank,1
+227,drug abuse,3,general,unknown,culturebank,1
+228,theft,3,general,unknown,culturebank,1
+229,europeans,3,general,unknown,culturebank,1
+230,diverse entities,3,general,unknown,culturebank,1
+231,grocery stores,3,general,unknown,culturebank,1
+232,peanut butter,3,general,unknown,culturebank,1
+233,american culture,3,general,unknown,culturebank,1
+234,irony,3,general,unknown,culturebank,1
+235,health-related establishments,3,general,unknown,culturebank,1
+236,united states,1,general,unknown,culturebank,8
+237,phrases differently,3,general,unknown,culturebank,1
+238,90% of us,3,general,unknown,culturebank,1
+239,people in us,3,general,unknown,culturebank,1
+240,large vehicles,3,general,unknown,culturebank,1
+241,practice,3,general,unknown,culturebank,1
+242,comfort or preference,3,general,unknown,culturebank,1
+243,healthcare system,2,general,unknown,culturebank,4
+244,schooling,3,general,unknown,culturebank,1
+245,jobs,3,general,unknown,culturebank,1
+246,cool,3,general,unknown,culturebank,1
+247,size of united states,3,general,unknown,culturebank,1
+248,feasibility of building underground structures,3,general,unknown,culturebank,1
+249,patient,1,general,unknown,culturebank,10
+250,financial stability and success,3,general,unknown,culturebank,1
+251,safety,3,general,unknown,culturebank,1
+252,specific attire,3,general,unknown,culturebank,1
+253,goods and services,3,general,unknown,culturebank,1
+254,algerian society,2,general,unknown,culturebank,1
+255,payment for goods and services,3,general,unknown,culturebank,1
+256,football,2,general,unknown,culturebank,2
+257,affordable healthcare,3,general,unknown,culturebank,1
+258,paid annual leave,3,general,unknown,culturebank,1
+259,paid sick leave,3,general,unknown,culturebank,1
+260,paid maternity leave,3,general,unknown,culturebank,1
+261,weather,3,general,unknown,culturebank,1
+262,education system,2,dz,unknown,blend,2
+263,fireworks displays,3,dz,unknown,blend,1
+264,church services,3,dz,unknown,blend,1
+265,popular outdoor place,3,dz,unknown,blend,1
+266,families with young children,3,dz,unknown,blend,1
+267,sport commentary culture,3,dz,unknown,blend,1
+268,specific days,3,dz,unknown,blend,1
+269,catayef,4,dz,unknown,blend,1
+270,contact sports,3,dz,unknown,blend,1
+271,algerian upper class,3,dz,unknown,blend,1
+272,gifts,1,dz,unknown,blend,3
+273,specific decorations,3,dz,unknown,blend,1
+274,major festival,3,dz,unknown,blend,1
+275,national football league,3,dz,unknown,blend,1
+276,bread,5,dz,unknown,blend,1
+277,public speeches,3,dz,unknown,blend,1
+278,national flags,3,dz,unknown,blend,1
+279,on graduation ceremony,3,dz,unknown,blend,1
+280,hot beverages,3,dz,unknown,blend,1
+281,fruit,2,dz,unknown,blend,2
+282,ramadan in algeria,3,dz,unknown,blend,1
+283,martial art sports,3,dz,unknown,blend,1
+284,famous rivalries,3,dz,unknown,blend,1
+285,intense rivalry,3,dz,unknown,blend,1
+286,fan behavior,3,dz,unknown,blend,1
+287,government-supported sport,3,dz,unknown,blend,1
+288,lamb,5,dz,unknown,blend,1
+289,athletes,4,dz,unknown,blend,1
+290,major winter sports infrastructure,3,dz,unknown,blend,1
+291,national athletes,3,dz,unknown,blend,1
+292,e-sports games,3,dz,unknown,blend,1
+293,most popular sports in algeria,3,dz,unknown,blend,1
+294,08:00,3,dz,unknown,blend,1
+295,government employees,3,dz,unknown,blend,1
+296,09:00,3,dz,unknown,blend,1
+297,tourists/visitors fruit,3,dz,unknown,blend,1
+298,guests,2,dz,unknown,blend,3
+299,fruit type,3,dz,unknown,blend,1
+300,specifically,3,dz,unknown,blend,1
+301,offering fruit,3,dz,unknown,blend,1
+302,charity in algeria,3,dz,unknown,blend,1
+303,phyllo dough filled with meat or cheese,3,dz,unknown,blend,1
+304,postpartum care,3,dz,unknown,blend,1
+305,examination,3,dz,unknown,blend,1
+306,bac,3,dz,unknown,blend,1
+307,exam,2,dz,unknown,blend,2
+308,most famous religious holiday,3,dz,unknown,blend,1
+309,during traditional festivals,3,dz,unknown,blend,1
+310,martial arts competitions,3,dz,unknown,blend,1
+311,public vote,3,dz,unknown,blend,1
+312,fried pastry filled with potatoes and eggs,3,dz,unknown,blend,1
+313,indispensable seasoning,3,dz,unknown,blend,1
+314,seasoning,3,dz,unknown,blend,1
+315,stew,3,dz,unknown,blend,1
+316,track and field events,4,dz,unknown,blend,1
+317,competitive sports events,3,dz,unknown,blend,1
+318,rhythmic gymnastics,3,dz,unknown,blend,1
+319,gymnastics competitions,3,dz,unknown,blend,1
+320,viewership,3,dz,unknown,blend,1
+321,cinema-goers,3,dz,unknown,blend,1
+322,certain vegetables,3,dz,unknown,blend,1
+323,most well known sporting stadium,3,dz,unknown,blend,1
+324,algerian paralympians,3,dz,unknown,blend,1
+325,representing algeria,3,dz,unknown,blend,1
+326,in public,2,dz,unknown,blend,3
+327,local entrepreneurs,3,dz,unknown,blend,1
+328,festivals with traditional drinks,3,dz,unknown,blend,1
+329,attendance and media coverage,3,dz,unknown,blend,1
+330,common food,3,dz,unknown,blend,1
+331,easter in algeria,3,dz,unknown,blend,1
+332,algerian funeral rituals,3,dz,unknown,blend,1
+333,algerian restaurants,3,dz,unknown,blend,1
+334,local flavors,3,dz,unknown,blend,1
+335,family bonding,3,dz,unknown,blend,1
+336,side jobs,3,dz,unknown,blend,1
+337,algerian elementary schools,3,dz,unknown,blend,1
+338,popular after school curricular,3,dz,unknown,blend,1
+339,popular card game,3,dz,unknown,blend,1
+340,milk for strength,3,dz,unknown,blend,1
+341,extracurricular music programs,3,dz,unknown,blend,1
+342,people in mountainous areas,3,dz,unknown,blend,1
+343,people in coastal areas,3,dz,unknown,blend,1
+344,fishing,3,dz,unknown,blend,1
+345,algerian brides,3,dz,unknown,blend,1
+346,university students,1,dz,unknown,blend,3
+347,most popular women's sports team,3,dz,unknown,blend,1
+348,most popular tournament,3,dz,unknown,blend,1
+349,algerian employers,3,dz,unknown,blend,1
+350,higher education,3,dz,unknown,blend,1
+351,universities in algeria,3,dz,unknown,blend,1
+352,world,3,clerk,unknown,candle,1
+353,rating,3,judge,unknown,candle,1
+354,judges' scores,3,judge,unknown,candle,1
+355,judge,2,judge,unknown,candle,2
+356,ritual,1,judge,unknown,candle,2
+357,student presence,3,teacher,unknown,candle,1
+358,census-like method,3,teacher,unknown,candle,1
+359,initial testing,3,teacher,unknown,candle,1
+360,testing,3,teacher,unknown,candle,1
+361,identified children,3,teacher,unknown,candle,1
+362,tested,3,teacher,unknown,candle,1
+363,team leader,3,teacher,unknown,candle,1
+364,following instructions and obedience,3,teacher,unknown,candle,1
+365,behavior in school,3,teacher,unknown,candle,1
+366,student's skills,3,teacher,unknown,candle,1
+367,ritual of testing,3,teacher,unknown,candle,1
+368,candle metaphorically,3,teacher,unknown,candle,1
+369,students with special needs,3,teacher,unknown,candle,1
+370,small setting,3,teacher,unknown,candle,1
+371,modeling and feedback,3,teacher,unknown,candle,1
+372,mentor,4,teacher,unknown,candle,1
+373,new teachers,3,teacher,unknown,candle,1
+374,student performance,3,teacher,unknown,candle,1
+375,learning and success,3,teacher,unknown,candle,1
+376,notes,3,teacher,unknown,candle,1
+377,time,3,teacher,unknown,candle,1
+378,effective teaching,3,teacher,unknown,candle,1
+379,according to expectations,3,teacher,unknown,candle,1
+380,mark,3,teacher,unknown,candle,1
+381,traditional single-pedestal desk,3,teacher,unknown,candle,1
+382,charts,3,teacher,unknown,candle,1
+383,marking,3,teacher,unknown,candle,1
+384,teacher's job,3,teacher,unknown,candle,1
+385,swarming,3,beekeeper,unknown,candle,1
+386,potential division,3,beekeeper,unknown,candle,1
+387,application,3,farmer,unknown,candle,1
+388,farm,3,farmer,unknown,candle,1
+389,farmers' work,3,farmer,unknown,candle,1
+390,investment details,3,banker,unknown,candle,1
+391,lawyers,5,banker,unknown,candle,1
+392,pinstripes,3,banker,unknown,candle,1
+393,medication,4,nurse,unknown,candle,2
+394,start iv,3,nurse,unknown,candle,1
+395,paper-based system,3,nurse,unknown,candle,1
+396,correct room,3,nurse,unknown,candle,1
+397,patient's vital signs,3,nurse,unknown,candle,1
+398,candle (metaphorically),3,nurse,unknown,candle,1
+399,doctor,1,nurse,unknown,candle,10
+400,practice nurse,3,nurse,unknown,candle,1
+401,patient condition,3,nurse,unknown,candle,1
+402,nursing occupation,3,nurse,unknown,candle,1
+403,special needle,3,nurse,unknown,candle,1
+404,injections,3,nurse,unknown,candle,1
+405,pain medication,3,nurse,unknown,candle,1
+406,speaking,3,nurse,unknown,candle,1
+407,reviews,5,nurse,unknown,candle,1
+408,nurse performance,3,nurse,unknown,candle,1
+409,patient's daily needs,3,nurse,unknown,candle,1
+410,essays,4,tailor,unknown,candle,1
+411,tailor-made,4,tailor,unknown,candle,1
+412,tailor,1,tailor,unknown,candle,4
+413,effective learning,3,tailor,unknown,candle,1
+414,individual guidance,3,tailor,unknown,candle,1
+415,dark skin,3,tailor,unknown,candle,1
+416,programs,3,tailor,unknown,candle,1
+417,winning votes,3,politician,unknown,candle,1
+418,politician,1,politician,unknown,candle,5
+419,promoting ideas,3,politician,unknown,candle,1
+420,politician's performance,3,politician,unknown,candle,1
+421,new ritual,3,politician,unknown,candle,1
+422,windmills,3,politician,unknown,candle,1
+423,monetization,3,politician,unknown,candle,1
+424,political career,3,politician,unknown,candle,1
+425,government,4,politician,unknown,candle,1
+426,public kin official,3,politician,unknown,candle,1
+427,photographer,1,photographer,unknown,candle,15
+428,get the shot predictably,3,photographer,unknown,candle,1
+429,directing shots,3,photographer,unknown,candle,1
+430,perfect moment,3,photographer,unknown,candle,1
+431,cultural knowledge,3,photographer,unknown,candle,1
+432,process,3,photographer,unknown,candle,1
+433,great photographer,3,photographer,unknown,candle,1
+434,certain occupations,3,photographer,unknown,candle,1
+435,photographers,3,photographer,unknown,candle,1
+436,videographers,3,photographer,unknown,candle,1
+437,wedding photography,3,photographer,unknown,candle,1
+438,specific location,3,photographer,unknown,candle,1
+439,golden hour for photography,3,photographer,unknown,candle,1
+440,some photographers,3,photographer,unknown,candle,1
+441,other photographers,3,photographer,unknown,candle,1
+442,exfoliating daily,3,dermatologist,unknown,candle,1
+443,exfoliating twice weekly,3,dermatologist,unknown,candle,1
+444,work speaks to audience,3,artist,unknown,candle,1
+445,writers,5,artist,unknown,candle,3
+446,through writing,3,artist,unknown,candle,1
+447,musicians,3,artist,unknown,candle,1
+448,through music,3,artist,unknown,candle,1
+449,through visual arts,3,artist,unknown,candle,1
+450,painter,3,painter,unknown,candle,4
+451,tape,3,painter,unknown,candle,1
+452,warranty,3,painter,unknown,candle,1
+453,outlets,3,painter,unknown,candle,1
+454,priest,2,priest,unknown,candle,3
+455,usher,3,priest,unknown,candle,1
+456,robes,3,priest,unknown,candle,1
+457,brightest,3,priest,unknown,candle,1
+458,best robes,3,priest,unknown,candle,1
+459,attorney,1,attorney,unknown,candle,10
+460,legally binding,3,attorney,unknown,candle,1
+461,agreement legally binding,3,attorney,unknown,candle,1
+462,attorney and client,3,attorney,unknown,candle,1
+463,information,4,attorney,unknown,candle,1
+464,meatcutting equipment,3,butcher,unknown,candle,1
+465,rocket,3,scientist,unknown,candle,1
+466,scientific expertise,3,scientist,unknown,candle,1
+467,scientist,2,scientist,unknown,candle,1
+468,invisible primary,3,scientist,unknown,candle,1
+469,receptionist,2,receptionist,unknown,candle,2
+470,journalist,2,journalist,unknown,candle,4
+471,paper,3,journalist,unknown,candle,1
+472,quality that is top,3,journalist,unknown,candle,1
+473,restaurant,3,waiter,unknown,candle,2
+474,pad cover,3,waiter,unknown,candle,1
+475,do no harm,3,doctor,unknown,candle,1
+476,treatment,3,doctor,unknown,candle,1
+477,serve public good,3,doctor,unknown,candle,1
+478,physical exam,4,doctor,unknown,candle,1
+479,doctor to provide best care,3,doctor,unknown,candle,1

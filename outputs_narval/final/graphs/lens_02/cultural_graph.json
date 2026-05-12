@@ -1,0 +1,623 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "big party",
+      "level": 4,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "bride's house",
+      "level": 5,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "riha",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "intricate designs",
+      "level": 5,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 5,
+      "label": "dhurrie",
+      "level": 5,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "vibrant colors and geometric designs",
+      "level": 2,
+      "cultural_group": "haryana",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 7,
+      "label": "leirum phee",
+      "level": 3,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "red and black patterns",
+      "level": 5,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "white base",
+      "level": 5,
+      "cultural_group": "manipur",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "dakmanda",
+      "level": 3,
+      "cultural_group": "garo women",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "raw cotton",
+      "level": 4,
+      "cultural_group": "garo women",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "dhara",
+      "level": 3,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "single piece of material",
+      "level": 5,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "tribal patterns",
+      "level": 5,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "colors",
+      "level": 5,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "textiles",
+      "level": 2,
+      "cultural_group": "nagaland",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "dhurrie",
+      "level": 4,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "wooden blocks",
+      "level": 5,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "fabric",
+      "level": 5,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "lepcha thara",
+      "level": 3,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "vibrant colors",
+      "level": 5,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "intricate patterns",
+      "level": 5,
+      "cultural_group": "sikkim",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "risa",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "upper garment",
+      "level": 2,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "headgear",
+      "level": 2,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "tuisa",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "intricate weaving techniques",
+      "level": 5,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "silk weaving",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "spinning",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "weaving",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "dyeing",
+      "level": 4,
+      "cultural_group": "uttarakhand",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "nicobari pandanus mats",
+      "level": 5,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "pandan leaves",
+      "level": 5,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "ari embroidery",
+      "level": 3,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "intricate needlework",
+      "level": 5,
+      "cultural_group": "puducherry",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "working through lunch",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "taking quick or no breaks",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "occasional hour-long breaks",
+      "level": 4,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "lunch",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "breaks",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "cameras",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "parking enforcement",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "big party",
+      "target_label": "bride's house",
+      "relation_type": "big party includes",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "riha",
+      "target_label": "intricate designs",
+      "relation_type": "adorned with",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "dhurrie",
+      "target_label": "vibrant colors and geometric designs",
+      "relation_type": "includes",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 7,
+      "target": 8,
+      "source_label": "leirum phee",
+      "target_label": "red and black patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 7,
+      "target": 9,
+      "source_label": "leirum phee",
+      "target_label": "white base",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "dakmanda",
+      "target_label": "raw cotton",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "dhara",
+      "target_label": "single piece of material",
+      "relation_type": "consists of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 16,
+      "target": 14,
+      "source_label": "textiles",
+      "target_label": "tribal patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 16,
+      "target": 15,
+      "source_label": "textiles",
+      "target_label": "colors",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 18,
+      "source_label": "intricate designs",
+      "target_label": "wooden blocks",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 4,
+      "target": 19,
+      "source_label": "intricate designs",
+      "target_label": "fabric",
+      "relation_type": "include",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "lepcha thara",
+      "target_label": "vibrant colors",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 20,
+      "target": 22,
+      "source_label": "lepcha thara",
+      "target_label": "intricate patterns",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "risa",
+      "target_label": "upper garment",
+      "relation_type": "used as",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 23,
+      "target": 25,
+      "source_label": "risa",
+      "target_label": "headgear",
+      "relation_type": "utilized as",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 26,
+      "target": 27,
+      "source_label": "tuisa",
+      "target_label": "intricate weaving techniques",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 28,
+      "target": 29,
+      "source_label": "silk weaving",
+      "target_label": "spinning",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 28,
+      "target": 30,
+      "source_label": "silk weaving",
+      "target_label": "weaving",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 28,
+      "target": 31,
+      "source_label": "silk weaving",
+      "target_label": "dyeing",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "nicobari pandanus mats",
+      "target_label": "pandan leaves",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 34,
+      "target": 35,
+      "source_label": "ari embroidery",
+      "target_label": "intricate needlework",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 36,
+      "target": 39,
+      "source_label": "working through lunch",
+      "target_label": "lunch",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 37,
+      "target": 40,
+      "source_label": "taking quick or no breaks",
+      "target_label": "breaks",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 38,
+      "target": 40,
+      "source_label": "occasional hour-long breaks",
+      "target_label": "breaks",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "source_label": "cameras",
+      "target_label": "parking enforcement",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    }
+  ]
+}

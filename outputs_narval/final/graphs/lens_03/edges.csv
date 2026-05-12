@@ -1,0 +1,68 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+2,4,grandparents,celebrating eid with grandchildren,participate in,1,arabculture
+5,7,child,game,participate in,1,arabculture
+6,7,parent,game,participate in,1,arabculture
+8,9,children,repairing,participate in,1,arabculture
+10,11,monpa woolen weave,weaving,participate in,1,diwali
+12,13,dhurrie,homes,participate in,1,diwali
+14,15,chamba shawl,local attire,part of,1,diwali
+16,17,dhara,ceremonial occasions,worn during,1,diwali
+18,19,phool patti ka kaam,creating floral and leaf motifs,participate in,1,diwali
+20,21,ari embroidery,sarlis and other garments,participate in,1,diwali
+22,23,carcari,dance,participate in,1,diwali
+24,25,rekham pada,community gatherings,participate in,1,diwali
+26,27,women,deodhani dance,participate in,1,diwali
+28,29,various communities,phalguni dance,participate in,1,diwali
+31,30,jat-jatin,couples,participate in,1,diwali
+32,33,kathghorwa naach,weddings,participate in,1,diwali
+35,36,ger dance,group formations,participate in,1,diwali
+37,38,fugdi,circular formations,participates in,1,diwali
+39,36,romat,group formations,participate in,1,diwali
+39,41,romat,vibrant music,participate in,1,diwali
+42,43,morulem,monsoon,participate in,1,diwali
+45,46,folk dance,festivals,participate in,1,diwali
+47,49,initiate conversations,colleagues,initiates,1,culturebank
+48,50,ask questions,questions,asks,1,culturebank
+53,51,schools,drills,participate in,1,culturebank
+53,52,schools,safety measures,participate in,1,culturebank
+54,55,school schedule,classes,participate in,1,culturebank
+54,56,school schedule,after-school activities,participate in,1,culturebank
+53,57,schools,recess,engage in,1,culturebank
+53,58,schools,lunch,engage in,1,culturebank
+53,59,schools,electives,engage in,1,culturebank
+60,63,activities,second nature,participate in,1,culturebank
+61,63,practices,second nature,participate in,1,culturebank
+62,63,tasks,second nature,participate in,1,culturebank
+64,65,educational settings,diverse educational activities,participate in,1,culturebank
+2,67,grandparents,childcare,participate in,1,culturebank
+2,68,grandparents,visiting,participate in,1,culturebank
+2,69,grandparents,helping out,participate in,1,culturebank
+70,71,ear piercing,infancy,participate in,1,culturebank
+70,72,ear piercing,childhood,participate in,1,culturebank
+73,74,teaching,learning,participate in,1,culturebank
+74,73,learning,teaching,participate in,1,culturebank
+75,76,transporting dogs,legal restrictions,participate in,1,culturebank
+75,77,transporting dogs,animal welfare concerns,participate in,1,culturebank
+78,80,visit,own museums,participate in,1,culturebank
+81,83,citizens,"react to, and express opinions about political scandals",participate in,1,culturebank
+86,84,rules,right turns,participate in,1,culturebank
+86,85,rules,left turns,participate in,1,culturebank
+90,87,summer,living,participate in,1,culturebank
+90,88,summer,slowing down,participate in,1,culturebank
+90,89,summer,adapting to weather conditions,participate in,1,culturebank
+91,92,inquiry,questioning,participate in,1,culturebank
+93,94,walking,traffic,participate in,1,culturebank
+95,97,sing,settings,participate in,1,culturebank
+96,97,recite,settings,participate in,1,culturebank
+98,99,people,purchasing items,engage in,1,culturebank
+98,100,people,using full-service stations,engage in,1,culturebank
+98,101,people,smoking,engage in,1,culturebank
+102,103,naming practices,united states,participate in,1,culturebank
+104,105,judge,training,participate in,1,candle
+105,106,training,ipodogs,includes,1,candle
+107,108,teacher,student,participate in,1,candle
+109,107,marking,teacher,participate in,1,candle
+110,111,pianist,concert,participate in,1,candle
+112,113,nurse,doctor,collaborate with,1,candle
+114,116,merchant,service,participate in,1,candle
+117,118,rehearsal,coach,participate in,1,candle

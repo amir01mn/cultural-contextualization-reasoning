@@ -1,0 +1,78 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,information,2,algeria,unknown,arabculture,1
+2,place to buy foreign currency,2,algeria,unknown,arabculture,1
+3,gifts,5,algeria,unknown,arabculture,8
+4,gift,5,algeria,unknown,arabculture,5
+5,relative,2,algeria,unknown,arabculture,1
+6,none,2,algeria,unknown,arabculture,1
+7,family,5,algeria,unknown,arabculture,1
+8,body,2,algeria,unknown,arabculture,1
+9,special crop,3,algeria,unknown,arabculture,1
+10,export,2,algeria,unknown,arabculture,1
+11,guests,5,algeria,unknown,arabculture,2
+12,pastries,5,algeria,unknown,arabculture,1
+13,greeting,5,algeria,unknown,arabculture,1
+14,people,2,algeria,unknown,arabculture,2
+15,greetings,5,egypt,unknown,arabculture,1
+16,children,5,egypt,unknown,arabculture,3
+17,wrapping paper,2,egypt,unknown,arabculture,1
+18,mourning visitors,5,egypt,unknown,arabculture,1
+19,mourning ceremony,5,egypt,unknown,arabculture,1
+20,visit,2,egypt,unknown,arabculture,1
+21,friend's house,4,egypt,unknown,arabculture,1
+22,mother,5,egypt,unknown,arabculture,1
+23,hadiya,5,egypt,unknown,arabculture,1
+24,hadya,5,egypt,unknown,arabculture,1
+25,navalgund durries,3,karnataka,unknown,diwali,1
+26,geographical indication tag,5,karnataka,unknown,diwali,1
+27,teliarumal,3,telangana,unknown,diwali,1
+28,gi tag,2,telangana,unknown,diwali,1
+29,chamba rumal,3,chandigarh,unknown,diwali,1
+30,appreciation,4,chandigarh,unknown,diwali,1
+31,divider,5,general,unknown,culturebank,1
+32,cashier,3,general,unknown,culturebank,1
+33,vacation time,4,general,unknown,culturebank,1
+34,employee,2,general,unknown,culturebank,1
+35,employer,2,general,unknown,culturebank,1
+36,terms,2,general,unknown,culturebank,1
+37,united states,2,general,unknown,culturebank,1
+38,north america,2,general,unknown,culturebank,1
+39,americanized,2,general,unknown,culturebank,1
+40,american,2,general,unknown,culturebank,1
+41,high levels of customer service,4,general,unknown,culturebank,1
+42,customer,2,general,unknown,culturebank,3
+43,politeness,4,general,unknown,culturebank,1
+44,medical care,5,general,unknown,culturebank,4
+45,healthcare system,2,general,unknown,culturebank,2
+46,couples,5,general,unknown,culturebank,1
+47,cash gifts,2,general,unknown,culturebank,1
+48,cash or physical gifts,2,general,unknown,culturebank,1
+49,customer,4,general,unknown,culturebank,1
+50,bartender,4,general,unknown,culturebank,1
+51,drinks,2,general,unknown,culturebank,1
+52,customer,5,general,unknown,culturebank,1
+53,server,5,general,unknown,culturebank,1
+54,customers,2,general,unknown,culturebank,1
+55,high-quality service,2,general,unknown,culturebank,1
+56,service staff,2,general,unknown,culturebank,1
+57,good customer service,2,general,unknown,culturebank,1
+58,food,1,general,unknown,culturebank,1
+59,ambulance services,5,general,unknown,culturebank,1
+60,patient,5,general,unknown,culturebank,1
+61,customers,4,general,unknown,culturebank,1
+62,card,4,general,unknown,culturebank,1
+63,waitstaff,2,general,unknown,culturebank,1
+64,food,5,general,unknown,culturebank,1
+65,flowers,5,general,unknown,culturebank,1
+66,gift cards,5,general,unknown,culturebank,1
+67,recipient,2,general,unknown,culturebank,1
+68,coffee drink,5,general,unknown,culturebank,1
+69,order,2,general,unknown,culturebank,1
+70,elderly parents,5,dz,unknown,blend,1
+71,congratulatory gesture,5,dz,unknown,blend,1
+72,wedding,2,dz,unknown,blend,1
+73,algerian food,1,dz,unknown,blend,1
+74,restaurants,2,dz,unknown,blend,1
+75,fathers,5,dz,unknown,blend,1
+76,mothers,5,dz,unknown,blend,1

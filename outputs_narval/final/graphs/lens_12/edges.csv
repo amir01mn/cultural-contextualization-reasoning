@@ -1,0 +1,141 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,madhubani painting on textiles,mythological and natural themes,expresses,1,diwali
+4,3,odisha ikat,culturally significant,expresses,1,diwali
+6,7,pachhra,integral part of the traditional attire,expresses,1,diwali
+8,9,chamba rumal,scenes from mythology and daily life,expresses,1,diwali
+10,11,bonalu dance,goddess mahakali,expresses respect for,1,diwali
+12,13,rikham pada,ancestor,expresses respect,1,diwali
+14,15,bardo chham,victory of good over evil,expresses,1,diwali
+16,17,ali ai ligang dance,deities,expresses gratitude to,1,diwali
+18,19,chakhela dance,love and valor,expresses,1,diwali
+20,21,tiwa damahi dance,gratitude,expresses,2,diwali
+22,23,chomangkan dance,life and death,expresses,1,diwali
+24,25,sohar-khilona,joy,expresses,1,diwali
+24,26,sohar-khilona,blessings,expresses,1,diwali
+27,28,kajri,longing and love,expresses,1,diwali
+31,32,leja dance,emotions,expresses,1,diwali
+33,34,rai dance,joy and festivity,expresses,1,diwali
+35,36,dhalo,graceful movements,expresses,1,diwali
+37,21,tipping,gratitude,expresses,1,culturebank
+39,40,language,enthusiasm,expresses,1,culturebank
+39,41,language,playfulness,expresses,1,culturebank
+39,42,language,familiarity,expresses,1,culturebank
+43,44,love,affection,expresses,1,culturebank
+44,45,affection,support,expresses,1,culturebank
+46,49,mixed feelings,admirations,express,1,culturebank
+46,50,mixed feelings,frustration,express,1,culturebank
+51,47,parisians,rudeness,express,1,culturebank
+51,48,parisians,friendliness,express,1,culturebank
+53,52,flag display,patriotism,expresses,1,culturebank
+54,52,flag emoji,patriotism,expresses,1,culturebank
+55,52,phrases like 'for our freedom',patriotism,expresses,1,culturebank
+56,58,economy,general,expresses,1,culturebank
+57,58,capitalism,general,expresses,1,culturebank
+59,60,admiration,united states,expresses,1,culturebank
+61,64,surprise,cultural differences and unfamiliar practices,expresses,1,culturebank
+62,64,shock,cultural differences and unfamiliar practices,expresses,1,culturebank
+63,64,amazement,cultural differences and unfamiliar practices,expresses,1,culturebank
+50,32,frustration,emotions,expresses,1,culturebank
+66,32,ambition,emotions,expresses,1,culturebank
+67,32,annoyance,emotions,expresses,1,culturebank
+21,70,gratitude,compliments,expresses,1,culturebank
+69,71,appreciation,thanks,expresses,1,culturebank
+72,75,smiling,friendly behaviors,expresses friendliness,1,culturebank
+73,75,making eye contact,friendly behaviors,expresses friendliness,1,culturebank
+74,75,offering support,friendly behaviors,expresses support,1,culturebank
+76,77,card payments,efficiency,expresses,1,culturebank
+61,60,surprise,united states,expresses,1,culturebank
+78,60,confusion,united states,expresses,1,culturebank
+79,60,disapproval,united states,expresses,1,culturebank
+81,50,funeral ceremonies,frustration,express,1,culturebank
+81,82,funeral ceremonies,financial contributions,express,1,culturebank
+83,84,comments,"positive comments, compliments, and sarcasm","express gratitude, appreciation, and opinions through",1,culturebank
+85,87,embarrassment,lack of access to free clean water and bathrooms,expresses,1,culturebank
+86,87,criticism,lack of access to free clean water and bathrooms,expresses,1,culturebank
+89,62,gas prices,shock,express,1,culturebank
+89,50,gas prices,frustration,express,1,culturebank
+89,88,gas prices,concern,express,1,culturebank
+50,92,frustration,healthcare system,expresses,1,culturebank
+90,92,dissatisfaction,healthcare system,expresses,1,culturebank
+69,92,appreciation,healthcare system,expresses,1,culturebank
+93,94,pride,national identity,expresses,1,culturebank
+93,52,pride,patriotism,expresses,1,culturebank
+93,96,pride,shared ideals,expresses,1,culturebank
+97,98,expressions of emotion,romantic relationships,expresses,1,culturebank
+78,99,confusion,chicken salt,expresses,1,culturebank
+50,100,frustration,affordability,expresses,1,culturebank
+50,101,frustration,perceived high prices,expresses,1,culturebank
+62,101,shock,perceived high prices,expresses,1,culturebank
+78,102,confusion,discrepancy between price tags and actual costs,expresses,1,culturebank
+52,103,patriotism,superiority,expresses,1,culturebank
+60,52,united states,patriotism,expresses,1,culturebank
+104,60,diversity,united states,expresses,1,culturebank
+105,106,mother's day,"express love, gratitude, and make up for mistakes",expresses,1,culturebank
+107,108,romanticize,quality of life,expresses,1,culturebank
+107,109,romanticize,work-life balance,expresses,1,culturebank
+107,110,romanticize,cultural diversity,expresses,1,culturebank
+112,111,door gaps,confusion or dislike,expresses,1,culturebank
+62,61,shock,surprise,expresses,1,culturebank
+61,62,surprise,shock,expresses,1,culturebank
+43,113,love,patriotic manner,expresses,1,culturebank
+114,61,disbelief,surprise,expresses,1,culturebank
+78,61,confusion,surprise,expresses,1,culturebank
+61,115,surprise,ignorance,expresses,1,culturebank
+50,117,frustration,treated as a whole person,expresses,1,culturebank
+118,119,american culture,feelings,expresses,1,culturebank
+43,124,love,in-law relationships,expresses,1,culturebank
+44,124,affection,in-law relationships,expresses,1,culturebank
+122,124,disagreement,in-law relationships,expresses,1,culturebank
+123,124,conflict,in-law relationships,expresses,1,culturebank
+125,60,opinions,united states,express,1,culturebank
+126,60,experiences,united states,express,1,culturebank
+127,60,political views,united states,express,1,culturebank
+128,60,mental health discussions,united states,express,1,culturebank
+130,129,express,awe,expresses,1,culturebank
+130,78,express,confusion,expresses,1,culturebank
+131,132,social media,personal thoughts,express,1,culturebank
+131,133,social media,playful language,express,1,culturebank
+131,134,social media,differences,express,1,culturebank
+135,137,dress code,professionalism,expresses,1,culturebank
+136,138,workplace,comfort and professionalism,expresses,1,culturebank
+142,139,apologizing,politeness,expresses,1,culturebank
+142,140,apologizing,apology,expresses,1,culturebank
+142,141,apologizing,reassurance,expresses,1,culturebank
+143,144,patriotic displays,national pride,expresses,1,culturebank
+145,93,american,pride,expresses pride,1,culturebank
+47,148,rudeness,negative stereotypes and behaviors,expresses,1,culturebank
+146,148,impoliteness,negative stereotypes and behaviors,expresses,1,culturebank
+147,149,misunderstandings,perceived cultural differences and misunderstandings,expresses,1,culturebank
+150,60,respect,united states,expresses respect,1,culturebank
+151,60,kindness,united states,expresses respect,1,culturebank
+152,153,excitement,amusement,expresses,1,culturebank
+40,153,enthusiasm,amusement,expresses,1,culturebank
+153,154,amusement,wonder or surprise,expresses,1,culturebank
+93,158,pride,living in texas,expresses pride,1,culturebank
+152,158,excitement,living in texas,expresses excitement,1,culturebank
+157,158,concerns,living in texas,expresses,1,culturebank
+60,160,united states,admiration and appreciation,expresses,1,culturebank
+60,159,united states,culture,expresses,1,culturebank
+159,160,culture,admiration and appreciation,expresses,1,culturebank
+161,167,express dissatisfaction,customer service interactions and social situations,expresses frustration or discomfort,1,culturebank
+162,167,express gratitude,customer service interactions and social situations,expresses respect,1,culturebank
+163,167,apologize,customer service interactions and social situations,expresses regret,1,culturebank
+164,167,complain,customer service interactions and social situations,expresses dissatisfaction,1,culturebank
+165,167,avoid confrontation,customer service interactions and social situations,avoids conflict,1,culturebank
+166,167,use sarcasm,customer service interactions and social situations,expresses frustration or discomfort,1,culturebank
+168,150,greetings,respect,expresses,1,culturebank
+168,44,greetings,affection,expresses,1,culturebank
+170,50,apologies,frustration,expresses,1,culturebank
+50,172,frustration,high cost of raising children,expresses,1,culturebank
+173,174,displeasure,ugliness,expresses,1,culturebank
+175,174,things,ugliness,expresses,1,culturebank
+178,59,expresses,admiration,expresses admiration,1,culturebank
+178,21,expresses,gratitude,expresses gratitude,1,culturebank
+178,45,expresses,support,expresses support,1,culturebank
+50,179,frustration,high cost and perceived poor quality of food,expresses,1,culturebank
+69,180,appreciation,american food culture,expresses,1,culturebank
+50,182,frustration,settings,expresses,1,culturebank
+67,182,annoyance,settings,expresses,1,culturebank
+173,182,displeasure,settings,expresses,1,culturebank
+184,183,tie,sailor,express pride,1,candle
+186,187,work,audience,expresses,1,candle

@@ -1,0 +1,667 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,light meal,breakfast,uses,2,arabculture
+1,3,light meal,family,uses,1,arabculture
+4,1,hamis,light meal,is,1,arabculture
+4,5,hamis,mother,prepared by,1,arabculture
+1,6,light meal,meal,is,1,arabculture
+7,8,kuskus,algerian dishes,uses,1,arabculture
+9,10,milled salt,soup,used in,1,arabculture
+11,6,main dish,meal,uses,1,arabculture
+15,13,ifftar,family gathering,uses,1,arabculture
+16,17,sahur,vitamins,uses,1,arabculture
+16,18,sahur,energy,uses,1,arabculture
+1,16,light meal,sahur,uses,1,arabculture
+20,21,halwa,every household,exists in,1,arabculture
+22,23,fruit,sweet dish,uses,1,arabculture
+1,24,light meal,omer,enjoy,1,arabculture
+25,26,acasmic meal,acasmic wedding feast,uses,1,arabculture
+27,28,women,singing,perform,1,arabculture
+29,28,henna party,singing,includes,1,arabculture
+30,31,music,wedding,used in,1,arabculture
+33,32,algeria,important ceremony,uses,1,arabculture
+35,34,thigh meat,lambs,uses,1,arabculture
+36,38,cake,birthday,uses,1,arabculture
+37,38,gift,birthday,uses,1,arabculture
+40,41,workplace,professional atmosphere,uses,1,arabculture
+42,43,places,travel,used for,1,arabculture
+44,45,cleaning,house,uses,2,arabculture
+44,46,cleaning,windows,uses,1,arabculture
+47,48,materials,effective cleaning products,uses,1,arabculture
+5,49,mother,different techniques,uses,1,arabculture
+51,50,gifts,wrapping paper,wrapped with,1,arabculture
+52,53,games,child,used by,1,arabculture
+54,55,banat games,friends,used by,1,arabculture
+56,52,streets,games,uses,1,arabculture
+57,52,parks,games,uses,1,arabculture
+52,58,games,children,used by,1,arabculture
+59,60,street,play,uses,1,arabculture
+3,61,family,funeral rituals,performs,1,arabculture
+63,62,vena,lala,uses,1,arabculture
+64,3,barbecue,family,uses,1,arabculture
+65,3,harvest,family,uses,1,arabculture
+67,58,parents,children,uses,1,arabculture
+69,1,smir,light meal,uses,1,arabculture
+7,6,kuskus,meal,used in,1,arabculture
+72,73,hassaa,winter,used in,1,arabculture
+74,2,tamarind,breakfast,uses,1,arabculture
+6,11,meal,main dish,consists of,1,arabculture
+6,77,meal,side dish,consists of,1,arabculture
+6,78,meal,bread,consists of,1,arabculture
+6,79,meal,drinks,consists of,1,arabculture
+81,80,families,r samt,uses,1,arabculture
+82,83,kiskis,zibib,uses,1,arabculture
+84,85,saher,mashwi,uses,1,arabculture
+86,16,water,sahur,used for,1,arabculture
+87,1,coffee,light meal,uses,1,arabculture
+89,88,boufarik,zlabiya,uses,1,arabculture
+91,90,yasmine,koukou,uses,1,arabculture
+92,1,kseera,light meal,uses,1,arabculture
+45,93,house,place for wedding ceremony,uses,1,arabculture
+94,96,maculations,algerian wedding banquet,used in,1,arabculture
+98,97,groom,hammam,uses,1,arabculture
+99,100,henna,wedding celebration,used during,1,arabculture
+102,101,bride,mawkeb,uses,1,arabculture
+104,103,brides and grooms,new house,move to,1,arabculture
+105,31,events,wedding,uses,1,arabculture
+106,107,accolade,mould,uses,1,arabculture
+3,109,family,traditional dishes,prepares,1,arabculture
+110,111,chom,ashura,performs,1,arabculture
+58,2,children,breakfast,uses,1,arabculture
+114,115,workers,transportation means,uses,1,arabculture
+116,117,students,phones,uses,1,arabculture
+118,119,food,work,uses,1,arabculture
+3,120,family,household tasks,performs,1,arabculture
+121,122,father,household chores,performs,1,arabculture
+5,58,mother,children,takes care of,1,arabculture
+124,3,brother,family,helps,1,arabculture
+27,126,women,daughters,uses,1,arabculture
+128,127,youth,smartphones,uses,1,arabculture
+129,130,darja dialect,communication,uses,1,arabculture
+131,132,arabs,fingers,uses,1,arabculture
+133,134,simple way,cleaning tools,uses,1,arabculture
+52,58,games,children,plays,1,arabculture
+135,52,at home,games,plays,1,arabculture
+58,136,children,activities,perform,1,arabculture
+137,138,traditional instruments,festivals,uses,1,arabculture
+139,138,musical instruments,festivals,uses,1,arabculture
+140,30,france,music,uses,1,arabculture
+141,142,community,plants,uses,1,arabculture
+144,145,falahun,conditions,uses,1,arabculture
+78,147,bread,brani,uses,1,arabculture
+148,149,time,home,spends,1,arabculture
+150,151,fava beans,oil,uses,1,arabculture
+154,152,ahmed,jebn,uses,1,arabculture
+154,153,ahmed,fetir,uses,1,arabculture
+155,1,bazala,light meal,uses,1,arabculture
+156,1,ariz,light meal,uses,1,arabculture
+157,1,lham,light meal,uses,1,arabculture
+158,1,koshari,light meal,is,1,arabculture
+159,118,shawarma,food,uses,1,arabculture
+160,118,kebabs,food,uses,1,arabculture
+162,1,shams as-samak,light meal,is,1,arabculture
+163,165,smoked fish,unspecified meal,uses,1,arabculture
+164,165,salted fish,unspecified meal,uses,1,arabculture
+1,166,light meal,butter chicken vegetables,uses,1,arabculture
+167,169,batata,fran,uses,1,arabculture
+168,169,dajaj,fran,uses,1,arabculture
+72,169,hassaa,fran,uses,1,arabculture
+170,16,zabadi,sahur,uses,2,arabculture
+171,16,ful,sahur,uses,1,arabculture
+78,16,bread,sahur,uses,1,arabculture
+150,16,fava beans,sahur,uses,1,arabculture
+16,172,sahur,milk,uses,1,arabculture
+173,16,options,sahur,uses,1,arabculture
+86,16,water,sahur,uses,1,arabculture
+176,175,kenafeh,sman,uses,1,arabculture
+177,178,cataif,tea,uses,1,arabculture
+179,180,mango,fruit juice,uses,1,arabculture
+181,182,baticha,market,uses,1,arabculture
+183,182,jowiwa,market,purchased from,1,arabculture
+1,185,light meal,watching movies,uses,1,arabculture
+186,187,french fries,snacks,uses,1,arabculture
+189,42,wedding celebrations,places,uses,1,arabculture
+118,189,food,wedding celebrations,used in,1,arabculture
+190,191,rachel,hanoum,rachel uses,1,arabculture
+118,192,food,guests,receives,1,arabculture
+193,31,sharbat,wedding,used in,1,arabculture
+44,194,cleaning,houses,uses,1,arabculture
+58,195,children,mosque,uses,1,arabculture
+196,197,lamha,days of eid,distributed during,1,arabculture
+200,199,people,abayas,uses,1,arabculture
+202,201,babies,arjoohat,use,1,arabculture
+203,205,fisk,sham al nisim,uses,1,arabculture
+204,205,roasted fish,sham al nisim,uses,1,arabculture
+200,206,people,fisekh,uses,1,arabculture
+200,207,people,renje,uses,1,arabculture
+209,210,march,university day,uses,1,arabculture
+211,205,eggs,sham al nisim,used for,1,arabculture
+78,205,bread,sham al nisim,used for,1,arabculture
+212,213,arab cart,fava bean,uses,1,arabculture
+215,216,workmates,garden lunch,enjoy,1,arabculture
+58,217,children,shawerma,eat,1,arabculture
+218,219,men,coffee shop,goes to,1,arabculture
+87,218,coffee,men,used by,1,arabculture
+220,60,boys,play,goes to,1,arabculture
+27,118,women,food,uses,1,arabculture
+223,222,clothes,electric washing machine,uses,1,arabculture
+27,223,women,clothes,uses,1,arabculture
+224,149,daily cleaning,home,uses,1,arabculture
+44,226,cleaning,week,performed during,1,arabculture
+227,228,weekly,polishing,uses,1,arabculture
+229,44,bathroom,cleaning,cleaned by,1,arabculture
+200,230,people,sitting,enjoy,1,arabculture
+200,231,people,playing,enjoy,1,arabculture
+149,185,home,watching movies,uses,1,arabculture
+149,187,home,snacks,uses,1,arabculture
+233,118,right hand,food,uses,1,arabculture
+234,118,bismillah,food,used before,1,arabculture
+235,118,shai,food,drank after,1,arabculture
+236,237,shower,twice a week,uses,1,arabculture
+238,58,game,children,plays,1,arabculture
+58,239,children,naila,plays with,1,arabculture
+58,238,children,game,plays,1,arabculture
+238,240,game,bank game,is,1,arabculture
+241,242,ball,children's game,used in,1,arabculture
+58,243,children,bily,plays with,1,arabculture
+244,245,nurse,four men,uses,1,arabculture
+118,200,food,people,uses,1,arabculture
+200,246,people,quran reader,uses,1,arabculture
+248,247,music ensemble,rababa,uses,1,arabculture
+249,250,egypt,radio,uses,2,arabculture
+250,251,radio,song,plays,1,arabculture
+250,254,radio,ramadan song,plays,1,arabculture
+256,257,batikh,may,grown,1,arabculture
+258,259,irrigation,crops,uses,1,arabculture
+260,2,ahmed's honey,breakfast,uses,1,arabculture
+261,2,flour,breakfast,uses,1,arabculture
+262,263,jebneh,tomato,uses,1,arabculture
+264,3,kfta dawood basha,family,used for,1,arabculture
+265,16,falafel,sahur,uses,1,arabculture
+58,1,children,light meal,uses,1,arabculture
+267,268,egyptian weddings,wedding ceremonies,uses,1,arabculture
+270,269,shorouq,frish,uses,1,arabculture
+271,100,white song,wedding celebration,used in,1,arabculture
+275,273,shaima,khubz,uses,1,arabculture
+275,274,shaima,biscuits,uses,1,arabculture
+3,276,family,living room,uses,1,arabculture
+278,279,neighbors,new year,use,1,arabculture
+3,280,family,outdoor,uses,1,arabculture
+281,282,afтар,morning,uses,1,arabculture
+5,283,mother,housework,does,1,arabculture
+5,44,mother,cleaning,does,1,arabculture
+119,284,work,mobilia,uses,1,arabculture
+285,286,flash,soap,uses,1,arabculture
+223,287,clothes,washing machine,uses,1,arabculture
+223,288,clothes,outdoor area,uses,1,arabculture
+45,44,house,cleaning,needs,1,arabculture
+44,290,cleaning,dust,uses,1,arabculture
+291,128,suhra,youth,uses,1,arabculture
+187,293,snacks,morsa,uses,1,arabculture
+178,293,tea,morsa,uses,1,arabculture
+223,297,clothes,amusement park,uses,1,arabculture
+297,223,amusement park,clothes,uses,1,arabculture
+3,6,family,meal,uses,1,arabculture
+249,118,egypt,food,uses,1,arabculture
+298,299,meeting,sixth hour,at,1,arabculture
+300,52,nadir and ahmed,games,plays,1,arabculture
+301,238,stone-paper-scissors,game,uses,1,arabculture
+302,58,basmat,children,used by,1,arabculture
+303,304,venkatagiri cotton,sarees,used for,1,diwali
+303,305,venkatagiri cotton,salwar suits,used for,1,diwali
+306,307,kullu shawl,wool,uses,1,diwali
+308,309,dabu print,fabric,uses,1,diwali
+310,311,leirum phee,muffler,used as,1,diwali
+312,313,lasingphee,warmth,used for,1,diwali
+312,314,lasingphee,cultural significance,holds,1,diwali
+312,315,lasingphee,quilts,used as,1,diwali
+312,316,lasingphee,covers,used as,1,diwali
+312,317,lasingphee,scarves,used as,1,diwali
+312,318,lasingphee,bedspreads,used as,1,diwali
+320,313,loi,warmth,used for,1,diwali
+322,323,ringaal,wild bamboo plant,made from,1,diwali
+324,325,tsugdan,sheep wool,made from,1,diwali
+324,326,tsugdan,decorative purposes,used for,1,diwali
+324,327,tsugdan,functional purposes,used for,1,diwali
+328,329,veeranatyam,lord shiva,associated with,1,diwali
+330,331,rasaka,playful scenes,depicting,1,diwali
+330,332,rasaka,krishna's leelas,associated with,1,diwali
+333,334,bhortal nritya,cymbals,uses,1,diwali
+335,334,barpeta's bhortal nritya,cymbals,uses,2,diwali
+337,338,ojapali,religious rituals,associated with,1,diwali
+339,340,suvari,religious ceremonies,used during,1,diwali
+344,341,united states,american dishes,uses,1,culturebank
+344,342,united states,processed foods,uses,1,culturebank
+344,343,united states,fast food,uses,1,culturebank
+345,346,grocery store,produce,uses,1,culturebank
+347,345,customer,grocery store,shop for groceries,1,culturebank
+87,349,coffee,settings,uses,1,culturebank
+172,351,milk,refrigeration,uses,1,culturebank
+352,353,guns,general,own,1,culturebank
+352,353,guns,general,carry,1,culturebank
+352,353,guns,general,purchase,1,culturebank
+354,355,tampons,menstrual hygiene,uses,1,culturebank
+358,356,school shooting,fear,causes,1,culturebank
+358,357,school shooting,concern,causes,1,culturebank
+359,361,paying,payment practices,uses,1,culturebank
+360,362,chatting,hours,uses,1,culturebank
+118,363,food,banned substances,uses,1,culturebank
+118,364,food,food regulations,uses,1,culturebank
+365,367,bank cheques,payments,uses,1,culturebank
+366,367,ach system,payments,uses,1,culturebank
+368,369,ranch dressing,american cuisine,uses,1,culturebank
+368,370,ranch dressing,pizza,used on,1,culturebank
+368,371,ranch dressing,tacos,used on,1,culturebank
+368,372,ranch dressing,dipping sauce,used as,1,culturebank
+373,374,fork,specific manner,uses,1,culturebank
+377,375,grocery shopping,stores,uses,1,culturebank
+377,376,grocery shopping,times,uses,1,culturebank
+378,382,window treatments,homes,use,1,culturebank
+379,378,blinds,window treatments,use,1,culturebank
+380,378,shutters,window treatments,use,1,culturebank
+381,378,curtains,window treatments,use,1,culturebank
+383,44,sponges,cleaning,uses,1,culturebank
+384,44,loofahs,cleaning,uses,1,culturebank
+385,44,washcloths,cleaning,uses,1,culturebank
+386,44,hands,cleaning,uses,1,culturebank
+387,389,kettle,boiling water,uses,1,culturebank
+390,389,electric kettle,boiling water,uses,1,culturebank
+391,389,filtering water,boiling water,uses,1,culturebank
+388,387,microwave,kettle,puts in,1,culturebank
+392,393,peanut butter,sandwiches,used in,1,culturebank
+394,395,lemonade,fizzy and non-fizzy drinks,uses,1,culturebank
+396,397,tobacco products,vending machines,are sold through,1,culturebank
+396,398,tobacco products,pharmacies,are sold in,1,culturebank
+349,399,settings,slang,uses,1,culturebank
+349,400,settings,internet slang,uses,1,culturebank
+401,402,fanta,artificial orange flavoring,associates with,1,culturebank
+403,405,yellow school bus,school buses,used and maintained,1,culturebank
+405,406,school buses,schools,used in,1,culturebank
+405,407,school buses,workplaces,used in,1,culturebank
+408,409,school lunches,fast-paced meal consumption,uses,1,culturebank
+410,411,sarcasm,humor and communication,uses,1,culturebank
+412,413,paper checks,financial transactions,used in,1,culturebank
+415,414,chick-fil-a,chicken burger,uses,1,culturebank
+415,416,chick-fil-a,humorous twist,uses,1,culturebank
+421,418,kitchens,dumpsters,uses,1,culturebank
+421,419,kitchens,garbage disposals,uses,1,culturebank
+421,420,kitchens,waste pick-up services,uses,1,culturebank
+422,424,toilet paper,toilets,used in,1,culturebank
+423,424,shelves,toilets,used in,1,culturebank
+344,425,united states,inches,uses,1,culturebank
+344,426,united states,feet,uses,1,culturebank
+344,427,united states,pounds,uses,1,culturebank
+344,428,united states,yards,uses,1,culturebank
+431,429,yellow mustard,spicy,uses,1,culturebank
+431,430,yellow mustard,vinegar-based,uses,1,culturebank
+432,433,athleisure wear,sweatpants,includes,1,culturebank
+432,434,athleisure wear,fashion choice,uses,1,culturebank
+435,437,bank transfers,efficient and quick money transactions,uses,1,culturebank
+436,437,digital transfers,efficient and quick money transactions,uses,1,culturebank
+438,440,unhealthy food,obesity,uses,1,culturebank
+439,440,lack of exercise,obesity,uses,1,culturebank
+441,353,cereal,general,consumed,1,culturebank
+441,172,cereal,milk,uses,1,culturebank
+443,444,napkins,hand out napkins,uses,1,culturebank
+445,446,tip-based compensation system,servers,uses,1,culturebank
+447,448,home cooking,fast food restaurants,uses,1,culturebank
+287,451,washing machine,convenience and efficiency,uses,1,culturebank
+450,452,mangle,pressing sheets and tablecloths,uses,1,culturebank
+455,454,movie theaters,comfortable seating,prioritize comfort through,1,culturebank
+455,453,movie theaters,blankets,prioritize comfort through,1,culturebank
+456,457,toilet features,public restrooms,use,1,culturebank
+458,460,fahrenheit,temperature measurement,uses,1,culturebank
+461,462,sidewalks,neighborhoods,use,1,culturebank
+398,464,pharmacies,supermarkets,uses,1,culturebank
+464,398,supermarkets,pharmacies,uses,1,culturebank
+398,465,pharmacies,beer,uses,1,culturebank
+398,466,pharmacies,goods,uses,1,culturebank
+467,470,french toast,"terms like 'french toast', 'eggy bread', and 'toast bread'",uses,1,culturebank
+468,470,eggy bread,"terms like 'french toast', 'eggy bread', and 'toast bread'",uses,1,culturebank
+469,470,toast bread,"terms like 'french toast', 'eggy bread', and 'toast bread'",uses,1,culturebank
+471,455,popcorn,movie theaters,eats,1,culturebank
+472,473,cheese,canned cheese,uses,1,culturebank
+472,474,cheese,cheese in tubes,uses,1,culturebank
+472,475,cheese,deli cheeses,uses,1,culturebank
+477,476,daily grooming rituals,makeup,includes,1,culturebank
+477,432,daily grooming rituals,athleisure wear,includes,1,culturebank
+478,479,mcdonald's,meals,uses,1,culturebank
+480,482,walking,school settings,uses,1,culturebank
+481,482,cycling,school settings,uses,1,culturebank
+483,118,sugar,food,used in,1,culturebank
+484,486,umbrellas,sun protection,use,1,culturebank
+485,486,parasols,sun protection,use,1,culturebank
+344,487,united states,extreme debt,struggle with,1,culturebank
+344,488,united states,medical debt,struggle with,1,culturebank
+344,489,united states,student loans,struggle with,1,culturebank
+344,490,united states,financial insecurity,struggle with,1,culturebank
+492,493,free water,restaurants and hospitality venues,used by,1,culturebank
+493,492,restaurants and hospitality venues,free water,offers,1,culturebank
+494,495,infant car seats,hospital,used,1,culturebank
+494,495,infant car seats,hospital,mandatory for babies,1,culturebank
+494,496,infant car seats,car,used,1,culturebank
+497,498,cars,transportation,uses,1,culturebank
+500,499,affordable wine,wine,uses,1,culturebank
+422,501,toilet paper,public restroom,used in,1,culturebank
+422,501,toilet paper,public restroom,disposed of in,1,culturebank
+502,504,lunch breaks,limited time,uses,1,culturebank
+502,505,lunch breaks,waiting in line,uses,1,culturebank
+506,507,roundabouts,efficient and ecological transportation,use and install,1,culturebank
+58,480,children,walking,start going to school alone,1,culturebank
+58,404,children,school,start going to school alone,1,culturebank
+508,510,vegetables,italy,uses,1,culturebank
+509,510,meat,italy,uses,1,culturebank
+511,513,large refrigerators,food storage,uses,1,culturebank
+512,514,fridges,sandwich storage,uses,1,culturebank
+515,78,bread slicing machine,bread,uses,1,culturebank
+517,516,outfits,jeans,includes,1,culturebank
+518,520,reusable bag,coolers,uses,1,culturebank
+521,369,chicken salt,american cuisine,used in,1,culturebank
+522,523,butter,baking,uses,1,culturebank
+522,524,butter,spreading,uses,1,culturebank
+522,525,butter,condiment,uses,1,culturebank
+526,527,fish and chips,chips,uses,1,culturebank
+526,186,fish and chips,french fries,uses,1,culturebank
+527,186,chips,french fries,confusing with,1,culturebank
+528,531,traffic rules,drivers,follow,1,culturebank
+529,531,stop signs,drivers,stop at,1,culturebank
+506,531,roundabouts,drivers,navigate,1,culturebank
+530,531,traffic lights,drivers,navigate,1,culturebank
+532,534,college,higher education institutions,uses,1,culturebank
+533,534,university,higher education institutions,uses,1,culturebank
+535,537,towels,various purposes,use for,1,culturebank
+536,538,tightly towelled,puritanical and religious origins,influenced by,1,culturebank
+539,541,birth,expensive process,includes,1,culturebank
+540,541,baby supply,expensive process,includes,1,culturebank
+118,508,food,vegetables,includes,1,culturebank
+118,509,food,meat,includes,1,culturebank
+118,542,food,junk food,includes,1,culturebank
+543,544,canned strawberries,cooking,used for,1,culturebank
+545,546,grapes,grocery stores and supermarkets,used in,1,culturebank
+547,548,door gaps,american diners,use,1,culturebank
+549,40,flexible work schedules,workplace,uses,1,culturebank
+472,377,cheese,grocery shopping,uses,1,culturebank
+550,478,pancakes,mcdonald's,uses,1,culturebank
+551,344,unique and colloquial expressions,united states,use,1,culturebank
+552,554,parking fees,beach access,are common for,1,culturebank
+480,552,walking,parking fees,is also an option,1,culturebank
+555,130,whatsapp,communication,used for,1,culturebank
+556,557,america,free communication methods,prefers,1,culturebank
+558,559,salad,salad dressing,uses,1,culturebank
+560,562,air conditioning units,maintain comfort and survive in hot conditions,used to,1,culturebank
+565,563,hanging clothes,clotheslines,uses,1,culturebank
+565,564,hanging clothes,hangers,uses,1,culturebank
+566,567,american diner,dining experience,uses,1,culturebank
+567,568,dining experience,ordering,includes,1,culturebank
+567,569,dining experience,tipping,includes,1,culturebank
+567,570,dining experience,specific behaviors like chugging water,includes,1,culturebank
+566,571,american diner,nostalgia,uses,1,culturebank
+566,572,american diner,tipping culture,uses,1,culturebank
+573,574,cursive writing,written communication,uses,1,culturebank
+118,575,food,buttons,uses,1,culturebank
+576,578,hard work,financial stability and success,uses,1,culturebank
+577,578,budgeting,financial stability and success,uses,1,culturebank
+130,578,communication,financial stability and success,uses,1,culturebank
+579,581,drug use,illegal substances,uses,1,culturebank
+579,582,drug use,over-the-counter substances,uses,1,culturebank
+583,497,yell,cars,used in,1,culturebank
+497,344,cars,united states,used in,1,culturebank
+585,464,checkout experience,supermarkets,uses,1,culturebank
+586,464,new foods,supermarkets,uses,1,culturebank
+453,589,blankets,movie theaters and public spaces,use,1,culturebank
+590,591,military time,24-hour format,uses,1,culturebank
+590,592,military time,military alphabet,uses,1,culturebank
+593,594,bulk shopping,household items,uses,1,culturebank
+593,595,bulk shopping,groceries,uses,1,culturebank
+596,597,comas,response to minor issues,use,1,culturebank
+601,598,water conservation,less water,uses,1,culturebank
+601,599,water conservation,turning off the water,uses,1,culturebank
+601,600,water conservation,adjusting water temperature,uses,1,culturebank
+605,602,hospitals,12-hour clock system,use,1,culturebank
+407,602,workplaces,12-hour clock system,use,1,culturebank
+606,604,medicines,metric units,measured in,1,culturebank
+607,608,purchase food,pay for food,uses,1,culturebank
+609,610,menu prices,explicit,is,1,culturebank
+613,611,employers,paid holidays,offer,1,culturebank
+613,612,employers,flexible vacation time,offer,1,culturebank
+614,525,mayonnaise,condiment,uses,1,culturebank
+614,559,mayonnaise,salad dressing,uses,1,culturebank
+614,544,mayonnaise,cooking,uses,1,culturebank
+617,344,names,united states,use,1,culturebank
+618,344,paperwork,united states,use,1,culturebank
+617,619,names,unique,include,1,culturebank
+617,620,names,shortened,include,1,culturebank
+617,621,names,dual last names,include,1,culturebank
+624,64,memorial day,barbecue,celebrate,1,culturebank
+624,623,memorial day,parade,celebrate,1,culturebank
+625,626,sundays,relaxation,includes,1,culturebank
+625,627,sundays,religious activities,includes,1,culturebank
+625,628,sundays,taking naps,includes,1,culturebank
+625,629,sundays,having lunch,includes,1,culturebank
+625,630,sundays,taking time off for small businesses,includes,1,culturebank
+631,632,wiring systems,power outages,includes,1,culturebank
+631,633,wiring systems,farming,includes,1,culturebank
+634,635,doggy bags,restaurants,used in,1,culturebank
+634,636,doggy bags,request and use,used for,1,culturebank
+637,118,public broadcasting,food,uses,1,culturebank
+638,639,waitstaff,card reader,uses,1,culturebank
+635,639,restaurants,card reader,uses,1,culturebank
+642,643,mobile payment apps,convenience,uses,1,culturebank
+642,644,mobile payment apps,speed,uses,1,culturebank
+642,645,mobile payment apps,lower fees,uses,1,culturebank
+646,647,recycling,reducing litter,uses,1,culturebank
+646,648,recycling,supporting those in need,uses,1,culturebank
+649,651,videos,engaging with,used for,1,culturebank
+650,649,traveling,videos,engages with,1,culturebank
+649,652,videos,watching,used for,1,culturebank
+649,653,videos,creating,used for,1,culturebank
+649,654,videos,sharing,used for,1,culturebank
+655,344,bell peppers,united states,use,1,culturebank
+655,656,bell peppers,movies,use,1,culturebank
+657,658,applicators,personal hygiene,used for,1,culturebank
+659,660,zelle,bank-to-bank transactions,used for,1,culturebank
+661,662,potatoes,comfort food,used as,1,culturebank
+661,663,potatoes,staple crop,used as,1,culturebank
+661,544,potatoes,cooking,used in,1,culturebank
+661,664,potatoes,consumption,used in,1,culturebank
+665,344,cameras,united states,uses,1,culturebank
+667,668,gas station,medication,includes,1,culturebank
+670,669,social settings,time-specific greetings,utilize,1,culturebank
+671,672,true crime documentaries,cleaning process,interest in,1,culturebank
+673,675,coins,transactions,use,1,culturebank
+673,676,coins,nicknames,use,1,culturebank
+673,677,coins,color-coded money,be confused by,1,culturebank
+673,674,coins,money,have different values and uses,1,culturebank
+678,680,flexible work arrangements,work-life balance,includes,1,culturebank
+679,680,vacation pay,work-life balance,includes,1,culturebank
+681,682,fair compensation,fair pay,includes,1,culturebank
+459,684,california,local norms,conforming to,1,culturebank
+685,426,socks,feet,uses,1,culturebank
+685,687,socks,keep feet warm,uses,1,culturebank
+685,688,socks,keep feet clean,uses,1,culturebank
+676,349,nicknames,settings,use,1,culturebank
+676,690,nicknames,distinguish,use,1,culturebank
+676,691,nicknames,express,use,1,culturebank
+692,695,hot sauce,various sauces,uses,1,culturebank
+693,695,clarified butter,various sauces,uses,1,culturebank
+694,695,daddy sauce,various sauces,uses,1,culturebank
+667,696,gas station,vehicle,uses,1,culturebank
+696,667,vehicle,gas station,uses,1,culturebank
+347,697,customer,service staff,uses,1,culturebank
+698,344,sunflower seeds,united states,used by,1,culturebank
+529,353,stop signs,general,used and respected,1,culturebank
+700,702,casual conversation,'bro',uses,1,culturebank
+701,702,online interactions,'bro',uses,1,culturebank
+703,140,air conditioning,france,uses,1,culturebank
+707,708,uses,admiration,uses to emphasize,1,culturebank
+707,709,uses,gratitude,uses to emphasize,1,culturebank
+707,710,uses,support,uses to emphasize,1,culturebank
+711,716,articulate language,various communication settings,uses,1,culturebank
+712,716,eloquent language,various communication settings,uses,1,culturebank
+713,716,strong language,various communication settings,uses,1,culturebank
+714,716,well-thought-out responses,various communication settings,uses,1,culturebank
+715,716,perfect responses,various communication settings,uses,1,culturebank
+717,87,muffins,coffee,are consumed with,1,culturebank
+717,36,muffins,cake,considered,1,culturebank
+721,433,casually,sweatpants,uses,1,culturebank
+721,719,casually,leggings,uses,1,culturebank
+721,720,casually,athletic shoes,uses,1,culturebank
+722,723,pads,packaging,uses,1,culturebank
+725,724,snack,preschool kids,uses,1,blend
+465,727,beer,popular food,uses,1,blend
+728,33,school cafeteria food,algeria,uses,1,blend
+725,297,snack,amusement park,uses,1,blend
+731,732,afterschool sport,elementary school,uses,1,blend
+33,733,algeria,high school students,uses,1,blend
+734,33,halloween,algeria,uses,2,blend
+735,33,christmas,algeria,uses,1,blend
+736,33,valentine's day,algeria,uses,1,blend
+38,33,birthday,algeria,uses,1,blend
+737,81,outdoor place,families,used by,1,blend
+738,739,university students,lunch,have lunch,1,blend
+33,740,algeria,venues,uses,1,blend
+33,741,algeria,dessert,uses,1,blend
+742,118,company get-together,food,uses,1,blend
+733,745,high school students,dinner,use,1,blend
+746,406,break time,schools,uses,1,blend
+747,33,sport,algeria,played in,1,blend
+748,749,sports,upper class,uses,1,blend
+33,750,algeria,utensils,uses,1,blend
+33,10,algeria,soup,uses,1,blend
+33,752,algeria,street food,likes to eat,1,blend
+739,754,lunch,working days,uses,1,blend
+33,118,algeria,food,uses,2,blend
+2,755,breakfast,drink,uses,1,blend
+756,757,chicken,carbohydrate,uses,1,blend
+33,758,algeria,national television,uses,1,blend
+748,759,sports,broadcasting,uses,1,blend
+748,760,sports,people from algeria,used by,1,blend
+761,762,soccer teams,rivalry,uses,1,blend
+406,763,schools,sports field facilities,uses,1,blend
+764,118,soccer game,food,uses,1,blend
+118,765,food,stadiums,uses,1,blend
+766,748,school sports day,sports,uses,1,blend
+767,748,winter sports,sports,uses,1,blend
+768,33,e-sports game,algeria,uses,1,blend
+769,118,funeral parlors,food,uses,1,blend
+200,282,people,morning,uses,1,blend
+33,770,algeria,ramadan,uses,1,blend
+118,770,food,ramadan,uses,1,blend
+33,771,algeria,eid ul fitr,uses,1,blend
+33,772,algeria,eid ul adha,uses,1,blend
+33,2,algeria,breakfast,uses,1,blend
+343,33,fast food,algeria,uses,1,blend
+178,118,tea,food,uses,1,blend
+200,87,people,coffee,use,1,blend
+33,777,algeria,rainy weather,uses,1,blend
+778,33,indoor sport,algeria,uses,1,blend
+779,747,men in algeria,sport,uses,1,blend
+22,780,fruit,summer,used in,1,blend
+747,33,sport,algeria,uses,1,blend
+64,509,barbecue,meat,uses,1,blend
+33,783,algeria,late-night snacks,uses,1,blend
+785,784,food items,hard liquor,uses,1,blend
+118,786,food,sick,uses,1,blend
+787,788,gymnastics,competitions,uses,1,blend
+33,789,algeria,winter olympics,uses,1,blend
+790,747,track and field,sport,uses,1,blend
+40,791,workplace,office software,uses,1,blend
+22,792,fruit,family dinners,uses,1,blend
+738,793,university students,clubs,uses,1,blend
+794,138,city,festivals,hosts,1,blend
+31,796,wedding,clothing,uses,1,blend
+725,797,snack,cinema,used in,1,blend
+725,33,snack,algeria,originates from,1,blend
+1,798,light meal,cost-effective and quick meal option,is a,1,blend
+799,33,cooking shows,algeria,uses,1,blend
+801,800,sports fans,cheering tools,uses,1,blend
+802,803,fans,live game,bring,1,blend
+804,33,sporting chant,algeria,used in,1,blend
+805,194,back garden,houses,uses,1,blend
+806,2,grab-and-go,breakfast,uses,1,blend
+807,808,alcoholic drink,festival,uses,1,blend
+809,33,cooking utensil,algeria,used in,1,blend
+33,810,algeria,horse,uses,1,blend
+811,812,children's animation,kids,watched by,1,blend
+813,81,children's song,families,used by,1,blend
+814,220,toys,boys,used by,1,blend
+814,817,toys,girls,used by,1,blend
+57,818,parks,popular activity,used for,1,blend
+819,33,sports drink,algeria,used in,1,blend
+821,627,day of the week,religious activities,uses,1,blend
+251,823,song,birthday party,used at,1,blend
+187,406,snacks,schools,sold in front of,1,blend
+30,404,music,school,uses,1,blend
+824,33,education day,algeria,celebrated in,1,blend
+825,826,animals,agriculture,used for,1,blend
+827,739,farmers,lunch,eat,1,blend
+223,829,clothes,weddings,used at,1,blend
+223,31,clothes,wedding,used in,1,blend
+830,33,boardgame,algeria,used in,1,blend
+187,33,snacks,algeria,uses,1,blend
+831,832,beach,algerian food,uses,1,blend
+833,747,olympic games,sport,uses,1,blend
+834,27,daily exercise,women,uses,1,blend
+834,218,daily exercise,men,uses,1,blend
+33,837,algeria,new year's eve,uses,1,blend
+118,838,food,longest night of the year,uses,1,blend
+2,839,breakfast,family members,uses,1,blend
+739,839,lunch,family members,uses,1,blend
+745,839,dinner,family members,uses,1,blend
+33,840,algeria,family game,uses,1,blend
+841,404,extracurricular social event,school,uses,1,blend
+842,843,elementary students,after school,do,1,blend
+845,844,handlers,yearlings,walk,1,candle
+844,847,yearlings,potential buyers to judge the horses' movement,enable,1,candle
+848,849,judge,wig,uses,1,candle
+848,850,judge,gown,uses,1,candle
+851,852,essay,student,given to,1,candle
+855,856,books,teacher,uses,1,candle
+856,857,teacher,language,uses,1,candle
+858,859,papers,teachers,used by,1,candle
+858,116,papers,students,returned to,1,candle
+856,851,teacher,essay,propose,1,candle
+862,859,poses,teachers,used by,1,candle
+863,859,notes,teachers,used by,1,candle
+866,856,rules,teacher,uses,1,candle
+856,148,teacher,time,uses,1,candle
+856,870,teacher,mark,uses,1,candle
+856,852,teacher,student,uses,1,candle
+873,856,chart,teacher,used by,1,candle
+874,244,health check,nurse,performed by,1,candle
+244,876,nurse,gloves,uses,1,candle
+244,850,nurse,gown,uses,1,candle
+244,878,nurse,tube,uses,1,candle
+244,880,nurse,pain medication,uses,1,candle
+881,882,chalk,garment,used to mark,1,candle
+883,884,anesthesia,tooth,uses,1,candle
+885,886,praise,good behavior,uses,1,candle
+887,889,post-buildup care,dentist,uses,1,candle
+889,888,dentist,trust,values,1,candle
+890,891,peroxide,solution,uses,1,candle
+892,893,periodontal probe,pockets,used to measure,1,candle
+894,895,reservations,votes,uses,1,candle
+896,897,politician,media,uses,1,candle
+896,899,politician,public speaking,uses,1,candle
+900,896,curry,politician,uses,1,candle
+903,200,photographer,people,uses,1,candle
+903,810,photographer,horse,uses,1,candle
+905,906,race photographer,body marking,uses,1,candle
+908,909,shave,tattoo,used for,1,candle
+910,911,painter's tape,things,uses,1,candle
+912,913,painter,tape,uses,1,candle
+914,917,lawyer,negligent homicide case,takes on,1,candle
+915,916,priest,exorcism,performed,1,candle
+916,918,exorcism,young girl,performed on,1,candle
+919,920,agreement,signature,uses,1,candle
+922,921,senior attorney,hearing,uses,1,candle
+923,924,confidential report,attorney,used by,1,candle
+925,926,client intake form,initial prospective client interview,uses,1,candle
+924,927,attorney,lectern,uses,1,candle
+924,928,attorney,courtroom,uses,1,candle
+930,931,knives,butcher,uses,1,candle
+932,933,scientist,abstract,uses,1,candle
+932,934,scientist,title,uses,1,candle
+935,936,opening paragraph,journalist,uses,1,candle
+937,938,table,waiter,uses,1,candle
+938,939,waiter,bow tie,wears,1,candle
+938,940,waiter,dishes,serves,1,candle

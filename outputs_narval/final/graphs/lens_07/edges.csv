@@ -1,0 +1,109 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,wedding,music,values,1,arabculture
+3,4,dignified burial,algeria,values,1,arabculture
+5,6,brotherhood,responsibility,values,1,arabculture
+7,4,timings,algeria,values,1,arabculture
+8,9,respect,cemetery,values,1,arabculture
+10,11,grandparents,grandchildren,values,1,arabculture
+12,13,proverb,strategic thinking,values,1,arabculture
+12,15,proverb,life lesson,values,1,arabculture
+16,17,parents,children,values,1,arabculture
+19,18,patola,highly valued,values,1,diwali
+20,21,kullu patti,durability,values,1,diwali
+20,22,kullu patti,warmth,values,1,diwali
+24,23,narayan peth sari,maharashtrian culture,values,1,diwali
+25,26,garad sari,purity,values,1,diwali
+28,27,baishagu dance,new year,values,1,diwali
+29,30,bihar,harvest season,values,1,diwali
+31,32,chaitra dance,new beginnings,values,1,diwali
+33,34,thadiya dance,nature's beauty,values,1,diwali
+37,35,obesity,rudeness,values,1,culturebank
+37,36,obesity,stereotypes,values,1,culturebank
+38,41,freedom,united states,values,1,culturebank
+39,41,independence,united states,values,1,culturebank
+40,41,individual liberty,united states,values,1,culturebank
+42,44,collective approach,parent-child,values,1,culturebank
+43,44,individualism,parent-child,values,1,culturebank
+45,41,dogs,united states,values,1,culturebank
+41,47,united states,self-reliance,values,1,culturebank
+41,48,united states,personal freedom,values,1,culturebank
+41,49,united states,community,values,1,culturebank
+41,50,united states,social norms,values,1,culturebank
+53,51,humor,coping mechanism,values,1,culturebank
+53,52,humor,cultural expression,values,1,culturebank
+54,56,unfairness,perceived high prices,values,1,culturebank
+55,57,annoyance,hidden costs,values,1,culturebank
+58,59,multicultural understanding,awareness,values,1,culturebank
+8,63,respect,healthy work-life balance,values,1,culturebank
+64,8,workplace,respect,values,1,culturebank
+64,63,workplace,healthy work-life balance,values,1,culturebank
+67,68,normalcy,behaviors,values,1,culturebank
+43,47,individualism,self-reliance,values,1,culturebank
+43,39,individualism,independence,values,1,culturebank
+71,76,politeness,interpersonal interactions,values,1,culturebank
+72,76,kindness,interpersonal interactions,values,1,culturebank
+8,76,respect,interpersonal interactions,values,1,culturebank
+74,76,honesty,interpersonal interactions,values,1,culturebank
+75,76,manners,interpersonal interactions,values,1,culturebank
+79,77,memorial day,military personnel,values respect for,1,culturebank
+79,78,memorial day,sacrifices,values respect for,1,culturebank
+81,8,sing,respect,values,1,culturebank
+82,8,recite,respect,values,1,culturebank
+83,41,productivity,united states,values,1,culturebank
+84,41,efficiency,united states,values,1,culturebank
+85,41,profit,united states,values,1,culturebank
+86,87,embarrassment,stinginess,values,1,culturebank
+88,89,safety and well-being,parenting and education,values,1,culturebank
+90,91,unprepared,suffering,values,1,culturebank
+93,94,health insurance,affordability and accessibility,values,1,culturebank
+95,96,apologize,respect and politeness,values,1,culturebank
+41,97,united states,cleanliness,values,1,culturebank
+4,99,algeria,gold medals,values,1,blend
+4,65,algeria,education,values,1,blend
+4,100,algeria,profession,values,1,blend
+4,101,algeria,female sportperson,values,1,blend
+102,103,islam,family,values,1,blend
+105,17,folk tale,children,values,1,blend
+106,4,love,algeria,values,1,blend
+107,4,romance,algeria,values,1,blend
+108,4,family size,algeria,values,1,blend
+4,109,algeria,sport,values,1,blend
+110,4,perk,algeria,values,1,blend
+65,111,education,students,values,1,blend
+113,112,judge,good behavior,values,1,candle
+114,115,teacher,student,values,1,candle
+116,117,attention,teachers,values,1,candle
+114,118,teacher,high expectations,values,1,candle
+119,114,praise,teacher,values,1,candle
+120,121,dance,love and respect,values,1,candle
+8,114,respect,teacher,values,1,candle
+115,114,student,teacher,values respect for,1,candle
+8,124,respect,obedience,values,1,candle
+125,126,god,reward,values,1,candle
+8,17,respect,children,values,1,candle
+128,114,calm,teacher,values,1,candle
+114,129,teacher,accountability,values,1,candle
+114,130,teacher,positive,values,1,candle
+114,131,teacher,student development,values,1,candle
+114,115,teacher,student,values respect for,1,candle
+132,133,farmer,disciplined repayment behaviour,values,1,candle
+134,135,nurse,demonstrate behaviors,values,1,candle
+134,136,nurse,role,values,1,candle
+8,137,respect,dignity,values,1,candle
+134,138,nurse,walk their talk,values,1,candle
+134,140,nurse,doctor,values respect for,1,candle
+141,142,nurses' week,hospital,values,1,candle
+143,144,advice,visit,values,1,candle
+144,143,visit,advice,values,1,candle
+146,145,moment,photographer,values,1,candle
+103,148,family,professional photographer,values,1,candle
+145,149,photographer,wedding-reportage,values,1,candle
+103,150,family,acknowledgement and respect,values,1,candle
+151,153,historian,authenticity,values,1,candle
+154,155,artist,sign,values,1,candle
+156,157,priest,know,values,1,candle
+158,159,housekeeper,entrance hall,values,1,candle
+160,161,scientist,full paper,values,1,candle
+162,124,journalist,obedience,values,1,candle
+164,165,oath,public good,values,1,candle
+140,125,doctor,god,values,1,candle

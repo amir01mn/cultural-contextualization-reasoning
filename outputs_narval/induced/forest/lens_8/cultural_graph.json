@@ -1,0 +1,1010 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 26
+    },
+    {
+      "id": 2,
+      "label": "abundant and delicious breakfast",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 57
+    },
+    {
+      "id": 4,
+      "label": "chickpea stew",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "traditional_sweets",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "guests",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "rich local cuisine",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "hmaram",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "free time",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "five-year-old boutoul",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "breakfast time",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "leisure activities",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 13,
+      "label": "fresh fruits",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "light meal",
+      "level": 5,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "according to their customs and traditions",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "sports games",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "outdoor play",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "local music",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "traditional_songs",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "nile valley",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 22,
+      "label": "kenafeh dessert",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "qatayef with tea",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "eating fava bean breakfast",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "at home",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "boiled eggs for suhoor",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "furnishing new home",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "spending free time together",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "united states",
+      "level": 1,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "football",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 3
+    },
+    {
+      "id": 31,
+      "label": "beer with food",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "snacks at amusement parks",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "couscous",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "fireworks display",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "algerian seniors",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 36,
+      "label": "kabaddi",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "gifts",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 3
+    },
+    {
+      "id": 38,
+      "label": "soup",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "chips and dips",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "traditional algerian sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "popular e-sports games",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "spicy food",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "traditional algerian cuisine",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "traditional algerian fruits",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "retired women",
+      "level": 4,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 2
+    },
+    {
+      "id": 46,
+      "label": "racket sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "dependent elderly",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "traditional algerian dishes",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "beach sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "outdoor spaces",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "traditional wedding dishes",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "soccer",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "summer sports",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "abundant and delicious breakfast",
+      "relation_type": "enjoys_eating",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "algeria",
+      "target_label": "chickpea stew",
+      "relation_type": "enjoys_eating",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "enjoy_eating",
+      "weight": 7,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "source_label": "algeria",
+      "target_label": "traditional_sweets",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "source_label": "guests",
+      "target_label": "rich local cuisine",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "hmaram",
+      "target_label": "free time",
+      "relation_type": "enjoys",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 1,
+      "source_label": "five-year-old boutoul",
+      "target_label": "food",
+      "relation_type": "enjoys_playing",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "source_label": "algeria",
+      "target_label": "breakfast time",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 12,
+      "source_label": "algeria",
+      "target_label": "leisure activities",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 13,
+      "source_label": "algeria",
+      "target_label": "fresh fruits",
+      "relation_type": "enjoy_eating",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 14,
+      "source_label": "algeria",
+      "target_label": "light meal",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "enjoy_playing",
+      "weight": 3,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 15,
+      "source_label": "algeria",
+      "target_label": "according to their customs and traditions",
+      "relation_type": "enjoy_eating",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "enjoy",
+      "weight": 4,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 16,
+      "source_label": "algeria",
+      "target_label": "sports games",
+      "relation_type": "enjoy_playing",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 17,
+      "source_label": "algeria",
+      "target_label": "outdoor play",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 18,
+      "source_label": "algeria",
+      "target_label": "local music",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 19,
+      "source_label": "algeria",
+      "target_label": "traditional_songs",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 20,
+      "target": 21,
+      "source_label": "nile valley",
+      "target_label": "traditional dishes",
+      "relation_type": "enjoys",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 22,
+      "source_label": "algeria",
+      "target_label": "kenafeh dessert",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 23,
+      "source_label": "algeria",
+      "target_label": "qatayef with tea",
+      "relation_type": "enjoys_eating",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 24,
+      "source_label": "algeria",
+      "target_label": "eating fava bean breakfast",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 25,
+      "source_label": "algeria",
+      "target_label": "at home",
+      "relation_type": "enjoy_playing",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 1,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "enjoys_eating",
+      "weight": 2,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 26,
+      "source_label": "food",
+      "target_label": "boiled eggs for suhoor",
+      "relation_type": "enjoys_eating",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 27,
+      "source_label": "food",
+      "target_label": "furnishing new home",
+      "relation_type": "enjoys",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 28,
+      "source_label": "algeria",
+      "target_label": "spending free time together",
+      "relation_type": "enjoys",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "united states",
+      "target_label": "football",
+      "relation_type": "enjoys",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 3,
+      "target": 31,
+      "source_label": "algeria",
+      "target_label": "beer with food",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 32,
+      "source_label": "algeria",
+      "target_label": "snacks at amusement parks",
+      "relation_type": "enjoy_eating",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 21,
+      "source_label": "algeria",
+      "target_label": "traditional dishes",
+      "relation_type": "enjoy",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 33,
+      "source_label": "algeria",
+      "target_label": "couscous",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 34,
+      "source_label": "algeria",
+      "target_label": "fireworks display",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 35,
+      "target": 36,
+      "source_label": "algerian seniors",
+      "target_label": "kabaddi",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 37,
+      "source_label": "algeria",
+      "target_label": "gifts",
+      "relation_type": "enjoy",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 30,
+      "source_label": "algeria",
+      "target_label": "football",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 38,
+      "source_label": "algeria",
+      "target_label": "soup",
+      "relation_type": "enjoy_eating",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 39,
+      "source_label": "algeria",
+      "target_label": "chips and dips",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 40,
+      "source_label": "algeria",
+      "target_label": "traditional algerian sports",
+      "relation_type": "enjoy_playing",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 1,
+      "target": 37,
+      "source_label": "food",
+      "target_label": "gifts",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 41,
+      "source_label": "algeria",
+      "target_label": "popular e-sports games",
+      "relation_type": "enjoy_playing",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 30,
+      "source_label": "algeria",
+      "target_label": "football",
+      "relation_type": "enjoy_playing",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 42,
+      "source_label": "algeria",
+      "target_label": "spicy food",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 43,
+      "source_label": "algeria",
+      "target_label": "traditional algerian cuisine",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 44,
+      "source_label": "algeria",
+      "target_label": "traditional algerian fruits",
+      "relation_type": "enjoys",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 45,
+      "target": 12,
+      "source_label": "retired women",
+      "target_label": "leisure activities",
+      "relation_type": "enjoy",
+      "weight": 2,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 46,
+      "source_label": "algeria",
+      "target_label": "racket sports",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 47,
+      "target": 1,
+      "source_label": "dependent elderly",
+      "target_label": "food",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 48,
+      "source_label": "algeria",
+      "target_label": "traditional algerian dishes",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 49,
+      "source_label": "algeria",
+      "target_label": "beach sports",
+      "relation_type": "enjoy_playing",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 50,
+      "source_label": "algeria",
+      "target_label": "ramadan",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 35,
+      "target": 51,
+      "source_label": "algerian seniors",
+      "target_label": "outdoor spaces",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 52,
+      "source_label": "algeria",
+      "target_label": "traditional wedding dishes",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 53,
+      "source_label": "algeria",
+      "target_label": "soccer",
+      "relation_type": "enjoy_playing",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 54,
+      "source_label": "algeria",
+      "target_label": "summer sports",
+      "relation_type": "enjoy",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 3,
+      "target": 21,
+      "source_label": "algeria",
+      "target_label": "traditional dishes",
+      "relation_type": "enjoys_eating",
+      "weight": 1,
+      "source_dataset": "blend"
+    }
+  ]
+}

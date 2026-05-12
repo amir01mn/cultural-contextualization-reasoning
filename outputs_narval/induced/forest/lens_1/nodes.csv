@@ -1,0 +1,187 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,chickpea stew,3,algeria,unknown,arabculture,1
+2,food,1,algeria,unknown,arabculture,257
+3,ramadan,1,algeria,unknown,arabculture,11
+4,north africa,1,algeria,unknown,arabculture,7
+5,algeria,1,algeria,unknown,arabculture,100
+6,local delicacy,3,algeria,unknown,arabculture,1
+7,eid al-adha,1,algeria,unknown,arabculture,13
+8,ritual,1,algeria,unknown,arabculture,9
+9,at home,2,algeria,unknown,arabculture,2
+10,nile valley,1,algeria,unknown,arabculture,22
+11,dignified ceremony,3,algeria,unknown,arabculture,1
+12,cultural practice,1,algeria,unknown,arabculture,2
+13,the night of tadbir,3,algeria,unknown,arabculture,1
+14,customer,1,algeria,unknown,arabculture,3
+15,cake with additions,3,algeria,unknown,arabculture,1
+16,some foods,3,algeria,unknown,arabculture,1
+17,in eid al-fitr,3,algeria,unknown,arabculture,1
+18,mawlid al-nabi,5,algeria,unknown,arabculture,2
+19,first muharram,3,algeria,unknown,arabculture,1
+20,january 1st,3,algeria,unknown,arabculture,1
+21,annually,3,algeria,unknown,arabculture,1
+22,annually on may 8,3,algeria,unknown,arabculture,1
+23,action,3,algeria,unknown,arabculture,1
+24,leisure activities,1,algeria,unknown,arabculture,2
+25,music instruments,3,algeria,unknown,arabculture,1
+26,festivals and events,3,algeria,unknown,arabculture,1
+27,algorithms musical instruments,3,algeria,unknown,arabculture,1
+28,some celebrations,3,algeria,unknown,arabculture,1
+29,musical instruments,3,algeria,unknown,arabculture,1
+30,dance,2,algeria,unknown,arabculture,5
+31,cultivation,3,algeria,unknown,arabculture,1
+32,fava beans,2,egypt,unknown,arabculture,2
+33,breakfast,2,egypt,unknown,arabculture,1
+34,roasted chicken,3,egypt,unknown,arabculture,1
+35,qatayef,3,egypt,unknown,arabculture,1
+36,potato chips,3,egypt,unknown,arabculture,1
+37,playtime,3,egypt,unknown,arabculture,1
+38,solo dance,3,egypt,unknown,arabculture,1
+39,twice initially,3,egypt,unknown,arabculture,1
+40,prayer after dawn,3,egypt,unknown,arabculture,1
+41,university students,1,egypt,unknown,arabculture,11
+42,sham al-nisim,2,egypt,unknown,arabculture,6
+43,fisk and rinega on sham el-nessim,3,egypt,unknown,arabculture,1
+44,tahtheeb dance,3,egypt,unknown,arabculture,1
+45,mawalid and gatherings,3,egypt,unknown,arabculture,1
+46,cotton harvest,3,egypt,unknown,arabculture,1
+47,autumn,3,egypt,unknown,arabculture,1
+48,young siblings,3,egypt,unknown,arabculture,1
+49,daytime,3,egypt,unknown,arabculture,1
+50,samaah al-raqiq,3,egypt,unknown,arabculture,1
+51,iftar dish,3,egypt,unknown,arabculture,1
+52,suhour table,3,egypt,unknown,arabculture,1
+53,ramadan dawn fasting,3,egypt,unknown,arabculture,1
+54,religion,4,egypt,unknown,arabculture,2
+55,eid al-adha sacrifice,3,egypt,unknown,arabculture,1
+56,sunday morning,3,egypt,unknown,arabculture,1
+57,getting ready,3,egypt,unknown,arabculture,1
+58,household,2,egypt,unknown,arabculture,1
+59,food gathering,3,egypt,unknown,arabculture,1
+60,nile valley region,3,egypt,unknown,arabculture,1
+61,fabric for garments and accessories,3,assam,unknown,diwali,1
+62,religious festivals,3,andhra pradesh,unknown,diwali,1
+63,bonalu festival,3,andhra pradesh,unknown,diwali,1
+64,monpa community,3,arunachal pradesh,unknown,diwali,1
+65,apatani tribe,5,arunachal pradesh,unknown,diwali,1
+66,festivals and gatherings,3,arunachal pradesh,unknown,diwali,1
+67,nocte people,3,arunachal pradesh,unknown,diwali,1
+68,wancho people,3,arunachal pradesh,unknown,diwali,1
+69,bihu dance,3,assam,unknown,diwali,5
+70,assamese new year,3,assam,unknown,diwali,1
+71,rongali bihu festival,3,assam,unknown,diwali,1
+72,bwisagu festival,3,assam,unknown,diwali,1
+73,sowing festival,3,assam,unknown,diwali,1
+74,rabha dance,4,assam,unknown,diwali,3
+75,community celebrations,3,assam,unknown,diwali,1
+76,garo tribe,3,assam,unknown,diwali,1
+77,post-harvest season,3,assam,unknown,diwali,1
+78,karbi people,3,assam,unknown,diwali,1
+79,assam,1,assam,unknown,diwali,2
+80,thengal kachari dance,3,assam,unknown,diwali,6
+81,sonowal kachari dance,3,assam,unknown,diwali,4
+82,karbi dance,3,assam,unknown,diwali,4
+83,springtime,3,assam,unknown,diwali,1
+84,various communities,3,assam,unknown,diwali,1
+85,arrival of spring,3,assam,unknown,diwali,1
+86,folk dance,2,assam,unknown,diwali,1
+87,harvest season,3,assam,unknown,diwali,1
+88,assamese villagers,3,assam,unknown,diwali,1
+89,religious rituals,3,assam,unknown,diwali,1
+90,couples,3,bihar,unknown,diwali,1
+91,holi celebrations,3,bihar,unknown,diwali,1
+92,people in bihar,3,bihar,unknown,diwali,1
+93,boatmen community,3,bihar,unknown,diwali,1
+94,rituals and festivals,3,bihar,unknown,diwali,1
+95,goura marriage celebrations,3,chhattisgarh,unknown,diwali,1
+96,abhujmaria tribe,3,chhattisgarh,unknown,diwali,1
+97,muria tribe,3,chhattisgarh,unknown,diwali,1
+98,teacher,1,chhattisgarh,unknown,diwali,3
+99,folk traditions,3,chhattisgarh,unknown,diwali,1
+100,nature's beauty,3,chhattisgarh,unknown,diwali,1
+101,phagun month,3,chhattisgarh,unknown,diwali,1
+102,navratri,3,chhattisgarh,unknown,diwali,1
+103,rain,3,chhattisgarh,unknown,diwali,1
+104,vasdeva community,3,chhattisgarh,unknown,diwali,1
+105,store closures,3,general,unknown,culturebank,1
+106,sundays,3,general,unknown,culturebank,1
+107,united states,1,general,unknown,culturebank,1
+108,leftovers,3,general,unknown,culturebank,1
+109,meal ingredients for multiple days,3,general,unknown,culturebank,1
+110,parties,3,general,unknown,culturebank,1
+111,nurse,1,general,unknown,culturebank,15
+112,various public and social settings,3,general,unknown,culturebank,1
+113,beer in algeria,3,dz,unknown,blend,1
+114,new year's day,3,dz,unknown,blend,1
+115,catayef,4,dz,unknown,blend,1
+116,sugar and lemon,3,dz,unknown,blend,1
+117,company dinners,3,dz,unknown,blend,1
+118,independence day activities,3,dz,unknown,blend,1
+119,lunar new year,3,dz,unknown,blend,1
+120,couscous,2,dz,unknown,blend,1
+121,hangover cure food,3,dz,unknown,blend,1
+122,(lunar) new year holiday,3,dz,unknown,blend,1
+123,meal option,3,dz,unknown,blend,1
+124,algerian food court,3,dz,unknown,blend,1
+125,common dining area,3,dz,unknown,blend,1
+126,famous families,3,dz,unknown,blend,1
+127,algerian funerals,3,dz,unknown,blend,1
+128,restaurants overseas,3,dz,unknown,blend,1
+129,prayer,3,dz,unknown,blend,1
+130,communal settings,3,dz,unknown,blend,1
+131,birthdays,3,dz,unknown,blend,1
+132,couples and singles,3,dz,unknown,blend,1
+133,fireworks display,5,dz,unknown,blend,1
+134,certain foods,5,dz,unknown,blend,1
+135,longest night of the year celebration,3,dz,unknown,blend,1
+136,classroom teacher,3,teacher,unknown,candle,1
+137,other group,3,teacher,unknown,candle,1
+138,escorting bus,3,teacher,unknown,candle,1
+139,note,3,teacher,unknown,candle,1
+140,communication tool,3,teacher,unknown,candle,1
+141,pitching,3,banker,unknown,candle,1
+142,pre-operative care,3,nurse,unknown,candle,1
+143,visit,3,nurse,unknown,candle,1
+144,before shift,3,nurse,unknown,candle,1
+145,starting iv,3,nurse,unknown,candle,1
+146,responsibility,4,nurse,unknown,candle,1
+147,greetings,3,nurse,unknown,candle,1
+148,routine patient care,3,nurse,unknown,candle,1
+149,checking patient's health,3,nurse,unknown,candle,1
+150,setting gadgets,3,nurse,unknown,candle,1
+151,routine checks,3,nurse,unknown,candle,1
+152,tailor,1,tailor,unknown,candle,1
+153,marking garment,3,tailor,unknown,candle,1
+154,cleaning,3,dentist,unknown,candle,1
+155,filling,3,dentist,unknown,candle,1
+156,dry socket irrigation,3,dentist,unknown,candle,1
+157,regular checkup,3,dentist,unknown,candle,1
+158,politician,1,politician,unknown,candle,1
+159,redistricting,3,politician,unknown,candle,1
+160,artist,1,artist,unknown,candle,5
+161,dog walker,3,dog walker,unknown,candle,1
+162,regular walks,3,dog walker,unknown,candle,1
+163,priest,2,priest,unknown,candle,4
+164,legacy,3,architect,unknown,candle,1
+165,attorney,1,attorney,unknown,candle,7
+166,signing document,3,attorney,unknown,candle,1
+167,getting pay off letter,3,attorney,unknown,candle,1
+168,closing date,3,attorney,unknown,candle,1
+169,notarization,3,attorney,unknown,candle,1
+170,payment guarantee,3,attorney,unknown,candle,1
+171,scientist,2,scientist,unknown,candle,3
+172,sacrifice pigs,3,scientist,unknown,candle,1
+173,experiment,3,scientist,unknown,candle,1
+174,putting numbers on board,3,scientist,unknown,candle,1
+175,opening paragraph,3,journalist,unknown,candle,1
+176,hook,3,journalist,unknown,candle,1
+177,dishes tableside,3,waiter,unknown,candle,1
+178,tableside service,3,waiter,unknown,candle,1
+179,tables,3,waiter,unknown,candle,1
+180,serving in tandem,3,waiter,unknown,candle,1
+181,doctor,1,doctor,unknown,candle,4
+182,patient care,3,doctor,unknown,candle,1
+183,health assessment,3,doctor,unknown,candle,1
+184,physical exam,4,doctor,unknown,candle,1
+185,routine visit,3,doctor,unknown,candle,1

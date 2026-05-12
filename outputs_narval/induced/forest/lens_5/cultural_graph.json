@@ -1,0 +1,1370 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "dietary practice",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "eating light breakfast",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "sahoor time",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "eating light traditional food",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "ramadan",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 6,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 42
+    },
+    {
+      "id": 7,
+      "label": "preparations",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "cleaning and cooking",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "cleaning the whole house",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "customer",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "sharing iftar among family",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "algerian ramadan tradition",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "sharing meals",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 15,
+      "label": "special methods",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "fasting",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "hygiene",
+      "level": 4,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "common cleaning tools",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "game",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "boys and girls",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "leisure activities",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 22,
+      "label": "bank transactions",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "electricity game",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "chase",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "ritual",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 3
+    },
+    {
+      "id": 26,
+      "label": "casket placement",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "fasting from dawn to sunset",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "dunking",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "cultural practice",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 2
+    },
+    {
+      "id": 30,
+      "label": "gathering for food",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "creating patterns of raised dots",
+      "level": 3,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "ajrakh",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "multiple stages of dyeing and resist printing",
+      "level": 3,
+      "cultural_group": "rajasthan",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "expressive storytelling",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "dance",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 36,
+      "label": "chham dance",
+      "level": 3,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "artist",
+      "level": 1,
+      "cultural_group": "bihar",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "teacher",
+      "level": 1,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 2
+    },
+    {
+      "id": 39,
+      "label": "circular movements",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "dance and storytelling",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "rhythmic clapping",
+      "level": 3,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "balancing brass lamps",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "traditional instrumental performance",
+      "level": 3,
+      "cultural_group": "goa",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "walking, running",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "emotions of excitement and anticipation",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "dinners",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "commemoration of birth",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "rivalries",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "seasonal migration",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "during holidays",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "family activities",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "cultural festivals",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 53,
+      "label": "attempt",
+      "level": 3,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 54,
+      "label": "weight declaration",
+      "level": 3,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 55,
+      "label": "process",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 56,
+      "label": "potty training",
+      "level": 4,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 57,
+      "label": "mentoring",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 58,
+      "label": "teacher's rule-making process",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 59,
+      "label": "thinking",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 60,
+      "label": "cognitive process",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 61,
+      "label": "teacher's ritual",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 62,
+      "label": "conversation",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 63,
+      "label": "information",
+      "level": 4,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 64,
+      "label": "appointment",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 65,
+      "label": "planning",
+      "level": 4,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 2
+    },
+    {
+      "id": 66,
+      "label": "communication",
+      "level": 4,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 67,
+      "label": "nurse-patient interaction",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 68,
+      "label": "questions",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 69,
+      "label": "equine dental care",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 70,
+      "label": "cleaning",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 71,
+      "label": "dental practice",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 72,
+      "label": "in described ritual",
+      "level": 3,
+      "cultural_group": "politician",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 73,
+      "label": "photographer",
+      "level": 1,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 74,
+      "label": "landscape photography",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 75,
+      "label": "early morning shoots",
+      "level": 3,
+      "cultural_group": "photographer",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 76,
+      "label": "young girl",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 77,
+      "label": "restoration",
+      "level": 3,
+      "cultural_group": "priest",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 78,
+      "label": "attorney",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 3
+    },
+    {
+      "id": 79,
+      "label": "buyers and sellers",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 80,
+      "label": "immigration",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 81,
+      "label": "attorney ritual",
+      "level": 3,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 82,
+      "label": "preparation",
+      "level": 2,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 83,
+      "label": "collaboration",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 84,
+      "label": "political discussion",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 85,
+      "label": "counting",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 86,
+      "label": "amplifying repeats",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 87,
+      "label": "paper",
+      "level": 3,
+      "cultural_group": "scientist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 88,
+      "label": "review process",
+      "level": 3,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 89,
+      "label": "physical exam",
+      "level": 4,
+      "cultural_group": "doctor",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "dietary practice",
+      "target_label": "eating light breakfast",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "sahoor time",
+      "target_label": "eating light traditional food",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "ramadan",
+      "target_label": "food",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 8,
+      "source_label": "food",
+      "target_label": "cleaning and cooking",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "customer",
+      "target_label": "sharing iftar among family",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "algerian ramadan tradition",
+      "target_label": "sharing meals",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "algeria",
+      "target_label": "special methods",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "fasting",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 17,
+      "target": 18,
+      "source_label": "hygiene",
+      "target_label": "common cleaning tools",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "source_label": "game",
+      "target_label": "boys and girls",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 21,
+      "target": 6,
+      "source_label": "leisure activities",
+      "target_label": "food",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 22,
+      "source_label": "food",
+      "target_label": "bank transactions",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "electricity game",
+      "target_label": "chase",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "ritual",
+      "target_label": "casket placement",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 27,
+      "source_label": "ramadan",
+      "target_label": "fasting from dawn to sunset",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 28,
+      "source_label": "food",
+      "target_label": "dunking",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "cultural practice",
+      "target_label": "gathering for food",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 6,
+      "target": 31,
+      "source_label": "food",
+      "target_label": "creating patterns of raised dots",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 32,
+      "target": 33,
+      "source_label": "ajrakh",
+      "target_label": "multiple stages of dyeing and resist printing",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 34,
+      "source_label": "food",
+      "target_label": "expressive storytelling",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 35,
+      "source_label": "food",
+      "target_label": "dance",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 36,
+      "target": 6,
+      "source_label": "chham dance",
+      "target_label": "food",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 37,
+      "source_label": "food",
+      "target_label": "artist",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 38,
+      "source_label": "food",
+      "target_label": "teacher",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 35,
+      "target": 6,
+      "source_label": "dance",
+      "target_label": "food",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 39,
+      "source_label": "food",
+      "target_label": "circular movements",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 40,
+      "source_label": "food",
+      "target_label": "dance and storytelling",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 41,
+      "source_label": "food",
+      "target_label": "rhythmic clapping",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 42,
+      "source_label": "food",
+      "target_label": "balancing brass lamps",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 6,
+      "target": 43,
+      "source_label": "food",
+      "target_label": "traditional instrumental performance",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 44,
+      "source_label": "leisure activities",
+      "target_label": "walking, running",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 6,
+      "target": 45,
+      "source_label": "food",
+      "target_label": "emotions of excitement and anticipation",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 46,
+      "target": 6,
+      "source_label": "dinners",
+      "target_label": "food",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 14,
+      "target": 47,
+      "source_label": "algeria",
+      "target_label": "commemoration of birth",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 14,
+      "target": 6,
+      "source_label": "algeria",
+      "target_label": "food",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 48,
+      "target": 6,
+      "source_label": "rivalries",
+      "target_label": "food",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 49,
+      "source_label": "food",
+      "target_label": "seasonal migration",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 50,
+      "target": 51,
+      "source_label": "during holidays",
+      "target_label": "family activities",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 6,
+      "target": 52,
+      "source_label": "food",
+      "target_label": "cultural festivals",
+      "relation_type": "involved_in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 53,
+      "target": 54,
+      "source_label": "attempt",
+      "target_label": "weight declaration",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 55,
+      "target": 38,
+      "source_label": "process",
+      "target_label": "teacher",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 56,
+      "target": 57,
+      "source_label": "potty training",
+      "target_label": "mentoring",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 6,
+      "target": 29,
+      "source_label": "food",
+      "target_label": "cultural practice",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 59,
+      "target": 60,
+      "source_label": "thinking",
+      "target_label": "cognitive process",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 62,
+      "target": 63,
+      "source_label": "conversation",
+      "target_label": "information",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 64,
+      "target": 65,
+      "source_label": "appointment",
+      "target_label": "planning",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 66,
+      "target": 63,
+      "source_label": "communication",
+      "target_label": "information",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 67,
+      "target": 68,
+      "source_label": "nurse-patient interaction",
+      "target_label": "questions",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 73,
+      "target": 65,
+      "source_label": "photographer",
+      "target_label": "planning",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 6,
+      "target": 73,
+      "source_label": "food",
+      "target_label": "photographer",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 14,
+      "target": 73,
+      "source_label": "algeria",
+      "target_label": "photographer",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 74,
+      "target": 75,
+      "source_label": "landscape photography",
+      "target_label": "early morning shoots",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 6,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "ritual",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 6,
+      "target": 76,
+      "source_label": "food",
+      "target_label": "young girl",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 6,
+      "target": 77,
+      "source_label": "food",
+      "target_label": "restoration",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 78,
+      "target": 79,
+      "source_label": "attorney",
+      "target_label": "buyers and sellers",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 80,
+      "target": 78,
+      "source_label": "immigration",
+      "target_label": "attorney",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 82,
+      "target": 83,
+      "source_label": "preparation",
+      "target_label": "collaboration",
+      "relation_type": "involve",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 85,
+      "target": 86,
+      "source_label": "counting",
+      "target_label": "amplifying repeats",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 6,
+      "target": 87,
+      "source_label": "food",
+      "target_label": "paper",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 89,
+      "target": 6,
+      "source_label": "physical exam",
+      "target_label": "food",
+      "relation_type": "involves",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

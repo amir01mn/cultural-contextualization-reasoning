@@ -1,0 +1,565 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,bghirr bread,5,algeria,unknown,arabculture,1
+2,breakfast,5,algeria,unknown,arabculture,1
+3,soup,5,algeria,unknown,arabculture,1
+4,meal,2,algeria,unknown,arabculture,1
+5,families,1,algeria,unknown,arabculture,1
+6,iftar,4,algeria,unknown,arabculture,2
+7,light meal,5,algeria,unknown,arabculture,4
+8,lilia,2,algeria,unknown,arabculture,1
+9,events,2,algeria,unknown,arabculture,1
+10,day before wedding,4,algeria,unknown,arabculture,1
+11,bride,3,algeria,unknown,arabculture,1
+12,clothing,2,algeria,unknown,arabculture,1
+13,lebanese wedding feast,5,algeria,unknown,arabculture,1
+14,the couple,2,algeria,unknown,arabculture,1
+15,white dress,4,algeria,unknown,arabculture,1
+16,wedding ceremony,2,algeria,unknown,arabculture,1
+17,shopping,4,algeria,unknown,arabculture,1
+18,ramadan,5,algeria,unknown,arabculture,1
+19,eid al-adha,4,algeria,unknown,arabculture,1
+20,women,3,algeria,unknown,arabculture,3
+21,themselves,2,algeria,unknown,arabculture,1
+22,nicest dress,2,algeria,unknown,arabculture,1
+23,sadqa,5,algeria,unknown,arabculture,1
+24,ahl al-mait,2,algeria,unknown,arabculture,1
+25,algerian traditional music instruments,5,algeria,unknown,arabculture,1
+26,music school,4,algeria,unknown,arabculture,1
+27,fajr meal,4,algeria,unknown,arabculture,1
+28,mother,5,algeria,unknown,arabculture,1
+29,silmah,5,algeria,unknown,arabculture,1
+30,barbecue,4,algeria,unknown,arabculture,1
+31,family,2,algeria,unknown,arabculture,1
+32,special crop,3,algeria,unknown,arabculture,1
+33,local product,2,algeria,unknown,arabculture,1
+34,parents,1,algeria,unknown,arabculture,1
+35,new school year,4,algeria,unknown,arabculture,1
+36,sharba,5,algeria,unknown,arabculture,1
+37,khayyar,5,algeria,unknown,arabculture,1
+38,mariam,2,algeria,unknown,arabculture,1
+39,tajine,5,algeria,unknown,arabculture,1
+40,lily,5,algeria,unknown,arabculture,1
+41,mariam,5,algeria,unknown,arabculture,1
+42,sharba,4,algeria,unknown,arabculture,1
+43,vegetables,4,algeria,unknown,arabculture,1
+44,side dish,4,algeria,unknown,arabculture,1
+45,frik,5,algeria,unknown,arabculture,1
+46,another similar dish,5,algeria,unknown,arabculture,1
+47,mahr,5,algeria,unknown,arabculture,1
+48,duba,2,algeria,unknown,arabculture,1
+49,bridal outfit,3,algeria,unknown,arabculture,1
+50,daily necessities,3,algeria,unknown,arabculture,1
+51,preparation,2,algeria,unknown,arabculture,1
+52,presence,2,algeria,unknown,arabculture,1
+53,mawkeb,4,algeria,unknown,arabculture,1
+54,wedding ceremony,4,algeria,unknown,arabculture,1
+55,work,4,algeria,unknown,arabculture,2
+56,mother,2,algeria,unknown,arabculture,1
+57,mother,3,algeria,unknown,arabculture,1
+58,child,3,algeria,unknown,arabculture,1
+59,family,1,algeria,unknown,arabculture,1
+60,news of death,2,algeria,unknown,arabculture,1
+61,ahmed,5,egypt,unknown,arabculture,2
+62,foul,5,egypt,unknown,arabculture,1
+63,sun,5,egypt,unknown,arabculture,1
+64,fava bean fritters,4,egypt,unknown,arabculture,1
+65,freshest strawberries,5,egypt,unknown,arabculture,1
+66,breakfast,1,egypt,unknown,arabculture,1
+67,arroz bi al-lahm al-baqri,5,egypt,unknown,arabculture,1
+68,batatah,5,egypt,unknown,arabculture,1
+69,dinner,5,egypt,unknown,arabculture,1
+70,french fries,4,egypt,unknown,arabculture,1
+71,writing the book,4,egypt,unknown,arabculture,1
+72,marriage,5,egypt,unknown,arabculture,1
+73,car,5,egypt,unknown,arabculture,2
+74,wedding,2,egypt,unknown,arabculture,1
+75,fetta mizrahiya,5,egypt,unknown,arabculture,1
+76,iftar,5,egypt,unknown,arabculture,3
+77,coffee,5,egypt,unknown,arabculture,1
+78,young people,4,egypt,unknown,arabculture,1
+79,benzene,5,egypt,unknown,arabculture,1
+80,bicycle,5,egypt,unknown,arabculture,1
+81,requests,4,egypt,unknown,arabculture,1
+82,household needs,4,egypt,unknown,arabculture,1
+83,wife,2,egypt,unknown,arabculture,1
+84,ahl,5,egypt,unknown,arabculture,1
+85,kafn,2,egypt,unknown,arabculture,1
+86,fisk,5,egypt,unknown,arabculture,1
+87,mloukhia,5,egypt,unknown,arabculture,1
+88,shakshuka,5,egypt,unknown,arabculture,1
+89,evening meal,5,egypt,unknown,arabculture,1
+90,hamam mahshi,5,egypt,unknown,arabculture,1
+91,ramadan,2,egypt,unknown,arabculture,1
+92,moda merhta,5,egypt,unknown,arabculture,1
+93,foul medames,5,egypt,unknown,arabculture,1
+94,chicken,5,egypt,unknown,arabculture,1
+95,iftar during ramadan,2,egypt,unknown,arabculture,1
+96,egypt,1,egypt,unknown,arabculture,1
+97,egyptian breakfast,5,egypt,unknown,arabculture,1
+98,new home,4,egypt,unknown,arabculture,1
+99,frish,2,egypt,unknown,arabculture,1
+100,bride,4,egypt,unknown,arabculture,1
+101,makeup expert,4,egypt,unknown,arabculture,1
+102,pilgrim animal,5,egypt,unknown,arabculture,1
+103,eid al-adha,3,egypt,unknown,arabculture,1
+104,pilgrim meat,5,egypt,unknown,arabculture,1
+105,father,5,egypt,unknown,arabculture,1
+106,zakah al-fitr,5,egypt,unknown,arabculture,1
+107,talaal (distributing zakah),5,egypt,unknown,arabculture,1
+108,shaykh mohamed,5,egypt,unknown,arabculture,1
+109,meat,5,egypt,unknown,arabculture,1
+110,dimey lemy,4,egypt,unknown,arabculture,1
+111,sham el nessim,5,egypt,unknown,arabculture,2
+112,6am,4,egypt,unknown,arabculture,1
+113,bath,4,egypt,unknown,arabculture,1
+114,flash,2,egypt,unknown,arabculture,1
+115,soap,2,egypt,unknown,arabculture,1
+116,azan al-maghrib,5,egypt,unknown,arabculture,1
+117,mangalagiri cotton,5,andhra pradesh,unknown,diwali,1
+118,sarees,5,andhra pradesh,unknown,diwali,1
+119,salwar suits,5,andhra pradesh,unknown,diwali,1
+120,shirts,5,andhra pradesh,unknown,diwali,1
+121,uppada silk,5,andhra pradesh,unknown,diwali,1
+122,single piece,2,andhra pradesh,unknown,diwali,1
+123,dharmavaram silk,4,andhra pradesh,unknown,diwali,2
+124,weddings,2,andhra pradesh,unknown,diwali,1
+125,special occasions,2,andhra pradesh,unknown,diwali,1
+126,vegetable-dyed block-painting,4,andhra pradesh,unknown,diwali,1
+127,fabric,5,andhra pradesh,unknown,diwali,1
+128,pedana kalamkari,2,andhra pradesh,unknown,diwali,1
+129,vegetable-dyed block-painting on fabric,2,andhra pradesh,unknown,diwali,1
+130,sherdukpen shawl,3,arunachal pradesh,unknown,diwali,1
+131,patterns and vibrant colors,2,arunachal pradesh,unknown,diwali,1
+132,textiles,2,arunachal pradesh,unknown,diwali,4
+133,tagin weave,3,arunachal pradesh,unknown,diwali,1
+134,nyishi textile,3,arunachal pradesh,unknown,diwali,1
+135,pat silk,3,assam,unknown,diwali,1
+136,mekhela chador,4,assam,unknown,diwali,1
+137,gamosa,4,assam,unknown,diwali,1
+138,mekhela chador,3,assam,unknown,diwali,1
+139,dhokona,5,rabha tribe,unknown,diwali,1
+140,handwoven cloth,2,assam,unknown,diwali,1
+141,karbi shawl,3,assam,unknown,diwali,1
+142,design,2,assam,unknown,diwali,1
+143,lasingphee,3,assam,unknown,diwali,1
+144,quilt,2,assam,unknown,diwali,1
+145,bhagalpuri silk,5,bihar,unknown,diwali,1
+146,sarees,2,bihar,unknown,diwali,1
+147,madhubani painting on textiles,3,bihar,unknown,diwali,1
+148,intricate designs on textiles,2,bihar,unknown,diwali,1
+149,bhagalpuri chadar,5,bihar,unknown,diwali,1
+150,cotton-gicha mixed yarn,5,bihar,unknown,diwali,1
+151,alacha fabric,4,bihar,unknown,diwali,1
+152,female garments,2,bihar,unknown,diwali,1
+153,chaapa sarees,3,bihar,unknown,diwali,1
+154,block printing technique,4,bihar,unknown,diwali,1
+155,bawan buti weave,3,bihar,unknown,diwali,1
+156,motifs,4,bihar,unknown,diwali,1
+157,aal-dyed handloom fabrics,5,chhattisgarh,unknown,diwali,2
+158,tribal women saris,2,chhattisgarh,unknown,diwali,1
+159,men turbans or shoulder cloths,2,chhattisgarh,unknown,diwali,1
+160,pata weaving,3,chhattisgarh,unknown,diwali,1
+161,handspun cotton saris,4,chhattisgarh,unknown,diwali,1
+162,cotton handloom fabrics,4,chhattisgarh,unknown,diwali,1
+163,raipur,5,chhattisgarh,unknown,diwali,1
+164,balodabazar,5,chhattisgarh,unknown,diwali,1
+165,mahasamund,5,chhattisgarh,unknown,diwali,1
+166,durg,5,chhattisgarh,unknown,diwali,1
+167,rajnandgaon,5,chhattisgarh,unknown,diwali,1
+168,dhamtari,5,chhattisgarh,unknown,diwali,1
+169,balod,5,chhattisgarh,unknown,diwali,1
+170,bastar,5,chhattisgarh,unknown,diwali,1
+171,sarguja,5,chhattisgarh,unknown,diwali,1
+172,goan crochet and embroidery,3,goa,unknown,diwali,1
+173,handkerchiefs,4,goa,unknown,diwali,1
+174,tablecloths,4,goa,unknown,diwali,1
+175,pillow covers,4,goa,unknown,diwali,1
+176,bedspreads,4,goa,unknown,diwali,2
+177,traditional garments,4,goa,unknown,diwali,1
+178,household items,4,goa,unknown,diwali,1
+179,bandhani,3,gujarat,unknown,diwali,1
+180,tie-dye technique,4,gujarat,unknown,diwali,1
+181,intricate patterns,2,gujarat,unknown,diwali,1
+182,tangaliya,3,dangasia community,unknown,diwali,1
+183,textiles,5,gujarat,unknown,diwali,3
+184,dhabla,3,gujarat,unknown,diwali,1
+185,blankets and floor coverings,2,gujarat,unknown,diwali,1
+186,kambal,3,gujarat,unknown,diwali,1
+187,blankets,4,gujarat,unknown,diwali,1
+188,kutchi embroidery,3,gujarat,unknown,diwali,1
+189,intricate designs on fabric,2,gujarat,unknown,diwali,1
+190,phulkari,3,haryana,unknown,diwali,1
+191,intricate floral patterns,2,haryana,unknown,diwali,1
+192,intricate designs,5,haryana,unknown,diwali,2
+193,bagh,2,haryana,unknown,diwali,2
+194,chamba rumal,3,himachal pradesh,unknown,diwali,2
+195,gifted during marriages,2,himachal pradesh,unknown,diwali,1
+196,luanchari,3,himachal pradesh,unknown,diwali,1
+197,choli,4,himachal pradesh,unknown,diwali,1
+198,lehanga,4,himachal pradesh,unknown,diwali,1
+199,sohrai and khovar paintings,2,jharkhand,unknown,diwali,1
+200,ilkal saree,3,karnataka,unknown,diwali,1
+201,warp,2,karnataka,unknown,diwali,1
+202,ilkal sarees,4,karnataka,unknown,diwali,1
+203,kasuti embroidery,3,karnataka,unknown,diwali,1
+204,women,2,karnataka,unknown,diwali,1
+205,navalgund durries,3,karnataka,unknown,diwali,1
+206,guledgudda khana,5,karnataka,unknown,diwali,1
+207,cotton or silk,2,karnataka,unknown,diwali,1
+208,garments,4,karnataka,unknown,diwali,2
+209,accessories,4,karnataka,unknown,diwali,2
+210,home décor items,4,karnataka,unknown,diwali,1
+211,lambani embroidery,2,karnataka,unknown,diwali,1
+212,kasavu saree,3,kerala,unknown,diwali,1
+213,festivals and special occasions,5,kerala,unknown,diwali,1
+214,weaving tradition,4,kerala,unknown,diwali,1
+215,chendamangalam saree,2,kerala,unknown,diwali,1
+216,kuthampully saree,3,devanga chettiar,unknown,diwali,1
+217,kavani,3,malayali,unknown,diwali,1
+218,white or cream base with a broad golden border,2,kerala,unknown,diwali,1
+219,tussar silk,5,madhya pradesh,unknown,diwali,1
+220,handwoven fabric,2,madhya pradesh,unknown,diwali,1
+221,dabu print,3,madhya pradesh,unknown,diwali,1
+222,patterns,4,madhya pradesh,unknown,diwali,1
+223,ganga-jamuna sari,3,maharashtra,unknown,diwali,1
+224,dual-colored borders,2,maharashtra,unknown,diwali,1
+225,phanek,3,manipur,unknown,diwali,1
+226,traditional wrap-around skirt,2,manipur,unknown,diwali,1
+227,thoh shiliang,3,meghalaya,unknown,diwali,1
+228,eri silk,5,meghalaya,unknown,diwali,1
+229,samserla,5,meghalaya,unknown,diwali,1
+230,hand-spun cotton,5,meghalaya,unknown,diwali,1
+231,jainsem,3,khasi,unknown,diwali,1
+232,traditional khasi female dress,2,meghalaya,unknown,diwali,1
+233,shawls,2,rengma naga tribe,unknown,diwali,1
+234,rhikho,3,rengma naga tribe,unknown,diwali,1
+235,alungtsu,3,rengma naga tribe,unknown,diwali,1
+236,rengma naga tribe,2,nagaland,unknown,diwali,1
+237,textiles,3,nagaland,unknown,diwali,1
+238,loin loom weaving,2,nagaland,unknown,diwali,1
+239,angami lohe shawl,3,nagaland,unknown,diwali,1
+240,cultural attire,2,nagaland,unknown,diwali,1
+241,ao naga cowrie apron,3,nagaland,unknown,diwali,1
+242,cowrie shells,5,nagaland,unknown,diwali,1
+243,berhampuri patta,3,odisha,unknown,diwali,1
+244,fine silk,4,odisha,unknown,diwali,1
+245,habaspuri saree,3,odisha,unknown,diwali,1
+246,handloom product,2,odisha,unknown,diwali,1
+247,vibrant patterns,5,odisha,unknown,diwali,1
+248,textiles,4,odisha,unknown,diwali,1
+249,odisha ikat,2,odisha,unknown,diwali,1
+250,pipili appliqué work,3,odisha,unknown,diwali,1
+251,temple decorations,4,odisha,unknown,diwali,1
+252,berhampuri patta sarees,3,odisha,unknown,diwali,1
+253,temple design,2,odisha,unknown,diwali,1
+254,chola,3,punjab,unknown,diwali,1
+255,handwoven fabrics,4,punjab,unknown,diwali,1
+256,salwar kameez,3,punjab,unknown,diwali,1
+257,traditional outfit,2,punjab,unknown,diwali,1
+258,punjabi ghagra,3,punjab,unknown,diwali,1
+259,traditional skirt,2,punjab,unknown,diwali,1
+260,kota doria,5,rajasthan,unknown,diwali,1
+261,cotton and silk,2,rajasthan,unknown,diwali,1
+262,gota patti,3,rajasthan,unknown,diwali,1
+263,bridal wear,4,rajasthan,unknown,diwali,1
+264,festive garments,4,rajasthan,unknown,diwali,1
+265,mothra,5,rajasthan,unknown,diwali,1
+266,leheriya tie-dye technique,4,rajasthan,unknown,diwali,1
+267,lepcha duree,5,sikkim,unknown,diwali,1
+268,traditional attire,5,sikkim,unknown,diwali,1
+269,koorainadu saree,5,tamil nadu,unknown,diwali,1
+270,handloom saree,2,tamil nadu,unknown,diwali,1
+271,salem silk dhoti,5,tamil nadu,unknown,diwali,1
+272,marriages and festivals,2,tamil nadu,unknown,diwali,1
+273,coimbatore cotton saree,5,tamil nadu,unknown,diwali,1
+274,saree,4,tamil nadu,unknown,diwali,1
+275,bhavani jamakkalam,5,tamil nadu,unknown,diwali,1
+276,floor coverings,2,tamil nadu,unknown,diwali,1
+277,kodalikaruppur saree,3,tamil nadu,unknown,diwali,1
+278,hand painting,4,tamil nadu,unknown,diwali,1
+279,block printing,4,tamil nadu,unknown,diwali,1
+280,brocade weaving,4,tamil nadu,unknown,diwali,1
+281,unique and intricate designs,2,tamil nadu,unknown,diwali,1
+282,kora cotton saree,4,tamil nadu,unknown,diwali,1
+283,gadwal sarees,5,telangana,unknown,diwali,3
+284,lightweight cotton bodies,2,telangana,unknown,diwali,1
+285,rich silk borders,2,telangana,unknown,diwali,1
+286,intricate zari work,2,telangana,unknown,diwali,1
+287,teliarumal,3,telangana,unknown,diwali,1
+288,riktu,3,tripura,unknown,diwali,1
+289,rignai,3,tripura,unknown,diwali,1
+290,risa,3,tripura,unknown,diwali,1
+291,traditional attire of the tripuri people,2,tripura,unknown,diwali,1
+292,quilts,4,tripura,unknown,diwali,1
+293,covers,4,tripura,unknown,diwali,1
+294,scarves,4,tripura,unknown,diwali,1
+295,lasingphee,2,tripura,unknown,diwali,1
+296,thulma,3,uttarakhand,unknown,diwali,1
+297,woolen blanket,4,uttarakhand,unknown,diwali,1
+298,loi,5,uttarakhand,unknown,diwali,1
+299,woolen weaving,4,uttarakhand,unknown,diwali,1
+300,apparel-grade wool varieties,2,uttarakhand,unknown,diwali,1
+301,zardozi,3,uttar pradesh,unknown,diwali,1
+302,elaborate designs,2,uttar pradesh,unknown,diwali,1
+303,phool patti ka kaam,3,uttar pradesh,unknown,diwali,1
+304,floral and leaf motifs,4,uttar pradesh,unknown,diwali,1
+305,tangail sari,3,west bengal,unknown,diwali,1
+306,tant sari,3,west bengal,unknown,diwali,3
+307,shantipur,2,west bengal,unknown,diwali,1
+308,phulia,2,west bengal,unknown,diwali,1
+309,dhanikakhali,2,west bengal,unknown,diwali,1
+310,shantipuri sari,3,west bengal,unknown,diwali,3
+311,high-quality cotton or silk,2,west bengal,unknown,diwali,1
+312,intricate borders and pallus,2,west bengal,unknown,diwali,1
+313,nature and geometry,2,west bengal,unknown,diwali,1
+314,murshidabad sari,3,west bengal,unknown,diwali,1
+315,batik print,5,west bengal,unknown,diwali,1
+316,intricate designs,2,west bengal,unknown,diwali,1
+317,bagh,3,chandigarh,unknown,diwali,1
+318,dense embroidery,2,chandigarh,unknown,diwali,1
+319,intricate needlework,4,chandigarh,unknown,diwali,1
+320,warli painting on fabric,3,dadra and nagar haveli and dama,unknown,diwali,1
+321,geometric patterns,5,warli painting on fabric,unknown,diwali,1
+322,pashmina shawl,3,jammu and kashmir,unknown,diwali,1
+323,craftsmanship,2,jammu and kashmir,unknown,diwali,1
+324,shahtoosh shawl,3,jammu and kashmir,unknown,diwali,1
+325,namda,3,jammu and kashmir,unknown,diwali,1
+326,floor coverings,4,jammu and kashmir,unknown,diwali,1
+327,gabba,3,jammu and kashmir,unknown,diwali,1
+328,rugs or bedspreads,2,jammu and kashmir,unknown,diwali,1
+329,kashida embroidery,3,jammu and kashmir,unknown,diwali,1
+330,sambha calico prints,4,jammu and kashmir,unknown,diwali,1
+331,hand-block printed,2,jammu and kashmir,unknown,diwali,1
+332,pashmina wool,5,ladakh,unknown,diwali,1
+333,luxurious shawls and garments,2,ladakh,unknown,diwali,1
+334,wool,5,ladakh,unknown,diwali,1
+335,ladakh,1,ladakh,unknown,diwali,1
+336,tsugdan,5,ladakh,unknown,diwali,1
+337,phirpa,3,ladakh,unknown,diwali,1
+338,hand-woven woolen fabric,5,ladakh,unknown,diwali,1
+339,tsul,5,ladakh,unknown,diwali,1
+340,yak wool,5,ladakh,unknown,diwali,1
+341,kachi,3,lakshadweep,unknown,diwali,1
+342,traditional garment,2,lakshadweep,unknown,diwali,1
+343,mundu,3,lakshadweep,unknown,diwali,1
+344,garment,2,lakshadweep,unknown,diwali,1
+345,coir weaving,4,lakshadweep,unknown,diwali,1
+346,mats,5,lakshadweep,unknown,diwali,1
+347,baskets,5,lakshadweep,unknown,diwali,1
+348,andhra natyam,3,andhra pradesh,unknown,diwali,1
+349,dappu,3,andhra pradesh,unknown,diwali,1
+350,processions,2,andhra pradesh,unknown,diwali,1
+351,dhimsa,3,tribes,unknown,diwali,1
+352,tribal dance,2,andhra pradesh,unknown,diwali,1
+353,prenkhana,3,andhra pradesh,unknown,diwali,1
+354,bhandika nrityam,3,andhra pradesh,unknown,diwali,2
+355,small wooden benches,4,andhra pradesh,unknown,diwali,1
+356,perani,3,andhra pradesh,unknown,diwali,1
+357,dance of warriors,4,andhra pradesh,unknown,diwali,1
+358,wooden platforms,4,andhra pradesh,unknown,diwali,1
+359,ankia naat,3,assam,unknown,diwali,1
+360,"music, dance, and drama",4,assam,unknown,diwali,3
+361,beula dance,3,assam,unknown,diwali,1
+362,folk dance,2,assam,unknown,diwali,1
+363,domahi dance,3,assam,unknown,diwali,1
+364,end of harvesting season,4,assam,unknown,diwali,1
+365,nagara naam,3,assam,unknown,diwali,1
+366,traditional drums,4,assam,unknown,diwali,1
+367,lanterns,4,bihar,unknown,diwali,1
+368,jhijhiya,3,bihar,unknown,diwali,1
+369,bidesia,3,bihar,unknown,diwali,1
+370,social issues,2,bihar,unknown,diwali,1
+371,jatra,3,bihar,unknown,diwali,1
+372,jatra dance,3,bihar,unknown,diwali,1
+373,gendi dance,3,chhattisgarh,unknown,diwali,1
+374,bamboo stilts,5,chhattisgarh,unknown,diwali,1
+375,nacha dance,3,chhattisgarh,unknown,diwali,1
+376,rural areas,2,chhattisgarh,unknown,diwali,1
+377,mando,3,goa,unknown,diwali,1
+378,wedding music,2,goa,unknown,diwali,1
+379,dasarawadan,3,goa,unknown,diwali,1
+380,music and dance,4,goa,unknown,diwali,1
+381,free refills,4,general,unknown,culturebank,1
+382,water,4,general,unknown,culturebank,1
+383,soft drinks,4,general,unknown,culturebank,1
+384,alcohol,4,general,unknown,culturebank,1
+385,smoothies,4,general,unknown,culturebank,1
+386,servers,2,general,unknown,culturebank,1
+387,customers,2,general,unknown,culturebank,1
+388,accent,5,general,unknown,culturebank,1
+389,speak,2,general,unknown,culturebank,1
+390,offer and take vacation time,4,general,unknown,culturebank,1
+391,employer,2,general,unknown,culturebank,1
+392,employee,2,general,unknown,culturebank,1
+393,air conditioning,4,general,unknown,culturebank,1
+394,united states,2,general,unknown,culturebank,2
+395,microwave,4,general,unknown,culturebank,1
+396,light meal,2,general,unknown,culturebank,1
+397,tea,5,general,unknown,culturebank,1
+398,ice tea,5,general,unknown,culturebank,1
+399,cursive writing,4,general,unknown,culturebank,1
+400,handwriting skills,4,general,unknown,culturebank,1
+401,teachers,2,general,unknown,culturebank,2
+402,paper plate,5,general,unknown,culturebank,1
+403,ceramic plate,5,general,unknown,culturebank,1
+404,plastic plate,5,general,unknown,culturebank,1
+405,parties and barbecues,2,general,unknown,culturebank,1
+406,holidays,2,general,unknown,culturebank,1
+407,casual dinner,2,general,unknown,culturebank,1
+408,powerful washing machine,4,general,unknown,culturebank,1
+409,"for various purposes including washing, drying, and pressing",2,general,unknown,culturebank,1
+410,mcdonald's,4,general,unknown,culturebank,2
+411,large portions,5,general,unknown,culturebank,1
+412,unique menu items,5,general,unknown,culturebank,1
+413,lockdowns,4,general,unknown,culturebank,1
+414,hall passes,4,general,unknown,culturebank,1
+415,schools,2,general,unknown,culturebank,1
+416,coffee shop,4,general,unknown,culturebank,1
+417,iced coffee,2,general,unknown,culturebank,1
+418,united states,1,united states,unknown,culturebank,3
+419,dominos pizza,5,united states,unknown,culturebank,1
+420,carbonated beverages,2,general,unknown,culturebank,1
+421,specific practices,4,general,unknown,culturebank,1
+422,toilet paper usage,2,general,unknown,culturebank,1
+423,bread slicing machine,5,general,unknown,culturebank,1
+424,bread,5,general,unknown,culturebank,1
+425,egg fu young,5,general,unknown,culturebank,1
+426,orange chicken,5,general,unknown,culturebank,1
+427,general,2,general,unknown,culturebank,1
+428,fast food restaurants,1,general,unknown,culturebank,1
+429,behaviors,2,general,unknown,culturebank,1
+430,adapt,5,general,unknown,culturebank,1
+431,question,5,general,unknown,culturebank,1
+432,discipline,2,general,unknown,culturebank,1
+433,teaching discipline,2,general,unknown,culturebank,1
+434,employer,1,united states,unknown,culturebank,1
+435,employee,1,united states,unknown,culturebank,1
+436,maternity leave policies,2,general,unknown,culturebank,1
+437,sick leave policy,4,general,unknown,culturebank,1
+438,sick leave,2,general,unknown,culturebank,1
+439,prepay,4,general,unknown,culturebank,1
+440,pay for fuel,2,general,unknown,culturebank,1
+441,nail care,4,general,unknown,culturebank,1
+442,personal grooming,4,general,unknown,culturebank,1
+443,professional nail care,2,general,unknown,culturebank,1
+444,trash cans,4,general,unknown,culturebank,1
+445,trash bags,4,general,unknown,culturebank,1
+446,trash pickup,2,general,unknown,culturebank,1
+447,taxes,2,general,unknown,culturebank,1
+448,disseminate information,4,united states,unknown,culturebank,1
+449,amber alerts,4,united states,unknown,culturebank,1
+450,bartender,4,general,unknown,culturebank,1
+451,customer,4,general,unknown,culturebank,1
+452,drinks,2,general,unknown,culturebank,1
+453,eggs,4,general,unknown,culturebank,1
+454,servers,5,general,unknown,culturebank,1
+455,houses,4,general,unknown,culturebank,1
+456,tornadoes,5,general,unknown,culturebank,1
+457,hurricanes,5,general,unknown,culturebank,1
+458,chicken and waffles,4,general,unknown,culturebank,1
+459,waffle house,4,general,unknown,culturebank,1
+460,leftovers,2,general,unknown,culturebank,1
+461,thriftiness,2,general,unknown,culturebank,1
+462,water conservation,4,general,unknown,culturebank,1
+463,hygiene,4,general,unknown,culturebank,1
+464,name changes,2,united states,unknown,culturebank,1
+465,payment practices,4,general,unknown,culturebank,1
+466,expectations,4,general,unknown,culturebank,1
+467,tuna salad,4,united states,unknown,culturebank,2
+468,tuna fish,2,general,unknown,culturebank,1
+469,celery,2,general,unknown,culturebank,1
+470,mayo,2,general,unknown,culturebank,1
+471,costs,5,general,unknown,culturebank,1
+472,pay for ambulance services,2,general,unknown,culturebank,1
+473,healthy snacks,4,general,unknown,culturebank,1
+474,apples with peanut butter,5,general,unknown,culturebank,1
+475,dishwashers,4,general,unknown,culturebank,1
+476,cleaning dishes,2,general,unknown,culturebank,1
+477,burger king,4,restaurant,unknown,culturebank,1
+478,frozen coke,4,drink,unknown,culturebank,1
+479,pumpkin spice,4,united states,unknown,culturebank,1
+480,pie,4,united states,unknown,culturebank,1
+481,taxation practices,4,united states,unknown,culturebank,1
+482,taxation,4,united states,unknown,culturebank,1
+483,oreos,4,united states,unknown,culturebank,1
+484,picnic,2,dz,unknown,blend,1
+485,algeria,5,dz,unknown,blend,1
+486,food,2,dz,unknown,blend,1
+487,condolence offering,5,dz,unknown,blend,1
+488,funeral,3,dz,unknown,blend,1
+489,ready-to-eat food,5,dz,unknown,blend,1
+490,supermarkets,2,dz,unknown,blend,1
+491,hammer,5,blacksmith,unknown,candle,1
+492,parenting plan,5,judge,unknown,candle,1
+493,parents,5,judge,unknown,candle,1
+494,teacher,1,teacher,unknown,candle,4
+495,write,4,teacher,unknown,candle,1
+496,notes,4,teacher,unknown,candle,1
+497,tests,4,teacher,unknown,candle,1
+498,exams,4,teacher,unknown,candle,1
+499,music,4,teacher,unknown,candle,1
+500,bus,5,teacher,unknown,candle,1
+501,dancer,3,teacher,unknown,candle,1
+502,project work,4,teacher,unknown,candle,1
+503,preschool teacher,4,teacher,unknown,candle,1
+504,preschooler,4,teacher,unknown,candle,1
+505,form,5,teacher,unknown,candle,1
+506,repertoire plans,4,pianist,unknown,candle,1
+507,private placement memorandum,4,banker,unknown,candle,1
+508,investment,5,banker,unknown,candle,1
+509,banker,1,banker,unknown,candle,1
+510,restaurant,1,restaurant,unknown,candle,1
+511,lunch,2,banker,unknown,candle,1
+512,nurse,1,nurse,unknown,candle,2
+513,start an iv,4,nurse,unknown,candle,1
+514,doctor,1,nurse,unknown,candle,1
+515,needle,1,nurse,unknown,candle,1
+516,instruments,5,nurse,unknown,candle,1
+517,surgery,5,nurse,unknown,candle,1
+518,report papers,5,tailor,unknown,candle,1
+519,report papers need,2,tailor,unknown,candle,1
+520,white coat,5,dentist,unknown,candle,1
+521,maintain integrity,2,dentist,unknown,candle,1
+522,politician,1,politician,unknown,candle,1
+523,speech,5,politician,unknown,candle,1
+524,photographer,5,photographer,unknown,candle,1
+525,itinerary,2,photographer,unknown,candle,1
+526,fashion photographer,4,photographer,unknown,candle,1
+527,landscape photography,4,photographer,unknown,candle,1
+528,landscape,5,photographer,unknown,candle,2
+529,canvas,4,artist,unknown,candle,1
+530,workstation,4,artist,unknown,candle,1
+531,artist,2,artist,unknown,candle,1
+532,routine,4,artist,unknown,candle,1
+533,tattoo,5,artist,unknown,candle,1
+534,bridal makeup,4,artist,unknown,candle,1
+535,bride,2,artist,unknown,candle,1
+536,moment,5,artist,unknown,candle,1
+537,brush,5,painter,unknown,candle,1
+538,brushstrokes,5,painter,unknown,candle,1
+539,painter,5,painter,unknown,candle,2
+540,panel,5,painter,unknown,candle,1
+541,perfect finish,2,painter,unknown,candle,1
+542,order,5,painter,unknown,candle,1
+543,painting,4,painter,unknown,candle,1
+544,painting a room,2,painter,unknown,candle,1
+545,client,5,architect,unknown,candle,1
+546,services,2,architect,unknown,candle,1
+547,architect,1,architect,unknown,candle,1
+548,window well,5,architect,unknown,candle,1
+549,documents,4,attorney,unknown,candle,1
+550,immigration,5,attorney,unknown,candle,1
+551,waiter,1,waiter,unknown,candle,3
+552,stream food to the table,2,waiter,unknown,candle,1
+553,dishes,4,waiter,unknown,candle,1
+554,tuxedo,5,clothing,unknown,candle,1
+555,pad cover,5,waiter,unknown,candle,1
+556,restaurant order pads,5,waiter,unknown,candle,1
+557,doctors,4,doctor,unknown,candle,1
+558,rounds,5,doctor,unknown,candle,1
+559,stethoscope,5,doctor,unknown,candle,1
+560,medical examination,2,doctor,unknown,candle,1
+561,ritual,2,doctor,unknown,candle,1
+562,blood pressure,5,doctor,unknown,candle,1
+563,routine visit,4,doctor,unknown,candle,1

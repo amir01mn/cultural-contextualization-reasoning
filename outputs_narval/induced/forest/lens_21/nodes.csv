@@ -1,0 +1,43 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,compulsory,3,algeria,unknown,arabculture,1
+2,tadbir,3,algeria,unknown,arabculture,1
+3,cultural celebration,3,algeria,unknown,arabculture,1
+4,sham al-nisim,2,egypt,unknown,arabculture,1
+5,non-religious egyptian holiday,3,egypt,unknown,arabculture,1
+6,snake and ladder,4,egypt,unknown,arabculture,1
+7,board game,3,egypt,unknown,arabculture,1
+8,food,1,egypt,unknown,arabculture,18
+9,egyptian woman,3,egypt,unknown,arabculture,1
+10,khadi,3,puducherry,unknown,diwali,1
+11,hand-spun and hand-woven fabric,3,puducherry,unknown,diwali,1
+12,classical dance,3,andhra pradesh,unknown,diwali,1
+13,pure dance form,3,andhra pradesh,unknown,diwali,1
+14,folk dance,2,assam,unknown,diwali,3
+15,folk theatre,3,bihar,unknown,diwali,1
+16,portuguese-influenced dance,3,goa,unknown,diwali,1
+17,transportation method,3,general,unknown,culturebank,1
+18,car,3,general,unknown,culturebank,1
+19,popular afterschool sport,3,dz,unknown,blend,1
+20,football,2,dz,unknown,blend,1
+21,sport commentator,3,dz,unknown,blend,1
+22,most popular in algeria,5,dz,unknown,blend,4
+23,lunch time,3,dz,unknown,blend,1
+24,ideal for sports,3,dz,unknown,blend,1
+25,grade level,3,dz,unknown,blend,1
+26,9th grade,3,dz,unknown,blend,1
+27,brik (fried pastry filled with cheese or egg),3,dz,unknown,blend,1
+28,popular sport,3,dz,unknown,blend,1
+29,popular vegetable,3,dz,unknown,blend,1
+30,carrot,3,dz,unknown,blend,1
+31,sportperson,3,dz,unknown,blend,1
+32,special tool,3,nurse,unknown,candle,1
+33,clothing,3,tailor,unknown,candle,1
+34,tailor-made,4,tailor,unknown,candle,1
+35,photographer,1,photographer,unknown,candle,1
+36,reputable,3,photographer,unknown,candle,1
+37,artist,1,artist,unknown,candle,1
+38,handwriting,3,architect,unknown,candle,1
+39,process,3,attorney,unknown,candle,1
+40,ramadan,1,attorney,unknown,candle,1
+41,quiet,3,attorney,unknown,candle,1

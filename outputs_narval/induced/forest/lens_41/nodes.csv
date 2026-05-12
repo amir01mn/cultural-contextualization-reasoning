@@ -1,0 +1,18 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,tech workers,3,dz,unknown,blend,1
+2,algeria,1,dz,unknown,blend,3
+3,unit clerk,3,clerk,unknown,candle,2
+4,hospitality,3,clerk,unknown,candle,1
+5,front desk,3,clerk,unknown,candle,1
+6,food,1,teacher,unknown,candle,6
+7,certain occupations,3,teacher,unknown,candle,1
+8,teacher,1,teacher,unknown,candle,1
+9,nurse,1,nurse,unknown,candle,2
+10,doctor,1,nurse,unknown,candle,1
+11,large open space,3,nurse,unknown,candle,1
+12,carpenters,4,carpenter,unknown,candle,1
+13,established home,3,carpenter,unknown,candle,1
+14,hygiene,4,dentist,unknown,candle,1
+15,photographer,1,photographer,unknown,candle,3
+16,professional circuit,3,architect,unknown,candle,1

@@ -8,7 +8,7 @@ module load arrow
 module load cuda
 module load python/3.11
 
-cd ~/cultural_contextualization
+cd ~/projects/def-enaskt/amir01mn/cultural_contextualization
 
 # Create virtual environment
 python3 -m venv --system-site-packages venv

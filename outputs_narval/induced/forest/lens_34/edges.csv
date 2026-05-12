@@ -1,0 +1,14 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,algeria,ramadan,consume,2,arabculture
+1,3,algeria,fava beans for breakfast,consume,1,arabculture
+1,4,algeria,food,consume_during_iftar,1,arabculture
+1,5,algeria,roasted chicken stuffed with onions,consume_during_iftar,1,arabculture
+1,6,algeria,prepared food,consume,1,arabculture
+7,4,nile valley,food,consume,1,arabculture
+1,4,algeria,food,consume,4,arabculture
+8,4,americans,food,consume,1,culturebank
+1,9,algeria,snacks at malls,consume,1,blend
+1,10,algeria,hot drinks,consume,1,blend
+1,11,algeria,bread,consume,1,blend
+1,12,algeria,traditional dishes,consume,1,blend
+4,12,food,traditional dishes,consume,1,blend

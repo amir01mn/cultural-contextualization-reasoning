@@ -1,0 +1,8559 @@
+[
+  {
+    "super_lens_id": 0,
+    "name": "uses",
+    "coverage": 702,
+    "constituent_lenses": [
+      "uses",
+      "used for"
+    ],
+    "lens_ids": [
+      0,
+      17
+    ],
+    "edge_types": [
+      "uses",
+      "hosts",
+      "associated with",
+      "consists of",
+      "called",
+      "use",
+      "depicts",
+      "exists in",
+      "expressed through",
+      "indicates",
+      "flows through",
+      "attend",
+      "type_of",
+      "specific to",
+      "played in",
+      "cares for",
+      "offer",
+      "eat",
+      "has",
+      "adorns"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 72
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 17
+      },
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 9
+      },
+      {
+        "head": "dhurrie",
+        "tail": "food",
+        "count": 8
+      },
+      {
+        "head": "food",
+        "tail": "nile valley",
+        "count": 7
+      },
+      {
+        "head": "teacher",
+        "tail": "algeria",
+        "count": 7
+      },
+      {
+        "head": "attorney",
+        "tail": "food",
+        "count": 7
+      },
+      {
+        "head": "food",
+        "tail": "intricate patterns",
+        "count": 5
+      },
+      {
+        "head": "assam",
+        "tail": "food",
+        "count": 5
+      },
+      {
+        "head": "nurse",
+        "tail": "food",
+        "count": 5
+      },
+      {
+        "head": "food",
+        "tail": "folk dance",
+        "count": 4
+      },
+      {
+        "head": "jatra",
+        "tail": "food",
+        "count": 4
+      },
+      {
+        "head": "nurse",
+        "tail": "candle",
+        "count": 3
+      },
+      {
+        "head": "nurse",
+        "tail": "patient",
+        "count": 3
+      },
+      {
+        "head": "photographer",
+        "tail": "candle",
+        "count": 3
+      },
+      {
+        "head": "artist",
+        "tail": "candle",
+        "count": 3
+      },
+      {
+        "head": "doctor",
+        "tail": "patient",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "ramadan",
+        "count": 2
+      },
+      {
+        "head": "سلمى",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "game",
+        "tail": "at home",
+        "count": 2
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 401
+      },
+      {
+        "label": "algeria",
+        "frequency": 107
+      },
+      {
+        "label": "nurse",
+        "frequency": 33
+      },
+      {
+        "label": "teacher",
+        "frequency": 27
+      },
+      {
+        "label": "candle",
+        "frequency": 19
+      },
+      {
+        "label": "photographer",
+        "frequency": 15
+      },
+      {
+        "label": "nile valley",
+        "frequency": 11
+      },
+      {
+        "label": "artist",
+        "frequency": 11
+      },
+      {
+        "label": "kashida embroidery",
+        "frequency": 10
+      },
+      {
+        "label": "patient",
+        "frequency": 10
+      },
+      {
+        "label": "doctor",
+        "frequency": 10
+      },
+      {
+        "label": "attorney",
+        "frequency": 10
+      },
+      {
+        "label": "ramadan",
+        "frequency": 9
+      },
+      {
+        "label": "game",
+        "frequency": 9
+      },
+      {
+        "label": "dhurrie",
+        "frequency": 8
+      },
+      {
+        "label": "united states",
+        "frequency": 8
+      },
+      {
+        "label": "cultural practice",
+        "frequency": 7
+      },
+      {
+        "label": "customer",
+        "frequency": 7
+      },
+      {
+        "label": "assam",
+        "frequency": 7
+      },
+      {
+        "label": "folk dance",
+        "frequency": 6
+      }
+    ]
+  },
+  {
+    "super_lens_id": 1,
+    "name": "performs",
+    "coverage": 352,
+    "constituent_lenses": [
+      "performs"
+    ],
+    "lens_ids": [
+      1
+    ],
+    "edge_types": [
+      "performs",
+      "performed during",
+      "performed by",
+      "celebrates",
+      "celebrated by",
+      "perform",
+      "celebrate",
+      "performs ritual",
+      "celebrated in",
+      "serves as",
+      "served during",
+      "served with",
+      "performed in",
+      "celebrate with",
+      "occur in",
+      "occurs during",
+      "celebrated during",
+      "during",
+      "observed by",
+      "observed in"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 45
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 27
+      },
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 26
+      },
+      {
+        "head": "food",
+        "tail": "nile valley",
+        "count": 7
+      },
+      {
+        "head": "eid al-adha",
+        "tail": "algeria",
+        "count": 6
+      },
+      {
+        "head": "food",
+        "tail": "university students",
+        "count": 6
+      },
+      {
+        "head": "sham al-nisim",
+        "tail": "algeria",
+        "count": 3
+      },
+      {
+        "head": "sham al-nisim",
+        "tail": "nile valley",
+        "count": 3
+      },
+      {
+        "head": "eid al-adha",
+        "tail": "nile valley",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "nurse",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "north africa",
+        "count": 2
+      },
+      {
+        "head": "cultural practice",
+        "tail": "north africa",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "algeria",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "eid al-adha",
+        "count": 2
+      },
+      {
+        "head": "university students",
+        "tail": "nile valley",
+        "count": 2
+      },
+      {
+        "head": "university students",
+        "tail": "algeria",
+        "count": 2
+      },
+      {
+        "head": "assam",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "thengal kachari dance",
+        "tail": "thengal kachari dance",
+        "count": 2
+      },
+      {
+        "head": "thengal kachari dance",
+        "tail": "nile valley",
+        "count": 2
+      },
+      {
+        "head": "sonowal kachari dance",
+        "tail": "sonowal kachari dance",
+        "count": 2
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 257
+      },
+      {
+        "label": "algeria",
+        "frequency": 100
+      },
+      {
+        "label": "nile valley",
+        "frequency": 22
+      },
+      {
+        "label": "nurse",
+        "frequency": 15
+      },
+      {
+        "label": "eid al-adha",
+        "frequency": 13
+      },
+      {
+        "label": "ramadan",
+        "frequency": 11
+      },
+      {
+        "label": "university students",
+        "frequency": 11
+      },
+      {
+        "label": "ritual",
+        "frequency": 9
+      },
+      {
+        "label": "north africa",
+        "frequency": 7
+      },
+      {
+        "label": "attorney",
+        "frequency": 7
+      },
+      {
+        "label": "sham al-nisim",
+        "frequency": 6
+      },
+      {
+        "label": "thengal kachari dance",
+        "frequency": 6
+      },
+      {
+        "label": "dance",
+        "frequency": 5
+      },
+      {
+        "label": "bihu dance",
+        "frequency": 5
+      },
+      {
+        "label": "artist",
+        "frequency": 5
+      },
+      {
+        "label": "sonowal kachari dance",
+        "frequency": 4
+      },
+      {
+        "label": "karbi dance",
+        "frequency": 4
+      },
+      {
+        "label": "priest",
+        "frequency": 4
+      },
+      {
+        "label": "doctor",
+        "frequency": 4
+      },
+      {
+        "label": "سلمى",
+        "frequency": 3
+      }
+    ]
+  },
+  {
+    "super_lens_id": 2,
+    "name": "includes",
+    "coverage": 161,
+    "constituent_lenses": [
+      "includes"
+    ],
+    "lens_ids": [
+      2
+    ],
+    "edge_types": [
+      "includes",
+      "include",
+      "included in",
+      "includes products",
+      "typically includes",
+      "commonly includes",
+      "typically"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 19
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 4
+      },
+      {
+        "head": "ramadan",
+        "tail": "food",
+        "count": 4
+      },
+      {
+        "head": "gifts",
+        "tail": "food",
+        "count": 4
+      },
+      {
+        "head": "jamdani",
+        "tail": "floral and geometric designs",
+        "count": 3
+      },
+      {
+        "head": "gifts",
+        "tail": "football",
+        "count": 3
+      },
+      {
+        "head": "jamdani",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "assam",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "couscous",
+        "count": 2
+      },
+      {
+        "head": "household",
+        "tail": "cleaning and organizing",
+        "count": 1
+      },
+      {
+        "head": "music of sahara",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "mahjub",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "olives",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "side dish",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "bread",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "drinks",
+        "count": 1
+      },
+      {
+        "head": "شربة",
+        "tail": "خضار",
+        "count": 1
+      },
+      {
+        "head": "ramadan",
+        "tail": "changing dishes",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "شرب القهوة بالحليب",
+        "count": 1
+      },
+      {
+        "head": "cake",
+        "tail": "additions",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 109
+      },
+      {
+        "label": "algeria",
+        "frequency": 15
+      },
+      {
+        "label": "gifts",
+        "frequency": 14
+      },
+      {
+        "label": "ramadan",
+        "frequency": 9
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 6
+      },
+      {
+        "label": "jamdani",
+        "frequency": 5
+      },
+      {
+        "label": "floral and geometric designs",
+        "frequency": 4
+      },
+      {
+        "label": "settings",
+        "frequency": 4
+      },
+      {
+        "label": "customer",
+        "frequency": 3
+      },
+      {
+        "label": "football",
+        "frequency": 3
+      },
+      {
+        "label": "certain occupations",
+        "frequency": 3
+      },
+      {
+        "label": "ritual",
+        "frequency": 2
+      },
+      {
+        "label": "breakfast",
+        "frequency": 2
+      },
+      {
+        "label": "fava beans",
+        "frequency": 2
+      },
+      {
+        "label": "suhoor",
+        "frequency": 2
+      },
+      {
+        "label": "assam",
+        "frequency": 2
+      },
+      {
+        "label": "snacks",
+        "frequency": 2
+      },
+      {
+        "label": "couscous",
+        "frequency": 2
+      },
+      {
+        "label": "track and field events",
+        "frequency": 2
+      },
+      {
+        "label": "household",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 3,
+    "name": "participate in",
+    "coverage": 121,
+    "constituent_lenses": [
+      "participate in",
+      "part of"
+    ],
+    "lens_ids": [
+      9,
+      14
+    ],
+    "edge_types": [
+      "participate in",
+      "participates in",
+      "part of",
+      "is part of",
+      "part of meal"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 9
+      },
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 8
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 4
+      },
+      {
+        "head": "food",
+        "tail": "traditional dishes",
+        "count": 3
+      },
+      {
+        "head": "algeria",
+        "tail": "family gatherings",
+        "count": 2
+      },
+      {
+        "head": "retired women",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "سلمى",
+        "tail": "algerian meal preparation",
+        "count": 1
+      },
+      {
+        "head": "أب سلمى",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "mourning",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "preparing for bride's move",
+        "count": 1
+      },
+      {
+        "head": "bride",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "special customs",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "ritual",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "ramadan fasting and breaking it",
+        "count": 1
+      },
+      {
+        "head": "guests",
+        "tail": "eating at weddings",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "home cleaning for eid",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "religious celebrations",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "sharing meal",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "coffin carrying",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "distributing alms",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 33
+      },
+      {
+        "label": "food",
+        "frequency": 25
+      },
+      {
+        "label": "nile valley",
+        "frequency": 8
+      },
+      {
+        "label": "family gatherings",
+        "frequency": 3
+      },
+      {
+        "label": "attorney",
+        "frequency": 3
+      },
+      {
+        "label": "guests",
+        "frequency": 2
+      },
+      {
+        "label": "gifts",
+        "frequency": 2
+      },
+      {
+        "label": "leisure activities",
+        "frequency": 2
+      },
+      {
+        "label": "retired women",
+        "frequency": 2
+      },
+      {
+        "label": "teacher",
+        "frequency": 2
+      },
+      {
+        "label": "سلمى",
+        "frequency": 1
+      },
+      {
+        "label": "algerian meal preparation",
+        "frequency": 1
+      },
+      {
+        "label": "أب سلمى",
+        "frequency": 1
+      },
+      {
+        "label": "mourning",
+        "frequency": 1
+      },
+      {
+        "label": "preparing for bride's move",
+        "frequency": 1
+      },
+      {
+        "label": "bride",
+        "frequency": 1
+      },
+      {
+        "label": "special customs",
+        "frequency": 1
+      },
+      {
+        "label": "ritual",
+        "frequency": 1
+      },
+      {
+        "label": "ramadan fasting and breaking it",
+        "frequency": 1
+      },
+      {
+        "label": "eating at weddings",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 4,
+    "name": "practices",
+    "coverage": 115,
+    "constituent_lenses": [
+      "practices"
+    ],
+    "lens_ids": [
+      3
+    ],
+    "edge_types": [
+      "practices",
+      "practice",
+      "practiced in",
+      "requires",
+      "require",
+      "cultural practice",
+      "practiced by",
+      "practice tradition",
+      "practice custom",
+      "customary practice",
+      "requires practice"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 7
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 4
+      },
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 2
+      },
+      {
+        "head": "nile valley",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "nile valley",
+        "count": 2
+      },
+      {
+        "head": "المجتمع الألgerien",
+        "tail": "having light breakfast",
+        "count": 1
+      },
+      {
+        "head": "north africa",
+        "tail": "light iftar meals",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "sahoor during ramadan",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "north africa",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "رجال ونساء",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "evening snacks",
+        "count": 1
+      },
+      {
+        "head": "الزواج",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "simple bathing",
+        "count": 1
+      },
+      {
+        "head": "cultural_group",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "certain instructions",
+        "count": 1
+      },
+      {
+        "head": "ramadan",
+        "tail": "consuming iftar after sunset",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "shared morning meal",
+        "count": 1
+      },
+      {
+        "head": "عيد الأم",
+        "tail": "prepare traditional meal",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "traditional dishes",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "افطار رمضان习俗",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "nile valley",
+        "frequency": 46
+      },
+      {
+        "label": "food",
+        "frequency": 42
+      },
+      {
+        "label": "algeria",
+        "frequency": 19
+      },
+      {
+        "label": "kashida embroidery",
+        "frequency": 3
+      },
+      {
+        "label": "jamdani",
+        "frequency": 3
+      },
+      {
+        "label": "artist",
+        "frequency": 3
+      },
+      {
+        "label": "north africa",
+        "frequency": 2
+      },
+      {
+        "label": "ajrakh",
+        "frequency": 2
+      },
+      {
+        "label": "nurse",
+        "frequency": 2
+      },
+      {
+        "label": "customer",
+        "frequency": 2
+      },
+      {
+        "label": "photographer",
+        "frequency": 2
+      },
+      {
+        "label": "المجتمع الألgerien",
+        "frequency": 1
+      },
+      {
+        "label": "having light breakfast",
+        "frequency": 1
+      },
+      {
+        "label": "light iftar meals",
+        "frequency": 1
+      },
+      {
+        "label": "sahoor during ramadan",
+        "frequency": 1
+      },
+      {
+        "label": "رجال ونساء",
+        "frequency": 1
+      },
+      {
+        "label": "evening snacks",
+        "frequency": 1
+      },
+      {
+        "label": "الزواج",
+        "frequency": 1
+      },
+      {
+        "label": "simple bathing",
+        "frequency": 1
+      },
+      {
+        "label": "cultural_group",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 5,
+    "name": "features",
+    "coverage": 97,
+    "constituent_lenses": [
+      "features"
+    ],
+    "lens_ids": [
+      4
+    ],
+    "edge_types": [
+      "features",
+      "feature"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "intricate patterns",
+        "count": 7
+      },
+      {
+        "head": "food",
+        "tail": "intricate designs",
+        "count": 5
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 4
+      },
+      {
+        "head": "food",
+        "tail": "distinctive patterns",
+        "count": 3
+      },
+      {
+        "head": "jamdani",
+        "tail": "intricate patterns",
+        "count": 3
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 3
+      },
+      {
+        "head": "algeria",
+        "tail": "special local dish",
+        "count": 1
+      },
+      {
+        "head": "algerian weddings",
+        "tail": "nighttime festivities",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "various customs and traditions",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "عزف الفرقة الموسيقية",
+        "count": 1
+      },
+      {
+        "head": "algiers",
+        "tail": "traditional dishes",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "traditional meals",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "abundant food",
+        "count": 1
+      },
+      {
+        "head": "festivities",
+        "tail": "folk dancing",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "festive events",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "jamdani work",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "simple straight lines and stripes",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "straight lines and geometric patterns",
+        "count": 1
+      },
+      {
+        "head": "handloom textiles",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "checks in red or green",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 63
+      },
+      {
+        "label": "algeria",
+        "frequency": 21
+      },
+      {
+        "label": "intricate patterns",
+        "frequency": 12
+      },
+      {
+        "label": "intricate designs",
+        "frequency": 5
+      },
+      {
+        "label": "distinctive patterns",
+        "frequency": 4
+      },
+      {
+        "label": "jamdani",
+        "frequency": 3
+      },
+      {
+        "label": "cotton sarees",
+        "frequency": 3
+      },
+      {
+        "label": "handloom textiles",
+        "frequency": 2
+      },
+      {
+        "label": "special local dish",
+        "frequency": 1
+      },
+      {
+        "label": "algerian weddings",
+        "frequency": 1
+      },
+      {
+        "label": "nighttime festivities",
+        "frequency": 1
+      },
+      {
+        "label": "various customs and traditions",
+        "frequency": 1
+      },
+      {
+        "label": "عزف الفرقة الموسيقية",
+        "frequency": 1
+      },
+      {
+        "label": "algiers",
+        "frequency": 1
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "traditional meals",
+        "frequency": 1
+      },
+      {
+        "label": "abundant food",
+        "frequency": 1
+      },
+      {
+        "label": "festivities",
+        "frequency": 1
+      },
+      {
+        "label": "folk dancing",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 6,
+    "name": "involves",
+    "coverage": 82,
+    "constituent_lenses": [
+      "involves"
+    ],
+    "lens_ids": [
+      5
+    ],
+    "edge_types": [
+      "involves",
+      "involve",
+      "not directly related to",
+      "not directly involved",
+      "involved in",
+      "not directly involved in"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 4
+      },
+      {
+        "head": "dietary practice",
+        "tail": "eating light breakfast",
+        "count": 1
+      },
+      {
+        "head": "sahoor time",
+        "tail": "eating light traditional food",
+        "count": 1
+      },
+      {
+        "head": "ramadan",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "التحضيرات",
+        "tail": "preparations",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "cleaning and cooking",
+        "count": 1
+      },
+      {
+        "head": "التنظيف العميق",
+        "tail": "cleaning the whole house",
+        "count": 1
+      },
+      {
+        "head": "customer",
+        "tail": "sharing iftar among family",
+        "count": 1
+      },
+      {
+        "head": "افطار رمضان",
+        "tail": "تحضير الشربة",
+        "count": 1
+      },
+      {
+        "head": "algerian ramadan tradition",
+        "tail": "sharing meals",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "special methods",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "fasting",
+        "count": 1
+      },
+      {
+        "head": "hygiene",
+        "tail": "common cleaning tools",
+        "count": 1
+      },
+      {
+        "head": "game",
+        "tail": "boys and girls",
+        "count": 1
+      },
+      {
+        "head": "leisure activities",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "عملية الدفن",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "bank transactions",
+        "count": 1
+      },
+      {
+        "head": "electricity game",
+        "tail": "chase",
+        "count": 1
+      },
+      {
+        "head": "ritual",
+        "tail": "casket placement",
+        "count": 1
+      },
+      {
+        "head": "ramadan",
+        "tail": "fasting from dawn to sunset",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 42
+      },
+      {
+        "label": "candle",
+        "frequency": 13
+      },
+      {
+        "label": "algeria",
+        "frequency": 4
+      },
+      {
+        "label": "ritual",
+        "frequency": 3
+      },
+      {
+        "label": "photographer",
+        "frequency": 3
+      },
+      {
+        "label": "attorney",
+        "frequency": 3
+      },
+      {
+        "label": "ramadan",
+        "frequency": 2
+      },
+      {
+        "label": "leisure activities",
+        "frequency": 2
+      },
+      {
+        "label": "cultural practice",
+        "frequency": 2
+      },
+      {
+        "label": "dance",
+        "frequency": 2
+      },
+      {
+        "label": "teacher",
+        "frequency": 2
+      },
+      {
+        "label": "information",
+        "frequency": 2
+      },
+      {
+        "label": "planning",
+        "frequency": 2
+      },
+      {
+        "label": "dietary practice",
+        "frequency": 1
+      },
+      {
+        "label": "eating light breakfast",
+        "frequency": 1
+      },
+      {
+        "label": "sahoor time",
+        "frequency": 1
+      },
+      {
+        "label": "eating light traditional food",
+        "frequency": 1
+      },
+      {
+        "label": "التحضيرات",
+        "frequency": 1
+      },
+      {
+        "label": "preparations",
+        "frequency": 1
+      },
+      {
+        "label": "cleaning and cooking",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 7,
+    "name": "values",
+    "coverage": 80,
+    "constituent_lenses": [
+      "values"
+    ],
+    "lens_ids": [
+      6
+    ],
+    "edge_types": [
+      "values",
+      "value",
+      "values respect for",
+      "valued for"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 10
+      },
+      {
+        "head": "algeria",
+        "tail": "algeria",
+        "count": 3
+      },
+      {
+        "head": "algeria",
+        "tail": "customer",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "hospitality",
+        "count": 2
+      },
+      {
+        "head": "apatani tribe",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "algerian seniors",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "gifts",
+        "count": 2
+      },
+      {
+        "head": "photographer",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "traditional dishes",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "important accompaniments",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "local food",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "trustworthiness",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "beautiful skin",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "respect for the dead",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "strong bonds among siblings",
+        "count": 1
+      },
+      {
+        "head": "المجتمع الأفريقي الشمالي",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "timeliness",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "ritual",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "hydration during sahur",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "prioritize marriage preparation",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 53
+      },
+      {
+        "label": "food",
+        "frequency": 21
+      },
+      {
+        "label": "algerian society",
+        "frequency": 10
+      },
+      {
+        "label": "customer",
+        "frequency": 4
+      },
+      {
+        "label": "photographer",
+        "frequency": 4
+      },
+      {
+        "label": "gifts",
+        "frequency": 3
+      },
+      {
+        "label": "politician",
+        "frequency": 3
+      },
+      {
+        "label": "nile valley",
+        "frequency": 2
+      },
+      {
+        "label": "hospitality",
+        "frequency": 2
+      },
+      {
+        "label": "apatani tribe",
+        "frequency": 2
+      },
+      {
+        "label": "algerian seniors",
+        "frequency": 2
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 1
+      },
+      {
+        "label": "important accompaniments",
+        "frequency": 1
+      },
+      {
+        "label": "local food",
+        "frequency": 1
+      },
+      {
+        "label": "trustworthiness",
+        "frequency": 1
+      },
+      {
+        "label": "beautiful skin",
+        "frequency": 1
+      },
+      {
+        "label": "respect for the dead",
+        "frequency": 1
+      },
+      {
+        "label": "strong bonds among siblings",
+        "frequency": 1
+      },
+      {
+        "label": "المجتمع الأفريقي الشمالي",
+        "frequency": 1
+      },
+      {
+        "label": "timeliness",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 8,
+    "name": "symbolizes",
+    "coverage": 76,
+    "constituent_lenses": [
+      "symbolizes"
+    ],
+    "lens_ids": [
+      7
+    ],
+    "edge_types": [
+      "symbolizes",
+      "symbolize",
+      "symbol of",
+      "symbolizes purity"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "candle",
+        "tail": "food",
+        "count": 9
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 7
+      },
+      {
+        "head": "candle",
+        "tail": "ritual",
+        "count": 7
+      },
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "nile valley",
+        "count": 2
+      },
+      {
+        "head": "football",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "wedding celebration location",
+        "tail": "sharing joy",
+        "count": 1
+      },
+      {
+        "head": "wedding clothes",
+        "tail": "bride's effort",
+        "count": 1
+      },
+      {
+        "head": "white dress",
+        "tail": "bride",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "eid celebration",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "first food of iftar",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "wealth and generosity",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "good fortune",
+        "count": 1
+      },
+      {
+        "head": "special car",
+        "tail": "wealth and status",
+        "count": 1
+      },
+      {
+        "head": "newabayas",
+        "tail": "purity, new beginnings",
+        "count": 1
+      },
+      {
+        "head": "eggs",
+        "tail": "new life",
+        "count": 1
+      },
+      {
+        "head": "preparation",
+        "tail": "hospitality",
+        "count": 1
+      },
+      {
+        "head": "right hand",
+        "tail": "nile valley custom",
+        "count": 1
+      },
+      {
+        "head": "gifts",
+        "tail": "love and care",
+        "count": 1
+      },
+      {
+        "head": "fava beans",
+        "tail": "healthy start",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 48
+      },
+      {
+        "label": "candle",
+        "frequency": 24
+      },
+      {
+        "label": "ritual",
+        "frequency": 7
+      },
+      {
+        "label": "algeria",
+        "frequency": 3
+      },
+      {
+        "label": "hospitality",
+        "frequency": 2
+      },
+      {
+        "label": "gifts",
+        "frequency": 2
+      },
+      {
+        "label": "nile valley",
+        "frequency": 2
+      },
+      {
+        "label": "football",
+        "frequency": 2
+      },
+      {
+        "label": "wedding celebration location",
+        "frequency": 1
+      },
+      {
+        "label": "sharing joy",
+        "frequency": 1
+      },
+      {
+        "label": "wedding clothes",
+        "frequency": 1
+      },
+      {
+        "label": "bride's effort",
+        "frequency": 1
+      },
+      {
+        "label": "white dress",
+        "frequency": 1
+      },
+      {
+        "label": "bride",
+        "frequency": 1
+      },
+      {
+        "label": "eid celebration",
+        "frequency": 1
+      },
+      {
+        "label": "first food of iftar",
+        "frequency": 1
+      },
+      {
+        "label": "wealth and generosity",
+        "frequency": 1
+      },
+      {
+        "label": "good fortune",
+        "frequency": 1
+      },
+      {
+        "label": "special car",
+        "frequency": 1
+      },
+      {
+        "label": "wealth and status",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 9,
+    "name": "enjoy",
+    "coverage": 75,
+    "constituent_lenses": [
+      "enjoy"
+    ],
+    "lens_ids": [
+      8
+    ],
+    "edge_types": [
+      "enjoy",
+      "enjoy eating",
+      "enjoy playing",
+      "enjoys eating",
+      "enjoys",
+      "enjoys playing"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 16
+      },
+      {
+        "head": "algeria",
+        "tail": "traditional dishes",
+        "count": 3
+      },
+      {
+        "head": "algeria",
+        "tail": "gifts",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "football",
+        "count": 2
+      },
+      {
+        "head": "retired women",
+        "tail": "leisure activities",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "abundant and delicious breakfast",
+        "count": 1
+      },
+      {
+        "head": "سلمى",
+        "tail": "الفطور اللذيذ والمميز",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "chickpea stew",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "traditional_sweets",
+        "count": 1
+      },
+      {
+        "head": "guests",
+        "tail": "rich local cuisine",
+        "count": 1
+      },
+      {
+        "head": "hmaram",
+        "tail": "free time",
+        "count": 1
+      },
+      {
+        "head": "five-year-old boutoul",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "breakfast time",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "leisure activities",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "fresh fruits",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "light meal",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "according to their customs and traditions",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "sports games",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "outdoor play",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 57
+      },
+      {
+        "label": "food",
+        "frequency": 26
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 4
+      },
+      {
+        "label": "leisure activities",
+        "frequency": 3
+      },
+      {
+        "label": "football",
+        "frequency": 3
+      },
+      {
+        "label": "gifts",
+        "frequency": 3
+      },
+      {
+        "label": "algerian seniors",
+        "frequency": 2
+      },
+      {
+        "label": "retired women",
+        "frequency": 2
+      },
+      {
+        "label": "abundant and delicious breakfast",
+        "frequency": 1
+      },
+      {
+        "label": "سلمى",
+        "frequency": 1
+      },
+      {
+        "label": "الفطور اللذيذ والمميز",
+        "frequency": 1
+      },
+      {
+        "label": "chickpea stew",
+        "frequency": 1
+      },
+      {
+        "label": "traditional_sweets",
+        "frequency": 1
+      },
+      {
+        "label": "guests",
+        "frequency": 1
+      },
+      {
+        "label": "rich local cuisine",
+        "frequency": 1
+      },
+      {
+        "label": "hmaram",
+        "frequency": 1
+      },
+      {
+        "label": "free time",
+        "frequency": 1
+      },
+      {
+        "label": "five-year-old boutoul",
+        "frequency": 1
+      },
+      {
+        "label": "breakfast time",
+        "frequency": 1
+      },
+      {
+        "label": "fresh fruits",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 10,
+    "name": "originates from",
+    "coverage": 65,
+    "constituent_lenses": [
+      "originates from"
+    ],
+    "lens_ids": [
+      10
+    ],
+    "edge_types": [
+      "originates from",
+      "originated from",
+      "originates",
+      "originated in"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 21
+      },
+      {
+        "head": "food",
+        "tail": "assam",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "constantine",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "north africa",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "nile valley",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "pochampally",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "mangalagiri town",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "venkatagiri town",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "uppada village",
+        "count": 1
+      },
+      {
+        "head": "kashida embroidery",
+        "tail": "muzaffarpur",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "portuguese colonial period",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "himachal pradesh",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "kinnaur district",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "kharsawan-kuchai region",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "bhagalpur region",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "mysore",
+        "count": 1
+      },
+      {
+        "head": "kashida embroidery",
+        "tail": "karnataka",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "guledgudda, bagalkot district",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "bhairavgarh",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 74
+      },
+      {
+        "label": "assam",
+        "frequency": 3
+      },
+      {
+        "label": "algeria",
+        "frequency": 2
+      },
+      {
+        "label": "nile valley",
+        "frequency": 2
+      },
+      {
+        "label": "kashida embroidery",
+        "frequency": 2
+      },
+      {
+        "label": "cotton sarees",
+        "frequency": 2
+      },
+      {
+        "label": "jamdani",
+        "frequency": 2
+      },
+      {
+        "label": "constantine",
+        "frequency": 1
+      },
+      {
+        "label": "north africa",
+        "frequency": 1
+      },
+      {
+        "label": "pochampally",
+        "frequency": 1
+      },
+      {
+        "label": "mangalagiri town",
+        "frequency": 1
+      },
+      {
+        "label": "venkatagiri town",
+        "frequency": 1
+      },
+      {
+        "label": "uppada village",
+        "frequency": 1
+      },
+      {
+        "label": "muzaffarpur",
+        "frequency": 1
+      },
+      {
+        "label": "portuguese colonial period",
+        "frequency": 1
+      },
+      {
+        "label": "himachal pradesh",
+        "frequency": 1
+      },
+      {
+        "label": "kinnaur district",
+        "frequency": 1
+      },
+      {
+        "label": "kharsawan-kuchai region",
+        "frequency": 1
+      },
+      {
+        "label": "bhagalpur region",
+        "frequency": 1
+      },
+      {
+        "label": "mysore",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 11,
+    "name": "reflects",
+    "coverage": 61,
+    "constituent_lenses": [
+      "reflects"
+    ],
+    "lens_ids": [
+      11
+    ],
+    "edge_types": [
+      "reflects",
+      "reflect",
+      "reflects culture"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 7
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 5
+      },
+      {
+        "head": "algeria",
+        "tail": "north african culinary traditions",
+        "count": 1
+      },
+      {
+        "head": "ramadan",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "light meal",
+        "tail": "cultural preference",
+        "count": 1
+      },
+      {
+        "head": "cultural practice",
+        "tail": "community involvement in marriage",
+        "count": 1
+      },
+      {
+        "head": "clothing",
+        "tail": "algerian heritage",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "religious traditions",
+        "count": 1
+      },
+      {
+        "head": "tv watching",
+        "tail": "leisure activity",
+        "count": 1
+      },
+      {
+        "head": "cultural practice",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "cultural life",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "local_culture",
+        "count": 1
+      },
+      {
+        "head": "dance",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "leisure activities",
+        "tail": "cultural practice",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "nile valley culture",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "disciplined aesthetic",
+        "count": 1
+      },
+      {
+        "head": "handloom textiles",
+        "tail": "coastal heritage",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "unique embroidery styles of himachal pradesh",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "utilitarianism",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 43
+      },
+      {
+        "label": "algeria",
+        "frequency": 13
+      },
+      {
+        "label": "cultural practice",
+        "frequency": 5
+      },
+      {
+        "label": "clothing",
+        "frequency": 2
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 2
+      },
+      {
+        "label": "craftsmanship",
+        "frequency": 2
+      },
+      {
+        "label": "work",
+        "frequency": 2
+      },
+      {
+        "label": "north african culinary traditions",
+        "frequency": 1
+      },
+      {
+        "label": "ramadan",
+        "frequency": 1
+      },
+      {
+        "label": "light meal",
+        "frequency": 1
+      },
+      {
+        "label": "cultural preference",
+        "frequency": 1
+      },
+      {
+        "label": "community involvement in marriage",
+        "frequency": 1
+      },
+      {
+        "label": "algerian heritage",
+        "frequency": 1
+      },
+      {
+        "label": "religious traditions",
+        "frequency": 1
+      },
+      {
+        "label": "tv watching",
+        "frequency": 1
+      },
+      {
+        "label": "leisure activity",
+        "frequency": 1
+      },
+      {
+        "label": "cultural life",
+        "frequency": 1
+      },
+      {
+        "label": "local_culture",
+        "frequency": 1
+      },
+      {
+        "label": "dance",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 12,
+    "name": "expresses",
+    "coverage": 58,
+    "constituent_lenses": [
+      "expresses"
+    ],
+    "lens_ids": [
+      12
+    ],
+    "edge_types": [
+      "expresses",
+      "express",
+      "expresses respect",
+      "express pride",
+      "expresses_value",
+      "express shock at"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 15
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "الإرتداء",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "cleaning",
+        "tail": "hygiene",
+        "count": 1
+      },
+      {
+        "head": "gifting",
+        "tail": "to family",
+        "count": 1
+      },
+      {
+        "head": "ritual",
+        "tail": "respect for deceased",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "seeking help",
+        "count": 1
+      },
+      {
+        "head": "brothers",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "in national independence",
+        "count": 1
+      },
+      {
+        "head": "سلمى",
+        "tail": "responsibility",
+        "count": 1
+      },
+      {
+        "head": "greetings",
+        "tail": "salutation",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "القيم الثقافية",
+        "count": 1
+      },
+      {
+        "head": "الموسيقى",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "dance",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algerian brothers",
+        "tail": "companionship",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "hospitality value",
+        "count": 1
+      },
+      {
+        "head": "book writing",
+        "tail": "cultural importance of marriage",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "romantic feelings",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "fear of death",
+        "count": 1
+      },
+      {
+        "head": "meeting",
+        "tail": "friendship",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 54
+      },
+      {
+        "label": "algeria",
+        "frequency": 5
+      },
+      {
+        "label": "الإرتداء",
+        "frequency": 1
+      },
+      {
+        "label": "cleaning",
+        "frequency": 1
+      },
+      {
+        "label": "hygiene",
+        "frequency": 1
+      },
+      {
+        "label": "gifting",
+        "frequency": 1
+      },
+      {
+        "label": "to family",
+        "frequency": 1
+      },
+      {
+        "label": "ritual",
+        "frequency": 1
+      },
+      {
+        "label": "respect for deceased",
+        "frequency": 1
+      },
+      {
+        "label": "seeking help",
+        "frequency": 1
+      },
+      {
+        "label": "brothers",
+        "frequency": 1
+      },
+      {
+        "label": "in national independence",
+        "frequency": 1
+      },
+      {
+        "label": "سلمى",
+        "frequency": 1
+      },
+      {
+        "label": "responsibility",
+        "frequency": 1
+      },
+      {
+        "label": "greetings",
+        "frequency": 1
+      },
+      {
+        "label": "salutation",
+        "frequency": 1
+      },
+      {
+        "label": "القيم الثقافية",
+        "frequency": 1
+      },
+      {
+        "label": "الموسيقى",
+        "frequency": 1
+      },
+      {
+        "label": "dance",
+        "frequency": 1
+      },
+      {
+        "label": "algerian brothers",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 13,
+    "name": "characterized by",
+    "coverage": 54,
+    "constituent_lenses": [
+      "characterized by"
+    ],
+    "lens_ids": [
+      13
+    ],
+    "edge_types": [
+      "characterized by",
+      "characteristic of",
+      "characterized_by",
+      "has characteristic",
+      "characterized as",
+      "characterize"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "durability",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "intricate patterns",
+        "count": 2
+      },
+      {
+        "head": "thengal kachari dance",
+        "tail": "assam",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "saharan music",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "جميل",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "local sweet",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "north african culture",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "traditional_local_songs",
+        "count": 1
+      },
+      {
+        "head": "dance",
+        "tail": "specific to kabyle region",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "evening leisure activities",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "traditional movements",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "serving شروق الجبنه",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "cultural practices of breaking fast",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "fine texture",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "soft texture and lightweight nature",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "broken stripe pattern",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "colorful patterns",
+        "count": 1
+      },
+      {
+        "head": "dhurrie",
+        "tail": "intricate patterns",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "unique texture",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 40
+      },
+      {
+        "label": "algeria",
+        "frequency": 7
+      },
+      {
+        "label": "intricate patterns",
+        "frequency": 4
+      },
+      {
+        "label": "assam",
+        "frequency": 3
+      },
+      {
+        "label": "nile valley",
+        "frequency": 2
+      },
+      {
+        "label": "durability",
+        "frequency": 2
+      },
+      {
+        "label": "thengal kachari dance",
+        "frequency": 2
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 2
+      },
+      {
+        "label": "saharan music",
+        "frequency": 1
+      },
+      {
+        "label": "جميل",
+        "frequency": 1
+      },
+      {
+        "label": "local sweet",
+        "frequency": 1
+      },
+      {
+        "label": "north african culture",
+        "frequency": 1
+      },
+      {
+        "label": "traditional_local_songs",
+        "frequency": 1
+      },
+      {
+        "label": "dance",
+        "frequency": 1
+      },
+      {
+        "label": "specific to kabyle region",
+        "frequency": 1
+      },
+      {
+        "label": "evening leisure activities",
+        "frequency": 1
+      },
+      {
+        "label": "traditional movements",
+        "frequency": 1
+      },
+      {
+        "label": "serving شروق الجبنه",
+        "frequency": 1
+      },
+      {
+        "label": "cultural practices of breaking fast",
+        "frequency": 1
+      },
+      {
+        "label": "fine texture",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 14,
+    "name": "prepares",
+    "coverage": 50,
+    "constituent_lenses": [
+      "prepares"
+    ],
+    "lens_ids": [
+      15
+    ],
+    "edge_types": [
+      "prepares",
+      "prepares for",
+      "prepares for iftar",
+      "prepare",
+      "prepared for",
+      "prepare for"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 10
+      },
+      {
+        "head": "algeria",
+        "tail": "ramadan",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "fava beans",
+        "count": 2
+      },
+      {
+        "head": "painter",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "zinb",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "mothers in algeria",
+        "tail": "chickpea stew",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "eid al-adha",
+        "count": 1
+      },
+      {
+        "head": "الوالدة",
+        "tail": "سلمى",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "شربة بالخضار",
+        "count": 1
+      },
+      {
+        "head": "سامية الحريرة",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "harissa-stuffed olives tagine",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "شربة مع أكلة جانبية",
+        "count": 1
+      },
+      {
+        "head": "smir",
+        "tail": "eid al-adha",
+        "count": 1
+      },
+      {
+        "head": "mother",
+        "tail": "nurse",
+        "count": 1
+      },
+      {
+        "head": "عيد الأم",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "henaa",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "mother",
+        "tail": "potatoes with chicken and soup",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "hareesa with lentils and bread",
+        "count": 1
+      },
+      {
+        "head": "mother",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "fava beans for family breakfast",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 42
+      },
+      {
+        "label": "algeria",
+        "frequency": 6
+      },
+      {
+        "label": "mother",
+        "frequency": 3
+      },
+      {
+        "label": "fava beans",
+        "frequency": 3
+      },
+      {
+        "label": "eid al-adha",
+        "frequency": 2
+      },
+      {
+        "label": "ramadan",
+        "frequency": 2
+      },
+      {
+        "label": "work",
+        "frequency": 2
+      },
+      {
+        "label": "preschool teacher",
+        "frequency": 2
+      },
+      {
+        "label": "painter",
+        "frequency": 2
+      },
+      {
+        "label": "zinb",
+        "frequency": 1
+      },
+      {
+        "label": "mothers in algeria",
+        "frequency": 1
+      },
+      {
+        "label": "chickpea stew",
+        "frequency": 1
+      },
+      {
+        "label": "الوالدة",
+        "frequency": 1
+      },
+      {
+        "label": "سلمى",
+        "frequency": 1
+      },
+      {
+        "label": "شربة بالخضار",
+        "frequency": 1
+      },
+      {
+        "label": "سامية الحريرة",
+        "frequency": 1
+      },
+      {
+        "label": "harissa-stuffed olives tagine",
+        "frequency": 1
+      },
+      {
+        "label": "شربة مع أكلة جانبية",
+        "frequency": 1
+      },
+      {
+        "label": "smir",
+        "frequency": 1
+      },
+      {
+        "label": "nurse",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 15,
+    "name": "prefer",
+    "coverage": 48,
+    "constituent_lenses": [
+      "prefer"
+    ],
+    "lens_ids": [
+      16
+    ],
+    "edge_types": [
+      "prefer",
+      "prefers",
+      "prefer playing",
+      "refer to"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 7
+      },
+      {
+        "head": "united states",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "university students",
+        "tail": "settings",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "moderate sahoor meals",
+        "count": 1
+      },
+      {
+        "head": "fadi",
+        "tail": "light and simple suhoor",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "reliable lenders",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "milk with chocolate for breakfast",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "using cell phones during free time",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "koshari for lunch",
+        "count": 1
+      },
+      {
+        "head": "employee",
+        "tail": "better-paid, rewarding, and enjoyable jobs",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "peanut butter",
+        "count": 1
+      },
+      {
+        "head": "german consumers",
+        "tail": "self-bagging groceries",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "mobile apps and bank transfers",
+        "count": 1
+      },
+      {
+        "head": "broadcasters",
+        "tail": "products",
+        "count": 1
+      },
+      {
+        "head": "customer",
+        "tail": "exact cash",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "sweet pastries",
+        "count": 1
+      },
+      {
+        "head": "algerian seniors",
+        "tail": "traditional dishes",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "traditional dishes",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "traditional dishes",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "gifts",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 23
+      },
+      {
+        "label": "food",
+        "frequency": 14
+      },
+      {
+        "label": "united states",
+        "frequency": 4
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 3
+      },
+      {
+        "label": "german consumers",
+        "frequency": 2
+      },
+      {
+        "label": "university students",
+        "frequency": 2
+      },
+      {
+        "label": "settings",
+        "frequency": 2
+      },
+      {
+        "label": "certain occupations",
+        "frequency": 2
+      },
+      {
+        "label": "moderate sahoor meals",
+        "frequency": 1
+      },
+      {
+        "label": "fadi",
+        "frequency": 1
+      },
+      {
+        "label": "light and simple suhoor",
+        "frequency": 1
+      },
+      {
+        "label": "reliable lenders",
+        "frequency": 1
+      },
+      {
+        "label": "milk with chocolate for breakfast",
+        "frequency": 1
+      },
+      {
+        "label": "using cell phones during free time",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "koshari for lunch",
+        "frequency": 1
+      },
+      {
+        "label": "employee",
+        "frequency": 1
+      },
+      {
+        "label": "better-paid, rewarding, and enjoyable jobs",
+        "frequency": 1
+      },
+      {
+        "label": "peanut butter",
+        "frequency": 1
+      },
+      {
+        "label": "self-bagging groceries",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 16,
+    "name": "varies by",
+    "coverage": 45,
+    "constituent_lenses": [
+      "varies by"
+    ],
+    "lens_ids": [
+      18
+    ],
+    "edge_types": [
+      "varies by",
+      "vary by",
+      "varies by region",
+      "vary by region",
+      "vary",
+      "varies",
+      "vary in"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 12
+      },
+      {
+        "head": "cultural practice",
+        "tail": "north africa",
+        "count": 3
+      },
+      {
+        "head": "cultural practice",
+        "tail": "algeria",
+        "count": 2
+      },
+      {
+        "head": "eating culture",
+        "tail": "north africa",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "tizi ouzou and bejaia",
+        "count": 1
+      },
+      {
+        "head": "cultural practice",
+        "tail": "regional preference",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "المنطقة في شمال أفريقيا",
+        "count": 1
+      },
+      {
+        "head": "agricultural practices",
+        "tail": "crop type",
+        "count": 1
+      },
+      {
+        "head": "approaches to potty training",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "leisure activities",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "phrases",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "shopping hours",
+        "tail": "europeans",
+        "count": 1
+      },
+      {
+        "head": "leave policies",
+        "tail": "with some offering 100% paid leave for six weeks",
+        "count": 1
+      },
+      {
+        "head": "traditional dishes",
+        "tail": "from casual to formal",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "preference for carbonated or sparkling water",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "trick-or-treating customs",
+        "count": 1
+      },
+      {
+        "head": "weather conditions",
+        "tail": "frequently",
+        "count": 1
+      },
+      {
+        "head": "snacks",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "period",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "education system",
+        "tail": "region/country",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 21
+      },
+      {
+        "label": "food",
+        "frequency": 18
+      },
+      {
+        "label": "cultural practice",
+        "frequency": 6
+      },
+      {
+        "label": "north africa",
+        "frequency": 4
+      },
+      {
+        "label": "eating culture",
+        "frequency": 1
+      },
+      {
+        "label": "tizi ouzou and bejaia",
+        "frequency": 1
+      },
+      {
+        "label": "regional preference",
+        "frequency": 1
+      },
+      {
+        "label": "المنطقة في شمال أفريقيا",
+        "frequency": 1
+      },
+      {
+        "label": "agricultural practices",
+        "frequency": 1
+      },
+      {
+        "label": "crop type",
+        "frequency": 1
+      },
+      {
+        "label": "approaches to potty training",
+        "frequency": 1
+      },
+      {
+        "label": "leisure activities",
+        "frequency": 1
+      },
+      {
+        "label": "phrases",
+        "frequency": 1
+      },
+      {
+        "label": "shopping hours",
+        "frequency": 1
+      },
+      {
+        "label": "europeans",
+        "frequency": 1
+      },
+      {
+        "label": "leave policies",
+        "frequency": 1
+      },
+      {
+        "label": "with some offering 100% paid leave for six weeks",
+        "frequency": 1
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 1
+      },
+      {
+        "label": "from casual to formal",
+        "frequency": 1
+      },
+      {
+        "label": "united states",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 17,
+    "name": "made from",
+    "coverage": 36,
+    "constituent_lenses": [
+      "made from"
+    ],
+    "lens_ids": [
+      19
+    ],
+    "edge_types": [
+      "made from",
+      "made of",
+      "learn",
+      "learns",
+      "is made of",
+      "from",
+      "learns from",
+      "learn from",
+      "come from"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 6
+      },
+      {
+        "head": "food",
+        "tail": "cotton sarees",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "teacher",
+        "count": 2
+      },
+      {
+        "head": "ليلى",
+        "tail": "موسيقى شعبية",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "glass",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "layers of cloth",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "silk or cotton",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "rich silk fabric",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "handwoven fabric",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "stitched fabric",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "raw cotton",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "hand-woven fabrics",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "luxurious fabrics like silk",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "felted wool",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "recycled woolen fabrics",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "wool or silk",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "sheep wool",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "hand-woven woolen fabric",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "yak wool",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "assam",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 35
+      },
+      {
+        "label": "algeria",
+        "frequency": 7
+      },
+      {
+        "label": "teacher",
+        "frequency": 3
+      },
+      {
+        "label": "cotton sarees",
+        "frequency": 2
+      },
+      {
+        "label": "ليلى",
+        "frequency": 1
+      },
+      {
+        "label": "موسيقى شعبية",
+        "frequency": 1
+      },
+      {
+        "label": "glass",
+        "frequency": 1
+      },
+      {
+        "label": "layers of cloth",
+        "frequency": 1
+      },
+      {
+        "label": "silk or cotton",
+        "frequency": 1
+      },
+      {
+        "label": "rich silk fabric",
+        "frequency": 1
+      },
+      {
+        "label": "handwoven fabric",
+        "frequency": 1
+      },
+      {
+        "label": "stitched fabric",
+        "frequency": 1
+      },
+      {
+        "label": "raw cotton",
+        "frequency": 1
+      },
+      {
+        "label": "hand-woven fabrics",
+        "frequency": 1
+      },
+      {
+        "label": "luxurious fabrics like silk",
+        "frequency": 1
+      },
+      {
+        "label": "felted wool",
+        "frequency": 1
+      },
+      {
+        "label": "recycled woolen fabrics",
+        "frequency": 1
+      },
+      {
+        "label": "wool or silk",
+        "frequency": 1
+      },
+      {
+        "label": "sheep wool",
+        "frequency": 1
+      },
+      {
+        "label": "hand-woven woolen fabric",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 18,
+    "name": "receives",
+    "coverage": 35,
+    "constituent_lenses": [
+      "receives"
+    ],
+    "lens_ids": [
+      20
+    ],
+    "edge_types": [
+      "receives",
+      "receive",
+      "receive greeting",
+      "receive gifts",
+      "gives",
+      "receives care",
+      "receive care from",
+      "give gifts to",
+      "give",
+      "receive gifts on"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "patient",
+        "tail": "nurse",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "painter",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "necessary needs",
+        "count": 1
+      },
+      {
+        "head": "public transportation",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "houses",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "places",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "relatives",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "sweet treat",
+        "count": 1
+      },
+      {
+        "head": "fiancée",
+        "tail": "gifts",
+        "count": 1
+      },
+      {
+        "head": "elderly parents",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "gifts",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "during lunar new year",
+        "count": 1
+      },
+      {
+        "head": "gifts",
+        "tail": "most support",
+        "count": 1
+      },
+      {
+        "head": "guests",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "fathers",
+        "tail": "father's day",
+        "count": 1
+      },
+      {
+        "head": "mother",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "birthday gifts",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "during eid in algeria",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 21
+      },
+      {
+        "label": "algeria",
+        "frequency": 9
+      },
+      {
+        "label": "gifts",
+        "frequency": 4
+      },
+      {
+        "label": "patient",
+        "frequency": 4
+      },
+      {
+        "label": "nurse",
+        "frequency": 4
+      },
+      {
+        "label": "mother",
+        "frequency": 2
+      },
+      {
+        "label": "painter",
+        "frequency": 2
+      },
+      {
+        "label": "necessary needs",
+        "frequency": 1
+      },
+      {
+        "label": "public transportation",
+        "frequency": 1
+      },
+      {
+        "label": "houses",
+        "frequency": 1
+      },
+      {
+        "label": "places",
+        "frequency": 1
+      },
+      {
+        "label": "relatives",
+        "frequency": 1
+      },
+      {
+        "label": "sweet treat",
+        "frequency": 1
+      },
+      {
+        "label": "fiancée",
+        "frequency": 1
+      },
+      {
+        "label": "elderly parents",
+        "frequency": 1
+      },
+      {
+        "label": "during lunar new year",
+        "frequency": 1
+      },
+      {
+        "label": "most support",
+        "frequency": 1
+      },
+      {
+        "label": "guests",
+        "frequency": 1
+      },
+      {
+        "label": "fathers",
+        "frequency": 1
+      },
+      {
+        "label": "father's day",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 19,
+    "name": "is",
+    "coverage": 32,
+    "constituent_lenses": [
+      "is"
+    ],
+    "lens_ids": [
+      21
+    ],
+    "edge_types": [
+      "is",
+      "is a",
+      "is a form of"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "folk dance",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "الرمز المدرسي",
+        "tail": "compulsory",
+        "count": 1
+      },
+      {
+        "head": "tadbir",
+        "tail": "cultural celebration",
+        "count": 1
+      },
+      {
+        "head": "sham al-nisim",
+        "tail": "non-religious egyptian holiday",
+        "count": 1
+      },
+      {
+        "head": "snake and ladder",
+        "tail": "board game",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "egyptian woman",
+        "count": 1
+      },
+      {
+        "head": "khadi",
+        "tail": "hand-spun and hand-woven fabric",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "classical dance",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "pure dance form",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "folk theatre",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "portuguese-influenced dance",
+        "count": 1
+      },
+      {
+        "head": "transportation method",
+        "tail": "car",
+        "count": 1
+      },
+      {
+        "head": "popular afterschool sport",
+        "tail": "football",
+        "count": 1
+      },
+      {
+        "head": "sport commentator",
+        "tail": "most popular in algeria",
+        "count": 1
+      },
+      {
+        "head": "most popular in algeria",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "lunch time",
+        "tail": "ideal for sports",
+        "count": 1
+      },
+      {
+        "head": "grade level",
+        "tail": "9th grade",
+        "count": 1
+      },
+      {
+        "head": "most popular in algeria",
+        "tail": "brik (fried pastry filled with cheese or egg)",
+        "count": 1
+      },
+      {
+        "head": "popular sport",
+        "tail": "food",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 18
+      },
+      {
+        "label": "most popular in algeria",
+        "frequency": 4
+      },
+      {
+        "label": "folk dance",
+        "frequency": 3
+      },
+      {
+        "label": "الرمز المدرسي",
+        "frequency": 1
+      },
+      {
+        "label": "compulsory",
+        "frequency": 1
+      },
+      {
+        "label": "tadbir",
+        "frequency": 1
+      },
+      {
+        "label": "cultural celebration",
+        "frequency": 1
+      },
+      {
+        "label": "sham al-nisim",
+        "frequency": 1
+      },
+      {
+        "label": "non-religious egyptian holiday",
+        "frequency": 1
+      },
+      {
+        "label": "snake and ladder",
+        "frequency": 1
+      },
+      {
+        "label": "board game",
+        "frequency": 1
+      },
+      {
+        "label": "egyptian woman",
+        "frequency": 1
+      },
+      {
+        "label": "khadi",
+        "frequency": 1
+      },
+      {
+        "label": "hand-spun and hand-woven fabric",
+        "frequency": 1
+      },
+      {
+        "label": "classical dance",
+        "frequency": 1
+      },
+      {
+        "label": "pure dance form",
+        "frequency": 1
+      },
+      {
+        "label": "folk theatre",
+        "frequency": 1
+      },
+      {
+        "label": "portuguese-influenced dance",
+        "frequency": 1
+      },
+      {
+        "label": "transportation method",
+        "frequency": 1
+      },
+      {
+        "label": "car",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 20,
+    "name": "engage in",
+    "coverage": 32,
+    "constituent_lenses": [
+      "engage in"
+    ],
+    "lens_ids": [
+      22
+    ],
+    "edge_types": [
+      "engage in",
+      "engages in",
+      "engage in activities",
+      "usually engage in"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 4
+      },
+      {
+        "head": "food",
+        "tail": "customer",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "tv viewing",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "cotton cultivation",
+        "count": 1
+      },
+      {
+        "head": "nile valley women",
+        "tail": "cleaning after work",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "traditional dishes",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "potty training",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "various activities",
+        "count": 1
+      },
+      {
+        "head": "in public",
+        "tail": "discussion on gun violence",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "building underground structures",
+        "count": 1
+      },
+      {
+        "head": "patient",
+        "tail": "healthcare-related activities",
+        "count": 1
+      },
+      {
+        "head": "employee",
+        "tail": "hard work",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "various payment practices",
+        "count": 1
+      },
+      {
+        "head": "customer",
+        "tail": "various spending habits",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "indoor activity",
+        "count": 1
+      },
+      {
+        "head": "commentator",
+        "tail": "sport commentary",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "dinner activities",
+        "count": 1
+      },
+      {
+        "head": "females in their 20s",
+        "tail": "leisure activities",
+        "count": 1
+      },
+      {
+        "head": "males in their 20s",
+        "tail": "leisure activities",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "souq shopping",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 14
+      },
+      {
+        "label": "food",
+        "frequency": 6
+      },
+      {
+        "label": "united states",
+        "frequency": 3
+      },
+      {
+        "label": "leisure activities",
+        "frequency": 3
+      },
+      {
+        "label": "customer",
+        "frequency": 2
+      },
+      {
+        "label": "photographer",
+        "frequency": 2
+      },
+      {
+        "label": "tv viewing",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "cotton cultivation",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley women",
+        "frequency": 1
+      },
+      {
+        "label": "cleaning after work",
+        "frequency": 1
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 1
+      },
+      {
+        "label": "potty training",
+        "frequency": 1
+      },
+      {
+        "label": "various activities",
+        "frequency": 1
+      },
+      {
+        "label": "in public",
+        "frequency": 1
+      },
+      {
+        "label": "discussion on gun violence",
+        "frequency": 1
+      },
+      {
+        "label": "building underground structures",
+        "frequency": 1
+      },
+      {
+        "label": "patient",
+        "frequency": 1
+      },
+      {
+        "label": "healthcare-related activities",
+        "frequency": 1
+      },
+      {
+        "label": "employee",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 21,
+    "name": "known for",
+    "coverage": 26,
+    "constituent_lenses": [
+      "known for"
+    ],
+    "lens_ids": [
+      23
+    ],
+    "edge_types": [
+      "known for",
+      "also known as",
+      "known as"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "durability",
+        "count": 2
+      },
+      {
+        "head": "سطيف",
+        "tail": "رقص خاص",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "unique cultivation",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "agricultural products",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "traditional dishes",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "this custom",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "weaving traditions",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "purity of silk",
+        "count": 1
+      },
+      {
+        "head": "coimbatore",
+        "tail": "cotton sarees",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "durability and vibrant colors",
+        "count": 1
+      },
+      {
+        "head": "tanchoi",
+        "tail": "elaborate designs",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "gabba textiles",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "intricate patterns",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "parrot dance",
+        "count": 1
+      },
+      {
+        "head": "chickpea stew",
+        "tail": "garbanzo beans",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "cultural cuisine",
+        "count": 1
+      },
+      {
+        "head": "famous rivalry",
+        "tail": "algerian soccer fans",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "most famous spicy dish",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 15
+      },
+      {
+        "label": "algeria",
+        "frequency": 7
+      },
+      {
+        "label": "durability",
+        "frequency": 2
+      },
+      {
+        "label": "سطيف",
+        "frequency": 1
+      },
+      {
+        "label": "رقص خاص",
+        "frequency": 1
+      },
+      {
+        "label": "unique cultivation",
+        "frequency": 1
+      },
+      {
+        "label": "agricultural products",
+        "frequency": 1
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "this custom",
+        "frequency": 1
+      },
+      {
+        "label": "weaving traditions",
+        "frequency": 1
+      },
+      {
+        "label": "purity of silk",
+        "frequency": 1
+      },
+      {
+        "label": "coimbatore",
+        "frequency": 1
+      },
+      {
+        "label": "cotton sarees",
+        "frequency": 1
+      },
+      {
+        "label": "durability and vibrant colors",
+        "frequency": 1
+      },
+      {
+        "label": "tanchoi",
+        "frequency": 1
+      },
+      {
+        "label": "elaborate designs",
+        "frequency": 1
+      },
+      {
+        "label": "gabba textiles",
+        "frequency": 1
+      },
+      {
+        "label": "intricate patterns",
+        "frequency": 1
+      },
+      {
+        "label": "parrot dance",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 22,
+    "name": "popular among",
+    "coverage": 26,
+    "constituent_lenses": [
+      "popular among"
+    ],
+    "lens_ids": [
+      24
+    ],
+    "edge_types": [
+      "popular among",
+      "popular in",
+      "popular sport"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 10
+      },
+      {
+        "head": "soccer",
+        "tail": "algeria",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "rural areas in chhattisgarh",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "rural fairs",
+        "count": 1
+      },
+      {
+        "head": "snacks",
+        "tail": "algerian visitors",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "people from other countries",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "coastal regions",
+        "count": 1
+      },
+      {
+        "head": "most famous sports-related movie",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "table tennis",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "track and field",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "track and field events",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "expatriates",
+        "count": 1
+      },
+      {
+        "head": "ramadan",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "christmas song",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "sports teams",
+        "tail": "algeria",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 20
+      },
+      {
+        "label": "food",
+        "frequency": 15
+      },
+      {
+        "label": "soccer",
+        "frequency": 3
+      },
+      {
+        "label": "rural areas in chhattisgarh",
+        "frequency": 1
+      },
+      {
+        "label": "rural fairs",
+        "frequency": 1
+      },
+      {
+        "label": "snacks",
+        "frequency": 1
+      },
+      {
+        "label": "algerian visitors",
+        "frequency": 1
+      },
+      {
+        "label": "people from other countries",
+        "frequency": 1
+      },
+      {
+        "label": "coastal regions",
+        "frequency": 1
+      },
+      {
+        "label": "most famous sports-related movie",
+        "frequency": 1
+      },
+      {
+        "label": "table tennis",
+        "frequency": 1
+      },
+      {
+        "label": "track and field",
+        "frequency": 1
+      },
+      {
+        "label": "track and field events",
+        "frequency": 1
+      },
+      {
+        "label": "expatriates",
+        "frequency": 1
+      },
+      {
+        "label": "ramadan",
+        "frequency": 1
+      },
+      {
+        "label": "christmas song",
+        "frequency": 1
+      },
+      {
+        "label": "sports teams",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 23,
+    "name": "represents",
+    "coverage": 25,
+    "constituent_lenses": [
+      "represents"
+    ],
+    "lens_ids": [
+      25
+    ],
+    "edge_types": [
+      "represents",
+      "represent"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "traditional savings method",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "confluence of ganga and yamuna",
+        "count": 1
+      },
+      {
+        "head": "hmaram",
+        "tail": "rich heritage of hmar community",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "textile heritage",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "textile diversity of tamil nadu",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "basketball player",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "traditional symbols",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "swimmer",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "popular female sportperson",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "boxer",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "gifts",
+        "tail": "university students",
+        "count": 1
+      },
+      {
+        "head": "candle",
+        "tail": "selflessness and sacrifice",
+        "count": 1
+      },
+      {
+        "head": "chart",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "physical exam",
+        "tail": "customer",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "priest",
+        "tail": "beauty",
+        "count": 1
+      },
+      {
+        "head": "priest",
+        "tail": "splendor",
+        "count": 1
+      },
+      {
+        "head": "priest",
+        "tail": "jesus",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 16
+      },
+      {
+        "label": "algeria",
+        "frequency": 5
+      },
+      {
+        "label": "priest",
+        "frequency": 3
+      },
+      {
+        "label": "traditional savings method",
+        "frequency": 1
+      },
+      {
+        "label": "confluence of ganga and yamuna",
+        "frequency": 1
+      },
+      {
+        "label": "hmaram",
+        "frequency": 1
+      },
+      {
+        "label": "rich heritage of hmar community",
+        "frequency": 1
+      },
+      {
+        "label": "textile heritage",
+        "frequency": 1
+      },
+      {
+        "label": "textile diversity of tamil nadu",
+        "frequency": 1
+      },
+      {
+        "label": "basketball player",
+        "frequency": 1
+      },
+      {
+        "label": "traditional symbols",
+        "frequency": 1
+      },
+      {
+        "label": "swimmer",
+        "frequency": 1
+      },
+      {
+        "label": "popular female sportperson",
+        "frequency": 1
+      },
+      {
+        "label": "boxer",
+        "frequency": 1
+      },
+      {
+        "label": "gifts",
+        "frequency": 1
+      },
+      {
+        "label": "university students",
+        "frequency": 1
+      },
+      {
+        "label": "candle",
+        "frequency": 1
+      },
+      {
+        "label": "selflessness and sacrifice",
+        "frequency": 1
+      },
+      {
+        "label": "chart",
+        "frequency": 1
+      },
+      {
+        "label": "physical exam",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 24,
+    "name": "provides",
+    "coverage": 23,
+    "constituent_lenses": [
+      "provides"
+    ],
+    "lens_ids": [
+      26
+    ],
+    "edge_types": [
+      "provides",
+      "provide",
+      "provide comfort",
+      "provides care"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 3
+      },
+      {
+        "head": "nurse",
+        "tail": "patient",
+        "count": 2
+      },
+      {
+        "head": "quran",
+        "tail": "during mourning",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "counsel",
+        "count": 1
+      },
+      {
+        "head": "ولاء الويكه",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "comfortable cotton backing",
+        "count": 1
+      },
+      {
+        "head": "cotton sarees",
+        "tail": "subtle elegance",
+        "count": 1
+      },
+      {
+        "head": "employee",
+        "tail": "sick leave and annual leave",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "efficient checkout experience",
+        "count": 1
+      },
+      {
+        "head": "movie theaters",
+        "tail": "gongadi blankets",
+        "count": 1
+      },
+      {
+        "head": "customer",
+        "tail": "personal information",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "seclusion",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "nutritional comfort",
+        "count": 1
+      },
+      {
+        "head": "work",
+        "tail": "income for students",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "medical care",
+        "count": 1
+      },
+      {
+        "head": "glove",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "mentoring sessions",
+        "tail": "tailor made support",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "perfect light",
+        "count": 1
+      },
+      {
+        "head": "parish",
+        "tail": "priest",
+        "count": 1
+      },
+      {
+        "head": "doctor",
+        "tail": "food",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 14
+      },
+      {
+        "label": "nurse",
+        "frequency": 3
+      },
+      {
+        "label": "patient",
+        "frequency": 2
+      },
+      {
+        "label": "quran",
+        "frequency": 1
+      },
+      {
+        "label": "during mourning",
+        "frequency": 1
+      },
+      {
+        "label": "counsel",
+        "frequency": 1
+      },
+      {
+        "label": "ولاء الويكه",
+        "frequency": 1
+      },
+      {
+        "label": "algeria",
+        "frequency": 1
+      },
+      {
+        "label": "comfortable cotton backing",
+        "frequency": 1
+      },
+      {
+        "label": "cotton sarees",
+        "frequency": 1
+      },
+      {
+        "label": "subtle elegance",
+        "frequency": 1
+      },
+      {
+        "label": "employee",
+        "frequency": 1
+      },
+      {
+        "label": "sick leave and annual leave",
+        "frequency": 1
+      },
+      {
+        "label": "efficient checkout experience",
+        "frequency": 1
+      },
+      {
+        "label": "movie theaters",
+        "frequency": 1
+      },
+      {
+        "label": "gongadi blankets",
+        "frequency": 1
+      },
+      {
+        "label": "customer",
+        "frequency": 1
+      },
+      {
+        "label": "personal information",
+        "frequency": 1
+      },
+      {
+        "label": "seclusion",
+        "frequency": 1
+      },
+      {
+        "label": "nutritional comfort",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 25,
+    "name": "contains",
+    "coverage": 21,
+    "constituent_lenses": [
+      "contains"
+    ],
+    "lens_ids": [
+      27
+    ],
+    "edge_types": [
+      "contains",
+      "contain"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "الخضار",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "intricate weaving patterns",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "intricate patterns",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "flowers, birds, geometric shapes",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "intricate designs",
+        "count": 1
+      },
+      {
+        "head": "couscous",
+        "tail": "nutritious ingredients",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "cheese or egg",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "meat and vegetables",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "mountainous areas",
+        "count": 1
+      },
+      {
+        "head": "library",
+        "tail": "free area",
+        "count": 1
+      },
+      {
+        "head": "paper",
+        "tail": "student work",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "locking center",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "file drawer",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "box drawer",
+        "count": 1
+      },
+      {
+        "head": "hive",
+        "tail": "bees",
+        "count": 1
+      },
+      {
+        "head": "report",
+        "tail": "observations",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "best work",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "raised_seal",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "updates",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 16
+      },
+      {
+        "label": "الخضار",
+        "frequency": 1
+      },
+      {
+        "label": "intricate weaving patterns",
+        "frequency": 1
+      },
+      {
+        "label": "intricate patterns",
+        "frequency": 1
+      },
+      {
+        "label": "flowers, birds, geometric shapes",
+        "frequency": 1
+      },
+      {
+        "label": "intricate designs",
+        "frequency": 1
+      },
+      {
+        "label": "couscous",
+        "frequency": 1
+      },
+      {
+        "label": "nutritious ingredients",
+        "frequency": 1
+      },
+      {
+        "label": "cheese or egg",
+        "frequency": 1
+      },
+      {
+        "label": "meat and vegetables",
+        "frequency": 1
+      },
+      {
+        "label": "algeria",
+        "frequency": 1
+      },
+      {
+        "label": "mountainous areas",
+        "frequency": 1
+      },
+      {
+        "label": "library",
+        "frequency": 1
+      },
+      {
+        "label": "free area",
+        "frequency": 1
+      },
+      {
+        "label": "paper",
+        "frequency": 1
+      },
+      {
+        "label": "student work",
+        "frequency": 1
+      },
+      {
+        "label": "locking center",
+        "frequency": 1
+      },
+      {
+        "label": "file drawer",
+        "frequency": 1
+      },
+      {
+        "label": "box drawer",
+        "frequency": 1
+      },
+      {
+        "label": "hive",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 26,
+    "name": "promotes",
+    "coverage": 21,
+    "constituent_lenses": [
+      "promotes"
+    ],
+    "lens_ids": [
+      28
+    ],
+    "edge_types": [
+      "promotes",
+      "promote"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 3
+      },
+      {
+        "head": "algeria",
+        "tail": "teamwork",
+        "count": 1
+      },
+      {
+        "head": "fruit harvest",
+        "tail": "local agriculture",
+        "count": 1
+      },
+      {
+        "head": "game",
+        "tail": "spending time at home",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "social bonding",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "productivity conditioning",
+        "count": 1
+      },
+      {
+        "head": "thriftiness",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "public broadcasting",
+        "tail": "specific brands",
+        "count": 1
+      },
+      {
+        "head": "education system",
+        "tail": "preparation for exams",
+        "count": 1
+      },
+      {
+        "head": "university students",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "education system",
+        "tail": "cultural awareness",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "cohesion",
+        "count": 1
+      },
+      {
+        "head": "football",
+        "tail": "team spirit, physical fitness",
+        "count": 1
+      },
+      {
+        "head": "holiday",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "access to knowledge",
+        "count": 1
+      },
+      {
+        "head": "high expectations",
+        "tail": "student achievement",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "oral health",
+        "count": 1
+      },
+      {
+        "head": "politician",
+        "tail": "positions",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 11
+      },
+      {
+        "label": "algeria",
+        "frequency": 6
+      },
+      {
+        "label": "education system",
+        "frequency": 2
+      },
+      {
+        "label": "teamwork",
+        "frequency": 1
+      },
+      {
+        "label": "fruit harvest",
+        "frequency": 1
+      },
+      {
+        "label": "local agriculture",
+        "frequency": 1
+      },
+      {
+        "label": "game",
+        "frequency": 1
+      },
+      {
+        "label": "spending time at home",
+        "frequency": 1
+      },
+      {
+        "label": "social bonding",
+        "frequency": 1
+      },
+      {
+        "label": "productivity conditioning",
+        "frequency": 1
+      },
+      {
+        "label": "thriftiness",
+        "frequency": 1
+      },
+      {
+        "label": "public broadcasting",
+        "frequency": 1
+      },
+      {
+        "label": "specific brands",
+        "frequency": 1
+      },
+      {
+        "label": "preparation for exams",
+        "frequency": 1
+      },
+      {
+        "label": "university students",
+        "frequency": 1
+      },
+      {
+        "label": "cultural awareness",
+        "frequency": 1
+      },
+      {
+        "label": "cohesion",
+        "frequency": 1
+      },
+      {
+        "label": "football",
+        "frequency": 1
+      },
+      {
+        "label": "team spirit, physical fitness",
+        "frequency": 1
+      },
+      {
+        "label": "holiday",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 27,
+    "name": "marks",
+    "coverage": 21,
+    "constituent_lenses": [
+      "marks"
+    ],
+    "lens_ids": [
+      29
+    ],
+    "edge_types": [
+      "marks",
+      "mark",
+      "marks end of ramadan",
+      "marks end"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "preparation for eid al-adha",
+        "count": 1
+      },
+      {
+        "head": "eid al-adha",
+        "tail": "special occasion",
+        "count": 1
+      },
+      {
+        "head": "ramadan",
+        "tail": "start of day",
+        "count": 1
+      },
+      {
+        "head": "ramadan",
+        "tail": "end of fast",
+        "count": 1
+      },
+      {
+        "head": "eid al-adha",
+        "tail": "of ramadan",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "national independence",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "the end of french colonial rule",
+        "count": 1
+      },
+      {
+        "head": "eid prayer",
+        "tail": "islamic celebration",
+        "count": 1
+      },
+      {
+        "head": "eid al-adha",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "ramadan",
+        "tail": "end of fasting",
+        "count": 1
+      },
+      {
+        "head": "eid al-adha",
+        "tail": "nile valley",
+        "count": 1
+      },
+      {
+        "head": "صلى العيد",
+        "tail": "عيد",
+        "count": 1
+      },
+      {
+        "head": "eid al-adha",
+        "tail": "islamic religious festival",
+        "count": 1
+      },
+      {
+        "head": "صباح",
+        "tail": "time to start preparation",
+        "count": 1
+      },
+      {
+        "head": "university students",
+        "tail": "good harvest",
+        "count": 1
+      },
+      {
+        "head": "exam",
+        "tail": "secondary education",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "algeria's independence",
+        "count": 1
+      },
+      {
+        "head": "certain foods",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "teacher",
+        "tail": "paper",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 7
+      },
+      {
+        "label": "eid al-adha",
+        "frequency": 5
+      },
+      {
+        "label": "ramadan",
+        "frequency": 3
+      },
+      {
+        "label": "teacher",
+        "frequency": 2
+      },
+      {
+        "label": "preparation for eid al-adha",
+        "frequency": 1
+      },
+      {
+        "label": "special occasion",
+        "frequency": 1
+      },
+      {
+        "label": "start of day",
+        "frequency": 1
+      },
+      {
+        "label": "end of fast",
+        "frequency": 1
+      },
+      {
+        "label": "of ramadan",
+        "frequency": 1
+      },
+      {
+        "label": "algeria",
+        "frequency": 1
+      },
+      {
+        "label": "national independence",
+        "frequency": 1
+      },
+      {
+        "label": "the end of french colonial rule",
+        "frequency": 1
+      },
+      {
+        "label": "eid prayer",
+        "frequency": 1
+      },
+      {
+        "label": "islamic celebration",
+        "frequency": 1
+      },
+      {
+        "label": "end of fasting",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "صلى العيد",
+        "frequency": 1
+      },
+      {
+        "label": "عيد",
+        "frequency": 1
+      },
+      {
+        "label": "islamic religious festival",
+        "frequency": 1
+      },
+      {
+        "label": "صباح",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 28,
+    "name": "share",
+    "coverage": 20,
+    "constituent_lenses": [
+      "share"
+    ],
+    "lens_ids": [
+      30
+    ],
+    "edge_types": [
+      "share",
+      "shares"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "north africa",
+        "tail": "common_culinary_traditions",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "brothers",
+        "tail": "special relationship",
+        "count": 1
+      },
+      {
+        "head": "north african cultures",
+        "tail": "sibling care",
+        "count": 1
+      },
+      {
+        "head": "north africans",
+        "tail": "suhour tradition",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "meal time tradition",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "ramadan",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "meal during iftar",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "customer",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "cultural practice of wedding feasts",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "coffee with colleagues",
+        "count": 1
+      },
+      {
+        "head": "siblings",
+        "tail": "responsibility",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "meal together",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "recipe for ajyeh",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "breakfast at university",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "value of family togetherness during meals",
+        "count": 1
+      },
+      {
+        "head": "dz culture",
+        "tail": "folk tale tradition",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "information",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 11
+      },
+      {
+        "label": "food",
+        "frequency": 5
+      },
+      {
+        "label": "north africa",
+        "frequency": 1
+      },
+      {
+        "label": "common_culinary_traditions",
+        "frequency": 1
+      },
+      {
+        "label": "brothers",
+        "frequency": 1
+      },
+      {
+        "label": "special relationship",
+        "frequency": 1
+      },
+      {
+        "label": "north african cultures",
+        "frequency": 1
+      },
+      {
+        "label": "sibling care",
+        "frequency": 1
+      },
+      {
+        "label": "north africans",
+        "frequency": 1
+      },
+      {
+        "label": "suhour tradition",
+        "frequency": 1
+      },
+      {
+        "label": "meal time tradition",
+        "frequency": 1
+      },
+      {
+        "label": "ramadan",
+        "frequency": 1
+      },
+      {
+        "label": "meal during iftar",
+        "frequency": 1
+      },
+      {
+        "label": "customer",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "cultural practice of wedding feasts",
+        "frequency": 1
+      },
+      {
+        "label": "coffee with colleagues",
+        "frequency": 1
+      },
+      {
+        "label": "siblings",
+        "frequency": 1
+      },
+      {
+        "label": "responsibility",
+        "frequency": 1
+      },
+      {
+        "label": "meal together",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 29,
+    "name": "focuses on",
+    "coverage": 19,
+    "constituent_lenses": [
+      "focuses on"
+    ],
+    "lens_ids": [
+      31
+    ],
+    "edge_types": [
+      "focuses on",
+      "focus on",
+      "focuses_on"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algerian agriculture",
+        "tail": "fruit production",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "intricate footwork and rhythms",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "various aspects",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "algerian olympic achievements",
+        "count": 1
+      },
+      {
+        "head": "algerian education",
+        "tail": "standardized testing",
+        "count": 1
+      },
+      {
+        "head": "education system",
+        "tail": "practical skills and employability",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "paralympic sports",
+        "count": 1
+      },
+      {
+        "head": "literature class",
+        "tail": "algerian writers",
+        "count": 1
+      },
+      {
+        "head": "education system",
+        "tail": "preparing for childbirth",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "student passing",
+        "count": 1
+      },
+      {
+        "head": "teacher",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "special needs",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "investment",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "patient's well-being",
+        "count": 1
+      },
+      {
+        "head": "politician",
+        "tail": "career",
+        "count": 1
+      },
+      {
+        "head": "potty training",
+        "tail": "perfecting skills",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "prospective client",
+        "count": 1
+      },
+      {
+        "head": "attorney",
+        "tail": "case outcomes",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 11
+      },
+      {
+        "label": "education system",
+        "frequency": 2
+      },
+      {
+        "label": "algerian agriculture",
+        "frequency": 1
+      },
+      {
+        "label": "fruit production",
+        "frequency": 1
+      },
+      {
+        "label": "intricate footwork and rhythms",
+        "frequency": 1
+      },
+      {
+        "label": "various aspects",
+        "frequency": 1
+      },
+      {
+        "label": "algerian olympic achievements",
+        "frequency": 1
+      },
+      {
+        "label": "algerian education",
+        "frequency": 1
+      },
+      {
+        "label": "standardized testing",
+        "frequency": 1
+      },
+      {
+        "label": "practical skills and employability",
+        "frequency": 1
+      },
+      {
+        "label": "paralympic sports",
+        "frequency": 1
+      },
+      {
+        "label": "literature class",
+        "frequency": 1
+      },
+      {
+        "label": "algerian writers",
+        "frequency": 1
+      },
+      {
+        "label": "preparing for childbirth",
+        "frequency": 1
+      },
+      {
+        "label": "student passing",
+        "frequency": 1
+      },
+      {
+        "label": "teacher",
+        "frequency": 1
+      },
+      {
+        "label": "special needs",
+        "frequency": 1
+      },
+      {
+        "label": "investment",
+        "frequency": 1
+      },
+      {
+        "label": "nurse",
+        "frequency": 1
+      },
+      {
+        "label": "patient's well-being",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 30,
+    "name": "follows",
+    "coverage": 19,
+    "constituent_lenses": [
+      "follows"
+    ],
+    "lens_ids": [
+      32
+    ],
+    "edge_types": [
+      "follows",
+      "follow",
+      "should follow",
+      "follows protocol",
+      "follows routine"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "burial",
+        "tail": "ritual",
+        "count": 1
+      },
+      {
+        "head": "المجتمع الجزائري",
+        "tail": "العادات والتقاليد بعد الدفن",
+        "count": 1
+      },
+      {
+        "head": "prayer time",
+        "tail": "dawn prayer",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "hair washing tradition",
+        "count": 1
+      },
+      {
+        "head": "婚礼",
+        "tail": "新房布置",
+        "count": 1
+      },
+      {
+        "head": "employee",
+        "tail": "dress code",
+        "count": 1
+      },
+      {
+        "head": "audience",
+        "tail": "popular sport commentator",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "popular sports teams",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "instructions",
+        "count": 1
+      },
+      {
+        "head": "teacher",
+        "tail": "ritual",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "ritual",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "physician and medical staff",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "medication administration",
+        "count": 1
+      },
+      {
+        "head": "politician",
+        "tail": "campaign promises",
+        "count": 1
+      },
+      {
+        "head": "artist",
+        "tail": "before tattoo",
+        "count": 1
+      },
+      {
+        "head": "artist",
+        "tail": "after tattoo",
+        "count": 1
+      },
+      {
+        "head": "journalist",
+        "tail": "food",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 4
+      },
+      {
+        "label": "ritual",
+        "frequency": 3
+      },
+      {
+        "label": "food",
+        "frequency": 3
+      },
+      {
+        "label": "nurse",
+        "frequency": 3
+      },
+      {
+        "label": "artist",
+        "frequency": 2
+      },
+      {
+        "label": "burial",
+        "frequency": 1
+      },
+      {
+        "label": "المجتمع الجزائري",
+        "frequency": 1
+      },
+      {
+        "label": "العادات والتقاليد بعد الدفن",
+        "frequency": 1
+      },
+      {
+        "label": "prayer time",
+        "frequency": 1
+      },
+      {
+        "label": "dawn prayer",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "hair washing tradition",
+        "frequency": 1
+      },
+      {
+        "label": "婚礼",
+        "frequency": 1
+      },
+      {
+        "label": "新房布置",
+        "frequency": 1
+      },
+      {
+        "label": "employee",
+        "frequency": 1
+      },
+      {
+        "label": "dress code",
+        "frequency": 1
+      },
+      {
+        "label": "audience",
+        "frequency": 1
+      },
+      {
+        "label": "popular sport commentator",
+        "frequency": 1
+      },
+      {
+        "label": "popular sports teams",
+        "frequency": 1
+      },
+      {
+        "label": "instructions",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 31,
+    "name": "important for",
+    "coverage": 18,
+    "constituent_lenses": [
+      "important for"
+    ],
+    "lens_ids": [
+      33
+    ],
+    "edge_types": [
+      "important for",
+      "plays role in",
+      "plays role",
+      "plays important role",
+      "important in",
+      "consider most important",
+      "important to"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "algeria",
+        "count": 2
+      },
+      {
+        "head": "breakfast",
+        "tail": "starting day well",
+        "count": 1
+      },
+      {
+        "head": "wedding venue",
+        "tail": "bride mary",
+        "count": 1
+      },
+      {
+        "head": "teacher",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "sibling relationships",
+        "tail": "algerian society",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "breakfast",
+        "count": 1
+      },
+      {
+        "head": "cost-effectiveness",
+        "tail": "german consumers",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "education system",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "exam",
+        "count": 1
+      },
+      {
+        "head": "teacher",
+        "tail": "process",
+        "count": 1
+      },
+      {
+        "head": "teacher",
+        "tail": "vital",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "caregiver",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "patient",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "healthcare system",
+        "count": 1
+      },
+      {
+        "head": "wedding photographer",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "photographer",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 9
+      },
+      {
+        "label": "teacher",
+        "frequency": 3
+      },
+      {
+        "label": "nurse",
+        "frequency": 3
+      },
+      {
+        "label": "food",
+        "frequency": 3
+      },
+      {
+        "label": "breakfast",
+        "frequency": 2
+      },
+      {
+        "label": "starting day well",
+        "frequency": 1
+      },
+      {
+        "label": "wedding venue",
+        "frequency": 1
+      },
+      {
+        "label": "bride mary",
+        "frequency": 1
+      },
+      {
+        "label": "sibling relationships",
+        "frequency": 1
+      },
+      {
+        "label": "algerian society",
+        "frequency": 1
+      },
+      {
+        "label": "cost-effectiveness",
+        "frequency": 1
+      },
+      {
+        "label": "german consumers",
+        "frequency": 1
+      },
+      {
+        "label": "education system",
+        "frequency": 1
+      },
+      {
+        "label": "exam",
+        "frequency": 1
+      },
+      {
+        "label": "process",
+        "frequency": 1
+      },
+      {
+        "label": "vital",
+        "frequency": 1
+      },
+      {
+        "label": "caregiver",
+        "frequency": 1
+      },
+      {
+        "label": "patient",
+        "frequency": 1
+      },
+      {
+        "label": "healthcare system",
+        "frequency": 1
+      },
+      {
+        "label": "wedding photographer",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 32,
+    "name": "consume",
+    "coverage": 17,
+    "constituent_lenses": [
+      "consume"
+    ],
+    "lens_ids": [
+      34
+    ],
+    "edge_types": [
+      "consume",
+      "consume during iftar"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 5
+      },
+      {
+        "head": "algeria",
+        "tail": "ramadan",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "fava beans for breakfast",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "roasted chicken stuffed with onions",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "prepared food",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "americans",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "snacks at malls",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "hot drinks",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "bread",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "traditional dishes",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "traditional dishes",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 14
+      },
+      {
+        "label": "food",
+        "frequency": 8
+      },
+      {
+        "label": "ramadan",
+        "frequency": 2
+      },
+      {
+        "label": "traditional dishes",
+        "frequency": 2
+      },
+      {
+        "label": "fava beans for breakfast",
+        "frequency": 1
+      },
+      {
+        "label": "roasted chicken stuffed with onions",
+        "frequency": 1
+      },
+      {
+        "label": "prepared food",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "americans",
+        "frequency": 1
+      },
+      {
+        "label": "snacks at malls",
+        "frequency": 1
+      },
+      {
+        "label": "hot drinks",
+        "frequency": 1
+      },
+      {
+        "label": "bread",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 33,
+    "name": "wear",
+    "coverage": 17,
+    "constituent_lenses": [
+      "wear"
+    ],
+    "lens_ids": [
+      35
+    ],
+    "edge_types": [
+      "wear",
+      "wears",
+      "swears by"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "nurse",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "photographer",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "food",
+        "tail": "compulsory school symbol",
+        "count": 1
+      },
+      {
+        "head": "santhal tribe",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "malayali brides",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "meitei women",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "garo women",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "ao naga men",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "tribal women",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "traditional festival accessories",
+        "count": 1
+      },
+      {
+        "head": "school teachers",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "priest",
+        "tail": "white clothing",
+        "count": 1
+      },
+      {
+        "head": "priest",
+        "tail": "brightest robes",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "tuxedo",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 15
+      },
+      {
+        "label": "nurse",
+        "frequency": 2
+      },
+      {
+        "label": "photographer",
+        "frequency": 2
+      },
+      {
+        "label": "priest",
+        "frequency": 2
+      },
+      {
+        "label": "compulsory school symbol",
+        "frequency": 1
+      },
+      {
+        "label": "santhal tribe",
+        "frequency": 1
+      },
+      {
+        "label": "malayali brides",
+        "frequency": 1
+      },
+      {
+        "label": "meitei women",
+        "frequency": 1
+      },
+      {
+        "label": "garo women",
+        "frequency": 1
+      },
+      {
+        "label": "ao naga men",
+        "frequency": 1
+      },
+      {
+        "label": "tribal women",
+        "frequency": 1
+      },
+      {
+        "label": "algeria",
+        "frequency": 1
+      },
+      {
+        "label": "traditional festival accessories",
+        "frequency": 1
+      },
+      {
+        "label": "school teachers",
+        "frequency": 1
+      },
+      {
+        "label": "white clothing",
+        "frequency": 1
+      },
+      {
+        "label": "brightest robes",
+        "frequency": 1
+      },
+      {
+        "label": "tuxedo",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 34,
+    "name": "located in",
+    "coverage": 16,
+    "constituent_lenses": [
+      "located in"
+    ],
+    "lens_ids": [
+      36
+    ],
+    "edge_types": [
+      "located in",
+      "are located in"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "north africa",
+        "count": 3
+      },
+      {
+        "head": "algeria",
+        "tail": "nile valley",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "north africa",
+        "count": 1
+      },
+      {
+        "head": "game",
+        "tail": "nile valley",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "nile valley",
+        "count": 1
+      },
+      {
+        "head": "amusement parks",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "restaurant",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "sporting stadium",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "university students",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "clubs and restaurants",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "oral cavity",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 11
+      },
+      {
+        "label": "food",
+        "frequency": 5
+      },
+      {
+        "label": "nile valley",
+        "frequency": 5
+      },
+      {
+        "label": "north africa",
+        "frequency": 4
+      },
+      {
+        "label": "game",
+        "frequency": 1
+      },
+      {
+        "label": "amusement parks",
+        "frequency": 1
+      },
+      {
+        "label": "restaurant",
+        "frequency": 1
+      },
+      {
+        "label": "sporting stadium",
+        "frequency": 1
+      },
+      {
+        "label": "university students",
+        "frequency": 1
+      },
+      {
+        "label": "clubs and restaurants",
+        "frequency": 1
+      },
+      {
+        "label": "oral cavity",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 35,
+    "name": "encourages",
+    "coverage": 16,
+    "constituent_lenses": [
+      "encourages"
+    ],
+    "lens_ids": [
+      37
+    ],
+    "edge_types": [
+      "encourages",
+      "encourage"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "light traditional pre-dawn meal",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "community support",
+        "count": 1
+      },
+      {
+        "head": "social norm",
+        "tail": "staying",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "healthy breakfast habits",
+        "count": 1
+      },
+      {
+        "head": "leisure activities",
+        "tail": "spending",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "quick response",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "working through lunch",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "waiting in line",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "wearing a jacket",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "multigenerational households",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "modest dress",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "boys to play with vehicles",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "passing down traditions",
+        "count": 1
+      },
+      {
+        "head": "teacher",
+        "tail": "student engagement",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "nurses' adherence",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "regular dental visits",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 9
+      },
+      {
+        "label": "food",
+        "frequency": 4
+      },
+      {
+        "label": "light traditional pre-dawn meal",
+        "frequency": 1
+      },
+      {
+        "label": "community support",
+        "frequency": 1
+      },
+      {
+        "label": "social norm",
+        "frequency": 1
+      },
+      {
+        "label": "staying",
+        "frequency": 1
+      },
+      {
+        "label": "healthy breakfast habits",
+        "frequency": 1
+      },
+      {
+        "label": "leisure activities",
+        "frequency": 1
+      },
+      {
+        "label": "spending",
+        "frequency": 1
+      },
+      {
+        "label": "quick response",
+        "frequency": 1
+      },
+      {
+        "label": "working through lunch",
+        "frequency": 1
+      },
+      {
+        "label": "waiting in line",
+        "frequency": 1
+      },
+      {
+        "label": "wearing a jacket",
+        "frequency": 1
+      },
+      {
+        "label": "multigenerational households",
+        "frequency": 1
+      },
+      {
+        "label": "modest dress",
+        "frequency": 1
+      },
+      {
+        "label": "boys to play with vehicles",
+        "frequency": 1
+      },
+      {
+        "label": "passing down traditions",
+        "frequency": 1
+      },
+      {
+        "label": "teacher",
+        "frequency": 1
+      },
+      {
+        "label": "student engagement",
+        "frequency": 1
+      },
+      {
+        "label": "nurses' adherence",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 36,
+    "name": "cultural region of",
+    "coverage": 16,
+    "constituent_lenses": [
+      "cultural region of"
+    ],
+    "lens_ids": [
+      38
+    ],
+    "edge_types": [
+      "cultural region of",
+      "cultural region",
+      "cultural expression of"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "nile valley",
+        "tail": "algeria",
+        "count": 9
+      },
+      {
+        "head": "thengal kachari dance",
+        "tail": "assam",
+        "count": 2
+      },
+      {
+        "head": "nile valley",
+        "tail": "egyptian customs",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "egyptian sweets tradition",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "egyptian traditions",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "egyptian work culture",
+        "count": 1
+      },
+      {
+        "head": "rabha dance",
+        "tail": "rabha dance",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "nile valley",
+        "frequency": 13
+      },
+      {
+        "label": "algeria",
+        "frequency": 9
+      },
+      {
+        "label": "rabha dance",
+        "frequency": 2
+      },
+      {
+        "label": "thengal kachari dance",
+        "frequency": 2
+      },
+      {
+        "label": "assam",
+        "frequency": 2
+      },
+      {
+        "label": "egyptian customs",
+        "frequency": 1
+      },
+      {
+        "label": "egyptian sweets tradition",
+        "frequency": 1
+      },
+      {
+        "label": "egyptian traditions",
+        "frequency": 1
+      },
+      {
+        "label": "egyptian work culture",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 37,
+    "name": "play with",
+    "coverage": 16,
+    "constituent_lenses": [
+      "play with"
+    ],
+    "lens_ids": [
+      39
+    ],
+    "edge_types": [
+      "play with",
+      "play game",
+      "play games",
+      "play",
+      "plays game"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 6
+      },
+      {
+        "head": "algeria",
+        "tail": "at home",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "boy and girl game",
+        "count": 1
+      },
+      {
+        "head": "egyptian siblings",
+        "tail": "at home",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "snake and ladder",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "electricity",
+        "count": 1
+      },
+      {
+        "head": "nader and ahmad",
+        "tail": "snake and ladder",
+        "count": 1
+      },
+      {
+        "head": "samer and her sisters",
+        "tail": "game",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "during holidays",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "popular family game",
+        "count": 1
+      },
+      {
+        "head": "politician",
+        "tail": "to win votes",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 12
+      },
+      {
+        "label": "food",
+        "frequency": 6
+      },
+      {
+        "label": "at home",
+        "frequency": 2
+      },
+      {
+        "label": "snake and ladder",
+        "frequency": 2
+      },
+      {
+        "label": "boy and girl game",
+        "frequency": 1
+      },
+      {
+        "label": "egyptian siblings",
+        "frequency": 1
+      },
+      {
+        "label": "electricity",
+        "frequency": 1
+      },
+      {
+        "label": "nader and ahmad",
+        "frequency": 1
+      },
+      {
+        "label": "samer and her sisters",
+        "frequency": 1
+      },
+      {
+        "label": "game",
+        "frequency": 1
+      },
+      {
+        "label": "during holidays",
+        "frequency": 1
+      },
+      {
+        "label": "popular family game",
+        "frequency": 1
+      },
+      {
+        "label": "politician",
+        "frequency": 1
+      },
+      {
+        "label": "to win votes",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 38,
+    "name": "creates",
+    "coverage": 14,
+    "constituent_lenses": [
+      "creates"
+    ],
+    "lens_ids": [
+      40
+    ],
+    "edge_types": [
+      "creates",
+      "create"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "intricate patterns",
+        "count": 4
+      },
+      {
+        "head": "tailor",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "photographer",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "artisan",
+        "tail": "narrow strips of fabric",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "elaborate patterns",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "artist",
+        "tail": "flower",
+        "count": 1
+      },
+      {
+        "head": "artist",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "pleasing visual representation",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 12
+      },
+      {
+        "label": "intricate patterns",
+        "frequency": 4
+      },
+      {
+        "label": "photographer",
+        "frequency": 3
+      },
+      {
+        "label": "tailor",
+        "frequency": 2
+      },
+      {
+        "label": "artist",
+        "frequency": 2
+      },
+      {
+        "label": "artisan",
+        "frequency": 1
+      },
+      {
+        "label": "narrow strips of fabric",
+        "frequency": 1
+      },
+      {
+        "label": "elaborate patterns",
+        "frequency": 1
+      },
+      {
+        "label": "flower",
+        "frequency": 1
+      },
+      {
+        "label": "pleasing visual representation",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 39,
+    "name": "works in",
+    "coverage": 14,
+    "constituent_lenses": [
+      "works in"
+    ],
+    "lens_ids": [
+      41
+    ],
+    "edge_types": [
+      "works in",
+      "works with",
+      "work in",
+      "works at",
+      "work with"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "tech workers",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "unit clerk",
+        "tail": "hospitality",
+        "count": 1
+      },
+      {
+        "head": "unit clerk",
+        "tail": "front desk",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "certain occupations",
+        "count": 1
+      },
+      {
+        "head": "teacher",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "doctor",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "large open space",
+        "count": 1
+      },
+      {
+        "head": "carpenters",
+        "tail": "established home",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "hygiene",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "candle",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "professional circuit",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 6
+      },
+      {
+        "label": "algeria",
+        "frequency": 3
+      },
+      {
+        "label": "photographer",
+        "frequency": 3
+      },
+      {
+        "label": "unit clerk",
+        "frequency": 2
+      },
+      {
+        "label": "nurse",
+        "frequency": 2
+      },
+      {
+        "label": "tech workers",
+        "frequency": 1
+      },
+      {
+        "label": "hospitality",
+        "frequency": 1
+      },
+      {
+        "label": "front desk",
+        "frequency": 1
+      },
+      {
+        "label": "certain occupations",
+        "frequency": 1
+      },
+      {
+        "label": "teacher",
+        "frequency": 1
+      },
+      {
+        "label": "doctor",
+        "frequency": 1
+      },
+      {
+        "label": "large open space",
+        "frequency": 1
+      },
+      {
+        "label": "carpenters",
+        "frequency": 1
+      },
+      {
+        "label": "established home",
+        "frequency": 1
+      },
+      {
+        "label": "hygiene",
+        "frequency": 1
+      },
+      {
+        "label": "candle",
+        "frequency": 1
+      },
+      {
+        "label": "professional circuit",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 40,
+    "name": "belong to",
+    "coverage": 13,
+    "constituent_lenses": [
+      "belong to"
+    ],
+    "lens_ids": [
+      42
+    ],
+    "edge_types": [
+      "belong to",
+      "belongs_to",
+      "belongs to"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "egyptian cultural group",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "assam",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "assam",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "bihar's culture",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "chhattisgarh culture",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "tailor",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "carpenters",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "dentist cultural group",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 11
+      },
+      {
+        "label": "algeria",
+        "frequency": 6
+      },
+      {
+        "label": "assam",
+        "frequency": 2
+      },
+      {
+        "label": "egyptian cultural group",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "bihar's culture",
+        "frequency": 1
+      },
+      {
+        "label": "chhattisgarh culture",
+        "frequency": 1
+      },
+      {
+        "label": "tailor",
+        "frequency": 1
+      },
+      {
+        "label": "carpenters",
+        "frequency": 1
+      },
+      {
+        "label": "dentist cultural group",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 41,
+    "name": "prioritizes",
+    "coverage": 12,
+    "constituent_lenses": [
+      "prioritizes"
+    ],
+    "lens_ids": [
+      43
+    ],
+    "edge_types": [
+      "prioritizes",
+      "prioritize"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "religious and national occasions",
+        "count": 1
+      },
+      {
+        "head": "nile valley youth",
+        "tail": "academic attendance",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "healthcare sector",
+        "count": 1
+      },
+      {
+        "head": "government",
+        "tail": "one sport",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "customer",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "economic stability through education",
+        "count": 1
+      },
+      {
+        "head": "work life balance",
+        "tail": "moderate",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "client interests",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "callers' safety",
+        "count": 1
+      },
+      {
+        "head": "politician",
+        "tail": "electoral victory",
+        "count": 1
+      },
+      {
+        "head": "professional direct mail copywriters",
+        "tail": "profit",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "food",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 4
+      },
+      {
+        "label": "food",
+        "frequency": 2
+      },
+      {
+        "label": "religious and national occasions",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley youth",
+        "frequency": 1
+      },
+      {
+        "label": "academic attendance",
+        "frequency": 1
+      },
+      {
+        "label": "healthcare sector",
+        "frequency": 1
+      },
+      {
+        "label": "government",
+        "frequency": 1
+      },
+      {
+        "label": "one sport",
+        "frequency": 1
+      },
+      {
+        "label": "customer",
+        "frequency": 1
+      },
+      {
+        "label": "economic stability through education",
+        "frequency": 1
+      },
+      {
+        "label": "work life balance",
+        "frequency": 1
+      },
+      {
+        "label": "moderate",
+        "frequency": 1
+      },
+      {
+        "label": "client interests",
+        "frequency": 1
+      },
+      {
+        "label": "nurse",
+        "frequency": 1
+      },
+      {
+        "label": "callers' safety",
+        "frequency": 1
+      },
+      {
+        "label": "politician",
+        "frequency": 1
+      },
+      {
+        "label": "electoral victory",
+        "frequency": 1
+      },
+      {
+        "label": "professional direct mail copywriters",
+        "frequency": 1
+      },
+      {
+        "label": "profit",
+        "frequency": 1
+      },
+      {
+        "label": "photographer",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 42,
+    "name": "admire",
+    "coverage": 12,
+    "constituent_lenses": [
+      "admire"
+    ],
+    "lens_ids": [
+      44
+    ],
+    "edge_types": [
+      "admire",
+      "admires"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "algeria",
+        "tail": "most famous basketball player",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "popular soccer coach",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "famous male badminton players",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "most famous soccer players",
+        "count": 1
+      },
+      {
+        "head": "in public",
+        "tail": "popular winter sports player",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "famous swimmers",
+        "count": 1
+      },
+      {
+        "head": "algerian society",
+        "tail": "female sportpersons",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "popular martial arts player",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "famous table tennis players",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "most famous boxer",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "famous track and field athletes",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "popular sportperson",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "algeria",
+        "frequency": 10
+      },
+      {
+        "label": "most famous basketball player",
+        "frequency": 1
+      },
+      {
+        "label": "popular soccer coach",
+        "frequency": 1
+      },
+      {
+        "label": "famous male badminton players",
+        "frequency": 1
+      },
+      {
+        "label": "most famous soccer players",
+        "frequency": 1
+      },
+      {
+        "label": "in public",
+        "frequency": 1
+      },
+      {
+        "label": "popular winter sports player",
+        "frequency": 1
+      },
+      {
+        "label": "famous swimmers",
+        "frequency": 1
+      },
+      {
+        "label": "algerian society",
+        "frequency": 1
+      },
+      {
+        "label": "female sportpersons",
+        "frequency": 1
+      },
+      {
+        "label": "popular martial arts player",
+        "frequency": 1
+      },
+      {
+        "label": "famous table tennis players",
+        "frequency": 1
+      },
+      {
+        "label": "most famous boxer",
+        "frequency": 1
+      },
+      {
+        "label": "famous track and field athletes",
+        "frequency": 1
+      },
+      {
+        "label": "popular sportperson",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 43,
+    "name": "passed down",
+    "coverage": 12,
+    "constituent_lenses": [
+      "passed down"
+    ],
+    "lens_ids": [
+      45
+    ],
+    "edge_types": [
+      "passed down",
+      "passes down",
+      "pass down"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "special songs",
+        "tail": "through generations",
+        "count": 1
+      },
+      {
+        "head": "customer",
+        "tail": "through generations",
+        "count": 1
+      },
+      {
+        "head": "الفرقة الموسيقية",
+        "tail": "التقاليد الموسيقية",
+        "count": 1
+      },
+      {
+        "head": "teacher",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "family tradition",
+        "tail": "preparing hareesa",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "through generations",
+        "count": 1
+      },
+      {
+        "head": "nile valley",
+        "tail": "proverbs",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "tradition of eating jamees",
+        "count": 1
+      },
+      {
+        "head": "game",
+        "tail": "customer",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "customer",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "ritual",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 4
+      },
+      {
+        "label": "algeria",
+        "frequency": 3
+      },
+      {
+        "label": "through generations",
+        "frequency": 3
+      },
+      {
+        "label": "customer",
+        "frequency": 3
+      },
+      {
+        "label": "special songs",
+        "frequency": 1
+      },
+      {
+        "label": "الفرقة الموسيقية",
+        "frequency": 1
+      },
+      {
+        "label": "التقاليد الموسيقية",
+        "frequency": 1
+      },
+      {
+        "label": "teacher",
+        "frequency": 1
+      },
+      {
+        "label": "family tradition",
+        "frequency": 1
+      },
+      {
+        "label": "preparing hareesa",
+        "frequency": 1
+      },
+      {
+        "label": "nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "proverbs",
+        "frequency": 1
+      },
+      {
+        "label": "tradition of eating jamees",
+        "frequency": 1
+      },
+      {
+        "label": "game",
+        "frequency": 1
+      },
+      {
+        "label": "ritual",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 44,
+    "name": "consider",
+    "coverage": 12,
+    "constituent_lenses": [
+      "consider"
+    ],
+    "lens_ids": [
+      46
+    ],
+    "edge_types": [
+      "consider",
+      "considers",
+      "considered",
+      "considered secure"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "religious and national events",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "exquisite textile of maharashtra",
+        "count": 1
+      },
+      {
+        "head": "united states",
+        "tail": "unique and impractical",
+        "count": 1
+      },
+      {
+        "head": "soccer",
+        "tail": "simpler than football",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "doctors highly esteemed",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "government position",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "stable company position",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "nurse",
+        "tail": "callers' well-being",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "routine job",
+        "count": 1
+      },
+      {
+        "head": "artist",
+        "tail": "skin type",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "cultural consistency",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 5
+      },
+      {
+        "label": "algeria",
+        "frequency": 3
+      },
+      {
+        "label": "religious and national events",
+        "frequency": 1
+      },
+      {
+        "label": "exquisite textile of maharashtra",
+        "frequency": 1
+      },
+      {
+        "label": "united states",
+        "frequency": 1
+      },
+      {
+        "label": "unique and impractical",
+        "frequency": 1
+      },
+      {
+        "label": "soccer",
+        "frequency": 1
+      },
+      {
+        "label": "simpler than football",
+        "frequency": 1
+      },
+      {
+        "label": "doctors highly esteemed",
+        "frequency": 1
+      },
+      {
+        "label": "government position",
+        "frequency": 1
+      },
+      {
+        "label": "stable company position",
+        "frequency": 1
+      },
+      {
+        "label": "nurse",
+        "frequency": 1
+      },
+      {
+        "label": "callers' well-being",
+        "frequency": 1
+      },
+      {
+        "label": "routine job",
+        "frequency": 1
+      },
+      {
+        "label": "artist",
+        "frequency": 1
+      },
+      {
+        "label": "skin type",
+        "frequency": 1
+      },
+      {
+        "label": "photographer",
+        "frequency": 1
+      },
+      {
+        "label": "cultural consistency",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 45,
+    "name": "produces",
+    "coverage": 11,
+    "constituent_lenses": [
+      "produces"
+    ],
+    "lens_ids": [
+      47
+    ],
+    "edge_types": [
+      "produces",
+      "produced in"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "handloom textiles",
+        "count": 3
+      },
+      {
+        "head": "food",
+        "tail": "baikunthpur",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "dhurrie",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "jharkhand border area",
+        "count": 1
+      },
+      {
+        "head": "santhal community",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "salem region",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "tripura",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "tanchoi",
+        "tail": "intricate patterns",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 11
+      },
+      {
+        "label": "handloom textiles",
+        "frequency": 3
+      },
+      {
+        "label": "baikunthpur",
+        "frequency": 1
+      },
+      {
+        "label": "dhurrie",
+        "frequency": 1
+      },
+      {
+        "label": "jharkhand border area",
+        "frequency": 1
+      },
+      {
+        "label": "santhal community",
+        "frequency": 1
+      },
+      {
+        "label": "salem region",
+        "frequency": 1
+      },
+      {
+        "label": "tripura",
+        "frequency": 1
+      },
+      {
+        "label": "tanchoi",
+        "frequency": 1
+      },
+      {
+        "label": "intricate patterns",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 46,
+    "name": "spend time together",
+    "coverage": 11,
+    "constituent_lenses": [
+      "spend time together"
+    ],
+    "lens_ids": [
+      48
+    ],
+    "edge_types": [
+      "spend time together",
+      "spend time with",
+      "spends time",
+      "spend time"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "food",
+        "tail": "food",
+        "count": 2
+      },
+      {
+        "head": "algeria",
+        "tail": "on weekends",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "brothers",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "egyptian fathers",
+        "tail": "algeria",
+        "count": 1
+      },
+      {
+        "head": "day off",
+        "tail": "at home",
+        "count": 1
+      },
+      {
+        "head": "children in nile valley",
+        "tail": "playing at home",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "watching tv together",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "developing landscape",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 7
+      },
+      {
+        "label": "algeria",
+        "frequency": 4
+      },
+      {
+        "label": "photographer",
+        "frequency": 2
+      },
+      {
+        "label": "on weekends",
+        "frequency": 1
+      },
+      {
+        "label": "brothers",
+        "frequency": 1
+      },
+      {
+        "label": "egyptian fathers",
+        "frequency": 1
+      },
+      {
+        "label": "day off",
+        "frequency": 1
+      },
+      {
+        "label": "at home",
+        "frequency": 1
+      },
+      {
+        "label": "children in nile valley",
+        "frequency": 1
+      },
+      {
+        "label": "playing at home",
+        "frequency": 1
+      },
+      {
+        "label": "watching tv together",
+        "frequency": 1
+      },
+      {
+        "label": "developing landscape",
+        "frequency": 1
+      }
+    ]
+  },
+  {
+    "super_lens_id": 47,
+    "name": "have",
+    "coverage": 10,
+    "constituent_lenses": [
+      "have"
+    ],
+    "lens_ids": [
+      49
+    ],
+    "edge_types": [
+      "have",
+      "should have"
+    ],
+    "top_entity_pairs": [
+      {
+        "head": "brothers",
+        "tail": "brother-sister relationship",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "lightweight and vibrant appeal",
+        "count": 1
+      },
+      {
+        "head": "tanchoi",
+        "tail": "rich textures",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "luxurious texture",
+        "count": 1
+      },
+      {
+        "head": "food",
+        "tail": "gas pump attendants",
+        "count": 1
+      },
+      {
+        "head": "some areas",
+        "tail": "two types of gas pumps",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "popular family tv show",
+        "count": 1
+      },
+      {
+        "head": "algeria",
+        "tail": "regular meetings",
+        "count": 1
+      },
+      {
+        "head": "photographer",
+        "tail": "food",
+        "count": 1
+      },
+      {
+        "head": "reputable wedding photographer",
+        "tail": "physical exam",
+        "count": 1
+      }
+    ],
+    "top_entities": [
+      {
+        "label": "food",
+        "frequency": 4
+      },
+      {
+        "label": "algeria",
+        "frequency": 2
+      },
+      {
+        "label": "brothers",
+        "frequency": 1
+      },
+      {
+        "label": "brother-sister relationship",
+        "frequency": 1
+      },
+      {
+        "label": "lightweight and vibrant appeal",
+        "frequency": 1
+      },
+      {
+        "label": "tanchoi",
+        "frequency": 1
+      },
+      {
+        "label": "rich textures",
+        "frequency": 1
+      },
+      {
+        "label": "luxurious texture",
+        "frequency": 1
+      },
+      {
+        "label": "gas pump attendants",
+        "frequency": 1
+      },
+      {
+        "label": "some areas",
+        "frequency": 1
+      },
+      {
+        "label": "two types of gas pumps",
+        "frequency": 1
+      },
+      {
+        "label": "popular family tv show",
+        "frequency": 1
+      },
+      {
+        "label": "regular meetings",
+        "frequency": 1
+      },
+      {
+        "label": "photographer",
+        "frequency": 1
+      },
+      {
+        "label": "reputable wedding photographer",
+        "frequency": 1
+      },
+      {
+        "label": "physical exam",
+        "frequency": 1
+      }
+    ]
+  }
+]

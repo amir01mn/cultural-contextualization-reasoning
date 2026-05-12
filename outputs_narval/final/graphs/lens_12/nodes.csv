@@ -1,0 +1,189 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,madhubani painting on textiles,3,bihar,unknown,diwali,1
+2,mythological and natural themes,2,bihar,unknown,diwali,1
+3,culturally significant,5,odisha,unknown,diwali,1
+4,odisha ikat,2,odisha,unknown,diwali,1
+5,teliarumal,3,telangana,unknown,diwali,1
+6,pachhra,3,tripura,unknown,diwali,1
+7,integral part of the traditional attire,2,tripura,unknown,diwali,1
+8,chamba rumal,3,chandigarh,unknown,diwali,1
+9,scenes from mythology and daily life,4,chandigarh,unknown,diwali,1
+10,bonalu dance,3,andhra pradesh,unknown,diwali,1
+11,goddess mahakali,5,andhra pradesh,unknown,diwali,1
+12,rikham pada,3,arunachal pradesh,unknown,diwali,1
+13,ancestor,5,arunachal pradesh,unknown,diwali,1
+14,bardo chham,3,arunachal pradesh,unknown,diwali,1
+15,victory of good over evil,5,arunachal pradesh,unknown,diwali,1
+16,ali ai ligang dance,3,mising tribe,unknown,diwali,1
+17,deities,2,assam,unknown,diwali,1
+18,chakhela dance,3,assam,unknown,diwali,1
+19,love and valor,4,assam,unknown,diwali,1
+20,tiwa damahi dance,3,assam,unknown,diwali,2
+21,gratitude,4,assam,unknown,diwali,3
+22,chomangkan dance,3,karbi tribe,unknown,diwali,1
+23,life and death,4,assam,unknown,diwali,1
+24,sohar-khilona,3,bihar,unknown,diwali,2
+25,joy,4,bihar,unknown,diwali,1
+26,blessings,4,bihar,unknown,diwali,1
+27,kajri,3,bihar,unknown,diwali,1
+28,longing and love,2,bihar,unknown,diwali,1
+29,bamar naach,3,bihar,unknown,diwali,1
+30,raai dance,3,chhattisgarh,unknown,diwali,1
+31,leja dance,3,chhattisgarh,unknown,diwali,1
+32,emotions,5,chhattisgarh,unknown,diwali,1
+33,rai dance,3,chhattisgarh,unknown,diwali,1
+34,joy and festivity,5,chhattisgarh,unknown,diwali,1
+35,dhalo,3,goa,unknown,diwali,1
+36,graceful movements,5,goa,unknown,diwali,1
+37,tipping,5,general,unknown,culturebank,1
+38,gratitude,5,general,unknown,culturebank,2
+39,language,2,general,unknown,culturebank,1
+40,enthusiasm,2,general,unknown,culturebank,2
+41,playfulness,2,general,unknown,culturebank,1
+42,familiarity,2,general,unknown,culturebank,1
+43,love,2,general,unknown,culturebank,2
+44,affection,2,general,unknown,culturebank,2
+45,support,2,general,unknown,culturebank,1
+46,mixed feelings,2,general,unknown,culturebank,1
+47,rudeness,2,general,unknown,culturebank,2
+48,friendliness,2,general,unknown,culturebank,1
+49,admirations,2,general,unknown,culturebank,1
+50,frustration,2,general,unknown,culturebank,9
+51,parisians,2,general,unknown,culturebank,1
+52,patriotism,2,general,unknown,culturebank,2
+53,flag display,4,general,unknown,culturebank,1
+54,flag emoji,4,general,unknown,culturebank,1
+55,phrases like 'for our freedom',4,general,unknown,culturebank,1
+56,economy,2,general,unknown,culturebank,1
+57,capitalism,3,general,unknown,culturebank,1
+58,general,2,general,unknown,culturebank,1
+59,admiration,2,general,unknown,culturebank,1
+60,united states,1,general,unknown,culturebank,2
+61,surprise,2,general,unknown,culturebank,4
+62,shock,2,general,unknown,culturebank,4
+63,amazement,2,general,unknown,culturebank,1
+64,cultural differences and unfamiliar practices,2,general,unknown,culturebank,1
+65,frustration,4,general,unknown,culturebank,1
+66,ambition,4,general,unknown,culturebank,1
+67,annoyance,4,general,unknown,culturebank,1
+68,emotions,2,general,unknown,culturebank,1
+69,appreciation,5,general,unknown,culturebank,1
+70,compliments,2,general,unknown,culturebank,1
+71,thanks,2,general,unknown,culturebank,1
+72,smiling,2,general,unknown,culturebank,1
+73,making eye contact,2,general,unknown,culturebank,1
+74,offering support,2,general,unknown,culturebank,1
+75,friendly behaviors,2,general,unknown,culturebank,1
+76,card payments,5,general,unknown,culturebank,1
+77,efficiency,4,general,unknown,culturebank,1
+78,confusion,2,united states,unknown,culturebank,5
+79,disapproval,2,united states,unknown,culturebank,1
+80,united states,2,general,unknown,culturebank,5
+81,funeral ceremonies,4,general,unknown,culturebank,2
+82,financial contributions,2,general,unknown,culturebank,1
+83,comments,4,general,unknown,culturebank,1
+84,"positive comments, compliments, and sarcasm",2,general,unknown,culturebank,1
+85,embarrassment,2,general,unknown,culturebank,1
+86,criticism,2,general,unknown,culturebank,1
+87,lack of access to free clean water and bathrooms,2,general,unknown,culturebank,1
+88,concern,2,general,unknown,culturebank,1
+89,gas prices,3,general,unknown,culturebank,1
+90,dissatisfaction,2,general,unknown,culturebank,1
+91,appreciation,2,general,unknown,culturebank,2
+92,healthcare system,2,general,unknown,culturebank,1
+93,pride,1,united states,unknown,culturebank,2
+94,national identity,3,united states,unknown,culturebank,1
+95,patriotism,3,united states,unknown,culturebank,1
+96,shared ideals,3,united states,unknown,culturebank,1
+97,expressions of emotion,4,general,unknown,culturebank,1
+98,romantic relationships,2,general,unknown,culturebank,1
+99,chicken salt,2,general,unknown,culturebank,1
+100,affordability,2,general,unknown,culturebank,1
+101,perceived high prices,2,general,unknown,culturebank,1
+102,discrepancy between price tags and actual costs,2,general,unknown,culturebank,1
+103,superiority,2,general,unknown,culturebank,1
+104,diversity,2,general,unknown,culturebank,1
+105,mother's day,2,general,unknown,culturebank,1
+106,"express love, gratitude, and make up for mistakes",2,general,unknown,culturebank,1
+107,romanticize,2,general,unknown,culturebank,1
+108,quality of life,4,general,unknown,culturebank,1
+109,work-life balance,4,general,unknown,culturebank,1
+110,cultural diversity,4,general,unknown,culturebank,1
+111,confusion or dislike,2,general,unknown,culturebank,1
+112,door gaps,2,general,unknown,culturebank,1
+113,patriotic manner,2,general,unknown,culturebank,1
+114,disbelief,2,general,unknown,culturebank,1
+115,ignorance,2,general,unknown,culturebank,1
+116,frustration,1,general,unknown,culturebank,1
+117,treated as a whole person,1,general,unknown,culturebank,1
+118,american culture,1,general,unknown,culturebank,1
+119,feelings,1,general,unknown,culturebank,1
+120,love,3,general,unknown,culturebank,1
+121,affection,3,general,unknown,culturebank,1
+122,disagreement,3,general,unknown,culturebank,1
+123,conflict,3,general,unknown,culturebank,1
+124,in-law relationships,2,general,unknown,culturebank,1
+125,opinions,2,general,unknown,culturebank,1
+126,experiences,2,general,unknown,culturebank,1
+127,political views,3,general,unknown,culturebank,1
+128,mental health discussions,3,general,unknown,culturebank,1
+129,awe,2,general,unknown,culturebank,1
+130,express,2,general,unknown,culturebank,1
+131,social media,1,general,unknown,culturebank,3
+132,personal thoughts,5,general,unknown,culturebank,1
+133,playful language,5,general,unknown,culturebank,1
+134,differences,5,general,unknown,culturebank,1
+135,dress code,4,general,unknown,culturebank,1
+136,workplace,2,general,unknown,culturebank,1
+137,professionalism,2,general,unknown,culturebank,1
+138,comfort and professionalism,2,general,unknown,culturebank,1
+139,politeness,2,general,unknown,culturebank,1
+140,apology,2,general,unknown,culturebank,1
+141,reassurance,2,general,unknown,culturebank,1
+142,apologizing,2,general,unknown,culturebank,1
+143,patriotic displays,3,general,unknown,culturebank,1
+144,national pride,5,general,unknown,culturebank,1
+145,american,1,general,unknown,culturebank,1
+146,impoliteness,2,general,unknown,culturebank,1
+147,misunderstandings,2,general,unknown,culturebank,1
+148,negative stereotypes and behaviors,2,general,unknown,culturebank,1
+149,perceived cultural differences and misunderstandings,2,general,unknown,culturebank,1
+150,respect,5,united states,unknown,culturebank,1
+151,kindness,5,united states,unknown,culturebank,1
+152,excitement,2,general,unknown,culturebank,1
+153,amusement,2,general,unknown,culturebank,1
+154,wonder or surprise,2,general,unknown,culturebank,1
+155,pride,3,general,unknown,culturebank,1
+156,excitement,3,general,unknown,culturebank,1
+157,concerns,3,general,unknown,culturebank,1
+158,living in texas,2,general,unknown,culturebank,1
+159,culture,1,europe,unknown,culturebank,1
+160,admiration and appreciation,2,general,unknown,culturebank,1
+161,express dissatisfaction,4,general,unknown,culturebank,1
+162,express gratitude,4,general,unknown,culturebank,1
+163,apologize,4,general,unknown,culturebank,1
+164,complain,4,general,unknown,culturebank,1
+165,avoid confrontation,4,general,unknown,culturebank,1
+166,use sarcasm,4,general,unknown,culturebank,1
+167,customer service interactions and social situations,2,general,unknown,culturebank,1
+168,greetings,2,general,unknown,culturebank,1
+169,respect,2,general,unknown,culturebank,1
+170,apologies,2,general,unknown,culturebank,1
+171,frustration,3,general,unknown,culturebank,1
+172,high cost of raising children,4,general,unknown,culturebank,1
+173,displeasure,2,general,unknown,culturebank,2
+174,ugliness,2,general,unknown,culturebank,1
+175,things,2,general,unknown,culturebank,1
+176,admiration,4,general,unknown,culturebank,1
+177,support,4,general,unknown,culturebank,1
+178,expresses,2,general,unknown,culturebank,1
+179,high cost and perceived poor quality of food,2,general,unknown,culturebank,1
+180,american food culture,2,general,unknown,culturebank,1
+181,annoyance,2,general,unknown,culturebank,1
+182,settings,2,general,unknown,culturebank,1
+183,sailor,1,sailor,unknown,candle,1
+184,tie,5,sailor,unknown,candle,1
+185,artist,1,artist,unknown,candle,1
+186,work,1,artist,unknown,candle,1
+187,audience,1,artist,unknown,candle,1

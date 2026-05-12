@@ -1,0 +1,686 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "food",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 38
+    },
+    {
+      "id": 2,
+      "label": "breakfast",
+      "level": 2,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "ramadan tradition",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "cultural practice",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "traditional dishes",
+      "level": 1,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 4
+    },
+    {
+      "id": 6,
+      "label": "eid al-adha celebration",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "childhood experience",
+      "level": 3,
+      "cultural_group": "algeria",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "lentils",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "rice",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "algeria",
+      "level": 1,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 13
+    },
+    {
+      "id": 11,
+      "label": "writing the book",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "marriage preparation",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "preparation",
+      "level": 2,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "eid al-adha preparations",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "ramadan rituals",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "preparation for religious holidays",
+      "level": 3,
+      "cultural_group": "egypt",
+      "domain": "unknown",
+      "source_dataset": "arabculture",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "bihu festival",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "tamil nadu's traditional textile repertoire",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "tamil nadu's rich textile tradition",
+      "level": 3,
+      "cultural_group": "tamil nadu",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "cultural practices of arunachal pradesh",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "rabha dance",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "assam's cultural heritage",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "diwali celebrations in assam",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "assam culture",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "karbi dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "weekly routine",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "camel",
+      "level": 5,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "popular children's song",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "insect consumption",
+      "level": 3,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "potty training",
+      "level": 4,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "judge's duties",
+      "level": 3,
+      "cultural_group": "judge",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "cohort",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "instruction",
+      "level": 3,
+      "cultural_group": "teacher",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "routine work",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "round",
+      "level": 3,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "treatment",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "set plan",
+      "level": 3,
+      "cultural_group": "dentist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "shaving",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "preparation process",
+      "level": 3,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "attorney",
+      "level": 1,
+      "cultural_group": "attorney",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "receptionist",
+      "level": 2,
+      "cultural_group": "receptionist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "healthcare practice",
+      "level": 3,
+      "cultural_group": "receptionist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "food",
+      "target_label": "breakfast",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "source_label": "traditional dishes",
+      "target_label": "eid al-adha celebration",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 7,
+      "source_label": "food",
+      "target_label": "childhood experience",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 8,
+      "target": 1,
+      "source_label": "lentils",
+      "target_label": "food",
+      "relation_type": "part_of_meal",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 9,
+      "target": 1,
+      "source_label": "rice",
+      "target_label": "food",
+      "relation_type": "part_of_meal",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "is_part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 11,
+      "target": 12,
+      "source_label": "writing the book",
+      "target_label": "marriage preparation",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 13,
+      "target": 10,
+      "source_label": "preparation",
+      "target_label": "algeria",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 14,
+      "source_label": "food",
+      "target_label": "eid al-adha preparations",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 15,
+      "source_label": "food",
+      "target_label": "ramadan rituals",
+      "relation_type": "is_part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 16,
+      "source_label": "food",
+      "target_label": "preparation for religious holidays",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "arabculture"
+    },
+    {
+      "source": 1,
+      "target": 17,
+      "source_label": "food",
+      "target_label": "bihu festival",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "source_label": "food",
+      "target_label": "traditional dishes",
+      "relation_type": "part_of",
+      "weight": 2,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 18,
+      "source_label": "food",
+      "target_label": "tamil nadu's traditional textile repertoire",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 19,
+      "source_label": "food",
+      "target_label": "tamil nadu's rich textile tradition",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 10,
+      "source_label": "food",
+      "target_label": "algeria",
+      "relation_type": "part_of",
+      "weight": 7,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 20,
+      "source_label": "food",
+      "target_label": "cultural practices of arunachal pradesh",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "rabha dance",
+      "target_label": "assam's cultural heritage",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 23,
+      "source_label": "food",
+      "target_label": "diwali celebrations in assam",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 24,
+      "source_label": "food",
+      "target_label": "assam culture",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "source_label": "food",
+      "target_label": "karbi dance",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 26,
+      "source_label": "algeria",
+      "target_label": "weekly routine",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 27,
+      "target": 5,
+      "source_label": "camel",
+      "target_label": "traditional dishes",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 28,
+      "target": 10,
+      "source_label": "popular children's song",
+      "target_label": "algeria",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 29,
+      "target": 10,
+      "source_label": "insect consumption",
+      "target_label": "algeria",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 30,
+      "target": 31,
+      "source_label": "potty training",
+      "target_label": "judge's duties",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 10,
+      "target": 32,
+      "source_label": "algeria",
+      "target_label": "cohort",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 35,
+      "target": 1,
+      "source_label": "round",
+      "target_label": "food",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 36,
+      "target": 37,
+      "source_label": "treatment",
+      "target_label": "set plan",
+      "relation_type": "is_part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 38,
+      "target": 39,
+      "source_label": "shaving",
+      "target_label": "preparation process",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 1,
+      "target": 40,
+      "source_label": "food",
+      "target_label": "attorney",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 41,
+      "target": 42,
+      "source_label": "receptionist",
+      "target_label": "healthcare practice",
+      "relation_type": "part_of",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,culture,2,algeria,unknown,arabculture,5
+2,dignified burial,5,algeria,unknown,arabculture,1
+3,algerian culture,2,algeria,unknown,arabculture,1
+4,visiting the grave,4,algeria,unknown,arabculture,1
+5,mourning rituals,3,algeria,unknown,arabculture,1
+6,a song,3,algeria,unknown,arabculture,1
+7,dance,2,algeria,unknown,arabculture,1
+8,reading stories before sleep,4,egypt,unknown,arabculture,1
+9,cultural practice,2,egypt,unknown,arabculture,1
+10,venkatagiri cotton,3,andhra pradesh,unknown,diwali,1
+11,textiles,2,andhra pradesh,unknown,diwali,2
+12,apatani jacket and scarf,3,apatani tribe,unknown,diwali,1
+13,disciplined aesthetic,4,apatani tribe,unknown,diwali,1
+14,tangsa lungis,3,tangsa community,unknown,diwali,1
+15,tribal identity,5,tangsa community,unknown,diwali,1
+16,craftsmanship,5,tangsa community,unknown,diwali,2
+17,nyishi textile,3,arunachal pradesh,unknown,diwali,1
+18,cultural heritage,2,arunachal pradesh,unknown,diwali,5
+19,gamosa,3,assam,unknown,diwali,1
+20,assamese culture,1,assam,unknown,diwali,1
+21,riha,3,assam,unknown,diwali,1
+22,religious and cultural ceremonies,2,assam,unknown,diwali,1
+23,dhokona,5,rabha tribe,unknown,diwali,1
+24,rich cultural heritage,2,assam,unknown,diwali,2
+25,altar cloths,3,goa,unknown,diwali,1
+26,liturgical vestments,3,goa,unknown,diwali,1
+27,goa's christian heritage,2,goa,unknown,diwali,1
+28,coastal heritage,4,goa,unknown,diwali,1
+29,cultural diversity,4,goa,unknown,diwali,1
+30,vibrant colors,5,gujarat,unknown,diwali,1
+31,intricate patterns,5,gujarat,unknown,diwali,2
+32,motifs,5,gujarat,unknown,diwali,1
+33,patola,2,gujarat,unknown,diwali,1
+34,phulkari,3,haryana,unknown,diwali,3
+35,chope,3,haryana,unknown,diwali,1
+36,cotton shawls,4,haryana,unknown,diwali,1
+37,weaving traditions,2,haryana,unknown,diwali,1
+38,thapada,3,himachal pradesh,unknown,diwali,1
+39,embroidery styles,5,himachal pradesh,unknown,diwali,1
+40,kinnauri shawl,3,himachal pradesh,unknown,diwali,2
+41,intricate designs,5,himachal pradesh,unknown,diwali,1
+42,rich cultural heritage,5,himachal pradesh,unknown,diwali,1
+43,chamba shawl,3,himachal pradesh,unknown,diwali,1
+44,weaving excellence,2,himachal pradesh,unknown,diwali,1
+45,balaramapuram handloom,3,kerala,unknown,diwali,1
+46,traditional aesthetic of kerala's weaving heritage,2,kerala,unknown,diwali,1
+47,kasaragod saree,3,kerala,unknown,diwali,1
+48,weaving techniques,5,kerala,unknown,diwali,1
+49,chanderi saree,3,madhya pradesh,unknown,diwali,1
+50,royal influences,5,madhya pradesh,unknown,diwali,1
+51,batik print,4,madhya pradesh,unknown,diwali,1
+52,cultural tapestry of madhya pradesh,2,madhya pradesh,unknown,diwali,1
+53,nandana print,3,madhya pradesh,unknown,diwali,1
+54,local folklore,5,madhya pradesh,unknown,diwali,1
+55,himroo fabric,3,maharashtra,unknown,diwali,1
+56,solapur chaddar,5,maharashtra,unknown,diwali,1
+57,textiles,4,maharashtra,unknown,diwali,1
+58,kolhapuri sari,3,maharashtra,unknown,diwali,1
+59,maharashtra,1,maharashtra,unknown,diwali,1
+60,phanek,3,manipur,unknown,diwali,1
+61,cultural identity of the meitei community,2,manipur,unknown,diwali,1
+62,leirum phee,3,manipur,unknown,diwali,1
+63,meitei marriage ceremonies,4,manipur,unknown,diwali,1
+64,samserla,5,meghalaya,unknown,diwali,1
+65,traditional attire,4,meghalaya,unknown,diwali,1
+66,pawndum,5,mizoram,unknown,diwali,1
+67,cultural significance,5,mizoram,unknown,diwali,1
+68,ngotekherh,3,mizoram,unknown,diwali,1
+69,cultural significance,4,mizoram,unknown,diwali,1
+70,hmaram,3,mizoram,unknown,diwali,1
+71,heritage,2,mizoram,unknown,diwali,1
+72,tsüngkotepsü,3,nagaland,unknown,diwali,1
+73,patterns,3,nagaland,unknown,diwali,1
+74,shawl,5,nagaland,unknown,diwali,1
+75,bomkai saree,3,odisha,unknown,diwali,1
+76,region's rich heritage,5,odisha,unknown,diwali,1
+77,kotpad handloom,5,odisha,unknown,diwali,1
+78,tribal culture,4,odisha,unknown,diwali,1
+79,chola,3,punjab,unknown,diwali,1
+80,simplicity and elegance,5,punjab,unknown,diwali,1
+81,parandi,5,punjab,unknown,diwali,1
+82,vibrant and decorative crafts,2,punjab,unknown,diwali,1
+83,ajrakh,3,rajasthan,unknown,diwali,1
+84,block printing,4,rajasthan,unknown,diwali,1
+85,rich textile heritage,2,rajasthan,unknown,diwali,1
+86,tibetan influences,3,sikkim,unknown,diwali,1
+87,bhutia woolen weaves,2,sikkim,unknown,diwali,1
+88,arani silk saree,3,tamil nadu,unknown,diwali,1
+89,skilled craftsmanship,5,tamil nadu,unknown,diwali,1
+90,thirubuvanam silk saree,3,tamil nadu,unknown,diwali,1
+91,traditional weaving techniques,4,tamil nadu,unknown,diwali,1
+92,toda embroidery,3,tamil nadu,unknown,diwali,1
+93,siddipet gollabhama sarees,5,telangana,unknown,diwali,1
+94,rural ethos,5,telangana,unknown,diwali,1
+95,gongadi blanket,4,kuruma community,unknown,diwali,1
+96,pastoral lifestyle,2,telangana,unknown,diwali,1
+97,pichhora,3,uttarakhand,unknown,diwali,1
+98,religious ceremonies,4,uttarakhand,unknown,diwali,2
+99,weddings,4,uttarakhand,unknown,diwali,1
+100,festivals,4,uttarakhand,unknown,diwali,2
+101,cotton weaving,4,uttarakhand,unknown,diwali,1
+102,kullu shawls,3,uttarakhand,unknown,diwali,2
+103,tradition,5,uttarakhand,unknown,diwali,1
+104,contemporary fashion,5,uttarakhand,unknown,diwali,1
+105,chikankari,3,uttar pradesh,unknown,diwali,1
+106,mughal artistic influences,5,uttar pradesh,unknown,diwali,1
+107,jamdani,5,uttar pradesh,unknown,diwali,1
+108,regional weaving traditions,5,uttar pradesh,unknown,diwali,1
+109,baluchari sari,5,west bengal,unknown,diwali,1
+110,mythological scenes,3,west bengal,unknown,diwali,1
+111,kantha embroidery,3,rural women in west bengal,unknown,diwali,1
+112,artisans' surroundings,5,rural women in west bengal,unknown,diwali,1
+113,imagination,5,rural women in west bengal,unknown,diwali,1
+114,rural women in west bengal,2,west bengal,unknown,diwali,1
+115,traditional weaving,4,andaman and nicobar islands,unknown,diwali,1
+116,cultural significance,2,chandigarh,unknown,diwali,1
+117,khes,3,chandigarh,unknown,diwali,1
+118,utilitarian yet artistic weaving practices,5,chandigarh,unknown,diwali,1
+119,chikankari embroidery,3,delhi,unknown,diwali,1
+120,aesthetic sensibilities,5,delhi,unknown,diwali,1
+121,namda,3,jammu and kashmir,unknown,diwali,1
+122,textile traditions,4,jammu and kashmir,unknown,diwali,1
+123,pashmina wool,5,ladakh,unknown,diwali,1
+124,region's rich weaving traditions,2,ladakh,unknown,diwali,1
+125,coir weaving,4,lakshadweep,unknown,diwali,1
+126,resourcefulness,5,lakshadweep,unknown,diwali,1
+127,pondicherry handloom fabrics,5,puducherry,unknown,diwali,1
+128,weaving traditions,5,puducherry,unknown,diwali,1
+129,palampore prints,5,puducherry,unknown,diwali,1
+130,rich history in textile trade,2,puducherry,unknown,diwali,1
+131,tappeta gullu,3,andhra pradesh,unknown,diwali,1
+132,rain god,4,andhra pradesh,unknown,diwali,1
+133,veeranatyam,3,andhra pradesh,unknown,diwali,1
+134,religious significance,2,andhra pradesh,unknown,diwali,1
+135,bhagavata mela,3,andhra pradesh,unknown,diwali,1
+136,religious festivals,2,andhra pradesh,unknown,diwali,3
+137,kalapam,3,andhra pradesh,unknown,diwali,1
+138,moral and philosophical themes,2,andhra pradesh,unknown,diwali,1
+139,danda rasaka,3,andhra pradesh,unknown,diwali,2
+140,martial traditions,4,andhra pradesh,unknown,diwali,1
+141,martial readiness,5,andhra pradesh,unknown,diwali,1
+142,community defense,5,andhra pradesh,unknown,diwali,1
+143,gondali,3,andhra pradesh,unknown,diwali,1
+144,ritualistic dance,2,andhra pradesh,unknown,diwali,1
+145,aji lhamu,3,arunachal pradesh,unknown,diwali,1
+146,tibetan ramayana,4,arunachal pradesh,unknown,diwali,1
+147,wancho dance,3,arunachal pradesh,unknown,diwali,1
+148,oriah festival,4,arunachal pradesh,unknown,diwali,1
+149,hiirii khaniing,3,arunachal pradesh,unknown,diwali,1
+150,rituals and festivals,2,arunachal pradesh,unknown,diwali,2
+151,rikham pada,3,nishi tribe,unknown,diwali,1
+152,community bonding,4,arunachal pradesh,unknown,diwali,1
+153,cultural heritage,4,arunachal pradesh,unknown,diwali,2
+154,bihu dance,3,assam,unknown,diwali,1
+155,rongali bihu festival,4,assam,unknown,diwali,1
+156,bhortal nritya,3,assam,unknown,diwali,1
+157,cymbals,4,assam,unknown,diwali,1
+158,chakhela dance,3,assam,unknown,diwali,1
+159,wangala dance,3,assam,unknown,diwali,1
+160,post-harvest season,4,assam,unknown,diwali,1
+161,hojagiri dance,3,reang community,unknown,diwali,1
+162,skill and grace,4,assam,unknown,diwali,1
+163,traditional drum-based dances,4,assam,unknown,diwali,1
+164,cultural events,2,assam,unknown,diwali,1
+165,apsara-sabah,3,assam,unknown,diwali,1
+166,celestial beings,4,assam,unknown,diwali,1
+167,chomangkan festival,4,karbi,unknown,diwali,1
+168,banjar kekan,3,karbi,unknown,diwali,1
+169,barpeta's bhortal nritya,3,assam,unknown,diwali,2
+170,cymbals,2,assam,unknown,diwali,2
+171,barpeta's cultural heritage,2,assam,unknown,diwali,2
+172,dhuliya dance,3,assam,unknown,diwali,2
+173,cultural and religious events,4,assam,unknown,diwali,2
+174,tea folk dances,3,assam,unknown,diwali,2
+175,chomangkan dance,3,karbi tribe,unknown,diwali,1
+176,life and death,4,assam,unknown,diwali,1
+177,deori bihu dance,3,assam,unknown,diwali,2
+178,harvest season,2,assam,unknown,diwali,3
+179,tiwa damahi dance,3,assam,unknown,diwali,2
+180,end of harvest,4,assam,unknown,diwali,2
+181,putola nach,3,assam,unknown,diwali,2
+182,mythological stories,4,assam,unknown,diwali,2
+183,kalaigaon dance,3,assam,unknown,diwali,2
+184,local traditions,4,assam,unknown,diwali,2
+185,goalparia dance,3,assam,unknown,diwali,2
+186,regional culture,4,assam,unknown,diwali,2
+187,dhuliya bhaona,3,assam,unknown,diwali,2
+188,rongker dance,3,karbi,unknown,diwali,2
+189,village welfare,4,assam,unknown,diwali,2
+190,baishagu dance,3,bodo,unknown,diwali,1
+191,new year,4,assam,unknown,diwali,1
+192,farkanti dance,3,assam,unknown,diwali,1
+193,depicting hunting and war victories,2,assam,unknown,diwali,1
+194,nagara naam,3,assam,unknown,diwali,1
+195,religious gatherings,4,assam,unknown,diwali,1
+196,moridhol dance,3,assam,unknown,diwali,1
+197,rhythmic patterns,4,assam,unknown,diwali,1
+198,kamrupi lokgeet dance,3,assam,unknown,diwali,1
+199,local life,4,assam,unknown,diwali,1
+200,jhumar,3,bihar,unknown,diwali,1
+201,joy and nature,2,bihar,unknown,diwali,1
+202,natua,3,bihar,unknown,diwali,1
+203,festivals,2,bihar,unknown,diwali,4
+204,dhobi naach,3,bihar,unknown,diwali,1
+205,gond naach,3,bihar,unknown,diwali,1
+206,bidapad naach,3,bihar,unknown,diwali,1
+207,kishan nritya,3,bihar,unknown,diwali,1
+208,maao-pata dance,3,chhattisgarh,unknown,diwali,1
+209,religious ceremony,2,chhattisgarh,unknown,diwali,1
+210,relo dance,3,chhattisgarh,unknown,diwali,1
+211,local traditions,2,chhattisgarh,unknown,diwali,1
+212,phag dance,3,chhattisgarh,unknown,diwali,1
+213,joy,2,chhattisgarh,unknown,diwali,1
+214,jharpat dance,3,chhattisgarh,unknown,diwali,1
+215,rains,4,chhattisgarh,unknown,diwali,1
+216,mandri dance,3,chhattisgarh,unknown,diwali,1
+217,murga nacha,3,chhattisgarh,unknown,diwali,1
+218,vasdeva dance,3,chhattisgarh,unknown,diwali,1
+219,mythological tales,2,chhattisgarh,unknown,diwali,1
+220,fugdi,3,goa,unknown,diwali,1
+221,dhalo,3,goa,unknown,diwali,1
+222,shigmo,3,goa,unknown,diwali,1
+223,goan culture,5,goa,unknown,diwali,1
+224,kunbi,3,goa,unknown,diwali,1
+225,tribal folk dance,4,goa,unknown,diwali,1
+226,tiatr,3,goa,unknown,diwali,1
+227,social issues,2,goa,unknown,diwali,1
+228,musall khel,3,goa,unknown,diwali,1
+229,hindu king,4,goa,unknown,diwali,1
+230,dhangar dance,3,goa,unknown,diwali,1
+231,folk god bira deva,4,goa,unknown,diwali,1
+232,folk dance,4,goa,unknown,diwali,1
+233,culture,1,goa,unknown,diwali,1
+234,american flag,1,general,unknown,culturebank,1
+235,patriotism,2,general,unknown,culturebank,2
+236,gratitude,2,general,unknown,culturebank,1
+237,settings,2,general,unknown,culturebank,3
+238,paris syndrome,3,general,unknown,culturebank,1
+239,cultural differences,2,general,unknown,culturebank,1
+240,culture shock,2,general,unknown,culturebank,1
+241,frustration,2,general,unknown,culturebank,1
+242,difficulty adjusting to new cultural norms,2,general,unknown,culturebank,1
+243,forgetting cultural differences,2,general,unknown,culturebank,1
+244,pledge of allegiance,2,general,unknown,culturebank,1
+245,greetings,2,united states,unknown,culturebank,2
+246,social norms and etiquette,2,general,unknown,culturebank,1
+247,amusement,2,general,unknown,culturebank,1
+248,communication,2,general,unknown,culturebank,1
+249,fit in,2,general,unknown,culturebank,1
+250,evolving playground design,4,general,unknown,culturebank,1
+251,changing perceptions of risk and safety,4,general,unknown,culturebank,1
+252,environmentally unfriendly,5,general,unknown,culturebank,1
+253,various methods for waste disposal,2,general,unknown,culturebank,1
+254,water pressure and toilet design,4,united states,unknown,culturebank,1
+255,perception,2,general,unknown,culturebank,1
+256,natural beauty,2,general,unknown,culturebank,1
+257,united states,1,general,unknown,culturebank,3
+258,workplace,4,general,unknown,culturebank,1
+259,expressions,2,general,unknown,culturebank,1
+260,cash,5,general,unknown,culturebank,1
+261,convenience,4,general,unknown,culturebank,1
+262,traceability,4,general,unknown,culturebank,1
+263,cold weather,2,general,unknown,culturebank,1
+264,winter,2,general,unknown,culturebank,1
+265,discomfort and complain,2,general,unknown,culturebank,1
+266,water,1,general,unknown,culturebank,1
+267,homelessness,1,general,unknown,culturebank,1
+268,societal issue,2,general,unknown,culturebank,1
+269,expressions of emotion,4,general,unknown,culturebank,1
+270,romantic relationships,2,general,unknown,culturebank,1
+271,shopping hours,4,general,unknown,culturebank,1
+272,store closures,4,general,unknown,culturebank,1
+273,differences in shopping hours and store closures on sundays,2,general,unknown,culturebank,1
+274,holidays,2,general,unknown,culturebank,1
+275,relaxation and enjoyment,2,general,unknown,culturebank,1
+276,misconceptions,2,general,unknown,culturebank,1
+277,ignorance,2,general,unknown,culturebank,1
+278,lack of multicultural understanding,2,general,unknown,culturebank,1
+279,mother's day,2,general,unknown,culturebank,1
+280,"express love, gratitude, and make up for mistakes",2,general,unknown,culturebank,1
+281,distinction,2,general,unknown,culturebank,1
+282,race,3,general,unknown,culturebank,1
+283,ethnicity,3,general,unknown,culturebank,1
+284,nationality,3,general,unknown,culturebank,1
+285,different cultural practices,2,general,unknown,culturebank,1
+286,shopping and business hours,2,general,unknown,culturebank,1
+287,normalcy,2,general,unknown,culturebank,1
+288,behaviors,2,general,unknown,culturebank,1
+289,personal freedom,2,united states,unknown,culturebank,1
+290,autonomy,2,united states,unknown,culturebank,1
+291,gun violence,4,general,unknown,culturebank,1
+292,higher crime rates,4,general,unknown,culturebank,1
+293,perception of higher crime rates,2,general,unknown,culturebank,1
+294,impact on safety and healthcare,2,general,unknown,culturebank,1
+295,apologizing,4,general,unknown,culturebank,1
+296,social interactions,2,general,unknown,culturebank,1
+297,respect,5,united states,unknown,culturebank,1
+298,united states,2,general,unknown,culturebank,2
+299,open and legal use,2,general,unknown,culturebank,1
+300,relaxed attitude,2,general,unknown,culturebank,1
+301,different names for things,2,general,unknown,culturebank,1
+302,investing in fans,2,general,unknown,culturebank,1
+303,following a summer schedule,2,general,unknown,culturebank,1
+304,summer,2,general,unknown,culturebank,1
+305,gucci belts,1,general,unknown,culturebank,1
+306,societal issues,1,general,unknown,culturebank,1
+307,safety,4,general,unknown,culturebank,1
+308,boy scouts,5,general,unknown,culturebank,1
+309,girl scouts,5,general,unknown,culturebank,1
+310,nature,2,general,unknown,culturebank,1
+311,nodding head,5,general,unknown,culturebank,1
+312,customer service interactions and social situations,2,general,unknown,culturebank,1
+313,confusion,2,general,unknown,culturebank,1
+314,capitalist society,5,united states,unknown,culturebank,1
+315,pursuit of happiness,2,general,unknown,culturebank,1
+316,struggles,2,general,unknown,culturebank,1
+317,perception of happiness and struggles,2,general,unknown,culturebank,1
+318,halloween,2,general,unknown,culturebank,1
+319,express gratitude and ensure safety,2,general,unknown,culturebank,1
+320,informal communication,2,general,unknown,culturebank,1
+321,societal and economic challenges,2,general,unknown,culturebank,1
+322,struggle,2,general,unknown,culturebank,1
+323,sweet drinks,4,drink,unknown,culturebank,1
+324,apologies,2,general,unknown,culturebank,1
+325,politeness,3,general,unknown,culturebank,1
+326,greeting,2,general,unknown,culturebank,1
+327,social norms,2,general,unknown,culturebank,1
+328,trucks,4,united states,unknown,culturebank,1
+329,cultural symbol,2,general,unknown,culturebank,1
+330,naming practices,2,general,unknown,culturebank,1
+331,air conditioning,5,general,unknown,culturebank,1
+332,france,1,general,unknown,culturebank,1
+333,architecture,4,general,unknown,culturebank,1
+334,cost-effective architecture,2,general,unknown,culturebank,1
+335,perception of beauty and ugliness,2,general,unknown,culturebank,1
+336,trucks,3,general,unknown,culturebank,1
+337,god,3,general,unknown,culturebank,1
+338,guns,3,general,unknown,culturebank,1
+339,obesity,3,general,unknown,culturebank,1
+340,stereotypes,2,general,unknown,culturebank,1
+341,sports,2,dz,unknown,blend,1
+342,covid-19 pandemic,4,dz,unknown,blend,1
+343,reflection,5,teacher,unknown,candle,1
+344,engagement,2,teacher,unknown,candle,1
+345,guidance,4,teacher,unknown,candle,1
+346,support,4,teacher,unknown,candle,1
+347,teacher,2,teacher,unknown,candle,1
+348,classroom discipline,4,teacher,unknown,candle,1
+349,teacher,1,teacher,unknown,candle,1
+350,banker,1,banker,unknown,candle,1
+351,rituals,2,banker,unknown,candle,2
+352,nurses' week,3,nurse,unknown,candle,1
+353,national celebration,2,nurse,unknown,candle,1
+354,performance review,4,nurse,unknown,candle,1
+355,campaign,4,politician,unknown,candle,1
+356,govern,4,politician,unknown,candle,1
+357,cutting ribbon,5,rituals,unknown,candle,1
+358,announcing new deals and consolidating power,2,politician,unknown,candle,1
+359,family portraits,4,photographer,unknown,candle,1
+360,professional photographer,4,photographer,unknown,candle,1
+361,ceremony,5,photographer,unknown,candle,1
+362,stationary,2,photographer,unknown,candle,1
+363,repeatedly confirmed,2,historian,unknown,candle,1
+364,artist,1,artist,unknown,candle,1
+365,performance,4,artist,unknown,candle,1

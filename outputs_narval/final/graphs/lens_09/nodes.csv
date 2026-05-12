@@ -1,0 +1,193 @@
+node_id,label,level,cultural_group,domain,source_dataset,frequency
+0,human,0,universal,identity,schema,1
+1,algerians,1,algeria,unknown,arabculture,6
+2,providing fruits when visiting a patient,2,algeria,unknown,arabculture,1
+3,children,2,algeria,unknown,arabculture,7
+4,performing their favorite traditions,2,algeria,unknown,arabculture,1
+5,maa'ayidah,5,algeria,unknown,arabculture,1
+6,family and acquaintances,2,algeria,unknown,arabculture,1
+7,banat,4,algeria,unknown,arabculture,1
+8,thigh meat,2,algeria,unknown,arabculture,1
+9,greetings,2,algeria,unknown,arabculture,2
+10,mokalat al-tawaleel lil-salam,2,algeria,unknown,arabculture,1
+11,avoiding provocations without talking,2,algeria,unknown,arabculture,1
+12,child,2,algeria,unknown,arabculture,1
+13,home,2,algeria,unknown,arabculture,1
+14,game,2,algeria,unknown,arabculture,1
+15,women,5,algeria,unknown,arabculture,1
+16,visiting the grave,4,algeria,unknown,arabculture,1
+17,a song,3,algeria,unknown,arabculture,1
+18,family,2,algeria,unknown,arabculture,2
+19,parents,2,algeria,unknown,arabculture,3
+20,outings,2,algeria,unknown,arabculture,1
+21,algeria,1,algeria,unknown,arabculture,8
+22,proverb,2,algeria,unknown,arabculture,1
+23,bench,5,algeria,unknown,arabculture,1
+24,sons,5,algeria,unknown,arabculture,1
+25,meeting,2,algeria,unknown,arabculture,1
+26,children,5,algeria,unknown,arabculture,3
+27,breakfast,4,algeria,unknown,arabculture,2
+28,milk with chocolate,2,algeria,unknown,arabculture,1
+29,kuskus,2,algeria,unknown,arabculture,1
+30,saher,2,algeria,unknown,arabculture,1
+31,mashwi,2,algeria,unknown,arabculture,1
+32,children,1,algeria,unknown,arabculture,2
+33,adults,1,algeria,unknown,arabculture,1
+34,making children happy,2,algeria,unknown,arabculture,1
+35,celebrating mawlid al-nabi,2,algeria,unknown,arabculture,1
+36,girls,4,algeria,unknown,arabculture,1
+37,spending time together,2,algeria,unknown,arabculture,1
+38,women,4,algeria,unknown,arabculture,1
+39,daughters,4,algeria,unknown,arabculture,1
+40,street,2,algeria,unknown,arabculture,1
+41,banat,5,algeria,unknown,arabculture,1
+42,meeting together,2,algeria,unknown,arabculture,1
+43,women,2,algeria,unknown,arabculture,4
+44,television,2,algeria,unknown,arabculture,1
+45,adherence to eating etiquette,2,algeria,unknown,arabculture,1
+46,eating,2,algeria,unknown,arabculture,2
+47,giving gifts,2,algeria,unknown,arabculture,1
+48,playing sports,2,algeria,unknown,arabculture,1
+49,optimal conditions for children,2,algeria,unknown,arabculture,1
+50,proverb,5,algeria,unknown,arabculture,3
+51,algeria,2,algeria,unknown,arabculture,4
+52,good deeds,2,algeria,unknown,arabculture,1
+53,egypt,1,egypt,unknown,arabculture,5
+54,baticha,2,egypt,unknown,arabculture,1
+55,youth,2,egypt,unknown,arabculture,1
+56,valentine's day,4,egypt,unknown,arabculture,1
+57,salam alaikum,5,egypt,unknown,arabculture,1
+58,entering transportation or a house or place,2,egypt,unknown,arabculture,1
+59,communication,2,egypt,unknown,arabculture,1
+60,interaction,2,egypt,unknown,arabculture,1
+61,bint,5,egypt,unknown,arabculture,1
+62,looking at her mouth,2,egypt,unknown,arabculture,1
+63,egypt,2,egypt,unknown,arabculture,1
+64,siblings,4,egypt,unknown,arabculture,1
+65,sharing,2,egypt,unknown,arabculture,1
+66,ahmed,5,egypt,unknown,arabculture,1
+67,egyptian breakfast,2,egypt,unknown,arabculture,1
+68,jamees,5,egypt,unknown,arabculture,1
+69,joafa,5,egypt,unknown,arabculture,1
+70,mohamed,5,egypt,unknown,arabculture,1
+71,sham al-nisim,2,egypt,unknown,arabculture,1
+72,watching lumbi,3,egypt,unknown,arabculture,1
+73,sixth of october,3,egypt,unknown,arabculture,1
+74,afтар,2,egypt,unknown,arabculture,1
+75,returning home after work/study,2,egypt,unknown,arabculture,1
+76,mohamed and his friends,2,egypt,unknown,arabculture,1
+77,playing,2,egypt,unknown,arabculture,1
+78,coffee,1,general,unknown,culturebank,1
+79,general,2,general,unknown,culturebank,6
+80,general,1,general,unknown,culturebank,2
+81,prices and availability,2,general,unknown,culturebank,1
+82,audience,4,general,unknown,culturebank,1
+83,employer,4,general,unknown,culturebank,1
+84,gratitude,2,general,unknown,culturebank,1
+85,a variety of breakfast options,2,general,unknown,culturebank,1
+86,friendliness,2,general,unknown,culturebank,1
+87,kindness,2,general,unknown,culturebank,1
+88,openness,2,general,unknown,culturebank,1
+89,display,2,general,unknown,culturebank,1
+90,customer,5,general,unknown,culturebank,4
+91,service staff,5,general,unknown,culturebank,1
+92,dissatisfaction,2,general,unknown,culturebank,1
+93,frustration,2,general,unknown,culturebank,1
+94,behavior,2,general,unknown,culturebank,1
+95,shopping,2,general,unknown,culturebank,1
+96,united states,1,general,unknown,culturebank,8
+97,peanut butter,1,general,unknown,culturebank,1
+98,smile,2,united states,unknown,culturebank,1
+99,eye contact,2,united states,unknown,culturebank,1
+100,people,5,united states,unknown,culturebank,1
+101,chicken burger,2,general,unknown,culturebank,1
+102,athleisure wear,2,general,unknown,culturebank,1
+103,crunchy and sweet breakfast,2,general,unknown,culturebank,1
+104,iced coffee,4,general,unknown,culturebank,1
+105,morning,2,general,unknown,culturebank,1
+106,american candy,4,general,unknown,culturebank,1
+107,pizza,4,united states,unknown,culturebank,1
+108,customers,5,general,unknown,culturebank,2
+109,free water,2,general,unknown,culturebank,1
+110,comments,4,general,unknown,culturebank,1
+111,"positive comments, compliments, and sarcasm",2,general,unknown,culturebank,1
+112,people,2,general,unknown,culturebank,3
+113,wine consumption,2,general,unknown,culturebank,1
+114,ice cream,4,general,unknown,culturebank,1
+115,customers,1,general,unknown,culturebank,1
+116,staff,1,general,unknown,culturebank,1
+117,serving,2,general,unknown,culturebank,1
+118,parties,2,general,unknown,culturebank,1
+119,leisure activities,2,general,unknown,culturebank,1
+120,grapes,2,general,unknown,culturebank,1
+121,intermission,2,general,unknown,culturebank,1
+122,breaks and socializing,2,general,unknown,culturebank,1
+123,pancakes,2,general,unknown,culturebank,1
+124,burgers,4,general,unknown,culturebank,1
+125,order eggs in various ways,2,general,unknown,culturebank,1
+126,chicken and waffles,4,general,unknown,culturebank,1
+127,employees,4,united states,unknown,culturebank,1
+128,during off work hours,2,general,unknown,culturebank,1
+129,maintaining cleanliness and manners,5,general,unknown,culturebank,1
+130,missing home,4,general,unknown,culturebank,1
+131,enjoying germany,4,general,unknown,culturebank,1
+132,germany,2,general,unknown,culturebank,1
+133,hiking,4,general,unknown,culturebank,1
+134,camping,4,general,unknown,culturebank,1
+135,picking berries,4,general,unknown,culturebank,1
+136,nature,2,general,unknown,culturebank,1
+137,expressing emotions,2,general,unknown,culturebank,1
+138,a wide range of emotions,2,general,unknown,culturebank,1
+139,embarrassment,2,united states,unknown,culturebank,1
+140,bodily functions and lifestyle,2,general,unknown,culturebank,1
+141,gift-giving,1,general,unknown,culturebank,1
+142,recipient,2,general,unknown,culturebank,1
+143,various sauces,2,general,unknown,culturebank,1
+144,sunflower seeds,2,general,unknown,culturebank,1
+145,pumpkin spice,4,united states,unknown,culturebank,1
+146,latte,4,united states,unknown,culturebank,1
+147,frappe,4,united states,unknown,culturebank,1
+148,united states,2,general,unknown,culturebank,1
+149,greeting,2,general,unknown,culturebank,1
+150,hugging,2,general,unknown,culturebank,1
+151,vacations,2,general,unknown,culturebank,1
+152,socializing,5,general,unknown,culturebank,1
+153,coffee shop,2,general,unknown,culturebank,1
+154,good news broadcasts,4,general,unknown,culturebank,1
+155,snacks,4,general,unknown,culturebank,1
+156,sports,2,dz,unknown,blend,3
+157,females,3,dz,unknown,blend,1
+158,leisure activity,2,dz,unknown,blend,1
+159,people from algeria,5,dz,unknown,blend,1
+160,cafe beverage,4,dz,unknown,blend,1
+161,male students,2,dz,unknown,blend,1
+162,lunch time,2,dz,unknown,blend,1
+163,school,2,dz,unknown,blend,1
+164,sports event,2,dz,unknown,blend,1
+165,food,2,dz,unknown,blend,2
+166,people from algeria,1,dz,unknown,blend,1
+167,new year's day,2,dz,unknown,blend,1
+168,sport,2,dz,unknown,blend,1
+169,beverage,1,dz,unknown,blend,1
+170,elderly,5,dz,unknown,blend,1
+171,people,1,dz,unknown,blend,1
+172,christmas day,2,dz,unknown,blend,1
+173,teacher,1,teacher,unknown,candle,3
+174,others,2,teacher,unknown,candle,1
+175,giving tests,2,teacher,unknown,candle,1
+176,students,1,teacher,unknown,candle,2
+177,listen,1,teacher,unknown,candle,1
+178,listen,5,teacher,unknown,candle,1
+179,teachers,1,teacher,unknown,candle,1
+180,greet,1,rituals,unknown,candle,1
+181,reviews,4,teacher,unknown,candle,1
+182,attestation,2,teacher,unknown,candle,1
+183,nurse,5,nurse,unknown,candle,1
+184,patient,5,nurse,unknown,candle,2
+185,politician,5,politician,unknown,candle,1
+186,cutting ribbon,2,politician,unknown,candle,1
+187,architect,1,architect,unknown,candle,1
+188,something permanent,2,architect,unknown,candle,1
+189,receptionist,5,occupation,unknown,candle,1
+190,guest,5,person,unknown,candle,1
+191,medical receptionist,4,receptionist,unknown,candle,1

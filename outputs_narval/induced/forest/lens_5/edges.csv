@@ -1,0 +1,62 @@
+source_id,target_id,source_label,target_label,relation_type,weight,source_dataset
+1,2,dietary practice,eating light breakfast,involves,1,arabculture
+3,4,sahoor time,eating light traditional food,involves,1,arabculture
+5,6,ramadan,food,involves,1,arabculture
+6,8,food,cleaning and cooking,involves,1,arabculture
+10,11,customer,sharing iftar among family,involves,1,arabculture
+12,13,algerian ramadan tradition,sharing meals,involves,1,arabculture
+14,15,algeria,special methods,involves,1,arabculture
+6,16,food,fasting,involve,1,arabculture
+17,18,hygiene,common cleaning tools,involves,1,arabculture
+19,20,game,boys and girls,involve,1,arabculture
+21,6,leisure activities,food,involve,1,arabculture
+6,22,food,bank transactions,involve,1,arabculture
+23,24,electricity game,chase,involve,1,arabculture
+25,26,ritual,casket placement,involves,1,arabculture
+5,27,ramadan,fasting from dawn to sunset,involves,1,arabculture
+6,28,food,dunking,involves,1,arabculture
+29,30,cultural practice,gathering for food,involves,1,arabculture
+6,31,food,creating patterns of raised dots,involves,1,diwali
+32,33,ajrakh,multiple stages of dyeing and resist printing,involves,1,diwali
+6,34,food,expressive storytelling,involves,1,diwali
+6,35,food,dance,involves,1,diwali
+36,6,chham dance,food,involves,1,diwali
+6,37,food,artist,involves,1,diwali
+6,38,food,teacher,involves,1,diwali
+35,6,dance,food,involves,1,diwali
+6,39,food,circular movements,involves,1,diwali
+6,40,food,dance and storytelling,involves,1,diwali
+6,41,food,rhythmic clapping,involves,1,diwali
+6,42,food,balancing brass lamps,involves,1,diwali
+6,43,food,traditional instrumental performance,involves,1,diwali
+21,44,leisure activities,"walking, running",involve,1,culturebank
+6,45,food,emotions of excitement and anticipation,involve,1,culturebank
+46,6,dinners,food,involve,1,blend
+14,47,algeria,commemoration of birth,involves,1,blend
+14,6,algeria,food,involves,1,blend
+48,6,rivalries,food,involve,1,blend
+6,49,food,seasonal migration,involves,1,blend
+50,51,during holidays,family activities,involve,1,blend
+6,52,food,cultural festivals,involved_in,1,blend
+53,54,attempt,weight declaration,involves,1,candle
+55,38,process,teacher,involves,1,candle
+56,57,potty training,mentoring,involves,1,candle
+6,29,food,cultural practice,involves,1,candle
+59,60,thinking,cognitive process,involves,1,candle
+62,63,conversation,information,involves,1,candle
+64,65,appointment,planning,involves,1,candle
+66,63,communication,information,involves,1,candle
+67,68,nurse-patient interaction,questions,involves,1,candle
+73,65,photographer,planning,involves,1,candle
+6,73,food,photographer,involves,1,candle
+14,73,algeria,photographer,involve,1,candle
+74,75,landscape photography,early morning shoots,involves,1,candle
+6,25,food,ritual,involves,1,candle
+6,76,food,young girl,involves,1,candle
+6,77,food,restoration,involves,1,candle
+78,79,attorney,buyers and sellers,involves,1,candle
+80,78,immigration,attorney,involves,1,candle
+82,83,preparation,collaboration,involve,1,candle
+85,86,counting,amplifying repeats,involves,1,candle
+6,87,food,paper,involves,1,candle
+89,6,physical exam,food,involves,1,candle

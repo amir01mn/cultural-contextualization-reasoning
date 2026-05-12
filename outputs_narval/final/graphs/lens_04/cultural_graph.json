@@ -1,0 +1,722 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {
+    "name": "cultural_knowledge_graph"
+  },
+  "nodes": [
+    {
+      "id": 0,
+      "label": "human",
+      "level": 0,
+      "cultural_group": "universal",
+      "domain": "identity",
+      "source_dataset": "schema",
+      "frequency": 1
+    },
+    {
+      "id": 1,
+      "label": "monpa woolen weave",
+      "level": 3,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 2,
+      "label": "traditional looms",
+      "level": 4,
+      "cultural_group": "arunachal pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 3,
+      "label": "tangaliya",
+      "level": 3,
+      "cultural_group": "dangasia community",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 4,
+      "label": "weaving technique",
+      "level": 4,
+      "cultural_group": "gujarat",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 5,
+      "label": "kasuti embroidery",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 6,
+      "label": "kasuti",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 7,
+      "label": "karnataka",
+      "level": 2,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 8,
+      "label": "lambani embroidery",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 9,
+      "label": "lambani or banjara community",
+      "level": 3,
+      "cultural_group": "karnataka",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 10,
+      "label": "tribes",
+      "level": 4,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 11,
+      "label": "ryndia",
+      "level": 2,
+      "cultural_group": "meghalaya",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 12,
+      "label": "dhurrie",
+      "level": 4,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 13,
+      "label": "pakistan",
+      "level": 2,
+      "cultural_group": "punjab",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 14,
+      "label": "risa",
+      "level": 3,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 15,
+      "label": "traditional ceremonies",
+      "level": 2,
+      "cultural_group": "tripura",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 16,
+      "label": "kantha embroidery",
+      "level": 3,
+      "cultural_group": "rural women in west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 17,
+      "label": "quilts",
+      "level": 5,
+      "cultural_group": "rural women in west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 18,
+      "label": "bedspreads",
+      "level": 5,
+      "cultural_group": "rural women in west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 19,
+      "label": "sarees",
+      "level": 5,
+      "cultural_group": "rural women in west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 20,
+      "label": "rural women in west bengal",
+      "level": 2,
+      "cultural_group": "west bengal",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 21,
+      "label": "traditional weaving",
+      "level": 4,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 22,
+      "label": "nicobarese people",
+      "level": 2,
+      "cultural_group": "andaman and nicobar islands",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 23,
+      "label": "chindu bhagavatham",
+      "level": 3,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 24,
+      "label": "mythological stories",
+      "level": 4,
+      "cultural_group": "andhra pradesh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 25,
+      "label": "jhumur dance",
+      "level": 3,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 26,
+      "label": "tea garden communities",
+      "level": 4,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 27,
+      "label": "garja dance",
+      "level": 3,
+      "cultural_group": "dimasa tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 28,
+      "label": "assam",
+      "level": 2,
+      "cultural_group": "assam",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 29,
+      "label": "kaksar dance",
+      "level": 3,
+      "cultural_group": "abhujmaria tribe",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 30,
+      "label": "abhujmaria tribe",
+      "level": 2,
+      "cultural_group": "chhattisgarh",
+      "domain": "unknown",
+      "source_dataset": "diwali",
+      "frequency": 1
+    },
+    {
+      "id": 31,
+      "label": "complex taxation practices",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 32,
+      "label": "federal, state, county, and establishment taxes",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 33,
+      "label": "thriftiness",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 34,
+      "label": "general",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 35,
+      "label": "large meal portions",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 36,
+      "label": "meal deals",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 37,
+      "label": "efficient eating habits",
+      "level": 4,
+      "cultural_group": "united states",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 38,
+      "label": "united states",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 39,
+      "label": "health insurance",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 40,
+      "label": "jobs",
+      "level": 3,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 41,
+      "label": "paying for insurance",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 42,
+      "label": "having insurance through jobs",
+      "level": 2,
+      "cultural_group": "general",
+      "domain": "unknown",
+      "source_dataset": "culturebank",
+      "frequency": 1
+    },
+    {
+      "id": 43,
+      "label": "team-building activities",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 44,
+      "label": "companies",
+      "level": 2,
+      "cultural_group": "dz",
+      "domain": "unknown",
+      "source_dataset": "blend",
+      "frequency": 1
+    },
+    {
+      "id": 45,
+      "label": "nurse",
+      "level": 1,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 46,
+      "label": "doctor",
+      "level": 1,
+      "cultural_group": "concept",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 47,
+      "label": "profession",
+      "level": 2,
+      "cultural_group": "nurse",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 48,
+      "label": "martial",
+      "level": 4,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 49,
+      "label": "artist",
+      "level": 5,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 50,
+      "label": "pencil",
+      "level": 5,
+      "cultural_group": "artist",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 51,
+      "label": "architect",
+      "level": 1,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    },
+    {
+      "id": 52,
+      "label": "window well",
+      "level": 5,
+      "cultural_group": "architect",
+      "domain": "unknown",
+      "source_dataset": "candle",
+      "frequency": 1
+    }
+  ],
+  "links": [
+    {
+      "source": 1,
+      "target": 2,
+      "source_label": "monpa woolen weave",
+      "target_label": "traditional looms",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 3,
+      "target": 4,
+      "source_label": "tangaliya",
+      "target_label": "weaving technique",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "source_label": "kasuti embroidery",
+      "target_label": "karnataka",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "source_label": "lambani embroidery",
+      "target_label": "lambani or banjara community",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "source_label": "tribes",
+      "target_label": "ryndia",
+      "relation_type": "traditionally woven",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "source_label": "dhurrie",
+      "target_label": "pakistan",
+      "relation_type": "practiced in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "source_label": "risa",
+      "target_label": "traditional ceremonies",
+      "relation_type": "part of",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 16,
+      "target": 20,
+      "source_label": "kantha embroidery",
+      "target_label": "rural women in west bengal",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 21,
+      "target": 22,
+      "source_label": "traditional weaving",
+      "target_label": "nicobarese people",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 23,
+      "target": 24,
+      "source_label": "chindu bhagavatham",
+      "target_label": "mythological stories",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 25,
+      "target": 26,
+      "source_label": "jhumur dance",
+      "target_label": "tea garden communities",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 27,
+      "target": 28,
+      "source_label": "garja dance",
+      "target_label": "assam",
+      "relation_type": "practiced in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 29,
+      "target": 30,
+      "source_label": "kaksar dance",
+      "target_label": "abhujmaria tribe",
+      "relation_type": "practiced in",
+      "weight": 1,
+      "source_dataset": "diwali"
+    },
+    {
+      "source": 31,
+      "target": 32,
+      "source_label": "complex taxation practices",
+      "target_label": "federal, state, county, and establishment taxes",
+      "relation_type": "includes",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 33,
+      "target": 34,
+      "source_label": "thriftiness",
+      "target_label": "general",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 35,
+      "target": 38,
+      "source_label": "large meal portions",
+      "target_label": "united states",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 36,
+      "target": 38,
+      "source_label": "meal deals",
+      "target_label": "united states",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 37,
+      "target": 38,
+      "source_label": "efficient eating habits",
+      "target_label": "united states",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 39,
+      "target": 41,
+      "source_label": "health insurance",
+      "target_label": "paying for insurance",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 39,
+      "target": 42,
+      "source_label": "health insurance",
+      "target_label": "having insurance through jobs",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 39,
+      "target": 40,
+      "source_label": "health insurance",
+      "target_label": "jobs",
+      "relation_type": "is linked to",
+      "weight": 1,
+      "source_dataset": "culturebank"
+    },
+    {
+      "source": 43,
+      "target": 44,
+      "source_label": "team-building activities",
+      "target_label": "companies",
+      "relation_type": "practiced in",
+      "weight": 1,
+      "source_dataset": "blend"
+    },
+    {
+      "source": 45,
+      "target": 47,
+      "source_label": "nurse",
+      "target_label": "profession",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 46,
+      "target": 47,
+      "source_label": "doctor",
+      "target_label": "profession",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 49,
+      "target": 50,
+      "source_label": "artist",
+      "target_label": "pencil",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "candle"
+    },
+    {
+      "source": 51,
+      "target": 52,
+      "source_label": "architect",
+      "target_label": "window well",
+      "relation_type": "practices",
+      "weight": 1,
+      "source_dataset": "candle"
+    }
+  ]
+}
